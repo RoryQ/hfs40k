@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010034409/http://holyfuckingshit4
 date: Wednesday, December 24, 2008
 original_url: http://holyfuckingshit40000.blogspot.com/2008/12/worrytrain-fog-dance-my-moth-kingdom.html
 title: Worrytrain - Fog Dance My Moth Kingdom (2007)
+artist: Worrytrain
+album: Fog Dance My Moth Kingdom
+spotify_url: https://open.spotify.com/search/Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
+apple_music_url: https://music.apple.com/us/search?term=Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
+youtube_url: https://www.youtube.com/results?search_query=Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010034409im_/http://i41.tinypic.com/8ygbgi.jpg)](https://web.archive.org/web/20111010034409/http://i41.tinypic.com/8ygbgi.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095810/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/thelonious-monk-brilliant-corners-flac.html
 title: Thelonious Monk - Brilliant Corners (FLAC)
+artist: Thelonious Monk
+album: Brilliant Corners
+spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20Brilliant%20Corners
+apple_music_url: https://music.apple.com/us/search?term=Thelonious%20Monk%20Brilliant%20Corners
+youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Brilliant%20Corners
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095810im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S_mAvezbHXI/AAAAAAAAApk/MpDDxuaT_OU/s400/thelonious-monk-brilliant-corners.jpg)](https://web.archive.org/web/20111010095810/http://4.bp.blogspot.com/_cLI19EXK2oU/S_mAvezbHXI/AAAAAAAAApk/MpDDxuaT_OU/s1600/thelonious-monk-brilliant-corners.jpg)  
 From the wonderful documentary "Straight, No Chaser", we know that the Baroness Pannonica de Koenigswarter was born a Rothschild, flew bombers during WWII in de Gaulle's resistance, then came to New York and became one of the foremost patrons of jazz, close friends with Parker, Thelonious, and countless others. Complex lady. Complex tune as well, and one of Monk's most beautiful.  

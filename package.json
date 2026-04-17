@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@astrojs/tailwind": "^6.0.2",
+    "lucide-astro": "^0.556.0",
+    "tailwindcss": "^4.2.2"
+  }
+}

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010044907/http://holyfuckingshit4
 date: Friday, April 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/filteria-operation-pulse-flac.html
 title: Filteria - Operation Pulse FLAC
+artist: Filteria
+album: Operation Pulse FLAC
+spotify_url: https://open.spotify.com/search/Filteria%20Operation%20Pulse%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Filteria%20Operation%20Pulse%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Filteria%20Operation%20Pulse%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010044907im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9F3o0z_lYI/AAAAAAAAAKM/kP_h3sLn4E0/s400/folder.jpg)](https://web.archive.org/web/20111010044907/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9F3o0z_lYI/AAAAAAAAAKM/kP_h3sLn4E0/s1600/folder.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083403/http://holyfuckingshit4
 date: Wednesday, March 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/yamasuki-singers-le-monde-fabuleux-de.html
 title: Yamasuki Singers - Le Monde Fabuleux de Yamasuki
+artist: Yamasuki Singers
+album: Le Monde Fabuleux de Yamasuki
+spotify_url: https://open.spotify.com/search/Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
+apple_music_url: https://music.apple.com/us/search?term=Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
+youtube_url: https://www.youtube.com/results?search_query=Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083403im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S7QfsWKitlI/AAAAAAAAAc0/bitmYUT850o/s400/286535.jpg)](https://web.archive.org/web/20111010083403/http://2.bp.blogspot.com/_cLI19EXK2oU/S7QfsWKitlI/AAAAAAAAAc0/bitmYUT850o/s1600/286535.jpg)  
   

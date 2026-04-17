@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175143/http://holyfuckingshit4
 date: Friday, June 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/les-rallizes-denudes-77-v0.html
 title: "Les Rallizes De\u0301nude\u0301s - '77 (v0)"
+artist: "Les Rallizes De\u0301nude\u0301s"
+album: '''77'
+spotify_url: https://open.spotify.com/search/Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
+apple_music_url: https://music.apple.com/us/search?term=Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
+youtube_url: https://www.youtube.com/results?search_query=Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175143im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TBJKmX1aW5I/AAAAAAAAAtM/Wg6XWHv0yWE/s400/R-1031640-1227952287.jpg)](https://web.archive.org/web/20111010175143/http://4.bp.blogspot.com/_cLI19EXK2oU/TBJKmX1aW5I/AAAAAAAAAtM/Wg6XWHv0yWE/s1600/R-1031640-1227952287.jpg)  
 Les Rallizes Dénudés in fact were attempting to annihilate every Asian giant hornet in Japan.  

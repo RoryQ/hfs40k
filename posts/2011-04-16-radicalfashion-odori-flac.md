@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145926/http://holyfuckingshit4
 date: Saturday, April 16, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/radicalfashion-odori-flac.html
 title: Radicalfashion - Odori (FLAC)
+artist: Radicalfashion
+album: Odori
+spotify_url: https://open.spotify.com/search/Radicalfashion%20Odori
+apple_music_url: https://geo.music.apple.com/au/album/_/209728262?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Radicalfashion%20Odori
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145926im_/http://4.bp.blogspot.com/-A0bx_JEArM0/TavC_3V7e4I/AAAAAAAAAAc/aCyxDxlO09U/s400/08%2BRadicalfashion%2B-%2BToh-Koh.png)](https://web.archive.org/web/20111010145926/http://4.bp.blogspot.com/-A0bx_JEArM0/TavC_3V7e4I/AAAAAAAAAAc/aCyxDxlO09U/s1600/08%2BRadicalfashion%2B-%2BToh-Koh.png)  
   

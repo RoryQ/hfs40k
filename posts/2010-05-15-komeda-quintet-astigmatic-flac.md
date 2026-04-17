@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100007/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/komeda-quintet-astigmatic-flac.html
 title: Komeda Quintet - Astigmatic (FLAC)
+artist: Komeda Quintet
+album: Astigmatic
+spotify_url: https://open.spotify.com/search/Komeda%20Quintet%20Astigmatic
+apple_music_url: https://geo.music.apple.com/au/album/_/1122115415?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Komeda%20Quintet%20Astigmatic
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100007im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S-7EodEPO1I/AAAAAAAAAmM/nPIgbmQppCA/s400/muza-sxl0298.jpg)](https://web.archive.org/web/20111010100007/http://1.bp.blogspot.com/_cLI19EXK2oU/S-7EodEPO1I/AAAAAAAAAmM/nPIgbmQppCA/s1600/muza-sxl0298.jpg)  
 Quite possibly the most quintessential european jazz album of all time.  

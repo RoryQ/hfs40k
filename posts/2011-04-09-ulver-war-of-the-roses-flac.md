@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145957/http://holyfuckingshit4
 date: Saturday, April 9, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/ulver-war-of-roses-flac.html
 title: Ulver - War of the Roses [FLAC]
+artist: Ulver
+album: War of the Roses
+spotify_url: https://open.spotify.com/search/Ulver%20War%20of%20the%20Roses
+apple_music_url: https://music.apple.com/us/search?term=Ulver%20War%20of%20the%20Roses
+youtube_url: https://www.youtube.com/results?search_query=Ulver%20War%20of%20the%20Roses
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145957im_/http://1.bp.blogspot.com/-NZ1uOOGQR0w/TaEePDP9W8I/AAAAAAAAAIw/9TMqJHERVqo/s400/Cover.jpg)](https://web.archive.org/web/20111010145957/http://1.bp.blogspot.com/-NZ1uOOGQR0w/TaEePDP9W8I/AAAAAAAAAIw/9TMqJHERVqo/s1600/Cover.jpg)
 

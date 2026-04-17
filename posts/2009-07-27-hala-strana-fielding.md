@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010142429/http://holyfuckingshit4
 date: Monday, July 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/hala-strana-fielding.html
 title: Hala Strana - Fielding
+artist: Hala Strana
+album: Fielding
+spotify_url: https://open.spotify.com/search/Hala%20Strana%20Fielding
+apple_music_url: https://music.apple.com/us/search?term=Hala%20Strana%20Fielding
+youtube_url: https://www.youtube.com/results?search_query=Hala%20Strana%20Fielding
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010142429im_/http://1.bp.blogspot.com/_cLI19EXK2oU/Sm6Lf6vBEpI/AAAAAAAAAQg/M97PWtSVzpw/s400/picture6a.png)](https://web.archive.org/web/20111010142429/http://1.bp.blogspot.com/_cLI19EXK2oU/Sm6Lf6vBEpI/AAAAAAAAAQg/M97PWtSVzpw/s1600-h/picture6a.png)  
 There have been countless times when I have considered starting a dream journal and keeping it by the side of my bed for when I feel inspired, although that would surely harm my undoubtedly macho image if anyone were to find it. Nonetheless, I have an awful, *awful* habit of not remembering my dreams, and this is even more aggravating when I hear music reverberating in my thoughts and visions. I’m sure most people here can relate. The thing is, music created in your dreams is always *amazing*. It is the sounds locked away in the unconscious that we just don’t have the focus or talent to create in the real world. And it will always be born from the music you hold so dear - the music that is powerful enough to play on our minds to reach us even in the deepest of sleeps - so it is natural that we feel those brief few seconds of infatuation.  

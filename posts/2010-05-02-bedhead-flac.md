@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100022/http://holyfuckingshit4
 date: Sunday, May 2, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/bedhead-flac.html
 title: Bedhead [FLAC]
+artist: Bedhead
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 One of the slowcore definers in the early 90s. They play their music with three guitars in the line-up. And you know what? Steve Albini was sitting behind the mix board for Transaction de Novo.  
 Just as brilliant as your slowcore heroes like Galaxie 500, Low, or Codeine.  

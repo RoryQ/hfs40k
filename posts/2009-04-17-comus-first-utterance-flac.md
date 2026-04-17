@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010130651/http://holyfuckingshit4
 date: Friday, April 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/comus-first-utterance-flac.html
 title: Comus - First Utterance (FLAC)
+artist: Comus
+album: First Utterance
+spotify_url: https://open.spotify.com/search/Comus%20First%20Utterance
+apple_music_url: https://music.apple.com/us/search?term=Comus%20First%20Utterance
+youtube_url: https://www.youtube.com/results?search_query=Comus%20First%20Utterance
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010130651im_/http://3.bp.blogspot.com/_5cVyPU93ihM/SejkRBzEszI/AAAAAAAAAD4/Ba3hr4fJemE/s320/Front.jpg)](https://web.archive.org/web/20111010130651/http://3.bp.blogspot.com/_5cVyPU93ihM/SejkRBzEszI/AAAAAAAAAD4/Ba3hr4fJemE/s1600-h/Front.jpg)  
 Music that is fun for all the family. Too bad they never made a second album.  

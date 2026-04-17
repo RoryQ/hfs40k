@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093844/http://holyfuckingshit4
 date: Wednesday, May 11, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/gun-club-fire-of-love-flac.html
 title: The Gun Club - Fire Of Love (FLAC)
+artist: The Gun Club
+album: Fire Of Love
+spotify_url: https://open.spotify.com/search/The%20Gun%20Club%20Fire%20Of%20Love
+apple_music_url: https://geo.music.apple.com/au/album/_/1137640898?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Gun%20Club%20Fire%20Of%20Love
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093844im_/http://4.bp.blogspot.com/-CZWXgZNIQfs/Tcrge9s4m0I/AAAAAAAAA9U/Z1m9rT_-N3A/s400/front.jpeg)](https://web.archive.org/web/20111010093844/http://4.bp.blogspot.com/-CZWXgZNIQfs/Tcrge9s4m0I/AAAAAAAAA9U/Z1m9rT_-N3A/s1600/front.jpeg)  
 "Gonna buy me a graveyard of my own  

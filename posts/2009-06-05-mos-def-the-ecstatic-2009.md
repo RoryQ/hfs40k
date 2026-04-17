@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091622/http://holyfuckingshit4
 date: Friday, June 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/mos-def-ecstatic-2009.html
 title: Mos Def - The Ecstatic (2009)
+artist: Mos Def
+album: The Ecstatic
+spotify_url: https://open.spotify.com/search/Mos%20Def%20The%20Ecstatic
+apple_music_url: https://geo.music.apple.com/au/album/_/1444012712?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Mos%20Def%20The%20Ecstatic
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091622im_/http://2.bp.blogspot.com/_U_-AMxSHIOo/SilR982bX2I/AAAAAAAAAAU/HF24CUhDdZs/s320/1300142.jpg)](https://web.archive.org/web/20111010091622/http://2.bp.blogspot.com/_U_-AMxSHIOo/SilR982bX2I/AAAAAAAAAAU/HF24CUhDdZs/s1600-h/1300142.jpg)  
   

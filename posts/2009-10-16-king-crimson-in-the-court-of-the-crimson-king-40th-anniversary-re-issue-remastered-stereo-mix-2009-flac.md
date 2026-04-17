@@ -4,7 +4,15 @@ date: Friday, October 16, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/king-crimson-in-court-of-crimson-king.html
 title: King Crimson - In the Court of the Crimson King (40th Anniversary re-issue
   / Remastered / Stereo Mix) (2009) [FLAC]
+artist: King Crimson
+album: In the Court of the Crimson King
+spotify_url: https://open.spotify.com/search/King%20Crimson%20In%20the%20Court%20of%20the%20Crimson%20King
+apple_music_url: https://geo.music.apple.com/au/album/_/918534711?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20In%20the%20Court%20of%20the%20Crimson%20King
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033030im_/http://3.bp.blogspot.com/_7ZAm7Q56iwM/SthzUX8bskI/AAAAAAAAAOE/cLXUFs92J-o/s320/o2523634.jpg)](https://web.archive.org/web/20111010033030/http://3.bp.blogspot.com/_7ZAm7Q56iwM/SthzUX8bskI/AAAAAAAAAOE/cLXUFs92J-o/s1600-h/o2523634.jpg)
 

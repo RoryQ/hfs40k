@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008162623/http://holyfuckingshit4
 date: Friday, June 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/john-zorn-circle-maker-flac.html
 title: John Zorn - The Circle Maker (FLAC)
+artist: John Zorn
+album: The Circle Maker
+spotify_url: https://open.spotify.com/search/John%20Zorn%20The%20Circle%20Maker
+apple_music_url: https://music.apple.com/us/search?term=John%20Zorn%20The%20Circle%20Maker
+youtube_url: https://www.youtube.com/results?search_query=John%20Zorn%20The%20Circle%20Maker
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008162623im_/http://2.bp.blogspot.com/-w2rKQu8xW2A/TekqFL_qHGI/AAAAAAAAA-U/pYs180vzGyk/s400/circle.jpg)](https://web.archive.org/web/20111008162623/http://2.bp.blogspot.com/-w2rKQu8xW2A/TekqFL_qHGI/AAAAAAAAA-U/pYs180vzGyk/s1600/circle.jpg)  
 \_The Circle Maker\_, a two-disc collection of Jewish chamber jazz, is one of my favorite items to bear John Zorn's name. Zorn does not actually perform on either of these discs -- they are songs from the Masada songbook rearranged for two different formats. As is typical with Zorn, the musicians he employs are world-class wonders proficient in jazz and classical, imbuing the pieces with feel and lyricism and mature consideration.

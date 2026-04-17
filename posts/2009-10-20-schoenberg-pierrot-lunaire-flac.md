@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010033121/http://holyfuckingshit4
 date: Tuesday, October 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/schoenberg-pierrot-lunaire-flac.html
 title: Schoenberg - Pierrot Lunaire [FLAC]
+artist: Schoenberg
+album: Pierrot Lunaire
+spotify_url: https://open.spotify.com/search/Schoenberg%20Pierrot%20Lunaire
+apple_music_url: https://music.apple.com/us/search?term=Schoenberg%20Pierrot%20Lunaire
+youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Pierrot%20Lunaire
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033121im_/http://www.musicweb-international.com/classRev/2007/Aug07/Schoenberg_pierrot_8557523.gif)](https://web.archive.org/web/20111010033121/http://www.musicweb-international.com/classRev/2007/Aug07/Schoenberg_pierrot_8557523.gif)This is too atonal for me. I can send the CD to you for Christmas if you want  
 

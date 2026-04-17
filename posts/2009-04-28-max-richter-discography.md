@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010131352/http://holyfuckingshit4
 date: Tuesday, April 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/max-richter.html
 title: Max Richter - Discography
+artist: Max Richter
+album: Discography
+spotify_url: https://open.spotify.com/search/Max%20Richter%20Discography
+apple_music_url: https://geo.music.apple.com/au/album/_/1368089903?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Max%20Richter%20Discography
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010131352im_/http://3.bp.blogspot.com/_X0HDv9LMCK8/SffumIDdZ_I/AAAAAAAAABs/ex8oyNJ-j-8/s400/135753.jpg)](https://web.archive.org/web/20111010131352/http://3.bp.blogspot.com/_X0HDv9LMCK8/SffumIDdZ_I/AAAAAAAAABs/ex8oyNJ-j-8/s1600-h/135753.jpg)Memoryhouse (2002)  
 [Download](https://web.archive.org/web/20111010131352/http://www.megaupload.com/?d=3IVD0UVO) (320)  

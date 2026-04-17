@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111115042416/http://holyfuckingshit4
 date: Friday, May 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/cure-disintegration-flac.html
 title: The Cure - Disintegration (FLAC)
+artist: The Cure
+album: Disintegration
+spotify_url: https://open.spotify.com/search/The%20Cure%20Disintegration
+apple_music_url: https://music.apple.com/us/search?term=The%20Cure%20Disintegration
+youtube_url: https://www.youtube.com/results?search_query=The%20Cure%20Disintegration
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111115042416im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S_a8rvOsnVI/AAAAAAAAAns/0JndDpGW-iU/s400/thecure.jpg)](https://web.archive.org/web/20111115042416/http://3.bp.blogspot.com/_cLI19EXK2oU/S_a8rvOsnVI/AAAAAAAAAns/0JndDpGW-iU/s1600/thecure.jpg)  
 The music on this record has an incredibly beautiful melancholy to it. Most of the songs have a slow tempo and just ooze with a dark moodiness that makes you feel. I don't know that it can make everyone feel the same, but it will definitely make you feel.

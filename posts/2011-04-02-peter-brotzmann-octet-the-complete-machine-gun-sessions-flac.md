@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145726/http://holyfuckingshit4
 date: Saturday, April 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/peter-brotzmann-octet-complete-machine.html
 title: Peter Brotzmann Octet - The Complete Machine Gun Sessions (FLAC)
+artist: Peter Brotzmann Octet
+album: The Complete Machine Gun Sessions
+spotify_url: https://open.spotify.com/search/Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
+apple_music_url: https://music.apple.com/us/search?term=Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
+youtube_url: https://www.youtube.com/results?search_query=Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145726im_/http://1.bp.blogspot.com/-geZndEg6KbQ/TZdDtFYH4JI/AAAAAAAAA7M/vvO26fxdyXE/s400/machinegun.jpg)](https://web.archive.org/web/20111010145726/http://1.bp.blogspot.com/-geZndEg6KbQ/TZdDtFYH4JI/AAAAAAAAA7M/vvO26fxdyXE/s1600/machinegun.jpg)  
 The Unheard Music series and Atavisitc Records have done well by releasing Peter Brotzmann's MACHINE GUN, a landmark in European Improv. Originally released in 1968, it was until now only available on CD as a pricey German import on FMP Records.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145521/http://holyfuckingshit4
 date: Saturday, August 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/al-pacino-songs-of-love-and-hate-flac.html
 title: Al Pacino - Songs of Love and Hate (FLAC)
+artist: Al Pacino
+album: Songs of Love and Hate
+spotify_url: https://open.spotify.com/search/Al%20Pacino%20Songs%20of%20Love%20and%20Hate
+apple_music_url: https://music.apple.com/us/search?term=Al%20Pacino%20Songs%20of%20Love%20and%20Hate
+youtube_url: https://www.youtube.com/results?search_query=Al%20Pacino%20Songs%20of%20Love%20and%20Hate
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145521im_/http://1.bp.blogspot.com/_cLI19EXK2oU/Sn48eqoW6mI/AAAAAAAAARg/iMSTECcjlpI/s400/songsofloveandhate.jpg)](https://web.archive.org/web/20111010145521/http://1.bp.blogspot.com/_cLI19EXK2oU/Sn48eqoW6mI/AAAAAAAAARg/iMSTECcjlpI/s1600-h/songsofloveandhate.jpg)  
 Without a doubt this is Cohen's darkest, most ambitious & quite possibly most depressing record. I think he inadvertently created a whole new genre here---Death Folk. Self proclaimed fans range from Kurt Cobain to Nick Cave.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093852/http://holyfuckingshit4
 date: Friday, May 13, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/tom-waits-real-gone-flac.html
 title: Tom Waits - Real Gone (FLAC)
+artist: Tom Waits
+album: Real Gone
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Real%20Gone
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Real%20Gone
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Real%20Gone
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093852im_/http://2.bp.blogspot.com/-vI9DbVNYbzo/Tc3HffXp7yI/AAAAAAAAA9c/3PMoo1fxo0M/s400/8565-real-gone.jpg)](https://web.archive.org/web/20111010093852/http://2.bp.blogspot.com/-vI9DbVNYbzo/Tc3HffXp7yI/AAAAAAAAA9c/3PMoo1fxo0M/s1600/8565-real-gone.jpg)  
 Tom Waits, as usual, has produced another classic. It should be noted, however, that "Real Gone" is a really gritty, avant-garde effort. The sonic texture of the album is akin to some of the tunes on "Bone Machine" with a tinge of the sweaty grit of the more raucous parts of "Mule Variations" (e.g., the texture found on the rough and funky "Filipino Box Spring Hog"). If you are a fan of Waits' last few albums, you will enjoy "Real Gone." If what you enjoy about Waits' music is his piano playing, well, this is one you can skip--there is no piano whatsoever on this CD.   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081138/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/red-house-painters-red-house-painters.html
 title: Red House Painters - Red House Painters [Rollercoaster] FLAC
+artist: Red House Painters
+album: Red House Painters
+spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Red%20House%20Painters
+apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Red%20House%20Painters
+youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Red%20House%20Painters
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081138im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S4t8TudsbvI/AAAAAAAAAAU/IUYj66PUN1s/s400/RHP-Rollercoaster.jpg)](https://web.archive.org/web/20111010081138/http://4.bp.blogspot.com/_t6lWjgwMoxw/S4t8TudsbvI/AAAAAAAAAAU/IUYj66PUN1s/s1600-h/RHP-Rollercoaster.jpg)  
   

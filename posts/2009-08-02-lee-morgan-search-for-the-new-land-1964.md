@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145209/http://holyfuckingshit4
 date: Sunday, August 2, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/lee-morgan-search-for-new-land-1964.html
 title: Lee Morgan - Search for the New Land (1964)
+artist: Lee Morgan
+album: Search for the New Land
+spotify_url: https://open.spotify.com/search/Lee%20Morgan%20Search%20for%20the%20New%20Land
+apple_music_url: https://geo.music.apple.com/au/album/_/715959707?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Lee%20Morgan%20Search%20for%20the%20New%20Land
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145209im_/http://3.bp.blogspot.com/_JdyrURA7JYI/SnX4zs1ty1I/AAAAAAAAAFw/vyiEno-e1XI/s400/leesearch.PNG)](https://web.archive.org/web/20111010145209/http://3.bp.blogspot.com/_JdyrURA7JYI/SnX4zs1ty1I/AAAAAAAAAFw/vyiEno-e1XI/s1600-h/leesearch.PNG)Just another great hard bop album by Lee and the gang. All songs are composed by him.  
   

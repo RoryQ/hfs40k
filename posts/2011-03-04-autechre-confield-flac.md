@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111227215536/http://holyfuckingshit4
 date: Friday, March 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/autechre-confield-flac.html
 title: Autechre - Confield (FLAC)
+artist: Autechre
+album: Confield
+spotify_url: https://open.spotify.com/search/Autechre%20Confield
+apple_music_url: https://geo.music.apple.com/au/album/_/282571770?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Autechre%20Confield
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111227215536im_/http://1.bp.blogspot.com/-ZMqHLdmUCLc/TXGJ1crczNI/AAAAAAAAA6M/85faSvsO1Ig/s400/confield.jpeg)](https://web.archive.org/web/20111227215536/http://1.bp.blogspot.com/-ZMqHLdmUCLc/TXGJ1crczNI/AAAAAAAAA6M/85faSvsO1Ig/s1600/confield.jpeg)  
 When my friends get bored with what they're listening to and want to hear something original (and by original I mean that they've played out most other types of EBM, electonica, 4/4s, and need something altogether different), I always buy them Autechre CD to try on for size. The reason that works so well is because Autechre can be likened "noise pioneers," building better electronic sandcastles for the kid that has everything and still wants more, and they do through means that aren't easily manipulated. They take experimental portions of layering, hinging backgrounds of beat onto curtains of effect, and they birth articles of clothing no album I've owned before has ever worn. From the early mornings where they crafted ambient sounds to the experimental "now" that puts them totally ahead in the arms race, its really something "unique" (a word I try not to use much because of sounds like these) to form an addiction around.

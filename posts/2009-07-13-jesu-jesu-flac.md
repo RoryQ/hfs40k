@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141444/http://holyfuckingshit4
 date: Monday, July 13, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/jesu-jesu-flac.html
 title: Jesu - Jesu (FLAC)
+artist: Jesu
+album: Jesu
+spotify_url: https://open.spotify.com/search/Jesu%20Jesu
+apple_music_url: https://music.apple.com/us/search?term=Jesu%20Jesu
+youtube_url: https://www.youtube.com/results?search_query=Jesu%20Jesu
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141444im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SfBTv-GDSfI/AAAAAAAAADo/y14wFN1XJ7o/s400/jesu.jpg)](https://web.archive.org/web/20111010141444/http://1.bp.blogspot.com/_cLI19EXK2oU/SfBTv-GDSfI/AAAAAAAAADo/y14wFN1XJ7o/s1600-h/jesu.jpg)  
 nostalghia's request  

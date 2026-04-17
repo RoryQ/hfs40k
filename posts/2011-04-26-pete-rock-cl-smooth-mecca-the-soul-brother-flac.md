@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145940/http://holyfuckingshit4
 date: Tuesday, April 26, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/pete-rock-cl-smooth-mecca-soul-brother.html
 title: Pete Rock & C.L. Smooth - Mecca & The Soul Brother (FLAC)
+artist: Pete Rock & C.L. Smooth
+album: Mecca & The Soul Brother
+spotify_url: https://open.spotify.com/search/Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
+apple_music_url: https://music.apple.com/us/search?term=Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
+youtube_url: https://www.youtube.com/results?search_query=Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145940im_/http://1.bp.blogspot.com/-Ury7BXcMdTc/TbcIeaZuh5I/AAAAAAAAA8U/Cl8_VNCeUBw/s400/180061_1_f.jpg)](https://web.archive.org/web/20111010145940/http://1.bp.blogspot.com/-Ury7BXcMdTc/TbcIeaZuh5I/AAAAAAAAA8U/Cl8_VNCeUBw/s1600/180061_1_f.jpg)  
   

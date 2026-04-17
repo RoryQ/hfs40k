@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140305/http://holyfuckingshit4
 date: Thursday, July 23, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/in-woods-heart-of-ages-flac.html
 title: In The Woods... - HEart Of The Ages [FLAC]
+artist: In The Woods...
+album: HEart Of The Ages
+spotify_url: https://open.spotify.com/search/In%20The%20Woods...%20HEart%20Of%20The%20Ages
+apple_music_url: https://geo.music.apple.com/au/album/_/1511605347?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=In%20The%20Woods...%20HEart%20Of%20The%20Ages
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140305im_/http://4.bp.blogspot.com/_TSxXUm0_hPM/SmjGqKYZDvI/AAAAAAAABdM/HWvKFbfnWpI/s400/cover.jpg)](https://web.archive.org/web/20111010140305/http://4.bp.blogspot.com/_TSxXUm0_hPM/SmjGqKYZDvI/AAAAAAAABdM/HWvKFbfnWpI/s1600-h/cover.jpg)  
 Good Black Metal album.  

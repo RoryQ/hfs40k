@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111116013051/http://holyfuckingshit4
 date: Wednesday, June 15, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/black-tambourine-complete-recordings.html
 title: Black Tambourine - Complete Recordings [FLAC]
+artist: Black Tambourine
+album: Complete Recordings
+spotify_url: https://open.spotify.com/search/Black%20Tambourine%20Complete%20Recordings
+apple_music_url: https://music.apple.com/us/search?term=Black%20Tambourine%20Complete%20Recordings
+youtube_url: https://www.youtube.com/results?search_query=Black%20Tambourine%20Complete%20Recordings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111116013051im_/http://1.bp.blogspot.com/-eyx5P7EO18w/TflNBjw3fnI/AAAAAAAAALY/MlZvzuZerS0/s320/1356004-black-tambourine-complete-recordings.jpg)](https://web.archive.org/web/20111116013051/http://1.bp.blogspot.com/-eyx5P7EO18w/TflNBjw3fnI/AAAAAAAAALY/MlZvzuZerS0/s1600/1356004-black-tambourine-complete-recordings.jpg)  
   

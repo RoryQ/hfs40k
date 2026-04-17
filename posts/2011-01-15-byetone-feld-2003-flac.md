@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071104/http://holyfuckingshit4
 date: Saturday, January 15, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/01/byetone-feld-2003-flac.html
 title: Byetone - Feld (2003, FLAC)
+artist: Byetone
+album: Feld
+spotify_url: https://open.spotify.com/search/Byetone%20Feld
+apple_music_url: https://music.apple.com/us/search?term=Byetone%20Feld
+youtube_url: https://www.youtube.com/results?search_query=Byetone%20Feld
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071104im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/TTFxKtxMNAI/AAAAAAAAAfU/iftksFGPWAs/s400/CS1414007-02A-BIG.jpg)](https://web.archive.org/web/20111010071104/http://2.bp.blogspot.com/_t6lWjgwMoxw/TTFxKtxMNAI/AAAAAAAAAfU/iftksFGPWAs/s1600/CS1414007-02A-BIG.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111031085627/http://holyfuckingshit4
 date: Monday, August 31, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/dj-shadow-endtroducing-flac.html
 title: DJ Shadow - Endtroducing..... (FLAC)
+artist: DJ Shadow
+album: Endtroducing.....
+spotify_url: https://open.spotify.com/search/DJ%20Shadow%20Endtroducing.....
+apple_music_url: https://geo.music.apple.com/au/album/_/1569898039?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Endtroducing.....
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111031085627im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SpxsXp0DooI/AAAAAAAAAS4/lm-POEGfbXM/s400/endtroducing.jpg)](https://web.archive.org/web/20111031085627/http://4.bp.blogspot.com/_cLI19EXK2oU/SpxsXp0DooI/AAAAAAAAAS4/lm-POEGfbXM/s1600-h/endtroducing.jpg)  
   

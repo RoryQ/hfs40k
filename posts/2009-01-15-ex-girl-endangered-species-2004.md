@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042637/http://holyfuckingshit4
 date: Thursday, January 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/ex-girl-endangered-species-2004.html
 title: eX-Girl - Endangered Species (2004)
+artist: eX
+album: Girl - Endangered Species
+spotify_url: https://open.spotify.com/search/eX%20Girl%20-%20Endangered%20Species
+apple_music_url: https://music.apple.com/us/search?term=eX%20Girl%20-%20Endangered%20Species
+youtube_url: https://www.youtube.com/results?search_query=eX%20Girl%20-%20Endangered%20Species
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042637im_/http://i182.photobucket.com/albums/x163/K49-DD/exgirl.png)](https://web.archive.org/web/20111010042637/http://i182.photobucket.com/albums/x163/K49-DD/exgirl.png)  
 Genre: Experimental Rock  

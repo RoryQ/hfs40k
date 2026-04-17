@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010034807/http://holyfuckingshit4
 date: Monday, August 15, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/hawkwind-in-search-of-space-flac.html
 title: Hawkwind - In Search of Space (FLAC)
+artist: Hawkwind
+album: In Search of Space
+spotify_url: https://open.spotify.com/search/Hawkwind%20In%20Search%20of%20Space
+apple_music_url: https://music.apple.com/us/search?term=Hawkwind%20In%20Search%20of%20Space
+youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20In%20Search%20of%20Space
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010034807im_/http://2.bp.blogspot.com/-eGdjQWJ7ruc/Tkl9adyNc0I/AAAAAAAABBQ/W5c7tQvTv1g/s400/cover_22381617102008.jpg)](https://web.archive.org/web/20111010034807/http://2.bp.blogspot.com/-eGdjQWJ7ruc/Tkl9adyNc0I/AAAAAAAABBQ/W5c7tQvTv1g/s1600/cover_22381617102008.jpg)
   

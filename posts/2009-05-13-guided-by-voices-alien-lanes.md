@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155511/http://holyfuckingshit4
 date: Wednesday, May 13, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/guided-by-voices-alien-lanes.html
 title: Guided by Voices - Alien Lanes
+artist: Guided by Voices
+album: Alien Lanes
+spotify_url: https://open.spotify.com/search/Guided%20by%20Voices%20Alien%20Lanes
+apple_music_url: https://music.apple.com/us/search?term=Guided%20by%20Voices%20Alien%20Lanes
+youtube_url: https://www.youtube.com/results?search_query=Guided%20by%20Voices%20Alien%20Lanes
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155511im_/http://2.bp.blogspot.com/_A31Dfz4S5yg/SgtMvVWvsnI/AAAAAAAAADE/fVfdHeFRIKQ/s320/alienlanes.jpg)](https://web.archive.org/web/20111008155511/http://2.bp.blogspot.com/_A31Dfz4S5yg/SgtMvVWvsnI/AAAAAAAAADE/fVfdHeFRIKQ/s1600-h/alienlanes.jpg)Qualo-fi follow-up.  
   

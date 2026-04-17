@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095559/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/dexter-gordon-go-flac.html
 title: Dexter Gordon - Go! (FLAC)
+artist: Dexter Gordon
+album: Go!
+spotify_url: https://open.spotify.com/search/Dexter%20Gordon%20Go%21
+apple_music_url: https://music.apple.com/us/search?term=Dexter%20Gordon%20Go%21
+youtube_url: https://www.youtube.com/results?search_query=Dexter%20Gordon%20Go%21
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095559im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S-674w9tRiI/AAAAAAAAAlU/VZdR0l4FQPA/s400/acae225b9da080da88d8f010-l.jpg)](https://web.archive.org/web/20111010095559/http://1.bp.blogspot.com/_cLI19EXK2oU/S-674w9tRiI/AAAAAAAAAlU/VZdR0l4FQPA/s1600/acae225b9da080da88d8f010-l.jpg)  
 Clocking in around 37 minutes (and no alternate takes/previously unreleased stuff), this isn't one of the longest RVGs you'll ever buy, but it certainly is a great one! I too am a bit dismayed at seeing this one panned as "diet jazz". Following too closely to the melody line seems an odd criticism for this disc, to me. Dexter is melodic as all (!!!!), but they are his own melodies, spiraling out of his horn on the spot. He isn't just riffing on the "head melody" over and over again. Not even close. His melodic invention here is actually quite fantastic... from masterfully placed (and played with) quotes, to just straight-up building out from the starting point. As far as I am concerned, this disc is easily one of the main reasons that Dexter Gordon is a tenor legend.  

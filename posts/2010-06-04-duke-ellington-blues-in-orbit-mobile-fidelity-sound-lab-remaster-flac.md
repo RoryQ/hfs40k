@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173013/http://holyfuckingshit4
 date: Friday, June 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/duke-ellington-blues-in-orbit-mobile.html
 title: Duke Ellington - Blues In Orbit (Mobile Fidelity Sound Lab Remaster FLAC)
+artist: Duke Ellington
+album: Blues In Orbit
+spotify_url: https://open.spotify.com/search/Duke%20Ellington%20Blues%20In%20Orbit
+apple_music_url: https://geo.music.apple.com/au/album/_/206286549?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Duke%20Ellington%20Blues%20In%20Orbit
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173013im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TAlOyV4KBhI/AAAAAAAAAr0/_Z7UMZvI1X0/s400/blues-in-orbit.jpg)](https://web.archive.org/web/20111010173013/http://3.bp.blogspot.com/_cLI19EXK2oU/TAlOyV4KBhI/AAAAAAAAAr0/_Z7UMZvI1X0/s1600/blues-in-orbit.jpg)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010150048/http://holyfuckingshit4
 date: Sunday, April 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/bjork-vespertine-surrounded-dualdisc.html
 title: "Bj\xF6rk - Vespertine _Surrounded Dualdisc Rip [FLAC]"
+artist: "Bj\xF6rk"
+album: Vespertine _Surrounded Dualdisc Rip
+spotify_url: https://open.spotify.com/search/Bj%C3%B6rk%20Vespertine%20_Surrounded%20Dualdisc%20Rip
+apple_music_url: https://music.apple.com/us/search?term=Bj%C3%B6rk%20Vespertine%20_Surrounded%20Dualdisc%20Rip
+youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Vespertine%20_Surrounded%20Dualdisc%20Rip
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010150048im_/http://2.bp.blogspot.com/-OBCq0UkhO9o/TZk4g45jFOI/AAAAAAAAAAY/JxU5s_rH97Q/s320/front.jpg)](https://web.archive.org/web/20111010150048/http://2.bp.blogspot.com/-OBCq0UkhO9o/TZk4g45jFOI/AAAAAAAAAAY/JxU5s_rH97Q/s1600/front.jpg)
 

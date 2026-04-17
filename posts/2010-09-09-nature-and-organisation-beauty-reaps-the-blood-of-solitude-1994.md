@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175350/http://holyfuckingshit4
 date: Thursday, September 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/nature-and-organisation-beauty-reaps.html
 title: Nature and Organisation -  Beauty Reaps the Blood of Solitude (1994)
+artist: Nature and Organisation
+album: Beauty Reaps the Blood of Solitude
+spotify_url: https://open.spotify.com/search/Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
+apple_music_url: https://music.apple.com/us/search?term=Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
+youtube_url: https://www.youtube.com/results?search_query=Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175350im_/http://2.bp.blogspot.com/_bIgHZQu-UEA/THDGPll5YBI/AAAAAAAAArs/lXntW2Oxdkc/s400/nature.jpg)](https://web.archive.org/web/20111010175350/http://2.bp.blogspot.com/_bIgHZQu-UEA/THDGPll5YBI/AAAAAAAAArs/lXntW2Oxdkc/s1600/nature.jpg)
 

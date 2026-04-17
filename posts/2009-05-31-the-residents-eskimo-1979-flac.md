@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155543/http://holyfuckingshit4
 date: Sunday, May 31, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/residents-eskimo-1979-flac.html
 title: The Residents - Eskimo (1979) [FLAC]
+artist: The Residents
+album: Eskimo
+spotify_url: https://open.spotify.com/search/The%20Residents%20Eskimo
+apple_music_url: https://music.apple.com/us/search?term=The%20Residents%20Eskimo
+youtube_url: https://www.youtube.com/results?search_query=The%20Residents%20Eskimo
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155543im_/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1h9kF_X0I/AAAAAAAAAQU/LLz8GXEdms4/s320/eskimo.png)](https://web.archive.org/web/20111008155543/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1h9kF_X0I/AAAAAAAAAQU/LLz8GXEdms4/s1600-h/eskimo.png)
 

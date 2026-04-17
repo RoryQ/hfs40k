@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094159/http://holyfuckingshit4
 date: Monday, September 7, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/eric-dolphy-out-to-lunch-flac.html
 title: Eric Dolphy - Out to Lunch! (FLAC)
+artist: Eric Dolphy
+album: Out to Lunch!
+spotify_url: https://open.spotify.com/search/Eric%20Dolphy%20Out%20to%20Lunch%21
+apple_music_url: https://music.apple.com/us/search?term=Eric%20Dolphy%20Out%20to%20Lunch%21
+youtube_url: https://www.youtube.com/results?search_query=Eric%20Dolphy%20Out%20to%20Lunch%21
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094159im_/http://i44.tinypic.com/24kxmj8.jpg)](https://web.archive.org/web/20111010094159/http://i44.tinypic.com/24kxmj8.jpg)  
 

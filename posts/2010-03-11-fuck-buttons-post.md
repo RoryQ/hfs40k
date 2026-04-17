@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081740/http://holyfuckingshit4
 date: Thursday, March 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/fuck-buttons-post.html
 title: Fuck Buttons post
+artist: Fuck Buttons
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 Street Horrrsing (FLAC/v0)[![](https://web.archive.org/web/20111010081740im_/http://4.bp.blogspot.com/_JdyrURA7JYI/S5nCXPmE_1I/AAAAAAAAAO4/Fv56_h3TpII/s400/streethorrrsing.PNG)](https://web.archive.org/web/20111010081740/http://4.bp.blogspot.com/_JdyrURA7JYI/S5nCXPmE_1I/AAAAAAAAAO4/Fv56_h3TpII/s1600-h/streethorrrsing.PNG)Once apon a time, two British hipsters became friends and made this fashionable new "indie noise" band where they could wank off to Fisher Price hXc vocals and get away with being a Merzbow ripoff. First, they debuted with Street Horrrsing, their 2008 fuzztacular that received great acclaim and was produced by one of the bands heroes, John Cummings of the band Mogwai. Street Horrrsing melded chimey loops, synth arpeggios, and tribal percussion with loads of cascading waves of fuzz. "Sweet Love for Planet Earth" is what parents play their children to lull them to sleep IN HELL :O, creating the seemingly gentle loop of chimes, which in turn gets run over by a lawn mower, which then falls through an echo chamber while some asian guy goes "AUUUGH". Somehow this is all beautiful even though it screams "pretentious!" when really, it's the most minimal and expressive music I've heard in the past few years. They're certainly more sincere than those Gerogerigegege fags.  
   

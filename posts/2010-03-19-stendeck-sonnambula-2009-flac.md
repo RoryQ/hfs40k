@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081340/http://holyfuckingshit4
 date: Friday, March 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/stendeck-sonnambula-2009-flac.html
 title: Stendeck - Sonnambula (2009) [FLAC]
+artist: Stendeck
+album: Sonnambula
+spotify_url: https://open.spotify.com/search/Stendeck%20Sonnambula
+apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Sonnambula
+youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Sonnambula
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081340im_/http://2.bp.blogspot.com/_7ZAm7Q56iwM/S6N_P71lwII/AAAAAAAAAZs/A7wPiPx41iI/s400/o1853601.jpg)](https://web.archive.org/web/20111010081340/http://2.bp.blogspot.com/_7ZAm7Q56iwM/S6N_P71lwII/AAAAAAAAAZs/A7wPiPx41iI/s1600-h/o1853601.jpg)
 

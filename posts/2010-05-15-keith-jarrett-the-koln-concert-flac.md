@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100907/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/keith-jarrett-koln-concert-flac.html
 title: Keith Jarrett - The Koln Concert (FLAC)
+artist: Keith Jarrett
+album: The Koln Concert
+spotify_url: https://open.spotify.com/search/Keith%20Jarrett%20The%20Koln%20Concert
+apple_music_url: https://music.apple.com/us/search?term=Keith%20Jarrett%20The%20Koln%20Concert
+youtube_url: https://www.youtube.com/results?search_query=Keith%20Jarrett%20The%20Koln%20Concert
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100907im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-7DgNORmaI/AAAAAAAAAmE/iwndP92CZgo/s400/123112_1_f.jpg)](https://web.archive.org/web/20111010100907/http://2.bp.blogspot.com/_cLI19EXK2oU/S-7DgNORmaI/AAAAAAAAAmE/iwndP92CZgo/s1600/123112_1_f.jpg)  
 Generally I resist the urge to hurl superlatives at something; but for this particular disc, only words like "transcendent" and "sublime" will do.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004082549/http://holyfuckingshit4
 date: Sunday, August 14, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/talking-heads-more-songs-about.html
 title: Talking Heads - More Songs About Buildings and Food (FLAC)
+artist: Talking Heads
+album: More Songs About Buildings and Food
+spotify_url: https://open.spotify.com/search/Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
+apple_music_url: https://music.apple.com/us/search?term=Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
+youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004082549im_/http://2.bp.blogspot.com/-fbjOoWB1Gfc/Tkgq1f1yDAI/AAAAAAAABBI/BH4hr0xrzzw/s400/talking_heads-more_songs_about_buildings_and_food.jpg)](https://web.archive.org/web/20111004082549/http://2.bp.blogspot.com/-fbjOoWB1Gfc/Tkgq1f1yDAI/AAAAAAAABBI/BH4hr0xrzzw/s1600/talking_heads-more_songs_about_buildings_and_food.jpg)
   

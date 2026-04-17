@@ -4,7 +4,15 @@ date: Friday, June 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/weather-report-mysterious-traveller.html
 title: Weather Report - Mysterious Traveller (FLAC) &  Far East Family Band - Parallel
   World (v0)
+artist: Weather Report
+album: Mysterious Traveller
+spotify_url: https://open.spotify.com/search/Weather%20Report%20Mysterious%20Traveller
+apple_music_url: https://geo.music.apple.com/au/album/_/188263606?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Mysterious%20Traveller
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173116im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TAlScsp_kyI/AAAAAAAAAr8/NVo5_CFxeSQ/s400/WEATH08.jpg)](https://web.archive.org/web/20111010173116/http://1.bp.blogspot.com/_cLI19EXK2oU/TAlScsp_kyI/AAAAAAAAAr8/NVo5_CFxeSQ/s1600/WEATH08.jpg)  
 Following their previous breakthrough album ( "SWEETNIGHTER"), which established the "Weather Report sound", "MYSTERIOUS TRAVELLER" (1974) contains a number of interesting compositions that give the recording the feeling (if not the formal unity) of a "suite", an extended journey through varying musical landscapes. Even more than in prior albums, individual improvisation is eschewed in favor of an "orchestral" and textural approach, an aspect of style distinguishing Weather Report from the Mahavishnu Orchestra ( the other great fusion band of the era ).

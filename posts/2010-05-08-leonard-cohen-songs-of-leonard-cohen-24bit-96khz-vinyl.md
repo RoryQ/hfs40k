@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095608/http://holyfuckingshit4
 date: Saturday, May 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/leonard-cohen-songs-of-leonard-cohen.html
 title: Leonard Cohen - Songs of Leonard Cohen (24bit-96khz Vinyl)
+artist: Leonard Cohen
+album: Songs of Leonard Cohen
+spotify_url: https://open.spotify.com/search/Leonard%20Cohen%20Songs%20of%20Leonard%20Cohen
+apple_music_url: https://geo.music.apple.com/au/album/_/1826864082?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Leonard%20Cohen%20Songs%20of%20Leonard%20Cohen
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095608im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S-WEwvP7qpI/AAAAAAAAAj0/OhAwumo44zc/s400/songs-of-leonard-cohen2.jpg)](https://web.archive.org/web/20111010095608/http://1.bp.blogspot.com/_cLI19EXK2oU/S-WEwvP7qpI/AAAAAAAAAj0/OhAwumo44zc/s1600/songs-of-leonard-cohen2.jpg)  
 Cohen's most sincere poetry is here, in songs like "Suzanne", "So Long, Marianne", and "Hey, That's No Way To Say Goodbye". Somehow, while giving these women names and very specific personalities, Cohen paradoxically makes you feel that he is singing about the woman who just left you, or whom you just left. This is not an album to listen to lightly or at parties, unless they're two-person wine-and-weep parties with your closest friend in the world. It demands your attention in the same way that a whisper in a loud room can make everyone shut up and listen to who's whispering.

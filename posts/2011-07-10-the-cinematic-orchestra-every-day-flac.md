@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010135444/http://holyfuckingshit4
 date: Sunday, July 10, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/cinematic-orchestra-every-day-flac.html
 title: The Cinematic Orchestra - Every Day (FLAC)
+artist: The Cinematic Orchestra
+album: Every Day
+spotify_url: https://open.spotify.com/search/The%20Cinematic%20Orchestra%20Every%20Day
+apple_music_url: https://geo.music.apple.com/au/album/_/416338893?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Cinematic%20Orchestra%20Every%20Day
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010135444im_/http://4.bp.blogspot.com/-3NohhD9sppU/ThoF-fiGBEI/AAAAAAAAA_I/DmmBB9PI9k8/s400/cinematic%2Beveryday%2Bcover.jpg)](https://web.archive.org/web/20111010135444/http://4.bp.blogspot.com/-3NohhD9sppU/ThoF-fiGBEI/AAAAAAAAA_I/DmmBB9PI9k8/s1600/cinematic%2Beveryday%2Bcover.jpg)  
 Cinematic Orchestra's "Everyday" is a journey into soul and jazz of the 'cinematic' variety. Often, the music is dark and conspiratorial. Previous output by this band has verged on abstract and moody -- for those dark thriller-type films.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010135704/http://holyfuckingshit4
 date: Saturday, July 9, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/ornette-coleman-free-jazz-flac.html
 title: Ornette Coleman - Free Jazz [FLAC]
+artist: Ornette Coleman
+album: Free Jazz
+spotify_url: https://open.spotify.com/search/Ornette%20Coleman%20Free%20Jazz
+apple_music_url: https://geo.music.apple.com/au/album/_/50235783?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Ornette%20Coleman%20Free%20Jazz
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010135704im_/http://2.bp.blogspot.com/-LaI4PNZADY8/ThjJOa6C-1I/AAAAAAAAASI/jrzgLkwxaKM/s320/61Ql2lIOyjL._SS400_.jpg)](https://web.archive.org/web/20111010135704/http://2.bp.blogspot.com/-LaI4PNZADY8/ThjJOa6C-1I/AAAAAAAAASI/jrzgLkwxaKM/s1600/61Ql2lIOyjL._SS400_.jpg)  
 By 1960, Ornette Coleman had already stirred an enormous controversy in the jazz world-- his first three albums on Atlantic (two early recordings on Contemporary failed to garner much attention) and tenure at Manhattan's Five Spot club had polarized musicians, critics, and listeners. And yet, over forty years later, it's clear that Coleman was onto something, and his influence can be felt throughout music afterwards, whether acknowledged by the musician or not, whether accepted and adopted or rejected. After 1960, Coleman rejected most of the expectations for a musician-- playing clubs, touring, album after album, mellowing with age, regurgitation of old songs, etc. Indeed, throughout the years he has continued to stir the pot, if a bit more gently than he did when he first reached New York. But nothing he has done has created such an enormous polarizing effect as this record, "Free Jazz".  

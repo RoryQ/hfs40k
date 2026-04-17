@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160227/http://holyfuckingshit4
 date: Tuesday, February 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/cant-post-titles-or-internet-police.html
 title: The Smiths - The Smiths (1984)
+artist: The Smiths
+album: The Smiths
+spotify_url: https://open.spotify.com/search/The%20Smiths%20The%20Smiths
+apple_music_url: https://geo.music.apple.com/au/album/_/799995884?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Smiths%20The%20Smiths
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160227im_/http://3.bp.blogspot.com/_bIgHZQu-UEA/S3Wta71ohfI/AAAAAAAAAU8/HHy5ko_Nqsk/s400/thesmithsthesmiths.jpeg)](https://web.archive.org/web/20111010160227/http://3.bp.blogspot.com/_bIgHZQu-UEA/S3Wta71ohfI/AAAAAAAAAU8/HHy5ko_Nqsk/s1600-h/thesmithsthesmiths.jpeg)  
 

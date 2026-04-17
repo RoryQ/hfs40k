@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093504/http://holyfuckingshit4
 date: Monday, May 9, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/wayne-shorter-night-dreamer-flac.html
 title: Wayne Shorter - Night Dreamer (FLAC)
+artist: Wayne Shorter
+album: Night Dreamer
+spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20Night%20Dreamer
+apple_music_url: https://geo.music.apple.com/au/album/_/725818556?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Night%20Dreamer
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093504im_/http://3.bp.blogspot.com/-eeQAYg-LI7s/TcgpE2kV-6I/AAAAAAAAA9E/KRkttzj1rSs/s400/0000374f.jpg)](https://web.archive.org/web/20111010093504/http://3.bp.blogspot.com/-eeQAYg-LI7s/TcgpE2kV-6I/AAAAAAAAA9E/KRkttzj1rSs/s1600/0000374f.jpg)  
 This album is Wayne's first in a long series of classic recordings for the Blue Note label. In trying to put this session in perspective with his other mid-sixties recordings as a leader, I find that Wayne has not yet fully developed and presented his compositional skills. While "Night Dreamer" exhibits some fine performances by all, his second Blue Note, "JuJu", combines equally fine performances as well as some of Wayne's most notable compositions. His third Blue Note offering, "Speak No Evil" is very strong compositionally, yet lacks the vigor in the individual performances found here.

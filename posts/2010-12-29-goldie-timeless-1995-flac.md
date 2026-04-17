@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071604/http://holyfuckingshit4
 date: Wednesday, December 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/goldie-timeless-1995-flac.html
 title: Goldie - Timeless (1995, FLAC)
+artist: Goldie
+album: Timeless
+spotify_url: https://open.spotify.com/search/Goldie%20Timeless
+apple_music_url: https://music.apple.com/us/search?term=Goldie%20Timeless
+youtube_url: https://www.youtube.com/results?search_query=Goldie%20Timeless
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071604im_/http://4.bp.blogspot.com/_8OQrKaBbb98/TRsjFvhleqI/AAAAAAAAAD0/_eGDWKEO8h8/s400/timeless+cover.jpg)](https://web.archive.org/web/20111010071604/http://4.bp.blogspot.com/_8OQrKaBbb98/TRsjFvhleqI/AAAAAAAAAD0/_eGDWKEO8h8/s1600/timeless+cover.jpg)
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008154936/http://holyfuckingshit4
 date: Friday, May 1, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/univers-zero-heresie-flac.html
 title: Univers Zero - Heresie (FLAC)
+artist: Univers Zero
+album: Heresie
+spotify_url: https://open.spotify.com/search/Univers%20Zero%20Heresie
+apple_music_url: https://music.apple.com/us/search?term=Univers%20Zero%20Heresie
+youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Heresie
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008154936im_/http://3.bp.blogspot.com/_z8rLjrFVzbo/SfrROvrk69I/AAAAAAAAAHE/EzsgaQti_xw/s400/Univers+Zero+-+Heresie.jpg)](https://web.archive.org/web/20111008154936/http://3.bp.blogspot.com/_z8rLjrFVzbo/SfrROvrk69I/AAAAAAAAAHE/EzsgaQti_xw/s1600-h/Univers+Zero+-+Heresie.jpg)  
 *"Heresie* continues Univers Zero's unkempt iteration of Rock: taking the secular implications long-held in rock, applying the arsonists touch -- explosions. Shattered squealing crescendos, chunks of mistrewn ambiguous melodies, ritualistic chanting; prevelant evil expressed as sound.  

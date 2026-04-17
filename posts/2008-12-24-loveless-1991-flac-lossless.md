@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010034101/http://holyfuckingshit4
 date: Wednesday, December 24, 2008
 original_url: http://holyfuckingshit40000.blogspot.com/2008/12/my-bloody-valentine-loveless-1991-flac.html
 title: Loveless (1991) FLAC Lossless
+artist: My Bloody Valentine
+album: Loveless
+spotify_url: https://open.spotify.com/search/My%20Bloody%20Valentine%20Loveless
+apple_music_url: https://music.apple.com/us/search?term=My%20Bloody%20Valentine%20Loveless
+youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentine%20Loveless
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010034101im_/http://i40.tinypic.com/rbifb9.jpg)](https://web.archive.org/web/20111010034101/http://i40.tinypic.com/rbifb9.jpg)  
   

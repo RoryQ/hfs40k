@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203181010/http://holyfuckingshit4
 date: Friday, February 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/agitation-free-malesch-1972.html
 title: Agitation Free - Malesch (1972)
+artist: Agitation Free
+album: Malesch
+spotify_url: https://open.spotify.com/search/Agitation%20Free%20Malesch
+apple_music_url: https://music.apple.com/us/search?term=Agitation%20Free%20Malesch
+youtube_url: https://www.youtube.com/results?search_query=Agitation%20Free%20Malesch
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203181010im_/http://i44.tinypic.com/2yoczus.jpg)](https://web.archive.org/web/20101203181010/http://i44.tinypic.com/2yoczus.jpg)  
   

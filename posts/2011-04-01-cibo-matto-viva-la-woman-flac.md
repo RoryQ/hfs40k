@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145932/http://holyfuckingshit4
 date: Friday, April 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/cibo-matto-viva-la-woman.html
 title: Cibo Matto - VIVA! La Woman (FLAC)
+artist: Cibo Matto
+album: VIVA! La Woman
+spotify_url: https://open.spotify.com/search/Cibo%20Matto%20VIVA%21%20La%20Woman
+apple_music_url: https://music.apple.com/us/search?term=Cibo%20Matto%20VIVA%21%20La%20Woman
+youtube_url: https://www.youtube.com/results?search_query=Cibo%20Matto%20VIVA%21%20La%20Woman
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145932im_/http://3.bp.blogspot.com/_Wg7BDLpkG9U/TDkT_0SM7nI/AAAAAAAAAa8/S79dk0ZZwsA/s320/Cibo+Matto+-+VIVA%21+La+Woman+-+front+cover+%28800x800%29.jpg)](https://web.archive.org/web/20111010145932/http://3.bp.blogspot.com/_Wg7BDLpkG9U/TDkT_0SM7nI/AAAAAAAAAa8/S79dk0ZZwsA/s1600/Cibo+Matto+-+VIVA%21+La+Woman+-+front+cover+%28800x800%29.jpg)
 

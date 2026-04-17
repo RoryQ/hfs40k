@@ -4,7 +4,16 @@ date: Monday, August 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/classical-week-day-2-schumann-carnaval.html
 title: 'Classical Week - Day #2 Schumann: Carnaval / Brahms: Paganini Variations /
   Busoni: Bach Chaconne Transcription (Arturo Benedetti Michelangeli)'
+artist: Classical Week
+album: 'Day #2 Schumann: Carnaval / Brahms: Paganini Variations / Busoni: Bach Chaconne
+  Transcription'
+spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
+apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
+youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065159im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TGAuWu21oAI/AAAAAAAAAxc/zGBUo8k2LQ0/s400/folder-4.jpg)](https://web.archive.org/web/20111010065159/http://2.bp.blogspot.com/_cLI19EXK2oU/TGAuWu21oAI/AAAAAAAAAxc/zGBUo8k2LQ0/s1600/folder-4.jpg)  
 

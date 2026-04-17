@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155627/http://holyfuckingshit4
 date: Saturday, May 9, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/velvet-underground-velvet-underground_09.html
 title: The Velvet Underground - The Velvet Underground (FLAC)
+artist: The Velvet Underground
+album: The Velvet Underground
+spotify_url: https://open.spotify.com/search/The%20Velvet%20Underground%20The%20Velvet%20Underground
+apple_music_url: https://music.apple.com/us/search?term=The%20Velvet%20Underground%20The%20Velvet%20Underground
+youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Underground%20The%20Velvet%20Underground
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155627im_/http://i40.tinypic.com/34949cl.jpg)](https://web.archive.org/web/20111008155627/http://i40.tinypic.com/34949cl.jpg)  
 Man Lou Reed really is the original hipster.  

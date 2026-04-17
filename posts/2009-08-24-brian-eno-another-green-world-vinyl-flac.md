@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145105/http://holyfuckingshit4
 date: Monday, August 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/brian-eno-another-green-world-vinyl.html
 title: Brian Eno - Another Green World (Vinyl FLAC)
+artist: Brian Eno
+album: Another Green World
+spotify_url: https://open.spotify.com/search/Brian%20Eno%20Another%20Green%20World
+apple_music_url: https://geo.music.apple.com/au/album/_/724357753?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%20Green%20World
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145105im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SpK77cEXFEI/AAAAAAAAASY/mp5COpPotX0/s400/another_green_world.jpg)](https://web.archive.org/web/20111010145105/http://1.bp.blogspot.com/_cLI19EXK2oU/SpK77cEXFEI/AAAAAAAAASY/mp5COpPotX0/s1600-h/another_green_world.jpg)  
   

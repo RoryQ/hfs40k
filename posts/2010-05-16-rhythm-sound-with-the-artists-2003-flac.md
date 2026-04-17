@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094928/http://holyfuckingshit4
 date: Sunday, May 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/rhythm-sound-with-artists-2003-flac.html
 title: Rhythm & Sound - With The Artists (2003, FLAC)
+artist: Rhythm & Sound
+album: With The Artists
+spotify_url: https://open.spotify.com/search/Rhythm%20%26%20Sound%20With%20The%20Artists
+apple_music_url: https://geo.music.apple.com/au/album/_/1811228834?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Rhythm%20%26%20Sound%20With%20The%20Artists
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094928im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S-_yPbxfuVI/AAAAAAAAAOE/HKsme1HeVp4/s400/Cover-small.jpg)](https://web.archive.org/web/20111010094928/http://2.bp.blogspot.com/_t6lWjgwMoxw/S-_yPbxfuVI/AAAAAAAAAOE/HKsme1HeVp4/s1600/Cover-small.jpg)  
   

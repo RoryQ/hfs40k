@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050101/http://holyfuckingshit4
 date: Wednesday, April 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/avant-gardefree-jazz-package.html
 title: The Avant-Garde/Free Jazz Package (Flacalicious Edition)
+artist: The Avant
+album: Garde/Free Jazz Package
+spotify_url: https://open.spotify.com/search/The%20Avant%20Garde/Free%20Jazz%20Package
+apple_music_url: https://music.apple.com/us/search?term=The%20Avant%20Garde/Free%20Jazz%20Package
+youtube_url: https://www.youtube.com/results?search_query=The%20Avant%20Garde/Free%20Jazz%20Package
 ---
+
+
+
 
 So for the past few weeks, I decided to visit this new place called the "library". I have actually found that this "library" is a very good source for films, and classical/jazz music. Hell, I even found some Nadja albums there. Anyways, I got some free/avant-garde jazz albums (Because jazz is only good if it either hurts your ears, or everyone just does their own free crazy thing) and uploaded all the ones that I listened to and enjoyed so far. Enjoy!  
   

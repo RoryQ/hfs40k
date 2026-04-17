@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093741/http://holyfuckingshit4
 date: Tuesday, May 17, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/thelonious-monk-criss-cross-flac.html
 title: Thelonious Monk - Criss-Cross (FLAC)
+artist: Thelonious Monk
+album: Criss-Cross
+spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20Criss-Cross
+apple_music_url: https://music.apple.com/us/search?term=Thelonious%20Monk%20Criss-Cross
+youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Criss-Cross
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093741im_/http://1.bp.blogspot.com/-E-naCOdSgj0/TdKtKifudCI/AAAAAAAAA9s/wD_Pa1MwaTw/s400/thelonius%2B2bebe41f9a4e.jpg)](https://web.archive.org/web/20111010093741/http://1.bp.blogspot.com/-E-naCOdSgj0/TdKtKifudCI/AAAAAAAAA9s/wD_Pa1MwaTw/s1600/thelonius%2B2bebe41f9a4e.jpg)  
 Thelonious Monk had signed with Columbia Records in the early 60's; because of this, he was able to get his music out to many more listeners than he could with his previous labels. His first studio album for Columbia is entitled Monk's Dream, and it introduced him to a lot of new listeners who had never heard of him. Criss-Cross is his second studio album for Columbia, and it is an awesome follow-up. In my opinion, it is better than Monk's Dream. Monk's Quartet here is: Charlie Rouse on tenor sax, Thelonious Monk on piano, John Ore on bass, and Frankie Dunlop on drums. This album is mainly Monk originals with the quartet, but there are also two standards which Monk interprets brilliantly.  

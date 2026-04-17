@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065237/http://holyfuckingshit4
 date: Monday, August 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/love-forever-changes-flac.html
 title: Love - Forever Changes (Remaster FLAC)
+artist: Love
+album: Forever Changes
+spotify_url: https://open.spotify.com/search/Love%20Forever%20Changes
+apple_music_url: https://music.apple.com/us/search?term=Love%20Forever%20Changes
+youtube_url: https://www.youtube.com/results?search_query=Love%20Forever%20Changes
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065237im_/http://3.bp.blogspot.com/_cLI19EXK2oU/THMDkvGPRjI/AAAAAAAAAzc/xhtjNAVK5-Q/s400/love-forever_changes_0.jpg)](https://web.archive.org/web/20111010065237/http://3.bp.blogspot.com/_cLI19EXK2oU/THMDkvGPRjI/AAAAAAAAAzc/xhtjNAVK5-Q/s1600/love-forever_changes_0.jpg)  
 I love this album! It's gorgeous: completely, utterly and absolutely. It's one of the most perfect pieces of music ever committed to tape, vinyl or CD. Out of all the summer of love albums to have come out, this is the one that strikes the strongest chord of kinship inside me. I don't know what it's like to have cavorted about in dippy-hippy peace, man style, but I DAMN sure know what it's like to be lonely and to be the man who sees things from the outside.  

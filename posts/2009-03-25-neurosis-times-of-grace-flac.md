@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164616/http://holyfuckingshit4
 date: Wednesday, March 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/neurosis-times-of-grace-flac.html
 title: Neurosis - Times of Grace (FLAC)
+artist: Neurosis
+album: Times of Grace
+spotify_url: https://open.spotify.com/search/Neurosis%20Times%20of%20Grace
+apple_music_url: https://geo.music.apple.com/au/album/_/73637822?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Times%20of%20Grace
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164616im_/http://i40.tinypic.com/2inlat.jpg)](https://web.archive.org/web/20111010164616/http://i40.tinypic.com/2inlat.jpg)  
 

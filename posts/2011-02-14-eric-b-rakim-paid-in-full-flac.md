@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010033518/http://holyfuckingshit4
 date: Monday, February 14, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/02/eric-b-rakim-paid-in-full-flac.html
 title: Eric B & Rakim - Paid In Full (FLAC)
+artist: Eric B & Rakim
+album: Paid In Full
+spotify_url: https://open.spotify.com/search/Eric%20B%20%26%20Rakim%20Paid%20In%20Full
+apple_music_url: https://music.apple.com/us/search?term=Eric%20B%20%26%20Rakim%20Paid%20In%20Full
+youtube_url: https://www.youtube.com/results?search_query=Eric%20B%20%26%20Rakim%20Paid%20In%20Full
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033518im_/http://1.bp.blogspot.com/-n13nx3OTpsg/TVmT-Ta0mqI/AAAAAAAAA4E/lB2zFxgqTco/s400/paid-in-full.jpg)](https://web.archive.org/web/20111010033518/http://1.bp.blogspot.com/-n13nx3OTpsg/TVmT-Ta0mqI/AAAAAAAAA4E/lB2zFxgqTco/s1600/paid-in-full.jpg)  
 Eric B & Rakim's debut album Paid In Full has stood the test of time as one of the best hip-hop albums ever released. Even though their third album Let The Rhythm Hit 'Em is more consistent, few hip-hop albums, if any, have boasted as many classic tracks as Paid In Full. Rakim reinvented rap with his creative rhymes and smooth delivery while Eric B. remains one of the best ever at the turntable. This album has also been sampled by several rappers and musicians over the years, most notably Eminem and Limp Bizkit.   

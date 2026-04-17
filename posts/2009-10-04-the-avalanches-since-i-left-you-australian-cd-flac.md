@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010032945/http://holyfuckingshit4
 date: Sunday, October 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/avalanches-since-i-left-you-australian.html
 title: The Avalanches - Since I Left You (Australian CD FLAC)
+artist: The Avalanches
+album: Since I Left You
+spotify_url: https://open.spotify.com/search/The%20Avalanches%20Since%20I%20Left%20You
+apple_music_url: https://music.apple.com/us/search?term=The%20Avalanches%20Since%20I%20Left%20You
+youtube_url: https://www.youtube.com/results?search_query=The%20Avalanches%20Since%20I%20Left%20You
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010032945im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SskdhgDjM_I/AAAAAAAAAUg/MaArqsmq7cY/s400/since-i-left-you1.jpg)](https://web.archive.org/web/20111010032945/http://1.bp.blogspot.com/_cLI19EXK2oU/SskdhgDjM_I/AAAAAAAAAUg/MaArqsmq7cY/s1600-h/since-i-left-you1.jpg)  
 **Note on versions**  

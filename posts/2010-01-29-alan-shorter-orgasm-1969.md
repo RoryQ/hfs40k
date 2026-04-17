@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123420/http://holyfuckingshit4
 date: Friday, January 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/alan-shorter-orgasm-1969.html
 title: Alan Shorter - Orgasm (1969)
+artist: Alan Shorter
+album: Orgasm
+spotify_url: https://open.spotify.com/search/Alan%20Shorter%20Orgasm
+apple_music_url: https://geo.music.apple.com/au/album/_/1444110534?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Alan%20Shorter%20Orgasm
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123420im_/http://2.bp.blogspot.com/_JdyrURA7JYI/S2OonTCPzlI/AAAAAAAAAOQ/VlgEX5D2VxQ/s400/alanshorter.PNG)](https://web.archive.org/web/20111010123420/http://2.bp.blogspot.com/_JdyrURA7JYI/S2OonTCPzlI/AAAAAAAAAOQ/VlgEX5D2VxQ/s1600-h/alanshorter.PNG)Aaaaaahhhaaaaaaahhh jizz  
   

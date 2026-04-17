@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100825/http://holyfuckingshit4
 date: Friday, May 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/sun-kil-moon-april-bonus-flac.html
 title: Sun Kil Moon - April + Bonus (FLAC)
+artist: Sun Kil Moon
+album: April + Bonus
+spotify_url: https://open.spotify.com/search/Sun%20Kil%20Moon%20April%20%2B%20Bonus
+apple_music_url: https://geo.music.apple.com/au/album/_/1859387386?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20April%20%2B%20Bonus
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100825im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S_a1OfdGLOI/AAAAAAAAAm8/0dylodU9BC8/s400/sunkilmoon2.jpg)](https://web.archive.org/web/20111010100825/http://4.bp.blogspot.com/_cLI19EXK2oU/S_a1OfdGLOI/AAAAAAAAAm8/0dylodU9BC8/s1600/sunkilmoon2.jpg)  
 First listen to "Lost Verses," the sweeping, majestic 10-minute opening track to Mark Kozelek's new album "April" made me think, 'This is the perfect distillation of everything amazing and good he has done as an artist in his career.' All the hallmarks are there, the beautifuly played, hypnotic and well-recorded guitar parts, the voice flat-yet-full and mournful, the lyrics that remind you of your own missing friends and lost memories... It's gorgeous. And yet, rather than what we would call "growth" and expansion, Kozelek continues to drill down deeper into his obsessions. That means if, like me, you have been following him since the dawn of the Red House Painters, you know what this sounds like. The grades are noted in levels of gorgeousness, not newness. For a neophyte fan, this is a perfect introduction into everything that makes Kozelek so distinctive and moving. But I found myself drifting at times during the middle cuts. One song is a chord-for-chord take, with new lyrics and melody, of "Rock N Roll Singer," already a reimagining of an old AC/DC song. The guitars and drums have the exact same fuzz and sound to them. It feels like a complete lift, and for the fans -- almost as obsessive as Kozelek is -- it should not be enough. It's irksome.   

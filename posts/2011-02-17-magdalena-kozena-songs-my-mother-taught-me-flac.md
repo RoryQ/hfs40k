@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010033459/http://holyfuckingshit4
 date: Thursday, February 17, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/02/magdalena-kozena-songs-my-mother-taught.html
 title: Magdalena Kozena  - Songs My Mother Taught Me (FLAC)
+artist: Magdalena Kozena
+album: Songs My Mother Taught Me
+spotify_url: https://open.spotify.com/search/Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
+apple_music_url: https://music.apple.com/us/search?term=Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
+youtube_url: https://www.youtube.com/results?search_query=Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033459im_/http://1.bp.blogspot.com/-zK_JhwOUOZo/TV2_nG6tBGI/AAAAAAAAA4U/z2GJnI9llkY/s400/magdalena-kozena.jpg)](https://web.archive.org/web/20111010033459/http://1.bp.blogspot.com/-zK_JhwOUOZo/TV2_nG6tBGI/AAAAAAAAA4U/z2GJnI9llkY/s1600/magdalena-kozena.jpg)  
 I'm not quite ready to believe that Magdalena Kozena's mommy really taught her songs by Janácek, Novák, Dvorák, Martinu, Schulhoff, and Petr Eben. Still, if Pani Kozena had anything to do with teaching her daughter to sing, for me that would be honorable enough. Magdalena Kozena has one of the richest voices of our times. Don't take my word for it! Consider that Reinhard Goebel, the supreme violinist of the century, has only ever made one 'showcase' recording for a soprano, a CD titled "Lamento" with Kozena.  

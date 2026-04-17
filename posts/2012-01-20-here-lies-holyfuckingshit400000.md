@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120123031144/http://holyfuckingshit4
 date: Friday, January 20, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/here-lies-sharing.html
 title: Here lies holyfuckingshit400000.....
+artist: null
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120123031144im_/http://3.bp.blogspot.com/-PBQQ8ZhPJfg/TxmPMJkP_pI/AAAAAAAABOI/9dyBGojoZv0/s400/rip_tombstone.jpg)](https://web.archive.org/web/20120123031144/http://3.bp.blogspot.com/-PBQQ8ZhPJfg/TxmPMJkP_pI/AAAAAAAABOI/9dyBGojoZv0/s1600/rip_tombstone.jpg)  
   

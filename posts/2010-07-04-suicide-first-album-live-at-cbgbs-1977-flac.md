@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111020192241/http://holyfuckingshit4
 date: Sunday, July 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/suicide-first-album-live-at-cbgbs-1977.html
 title: Suicide - First Album / Live at CBGB's 1977 [FLAC]
+artist: Suicide
+album: First Album / Live at CBGB's 1977
+spotify_url: https://open.spotify.com/search/Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
+apple_music_url: https://music.apple.com/us/search?term=Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
+youtube_url: https://www.youtube.com/results?search_query=Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111020192241im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TDCJCWo3uhI/AAAAAAAAAI4/pAANxMbojxU/s400/o1502716.jpg)](https://web.archive.org/web/20111020192241/http://3.bp.blogspot.com/_mTQyK3r0bG0/TDCJCWo3uhI/AAAAAAAAAI4/pAANxMbojxU/s1600/o1502716.jpg)  
 What an incredible piece of work this is: absolutely unique, unprecendented and terrifying, without any pretensions or sense of compromise. For a band merely consisting of a singer and a guy with a beat-up old keyboard plugged into a few distortion pedals, Suicide in 1977 truly made one of rock'n'roll's all-time essential albums.  

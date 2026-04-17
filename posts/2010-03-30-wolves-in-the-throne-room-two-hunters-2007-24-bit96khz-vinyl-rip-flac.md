@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081526/http://holyfuckingshit4
 date: Tuesday, March 30, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/wolves-in-throne-room-two-hunters-2007.html
 title: Wolves in the Throne Room - Two Hunters (2007) [24-bit/96khz Vinyl rip FLAC]
+artist: Wolves in the Throne Room
+album: Two Hunters
+spotify_url: https://open.spotify.com/search/Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
+apple_music_url: https://music.apple.com/us/search?term=Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
+youtube_url: https://www.youtube.com/results?search_query=Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081526im_/http://2.bp.blogspot.com/_7ZAm7Q56iwM/S7IGjtrb4OI/AAAAAAAAAac/hPgpdIQVirk/s400/2hunters.jpg)](https://web.archive.org/web/20111010081526/http://2.bp.blogspot.com/_7ZAm7Q56iwM/S7IGjtrb4OI/AAAAAAAAAac/hPgpdIQVirk/s1600/2hunters.jpg)
 

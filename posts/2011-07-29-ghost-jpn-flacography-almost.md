@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010135616/http://holyfuckingshit4
 date: Friday, July 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/ghost-jpn-flacography-almost.html
 title: Ghost (JPN) FLACography (almost)
+artist: Ghost
+album: FLACography (almost)
+spotify_url: https://open.spotify.com/search/Ghost%20FLACography%20%28almost%29
+apple_music_url: https://music.apple.com/us/search?term=Ghost%20FLACography%20%28almost%29
+youtube_url: https://www.youtube.com/results?search_query=Ghost%20FLACography%20%28almost%29
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010135616im_/http://1.bp.blogspot.com/-PJaY8ik076E/TjNNU6jsKBI/AAAAAAAAATA/Nflv4h_9Wi8/s400/1105640.jpg)](https://web.archive.org/web/20111010135616/http://1.bp.blogspot.com/-PJaY8ik076E/TjNNU6jsKBI/AAAAAAAAATA/Nflv4h_9Wi8/s1600/1105640.jpg)  
 These Japanese nomads make a living like, well, ghosts. They lived in abandoned ancient temples and subway stations, yet they churned out some of the best acid-psych rock ever. Presented here is their almost-full discography (only minus two live albums) in FLAC quality. If you've never heard them, I would suggest starting with “Second Time Around” or “Lama Rabi Rabi”. Enjoy!  

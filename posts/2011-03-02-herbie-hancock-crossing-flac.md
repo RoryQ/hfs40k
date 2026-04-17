@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111637/http://holyfuckingshit4
 date: Wednesday, March 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/herbie-hancock-crossing-flac.html
 title: Herbie Hancock - Crossing (FLAC)
+artist: Herbie Hancock
+album: Crossing
+spotify_url: https://open.spotify.com/search/Herbie%20Hancock%20Crossing
+apple_music_url: https://music.apple.com/us/search?term=Herbie%20Hancock%20Crossing
+youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Crossing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111637im_/http://2.bp.blogspot.com/-sIvmiMQVjmY/TW56HEB9OXI/AAAAAAAAA5M/ZG2Z5wLb490/s400/cover_29322014122009.jpg)](https://web.archive.org/web/20111010111637/http://2.bp.blogspot.com/-sIvmiMQVjmY/TW56HEB9OXI/AAAAAAAAA5M/ZG2Z5wLb490/s1600/cover_29322014122009.jpg)  
 

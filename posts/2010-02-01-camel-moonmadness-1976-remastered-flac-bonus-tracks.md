@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155522/http://holyfuckingshit4
 date: Monday, February 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/camel-moonmadness-1976-remastered-flac.html
 title: Camel -  Moonmadness (1976) [Remastered FLAC + Bonus Tracks]
+artist: Camel
+album: Moonmadness
+spotify_url: https://open.spotify.com/search/Camel%20Moonmadness
+apple_music_url: https://geo.music.apple.com/au/album/_/1590400305?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Camel%20Moonmadness
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155522im_/http://1.bp.blogspot.com/_5cVyPU93ihM/S2dBEKNHAVI/AAAAAAAAAOI/HBnb96bjyUU/s400/folder.jpg)](https://web.archive.org/web/20111010155522/http://1.bp.blogspot.com/_5cVyPU93ihM/S2dBEKNHAVI/AAAAAAAAAOI/HBnb96bjyUU/s1600-h/folder.jpg)  
 "This album was where Camel really came of age. From the first notes of "Aristillus", a brief but striking instrumental, the attention of the listener is caught.

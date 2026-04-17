@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052255/http://holyfuckingshit4
 date: Saturday, July 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-sinatra-come-fly-with-me-1958.html
 title: Frank Sinatra - Come Fly With Me (1958) (Vinyl FLAC 24 bit / 96kHz rip)
+artist: Frank Sinatra
+album: Come Fly With Me
+spotify_url: https://open.spotify.com/search/Frank%20Sinatra%20Come%20Fly%20With%20Me
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Sinatra%20Come%20Fly%20With%20Me
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Sinatra%20Come%20Fly%20With%20Me
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052255im_/http://3.bp.blogspot.com/_pqcGUSDUhi4/TFPpygTj-mI/AAAAAAAAAPQ/nY6OEESya8M/s320/mini_cover.jpg)](https://web.archive.org/web/20111010052255/http://3.bp.blogspot.com/_pqcGUSDUhi4/TFPpygTj-mI/AAAAAAAAAPQ/nY6OEESya8M/s1600/mini_cover.jpg)  
   

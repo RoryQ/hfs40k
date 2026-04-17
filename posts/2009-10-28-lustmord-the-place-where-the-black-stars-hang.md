@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010033059/http://holyfuckingshit4
 date: Wednesday, October 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/lustmord-place-where-black-stars-hang.html
 title: Lustmord - The Place Where the Black Stars Hang
+artist: Lustmord
+album: The Place Where the Black Stars Hang
+spotify_url: https://open.spotify.com/search/Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
+apple_music_url: https://music.apple.com/us/search?term=Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
+youtube_url: https://www.youtube.com/results?search_query=Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033059im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SuilgeLaVlI/AAAAAAAAAVY/zHmx3sBKFPU/s400/blackstars.jpeg)](https://web.archive.org/web/20111010033059/http://2.bp.blogspot.com/_cLI19EXK2oU/SuilgeLaVlI/AAAAAAAAAVY/zHmx3sBKFPU/s1600-h/blackstars.jpeg)  
 For the next few days I'll be posting GRIMDARK albums in preparation for Halloween. Enjoy.  

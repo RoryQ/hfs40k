@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161755/http://holyfuckingshit4
 date: Monday, February 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/flaming-lips-soft-bulletin-1999-flac.html
 title: The Flaming Lips -  The Soft Bulletin (1999) [FLAC]
+artist: The Flaming Lips
+album: The Soft Bulletin
+spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20The%20Soft%20Bulletin
+apple_music_url: https://geo.music.apple.com/au/album/_/1247942375?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20The%20Soft%20Bulletin
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161755im_/http://2.bp.blogspot.com/_5cVyPU93ihM/S3BeI2989BI/AAAAAAAAAOQ/YWbyIm-GTBY/s400/o641.bmp)](https://web.archive.org/web/20111010161755/http://2.bp.blogspot.com/_5cVyPU93ihM/S3BeI2989BI/AAAAAAAAAOQ/YWbyIm-GTBY/s1600-h/o641.bmp)  
 "It seems to me that depression sells. There's a strange comfort in sadness. It's like, there's no point to life, so why should I have to do anything? Why live my life? It would follow that the music industry would latch onto this. Bands and artists such as Linkin Park, Evanescence, Elliott Smith, etc. make music designed for the depressed. It's become pervasive. If you listen to the radio for five minutes, you'll be struck by the amount of negative energy that comes from it.  

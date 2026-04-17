@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095632/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/andrew-hill-black-fire-flac.html
 title: Andrew Hill - Black Fire (FLAC)
+artist: Andrew Hill
+album: Black Fire
+spotify_url: https://open.spotify.com/search/Andrew%20Hill%20Black%20Fire
+apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20Black%20Fire
+youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Black%20Fire
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095632im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-7HNrwbFwI/AAAAAAAAAmk/CdTL2e8dGfs/s400/66644.jpg)](https://web.archive.org/web/20111010095632/http://2.bp.blogspot.com/_cLI19EXK2oU/S-7HNrwbFwI/AAAAAAAAAmk/CdTL2e8dGfs/s1600/66644.jpg)  
 Andrew Hill's leader debut for Blue Note is one of his best recordings. The story is that Hill played piano on Joe Henderson's excellent album Our Thing and was then approached by producer Alfred Lion to make an album of his own music. Hill rose to the challenge, bringing seven strikingly original compositions that didn't fit into either the "free jazz" or "hard bop" categories.  

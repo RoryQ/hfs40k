@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042533/http://holyfuckingshit4
 date: Saturday, January 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/mark-hollis-mark-hollis-1998.html
 title: Mark Hollis - Mark Hollis (1998)
+artist: Mark Hollis
+album: Mark Hollis
+spotify_url: https://open.spotify.com/search/Mark%20Hollis%20Mark%20Hollis
+apple_music_url: https://geo.music.apple.com/au/album/_/1444101871?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Mark%20Hollis%20Mark%20Hollis
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042533im_/http://i41.tinypic.com/rc4jt0.jpg)](https://web.archive.org/web/20111010042533/http://i41.tinypic.com/rc4jt0.jpg)  
   

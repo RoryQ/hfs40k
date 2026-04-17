@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173145/http://holyfuckingshit4
 date: Monday, June 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/orang-herd-of-instinct-1994-flac.html
 title: .O.rang - Herd of Instinct (1994, FLAC)
+artist: .O.rang
+album: Herd of Instinct
+spotify_url: https://open.spotify.com/search/.O.rang%20Herd%20of%20Instinct
+apple_music_url: https://music.apple.com/us/search?term=.O.rang%20Herd%20of%20Instinct
+youtube_url: https://www.youtube.com/results?search_query=.O.rang%20Herd%20of%20Instinct
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173145im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCiD9qh0sdI/AAAAAAAAASk/A_NRV2gByVg/s400/R-790407-1228184364.jpeg)](https://web.archive.org/web/20111010173145/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCiD9qh0sdI/AAAAAAAAASk/A_NRV2gByVg/s1600/R-790407-1228184364.jpeg)  
   

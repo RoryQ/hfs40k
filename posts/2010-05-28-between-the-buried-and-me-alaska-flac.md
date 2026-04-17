@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100422/http://holyfuckingshit4
 date: Friday, May 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/between-buried-and-me-alaska-flac.html
 title: Between the Buried and Me - Alaska (FLAC)
+artist: Between the Buried and Me
+album: Alaska
+spotify_url: https://open.spotify.com/search/Between%20the%20Buried%20and%20Me%20Alaska
+apple_music_url: https://geo.music.apple.com/au/album/_/1525468212?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Between%20the%20Buried%20and%20Me%20Alaska
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100422im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S__wZDSWSWI/AAAAAAAAAqs/rh-Hv889n0I/s400/%7BEDE1C16D-D6A0-445D-AC8B-C2954BA07994%7DImg100.jpg)](https://web.archive.org/web/20111010100422/http://4.bp.blogspot.com/_cLI19EXK2oU/S__wZDSWSWI/AAAAAAAAAqs/rh-Hv889n0I/s1600/%7BEDE1C16D-D6A0-445D-AC8B-C2954BA07994%7DImg100.jpg)  
 For a lot of bands, being memorable means writing inoffensive, cookie-cutter hit singles with a few irresistible hooks and huge choruses that listeners can hum along with when they hear it playing from a local rock radio station. But North Carolina's quintet, Between The Buried And Me, spit on that rule book, shred it, and throw its remains out the window, opting instead to be memorable the old-fashioned way -- with brilliant songwriting, top-notch musicianship, and a sound all their own.  

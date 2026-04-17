@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145832/http://holyfuckingshit4
 date: Monday, April 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/teenage-jesus-jerks-beirut-slump-shut.html
 title: Teenage Jesus & the Jerks / Beirut Slump- Shut Up and Bleed [FLAC]
+artist: Teenage Jesus & the Jerks / Beirut Slump
+album: Shut Up and Bleed
+spotify_url: https://open.spotify.com/search/Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
+apple_music_url: https://music.apple.com/us/search?term=Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
+youtube_url: https://www.youtube.com/results?search_query=Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145832im_/http://1.bp.blogspot.com/-y7Ym3dg0LTA/TZoz5mFuz2I/AAAAAAAABbw/yljxhASLpZA/s320/TEENAGEJESUS.jpg)](https://web.archive.org/web/20111010145832/http://1.bp.blogspot.com/-y7Ym3dg0LTA/TZoz5mFuz2I/AAAAAAAABbw/yljxhASLpZA/s1600/TEENAGEJESUS.jpg)
 

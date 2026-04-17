@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155110/http://holyfuckingshit4
 date: Thursday, December 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/12/method-man-tical-1994.html
 title: Method Man - Tical (1994)
+artist: Method Man
+album: Tical
+spotify_url: https://open.spotify.com/search/Method%20Man%20Tical
+apple_music_url: https://music.apple.com/us/search?term=Method%20Man%20Tical
+youtube_url: https://www.youtube.com/results?search_query=Method%20Man%20Tical
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155110im_/http://img13.nnm.ru/4/c/6/7/a/4c67ac4201bd30c08e6a84ee9056f339_full.jpg)](https://web.archive.org/web/20111010155110/http://img13.nnm.ru/4/c/6/7/a/4c67ac4201bd30c08e6a84ee9056f339_full.jpg)
 

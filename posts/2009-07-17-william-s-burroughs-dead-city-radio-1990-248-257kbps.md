@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141558/http://holyfuckingshit4
 date: Friday, July 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/william-s-burroughs-dead-city-radio.html
 title: William S. Burroughs - Dead City Radio (1990) [248-257kbps]
+artist: William S. Burroughs
+album: Dead City Radio
+spotify_url: https://open.spotify.com/search/William%20S.%20Burroughs%20Dead%20City%20Radio
+apple_music_url: https://geo.music.apple.com/au/album/_/1444164479?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=William%20S.%20Burroughs%20Dead%20City%20Radio
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141558im_/http://sonicyouth.com/mustang/lp/misc02a.jpg)](https://web.archive.org/web/20111010141558/http://sonicyouth.com/mustang/lp/misc02a.jpg)  
 

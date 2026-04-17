@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071703/http://holyfuckingshit4
 date: Monday, December 20, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/fabriclive50-dbridge-instramental.html
 title: 'Fabriclive.50: dBridge & Instra:Mental Present Autonomic  (2010, FLAC)'
+artist: dBridge & Instra:Mental
+album: Autonomic
+spotify_url: https://open.spotify.com/search/dBridge%20%26%20Instra%3AMental%20Autonomic
+apple_music_url: https://music.apple.com/us/search?term=dBridge%20%26%20Instra%3AMental%20Autonomic
+youtube_url: https://www.youtube.com/results?search_query=dBridge%20%26%20Instra%3AMental%20Autonomic
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071703im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQ83xKKrlnI/AAAAAAAAAfA/_dls9YIY3cM/s400/14641_201025626008_22097456008_3083976_7993919_n.jpg)](https://web.archive.org/web/20111010071703/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQ83xKKrlnI/AAAAAAAAAfA/_dls9YIY3cM/s1600/14641_201025626008_22097456008_3083976_7993919_n.jpg)  
   

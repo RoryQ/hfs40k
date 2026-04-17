@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111230223345/http://holyfuckingshit4
 date: Monday, October 10, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/10/jaco-pastorius-jaco-pastorius-24.html
 title: Jaco Pastorius - Jaco Pastorius (24-bit/96khz Vinyl)
+artist: Jaco Pastorius
+album: Jaco Pastorius
+spotify_url: https://open.spotify.com/search/Jaco%20Pastorius%20Jaco%20Pastorius
+apple_music_url: https://geo.music.apple.com/au/album/_/263187191?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Jaco%20Pastorius%20Jaco%20Pastorius
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111230223345im_/http://1.bp.blogspot.com/-5P2KkLqnSgM/TpMr63wgeRI/AAAAAAAABHQ/re1FAhjf6Jc/s400/Jaco%2BPastorius%2B%2528label_A%2529.jpg)](https://web.archive.org/web/20111230223345/http://1.bp.blogspot.com/-5P2KkLqnSgM/TpMr63wgeRI/AAAAAAAABHQ/re1FAhjf6Jc/s1600/Jaco%2BPastorius%2B%2528label_A%2529.jpg)  
 "..and I'm the greatest bass player in the world."

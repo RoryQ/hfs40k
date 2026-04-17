@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111223222028/http://holyfuckingshit4
 date: Saturday, September 17, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/oliver-nelson-blues-and-abstract-truth.html
 title: Oliver Nelson - Blues and the Abstract Truth (24-bit/96khz Vinyl)
+artist: Oliver Nelson
+album: Blues and the Abstract Truth
+spotify_url: https://open.spotify.com/search/Oliver%20Nelson%20Blues%20and%20the%20Abstract%20Truth
+apple_music_url: https://geo.music.apple.com/au/album/_/1571406209?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Oliver%20Nelson%20Blues%20and%20the%20Abstract%20Truth
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111223222028im_/http://1.bp.blogspot.com/-Lxo4t7qKb-I/TnTOp-rHkzI/AAAAAAAABFQ/uXzw9J3TvV4/s400/Oliver%2BNelson%2B-%2BImpulseAS5%2B-%2Blabel_A.jpg)](https://web.archive.org/web/20111223222028/http://1.bp.blogspot.com/-Lxo4t7qKb-I/TnTOp-rHkzI/AAAAAAAABFQ/uXzw9J3TvV4/s1600/Oliver%2BNelson%2B-%2BImpulseAS5%2B-%2Blabel_A.jpg)  
 Technichal Informations  

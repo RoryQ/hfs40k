@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010064742/http://holyfuckingshit4
 date: Saturday, August 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/divine-comedy-short-album-about-love.html
 title: The Divine Comedy - A Short Album About Love (1997)
+artist: The Divine Comedy
+album: A Short Album About Love
+spotify_url: https://open.spotify.com/search/The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
+apple_music_url: https://music.apple.com/us/search?term=The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
+youtube_url: https://www.youtube.com/results?search_query=The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064742im_/http://nobrasil.org/wordpress/wp-content/uploads/2009/04/0849_love.jpg)](https://web.archive.org/web/20111010064742/http://nobrasil.org/wordpress/wp-content/uploads/2009/04/0849_love.jpg)
 

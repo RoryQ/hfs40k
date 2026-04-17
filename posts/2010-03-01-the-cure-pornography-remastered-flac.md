@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111017153309/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/cure-pornography-flac.html
 title: The Cure - Pornography (Remastered FLAC)
+artist: The Cure
+album: Pornography
+spotify_url: https://open.spotify.com/search/The%20Cure%20Pornography
+apple_music_url: https://geo.music.apple.com/au/album/_/1443463308?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Cure%20Pornography
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111017153309im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S4w3Z247k3I/AAAAAAAAAY4/OFZJL8j-US4/s400/pornography.jpg)](https://web.archive.org/web/20111017153309/http://1.bp.blogspot.com/_cLI19EXK2oU/S4w3Z247k3I/AAAAAAAAAY4/OFZJL8j-US4/s1600-h/pornography.jpg)  
 Unquestionably this was Robert Smith's darkest hour. This 8-track release is oppressive in its bleak attack. It deserves 5 stars due to its sheer brilliance and originally; nothing ever sounded like this before or since. But for newcomers reading these great reviews be forewarned - I did not use the word oppressive by accident. Every moment of 'Pornography' is black, despeairing and tortured. If you are on the verge of suicide this could be a rope thrown to save you or it could be a mack truck with a plow on the front driving you further over the edge. If you can get past that then what you will find is a stunningly creative album that creates some of the most sepulchral music ever heard.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111209005237/http://holyfuckingshit4
 date: Saturday, May 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/3-pixies-doolittle-24bit-96khz-vinyl.html
 title: '#3 Pixies - Doolittle (24bit-96khz Vinyl)'
+artist: '#3 Pixies'
+album: Doolittle
+spotify_url: https://open.spotify.com/search/%233%20Pixies%20Doolittle
+apple_music_url: https://music.apple.com/us/search?term=%233%20Pixies%20Doolittle
+youtube_url: https://www.youtube.com/results?search_query=%233%20Pixies%20Doolittle
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209005237im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S-WGcf3a_CI/AAAAAAAAAj8/19PcvOBQB8w/s400/doolittle-by-pixies_i47h1bxwskmx_full.jpg)](https://web.archive.org/web/20111209005237/http://3.bp.blogspot.com/_cLI19EXK2oU/S-WGcf3a_CI/AAAAAAAAAj8/19PcvOBQB8w/s1600/doolittle-by-pixies_i47h1bxwskmx_full.jpg)  
 If asked what my favorite cut from this album is, I am very nearly at a loss. Doolittle is simply relentless, with one astonishingly polished, robust, inventive, glorious cut after another. We like to talk about albums that have no filler, but this is one of the few that justifies that description. If there is a critcism that could be made of this album, it is that it is too consistently brilliant to digest properly. By the way, if forced to chose a favorite cut, I might go with "Gouge Away," but I wouldn't go too far out of the way to defend my choice, and I might feel differently on a different day.  

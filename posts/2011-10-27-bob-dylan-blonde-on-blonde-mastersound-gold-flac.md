@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120107025215/http://holyfuckingshit4
 date: Thursday, October 27, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/10/bob-dylan-blonde-on-blonde-mastersound.html
 title: Bob Dylan - Blonde on Blonde (Mastersound Gold FLAC)
+artist: Bob Dylan
+album: Blonde on Blonde
+spotify_url: https://open.spotify.com/search/Bob%20Dylan%20Blonde%20on%20Blonde
+apple_music_url: https://geo.music.apple.com/au/album/_/178049863?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Bob%20Dylan%20Blonde%20on%20Blonde
 ---
+
+
+
 
 *[![](https://web.archive.org/web/20120107025215im_/http://upload.wikimedia.org/wikipedia/en/d/d9/Music_blonde_on_blonde.jpg)](https://web.archive.org/web/20120107025215/http://upload.wikimedia.org/wikipedia/en/d/d9/Music_blonde_on_blonde.jpg)*
 

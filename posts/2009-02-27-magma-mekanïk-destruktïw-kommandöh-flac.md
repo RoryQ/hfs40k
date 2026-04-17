@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010072557/http://holyfuckingshit4
 date: Friday, February 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/magma-mekanik-destruktiw-kommandoh-flac.html
 title: "Magma - Mekan\xEFk Destrukt\xEFw Kommand\xF6h (FLAC)"
+artist: Magma
+album: "Mekan\xEFk Destrukt\xEFw Kommand\xF6h"
+spotify_url: https://open.spotify.com/search/Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
+apple_music_url: https://music.apple.com/us/search?term=Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
+youtube_url: https://www.youtube.com/results?search_query=Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010072557im_/http://i43.tinypic.com/256tvsy.jpg)](https://web.archive.org/web/20111010072557/http://i43.tinypic.com/256tvsy.jpg)  
 I knew one Magma fan IRL. I had to take an art class this semester to fulfill a general education requirement, but the room was full of fulltime art majors, AKA weirdos. Christ on a crutch though, this kid took the cake. He wore a (rather-expensive looking) peacoat all the time that held shut with safety pins and industrial staples. For pants he sported plaid knickers: the kind of stuff you'd expect a golfer to wear. Of course, these went great with his SS boots, which had spurs on them until the university decided that was a safety code violation. He spent entire class periods in the back of the room giggling to himself and leering at girls out of one eye (the other one being covered by his hair) and he never seemed to take his earbuds out. Needless to say, even the other art weirdos were creeped the fuck out by this guy.  

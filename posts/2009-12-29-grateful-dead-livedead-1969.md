@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010153014/http://holyfuckingshit4
 date: Tuesday, December 29, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/12/grateful-dead-livedead-1969.html
 title: Grateful Dead - Live/Dead (1969)
+artist: Grateful Dead
+album: Live/Dead
+spotify_url: https://open.spotify.com/search/Grateful%20Dead%20Live/Dead
+apple_music_url: https://geo.music.apple.com/au/album/_/20885553?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Grateful%20Dead%20Live/Dead
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010153014im_/http://3.bp.blogspot.com/_bIgHZQu-UEA/Szr41G-KXUI/AAAAAAAAAMs/V6gWeiGAnWE/s320/TheGratefulDead.jpg)](https://web.archive.org/web/20111010153014/http://3.bp.blogspot.com/_bIgHZQu-UEA/Szr41G-KXUI/AAAAAAAAAMs/V6gWeiGAnWE/s1600-h/TheGratefulDead.jpg)
 

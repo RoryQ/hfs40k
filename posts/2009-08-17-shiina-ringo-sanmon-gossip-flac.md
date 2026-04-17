@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145604/http://holyfuckingshit4
 date: Monday, August 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/shiina-ringo-sanmon-gossip-flac.html
 title: Shiina Ringo - Sanmon Gossip [FLAC]
+artist: Shiina Ringo
+album: Sanmon Gossip
+spotify_url: https://open.spotify.com/search/Shiina%20Ringo%20Sanmon%20Gossip
+apple_music_url: https://music.apple.com/us/search?term=Shiina%20Ringo%20Sanmon%20Gossip
+youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Sanmon%20Gossip
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145604im_/http://4.bp.blogspot.com/_A31Dfz4S5yg/SonhJ7Zt_FI/AAAAAAAAAGk/xOz5bMDXkh8/s320/301956.jpg)](https://web.archive.org/web/20111010145604/http://4.bp.blogspot.com/_A31Dfz4S5yg/SonhJ7Zt_FI/AAAAAAAAAGk/xOz5bMDXkh8/s1600-h/301956.jpg)流行  
 労働者  

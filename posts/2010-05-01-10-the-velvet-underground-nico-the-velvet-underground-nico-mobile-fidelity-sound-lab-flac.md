@@ -4,7 +4,15 @@ date: Saturday, May 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/10-velvet-underground-nico-velvet.html
 title: '#10 The Velvet Underground & Nico - The Velvet Underground & Nico (Mobile
   Fidelity Sound Lab FLAC)'
+artist: '#10 The Velvet Underground & Nico'
+album: The Velvet Underground & Nico
+spotify_url: https://open.spotify.com/search/%2310%20The%20Velvet%20Underground%20%26%20Nico%20The%20Velvet%20Underground%20%26%20Nico
+apple_music_url: https://geo.music.apple.com/au/album/_/1440851613?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=%2310%20The%20Velvet%20Underground%20%26%20Nico%20The%20Velvet%20Underground%20%26%20Nico
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209004716im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S9yyKZASewI/AAAAAAAAAhc/iB1QvpeH3qo/s400/velvet-underground-and-nico.jpg)](https://web.archive.org/web/20111209004716/http://2.bp.blogspot.com/_cLI19EXK2oU/S9yyKZASewI/AAAAAAAAAhc/iB1QvpeH3qo/s1600/velvet-underground-and-nico.jpg)  
   

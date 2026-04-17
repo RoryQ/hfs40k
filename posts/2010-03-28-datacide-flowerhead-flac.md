@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081843/http://holyfuckingshit4
 date: Sunday, March 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/datacide-flowerhead-flac.html
 title: Datacide - Flowerhead FLAC
+artist: Datacide
+album: Flowerhead FLAC
+spotify_url: https://open.spotify.com/search/Datacide%20Flowerhead%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Datacide%20Flowerhead%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Datacide%20Flowerhead%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081843im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S69llbk4itI/AAAAAAAAAHc/xB_jhZZUC8A/s400/ASP0964-00.jpg)](https://web.archive.org/web/20111010081843/http://3.bp.blogspot.com/_t6lWjgwMoxw/S69llbk4itI/AAAAAAAAAHc/xB_jhZZUC8A/s1600/ASP0964-00.jpg)  
   

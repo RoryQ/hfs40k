@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050049/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/lightning-bolt-wonderful-rainbow-flac.html
 title: Lightning Bolt - Wonderful Rainbow (FLAC)
+artist: Lightning Bolt
+album: Wonderful Rainbow
+spotify_url: https://open.spotify.com/search/Lightning%20Bolt%20Wonderful%20Rainbow
+apple_music_url: https://music.apple.com/us/search?term=Lightning%20Bolt%20Wonderful%20Rainbow
+youtube_url: https://www.youtube.com/results?search_query=Lightning%20Bolt%20Wonderful%20Rainbow
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010050049im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WlDf5p90I/AAAAAAAAAf0/_ccObDIWuGw/s400/wonderful-rainbow.jpg)](https://web.archive.org/web/20111010050049/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WlDf5p90I/AAAAAAAAAf0/_ccObDIWuGw/s1600/wonderful-rainbow.jpg)  
 Oh Jeebus, this is one intense album. For those unfamiliar with Lightning Bolt, the loud, hard-pounding Wonderful Rainbow should serve as a suitable introduction to this manic drum-and-bass duo. There may only be two instruments being played, and a few wordless vocals scattered throughout, but Wonderful Rainbow is anything but minimal. This is one busy album, filled with dense, complex, and occasionally playful pieces of noise rock that will have you banging your head in no time at all.   

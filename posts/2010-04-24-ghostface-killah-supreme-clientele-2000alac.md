@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045537/http://holyfuckingshit4
 date: Saturday, April 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/ghostface-killah-supreme-clientele.html
 title: Ghostface Killah- Supreme Clientele [2000/ALAC]
+artist: Ghostface Killah
+album: Supreme Clientele
+spotify_url: https://open.spotify.com/search/Ghostface%20Killah%20Supreme%20Clientele
+apple_music_url: https://music.apple.com/us/search?term=Ghostface%20Killah%20Supreme%20Clientele
+youtube_url: https://www.youtube.com/results?search_query=Ghostface%20Killah%20Supreme%20Clientele
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045537im_/http://1.bp.blogspot.com/_CgOKSAc2wgY/SGbh5FmMiFI/AAAAAAAAANI/SCv6RrFOlic/s400/Ghostface_Killah_-_Supreme_Clientele_(Front).jpg)](https://web.archive.org/web/20111010045537/http://1.bp.blogspot.com/_CgOKSAc2wgY/SGbh5FmMiFI/AAAAAAAAANI/SCv6RrFOlic/s400/Ghostface_Killah_-_Supreme_Clientele_(Front).jpg)  
 general\_tso's AOTD.   

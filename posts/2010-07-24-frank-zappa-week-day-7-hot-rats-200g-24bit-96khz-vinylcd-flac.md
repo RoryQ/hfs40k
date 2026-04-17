@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053048/http://holyfuckingshit4
 date: Saturday, July 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-zappa-week-day-7-hot-rats-200g-24.html
 title: 'Frank Zappa Week - Day #7 Hot Rats (200g 24bit-96khz Vinyl/CD FLAC)'
+artist: Frank Zappa Week
+album: 'Day #7 Hot Rats'
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053048im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TEsWTOykLGI/AAAAAAAAAv0/y0HZCWoHT-Y/s400/Hot_Rats.jpg)](https://web.archive.org/web/20111010053048/http://2.bp.blogspot.com/_cLI19EXK2oU/TEsWTOykLGI/AAAAAAAAAv0/y0HZCWoHT-Y/s1600/Hot_Rats.jpg)  
 'the present day composer refuses to die' was the quotation from Edgar Varese which graced each of the Mothers albums as I remember from the vinyl releases in England.

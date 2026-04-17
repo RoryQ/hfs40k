@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123233/http://holyfuckingshit4
 date: Thursday, January 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/silver-mt-zion-kollaps-tradixionales.html
 title: A Silver Mt. Zion - Kollaps Tradixionales (2010)
+artist: A Silver Mt. Zion
+album: Kollaps Tradixionales
+spotify_url: https://open.spotify.com/search/A%20Silver%20Mt.%20Zion%20Kollaps%20Tradixionales
+apple_music_url: https://geo.music.apple.com/au/album/_/482060439?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zion%20Kollaps%20Tradixionales
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123233im_/http://www.exclaim.ca/images/up-Kollaps_Tradixionales.jpg)](https://web.archive.org/web/20111010123233/http://www.exclaim.ca/images/up-Kollaps_Tradixionales.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112651/http://holyfuckingshit4
 date: Thursday, October 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/robert-wyatt-shleep-flac.html
 title: Robert Wyatt - Shleep (FLAC)
+artist: Robert Wyatt
+album: Shleep
+spotify_url: https://open.spotify.com/search/Robert%20Wyatt%20Shleep
+apple_music_url: https://music.apple.com/us/search?term=Robert%20Wyatt%20Shleep
+youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Shleep
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112651im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TK4nxR6jXQI/AAAAAAAAA2c/rb3j5pQUyBA/s400/shleep.jpg)](https://web.archive.org/web/20111010112651/http://1.bp.blogspot.com/_cLI19EXK2oU/TK4nxR6jXQI/AAAAAAAAA2c/rb3j5pQUyBA/s1600/shleep.jpg)  
 For an album that's as cerebral as it is emotional, Shleep is amazingly enjoyable the first time you hear it, unlike the brittle dreck of self-avowed alternative music that must be listened to countless times to be appreciated. Yet unlike pleasant pop, Shleep reveals new meanings and perspectives each time you listen to it.

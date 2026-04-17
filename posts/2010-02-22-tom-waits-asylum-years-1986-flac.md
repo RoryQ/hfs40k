@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155924/http://holyfuckingshit4
 date: Monday, February 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/tom-waits-asylum-years-1986-flac.html
 title: Tom Waits - Asylum Years (1986) [FLAC]
+artist: Tom Waits
+album: Asylum Years
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Asylum%20Years
+apple_music_url: https://geo.music.apple.com/au/album/_/1485070169?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Asylum%20Years
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155924im_/http://2.bp.blogspot.com/_bIgHZQu-UEA/S4N_PiQiK4I/AAAAAAAAAW0/J7RDtK0zXcc/s400/asylum+years.jpg)](https://web.archive.org/web/20111010155924/http://2.bp.blogspot.com/_bIgHZQu-UEA/S4N_PiQiK4I/AAAAAAAAAW0/J7RDtK0zXcc/s1600-h/asylum+years.jpg)  
 

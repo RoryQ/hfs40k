@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203185026/http://holyfuckingshit4
 date: Sunday, February 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/stendeck-sonnambula-2009.html
 title: Stendeck - Sonnambula (2009)
+artist: Stendeck
+album: Sonnambula
+spotify_url: https://open.spotify.com/search/Stendeck%20Sonnambula
+apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Sonnambula
+youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Sonnambula
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203185026im_/http://i39.tinypic.com/2lnieiq.jpg)](https://web.archive.org/web/20101203185026/http://i39.tinypic.com/2lnieiq.jpg)  
 Genre: IDM / Ambient  

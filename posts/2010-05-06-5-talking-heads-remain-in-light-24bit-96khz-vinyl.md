@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111209004725/http://holyfuckingshit4
 date: Thursday, May 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/5-talking-heads-remain-in-light-24bit.html
 title: '#5 Talking Heads - Remain In Light (24bit-96khz Vinyl)'
+artist: '#5 Talking Heads'
+album: Remain In Light
+spotify_url: https://open.spotify.com/search/%235%20Talking%20Heads%20Remain%20In%20Light
+apple_music_url: https://geo.music.apple.com/au/album/_/300948043?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=%235%20Talking%20Heads%20Remain%20In%20Light
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209004725im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S-NQB8UCb1I/AAAAAAAAAjk/YcT9mYPejGQ/s400/remain-in-light.jpg)](https://web.archive.org/web/20111209004725/http://3.bp.blogspot.com/_cLI19EXK2oU/S-NQB8UCb1I/AAAAAAAAAjk/YcT9mYPejGQ/s1600/remain-in-light.jpg)  
   

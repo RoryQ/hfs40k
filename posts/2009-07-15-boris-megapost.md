@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010142533/http://holyfuckingshit4
 date: Wednesday, July 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/boris-megapost.html
 title: Boris Megapost
+artist: Boris
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010142533im_/http://2.bp.blogspot.com/_OYyGYtJuluk/Sl5WSSeceSI/AAAAAAAAARk/Di-Jp_TnJnU/s320/Boris.jpg)](https://web.archive.org/web/20111010142533/http://2.bp.blogspot.com/_OYyGYtJuluk/Sl5WSSeceSI/AAAAAAAAARk/Di-Jp_TnJnU/s1600-h/Boris.jpg)[Absolutego+ [320 mp3]](https://web.archive.org/web/20111010142533/http://lix.in/-4f86f5)  
 

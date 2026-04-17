@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082547/http://holyfuckingshit4
 date: Tuesday, March 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/tim-hecker-haunt-me-haunt-me-do-it.html
 title: Tim Hecker - Haunt Me Haunt Me, Do It Again (FLAC)
+artist: Tim Hecker
+album: Haunt Me Haunt Me, Do It Again
+spotify_url: https://open.spotify.com/search/Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
+apple_music_url: https://music.apple.com/us/search?term=Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
+youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082547im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S5-33ENnMAI/AAAAAAAAAbA/RU9k2aTxG9o/s400/Tim_Hecker-Haunt_Me_cover.jpg)](https://web.archive.org/web/20111010082547/http://1.bp.blogspot.com/_cLI19EXK2oU/S5-33ENnMAI/AAAAAAAAAbA/RU9k2aTxG9o/s1600-h/Tim_Hecker-Haunt_Me_cover.jpg)  
   

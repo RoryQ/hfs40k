@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160237/http://holyfuckingshit4
 date: Sunday, February 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/joao-gilberto-joao-gilberto-flac.html
 title: Joao Gilberto - Joao Gilberto  (FLAC)
+artist: Joao Gilberto
+album: Joao Gilberto
+spotify_url: https://open.spotify.com/search/Joao%20Gilberto%20Joao%20Gilberto
+apple_music_url: https://geo.music.apple.com/au/album/_/1778117441?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Joao%20Gilberto%20Joao%20Gilberto
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160237im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S4GkruArcjI/AAAAAAAAAWo/p89PCzaQUJA/s400/Joo%2BGilberto.jpg)](https://web.archive.org/web/20111010160237/http://1.bp.blogspot.com/_cLI19EXK2oU/S4GkruArcjI/AAAAAAAAAWo/p89PCzaQUJA/s1600-h/Joo%2BGilberto.jpg)  
   

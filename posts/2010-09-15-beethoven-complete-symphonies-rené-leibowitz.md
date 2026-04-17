@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175806/http://holyfuckingshit4
 date: Wednesday, September 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/ludwig-van-beethoven-9-symphonies.html
 title: "Beethoven - Complete Symphonies (Ren\xE9 Leibowitz)"
+artist: Beethoven
+album: Complete Symphonies
+spotify_url: https://open.spotify.com/search/Beethoven%20Complete%20Symphonies
+apple_music_url: https://music.apple.com/us/search?term=Beethoven%20Complete%20Symphonies
+youtube_url: https://www.youtube.com/results?search_query=Beethoven%20Complete%20Symphonies
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175806im_/http://2.bp.blogspot.com/_jrASt-yq9g4/TJF1PLm6vYI/AAAAAAAAABg/yNBAXbqdzrE/s400/leibowitz.jpg)](https://web.archive.org/web/20111010175806/http://2.bp.blogspot.com/_jrASt-yq9g4/TJF1PLm6vYI/AAAAAAAAABg/yNBAXbqdzrE/s1600/leibowitz.jpg)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100649/http://holyfuckingshit4
 date: Tuesday, May 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/la-monte-young-well-tuned-piano-81-x-25.html
 title: La Monte Young - The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC (FLAC)
+artist: La Monte Young
+album: The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC
+spotify_url: https://open.spotify.com/search/La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
+apple_music_url: https://music.apple.com/us/search?term=La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
+youtube_url: https://www.youtube.com/results?search_query=La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100649im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S-kYtXRfzoI/AAAAAAAAANk/rO-FfJ1hsvA/s400/R-868783-1194825220.jpeg)](https://web.archive.org/web/20111010100649/http://4.bp.blogspot.com/_t6lWjgwMoxw/S-kYtXRfzoI/AAAAAAAAANk/rO-FfJ1hsvA/s1600/R-868783-1194825220.jpeg)  
   

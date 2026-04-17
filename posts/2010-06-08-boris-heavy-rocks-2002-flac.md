@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173337/http://holyfuckingshit4
 date: Tuesday, June 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/boris-heavy-rocks-2002-flac.html
 title: Boris - Heavy Rocks (2002) [FLAC]
+artist: Boris
+album: Heavy Rocks
+spotify_url: https://open.spotify.com/search/Boris%20Heavy%20Rocks
+apple_music_url: https://geo.music.apple.com/au/album/_/1854903721?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Boris%20Heavy%20Rocks
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173337im_/http://2.bp.blogspot.com/_5cVyPU93ihM/TA467pjfMcI/AAAAAAAAARI/jL0w8jb9plA/s400/heavy%2Brocks.jpg)](https://web.archive.org/web/20111010173337/http://2.bp.blogspot.com/_5cVyPU93ihM/TA467pjfMcI/AAAAAAAAARI/jL0w8jb9plA/s1600/heavy%2Brocks.jpg)  
 heliumanchors' request  

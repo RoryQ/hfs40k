@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010044808/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/eels-electro-shock-blues-flac.html
 title: Eels - Electro-Shock Blues (FLAC)
+artist: Eels
+album: Electro-Shock Blues
+spotify_url: https://open.spotify.com/search/Eels%20Electro-Shock%20Blues
+apple_music_url: https://music.apple.com/us/search?term=Eels%20Electro-Shock%20Blues
+youtube_url: https://www.youtube.com/results?search_query=Eels%20Electro-Shock%20Blues
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010044808im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S8yFnvDNoGI/AAAAAAAAAeE/9ry-gahHEb4/s400/Eels-electro-shock-Blues.jpg)](https://web.archive.org/web/20111010044808/http://2.bp.blogspot.com/_cLI19EXK2oU/S8yFnvDNoGI/AAAAAAAAAeE/9ry-gahHEb4/s1600/Eels-electro-shock-Blues.jpg)  
   

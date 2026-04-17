@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081942/http://holyfuckingshit4
 date: Wednesday, March 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/labradford.html
 title: Labradford
+artist: Labradford
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 This band, alongside with many other 90s post-rock forerunners, always reminds me why I couldn't care less about all the guitar melodramas these days.  
   

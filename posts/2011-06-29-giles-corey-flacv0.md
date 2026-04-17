@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008161933/http://holyfuckingshit4
 date: Wednesday, June 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/giles-corey-flacv0.html
 title: Giles Corey [FLAC/v0]
+artist: Giles Corey
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008161933im_/http://3.bp.blogspot.com/-zMTF-a7wviw/TgvnTIw1piI/AAAAAAAAAV0/qrIxxc1PihA/s400/gilescorey1.png)](https://web.archive.org/web/20111008161933/http://3.bp.blogspot.com/-zMTF-a7wviw/TgvnTIw1piI/AAAAAAAAAV0/qrIxxc1PihA/s1600/gilescorey1.png)*"Sometime in the Spring of 2009 I tried to kill myself. Six months before that, I used a Voor’s Head Device for the first time."*  
   

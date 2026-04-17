@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20110301172139/http://holyfuckingshit4
 date: Saturday, December 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/scientist-launches-dubstep-into-outer.html
 title: Scientist Launches Dubstep Into Outer Space! (2010, FLAC)
+artist: Scientist
+album: Launches Dubstep Into Outer Space
+spotify_url: https://open.spotify.com/search/Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
+apple_music_url: https://music.apple.com/us/search?term=Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
+youtube_url: https://www.youtube.com/results?search_query=Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
 ---
+
+
+
 
 [![](https://web.archive.org/web/20110301172139im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TQNoyjXcAVI/AAAAAAAAAeQ/v65mJXNflPI/s400/1291177098_6750aa5d-76ec-4030-b6c7-05041bc12d58.jpg)](https://web.archive.org/web/20110301172139/http://4.bp.blogspot.com/_t6lWjgwMoxw/TQNoyjXcAVI/AAAAAAAAAeQ/v65mJXNflPI/s1600/1291177098_6750aa5d-76ec-4030-b6c7-05041bc12d58.jpg)  
   

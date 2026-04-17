@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100426114528/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/kayo-dot-uber-post-flacv0_19.html
 title: "Kayo Dot \xDCBER-POST (FLAC/v0)"
+artist: "Kayo Dot \xDCBER"
+album: POST
+spotify_url: https://open.spotify.com/search/Kayo%20Dot%20%C3%9CBER%20POST
+apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20%C3%9CBER%20POST
+youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20%C3%9CBER%20POST
 ---
+
+
+
 
 Choirs of the Eye
 

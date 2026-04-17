@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065223/http://holyfuckingshit4
 date: Tuesday, August 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/weezer-pinkerton-flac.html
 title: Weezer - Pinkerton (FLAC)
+artist: Weezer
+album: Pinkerton
+spotify_url: https://open.spotify.com/search/Weezer%20Pinkerton
+apple_music_url: https://music.apple.com/us/search?term=Weezer%20Pinkerton
+youtube_url: https://www.youtube.com/results?search_query=Weezer%20Pinkerton
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065223im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TGrIjuUbIXI/AAAAAAAAAyk/9TKXQ90SW_c/s400/Weezer-Pinkerton-Frontal.jpg)](https://web.archive.org/web/20111010065223/http://2.bp.blogspot.com/_cLI19EXK2oU/TGrIjuUbIXI/AAAAAAAAAyk/9TKXQ90SW_c/s1600/Weezer-Pinkerton-Frontal.jpg)  
 Pinkerton... where to begin? Most Weezer fans favor either this album or the Blue Album as Weezer's best (the Green Album is generally accepted as inferior to these two). The majority of them favor Pinkerton. But why? Pinkerton was a commercial failure, at least compared to the Blue Album. When it was first released, no one liked it. Not even me.

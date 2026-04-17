@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120109215807/http://holyfuckingshit4
 date: Friday, December 16, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/12/flaming-lips-zaireeka-superior-5-in-1.html
 title: The Flaming Lips - Zaireeka (superior 5-in-1 stereo mix FLAC)
+artist: The Flaming Lips
+album: Zaireeka
+spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Zaireeka
+apple_music_url: https://geo.music.apple.com/au/album/_/1695992880?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Zaireeka
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120109215807im_/http://1.bp.blogspot.com/-ugmGGI2iDvU/Tut4mA1TDDI/AAAAAAAABLM/RuV5rcBCyYk/s400/the-flaming-lips-zaireeka-468215.jpg)](https://web.archive.org/web/20120109215807/http://1.bp.blogspot.com/-ugmGGI2iDvU/Tut4mA1TDDI/AAAAAAAABLM/RuV5rcBCyYk/s1600/the-flaming-lips-zaireeka-468215.jpg)  
   

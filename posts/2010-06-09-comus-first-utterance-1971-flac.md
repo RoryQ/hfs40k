@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173202/http://holyfuckingshit4
 date: Wednesday, June 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/comus-first-utterance-1971-flac.html
 title: Comus - First Utterance (1971) [FLAC]
+artist: Comus
+album: First Utterance
+spotify_url: https://open.spotify.com/search/Comus%20First%20Utterance
+apple_music_url: https://music.apple.com/us/search?term=Comus%20First%20Utterance
+youtube_url: https://www.youtube.com/results?search_query=Comus%20First%20Utterance
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173202im_/http://4.bp.blogspot.com/_5cVyPU93ihM/TA98UtH0s3I/AAAAAAAAARQ/j7dXABoh4oc/s400/Full.jpg)](https://web.archive.org/web/20111010173202/http://4.bp.blogspot.com/_5cVyPU93ihM/TA98UtH0s3I/AAAAAAAAARQ/j7dXABoh4oc/s1600/Full.jpg)  
   

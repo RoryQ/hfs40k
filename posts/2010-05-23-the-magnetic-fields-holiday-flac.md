@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094920/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/magnetic-fields-holiday-flac.html
 title: The Magnetic Fields - Holiday (FLAC)
+artist: The Magnetic Fields
+album: Holiday
+spotify_url: https://open.spotify.com/search/The%20Magnetic%20Fields%20Holiday
+apple_music_url: https://music.apple.com/us/search?term=The%20Magnetic%20Fields%20Holiday
+youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Fields%20Holiday
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094920im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S_l_tnIT78I/AAAAAAAAApc/VOb4SigxUFQ/s400/holiday_large-1.jpg)](https://web.archive.org/web/20111010094920/http://1.bp.blogspot.com/_cLI19EXK2oU/S_l_tnIT78I/AAAAAAAAApc/VOb4SigxUFQ/s1600/holiday_large-1.jpg)  
 So here it is 1994 and Stephin Merritt has expounded on his ideas of pre-programmed love songs, so they sound better than ever, though hardly glossed over. They're just as messy, with loose ends showing everywhere. He also takes over as the sole singer of the Magnetic Fields. What happened to Susan? I have no idea. She's only on one track here. But mostly we have Stephin in all his depressed glory. He might have the most depressed lackadaisical voice in music. Whether its the fun "Swinging London" or the terribly depressing "The Flowers She Sent," he treats them all the same, but his voice always seems to get in your head. He actually shows a lot of range on "All You Ever Do Is Walk Away" where it sounds like he's yelling so much, poor Stephin's head is going to pop off!

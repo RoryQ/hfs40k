@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045715/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/flaming-lips-clouds-taste-metallic-flac.html
 title: The Flaming Lips - Clouds Taste Metallic (FLAC)
+artist: The Flaming Lips
+album: Clouds Taste Metallic
+spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
+apple_music_url: https://music.apple.com/us/search?term=The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
+youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045715im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yIuZZVbtI/AAAAAAAAAec/Vos5sCAQyj4/s400/metallic.jpg)](https://web.archive.org/web/20111010045715/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yIuZZVbtI/AAAAAAAAAec/Vos5sCAQyj4/s1600/metallic.jpg)  
 It's hard not to like the Flaming Lips. These alt-rockers take such elaborate pleasure in being over-the-top weird that's impossible not to be sucked in. Wonderfully weird titles, complex music laced with unusual instruments, and a can't-be-copied sense of wonder make this one of the best albums to come out of the 90s.

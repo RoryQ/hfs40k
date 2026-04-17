@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203161855/http://holyfuckingshit4
 date: Monday, March 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/masta-killa-no-said-date-flac.html
 title: Masta Killa - No Said Date (FLAC)
+artist: Masta Killa
+album: No Said Date
+spotify_url: https://open.spotify.com/search/Masta%20Killa%20No%20Said%20Date
+apple_music_url: https://music.apple.com/us/search?term=Masta%20Killa%20No%20Said%20Date
+youtube_url: https://www.youtube.com/results?search_query=Masta%20Killa%20No%20Said%20Date
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203161855im_/http://4.bp.blogspot.com/_pqcGUSDUhi4/S6e2JBo2cbI/AAAAAAAAAA0/fl3uwicfyg8/s320/cover.jpg)](https://web.archive.org/web/20101203161855/http://4.bp.blogspot.com/_pqcGUSDUhi4/S6e2JBo2cbI/AAAAAAAAAA0/fl3uwicfyg8/s1600-h/cover.jpg)  
   

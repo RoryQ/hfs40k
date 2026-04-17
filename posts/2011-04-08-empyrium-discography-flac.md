@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010150001/http://holyfuckingshit4
 date: Friday, April 8, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/empyrium-discography-flac.html
 title: Empyrium Discography [FLAC]
+artist: Empyrium
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010150001im_/http://2.bp.blogspot.com/-kqxQQ-PesPY/TZ_01xq9GwI/AAAAAAAAAIo/e6whg4HiaFs/s400/2345_logo.gif)](https://web.archive.org/web/20111010150001/http://2.bp.blogspot.com/-kqxQQ-PesPY/TZ_01xq9GwI/AAAAAAAAAIo/e6whg4HiaFs/s1600/2345_logo.gif)Not going to say too much this time, but I will provide a few thoughts. Empyrium's 1997 album is by far my favorite they've released. It's most like their first album and 1995 EP. *[Where at Night the Wood Grouse Sings](https://web.archive.org/web/20111010150001/http://holyfuckingshit40000.blogspot.com/2011/04/empyrium-where-at-night-wood-grouse.html)*(HFS:40000 Post) is most like *Weiland*. *A Retrospective*... is a musical self-reflection: an understanding of the band's changes during the time they existed and a re-imagining of a lot of the band's compositions. If you want a good introductory song that's among the most wonderfully beautiful of works by this excellently folky band, listen to their latest track on *[Whom The Moon A Nightsong Sings](https://web.archive.org/web/20111010150001/http://holyfuckingshit40000.blogspot.com/2011/04/thank-you-tolkkii.html)*(HFS:40000 Post) called *The Days Before the Fall*.
   

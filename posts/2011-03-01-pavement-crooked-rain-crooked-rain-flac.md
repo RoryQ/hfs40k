@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111455/http://holyfuckingshit4
 date: Tuesday, March 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/pavement-crooked-rain-crooked-rain-flac.html
 title: Pavement - Crooked Rain, Crooked Rain (FLAC)
+artist: Pavement
+album: Crooked Rain, Crooked Rain
+spotify_url: https://open.spotify.com/search/Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
+apple_music_url: https://music.apple.com/us/search?term=Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
+youtube_url: https://www.youtube.com/results?search_query=Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111455im_/http://2.bp.blogspot.com/-a7s57bSO-EA/TW1OaP1m4-I/AAAAAAAAA5E/IL1BJzIabJs/s400/Pavement_-_Crooked_Rain%252C_Crooked_Rain.jpg)](https://web.archive.org/web/20111010111455/http://2.bp.blogspot.com/-a7s57bSO-EA/TW1OaP1m4-I/AAAAAAAAA5E/IL1BJzIabJs/s1600/Pavement_-_Crooked_Rain%252C_Crooked_Rain.jpg)  
 Ah, Crooked Rain, Crooked Rain - a modern rock album so stuffed to the gills with effortlessly accomplished, highly melodic songwriting that it throws away its best riff in the first 90 seconds. If that act of glorious waste isn't what Pavement was about, then I don't know what qualifies.  

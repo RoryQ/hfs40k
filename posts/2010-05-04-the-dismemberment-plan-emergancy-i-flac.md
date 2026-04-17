@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100734/http://holyfuckingshit4
 date: Tuesday, May 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/dismemberment-plan-emergancy-i-flac.html
 title: The Dismemberment Plan - Emergancy & I (FLAC)
+artist: The Dismemberment Plan
+album: Emergancy & I
+spotify_url: https://open.spotify.com/search/The%20Dismemberment%20Plan%20Emergancy%20%26%20I
+apple_music_url: https://music.apple.com/us/search?term=The%20Dismemberment%20Plan%20Emergancy%20%26%20I
+youtube_url: https://www.youtube.com/results?search_query=The%20Dismemberment%20Plan%20Emergancy%20%26%20I
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100734im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S-DLZqj7hdI/AAAAAAAAAi0/JldsqlEmCL4/s400/emergency-i.jpg)](https://web.archive.org/web/20111010100734/http://4.bp.blogspot.com/_cLI19EXK2oU/S-DLZqj7hdI/AAAAAAAAAi0/JldsqlEmCL4/s1600/emergency-i.jpg)  
 Every once in a while, you come across a band so unique you become a missionary for their music. For a lot of people, including me, Dismemberment Plan is one of those bands.

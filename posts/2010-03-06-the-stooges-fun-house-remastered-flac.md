@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081018/http://holyfuckingshit4
 date: Saturday, March 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/stooges-fun-house-remasteed-flac.html
 title: The Stooges - Fun House (Remastered FLAC)
+artist: The Stooges
+album: Fun House
+spotify_url: https://open.spotify.com/search/The%20Stooges%20Fun%20House
+apple_music_url: https://music.apple.com/us/search?term=The%20Stooges%20Fun%20House
+youtube_url: https://www.youtube.com/results?search_query=The%20Stooges%20Fun%20House
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081018im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S5KRfd7XXUI/AAAAAAAAAaQ/PMdgRloYU2U/s400/stooges+fun+house.jpeg)](https://web.archive.org/web/20111010081018/http://1.bp.blogspot.com/_cLI19EXK2oU/S5KRfd7XXUI/AAAAAAAAAaQ/PMdgRloYU2U/s1600-h/stooges+fun+house.jpeg)  
   

@@ -4,7 +4,15 @@ date: Tuesday, August 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/classical-week-day-3-antonin-dvorak.html
 title: "Classical Week - Day #3 Anton\xEDn Dvo\u0159\xE1k: Violin Concerto / Josef\
   \ Suk: Fantasy (Karel Ancerl)"
+artist: Classical Week
+album: "Day #3 Anton\xEDn Dvo\u0159\xE1k: Violin Concerto / Josef Suk: Fantasy"
+spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
+apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
+youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064943im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TGEQv6MMsUI/AAAAAAAAAxk/0b_UG1B4hNw/s400/600x600.jpg)](https://web.archive.org/web/20111010064943/http://3.bp.blogspot.com/_cLI19EXK2oU/TGEQv6MMsUI/AAAAAAAAAxk/0b_UG1B4hNw/s1600/600x600.jpg)  
 

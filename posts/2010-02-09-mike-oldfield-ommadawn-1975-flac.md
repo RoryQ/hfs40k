@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155831/http://holyfuckingshit4
 date: Tuesday, February 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/mike-oldfield-ommadawn-1975-flac.html
 title: Mike Oldfield - Ommadawn (1975) [FLAC]
+artist: Mike Oldfield
+album: Ommadawn
+spotify_url: https://open.spotify.com/search/Mike%20Oldfield%20Ommadawn
+apple_music_url: https://music.apple.com/us/search?term=Mike%20Oldfield%20Ommadawn
+youtube_url: https://www.youtube.com/results?search_query=Mike%20Oldfield%20Ommadawn
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155831im_/http://1.bp.blogspot.com/_5cVyPU93ihM/S3EqwSCMRYI/AAAAAAAAAOo/hPNJiQ6tNAo/s400/00+-+Ommadawn-Front.jpg)](https://web.archive.org/web/20111010155831/http://1.bp.blogspot.com/_5cVyPU93ihM/S3EqwSCMRYI/AAAAAAAAAOo/hPNJiQ6tNAo/s1600-h/00+-+Ommadawn-Front.jpg)  
 Re-upped since old link died ages ago.  

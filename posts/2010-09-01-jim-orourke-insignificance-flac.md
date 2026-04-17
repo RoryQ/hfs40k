@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175308/http://holyfuckingshit4
 date: Wednesday, September 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/jim-orourke-insignificance-flac.html
 title: Jim O'Rourke - Insignificance (FLAC)
+artist: Jim O'Rourke
+album: Insignificance
+spotify_url: https://open.spotify.com/search/Jim%20O%27Rourke%20Insignificance
+apple_music_url: https://geo.music.apple.com/au/album/_/1610300553?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Insignificance
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175308im_/http://2.bp.blogspot.com/_nmjS6fd9kfU/TH63AaA8UnI/AAAAAAAAAN4/wBJ3fEhDX7E/s400/folder.jpg)](https://web.archive.org/web/20111010175308/http://2.bp.blogspot.com/_nmjS6fd9kfU/TH63AaA8UnI/AAAAAAAAAN4/wBJ3fEhDX7E/s1600/folder.jpg)And...yet more weird cover art!
 

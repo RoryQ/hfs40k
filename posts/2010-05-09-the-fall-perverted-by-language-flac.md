@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095028/http://holyfuckingshit4
 date: Sunday, May 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/fall-perverted-by-language-flac.html
 title: The Fall - Perverted By Language  (FLAC)
+artist: The Fall
+album: Perverted By Language
+spotify_url: https://open.spotify.com/search/The%20Fall%20Perverted%20By%20Language
+apple_music_url: https://music.apple.com/us/search?term=The%20Fall%20Perverted%20By%20Language
+youtube_url: https://www.youtube.com/results?search_query=The%20Fall%20Perverted%20By%20Language
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095028im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S-bQpR3pTHI/AAAAAAAAAks/Oj-xEe7ix8g/s400/Perverted_by_Language.jpg)](https://web.archive.org/web/20111010095028/http://3.bp.blogspot.com/_cLI19EXK2oU/S-bQpR3pTHI/AAAAAAAAAks/Oj-xEe7ix8g/s1600/Perverted_by_Language.jpg)  
 In my estimation you either love The Fall or hate The Fall. It is difficult to interpret the music any differently or in any shade of grey. Some love M.E. Smith's pedantic if not incoherant rants and screams (many of which takes a prismatic literary mastery and Artaud like insanity to understand.) Some hate the man and his music--just as well. He probably has the same disdain for them.  

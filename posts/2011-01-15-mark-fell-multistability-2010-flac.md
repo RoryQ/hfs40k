@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071141/http://holyfuckingshit4
 date: Saturday, January 15, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/01/mark-fell-multistability-2010-flac.html
 title: Mark Fell - Multistability (2010, FLAC)
+artist: Mark Fell
+album: Multistability
+spotify_url: https://open.spotify.com/search/Mark%20Fell%20Multistability
+apple_music_url: https://music.apple.com/us/search?term=Mark%20Fell%20Multistability
+youtube_url: https://www.youtube.com/results?search_query=Mark%20Fell%20Multistability
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071141im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TTG-nrIxivI/AAAAAAAAAfs/a2TY8YBol28/s400/120966.jpg)](https://web.archive.org/web/20111010071141/http://3.bp.blogspot.com/_t6lWjgwMoxw/TTG-nrIxivI/AAAAAAAAAfs/a2TY8YBol28/s1600/120966.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093427/http://holyfuckingshit4
 date: Sunday, May 22, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/isao-tomita-snowflakes-are-dancing-flac.html
 title: Isao Tomita - Snowflakes Are Dancing (FLAC)
+artist: Isao Tomita
+album: Snowflakes Are Dancing
+spotify_url: https://open.spotify.com/search/Isao%20Tomita%20Snowflakes%20Are%20Dancing
+apple_music_url: https://music.apple.com/us/search?term=Isao%20Tomita%20Snowflakes%20Are%20Dancing
+youtube_url: https://www.youtube.com/results?search_query=Isao%20Tomita%20Snowflakes%20Are%20Dancing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093427im_/http://4.bp.blogspot.com/-QCCd_JOcmNA/Tdl45GPkApI/AAAAAAAAABU/JOfT4tpg5zU/s400/snow.png)](https://web.archive.org/web/20111010093427/http://4.bp.blogspot.com/-QCCd_JOcmNA/Tdl45GPkApI/AAAAAAAAABU/JOfT4tpg5zU/s1600/snow.png)
 

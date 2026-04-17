@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20110613013156/http://holyfuckingshit4
 date: Friday, February 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/john-coltrane-ascension-1965.html
 title: John Coltrane - Ascension (FLAC)
+artist: John Coltrane
+album: Ascension
+spotify_url: https://open.spotify.com/search/John%20Coltrane%20Ascension
+apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Ascension
+youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Ascension
 ---
+
+
+
 
 [![](https://web.archive.org/web/20110613013156im_/http://i41.tinypic.com/2j500mt.jpg)](https://web.archive.org/web/20110613013156/http://i41.tinypic.com/2j500mt.jpg)  
   

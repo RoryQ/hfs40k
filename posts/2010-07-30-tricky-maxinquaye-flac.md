@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053526/http://holyfuckingshit4
 date: Friday, July 30, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/tricky-maxinquaye-flac.html
 title: Tricky - Maxinquaye (FLAC)
+artist: Tricky
+album: Maxinquaye
+spotify_url: https://open.spotify.com/search/Tricky%20Maxinquaye
+apple_music_url: https://music.apple.com/us/search?term=Tricky%20Maxinquaye
+youtube_url: https://www.youtube.com/results?search_query=Tricky%20Maxinquaye
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053526im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TFL2I_wYtfI/AAAAAAAAAwk/7mHlUl7Ns-o/s400/Tricky+-+Maxinquaye.JPG)](https://web.archive.org/web/20111010053526/http://4.bp.blogspot.com/_cLI19EXK2oU/TFL2I_wYtfI/AAAAAAAAAwk/7mHlUl7Ns-o/s1600/Tricky+-+Maxinquaye.JPG)  
 When you first look at the album, you're struck by it's cover; is it a suitcase or a door or something burned? What the hell is this? It begins a mystery. You put the album on, expecting something, and almost immediately, the dark resonating beats of the first track "Overcome" hit you in a face. It sonically rolls over you hypnotically, sexual yet the heavy bass and dismembered flutes and samples give it an all too deep, heavy apocalytic feel. And that's only the beginning.

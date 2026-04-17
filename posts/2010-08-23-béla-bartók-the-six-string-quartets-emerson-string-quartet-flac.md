@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010064751/http://holyfuckingshit4
 date: Monday, August 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/bela-bartok-six-string-quartets-emerson.html
 title: "B\xE9la Bart\xF3k - The Six String Quartets (Emerson String Quartet) (FLAC)"
+artist: "B\xE9la Bart\xF3k"
+album: The Six String Quartets
+spotify_url: https://open.spotify.com/search/B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
+apple_music_url: https://music.apple.com/us/search?term=B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
+youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064751im_/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNK5_OqOPI/AAAAAAAAANQ/Z_p7tM7tSqY/s400/folder.jpg)](https://web.archive.org/web/20111010064751/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNK5_OqOPI/AAAAAAAAANQ/Z_p7tM7tSqY/s1600/folder.jpg)Once again, oh so very lazy...
 

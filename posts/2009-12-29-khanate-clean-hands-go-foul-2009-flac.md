@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010154831/http://holyfuckingshit4
 date: Tuesday, December 29, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/12/khanate-clean-hands-go-foul-2009-flac.html
 title: Khanate - Clean Hands Go Foul (2009) [FLAC]
+artist: Khanate
+album: Clean Hands Go Foul
+spotify_url: https://open.spotify.com/search/Khanate%20Clean%20Hands%20Go%20Foul
+apple_music_url: https://music.apple.com/us/search?term=Khanate%20Clean%20Hands%20Go%20Foul
+youtube_url: https://www.youtube.com/results?search_query=Khanate%20Clean%20Hands%20Go%20Foul
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010154831im_/http://www.scenepointblank.com/reviews/covers/02402.jpg)](https://web.archive.org/web/20111010154831/http://www.scenepointblank.com/reviews/covers/02402.jpg)
 

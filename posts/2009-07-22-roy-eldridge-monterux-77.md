@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010142911/http://holyfuckingshit4
 date: Wednesday, July 22, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/roy-eldridge-monterux-77.html
 title: Roy Eldridge - Monterux '77
+artist: Roy Eldridge
+album: Monterux '77
+spotify_url: https://open.spotify.com/search/Roy%20Eldridge%20Monterux%20%2777
+apple_music_url: https://music.apple.com/us/search?term=Roy%20Eldridge%20Monterux%20%2777
+youtube_url: https://www.youtube.com/results?search_query=Roy%20Eldridge%20Monterux%20%2777
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010142911im_/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s320/roy17.jpg)](https://web.archive.org/web/20111010142911/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s1600-h/roy17.jpg)I CAN SEE YOU!! HWEH HWEH.  
 IS THIS ANY GOOD?  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010084933/http://holyfuckingshit4
 date: Sunday, June 21, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/animal-collective-flac.html
 title: Animal Collective [FLAC]
+artist: Animal Collective
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010084933im_/http://2.bp.blogspot.com/_7ZAm7Q56iwM/Sj5gQOBtAMI/AAAAAAAAAE8/1FtQoHIUXAQ/s320/animalcollective.jpg)](https://web.archive.org/web/20111010084933/http://2.bp.blogspot.com/_7ZAm7Q56iwM/Sj5gQOBtAMI/AAAAAAAAAE8/1FtQoHIUXAQ/s1600-h/animalcollective.jpg)  
 Animal Collective is a New York City/Washington, D.C/Lisbon based music collective of avant-garde musicians from Baltimore, Maryland. Animal Collective consists of Avey Tare (David Portner), Panda Bear (Noah Lennox), Deakin (Josh Dibb), and Geologist (Brian Weitz). Records released under the name Animal Collective may include contributions from any or all of these members; the lineup is not uniform.  

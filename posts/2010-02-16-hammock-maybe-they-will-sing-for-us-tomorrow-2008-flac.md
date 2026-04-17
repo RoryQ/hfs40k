@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161744/http://holyfuckingshit4
 date: Tuesday, February 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/hammock-maybe-they-will-sing-for-us.html
 title: Hammock - Maybe They Will Sing For Us Tomorrow [2008, FLAC]
+artist: Hammock
+album: Maybe They Will Sing For Us Tomorrow
+spotify_url: https://open.spotify.com/search/Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
+apple_music_url: https://music.apple.com/us/search?term=Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
+youtube_url: https://www.youtube.com/results?search_query=Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161744im_/http://2.bp.blogspot.com/_74XjRB1CJng/SFfdFRxr7YI/AAAAAAAABP0/4z_bX1jPp1I/s400/HammockMaybe+They+Will+Sing+for+Us+Tomorrow.jpg)](https://web.archive.org/web/20111010161744/http://2.bp.blogspot.com/_74XjRB1CJng/SFfdFRxr7YI/AAAAAAAABP0/4z_bX1jPp1I/s400/HammockMaybe+They+Will+Sing+for+Us+Tomorrow.jpg)  
   

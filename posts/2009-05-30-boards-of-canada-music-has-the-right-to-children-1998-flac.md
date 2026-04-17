@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155504/http://holyfuckingshit4
 date: Saturday, May 30, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/boards-of-canada-music-has-right-to.html
 title: Boards of Canada - Music Has the Right to Children (1998) [FLAC]
+artist: Boards of Canada
+album: Music Has the Right to Children
+spotify_url: https://open.spotify.com/search/Boards%20of%20Canada%20Music%20Has%20the%20Right%20to%20Children
+apple_music_url: https://geo.music.apple.com/au/album/_/281116024?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%20Music%20Has%20the%20Right%20to%20Children
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155504im_/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1hYlSPF_I/AAAAAAAAAQM/_gcSR9lj-II/s320/musichastherighttochildren.png)](https://web.archive.org/web/20111008155504/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1hYlSPF_I/AAAAAAAAAQM/_gcSR9lj-II/s1600-h/musichastherighttochildren.png)
 

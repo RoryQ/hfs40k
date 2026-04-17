@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111122022622/http://holyfuckingshit4
 date: Sunday, August 28, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/galaxie-500-today-uncollected-flac.html
 title: Galaxie 500 - Today + Uncollected (FLAC)
+artist: Galaxie 500
+album: Today + Uncollected
+spotify_url: https://open.spotify.com/search/Galaxie%20500%20Today%20%2B%20Uncollected
+apple_music_url: https://music.apple.com/us/search?term=Galaxie%20500%20Today%20%2B%20Uncollected
+youtube_url: https://www.youtube.com/results?search_query=Galaxie%20500%20Today%20%2B%20Uncollected
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111122022622im_/http://2.bp.blogspot.com/-_k3t76v6DP4/TlqHySls1BI/AAAAAAAABCw/ibEw5YAvNSs/s400/3381-uncollected.jpg)](https://web.archive.org/web/20111122022622/http://2.bp.blogspot.com/-_k3t76v6DP4/TlqHySls1BI/AAAAAAAABCw/ibEw5YAvNSs/s1600/3381-uncollected.jpg)
   

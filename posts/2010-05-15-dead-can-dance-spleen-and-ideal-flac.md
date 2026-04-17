@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100401/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/dead-can-dance-spleen-and-ideal-flac.html
 title: Dead Can Dance - Spleen and Ideal (FLAC)
+artist: Dead Can Dance
+album: Spleen and Ideal
+spotify_url: https://open.spotify.com/search/Dead%20Can%20Dance%20Spleen%20and%20Ideal
+apple_music_url: https://music.apple.com/us/search?term=Dead%20Can%20Dance%20Spleen%20and%20Ideal
+youtube_url: https://www.youtube.com/results?search_query=Dead%20Can%20Dance%20Spleen%20and%20Ideal
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100401im_/http://4.bp.blogspot.com/_pqcGUSDUhi4/S-82c7Xbx2I/AAAAAAAAAE0/o9QEweJRIb0/s320/folder.jpg)](https://web.archive.org/web/20111010100401/http://4.bp.blogspot.com/_pqcGUSDUhi4/S-82c7Xbx2I/AAAAAAAAAE0/o9QEweJRIb0/s1600/folder.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112813/http://holyfuckingshit4
 date: Monday, October 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/dark-star-twenty-twenty-sound-flac.html
 title: Dark Star - Twenty Twenty Sound (FLAC)
+artist: Dark Star
+album: Twenty Twenty Sound
+spotify_url: https://open.spotify.com/search/Dark%20Star%20Twenty%20Twenty%20Sound
+apple_music_url: https://geo.music.apple.com/au/album/_/1386790541?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Dark%20Star%20Twenty%20Twenty%20Sound
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112813im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TLxPI6N7d6I/AAAAAAAAAaQ/2M7RxO073zU/s400/Scan0002.jpg)](https://web.archive.org/web/20111010112813/http://1.bp.blogspot.com/_t6lWjgwMoxw/TLxPI6N7d6I/AAAAAAAAAaQ/2M7RxO073zU/s1600/Scan0002.jpg)  
   

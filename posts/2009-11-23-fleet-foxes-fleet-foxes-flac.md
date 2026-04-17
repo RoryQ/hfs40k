@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010122146/http://holyfuckingshit4
 date: Monday, November 23, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/fleet-foxes-fleet-foxes-flac.html
 title: Fleet Foxes - Fleet Foxes (FLAC)
+artist: Fleet Foxes
+album: Fleet Foxes
+spotify_url: https://open.spotify.com/search/Fleet%20Foxes%20Fleet%20Foxes
+apple_music_url: https://music.apple.com/us/search?term=Fleet%20Foxes%20Fleet%20Foxes
+youtube_url: https://www.youtube.com/results?search_query=Fleet%20Foxes%20Fleet%20Foxes
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010122146im_/http://i48.tinypic.com/yixj.jpg)](https://web.archive.org/web/20111010122146/http://i48.tinypic.com/yixj.jpg)  
   

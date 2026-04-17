@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045036/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/dan-swano-moontower-flac.html
 title: "Dan Swan\xF6 - Moontower (FLAC)"
+artist: "Dan Swan\xF6"
+album: Moontower
+spotify_url: https://open.spotify.com/search/Dan%20Swan%C3%B6%20Moontower
+apple_music_url: https://music.apple.com/us/search?term=Dan%20Swan%C3%B6%20Moontower
+youtube_url: https://www.youtube.com/results?search_query=Dan%20Swan%C3%B6%20Moontower
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045036im_/http://3.bp.blogspot.com/_pqcGUSDUhi4/S8ytktCiAVI/AAAAAAAAADM/Ae8tHrSvON8/s320/folder.jpg)](https://web.archive.org/web/20111010045036/http://3.bp.blogspot.com/_pqcGUSDUhi4/S8ytktCiAVI/AAAAAAAAADM/Ae8tHrSvON8/s1600/folder.jpg)  
   

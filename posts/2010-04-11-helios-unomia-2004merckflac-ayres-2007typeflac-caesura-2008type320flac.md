@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050036/http://holyfuckingshit4
 date: Sunday, April 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/helios-caesura-2008type320.html
 title: Helios - Unomia [2004/Merck/FLAC], Ayres [2007/Type/FLAC], Caesura [2008/Type/320/FLAC]
+artist: Helios
+album: Unomia
+spotify_url: https://open.spotify.com/search/Helios%20Unomia
+apple_music_url: https://music.apple.com/us/search?term=Helios%20Unomia
+youtube_url: https://www.youtube.com/results?search_query=Helios%20Unomia
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010050036im_/http://1.bp.blogspot.com/_Jv3nnRY6B8s/SFtSYouRBkI/AAAAAAAAAf0/6WA1wRkhh5g/s400/026cover.jpg)](https://web.archive.org/web/20111010050036/http://1.bp.blogspot.com/_Jv3nnRY6B8s/SFtSYouRBkI/AAAAAAAAAf0/6WA1wRkhh5g/s400/026cover.jpg)  
 [Unomia FLAC](https://web.archive.org/web/20111010050036/http://lix.in/-81659e)  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111557/http://holyfuckingshit4
 date: Wednesday, March 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/clean-anthology-flac.html
 title: The Clean - Anthology (FLAC)
+artist: The Clean
+album: Anthology
+spotify_url: https://open.spotify.com/search/The%20Clean%20Anthology
+apple_music_url: https://music.apple.com/us/search?term=The%20Clean%20Anthology
+youtube_url: https://www.youtube.com/results?search_query=The%20Clean%20Anthology
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111557im_/http://2.bp.blogspot.com/-7E_v9zA8rwQ/TW589BKhSKI/AAAAAAAAA5c/79UIfqPFww8/s400/320741425_546d7cf939.jpg)](https://web.archive.org/web/20111010111557/http://2.bp.blogspot.com/-7E_v9zA8rwQ/TW589BKhSKI/AAAAAAAAA5c/79UIfqPFww8/s1600/320741425_546d7cf939.jpg)  
 The Clean is a powerful but nebulous presence in the world of indie rock -- the New Zealand band is known to music critics and die-hard indie fans, but sadly not to the masses. The fact that they are still little-known after two and a half decades is just proof that fame doesn't always come to those who deserve it.  

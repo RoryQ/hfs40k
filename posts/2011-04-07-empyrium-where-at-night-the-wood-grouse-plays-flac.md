@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145845/http://holyfuckingshit4
 date: Thursday, April 7, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/empyrium-where-at-night-wood-grouse.html
 title: Empyrium - Where at Night the Wood Grouse Plays [FLAC]
+artist: Empyrium
+album: Where at Night the Wood Grouse Plays
+spotify_url: https://open.spotify.com/search/Empyrium%20Where%20at%20Night%20the%20Wood%20Grouse%20Plays
+apple_music_url: https://geo.music.apple.com/au/album/_/1556132381?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Empyrium%20Where%20at%20Night%20the%20Wood%20Grouse%20Plays
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145845im_/http://3.bp.blogspot.com/-Ss3Ni_QnbQI/TZ27_Y-mmuI/AAAAAAAAAIY/60EEZt_Gi8Q/s400/Cover.jpg)](https://web.archive.org/web/20111010145845/http://3.bp.blogspot.com/-Ss3Ni_QnbQI/TZ27_Y-mmuI/AAAAAAAAAIY/60EEZt_Gi8Q/s1600/Cover.jpg)  
 

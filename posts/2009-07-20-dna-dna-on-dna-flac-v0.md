@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141536/http://holyfuckingshit4
 date: Monday, July 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/dna-dna-on-dna-flac-v0.html
 title: DNA - DNA on DNA (FLAC & v0)
+artist: DNA
+album: DNA on DNA
+spotify_url: https://open.spotify.com/search/DNA%20DNA%20on%20DNA
+apple_music_url: https://music.apple.com/us/search?term=DNA%20DNA%20on%20DNA
+youtube_url: https://www.youtube.com/results?search_query=DNA%20DNA%20on%20DNA
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141536im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SmSdHdg0KyI/AAAAAAAAAQA/wX-4uvGYOQw/s400/dna-on-dna.jpg)](https://web.archive.org/web/20111010141536/http://4.bp.blogspot.com/_cLI19EXK2oU/SmSdHdg0KyI/AAAAAAAAAQA/wX-4uvGYOQw/s1600-h/dna-on-dna.jpg)Namfoodle's request  
   

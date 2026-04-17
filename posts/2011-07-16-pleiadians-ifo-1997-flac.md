@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010134918/http://holyfuckingshit4
 date: Saturday, July 16, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/pleiadians-ifo-1997-flac.html
 title: Pleiadians - I.F.O. (1997, FLAC)
+artist: Pleiadians
+album: I.F.O.
+spotify_url: https://open.spotify.com/search/Pleiadians%20I.F.O.
+apple_music_url: https://music.apple.com/us/search?term=Pleiadians%20I.F.O.
+youtube_url: https://www.youtube.com/results?search_query=Pleiadians%20I.F.O.
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010134918im_/http://4.bp.blogspot.com/-rC7otAM4M_4/TiNoFXxLdVI/AAAAAAAAAEM/C1Zgbuh13Ig/s400/ifo.gif)](https://web.archive.org/web/20111010134918/http://4.bp.blogspot.com/-rC7otAM4M_4/TiNoFXxLdVI/AAAAAAAAAEM/C1Zgbuh13Ig/s1600/ifo.gif)
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145022/http://holyfuckingshit4
 date: Monday, August 31, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/boredoms-vision-creation-newsun-flac_26.html
 title: Boredoms - Vision Creation Newsun (FLAC)
+artist: Boredoms
+album: Vision Creation Newsun
+spotify_url: https://open.spotify.com/search/Boredoms%20Vision%20Creation%20Newsun
+apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Vision%20Creation%20Newsun
+youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Vision%20Creation%20Newsun
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145022im_/http://i41.tinypic.com/2po8axs.jpg)](https://web.archive.org/web/20111010145022/http://i41.tinypic.com/2po8axs.jpg)  
 **VISION!**  

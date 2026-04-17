@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161800/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/nick-cave-murder-ballads-1996-flac.html
 title: Nick Cave - Murder Ballads (1996) [FLAC]
+artist: Nick Cave
+album: Murder Ballads
+spotify_url: https://open.spotify.com/search/Nick%20Cave%20Murder%20Ballads
+apple_music_url: https://geo.music.apple.com/au/album/_/1165781414?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20Murder%20Ballads
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161800im_/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4m2OPex0fI/AAAAAAAAAXs/-DKiZf9hBq0/s400/Murderballads.jpg)](https://web.archive.org/web/20111010161800/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4m2OPex0fI/AAAAAAAAAXs/-DKiZf9hBq0/s1600-h/Murderballads.jpg)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173150/http://holyfuckingshit4
 date: Wednesday, June 2, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/hallucinator-landlocked-1999-flac.html
 title: Hallucinator - Landlocked (1999, FLAC)
+artist: Hallucinator
+album: Landlocked
+spotify_url: https://open.spotify.com/search/Hallucinator%20Landlocked
+apple_music_url: https://music.apple.com/us/search?term=Hallucinator%20Landlocked
+youtube_url: https://www.youtube.com/results?search_query=Hallucinator%20Landlocked
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173150im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TAe2R-XSKlI/AAAAAAAAAQY/9NnWO6hfk2c/s400/R-707-1233084896.jpeg)](https://web.archive.org/web/20111010173150/http://3.bp.blogspot.com/_t6lWjgwMoxw/TAe2R-XSKlI/AAAAAAAAAQY/9NnWO6hfk2c/s1600/R-707-1233084896.jpeg)  
   

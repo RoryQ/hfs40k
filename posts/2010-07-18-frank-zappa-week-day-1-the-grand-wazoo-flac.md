@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053656/http://holyfuckingshit4
 date: Sunday, July 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-zappa-week-day-1-grand-wazoo-flac.html
 title: 'Frank Zappa Week - Day #1 The Grand Wazoo (FLAC)'
+artist: Frank Zappa Week
+album: 'Day #1 The Grand Wazoo'
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053656im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TEMZbmOCh7I/AAAAAAAAAvE/M8ZZYuh77L0/s400/The_Grand_Wazoo.jpg)](https://web.archive.org/web/20111010053656/http://2.bp.blogspot.com/_cLI19EXK2oU/TEMZbmOCh7I/AAAAAAAAAvE/M8ZZYuh77L0/s1600/The_Grand_Wazoo.jpg)  
 Over thirty years after "Grand Wazoo" was released, it remains as much a stunning example of Zappa's uncompromising musical vision now as it did then.  

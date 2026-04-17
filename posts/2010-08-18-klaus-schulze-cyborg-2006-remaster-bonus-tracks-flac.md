@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065228/http://holyfuckingshit4
 date: Wednesday, August 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/klaus-schulze-cyborg-2006-remaster.html
 title: Klaus Schulze - Cyborg (2006 Remaster + bonus tracks FLAC)
+artist: Klaus Schulze
+album: Cyborg
+spotify_url: https://open.spotify.com/search/Klaus%20Schulze%20Cyborg
+apple_music_url: https://music.apple.com/us/search?term=Klaus%20Schulze%20Cyborg
+youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Cyborg
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065228im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TGwgE2wM9zI/AAAAAAAAAys/-m_KxhQcxSw/s400/1275194993_r-853798-1186779139.jpeg)](https://web.archive.org/web/20111010065228/http://2.bp.blogspot.com/_cLI19EXK2oU/TGwgE2wM9zI/AAAAAAAAAys/-m_KxhQcxSw/s1600/1275194993_r-853798-1186779139.jpeg)  
 "Cyborg" is Klaus Schulze's second solo album and is an epic piece of avant-garde mastery. The original album consisted of four long tracks taking up one side each on vinyl. Musically, it picks up where his debut "Irrlicht" left off and includes many innovative and orchestral music experiments.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004092607/http://holyfuckingshit4
 date: Friday, August 12, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/phew-phew-flac.html
 title: Phew - Phew (FLAC)
+artist: Phew
+album: Phew
+spotify_url: https://open.spotify.com/search/Phew%20Phew
+apple_music_url: https://music.apple.com/us/search?term=Phew%20Phew
+youtube_url: https://www.youtube.com/results?search_query=Phew%20Phew
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004092607im_/http://2.bp.blogspot.com/-Dj7aofekqhE/TkXq2ju03_I/AAAAAAAABAw/pMz2plneJ0U/s400/Phew.jpg)](https://web.archive.org/web/20111004092607/http://2.bp.blogspot.com/-Dj7aofekqhE/TkXq2ju03_I/AAAAAAAABAw/pMz2plneJ0U/s1600/Phew.jpg)
   

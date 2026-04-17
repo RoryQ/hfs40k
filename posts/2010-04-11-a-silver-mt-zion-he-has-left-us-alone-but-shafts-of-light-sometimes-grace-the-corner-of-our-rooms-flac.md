@@ -4,7 +4,16 @@ date: Sunday, April 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/silver-mt-zion-he-has-left-us-alone-but.html
 title: A Silver Mt. Zion - He Has Left Us Alone but Shafts of Light Sometimes Grace
   the Corner of Our Rooms (FLAC)
+artist: A Silver Mt. Zion
+album: He Has Left Us Alone but Shafts of Light Sometimes Grace the Corner of Our
+  Rooms
+spotify_url: https://open.spotify.com/search/A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
+apple_music_url: https://music.apple.com/us/search?term=A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
+youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045735im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S8Jv9QVJgaI/AAAAAAAAAdM/V2ZUzXR9qFA/s400/600px-Mtzionhehasleft.jpg)](https://web.archive.org/web/20111010045735/http://3.bp.blogspot.com/_cLI19EXK2oU/S8Jv9QVJgaI/AAAAAAAAAdM/V2ZUzXR9qFA/s1600/600px-Mtzionhehasleft.jpg)  
 Yep, the title is a mouthful. Even the abbreviation HHLUABSOLSGTCOOR is a monster...

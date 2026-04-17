@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173453/http://holyfuckingshit4
 date: Tuesday, June 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/brian-eno-another-day-on-earth.html
 title: Brian Eno - Another Day On Earth
+artist: Brian Eno
+album: Another Day On Earth
+spotify_url: https://open.spotify.com/search/Brian%20Eno%20Another%20Day%20On%20Earth
+apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20Another%20Day%20On%20Earth
+youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%20Day%20On%20Earth
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173453im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TATshsOauOI/AAAAAAAAAQA/1LkY1-xEYlM/s400/anotherdayonearth.jpg)](https://web.archive.org/web/20111010173453/http://3.bp.blogspot.com/_t6lWjgwMoxw/TATshsOauOI/AAAAAAAAAQA/1LkY1-xEYlM/s1600/anotherdayonearth.jpg)  
   

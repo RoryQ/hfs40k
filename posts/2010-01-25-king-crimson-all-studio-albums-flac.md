@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123351/http://holyfuckingshit4
 date: Monday, January 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/king-crimson-all-studio-albums-flac.html
 title: King Crimson - All studio albums (FLAC)
+artist: King Crimson
+album: All studio albums
+spotify_url: https://open.spotify.com/search/King%20Crimson%20All%20studio%20albums
+apple_music_url: https://music.apple.com/us/search?term=King%20Crimson%20All%20studio%20albums
+youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20All%20studio%20albums
 ---
+
+
+
 
 It's been set back after set back trying to get this all uploaded but here it is after about two weeks. I've got some of the live albums in FLAC as well but I really don't feel like uploading any more until 2011 or so.  
   

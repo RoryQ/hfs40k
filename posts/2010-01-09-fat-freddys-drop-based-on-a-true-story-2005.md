@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123116/http://holyfuckingshit4
 date: Saturday, January 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/fat-freddys-drop-based-on-true-story.html
 title: Fat Freddy's Drop - Based on a True Story (2005)
+artist: Fat Freddy's Drop
+album: Based on a True Story
+spotify_url: https://open.spotify.com/search/Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
+apple_music_url: https://music.apple.com/us/search?term=Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
+youtube_url: https://www.youtube.com/results?search_query=Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123116im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S0kk06xNAjI/AAAAAAAAAOE/5Q4PdEE7ajo/s320/fat-freddys-drop.jpg)](https://web.archive.org/web/20111010123116/http://4.bp.blogspot.com/_bIgHZQu-UEA/S0kk06xNAjI/AAAAAAAAAOE/5Q4PdEE7ajo/s1600-h/fat-freddys-drop.jpg)  
 

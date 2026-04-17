@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112150/http://holyfuckingshit4
 date: Sunday, October 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/matteis-false-consonances-of-melancholy.html
 title: Matteis - False Consonances of Melancholy (Amadine Beyer)
+artist: Matteis
+album: False Consonances of Melancholy
+spotify_url: https://open.spotify.com/search/Matteis%20False%20Consonances%20of%20Melancholy
+apple_music_url: https://music.apple.com/us/search?term=Matteis%20False%20Consonances%20of%20Melancholy
+youtube_url: https://www.youtube.com/results?search_query=Matteis%20False%20Consonances%20of%20Melancholy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112150im_/http://3.bp.blogspot.com/_jrASt-yq9g4/TKiXZt7ihBI/AAAAAAAAABo/FTRqoa7qJlw/s400/matteis.jpg)](https://web.archive.org/web/20111010112150/http://3.bp.blogspot.com/_jrASt-yq9g4/TKiXZt7ihBI/AAAAAAAAABo/FTRqoa7qJlw/s1600/matteis.jpg)  
 

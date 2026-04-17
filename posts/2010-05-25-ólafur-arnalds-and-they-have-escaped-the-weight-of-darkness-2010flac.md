@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100605214724/http://holyfuckingshit4
 date: Tuesday, May 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/olafur-arnalds-and-they-have-escaped.html
 title: "\xD3lafur Arnalds - ...And They Have Escaped The Weight Of Darkness [2010/FLAC]"
+artist: "\xD3lafur Arnalds"
+album: '...And They Have Escaped The Weight Of Darkness'
+spotify_url: https://open.spotify.com/search/%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
+apple_music_url: https://music.apple.com/us/search?term=%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
+youtube_url: https://www.youtube.com/results?search_query=%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100605214724im_/http://1.bp.blogspot.com/_ZGBCgBK9ack/S_wm7nRsVaI/AAAAAAAAAIE/FMxL6sFiUJU/s400/rsz_oarn.jpg)](https://web.archive.org/web/20100605214724/http://1.bp.blogspot.com/_ZGBCgBK9ack/S_wm7nRsVaI/AAAAAAAAAIE/FMxL6sFiUJU/s1600/rsz_oarn.jpg)  
 

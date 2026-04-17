@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111459/http://holyfuckingshit4
 date: Wednesday, March 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/shellac-at-action-park-flac.html
 title: Shellac - At Action Park (FLAC)
+artist: Shellac
+album: At Action Park
+spotify_url: https://open.spotify.com/search/Shellac%20At%20Action%20Park
+apple_music_url: https://music.apple.com/us/search?term=Shellac%20At%20Action%20Park
+youtube_url: https://www.youtube.com/results?search_query=Shellac%20At%20Action%20Park
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111459im_/http://1.bp.blogspot.com/-3TMdOA8xHnM/TW57xmaO70I/AAAAAAAAA5U/auGa-3OnECo/s400/63800.jpg)](https://web.archive.org/web/20111010111459/http://1.bp.blogspot.com/-3TMdOA8xHnM/TW57xmaO70I/AAAAAAAAA5U/auGa-3OnECo/s1600/63800.jpg)  
 Just in case his work with Big Black and Rapeman didn't provide him with enough indie cred, in the mid-90's Steve Albini made a triumphant return with Shellac, a noise-rock agglomeration that continued Albini's exploration of the darker sides of both music in particular and human nature in general. In contrast to the compelling if diffuse rage and perversity of Big Black's legendary swansong Songs About Fucking, Shellac's debut At Action Park is a devastatingly precise and intelligent battering ram of an album. Coupling the raw, indie-centric ethic that made Albini notorious with tricky rhythms, mathy arrangements, and winding song structures, At Action Park is a prime distillation of the years of underground rock history that preceded it. Everything here is carefully measured for maximum visceral impact, with the end result being a lean, ruthlessly efficient piece of aural abuse that's as intelligent as it is abrasive.   

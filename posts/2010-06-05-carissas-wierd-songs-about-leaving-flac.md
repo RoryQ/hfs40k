@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100625115225/http://holyfuckingshit4
 date: Saturday, June 5, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/carissas-wierd-songs-about-leaving-flac.html
 title: Carissa's Wierd - Songs About Leaving [FLAC]
+artist: Carissa's Wierd
+album: Songs About Leaving
+spotify_url: https://open.spotify.com/search/Carissa%27s%20Wierd%20Songs%20About%20Leaving
+apple_music_url: https://music.apple.com/us/search?term=Carissa%27s%20Wierd%20Songs%20About%20Leaving
+youtube_url: https://www.youtube.com/results?search_query=Carissa%27s%20Wierd%20Songs%20About%20Leaving
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100625115225im_/http://3.bp.blogspot.com/_ZGBCgBK9ack/TAqzFP2-p7I/AAAAAAAAAKE/ev0LyTte_wk/s400/Carissa%27s+Wierd+-+Songs+About+Leaving.jpeg)](https://web.archive.org/web/20100625115225/http://3.bp.blogspot.com/_ZGBCgBK9ack/TAqzFP2-p7I/AAAAAAAAAKE/ev0LyTte_wk/s1600/Carissa%27s+Wierd+-+Songs+About+Leaving.jpeg)  
 

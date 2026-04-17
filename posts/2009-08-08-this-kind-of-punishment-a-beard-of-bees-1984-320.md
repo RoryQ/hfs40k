@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145125/http://holyfuckingshit4
 date: Saturday, August 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/this-kind-of-punishment-beard-of-bees.html
 title: This Kind of Punishment - A Beard of Bees (1984) [320]
+artist: This Kind of Punishment
+album: A Beard of Bees
+spotify_url: https://open.spotify.com/search/This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
+apple_music_url: https://music.apple.com/us/search?term=This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
+youtube_url: https://www.youtube.com/results?search_query=This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145125im_/http://1.bp.blogspot.com/_WHRSj0TJlXU/SRZXpNT0l3I/AAAAAAAAAcU/jN-BZfdR3cw/s400/picresized_1226242818_A+Beard+of+Bees.jpg)](https://web.archive.org/web/20111010145125/http://1.bp.blogspot.com/_WHRSj0TJlXU/SRZXpNT0l3I/AAAAAAAAAcU/jN-BZfdR3cw/s400/picresized_1226242818_A+Beard+of+Bees.jpg)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010084537/http://holyfuckingshit4
 date: Sunday, June 21, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/boredoms-super-are-flac.html
 title: Boredoms - Super Are (FLAC)
+artist: Boredoms
+album: Super Are
+spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Are
+apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Are
+youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Are
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010084537im_/http://4.bp.blogspot.com/_cLI19EXK2oU/Sj6Dg9jcB4I/AAAAAAAAALg/0K4NOJirYH8/s400/1062085945_a90168ea14.jpg)](https://web.archive.org/web/20111010084537/http://4.bp.blogspot.com/_cLI19EXK2oU/Sj6Dg9jcB4I/AAAAAAAAALg/0K4NOJirYH8/s1600-h/1062085945_a90168ea14.jpg)  
 Boredoms conceive music in a blender. Ingredients are thrown in by a blind chef, who has the fortune of often producing something digestible, but only for the courageous consumer.  

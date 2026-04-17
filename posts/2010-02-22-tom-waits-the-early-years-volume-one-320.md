@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155626/http://holyfuckingshit4
 date: Monday, February 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/tom-waits-early-years-volume-one-320.html
 title: Tom Waits - The Early Years Volume One [320]
+artist: Tom Waits
+album: The Early Years Volume One
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20The%20Early%20Years%20Volume%20One
+apple_music_url: https://geo.music.apple.com/au/album/_/42263629?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20The%20Early%20Years%20Volume%20One
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155626im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4OIvmt8LSI/AAAAAAAAAXM/7q4t4yy5FDk/s400/The_Early_Years,_Vol._1.jpg)](https://web.archive.org/web/20111010155626/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4OIvmt8LSI/AAAAAAAAAXM/7q4t4yy5FDk/s1600-h/The_Early_Years,_Vol._1.jpg)  
 

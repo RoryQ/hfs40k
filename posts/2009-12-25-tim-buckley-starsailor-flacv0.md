@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010152952/http://holyfuckingshit4
 date: Friday, December 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/12/tim-buckley-starsailor-k-disc-remaster.html
 title: Tim Buckley - Starsailor (FLAC/v0)
+artist: Tim Buckley
+album: Starsailor
+spotify_url: https://open.spotify.com/search/Tim%20Buckley%20Starsailor
+apple_music_url: https://geo.music.apple.com/au/album/_/110692372?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Starsailor
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010152952im_/http://4.bp.blogspot.com/_JdyrURA7JYI/SzUjTsHKLBI/AAAAAAAAALI/x1CYTXX_7JE/s400/timsailor.PNG)](https://web.archive.org/web/20111010152952/http://4.bp.blogspot.com/_JdyrURA7JYI/SzUjTsHKLBI/AAAAAAAAALI/x1CYTXX_7JE/s1600-h/timsailor.PNG)Finally got a hard copy of one of my favorite albums of all motherfucking time. :'D (I'm a nerdy collector so it matters to me) This is the 1989 remastered edition ripped in FLAC and v0. Unlike the last one I posted, the title track and "The Healing Festival" aren't merged.  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112820/http://holyfuckingshit4
 date: Tuesday, October 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/htrk-marry-me-tonight-2009-flac.html
 title: HTRK - Marry Me Tonight (2009, Flac)
+artist: HTRK
+album: Marry Me Tonight
+spotify_url: https://open.spotify.com/search/HTRK%20Marry%20Me%20Tonight
+apple_music_url: https://music.apple.com/us/search?term=HTRK%20Marry%20Me%20Tonight
+youtube_url: https://www.youtube.com/results?search_query=HTRK%20Marry%20Me%20Tonight
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112820im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TL4Sz5gVxlI/AAAAAAAAAaw/oALRAL9MyIw/s400/be3f1a87fb426b4d4767fc1519ac75d9_full.jpg)](https://web.archive.org/web/20111010112820/http://1.bp.blogspot.com/_t6lWjgwMoxw/TL4Sz5gVxlI/AAAAAAAAAaw/oALRAL9MyIw/s1600/be3f1a87fb426b4d4767fc1519ac75d9_full.jpg)  
   

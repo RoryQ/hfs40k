@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203182627/http://holyfuckingshit4
 date: Tuesday, February 10, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/kingston-wall-ii-flac.html
 title: Kingston Wall - II (FLAC)
+artist: Kingston Wall
+album: II
+spotify_url: https://open.spotify.com/search/Kingston%20Wall%20II
+apple_music_url: https://music.apple.com/us/search?term=Kingston%20Wall%20II
+youtube_url: https://www.youtube.com/results?search_query=Kingston%20Wall%20II
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203182627im_/http://i44.tinypic.com/2ir88iw.jpg)](https://web.archive.org/web/20101203182627/http://i44.tinypic.com/2ir88iw.jpg)  
 Genre: Progressive Rock  

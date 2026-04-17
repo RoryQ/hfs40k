@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100332/http://holyfuckingshit4
 date: Friday, May 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/sun-kil-moon-ghosts-of-great-highway.html
 title: Sun Kil Moon - Ghosts Of The Great Highway (FLAC)
+artist: Sun Kil Moon
+album: Ghosts Of The Great Highway
+spotify_url: https://open.spotify.com/search/Sun%20Kil%20Moon%20Ghosts%20Of%20The%20Great%20Highway
+apple_music_url: https://geo.music.apple.com/au/album/_/1570084770?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20Ghosts%20Of%20The%20Great%20Highway
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100332im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S_azzLawMGI/AAAAAAAAAm0/G2-_GGn4iks/s400/ghosts_of_the_great_highway-sun_kil_moon_480.jpg)](https://web.archive.org/web/20111010100332/http://1.bp.blogspot.com/_cLI19EXK2oU/S_azzLawMGI/AAAAAAAAAm0/G2-_GGn4iks/s1600/ghosts_of_the_great_highway-sun_kil_moon_480.jpg)  
 With his early '90s band, the Red House Painters, San Francisco's Mark Kozelek struck a chord of disquiet and bohemian poignancy that made that band the darling of the scribbling-poems-to-the-pretty-barista-who-will-never-know-my-name set. With lovely, unadorned melodies and Kozelek's angst-ridden tributes to disillusionment, the Red House Painters influenced a score of later bands who lacked his rich melodic imagination and incisive lyrics -- Low is a good example -- resulting in Kozelek himself being typecast as the maestro of "mopecore." Then he did something unforgivable in the minds of some of his fans: he evolved.

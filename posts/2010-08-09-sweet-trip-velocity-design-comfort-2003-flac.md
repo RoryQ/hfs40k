@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065006/http://holyfuckingshit4
 date: Monday, August 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/sweet-trip-velocity-design-comfort-2003.html
 title: 'Sweet Trip - Velocity : Design : Comfort (2003) [FLAC]'
+artist: Sweet Trip
+album: 'Velocity : Design : Comfort'
+spotify_url: https://open.spotify.com/search/Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
+apple_music_url: https://music.apple.com/us/search?term=Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
+youtube_url: https://www.youtube.com/results?search_query=Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065006im_/http://1.bp.blogspot.com/_OYyGYtJuluk/TGBtRSIlg3I/AAAAAAAAAZY/_9GXhbcUjls/s320/Velocity+_+Design+_+Comfort.png)](https://web.archive.org/web/20111010065006/http://1.bp.blogspot.com/_OYyGYtJuluk/TGBtRSIlg3I/AAAAAAAAAZY/_9GXhbcUjls/s1600/Velocity+_+Design+_+Comfort.png)I stuck my tongue in the electrical outlet and it tasted like fruitcake.
 

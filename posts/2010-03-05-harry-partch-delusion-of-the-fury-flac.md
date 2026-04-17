@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081839/http://holyfuckingshit4
 date: Friday, March 5, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/harry-partch-delusion-of-fury-flac.html
 title: Harry Partch - Delusion of the Fury (FLAC)
+artist: Harry Partch
+album: Delusion of the Fury
+spotify_url: https://open.spotify.com/search/Harry%20Partch%20Delusion%20of%20the%20Fury
+apple_music_url: https://music.apple.com/us/search?term=Harry%20Partch%20Delusion%20of%20the%20Fury
+youtube_url: https://www.youtube.com/results?search_query=Harry%20Partch%20Delusion%20of%20the%20Fury
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081839im_/http://2.bp.blogspot.com/_fgQJ6Z331aA/S5GR6mQ8bUI/AAAAAAAAANo/OI_9GV1u6tE/s320/198117.jpg)](https://web.archive.org/web/20111010081839/http://2.bp.blogspot.com/_fgQJ6Z331aA/S5GR6mQ8bUI/AAAAAAAAANo/OI_9GV1u6tE/s1600-h/198117.jpg)  
 This is Partch's life-time masterpiece.   

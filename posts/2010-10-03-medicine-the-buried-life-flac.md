@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112600/http://holyfuckingshit4
 date: Sunday, October 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/medicine-buried-life-flac.html
 title: Medicine - The Buried Life [FLAC]
+artist: Medicine
+album: The Buried Life
+spotify_url: https://open.spotify.com/search/Medicine%20The%20Buried%20Life
+apple_music_url: https://music.apple.com/us/search?term=Medicine%20The%20Buried%20Life
+youtube_url: https://www.youtube.com/results?search_query=Medicine%20The%20Buried%20Life
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112600im_/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKkefgArxqI/AAAAAAAAALU/-yau4kQ1x-o/s400/o17583.jpg)](https://web.archive.org/web/20111010112600/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKkefgArxqI/AAAAAAAAALU/-yau4kQ1x-o/s1600/o17583.jpg)  
 I love drawing parallels, even if they're a complete stretch, so here we go: Medicine have suffered a similar fate to Chapterhouse in that their excellent sophomore releases were both overlooked at the time of their release and will forever live in the shadow of their debut albums. However, Medicine's second album is not only better than Blood Music (which is still tight!), but Medicine is a superior band.  

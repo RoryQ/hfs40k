@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042818/http://holyfuckingshit4
 date: Thursday, January 22, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/young-marble-giants-colossal-youth-1980.html
 title: Young Marble Giants -  Colossal Youth (1980)
+artist: Young Marble Giants
+album: Colossal Youth
+spotify_url: https://open.spotify.com/search/Young%20Marble%20Giants%20Colossal%20Youth
+apple_music_url: https://music.apple.com/us/search?term=Young%20Marble%20Giants%20Colossal%20Youth
+youtube_url: https://www.youtube.com/results?search_query=Young%20Marble%20Giants%20Colossal%20Youth
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042818im_/http://i44.tinypic.com/2eztcmh.jpg)](https://web.archive.org/web/20111010042818/http://i44.tinypic.com/2eztcmh.jpg)  
 Genre: Post-Punk  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160009/http://holyfuckingshit4
 date: Sunday, February 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/tom-waits-swordfishtrombones-flac.html
 title: Tom Waits - Swordfishtrombones (FLAC)
+artist: Tom Waits
+album: Swordfishtrombones
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Swordfishtrombones
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Swordfishtrombones
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Swordfishtrombones
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160009im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S4HgB2SCYaI/AAAAAAAAAXA/Wlw9Y4qQl6k/s400/tom-waits_swordfishtrombones.jpg)](https://web.archive.org/web/20111010160009/http://1.bp.blogspot.com/_cLI19EXK2oU/S4HgB2SCYaI/AAAAAAAAAXA/Wlw9Y4qQl6k/s1600-h/tom-waits_swordfishtrombones.jpg)  
   

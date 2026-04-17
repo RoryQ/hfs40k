@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042759/http://holyfuckingshit4
 date: Friday, January 30, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/spiritualized-ladies-and-gentlemen-we.html
 title: Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997)
+artist: Spiritualized
+album: Ladies and Gentlemen We Are Floating in Space
+spotify_url: https://open.spotify.com/search/Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
+apple_music_url: https://music.apple.com/us/search?term=Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
+youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042759im_/http://i43.tinypic.com/r889pk.jpg)](https://web.archive.org/web/20111010042759/http://i43.tinypic.com/r889pk.jpg)  
   

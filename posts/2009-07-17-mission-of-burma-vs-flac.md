@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140051/http://holyfuckingshit4
 date: Friday, July 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/mission-of-burma-vs-flac.html
 title: Mission of Burma - Vs. (FLAC)
+artist: Mission of Burma
+album: Vs.
+spotify_url: https://open.spotify.com/search/Mission%20of%20Burma%20Vs.
+apple_music_url: https://geo.music.apple.com/au/album/_/1589146509?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Mission%20of%20Burma%20Vs.
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140051im_/http://4.bp.blogspot.com/_nmjS6fd9kfU/SmFonobWkqI/AAAAAAAAADk/lcKpKTKBVbw/s400/folder.jpg)](https://web.archive.org/web/20111010140051/http://4.bp.blogspot.com/_nmjS6fd9kfU/SmFonobWkqI/AAAAAAAAADk/lcKpKTKBVbw/s1600-h/folder.jpg)  
 Possibly the best moment of the post-punk genre, Boston's Mission of Burma delivered an album filled with punky aggression, balanced with beautiful quiet moments, and all sprinkled with art-school intelligence and wit. Comprised of three instrumentalists and a "tape guy" -- who brought a Can-like level of improvisational editing to the proceedings -- the band were notorious for their deafening live shows, which unfortunately caused them to break up after the release of their first album.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010034420/http://holyfuckingshit4
 date: Wednesday, December 24, 2008
 original_url: http://holyfuckingshit40000.blogspot.com/2008/12/kashiwa-daisuke-program-music-2007.html
 title: Kashiwa Daisuke - Program Music (2007)
+artist: Kashiwa Daisuke
+album: Program Music
+spotify_url: https://open.spotify.com/search/Kashiwa%20Daisuke%20Program%20Music
+apple_music_url: https://music.apple.com/us/search?term=Kashiwa%20Daisuke%20Program%20Music
+youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20Program%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010034420im_/http://i40.tinypic.com/f09buu.jpg)](https://web.archive.org/web/20111010034420/http://i40.tinypic.com/f09buu.jpg)  
 Genre: Experimental /Glitch / Post-rock  

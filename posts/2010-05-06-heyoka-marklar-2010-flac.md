@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100512045918/http://holyfuckingshit4
 date: Thursday, May 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/heyoka-marklar-2010-flac.html
 title: Heyoka - Marklar (2010) [FLAC]
+artist: Heyoka
+album: Marklar
+spotify_url: https://open.spotify.com/search/Heyoka%20Marklar
+apple_music_url: https://music.apple.com/us/search?term=Heyoka%20Marklar
+youtube_url: https://www.youtube.com/results?search_query=Heyoka%20Marklar
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100512045918im_/http://1.bp.blogspot.com/_ZGBCgBK9ack/S-MZgo4Rc6I/AAAAAAAAAHM/fdBVTgDgue4/s400/Marklar_front.jpg)](https://web.archive.org/web/20100512045918/http://1.bp.blogspot.com/_ZGBCgBK9ack/S-MZgo4Rc6I/AAAAAAAAAHM/fdBVTgDgue4/s1600/Marklar_front.jpg)  
 

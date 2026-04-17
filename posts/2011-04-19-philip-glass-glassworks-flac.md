@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145841/http://holyfuckingshit4
 date: Tuesday, April 19, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/philip-glass-glassworks-flac.html
 title: Philip Glass - Glassworks (FLAC)
+artist: Philip Glass
+album: Glassworks
+spotify_url: https://open.spotify.com/search/Philip%20Glass%20Glassworks
+apple_music_url: https://music.apple.com/us/search?term=Philip%20Glass%20Glassworks
+youtube_url: https://www.youtube.com/results?search_query=Philip%20Glass%20Glassworks
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145841im_/http://1.bp.blogspot.com/-Zcez_cdJpC4/Ta6K_2r1FhI/AAAAAAAAAAk/oNq1LpiXZxE/s400/Screen%2Bshot%2B2011-04-20%2Bat%2B12.27.12%2BAM.png)](https://web.archive.org/web/20111010145841/http://1.bp.blogspot.com/-Zcez_cdJpC4/Ta6K_2r1FhI/AAAAAAAAAAk/oNq1LpiXZxE/s1600/Screen%2Bshot%2B2011-04-20%2Bat%2B12.27.12%2BAM.png)
 

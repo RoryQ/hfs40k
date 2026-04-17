@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010064812/http://holyfuckingshit4
 date: Saturday, August 14, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/frank-zappa-burnt-weeny-sandwich-flac.html
 title: Frank Zappa - Burnt Weeny Sandwich [FLAC]
+artist: Frank Zappa
+album: Burnt Weeny Sandwich
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Burnt%20Weeny%20Sandwich
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Burnt%20Weeny%20Sandwich
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Burnt%20Weeny%20Sandwich
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064812im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/TGTHQgtBJCI/AAAAAAAAAKY/5u9jB9Aa_Jg/s400/Front.jpg)](https://web.archive.org/web/20111010064812/http://2.bp.blogspot.com/_mTQyK3r0bG0/TGTHQgtBJCI/AAAAAAAAAKY/5u9jB9Aa_Jg/s1600/Front.jpg)  
 In some ways, the Mothers of Invention's BURNT WEENY SANDWICH picks up where HOT RATS, the fusion masterpiece their leader and guitarist Frank Zappa had released under his own name a few weeks earlier, left off. Both albums feature lengthy, largely improvised instrumental tracks, and both cross musical boundaries freely. But where HOT RATS was very much an exercise in jazz/rock, WEENY tends to showcase Zappa's modern classical influences a bit more, whether overtly (as in self-explanatory titles like "Igor's Boogie" and "Overture to a Holiday in Berlin") or more subtly (as in Ian Underwood's entrancing piano solo on "Aybe Sea"). Nevertheless, there's plenty for everyone in both of these albums, and while HOT RATS is ultimately the stronger of the two WEENY is likewise a top-of-the-line offering which never disappoints.  

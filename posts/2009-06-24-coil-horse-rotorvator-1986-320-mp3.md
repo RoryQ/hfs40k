@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091337/http://holyfuckingshit4
 date: Wednesday, June 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/coil-horse-rotorvator-1986-320-mp3.html
 title: Coil - Horse Rotorvator (1986) [320 mp3]
+artist: Coil
+album: Horse Rotorvator
+spotify_url: https://open.spotify.com/search/Coil%20Horse%20Rotorvator
+apple_music_url: https://geo.music.apple.com/au/album/_/1545807894?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Coil%20Horse%20Rotorvator
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091337im_/http://3.bp.blogspot.com/_OYyGYtJuluk/SkMC63fGFNI/AAAAAAAAAOc/iO4CoWZAqzI/s320/horserotorvator.png)](https://web.archive.org/web/20111010091337/http://3.bp.blogspot.com/_OYyGYtJuluk/SkMC63fGFNI/AAAAAAAAAOc/iO4CoWZAqzI/s1600-h/horserotorvator.png)
 > THE MOST AMAZING CD IN THE MUSIC HISTORY  

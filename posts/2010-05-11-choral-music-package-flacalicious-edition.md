@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100728/http://holyfuckingshit4
 date: Tuesday, May 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/choral-music-package-flacalicious.html
 title: Choral Music Package - Flacalicious Edition
+artist: Choral Music Package
+album: Flacalicious Edition
+spotify_url: https://open.spotify.com/search/Choral%20Music%20Package%20Flacalicious%20Edition
+apple_music_url: https://music.apple.com/us/search?term=Choral%20Music%20Package%20Flacalicious%20Edition
+youtube_url: https://www.youtube.com/results?search_query=Choral%20Music%20Package%20Flacalicious%20Edition
 ---
+
+
+
 
 Well, two more albums that I found from the library. Both are choral, but one of them being a modern one, made from a Lebanese composer, while the other is a 17th century composition made by the Italian composer Claudio Monteverdi. Enjoy!  
   

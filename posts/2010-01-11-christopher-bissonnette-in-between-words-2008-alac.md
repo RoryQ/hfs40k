@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123408/http://holyfuckingshit4
 date: Monday, January 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/christopher-bissonnette-in-between.html
 title: Christopher Bissonnette - In Between Words (2008, ALAC)
+artist: Christopher Bissonnette
+album: In Between Words
+spotify_url: https://open.spotify.com/search/Christopher%20Bissonnette%20In%20Between%20Words
+apple_music_url: https://music.apple.com/us/search?term=Christopher%20Bissonnette%20In%20Between%20Words
+youtube_url: https://www.youtube.com/results?search_query=Christopher%20Bissonnette%20In%20Between%20Words
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123408im_/http://static.boomkat.com/images/109427/333.jpg)](https://web.archive.org/web/20111010123408/http://static.boomkat.com/images/109427/333.jpg)  
   

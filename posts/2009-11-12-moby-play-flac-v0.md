@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121308/http://holyfuckingshit4
 date: Thursday, November 12, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/moby-play-flac-v0.html
 title: Moby - Play (FLAC & v0)
+artist: Moby
+album: Play
+spotify_url: https://open.spotify.com/search/Moby%20Play
+apple_music_url: https://music.apple.com/us/search?term=Moby%20Play
+youtube_url: https://www.youtube.com/results?search_query=Moby%20Play
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121308im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SvyKWb9dFjI/AAAAAAAAAVo/c9Pt5bzGyTk/s400/Moby_play.JPG)](https://web.archive.org/web/20111010121308/http://1.bp.blogspot.com/_cLI19EXK2oU/SvyKWb9dFjI/AAAAAAAAAVo/c9Pt5bzGyTk/s1600-h/Moby_play.JPG)  
   

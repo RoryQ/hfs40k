@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010072413/http://holyfuckingshit4
 date: Friday, February 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/radiohead-ok-computer-flac.html
 title: Radiohead - OK Computer (FLAC)
+artist: Radiohead
+album: OK Computer
+spotify_url: https://open.spotify.com/search/Radiohead%20OK%20Computer
+apple_music_url: https://music.apple.com/us/search?term=Radiohead%20OK%20Computer
+youtube_url: https://www.youtube.com/results?search_query=Radiohead%20OK%20Computer
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010072413im_/http://i39.tinypic.com/34yp7w4.jpg)](https://web.archive.org/web/20111010072413/http://i39.tinypic.com/34yp7w4.jpg)  
   

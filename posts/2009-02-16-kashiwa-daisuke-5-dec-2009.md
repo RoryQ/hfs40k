@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203183625/http://holyfuckingshit4
 date: Monday, February 16, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/kashiwa-daisuke-5-dec-2009.html
 title: Kashiwa Daisuke - 5 Dec. (2009)
+artist: Kashiwa Daisuke
+album: 5 Dec.
+spotify_url: https://open.spotify.com/search/Kashiwa%20Daisuke%205%20Dec.
+apple_music_url: https://music.apple.com/us/search?term=Kashiwa%20Daisuke%205%20Dec.
+youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%205%20Dec.
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203183625im_/http://i44.tinypic.com/2mx1nxt.jpg)](https://web.archive.org/web/20101203183625/http://i44.tinypic.com/2mx1nxt.jpg)  
   

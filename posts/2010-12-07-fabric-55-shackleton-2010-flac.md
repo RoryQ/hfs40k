@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101212233833/http://holyfuckingshit4
 date: Tuesday, December 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/fabric-55-shackleton-2010-flac.html
 title: 'fabric 55: Shackleton (2010. FLAC)'
+artist: Shackleton
+album: fabric 55
+spotify_url: https://open.spotify.com/search/Shackleton%20fabric%2055
+apple_music_url: https://music.apple.com/us/search?term=Shackleton%20fabric%2055
+youtube_url: https://www.youtube.com/results?search_query=Shackleton%20fabric%2055
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101212233833im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/TP4ynk4TypI/AAAAAAAAAd0/166I_Pg0gz8/s400/fabric55_Album-Cover1.jpg)](https://web.archive.org/web/20101212233833/http://2.bp.blogspot.com/_t6lWjgwMoxw/TP4ynk4TypI/AAAAAAAAAd0/166I_Pg0gz8/s1600/fabric55_Album-Cover1.jpg)  
   

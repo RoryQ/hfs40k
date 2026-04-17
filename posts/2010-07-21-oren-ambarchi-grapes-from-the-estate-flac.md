@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053627/http://holyfuckingshit4
 date: Wednesday, July 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/grapes-from-estate-oren-ambarchi-flac.html
 title: Oren Ambarchi - Grapes From the Estate [FLAC]
+artist: Oren Ambarchi
+album: Grapes From the Estate
+spotify_url: https://open.spotify.com/search/Oren%20Ambarchi%20Grapes%20From%20the%20Estate
+apple_music_url: https://music.apple.com/us/search?term=Oren%20Ambarchi%20Grapes%20From%20the%20Estate
+youtube_url: https://www.youtube.com/results?search_query=Oren%20Ambarchi%20Grapes%20From%20the%20Estate
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053627im_/http://1.bp.blogspot.com/_9vpegXTmIbs/TEcQlQtybbI/AAAAAAAAAB0/c4nh-Au3sIw/s400/152-grapes-from-the-estate.jpg)](https://web.archive.org/web/20111010053627/http://1.bp.blogspot.com/_9vpegXTmIbs/TEcQlQtybbI/AAAAAAAAAB0/c4nh-Au3sIw/s1600/152-grapes-from-the-estate.jpg)From the old post, which link is sadly dead:  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111228204816/http://holyfuckingshit4
 date: Sunday, February 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/tom-waits-rain-dogs-flac.html
 title: Tom Waits - Rain Dogs (FLAC)
+artist: Tom Waits
+album: Rain Dogs
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Rain%20Dogs
+apple_music_url: https://geo.music.apple.com/au/album/_/1695046955?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Rain%20Dogs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111228204816im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S4H_z4fAxOI/AAAAAAAAAXI/SpD6sgTJVik/s400/rain-dogs.jpg)](https://web.archive.org/web/20111228204816/http://3.bp.blogspot.com/_cLI19EXK2oU/S4H_z4fAxOI/AAAAAAAAAXI/SpD6sgTJVik/s1600-h/rain-dogs.jpg)  
   

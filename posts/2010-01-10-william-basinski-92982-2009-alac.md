@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123130/http://holyfuckingshit4
 date: Sunday, January 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/william-basinski-92982-2009.html
 title: William Basinski - 92982 (2009, ALAC)
+artist: William Basinski
+album: '92982'
+spotify_url: https://open.spotify.com/search/William%20Basinski%2092982
+apple_music_url: https://geo.music.apple.com/au/album/_/1683857211?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%2092982
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123130im_/http://3.bp.blogspot.com/_rBN-hePUqQg/S0nzagNhlaI/AAAAAAAAARE/OOjKNDOjzQA/s320/basinski_92982.jpg)](https://web.archive.org/web/20111010123130/http://3.bp.blogspot.com/_rBN-hePUqQg/S0nzagNhlaI/AAAAAAAAARE/OOjKNDOjzQA/s1600-h/basinski_92982.jpg)  
   

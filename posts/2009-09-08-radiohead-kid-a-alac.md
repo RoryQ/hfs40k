@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094055/http://holyfuckingshit4
 date: Tuesday, September 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/radiohead-kid-alac.html
 title: Radiohead - Kid A (ALAC)
+artist: Radiohead
+album: Kid A
+spotify_url: https://open.spotify.com/search/Radiohead%20Kid%20A
+apple_music_url: https://geo.music.apple.com/au/album/_/1097862870?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Radiohead%20Kid%20A
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094055im_/http://3.bp.blogspot.com/_JdyrURA7JYI/Sqa8QBVG0fI/AAAAAAAAAHQ/UIrwBiPHpqo/s400/radioheada.PNG)](https://web.archive.org/web/20111010094055/http://3.bp.blogspot.com/_JdyrURA7JYI/Sqa8QBVG0fI/AAAAAAAAAHQ/UIrwBiPHpqo/s1600-h/radioheada.PNG)"I had never even seen a shooting star before. 25 years of rotations, passes through comets' paths, and travel, and to my memory I had never witnessed burning debris scratch across the night sky. Radiohead were hunched over their instruments. Thom Yorke slowly beat on a grand piano, singing, eyes closed, into his microphone like he was trying to kiss around a big nose. Colin Greenwood tapped patiently on a double bass, waiting for his cue. White pearls of arena light swam over their faces. A lazy disco light spilled artificial constellations inside the aluminum cove of the makeshift stage. The metal skeleton of the stage ate one end of Florence's Piazza Santa Croce, on the steps of the Santa Croce Cathedral. Michelangelo's bones and cobblestone laid beneath. I stared entranced, soaking in Radiohead's new material, chiseling each sound into the best functioning parts of my brain which would be the only sound system for the material for months.
 

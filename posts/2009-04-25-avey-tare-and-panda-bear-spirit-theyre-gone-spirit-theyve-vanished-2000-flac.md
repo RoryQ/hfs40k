@@ -4,7 +4,15 @@ date: Saturday, April 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/avey-tare-and-panda-bear-spirit-theyre.html
 title: Avey Tare and Panda Bear - Spirit They're Gone, Spirit They've Vanished (2000)
   [FLAC]
+artist: Avey Tare and Panda Bear
+album: Spirit They're Gone, Spirit They've Vanished
+spotify_url: https://open.spotify.com/search/Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
+apple_music_url: https://music.apple.com/us/search?term=Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
+youtube_url: https://www.youtube.com/results?search_query=Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010130633im_/http://1.bp.blogspot.com/_z8rLjrFVzbo/Se8DBY0y0jI/AAAAAAAAAF8/rBIC7QsIBFw/s400/28325.jpg)](https://web.archive.org/web/20111010130633/http://1.bp.blogspot.com/_z8rLjrFVzbo/Se8DBY0y0jI/AAAAAAAAAF8/rBIC7QsIBFw/s1600-h/28325.jpg)  
 What? Animal Collective had good albums before 2009?  

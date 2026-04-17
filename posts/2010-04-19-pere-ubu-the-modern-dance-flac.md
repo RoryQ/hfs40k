@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045804/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/pere-ubu-modern-dance-flac.html
 title: Pere Ubu - The Modern Dance (FLAC)
+artist: Pere Ubu
+album: The Modern Dance
+spotify_url: https://open.spotify.com/search/Pere%20Ubu%20The%20Modern%20Dance
+apple_music_url: https://music.apple.com/us/search?term=Pere%20Ubu%20The%20Modern%20Dance
+youtube_url: https://www.youtube.com/results?search_query=Pere%20Ubu%20The%20Modern%20Dance
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045804im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S8yDu4ItNmI/AAAAAAAAAd8/wZHMAe1UOVQ/s400/523284539_64d09a832d.jpg)](https://web.archive.org/web/20111010045804/http://3.bp.blogspot.com/_cLI19EXK2oU/S8yDu4ItNmI/AAAAAAAAAd8/wZHMAe1UOVQ/s1600/523284539_64d09a832d.jpg)  
 The sound of the real american 1970's underground. It's an awesome record, one that has inspired a fair degree of bands but been criminally underheard.  

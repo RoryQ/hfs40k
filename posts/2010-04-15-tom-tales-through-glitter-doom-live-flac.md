@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100421013447/http://holyfuckingshit4
 date: Thursday, April 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/tom-tales-through-glitter-doom-live.html
 title: Tom Tales through Glitter & Doom Live (FLAC)
+artist: Tom Tales
+album: through Glitter & Doom Live
+spotify_url: https://open.spotify.com/search/Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100421013447im_/http://3.bp.blogspot.com/_ZGBCgBK9ack/S8dTMVXAxkI/AAAAAAAAAFA/sWxds9GOpWQ/s400/G+%26+D.jpg)](https://web.archive.org/web/20100421013447/http://3.bp.blogspot.com/_ZGBCgBK9ack/S8dTMVXAxkI/AAAAAAAAAFA/sWxds9GOpWQ/s1600/G+%26+D.jpg)  
 

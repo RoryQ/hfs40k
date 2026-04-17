@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045028/http://holyfuckingshit4
 date: Wednesday, April 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/andromeda-mega-express-orchestra-take.html
 title: Andromeda Mega Express Orchestra - Take Off! (2009) [FLAC]
+artist: Andromeda Mega Express Orchestra
+album: Take Off!
+spotify_url: https://open.spotify.com/search/Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
+apple_music_url: https://geo.music.apple.com/au/album/_/305658185?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045028im_/http://3.bp.blogspot.com/_5cVyPU93ihM/S88KfHGJaHI/AAAAAAAAAPg/kIVHTbbyC_0/s400/folder.jpg)](https://web.archive.org/web/20111010045028/http://3.bp.blogspot.com/_5cVyPU93ihM/S88KfHGJaHI/AAAAAAAAAPg/kIVHTbbyC_0/s1600/folder.jpg)  
 Re-uploaded this fantastic little gem from last year:  

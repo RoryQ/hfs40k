@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175549/http://holyfuckingshit4
 date: Wednesday, September 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/jim-orourke-bad-timing-flac.html
 title: Jim O'Rourke - Bad Timing (FLAC)
+artist: Jim O'Rourke
+album: Bad Timing
+spotify_url: https://open.spotify.com/search/Jim%20O%27Rourke%20Bad%20Timing
+apple_music_url: https://geo.music.apple.com/au/album/_/1610065654?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Bad%20Timing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175549im_/http://2.bp.blogspot.com/_nmjS6fd9kfU/TH6Fv0ya0pI/AAAAAAAAANY/Uc6-D8qy2jY/s400/folder.jpg)](https://web.archive.org/web/20111010175549/http://2.bp.blogspot.com/_nmjS6fd9kfU/TH6Fv0ya0pI/AAAAAAAAANY/Uc6-D8qy2jY/s1600/folder.jpg)Time for some Jim O'Rourke! While well-known for his works with bands ranging from Wilco to Sonic Youth, this mainstay of the Chicago avant-garde scene that gave us bands such as Tortoise, The Sea and the Cake, and Isotope 217 is one of my favorite singular musicians. From his work with David Grubbs in Gastr del Sol to his most recent album *The Visitor*, Mr. O'Rourke has continually expanded upon his artistic ideas in increasingly diverse ways.
 

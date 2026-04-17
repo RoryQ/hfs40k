@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023230949/http://holyfuckingshit4
 date: Monday, August 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/pink-floyd-relics-flac.html
 title: Pink Floyd - Relics (FLAC)
+artist: Pink Floyd
+album: Relics
+spotify_url: https://open.spotify.com/search/Pink%20Floyd%20Relics
+apple_music_url: https://music.apple.com/us/search?term=Pink%20Floyd%20Relics
+youtube_url: https://www.youtube.com/results?search_query=Pink%20Floyd%20Relics
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023230949im_/http://3.bp.blogspot.com/-Ipzzk8jAS_Y/TlvXYtpn4iI/AAAAAAAABC4/GJKjJIKMyYo/s400/pink_floyd-relics%25282%2529.jpg)](https://web.archive.org/web/20111023230949/http://3.bp.blogspot.com/-Ipzzk8jAS_Y/TlvXYtpn4iI/AAAAAAAABC4/GJKjJIKMyYo/s1600/pink_floyd-relics%25282%2529.jpg)
   

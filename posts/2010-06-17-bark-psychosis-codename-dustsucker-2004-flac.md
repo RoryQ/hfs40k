@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173225/http://holyfuckingshit4
 date: Thursday, June 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/bark-psychosis-codename-dustsucker-2004.html
 title: 'Bark Psychosis - Codename: Dustsucker (2004, FLAC)'
+artist: Bark Psychosis
+album: 'Codename: Dustsucker'
+spotify_url: https://open.spotify.com/search/Bark%20Psychosis%20Codename%3A%20Dustsucker
+apple_music_url: https://music.apple.com/us/search?term=Bark%20Psychosis%20Codename%3A%20Dustsucker
+youtube_url: https://www.youtube.com/results?search_query=Bark%20Psychosis%20Codename%3A%20Dustsucker
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173225im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBn8XLuga_I/AAAAAAAAAR4/ZcNWV7QP6-s/s400/barkpsychosis_dustsucker.jpg)](https://web.archive.org/web/20111010173225/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBn8XLuga_I/AAAAAAAAAR4/ZcNWV7QP6-s/s1600/barkpsychosis_dustsucker.jpg)  
   

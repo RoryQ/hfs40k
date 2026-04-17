@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010153046/http://holyfuckingshit4
 date: Saturday, December 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/12/catherine-ribeiro-alpes-paix-1972.html
 title: Catherine Ribeiro + Alpes -  Paix (1972)
+artist: Catherine Ribeiro + Alpes
+album: Paix
+spotify_url: https://open.spotify.com/search/Catherine%20Ribeiro%20%2B%20Alpes%20Paix
+apple_music_url: https://geo.music.apple.com/au/album/_/1443217365?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Catherine%20Ribeiro%20%2B%20Alpes%20Paix
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010153046im_/http://4.bp.blogspot.com/_5cVyPU93ihM/SxsPNqpYaHI/AAAAAAAAALs/NUpMyPtBJbA/s400/o21612.jpg)](https://web.archive.org/web/20111010153046/http://4.bp.blogspot.com/_5cVyPU93ihM/SxsPNqpYaHI/AAAAAAAAALs/NUpMyPtBJbA/s1600-h/o21612.jpg)Hypnotic, mind expanding Avant-folk.  
   

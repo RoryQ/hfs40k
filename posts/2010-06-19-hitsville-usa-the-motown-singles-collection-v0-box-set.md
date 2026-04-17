@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175156/http://holyfuckingshit4
 date: Saturday, June 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/hitsville-usa-motown-singles-collection.html
 title: Hitsville USA - The Motown Singles Collection (v0 Box Set)
+artist: Hitsville USA
+album: The Motown Singles Collection
+spotify_url: https://open.spotify.com/search/Hitsville%20USA%20The%20Motown%20Singles%20Collection
+apple_music_url: https://music.apple.com/us/search?term=Hitsville%20USA%20The%20Motown%20Singles%20Collection
+youtube_url: https://www.youtube.com/results?search_query=Hitsville%20USA%20The%20Motown%20Singles%20Collection
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175156im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TBz9O_gs-KI/AAAAAAAAAuE/4BIFLKymq60/s400/46091.jpg)](https://web.archive.org/web/20111010175156/http://2.bp.blogspot.com/_cLI19EXK2oU/TBz9O_gs-KI/AAAAAAAAAuE/4BIFLKymq60/s1600/46091.jpg)  
 The first box set dealt with Motown's Golden Era (1959 - 1971) when they were a hit factory in Detroit. This set captures highlights from the next 20 years, after Motown had relocated in Los Angeles and the hits weren't so automatic. Because of the large number of great recordings found here that aren't readily available elsewhere, this set for me - a Motown collector - was far more enjoyable.

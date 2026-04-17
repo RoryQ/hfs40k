@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155540/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/blue-merle-burning-in-sun-flac.html
 title: Blue Merle - Burning In The Sun (FLAC)
+artist: Blue Merle
+album: Burning In The Sun
+spotify_url: https://open.spotify.com/search/Blue%20Merle%20Burning%20In%20The%20Sun
+apple_music_url: https://music.apple.com/us/search?term=Blue%20Merle%20Burning%20In%20The%20Sun
+youtube_url: https://www.youtube.com/results?search_query=Blue%20Merle%20Burning%20In%20The%20Sun
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155540im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S4loKz3RbCI/AAAAAAAAAYQ/BRdWMhJw--Y/s400/41FD57P2R4L._SL500_.jpg)](https://web.archive.org/web/20111010155540/http://4.bp.blogspot.com/_cLI19EXK2oU/S4loKz3RbCI/AAAAAAAAAYQ/BRdWMhJw--Y/s1600-h/41FD57P2R4L._SL500_.jpg)Maleko's request  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100921/http://holyfuckingshit4
 date: Wednesday, May 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/john-coltrane-ole-coltrane-vinyl-rip.html
 title: "John Coltrane - Ol\xE9 Coltrane (Vinyl Rip 24bit-96kHz)"
+artist: John Coltrane
+album: "Ol\xE9 Coltrane"
+spotify_url: https://open.spotify.com/search/John%20Coltrane%20Ol%C3%A9%20Coltrane
+apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Ol%C3%A9%20Coltrane
+youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Ol%C3%A9%20Coltrane
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100921im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S_zum45JNrI/AAAAAAAAAPw/NwZ-TsTcD_E/s400/Front.jpg)](https://web.archive.org/web/20111010100921/http://3.bp.blogspot.com/_t6lWjgwMoxw/S_zum45JNrI/AAAAAAAAAPw/NwZ-TsTcD_E/s1600/Front.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008170615/http://holyfuckingshit4
 date: Thursday, June 23, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/god-is-my-co-pilot-gender-is-as-gender.html
 title: God Is My Co-Pilot - Gender Is As Gender Does [192kbps]
+artist: God Is My Co
+album: Pilot - Gender Is As Gender Does
+spotify_url: https://open.spotify.com/search/God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
+apple_music_url: https://music.apple.com/us/search?term=God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
+youtube_url: https://www.youtube.com/results?search_query=God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008170615im_/http://3.bp.blogspot.com/-vsokdHu_vl8/TgP51Zx8tEI/AAAAAAAAALo/3owQf5JsVsY/s320/tumblr_llvsmzSopt1qcy5o5o1_500.jpg)](https://web.archive.org/web/20111008170615/http://3.bp.blogspot.com/-vsokdHu_vl8/TgP51Zx8tEI/AAAAAAAAALo/3owQf5JsVsY/s1600/tumblr_llvsmzSopt1qcy5o5o1_500.jpg)  
   

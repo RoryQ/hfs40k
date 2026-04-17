@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175356/http://holyfuckingshit4
 date: Saturday, September 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/karlheinz-stockhausen-kontakte-flac.html
 title: Karlheinz Stockhausen - Kontakte (FLAC)
+artist: Karlheinz Stockhausen
+album: Kontakte
+spotify_url: https://open.spotify.com/search/Karlheinz%20Stockhausen%20Kontakte
+apple_music_url: https://geo.music.apple.com/au/album/_/987044509?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Karlheinz%20Stockhausen%20Kontakte
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175356im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TJ55DSVn9dI/AAAAAAAAA1c/V1iYkaiBxWo/s400/Karlheinz%2BStockhausen%2BPNG%2B500x565.png)](https://web.archive.org/web/20111010175356/http://1.bp.blogspot.com/_cLI19EXK2oU/TJ55DSVn9dI/AAAAAAAAA1c/V1iYkaiBxWo/s1600/Karlheinz%2BStockhausen%2BPNG%2B500x565.png)  
 Karlheinz Stockhausen was a German composer who was recognized as one of the most important composers of the twentieth and early twenty-first centuries. Stockhausen's success was largely due to his groundbreaking work in electronic music. In addition his work has greatly influenced composers of art music, as well as jazz and pop artists. His compositions have been known to avoid the traditional methods in the composition of musical pieces. While, Stockhausen is commonly associated with the field of electronic music, he was also known to perform live performances that used solo instruments, chamber music, choral and orchestral music. With numerous notable compositions throughout his career, choosing a work to analyze can be a tough one.  

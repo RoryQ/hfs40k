@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004084314/http://holyfuckingshit4
 date: Saturday, August 13, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/spacetime-continuum-alien-dreamtime.html
 title: Spacetime Continuum - Alien Dreamtime (FLAC)
+artist: Spacetime Continuum
+album: Alien Dreamtime
+spotify_url: https://open.spotify.com/search/Spacetime%20Continuum%20Alien%20Dreamtime
+apple_music_url: https://music.apple.com/us/search?term=Spacetime%20Continuum%20Alien%20Dreamtime
+youtube_url: https://www.youtube.com/results?search_query=Spacetime%20Continuum%20Alien%20Dreamtime
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004084314im_/http://4.bp.blogspot.com/-i7x9jAowG_8/Tka_iMGb5AI/AAAAAAAABBA/JXg27shKbcs/s400/Spacetime%2BContinuum%2B%2526%2BTerence%2BMcKenna%2B-%2BAlien%2BDreamtime.jpg)](https://web.archive.org/web/20111004084314/http://4.bp.blogspot.com/-i7x9jAowG_8/Tka_iMGb5AI/AAAAAAAABBA/JXg27shKbcs/s1600/Spacetime%2BContinuum%2B%2526%2BTerence%2BMcKenna%2B-%2BAlien%2BDreamtime.jpg)
   

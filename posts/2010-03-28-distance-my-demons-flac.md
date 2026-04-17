@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081913/http://holyfuckingshit4
 date: Sunday, March 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/distance-my-demons-flac.html
 title: Distance - My Demons FLAC
+artist: Distance
+album: My Demons FLAC
+spotify_url: https://open.spotify.com/search/Distance%20My%20Demons%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Distance%20My%20Demons%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Distance%20My%20Demons%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081913im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68Rs7BvdaI/AAAAAAAAAG8/gdZY3Mq3UMA/s400/ZIQ170_Distance.jpg)](https://web.archive.org/web/20111010081913/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68Rs7BvdaI/AAAAAAAAAG8/gdZY3Mq3UMA/s1600/ZIQ170_Distance.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164321/http://holyfuckingshit4
 date: Saturday, March 14, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/portishead-dummy-flac.html
 title: Portishead - Dummy (FLAC)
+artist: Portishead
+album: Dummy
+spotify_url: https://open.spotify.com/search/Portishead%20Dummy
+apple_music_url: https://music.apple.com/us/search?term=Portishead%20Dummy
+youtube_url: https://www.youtube.com/results?search_query=Portishead%20Dummy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164321im_/http://i39.tinypic.com/2hhf01u.jpg)](https://web.archive.org/web/20111010164321/http://i39.tinypic.com/2hhf01u.jpg)  
 I'd put my glory in her box if you know what I mean.  

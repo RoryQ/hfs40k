@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053203/http://holyfuckingshit4
 date: Wednesday, July 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/flaming-lips-yoshimi-battles-pink.html
 title: The Flaming Lips - Yoshimi Battles The Pink Robots (FLAC)
+artist: The Flaming Lips
+album: Yoshimi Battles The Pink Robots
+spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
+apple_music_url: https://music.apple.com/us/search?term=The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
+youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053203im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TFBWBIh41DI/AAAAAAAAAwc/Q9k7fmr7aLE/s400/yoshimi-battles-the-pink-robots.jpg)](https://web.archive.org/web/20111010053203/http://3.bp.blogspot.com/_cLI19EXK2oU/TFBWBIh41DI/AAAAAAAAAwc/Q9k7fmr7aLE/s1600/yoshimi-battles-the-pink-robots.jpg)  
 I had never heard of the Flaming Lips before hearing "Do You Realize?" late in 2002. I was instantly captivated by the soaring vocals, lush harmonies and orchestrations, and sterling production. But this song did not prepare me for the rich and varied experience of the entire album.

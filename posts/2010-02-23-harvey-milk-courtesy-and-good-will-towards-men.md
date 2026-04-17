@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155814/http://holyfuckingshit4
 date: Tuesday, February 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/harvey-milk-courtesy-and-good-will.html
 title: Harvey Milk - Courtesy And Good Will Towards Men
+artist: Harvey Milk
+album: Courtesy And Good Will Towards Men
+spotify_url: https://open.spotify.com/search/Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
+apple_music_url: https://music.apple.com/us/search?term=Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
+youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155814im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S3hWyW_sl_I/AAAAAAAAAVc/doxot8jtJrA/s400/good+will.jpg)](https://web.archive.org/web/20111010155814/http://4.bp.blogspot.com/_bIgHZQu-UEA/S3hWyW_sl_I/AAAAAAAAAVc/doxot8jtJrA/s1600-h/good+will.jpg)  
 

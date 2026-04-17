@@ -3,7 +3,16 @@ archived_url: https://web.archive.org/web/20120117194418/http://holyfuckingshit4
 date: Monday, January 9, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/scott-walker-til-band-comes-in-flac.html
 title: Scott Walker- 'Til the Band Comes In (FLAC)
+artist: Scott Walker
+album: '''Til the Band Comes In'
+spotify_url: https://open.spotify.com/search/Scott%20Walker%20%27Til%20the%20Band%20Comes%20In
+apple_music_url: https://geo.music.apple.com/au/album/_/1444009633?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Scott%20Walker%20%27Til%20the%20Band%20Comes%20In
 ---
+
+
+
+
 
 [![](https://web.archive.org/web/20120117194418im_/http://3.bp.blogspot.com/_OJxCIZJY8TQ/TUzjBQGJUkI/AAAAAAAAAqw/vfwlEZlAD6g/s400/Scott-Walker-Til-The-Band-Come-468633.jpg)](https://web.archive.org/web/20120117194418/http://3.bp.blogspot.com/_OJxCIZJY8TQ/TUzjBQGJUkI/AAAAAAAAAqw/vfwlEZlAD6g/s1600/Scott-Walker-Til-The-Band-Come-468633.jpg)
 

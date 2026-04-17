@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053032/http://holyfuckingshit4
 date: Tuesday, July 20, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-zappa-week-day-3-absolutely-free.html
 title: 'Frank Zappa Week - Day #3 Absolutely Free (FLAC)'
+artist: Frank Zappa Week
+album: 'Day #3 Absolutely Free'
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%233%20Absolutely%20Free
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%233%20Absolutely%20Free
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%233%20Absolutely%20Free
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053032im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TEVXR99YYaI/AAAAAAAAAvU/9Kd4TIfrQSg/s400/Absolutely_Free.jpg)](https://web.archive.org/web/20111010053032/http://3.bp.blogspot.com/_cLI19EXK2oU/TEVXR99YYaI/AAAAAAAAAvU/9Kd4TIfrQSg/s1600/Absolutely_Free.jpg)  
 Frank Zappa's second release with the Mothers of Invention (following 1966's Freak Out!) displayed the awesome range of his vision (and capacity to achieve it) to a degree that even fans of its predecessor could scarcely comprehend. (In fact, most DIDN'T comprehend and still don't.) It is here that we first realize that Zappa is, first and foremost, a COMPOSER--he was writing modernist orchestral music before he ever picked up a guitar. The Mothers of Invention and the L.A. "freak" scene provided an opportunity for Zappa to get his compositions across in the marketplace and to be used as a weapon against cultural complacency, conformity, idiocy, and the repressive nature of the record industry itself. Absolutely Free succeeds on every level.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045821/http://holyfuckingshit4
 date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/talk-talk-colour-of-spring-flac.html
 title: Talk Talk - The Colour of Spring (FLAC)
+artist: Talk Talk
+album: The Colour of Spring
+spotify_url: https://open.spotify.com/search/Talk%20Talk%20The%20Colour%20of%20Spring
+apple_music_url: https://music.apple.com/us/search?term=Talk%20Talk%20The%20Colour%20of%20Spring
+youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20The%20Colour%20of%20Spring
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045821im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yGLuYsAhI/AAAAAAAAAeM/JXBSoLH_ap8/s400/talktalkthecolorofsprinlc1.jpg)](https://web.archive.org/web/20111010045821/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yGLuYsAhI/AAAAAAAAAeM/JXBSoLH_ap8/s1600/talktalkthecolorofsprinlc1.jpg)  
 "Colour of Spring" is joyous and yet introspective at the same time, it would be one of my "desert island" discs. (If you were stranded on a desert island, what records would you want to have with you?)

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095206/http://holyfuckingshit4
 date: Friday, May 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/sorry-for-not-posting-here-is-big-post.html
 title: sorry for not posting- here is a multi-album post
+artist: sorry for not posting
+album: here is a multi-album post
+spotify_url: https://open.spotify.com/search/sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
+apple_music_url: https://music.apple.com/us/search?term=sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
+youtube_url: https://www.youtube.com/results?search_query=sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095206im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-Hj176BvrI/AAAAAAAAAkI/DIsOIyJcanQ/s320/23Dream_Letter_Live_In_London_Front_Cover.jpg)](https://web.archive.org/web/20111010095206/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-Hj176BvrI/AAAAAAAAAkI/DIsOIyJcanQ/s1600/23Dream_Letter_Live_In_London_Front_Cover.jpg)
 

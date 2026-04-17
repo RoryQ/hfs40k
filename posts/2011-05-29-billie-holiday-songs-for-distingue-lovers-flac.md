@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093535/http://holyfuckingshit4
 date: Sunday, May 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/billie-holiday-songs-for-distingue.html
 title: Billie Holiday - Songs For Distingue Lovers (FLAC)
+artist: Billie Holiday
+album: Songs For Distingue Lovers
+spotify_url: https://open.spotify.com/search/Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
+apple_music_url: https://music.apple.com/us/search?term=Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
+youtube_url: https://www.youtube.com/results?search_query=Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093535im_/http://2.bp.blogspot.com/-DaCYc-scIH4/TeMSW8J1FuI/AAAAAAAAA-E/St2VpeqMRKM/s400/billieholiday.jpg)](https://web.archive.org/web/20111010093535/http://2.bp.blogspot.com/-DaCYc-scIH4/TeMSW8J1FuI/AAAAAAAAA-E/St2VpeqMRKM/s1600/billieholiday.jpg)  
 

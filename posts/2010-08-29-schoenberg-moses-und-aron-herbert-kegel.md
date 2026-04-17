@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065206/http://holyfuckingshit4
 date: Sunday, August 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/arnold-schoenberg-moses-und-aron.html
 title: Schoenberg - Moses und Aron (Herbert Kegel)
+artist: Schoenberg
+album: Moses und Aron
+spotify_url: https://open.spotify.com/search/Schoenberg%20Moses%20und%20Aron
+apple_music_url: https://music.apple.com/us/search?term=Schoenberg%20Moses%20und%20Aron
+youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Moses%20und%20Aron
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065206im_/http://1.bp.blogspot.com/_jrASt-yq9g4/THsW0SyuQ0I/AAAAAAAAAA4/4hIjc2wXsFE/s400/moses.jpg)](https://web.archive.org/web/20111010065206/http://1.bp.blogspot.com/_jrASt-yq9g4/THsW0SyuQ0I/AAAAAAAAAA4/4hIjc2wXsFE/s1600/moses.jpg)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071718/http://holyfuckingshit4
 date: Wednesday, December 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/geomatic-blue-beam-2008-flac.html
 title: Geomatic - Blue Beam (2008, FLAC)
+artist: Geomatic
+album: Blue Beam
+spotify_url: https://open.spotify.com/search/Geomatic%20Blue%20Beam
+apple_music_url: https://music.apple.com/us/search?term=Geomatic%20Blue%20Beam
+youtube_url: https://www.youtube.com/results?search_query=Geomatic%20Blue%20Beam
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071718im_/http://1.bp.blogspot.com/_8OQrKaBbb98/TQj2d2Oqi6I/AAAAAAAAADU/28OZEnuLj_A/s400/Geomatic+-+Blue+Beam.jpg)](https://web.archive.org/web/20111010071718/http://1.bp.blogspot.com/_8OQrKaBbb98/TQj2d2Oqi6I/AAAAAAAAADU/28OZEnuLj_A/s1600/Geomatic+-+Blue+Beam.jpg)
 

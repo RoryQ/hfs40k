@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145738/http://holyfuckingshit4
 date: Wednesday, April 27, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/decemberists-picaresque-flac.html
 title: The Decemberists - Picaresque (FLAC)
+artist: The Decemberists
+album: Picaresque
+spotify_url: https://open.spotify.com/search/The%20Decemberists%20Picaresque
+apple_music_url: https://geo.music.apple.com/au/album/_/313249629?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Decemberists%20Picaresque
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145738im_/http://4.bp.blogspot.com/-YWlYEet_LgU/TbhdqNTVPQI/AAAAAAAAA8c/ep0EnSIAOjA/s400/The-Decemberists-Picaresque.jpg)](https://web.archive.org/web/20111010145738/http://4.bp.blogspot.com/-YWlYEet_LgU/TbhdqNTVPQI/AAAAAAAAA8c/ep0EnSIAOjA/s1600/The-Decemberists-Picaresque.jpg)  
 The obscure word "Picaresque" is an accurate title for the third full-length album by the Decemberists. If you want to get technical, the word refers to humorous adventure stories, starring roguish antiheroes. Considering the folky pirate sound of the Decemberists' latest -- and best -- album, this seems an appropriate title.   

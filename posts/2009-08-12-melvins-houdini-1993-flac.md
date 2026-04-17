@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145653/http://holyfuckingshit4
 date: Wednesday, August 12, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/melvins-houdini-1993-flac.html
 title: Melvins - Houdini (1993) [FLAC]
+artist: Melvins
+album: Houdini
+spotify_url: https://open.spotify.com/search/Melvins%20Houdini
+apple_music_url: https://music.apple.com/us/search?term=Melvins%20Houdini
+youtube_url: https://www.youtube.com/results?search_query=Melvins%20Houdini
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145653im_/http://upload.wikimedia.org/wikipedia/en/7/7a/Melvins-houdini.jpg)](https://web.archive.org/web/20111010145653/http://upload.wikimedia.org/wikipedia/en/7/7a/Melvins-houdini.jpg)  
 The only album in my record collection that has been on high rotation for over 4 years now (maybe 5 or something).  

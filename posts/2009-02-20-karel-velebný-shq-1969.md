@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203184857/http://holyfuckingshit4
 date: Friday, February 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/karel-velebny-shq-1969.html
 title: "Karel Velebn\xFD - SHQ (1969)"
+artist: "Karel Velebn\xFD"
+album: SHQ
+spotify_url: https://open.spotify.com/search/Karel%20Velebn%C3%BD%20SHQ
+apple_music_url: https://music.apple.com/us/search?term=Karel%20Velebn%C3%BD%20SHQ
+youtube_url: https://www.youtube.com/results?search_query=Karel%20Velebn%C3%BD%20SHQ
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203184857im_/http://i40.tinypic.com/28j8gmc.jpg)](https://web.archive.org/web/20101203184857/http://i40.tinypic.com/28j8gmc.jpg)  
 Genre: Avant-Garde Jazz  

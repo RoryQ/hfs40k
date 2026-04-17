@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145056/http://holyfuckingshit4
 date: Monday, August 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/rhys-chatham-angel-moves-too-fast-to.html
 title: Rhys Chatham - An Angel Moves Too Fast To See (VBR)
+artist: Rhys Chatham
+album: An Angel Moves Too Fast To See
+spotify_url: https://open.spotify.com/search/Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
+apple_music_url: https://music.apple.com/us/search?term=Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
+youtube_url: https://www.youtube.com/results?search_query=Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145056im_/http://www.visitation-rites.com/wp-content/uploads/2009/08/guitar_trio_with_longo_l1.jpg)](https://web.archive.org/web/20111010145056/http://www.visitation-rites.com/wp-content/uploads/2009/08/guitar_trio_with_longo_l1.jpg)Sorry bros, not the compilation. The final disc of the compilation, the songs making up the piece under the same name. The most enjoyable thing on there imo, angular no-wave/post rock kind of.
 

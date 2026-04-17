@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175231/http://holyfuckingshit4
 date: Saturday, June 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/soft-machine-soft-machine-2009-remaster.html
 title: The Soft Machine - The Soft Machine (2009 Remaster FLAC)
+artist: The Soft Machine
+album: The Soft Machine
+spotify_url: https://open.spotify.com/search/The%20Soft%20Machine%20The%20Soft%20Machine
+apple_music_url: https://music.apple.com/us/search?term=The%20Soft%20Machine%20The%20Soft%20Machine
+youtube_url: https://www.youtube.com/results?search_query=The%20Soft%20Machine%20The%20Soft%20Machine
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175231im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TCY8g7cQFjI/AAAAAAAAAu8/-pD-owOKex8/s400/6751958.jpg)](https://web.archive.org/web/20111010175231/http://4.bp.blogspot.com/_cLI19EXK2oU/TCY8g7cQFjI/AAAAAAAAAu8/-pD-owOKex8/s1600/6751958.jpg)  
 This first Soft Machine album is the prototype for the absolute masterpieces, Soft Machine Volume 2 & Third. That does not mean this debut is not a monster.  

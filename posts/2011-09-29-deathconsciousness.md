@@ -3,7 +3,10 @@ archived_url: https://web.archive.org/web/20111223222911/http://holyfuckingshit4
 date: Thursday, September 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/deathconsciousness.html
 title: Deathconsciousness
+artist: Have A Nice Life
+album: Deathconsciousness
 ---
+
 
 [![](https://web.archive.org/web/20111223222911im_/http://3.bp.blogspot.com/-Xa9uT_dBw-g/ToRwnZAXyrI/AAAAAAAAAWc/fREKUkctjlY/s400/hanlvinyl.png)](https://web.archive.org/web/20111223222911/http://3.bp.blogspot.com/-Xa9uT_dBw-g/ToRwnZAXyrI/AAAAAAAAAWc/fREKUkctjlY/s1600/hanlvinyl.png)
 

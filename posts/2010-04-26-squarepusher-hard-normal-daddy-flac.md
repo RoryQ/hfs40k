@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045800/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/squarepusher-hard-normal-daddy-flac.html
 title: Squarepusher - Hard Normal Daddy (FLAC)
+artist: Squarepusher
+album: Hard Normal Daddy
+spotify_url: https://open.spotify.com/search/Squarepusher%20Hard%20Normal%20Daddy
+apple_music_url: https://music.apple.com/us/search?term=Squarepusher%20Hard%20Normal%20Daddy
+youtube_url: https://www.youtube.com/results?search_query=Squarepusher%20Hard%20Normal%20Daddy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045800im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WnjkeR9OI/AAAAAAAAAgM/IdbfY0VktkE/s400/HardNormalDaddy.jpg)](https://web.archive.org/web/20111010045800/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WnjkeR9OI/AAAAAAAAAgM/IdbfY0VktkE/s1600/HardNormalDaddy.jpg)  
 I thought I knew a thing or two about drum & bass until I was introduced to the tune "Beep Street." That song was my first taste of Tom Jenkinson, and I haven't been the same since. While I own almost all the Squarepusher albums, I'd have to say that this one is the easiest to digest. Where on some albums, Jenkinson can go off the deep end with music concrete that could make John Cage say, "I've had enough," this album shows him using his talents to give props to the jazz and fusion community. The results are wickedly ingenuitive, intelligent songs that can be understood in jazzy musical contexts (and actually groovy and catchy). Fans of--or creators of--music like Weather Report, Yellowjackets, even Chick Corea should definitely do themselves a favor and hear fusion for the digital age.

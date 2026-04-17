@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053645/http://holyfuckingshit4
 date: Friday, July 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/telstar-ponies-voices-from-new-music.html
 title: Telstar Ponies - Voices from the New Music [FLAC]
+artist: Telstar Ponies
+album: Voices from the New Music
+spotify_url: https://open.spotify.com/search/Telstar%20Ponies%20Voices%20from%20the%20New%20Music
+apple_music_url: https://music.apple.com/us/search?term=Telstar%20Ponies%20Voices%20from%20the%20New%20Music
+youtube_url: https://www.youtube.com/results?search_query=Telstar%20Ponies%20Voices%20from%20the%20New%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053645im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEEnx1Bg62I/AAAAAAAAAJQ/r1EXJ_A1aZc/s400/o32382.jpg)](https://web.archive.org/web/20111010053645/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEEnx1Bg62I/AAAAAAAAAJQ/r1EXJ_A1aZc/s1600/o32382.jpg)  
 Released in '96, this album purportedly gave the boys in Mogwai the inspiration to start picking their way through the post-rocks on the shore of musical greatness. And a short-term member in Brendan O'Hare when the Ponies dissolved and Brendan descended from the drum kit to do whatever he did on Young Team (apart from the apocryphal tale of disrespect at an Arab Strap concert by incessant chattering, supposedly getting him dismissed from the group). Voices derives its excellence not just from its intensity, mood, and musicianship, but from its variety.  

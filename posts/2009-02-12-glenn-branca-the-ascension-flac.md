@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20110827222841/http://holyfuckingshit4
 date: Thursday, February 12, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/glenn-branca-ascension-flac.html
 title: Glenn Branca - The Ascension (FLAC)
+artist: Glenn Branca
+album: The Ascension
+spotify_url: https://open.spotify.com/search/Glenn%20Branca%20The%20Ascension
+apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20The%20Ascension
+youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20The%20Ascension
 ---
+
+
+
 
 [![](https://web.archive.org/web/20110827222841im_/http://i40.tinypic.com/5jzapy.jpg)](https://web.archive.org/web/20110827222841/http://i40.tinypic.com/5jzapy.jpg)  
 Genre: No Wave / Noise Rock  

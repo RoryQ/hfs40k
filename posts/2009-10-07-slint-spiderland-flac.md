@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010032926/http://holyfuckingshit4
 date: Wednesday, October 7, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/slint-spiderland-flac.html
 title: Slint - Spiderland (FLAC)
+artist: Slint
+album: Spiderland
+spotify_url: https://open.spotify.com/search/Slint%20Spiderland
+apple_music_url: https://music.apple.com/us/search?term=Slint%20Spiderland
+youtube_url: https://www.youtube.com/results?search_query=Slint%20Spiderland
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010032926im_/http://i40.tinypic.com/21d1svk.jpg)](https://web.archive.org/web/20111010032926/http://i40.tinypic.com/21d1svk.jpg)  
 WINNER'S GUIDE TO FORMING A MATH/POST-ROCK BAND  

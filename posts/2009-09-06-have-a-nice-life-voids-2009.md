@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094453/http://holyfuckingshit4
 date: Sunday, September 6, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/have-nice-life-voids-2009_06.html
 title: Have a Nice Life - Voids (2009)
+artist: Have a Nice Life
+album: Voids
+spotify_url: https://open.spotify.com/search/Have%20a%20Nice%20Life%20Voids
+apple_music_url: https://geo.music.apple.com/au/album/_/1663572751?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Have%20a%20Nice%20Life%20Voids
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094453im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SqQVe390MbI/AAAAAAAAATQ/nSiwdtlie9s/s400/Album+Art.jpg)](https://web.archive.org/web/20111010094453/http://2.bp.blogspot.com/_cLI19EXK2oU/SqQVe390MbI/AAAAAAAAATQ/nSiwdtlie9s/s1600-h/Album+Art.jpg)  
 [![](https://web.archive.org/web/20111010094453im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SqQV2zp4cLI/AAAAAAAAATY/nJTEPjwWNPI/s400/YESSSSSS.jpg)](https://web.archive.org/web/20111010094453/http://2.bp.blogspot.com/_cLI19EXK2oU/SqQV2zp4cLI/AAAAAAAAATY/nJTEPjwWNPI/s1600-h/YESSSSSS.jpg)  

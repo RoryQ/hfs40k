@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050111/http://holyfuckingshit4
 date: Wednesday, April 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/ike-reiko-kokotsu-no-sekai-flac.html
 title: Ike Reiko - Kokotsu No Sekai FLAC
+artist: Ike Reiko
+album: Kokotsu No Sekai FLAC
+spotify_url: https://open.spotify.com/search/Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010050111im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S870DOjPURI/AAAAAAAAAJc/5dnyNzsNnI0/s400/Cover.jpg)](https://web.archive.org/web/20111010050111/http://4.bp.blogspot.com/_t6lWjgwMoxw/S870DOjPURI/AAAAAAAAAJc/5dnyNzsNnI0/s1600/Cover.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095641/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/massimo-volume-lungo-i-bordi-flac.html
 title: Massimo Volume - Lungo i bordi (FLAC)
+artist: Massimo Volume
+album: Lungo i bordi
+spotify_url: https://open.spotify.com/search/Massimo%20Volume%20Lungo%20i%20bordi
+apple_music_url: https://geo.music.apple.com/au/album/_/714266826?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Massimo%20Volume%20Lungo%20i%20bordi
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095641im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S_l6XaDfmmI/AAAAAAAAAo8/V87F3vVKWDo/s400/0000054102_350.jpg)](https://web.archive.org/web/20111010095641/http://4.bp.blogspot.com/_cLI19EXK2oU/S_l6XaDfmmI/AAAAAAAAAo8/V87F3vVKWDo/s1600/0000054102_350.jpg)  
 This Bologna-based rock band is now a classic of Italian music  

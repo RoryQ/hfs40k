@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010150013/http://holyfuckingshit4
 date: Tuesday, April 5, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/television-marquee-moon-flac.html
 title: Television - Marquee Moon (FLAC)
+artist: Television
+album: Marquee Moon
+spotify_url: https://open.spotify.com/search/Television%20Marquee%20Moon
+apple_music_url: https://music.apple.com/us/search?term=Television%20Marquee%20Moon
+youtube_url: https://www.youtube.com/results?search_query=Television%20Marquee%20Moon
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010150013im_/http://1.bp.blogspot.com/-OfVVPdXXrtY/TZvNbPg33vI/AAAAAAAAA7U/lntaT4Q6jIw/s400/mm.jpg)](https://web.archive.org/web/20111010150013/http://1.bp.blogspot.com/-OfVVPdXXrtY/TZvNbPg33vI/AAAAAAAAA7U/lntaT4Q6jIw/s1600/mm.jpg)  
 Though long associated with the CBGB Punk scene, they were far more ambitious than The Ramones ever were. I mean what is this stuff? Psychedelic Jazz Punk? Whatever it is, it's original. Verlaine croons like he's choking on a 25-cent hot dog at Gray's Papaya off 8th Avenue. And though his poetical leanings can often be obtuse, they're offset by a no nonsense, tough as nails rhythm section.   

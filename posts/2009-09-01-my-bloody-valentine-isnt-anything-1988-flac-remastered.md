@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100117031016/http://holyfuckingshit4
 date: Tuesday, September 1, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/my-bloody-valentine-isnt-anything-1988.html
 title: My Bloody Valentine - Isn't Anything (1988) [FLAC Remastered]
+artist: My Bloody Valentine
+album: Isn't Anything
+spotify_url: https://open.spotify.com/search/My%20Bloody%20Valentine%20Isn%27t%20Anything
+apple_music_url: https://music.apple.com/us/search?term=My%20Bloody%20Valentine%20Isn%27t%20Anything
+youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentine%20Isn%27t%20Anything
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100117031016im_/http://3.bp.blogspot.com/_z8rLjrFVzbo/Sp0NXu8FPJI/AAAAAAAAAI8/3XPT2hGtrtc/s400/o354.jpg)](https://web.archive.org/web/20100117031016/http://3.bp.blogspot.com/_z8rLjrFVzbo/Sp0NXu8FPJI/AAAAAAAAAI8/3XPT2hGtrtc/s1600-h/o354.jpg)  
 My Bloody Valentine making proper songs instead of the noisy mess Loveless is.  

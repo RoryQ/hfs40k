@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145643/http://holyfuckingshit4
 date: Saturday, August 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/joanna-newsom-ys-flac.html
 title: Joanna Newsom - Ys (FLAC)
+artist: Joanna Newsom
+album: Ys
+spotify_url: https://open.spotify.com/search/Joanna%20Newsom%20Ys
+apple_music_url: https://geo.music.apple.com/au/album/_/204051949?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Joanna%20Newsom%20Ys
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145643im_/http://3.bp.blogspot.com/_cLI19EXK2oU/Sn49i3HfP2I/AAAAAAAAARo/mMRCmfEZhB8/s400/Ys.jpg)](https://web.archive.org/web/20111010145643/http://3.bp.blogspot.com/_cLI19EXK2oU/Sn49i3HfP2I/AAAAAAAAARo/mMRCmfEZhB8/s1600-h/Ys.jpg)  
 A woman and her harp.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121806/http://holyfuckingshit4
 date: Wednesday, November 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/anthony-braxton-uberpost.html
 title: Anthony Braxton uberpost
+artist: Anthony Braxton
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121806im_/http://4.bp.blogspot.com/_JdyrURA7JYI/Sw1ftQXzBZI/AAAAAAAAAKY/iZSqILEo184/s400/braxton.PNG)](https://web.archive.org/web/20111010121806/http://4.bp.blogspot.com/_JdyrURA7JYI/Sw1ftQXzBZI/AAAAAAAAAKY/iZSqILEo184/s1600/braxton.PNG)^ ^ Pic of Braxton at age 22 when he was just first starting (he's in the middle). A famous underground cult figure best known for being really prolific and stretching the boundaries of jazz and saxophone composition. More influenced by people like Karlheinz Stockhausen and John Cage than the average jazz musician. Instead of cataloging his pieces by names, he numbers each composition and draws a diagram to represent the direction of the piece. Most of his compositions have unique motifs that  
 rely heavily on improvisation and indeterminacy (a term made famous by John Cage to refer to music made by chance.) Here are some of my favorite albums by him (all in either 320 or v0):  

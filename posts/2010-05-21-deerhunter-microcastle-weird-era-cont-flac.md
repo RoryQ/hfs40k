@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095942/http://holyfuckingshit4
 date: Friday, May 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/deerhunter-microcastle-weird-era-cont.html
 title: Deerhunter - Microcastle & Weird Era Cont. (FLAC)
+artist: Deerhunter
+album: Microcastle & Weird Era Cont.
+spotify_url: https://open.spotify.com/search/Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
+apple_music_url: https://music.apple.com/us/search?term=Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
+youtube_url: https://www.youtube.com/results?search_query=Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095942im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S_a9v8srujI/AAAAAAAAAn0/1yE7btNS4IQ/s400/deerhunter.jpg)](https://web.archive.org/web/20111010095942/http://3.bp.blogspot.com/_cLI19EXK2oU/S_a9v8srujI/AAAAAAAAAn0/1yE7btNS4IQ/s1600/deerhunter.jpg)  
 Since 2001, Deerhunter - co-founded by Bradford Cox and Moses Archuleta - have produced three LPs and four EPs worth of astonishing "ambient punk" (their own description), picking up devotees and different musicians along the way. Their mantra - "To achieve harmony in bad taste is the height of elegance" (Jean Genet) (Fronted by openly gay and occasionally cross-dressing singer Bradford Cox, Deerhunter have earned themselves a formidable reputation for intense live performances in their native Atlanta).  

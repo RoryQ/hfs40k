@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123428/http://holyfuckingshit4
 date: Sunday, January 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/share-journey-of-5-billion-mile-trek-to.html
 title: Nasa Voyager Recordings - Symphonies of the Planets (I-V)
+artist: Nasa Voyager Recordings
+album: Symphonies of the Planets
+spotify_url: https://open.spotify.com/search/Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
+apple_music_url: https://music.apple.com/us/search?term=Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
+youtube_url: https://www.youtube.com/results?search_query=Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123428im_/http://i26.photobucket.com/albums/c119/errwhatever/symphonies_of_the_planets_1_-_front.jpg)](https://web.archive.org/web/20111010123428/http://i26.photobucket.com/albums/c119/errwhatever/symphonies_of_the_planets_1_-_front.jpg)  
   

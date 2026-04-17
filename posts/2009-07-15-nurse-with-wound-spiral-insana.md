@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141703/http://holyfuckingshit4
 date: Wednesday, July 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/nurse-with-wound-spiral-insana.html
 title: Nurse With Wound - Spiral Insana
+artist: Nurse With Wound
+album: Spiral Insana
+spotify_url: https://open.spotify.com/search/Nurse%20With%20Wound%20Spiral%20Insana
+apple_music_url: https://geo.music.apple.com/au/album/_/319465111?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Nurse%20With%20Wound%20Spiral%20Insana
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141703im_/http://1.bp.blogspot.com/_cLI19EXK2oU/Sl4eneO39DI/AAAAAAAAAPg/yNVSPPw8ncU/s400/spiral.jpg)](https://web.archive.org/web/20111010141703/http://1.bp.blogspot.com/_cLI19EXK2oU/Sl4eneO39DI/AAAAAAAAAPg/yNVSPPw8ncU/s1600-h/spiral.jpg)  
 Cannsaw's request.  

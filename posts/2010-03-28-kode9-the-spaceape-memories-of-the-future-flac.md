@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010080920/http://holyfuckingshit4
 date: Sunday, March 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/kode9-spaceape-memories-of-future-flac.html
 title: Kode9 & The Spaceape - Memories Of The Future FLAC
+artist: Kode9 & The Spaceape
+album: Memories Of The Future FLAC
+spotify_url: https://open.spotify.com/search/Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010080920im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S68X9JQ7nzI/AAAAAAAAAHE/cCdrW0HbNuA/s400/webmemory-747616.gif)](https://web.archive.org/web/20111010080920/http://1.bp.blogspot.com/_t6lWjgwMoxw/S68X9JQ7nzI/AAAAAAAAAHE/cCdrW0HbNuA/s1600/webmemory-747616.gif)  
   

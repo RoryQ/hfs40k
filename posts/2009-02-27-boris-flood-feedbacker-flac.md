@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203183443/http://holyfuckingshit4
 date: Friday, February 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/boris-flood-feedbacker-flac.html
 title: Boris - Flood & Feedbacker (FLAC)
+artist: Boris
+album: Flood & Feedbacker
+spotify_url: https://open.spotify.com/search/Boris%20Flood%20%26%20Feedbacker
+apple_music_url: https://music.apple.com/us/search?term=Boris%20Flood%20%26%20Feedbacker
+youtube_url: https://www.youtube.com/results?search_query=Boris%20Flood%20%26%20Feedbacker
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203183443im_/http://i41.tinypic.com/iw3rl5.jpg)](https://web.archive.org/web/20101203183443/http://i41.tinypic.com/iw3rl5.jpg)  
   

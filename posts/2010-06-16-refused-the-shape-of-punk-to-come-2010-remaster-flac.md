@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173008/http://holyfuckingshit4
 date: Wednesday, June 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/refused-shape-of-punk-to-come-2010.html
 title: Refused - The Shape of Punk to Come (2010 Remaster) [FLAC]
+artist: Refused
+album: The Shape of Punk to Come
+spotify_url: https://open.spotify.com/search/Refused%20The%20Shape%20of%20Punk%20to%20Come
+apple_music_url: https://music.apple.com/us/search?term=Refused%20The%20Shape%20of%20Punk%20to%20Come
+youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%20of%20Punk%20to%20Come
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173008im_/http://4.bp.blogspot.com/_OYyGYtJuluk/TBmO85PBVGI/AAAAAAAAAYE/veZUGvNfN4Y/s320/theshapeofpunktocome.png)](https://web.archive.org/web/20111010173008/http://4.bp.blogspot.com/_OYyGYtJuluk/TBmO85PBVGI/AAAAAAAAAYE/veZUGvNfN4Y/s1600/theshapeofpunktocome.png)
 > SAW THIS IN A SHOP WITH "THIS FUCKING ROCKS" STICKER ON IT SO TOOK IT TO COUNTER AND SLAMMED IT DOWN AND SHOUTED AT DUDE WORKING THERE "HOW MUCH?" WHEN HE ANSWERED I SAID "NOT THE PRICE DILLWEED, HOW MUCH DOES IT ROCK?" DILWEED'S ANSWER IS LIKE SHRUG, "I dunno, a lot?" WHICH WINDS ME UP 'COS HE'S BEING A PUSSY ABOUT IT AND I SAY "I WANT IT TO ROCK MY SOCKS CLEAN OFF MY FEET, IS IT GONNA DO THAT?" AND HE'S ALL LIKE, "Yeah it will." SO I'M LIKE, "YEAH I'LL TAKE IT."  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111020192355/http://holyfuckingshit4
 date: Thursday, September 8, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/hoenig-and-gottsching-early-water.html
 title: Hoenig And Gottsching - Early Water
+artist: Hoenig And Gottsching
+album: Early Water
+spotify_url: https://open.spotify.com/search/Hoenig%20And%20Gottsching%20Early%20Water
+apple_music_url: https://geo.music.apple.com/au/album/_/1655312078?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Hoenig%20And%20Gottsching%20Early%20Water
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111020192355im_/http://3.bp.blogspot.com/-IyOva8VK_ok/TmmCbdTKpRI/AAAAAAAABEQ/48UoSeA5kiE/s400/577138-michael-hoenig-early-water.jpg)](https://web.archive.org/web/20111020192355/http://3.bp.blogspot.com/-IyOva8VK_ok/TmmCbdTKpRI/AAAAAAAABEQ/48UoSeA5kiE/s1600/577138-michael-hoenig-early-water.jpg)  
 Both Michael Hoenig and Manuel Gottsching were active in the 'Berlin' school of electronic music in the mid 1970s. If my memory serves me well, I believe Hoenig replaced Peter Baumann temporarily for some tour dates with Tangerine Dream as well as releasing his own album ("Departure From The Northern Wasteland") while Gottsching released a string of albums of variable quality under the 'Ashra' pseudonym, most notably the lush and dreamy "New Age Of Earth" - a classic that every self-respecting 70s electro fan should own.  

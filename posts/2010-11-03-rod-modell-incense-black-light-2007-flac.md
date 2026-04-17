@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042332/http://holyfuckingshit4
 date: Wednesday, November 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/11/rod-modell-incense-black-light-2007.html
 title: Rod Modell - Incense & Black Light (2007, FLAC)
+artist: Rod Modell
+album: Incense & Black Light
+spotify_url: https://open.spotify.com/search/Rod%20Modell%20Incense%20%26%20Black%20Light
+apple_music_url: https://music.apple.com/us/search?term=Rod%20Modell%20Incense%20%26%20Black%20Light
+youtube_url: https://www.youtube.com/results?search_query=Rod%20Modell%20Incense%20%26%20Black%20Light
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042332im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TNEPlB1M7xI/AAAAAAAAAcg/F5LFGJ4vRJE/s400/B000WZO7JS.09._SCLZZZZZZZ_.jpg)](https://web.archive.org/web/20111010042332/http://4.bp.blogspot.com/_t6lWjgwMoxw/TNEPlB1M7xI/AAAAAAAAAcg/F5LFGJ4vRJE/s1600/B000WZO7JS.09._SCLZZZZZZZ_.jpg)  
   

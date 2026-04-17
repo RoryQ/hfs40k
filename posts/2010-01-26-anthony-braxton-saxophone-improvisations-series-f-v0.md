@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123209/http://holyfuckingshit4
 date: Tuesday, January 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/anthony-braxton-saxophone.html
 title: Anthony Braxton - Saxophone Improvisations Series F (v0)
+artist: Anthony Braxton
+album: Saxophone Improvisations Series F
+spotify_url: https://open.spotify.com/search/Anthony%20Braxton%20Saxophone%20Improvisations%20Series%20F
+apple_music_url: https://geo.music.apple.com/au/album/_/1452855576?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Anthony%20Braxton%20Saxophone%20Improvisations%20Series%20F
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123209im_/http://4.bp.blogspot.com/_JdyrURA7JYI/S1_R5FG2H9I/AAAAAAAAAOA/2FtgPAeV0A8/s400/braxtonimprovf.PNG)](https://web.archive.org/web/20111010123209/http://4.bp.blogspot.com/_JdyrURA7JYI/S1_R5FG2H9I/AAAAAAAAAOA/2FtgPAeV0A8/s1600-h/braxtonimprovf.PNG)I'd post the ghetto ass face shot of him on the original vinyl but I can't find one any bigger than 150x150.  
   

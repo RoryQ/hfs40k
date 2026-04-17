@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112229/http://holyfuckingshit4
 date: Friday, October 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/sufjan-stevens-illinois-flac.html
 title: Sufjan Stevens - Illinois (FLAC)
+artist: Sufjan Stevens
+album: Illinois
+spotify_url: https://open.spotify.com/search/Sufjan%20Stevens%20Illinois
+apple_music_url: https://geo.music.apple.com/au/album/_/328074546?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Sufjan%20Stevens%20Illinois
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112229im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TKZLGrvFxBI/AAAAAAAAA2E/xGPG18oeqg0/s400/sufjan-stevens-illinoise-cd-cover-album-art.jpg)](https://web.archive.org/web/20111010112229/http://4.bp.blogspot.com/_cLI19EXK2oU/TKZLGrvFxBI/AAAAAAAAA2E/xGPG18oeqg0/s1600/sufjan-stevens-illinoise-cd-cover-album-art.jpg)  
 Sufjan Stevens is a puzzling character; sometimes naive, sometimes sophisticated, somewhat rustic and yet essentially urban in outlook. But there a few things he never seems to exhibit: crassness, boredom, or jaded irony. Instead he appears defenseless and in full flower on "Illinois", an album of remarkable breadth, depth and ambition.  

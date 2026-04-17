@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111655/http://holyfuckingshit4
 date: Sunday, March 6, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/bjork-vespertine-flac.html
 title: Bjork - Vespertine (FLAC)
+artist: Bjork
+album: Vespertine
+spotify_url: https://open.spotify.com/search/Bjork%20Vespertine
+apple_music_url: https://music.apple.com/us/search?term=Bjork%20Vespertine
+youtube_url: https://www.youtube.com/results?search_query=Bjork%20Vespertine
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111655im_/http://4.bp.blogspot.com/-ZvQuqLPH6j4/TXPYares78I/AAAAAAAAA6k/8GFmB1MwFvo/s400/bjork-vespertine.jpg)](https://web.archive.org/web/20111010111655/http://4.bp.blogspot.com/-ZvQuqLPH6j4/TXPYares78I/AAAAAAAAA6k/8GFmB1MwFvo/s1600/bjork-vespertine.jpg)  
 It's always been challenging to classify the work of Icelandic super-star BJork, as she's always come up with something that escapes any previously conceived category tags: if you think of her as a techno artist, maybe you're right for a few songs; but then she morphs altogether, and comes back reborn playing songs such as 'It's oh, so quiet' or 'All neon like.' At that point you stop trying to find a tag for her music, and just take it at face value: as one of the greatest samples of music (and even visual) art that can be found these days.

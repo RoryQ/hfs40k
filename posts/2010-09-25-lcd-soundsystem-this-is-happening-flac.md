@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175732/http://holyfuckingshit4
 date: Saturday, September 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/lcd-soundsystem-this-is-happening-flac.html
 title: LCD Soundsystem - This Is Happening (FLAC)
+artist: LCD Soundsystem
+album: This Is Happening
+spotify_url: https://open.spotify.com/search/LCD%20Soundsystem%20This%20Is%20Happening
+apple_music_url: https://music.apple.com/us/search?term=LCD%20Soundsystem%20This%20Is%20Happening
+youtube_url: https://www.youtube.com/results?search_query=LCD%20Soundsystem%20This%20Is%20Happening
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175732im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TJ5bIarEuCI/AAAAAAAAA1U/l6rj_aw-h7E/s400/lcd-soundsystem-this-is-happening-cover-art.jpg)](https://web.archive.org/web/20111010175732/http://2.bp.blogspot.com/_cLI19EXK2oU/TJ5bIarEuCI/AAAAAAAAA1U/l6rj_aw-h7E/s1600/lcd-soundsystem-this-is-happening-cover-art.jpg)  
 LCD is certainly mining the past on his third effort, the deliberately dense "This is Happening." James Murphy has never been shy about proclaiming his influences and touting his musical heroes, but previous lp's always seemed more a mis-mash of otherwise incoherent styles, rather than the clear homages that mark this, the newest LCD album.  

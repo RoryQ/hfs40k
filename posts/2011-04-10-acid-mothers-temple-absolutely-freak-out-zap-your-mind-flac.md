@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145813/http://holyfuckingshit4
 date: Sunday, April 10, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/acid-mothers-temple-absolutely-freak.html
 title: Acid Mothers Temple - Absolutely Freak Out (Zap Your Mind) [FLAC]
+artist: Acid Mothers Temple
+album: Absolutely Freak Out
+spotify_url: https://open.spotify.com/search/Acid%20Mothers%20Temple%20Absolutely%20Freak%20Out
+apple_music_url: https://geo.music.apple.com/au/album/_/1284630986?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Acid%20Mothers%20Temple%20Absolutely%20Freak%20Out
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145813im_/http://3.bp.blogspot.com/-KLTpIRfFLHU/TaIFEvrQB7I/AAAAAAAAAQk/1PgCHhS8L0o/s400/o44042.jpg)](https://web.archive.org/web/20111010145813/http://3.bp.blogspot.com/-KLTpIRfFLHU/TaIFEvrQB7I/AAAAAAAAAQk/1PgCHhS8L0o/s1600/o44042.jpg)  
 Released just before the deluge -- in 2000, you still had to hunt out Acid Mothers Temple albums in the specialist importers, now they're everywhere -- Absolutely Freak Out was the band's best album since the astonishing surprise of their debut in 1997 and is still the second studio album you should buy from these lysergic monsters. Start, however, with their 2001 Live In Japan album, complete with Mothers of Invention "pencil cover" parody and burning, aching, soul-shredding 40 minute live version of "La Novia" which stomps all over the somewhat tedious studio version and leaves you cowering on the floor somewhere among the broken splinters of Kawabata's electric guitar. To say this is the best live band in the world today is an understatement -- this is the best live band in the world in the last twenty five years.  

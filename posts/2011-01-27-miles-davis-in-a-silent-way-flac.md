@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20110302124625/http://holyfuckingshit4
 date: Thursday, January 27, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/01/miles-davis-in-silent-way-flac.html
 title: Miles Davis - In A Silent Way (FLAC)
+artist: Miles Davis
+album: In A Silent Way
+spotify_url: https://open.spotify.com/search/Miles%20Davis%20In%20A%20Silent%20Way
+apple_music_url: https://geo.music.apple.com/au/album/_/193603857?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20In%20A%20Silent%20Way
 ---
+
+
+
 
 [![](https://web.archive.org/web/20110302124625im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TUGwCwz-nHI/AAAAAAAAA3g/fWrtz6bqUzs/s400/cover_481121122010.jpg)](https://web.archive.org/web/20110302124625/http://1.bp.blogspot.com/_cLI19EXK2oU/TUGwCwz-nHI/AAAAAAAAA3g/fWrtz6bqUzs/s1600/cover_481121122010.jpg)  
 This isn't the "first fusion album". This wasn't Miles Davis's first recording with electric keyboards or, for that matter, the electric guitar. He'd been experimenting with rock, soul and pop rhythms for over a year. And yet In a Silent Way really is a first. It's the first Davis album in a new, undefined style -- informed heavily by jazz, but already heading somewhere else.  

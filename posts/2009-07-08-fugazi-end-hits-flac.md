@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140007/http://holyfuckingshit4
 date: Wednesday, July 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/fugazi-end-hits-flac.html
 title: Fugazi - End Hits (FLAC)
+artist: Fugazi
+album: End Hits
+spotify_url: https://open.spotify.com/search/Fugazi%20End%20Hits
+apple_music_url: https://music.apple.com/us/search?term=Fugazi%20End%20Hits
+youtube_url: https://www.youtube.com/results?search_query=Fugazi%20End%20Hits
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140007im_/http://3.bp.blogspot.com/_cLI19EXK2oU/SlRwku36DXI/AAAAAAAAAPA/2PkC6V4Comc/s400/19610L.jpg)](https://web.archive.org/web/20111010140007/http://3.bp.blogspot.com/_cLI19EXK2oU/SlRwku36DXI/AAAAAAAAAPA/2PkC6V4Comc/s1600-h/19610L.jpg)  
 Fugazi day lasts all month.  

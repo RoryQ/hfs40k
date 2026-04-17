@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111209005023/http://holyfuckingshit4
 date: Saturday, May 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/charles-mingus-black-saint-sinner-lady.html
 title: '#4 Charles Mingus - The Black Saint & The Sinner Lady (180g 24-96 Vinyl)'
+artist: '#4 Charles Mingus'
+album: The Black Saint & The Sinner Lady
+spotify_url: https://open.spotify.com/search/%234%20Charles%20Mingus%20The%20Black%20Saint%20%26%20The%20Sinner%20Lady
+apple_music_url: https://geo.music.apple.com/au/album/_/1443280597?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=%234%20Charles%20Mingus%20The%20Black%20Saint%20%26%20The%20Sinner%20Lady
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209005023im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S7Kn7hRJGZI/AAAAAAAAAcc/OHs715xAfec/s400/blacksaintsinnerlady.jpg)](https://web.archive.org/web/20111209005023/http://4.bp.blogspot.com/_cLI19EXK2oU/S7Kn7hRJGZI/AAAAAAAAAcc/OHs715xAfec/s1600/blacksaintsinnerlady.jpg)  
   

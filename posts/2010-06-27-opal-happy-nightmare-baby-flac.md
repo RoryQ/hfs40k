@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173120/http://holyfuckingshit4
 date: Sunday, June 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/opal-happy-nightmare-baby-flac.html
 title: Opal - Happy Nightmare Baby FLAC
+artist: Opal
+album: Happy Nightmare Baby FLAC
+spotify_url: https://open.spotify.com/search/Opal%20Happy%20Nightmare%20Baby%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Opal%20Happy%20Nightmare%20Baby%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Opal%20Happy%20Nightmare%20Baby%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173120im_/http://1.bp.blogspot.com/_mTQyK3r0bG0/TCchIPuLj2I/AAAAAAAAAIY/7yI06n8jEAc/s400/o34680.jpg)](https://web.archive.org/web/20111010173120/http://1.bp.blogspot.com/_mTQyK3r0bG0/TCchIPuLj2I/AAAAAAAAAIY/7yI06n8jEAc/s1600/o34680.jpg)  
 Formed out of the ashes of the Dream Syndicate and the Rain Parade, guitarist David Roback and vocalist Kendra Smith brought the Paisley Underground to the SST catalogue, and they managed to provide the label with one of the best examples of SoCal dark psychedelic since the Doors walked on down the hall.  

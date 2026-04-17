@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023231357/http://holyfuckingshit4
 date: Thursday, August 18, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/tangerine-dream-phaedra-flac.html
 title: Tangerine Dream - Phaedra (FLAC)
+artist: Tangerine Dream
+album: Phaedra
+spotify_url: https://open.spotify.com/search/Tangerine%20Dream%20Phaedra
+apple_music_url: https://geo.music.apple.com/au/album/_/374509769?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tangerine%20Dream%20Phaedra
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023231357im_/http://2.bp.blogspot.com/-TsN4zdRxmbg/Tk3D0z_37kI/AAAAAAAABBw/nvSonm9S5yk/s400/Tangerine-Dream-Phaedra-307931.jpg)](https://web.archive.org/web/20111023231357/http://2.bp.blogspot.com/-TsN4zdRxmbg/Tk3D0z_37kI/AAAAAAAABBw/nvSonm9S5yk/s1600/Tangerine-Dream-Phaedra-307931.jpg)
   

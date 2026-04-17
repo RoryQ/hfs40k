@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010163722/http://holyfuckingshit4
 date: Friday, March 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/cult-of-luna-somewhere-along-highway.html
 title: Cult of Luna - Somewhere Along the Highway (FLAC)
+artist: Cult of Luna
+album: Somewhere Along the Highway
+spotify_url: https://open.spotify.com/search/Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
+apple_music_url: https://music.apple.com/us/search?term=Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
+youtube_url: https://www.youtube.com/results?search_query=Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010163722im_/http://i44.tinypic.com/243onz5.jpg)](https://web.archive.org/web/20111010163722/http://i44.tinypic.com/243onz5.jpg)  
 Post-metal is not a genre.  

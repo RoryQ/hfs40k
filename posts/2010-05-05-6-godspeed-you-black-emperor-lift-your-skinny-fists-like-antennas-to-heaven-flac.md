@@ -4,7 +4,15 @@ date: Wednesday, May 5, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/godspeed-you-black-emperor-lift-your.html
 title: '#6 Godspeed You! Black Emperor - Lift Your Skinny Fists Like Antennas To Heaven
   (FLAC)'
+artist: '#6 Godspeed You! Black Emperor'
+album: Lift Your Skinny Fists Like Antennas To Heaven
+spotify_url: https://open.spotify.com/search/%236%20Godspeed%20You%21%20Black%20Emperor%20Lift%20Your%20Skinny%20Fists%20Like%20Antennas%20To%20Heaven
+apple_music_url: https://music.apple.com/us/search?term=%236%20Godspeed%20You%21%20Black%20Emperor%20Lift%20Your%20Skinny%20Fists%20Like%20Antennas%20To%20Heaven
+youtube_url: https://www.youtube.com/results?search_query=%236%20Godspeed%20You%21%20Black%20Emperor%20Lift%20Your%20Skinny%20Fists%20Like%20Antennas%20To%20Heaven
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209005019im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-HyPjCQ8YI/AAAAAAAAAjM/A6eX7qJwDag/s400/olawd.gif)](https://web.archive.org/web/20111209005019/http://2.bp.blogspot.com/_cLI19EXK2oU/S-HyPjCQ8YI/AAAAAAAAAjM/A6eX7qJwDag/s1600/olawd.gif)  
 189 points  

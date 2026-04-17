@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111229220344/http://holyfuckingshit4
 date: Tuesday, October 18, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/10/karlheinz-stockhausen-hymnen-flac.html
 title: Karlheinz Stockhausen - Hymnen (FLAC)
+artist: Karlheinz Stockhausen
+album: Hymnen
+spotify_url: https://open.spotify.com/search/Karlheinz%20Stockhausen%20Hymnen
+apple_music_url: https://music.apple.com/us/search?term=Karlheinz%20Stockhausen%20Hymnen
+youtube_url: https://www.youtube.com/results?search_query=Karlheinz%20Stockhausen%20Hymnen
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111229220344im_/http://3.bp.blogspot.com/-H7EM68UlhAs/Tp34uLFDksI/AAAAAAAABH0/36DOzpKPtJ0/s400/karlheinz-stockhausen-hymnen.jpg)](https://web.archive.org/web/20111229220344/http://3.bp.blogspot.com/-H7EM68UlhAs/Tp34uLFDksI/AAAAAAAABH0/36DOzpKPtJ0/s1600/karlheinz-stockhausen-hymnen.jpg)  
 Avant-garde composer Karlheinz Stockhausen (d. 2007) had his fifteen minutes of quasi-fame in the late-'60s/early-'70s during the height of Cold War tensions and the Vietnam War. It's difficult to fathom how his musique concrète struck a chord with listeners of serious music at the time since much of it comes off today sounding kitschy and contrived. One could probably look to the prevailing Zeitgeist which also spawned Dark Side of the Moon and its various offshoots. I have to say, however, that I was always held spellbound by two of his lengthy works first heard on late-night public radio, Hymnen being one. It combines samplings of several familiar national anthems with the random sounds from shortwave radios and intermittent studio voices to make for a fascinating two-hour journey into the Zen of worldwide electronic communication (or near instantaneous travel) via various electronic filters, mixers, and potentiometers -- it's quite a trip! I like to think it's metaphorical to a sort of "world anthem". I hadn't heard this for many years until recently, but even today it fascinates - there's a surprise around every corner!  

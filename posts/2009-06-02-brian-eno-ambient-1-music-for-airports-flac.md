@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091649/http://holyfuckingshit4
 date: Tuesday, June 2, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/brian-eno-ambient-1-music-for-airports.html
 title: 'Brian Eno - Ambient 1: Music for Airports (FLAC)'
+artist: Brian Eno
+album: 'Ambient 1: Music for Airports'
+spotify_url: https://open.spotify.com/search/Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
+apple_music_url: https://geo.music.apple.com/au/album/_/724435863?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091649im_/http://i41.tinypic.com/efl4hx.jpg)](https://web.archive.org/web/20111010091649/http://i41.tinypic.com/efl4hx.jpg)  
 Brian Eno is a master of sound, simply put. In "Music for Airports" (Ambient 1) he has crafted the soundtrack of inner peace.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071634/http://holyfuckingshit4
 date: Saturday, December 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/jefre-cantu-ledesma-love-is-stream-2010.html
 title: Jefre Cantu-Ledesma - Love Is A Stream (2010, 320)
+artist: Jefre Cantu
+album: Ledesma - Love Is A Stream
+spotify_url: https://open.spotify.com/search/Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
+apple_music_url: https://music.apple.com/us/search?term=Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
+youtube_url: https://www.youtube.com/results?search_query=Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071634im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQNvuKvLsMI/AAAAAAAAAeY/jxcp1c6R4VM/s400/10107.jpg)](https://web.archive.org/web/20111010071634/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQNvuKvLsMI/AAAAAAAAAeY/jxcp1c6R4VM/s1600/10107.jpg)  
   

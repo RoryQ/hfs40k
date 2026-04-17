@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042550/http://holyfuckingshit4
 date: Sunday, January 18, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/have-nice-life-deathconsciousness-flac.html
 title: Have A Nice Life - Deathconsciousness (FLAC)
+artist: Have A Nice Life
+album: Deathconsciousness
+spotify_url: https://open.spotify.com/search/Have%20A%20Nice%20Life%20Deathconsciousness
+apple_music_url: https://music.apple.com/us/search?term=Have%20A%20Nice%20Life%20Deathconsciousness
+youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life%20Deathconsciousness
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042550im_/http://i44.tinypic.com/20hvtiv.gif)](https://web.archive.org/web/20111010042550/http://i44.tinypic.com/20hvtiv.gif)  
   

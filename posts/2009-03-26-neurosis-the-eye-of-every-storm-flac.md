@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010163947/http://holyfuckingshit4
 date: Thursday, March 26, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/neurosis-eye-of-every-storm-flac.html
 title: Neurosis - The Eye of Every Storm (FLAC)
+artist: Neurosis
+album: The Eye of Every Storm
+spotify_url: https://open.spotify.com/search/Neurosis%20The%20Eye%20of%20Every%20Storm
+apple_music_url: https://music.apple.com/us/search?term=Neurosis%20The%20Eye%20of%20Every%20Storm
+youtube_url: https://www.youtube.com/results?search_query=Neurosis%20The%20Eye%20of%20Every%20Storm
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010163947im_/http://i41.tinypic.com/25kopp1.jpg)](https://web.archive.org/web/20111010163947/http://i41.tinypic.com/25kopp1.jpg)  
 "The Eye of Every Storm is a minimalist approach to grand, overwrought classical arrangements. A diseased corpse lies in the desert, the bones of this beast are visible through it's skin. This monster barely makes it to eye of the storm without crumbling, brick by brick, and stone by stone. When describing the songs on The Eye of Evey Storm even words like desolate and barren don't have enough power to describe the portraits painted. The Eye of Evey Storm is a piece of modernist architecture, no space is wasted, nothing added. It exists this way because it couldn't exist any other way."  

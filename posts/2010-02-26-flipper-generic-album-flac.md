@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161833/http://holyfuckingshit4
 date: Friday, February 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/flipper-generic-album-flac.html
 title: Flipper - Generic Album (FLAC)
+artist: Flipper
+album: Generic Album
+spotify_url: https://open.spotify.com/search/Flipper%20Generic%20Album
+apple_music_url: https://music.apple.com/us/search?term=Flipper%20Generic%20Album
+youtube_url: https://www.youtube.com/results?search_query=Flipper%20Generic%20Album
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161833im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S4heO29yMRI/AAAAAAAAAXo/ZBKw7kNppeE/s400/LPFLIPPALBU.jpg)](https://web.archive.org/web/20111010161833/http://4.bp.blogspot.com/_cLI19EXK2oU/S4heO29yMRI/AAAAAAAAAXo/ZBKw7kNppeE/s1600-h/LPFLIPPALBU.jpg)  
 Flipper were, without a doubt, one of the best eighties punk bands. It is a shame this band gets almost no recognition, because they really do stand out from the generic thrash hardcore that the punk scene almost entirely consisted of at the time. Instead of playing speed punk, Flipper took the hardcore sound of bands like black flag, minor threat and slowed it down.  

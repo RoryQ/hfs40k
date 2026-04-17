@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010131358/http://holyfuckingshit4
 date: Saturday, April 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/neurosis-given-to-rising-flac.html
 title: Neurosis - Given to the Rising (FLAC)
+artist: Neurosis
+album: Given to the Rising
+spotify_url: https://open.spotify.com/search/Neurosis%20Given%20to%20the%20Rising
+apple_music_url: https://geo.music.apple.com/au/album/_/252614879?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Given%20to%20the%20Rising
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010131358im_/http://i42.tinypic.com/ruttsz.jpg)](https://web.archive.org/web/20111010131358/http://i42.tinypic.com/ruttsz.jpg)  
 "*Given To The Rising* is a smoldering piece of ancient inner conflict, forged in isolation."  

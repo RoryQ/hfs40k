@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093605/http://holyfuckingshit4
 date: Sunday, May 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/alyosha-atmosphere-320kbps.html
 title: alyosha - Atmosphere (320kbps)
+artist: alyosha
+album: Atmosphere
+spotify_url: https://open.spotify.com/search/alyosha%20Atmosphere
+apple_music_url: https://music.apple.com/us/search?term=alyosha%20Atmosphere
+youtube_url: https://www.youtube.com/results?search_query=alyosha%20Atmosphere
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093605im_/http://4.bp.blogspot.com/-8mL-upOtzAo/TeMb2hGjm2I/AAAAAAAAABM/9Z7VB-pL0Kc/s320/atmospherecover.jpg)](https://web.archive.org/web/20111010093605/http://4.bp.blogspot.com/-8mL-upOtzAo/TeMb2hGjm2I/AAAAAAAAABM/9Z7VB-pL0Kc/s1600/atmospherecover.jpg)
 

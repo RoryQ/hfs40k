@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083320/http://holyfuckingshit4
 date: Thursday, March 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/discus-tot-licht.html
 title: Discus - ...Tot Licht!
+artist: Discus
+album: '...Tot Licht!'
+spotify_url: https://open.spotify.com/search/Discus%20...Tot%20Licht%21
+apple_music_url: https://music.apple.com/us/search?term=Discus%20...Tot%20Licht%21
+youtube_url: https://www.youtube.com/results?search_query=Discus%20...Tot%20Licht%21
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083320im_/http://4.bp.blogspot.com/_fgQJ6Z331aA/S6Lx1zGsrKI/AAAAAAAAAPA/v94mgoYAGF4/s320/161288.jpg)](https://web.archive.org/web/20111010083320/http://4.bp.blogspot.com/_fgQJ6Z331aA/S6Lx1zGsrKI/AAAAAAAAAPA/v94mgoYAGF4/s1600-h/161288.jpg)Warning: this is *not* your average progressive rock album. Discus could almost be described as the Indonesian Mr. Bungle -- almost. They are not that frantic in terms of style-surfing and they don't have a singer as mad as Mike Patton, but they sure match Mr. Bungle in terms of virtuosity, eclecticism, and heavy rocking. This eight-piece group (a luxury in prog rock, where there's hardly a dollar to be made for a trio), with five lead singers, hops around between heavy metal, fusion jazz, contemporary classical, symphonic progressive rock, and traditional Indonesian music, usually touching all these bases within a single ten-minute song. The vocal parts are intricate, combining male and female vocals, several singers trading the lead and occasionally joining in complex polyphonic segments. The arrangements are shapeshifting -- at times brutally so -- and include violin, clarinet, bass clarinet, flute, sax, and plenty of ethnic percussion in addition to the common rock music instruments. The album begins with two hard-hitting virtuosity showcases, "System Manipulation" and "breathe."The anti-system lyrics of "System Manipulation" are too direct and naïve, especially when delivered by the group's designated heavy metal singer, but the track displays all of Discus' idiosyncratic features (including a polyphonic passage and contrasting sections of heavy metal guitar and classical bass clarinet). "Verso Kartini" is the only piece sung in a language other than English (presumably Malay). More disciplined, it strongly evokes vintage Italian prog rock. The longest piece at over 19 minutes, "Anne" (adapted from Anne Frank's diary) is the most bombastically progressive track; it includes a few inspired violin solos and some rapturing female vocals. For all its patchwork-like style-hopping, the music never actually sounds patchy, as the writing conveys enough logic to leave beacons for the listener to find his or her way. Highly recommended.  
   

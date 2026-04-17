@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085413/http://holyfuckingshit4
 date: Wednesday, June 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/coil-ape-of-naples-2005-320-mp3.html
 title: Coil - The Ape of Naples (2005) [320 mp3]
+artist: Coil
+album: The Ape of Naples
+spotify_url: https://open.spotify.com/search/Coil%20The%20Ape%20of%20Naples
+apple_music_url: https://geo.music.apple.com/au/album/_/1653427685?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Coil%20The%20Ape%20of%20Naples
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085413im_/http://2.bp.blogspot.com/_OYyGYtJuluk/SkL71xUqipI/AAAAAAAAAOU/Lyzel_cwDns/s320/theapeofnaples.png)](https://web.archive.org/web/20111010085413/http://2.bp.blogspot.com/_OYyGYtJuluk/SkL71xUqipI/AAAAAAAAAOU/Lyzel_cwDns/s1600-h/theapeofnaples.png)I'm going to post Coil until you hipsters like it.
 

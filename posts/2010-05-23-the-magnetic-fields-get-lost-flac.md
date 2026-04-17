@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100411/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/magnetic-fields-get-lost-flac.html
 title: The Magnetic Fields - Get Lost (FLAC)
+artist: The Magnetic Fields
+album: Get Lost
+spotify_url: https://open.spotify.com/search/The%20Magnetic%20Fields%20Get%20Lost
+apple_music_url: https://geo.music.apple.com/au/album/_/1839074087?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Fields%20Get%20Lost
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100411im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l-oPM2tUI/AAAAAAAAApU/HuDFHsHelG8/s400/getlost_large.jpg)](https://web.archive.org/web/20111010100411/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l-oPM2tUI/AAAAAAAAApU/HuDFHsHelG8/s1600/getlost_large.jpg)  
 Stephin Merritt refines the Magnetic Fields sound on Get Lost. Where on previous albums, nearly all the sounds were produced by synthesizers with the occasional cello or guitar. Here, many songs use things like drums, a ukulele and banjo to flesh things out further. This flirting with traditional instruments lead eventually to 69 Love Songs.

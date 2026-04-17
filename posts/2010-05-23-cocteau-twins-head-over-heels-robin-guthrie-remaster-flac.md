@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100614/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/cocteau-twins-head-over-heels-robin.html
 title: Cocteau Twins - Head Over Heels (Robin Guthrie Remaster FLAC)
+artist: Cocteau Twins
+album: Head Over Heels
+spotify_url: https://open.spotify.com/search/Cocteau%20Twins%20Head%20Over%20Heels
+apple_music_url: https://music.apple.com/us/search?term=Cocteau%20Twins%20Head%20Over%20Heels
+youtube_url: https://www.youtube.com/results?search_query=Cocteau%20Twins%20Head%20Over%20Heels
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100614im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S_l8C9_8eyI/AAAAAAAAApE/NVTCeGUFcMM/s400/hoh-cd.jpg)](https://web.archive.org/web/20111010100614/http://3.bp.blogspot.com/_cLI19EXK2oU/S_l8C9_8eyI/AAAAAAAAApE/NVTCeGUFcMM/s1600/hoh-cd.jpg)  
   

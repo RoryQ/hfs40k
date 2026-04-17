@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145357/http://holyfuckingshit4
 date: Tuesday, August 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/nina-simone-pastel-blues-1965-320.html
 title: Nina Simone - Pastel Blues (1965) [320]
+artist: Nina Simone
+album: Pastel Blues
+spotify_url: https://open.spotify.com/search/Nina%20Simone%20Pastel%20Blues
+apple_music_url: https://geo.music.apple.com/au/album/_/1445668394?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Nina%20Simone%20Pastel%20Blues
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145357im_/http://4.bp.blogspot.com/_cLxnR3lIheA/Rxtww9nDorI/AAAAAAAAAOM/osRiJCSjxMU/s320/Picture+2.png)](https://web.archive.org/web/20111010145357/http://4.bp.blogspot.com/_cLxnR3lIheA/Rxtww9nDorI/AAAAAAAAAOM/osRiJCSjxMU/s320/Picture+2.png)  
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004084241/http://holyfuckingshit4
 date: Sunday, August 7, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/ulrich-schnauss-strangely-isolated.html
 title: Ulrich Schnauss - A Strangely Isolated Place (FLAC)
+artist: Ulrich Schnauss
+album: A Strangely Isolated Place
+spotify_url: https://open.spotify.com/search/Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
+apple_music_url: https://music.apple.com/us/search?term=Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
+youtube_url: https://www.youtube.com/results?search_query=Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004084241im_/http://4.bp.blogspot.com/-cs0wTPTD6zg/Tj5XhNunbpI/AAAAAAAABAY/STVbN98ChmI/s400/B0002CHK18.jpg)](https://web.archive.org/web/20111004084241/http://4.bp.blogspot.com/-cs0wTPTD6zg/Tj5XhNunbpI/AAAAAAAABAY/STVbN98ChmI/s1600/B0002CHK18.jpg)  
 In the past (before I listened to this record) whenever I heard someone describe an album or artist as "lush" (see M83) or "noise driven" (see The Birthday party) or "ethereal" (see Boards of Canada), I usually just hummed and nodded in half-acknowledged understanding. Those are pretty ambiguous adjectives, I used to think.  

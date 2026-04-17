@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112403/http://holyfuckingshit4
 date: Tuesday, October 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/house-of-love-1986-88-creation.html
 title: 'The House of Love - 1986-88: The Creation Recordings [FLAC]'
+artist: The House of Love
+album: '1986-88: The Creation Recordings'
+spotify_url: https://open.spotify.com/search/The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
+apple_music_url: https://music.apple.com/us/search?term=The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
+youtube_url: https://www.youtube.com/results?search_query=The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112403im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TL5dwJw-H3I/AAAAAAAAAMM/nWBrHtfQoHA/s400/o71505.jpg)](https://web.archive.org/web/20111010112403/http://3.bp.blogspot.com/_mTQyK3r0bG0/TL5dwJw-H3I/AAAAAAAAAMM/nWBrHtfQoHA/s1600/o71505.jpg)  
 "Product Description  

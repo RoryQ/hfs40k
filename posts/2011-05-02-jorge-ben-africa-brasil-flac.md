@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093706/http://holyfuckingshit4
 date: Monday, May 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/jorge-ben-africa-brasil-flac.html
 title: Jorge Ben - Africa Brasil (FLAC)
+artist: Jorge Ben
+album: Africa Brasil
+spotify_url: https://open.spotify.com/search/Jorge%20Ben%20Africa%20Brasil
+apple_music_url: https://geo.music.apple.com/au/album/_/1444050820?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Jorge%20Ben%20Africa%20Brasil
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093706im_/http://2.bp.blogspot.com/-nDtcIApDicM/Tb9UySOf9dI/AAAAAAAAAQo/tOPGn5v2LXY/s400/cover.jpg)](https://web.archive.org/web/20111010093706/http://2.bp.blogspot.com/-nDtcIApDicM/Tb9UySOf9dI/AAAAAAAAAQo/tOPGn5v2LXY/s1600/cover.jpg)Sup bums. Download this shit, it's great.
 

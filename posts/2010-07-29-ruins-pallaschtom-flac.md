@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053549/http://holyfuckingshit4
 date: Thursday, July 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/ruins-pallaschtom-flac.html
 title: Ruins - Pallaschtom [FLAC]
+artist: Ruins
+album: Pallaschtom
+spotify_url: https://open.spotify.com/search/Ruins%20Pallaschtom
+apple_music_url: https://music.apple.com/us/search?term=Ruins%20Pallaschtom
+youtube_url: https://www.youtube.com/results?search_query=Ruins%20Pallaschtom
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053549im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/TFGAXm4ERmI/AAAAAAAAAJo/tyeDXkRp28o/s400/folder.jpg)](https://web.archive.org/web/20111010053549/http://2.bp.blogspot.com/_mTQyK3r0bG0/TFGAXm4ERmI/AAAAAAAAAJo/tyeDXkRp28o/s1600/folder.jpg)  
 Ruins is a record completist’s nightmare. Google the words “Ruins discography” and you will find multiple pages, all offering varying lists of Ruins releases. To complicate the matter, Ruins’ domestic releases are usually remixed, remastered and even re-recorded, giving fervent collectors reason enough to buy both versions. I can tell you that Pallaschtom was originally released in 2000, but as to where it stands in their vast discography of albums, EPs, singles, compilation appearances, and side projects, I can only report with humility that it falls in the latter part of bandleader Yoshida Tatsuya’s 20-year career.  

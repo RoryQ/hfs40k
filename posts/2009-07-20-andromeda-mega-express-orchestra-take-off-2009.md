@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140330/http://holyfuckingshit4
 date: Monday, July 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/andromeda-mega-express-orchestra-take.html
 title: Andromeda Mega Express Orchestra - Take Off! (2009)
+artist: Andromeda Mega Express Orchestra
+album: Take Off!
+spotify_url: https://open.spotify.com/search/Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
+apple_music_url: https://geo.music.apple.com/au/album/_/305658185?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140330im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SmSeaXr29KI/AAAAAAAAAQI/3fSUbyepoOw/s400/AMEO_Coverklein.jpg)](https://web.archive.org/web/20111010140330/http://2.bp.blogspot.com/_cLI19EXK2oU/SmSeaXr29KI/AAAAAAAAAQI/3fSUbyepoOw/s1600-h/AMEO_Coverklein.jpg)  
 The debut album from the  

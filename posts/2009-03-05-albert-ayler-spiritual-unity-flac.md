@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164847/http://holyfuckingshit4
 date: Thursday, March 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/albert-ayler-spiritual-unity-flac.html
 title: Albert Ayler - Spiritual Unity (FLAC)
+artist: Albert Ayler
+album: Spiritual Unity
+spotify_url: https://open.spotify.com/search/Albert%20Ayler%20Spiritual%20Unity
+apple_music_url: https://music.apple.com/us/search?term=Albert%20Ayler%20Spiritual%20Unity
+youtube_url: https://www.youtube.com/results?search_query=Albert%20Ayler%20Spiritual%20Unity
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164847im_/http://i43.tinypic.com/2yjq0xy.jpg)](https://web.archive.org/web/20111010164847/http://i43.tinypic.com/2yjq0xy.jpg)  
   

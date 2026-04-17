@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121622/http://holyfuckingshit4
 date: Tuesday, November 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/65daysofstatic-one-time-for-all-time.html
 title: 65daysofstatic - One Time for All Time (FLAC)
+artist: 65daysofstatic
+album: One Time for All Time
+spotify_url: https://open.spotify.com/search/65daysofstatic%20One%20Time%20for%20All%20Time
+apple_music_url: https://music.apple.com/us/search?term=65daysofstatic%20One%20Time%20for%20All%20Time
+youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20One%20Time%20for%20All%20Time
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121622im_/http://1.bp.blogspot.com/_A31Dfz4S5yg/SwukyaeuWOI/AAAAAAAAAKM/26GQzbN2-os/s320/otfat.jpg)](https://web.archive.org/web/20111010121622/http://1.bp.blogspot.com/_A31Dfz4S5yg/SwukyaeuWOI/AAAAAAAAAKM/26GQzbN2-os/s1600/otfat.jpg)Anyone remembers 65dos? No? That's too bad.  
   

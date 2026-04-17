@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112545/http://holyfuckingshit4
 date: Tuesday, October 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/htrk-nostalgia-2007-flac.html
 title: HTRK - Nostalgia (2007, FLAC)
+artist: HTRK
+album: Nostalgia
+spotify_url: https://open.spotify.com/search/HTRK%20Nostalgia
+apple_music_url: https://music.apple.com/us/search?term=HTRK%20Nostalgia
+youtube_url: https://www.youtube.com/results?search_query=HTRK%20Nostalgia
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112545im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TL4QA5539YI/AAAAAAAAAao/o0RbYE9ex3k/s400/nostalgia_vinyl_400.jpg)](https://web.archive.org/web/20111010112545/http://3.bp.blogspot.com/_t6lWjgwMoxw/TL4QA5539YI/AAAAAAAAAao/o0RbYE9ex3k/s1600/nostalgia_vinyl_400.jpg)  
   

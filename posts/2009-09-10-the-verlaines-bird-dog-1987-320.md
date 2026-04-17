@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094130/http://holyfuckingshit4
 date: Thursday, September 10, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/verlaines-bird-dog-1987-320.html
 title: The Verlaines - Bird Dog (1987) [320]
+artist: The Verlaines
+album: Bird Dog
+spotify_url: https://open.spotify.com/search/The%20Verlaines%20Bird%20Dog
+apple_music_url: https://geo.music.apple.com/au/album/_/952486889?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Verlaines%20Bird%20Dog
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094130im_/http://mono.whatevz.net/images/verlaines_bird-doglpE1AS.jpg)](https://web.archive.org/web/20111010094130/http://mono.whatevz.net/images/verlaines_bird-doglpE1AS.jpg)The Verlaines play fucking awesome jangle-pop indie stuff with heaps of literary references in the lyrics so you can feel smart while listening to them. Their most famous song is *Death and the Maiden* which you might recognise. Stephen Malkmus loved it and recorded his own cover that you can watch on youtube. Also, yeah, I think it's a reference to Schubert. Graeme Downes loves classical music.
 

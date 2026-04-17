@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095947/http://holyfuckingshit4
 date: Sunday, May 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/godflesh-streetcleaner-flac.html
 title: Godflesh - Streetcleaner (FLAC)
+artist: Godflesh
+album: Streetcleaner
+spotify_url: https://open.spotify.com/search/Godflesh%20Streetcleaner
+apple_music_url: https://geo.music.apple.com/au/album/_/372900225?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Godflesh%20Streetcleaner
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095947im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-bJiVlYu0I/AAAAAAAAAkM/knsjyQlSLrQ/s400/28888.jpg)](https://web.archive.org/web/20111010095947/http://2.bp.blogspot.com/_cLI19EXK2oU/S-bJiVlYu0I/AAAAAAAAAkM/knsjyQlSLrQ/s1600/28888.jpg)  
 I cannot imagine what sheer and utter joy a select few had upon buying this album, slipping it into the CD player, and hearing it for the first time. I discovered Godflesh later (with the "Slavestate" single), and by the time I got around to buying a copy of Streetcleaner, I already knew Slavestate and Pure backwards and forwards. So I was ready for the opening bars of "Like Rats," and I knew what I was about to hear, more or less.  

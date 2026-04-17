@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100149/http://holyfuckingshit4
 date: Tuesday, May 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/boards-of-canada-campfire-headphase.html
 title: Boards Of Canada - The Campfire Headphase (Vinyl 24bit-96kHz)
+artist: Boards Of Canada
+album: The Campfire Headphase
+spotify_url: https://open.spotify.com/search/Boards%20Of%20Canada%20The%20Campfire%20Headphase
+apple_music_url: https://music.apple.com/us/search?term=Boards%20Of%20Canada%20The%20Campfire%20Headphase
+youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%20The%20Campfire%20Headphase
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100149im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_uuLEji6OI/AAAAAAAAAPg/bOKuAd6FThU/s400/Boards+Of+Canada+-+2005+-+The+Campfire+Headphase.jpg)](https://web.archive.org/web/20111010100149/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_uuLEji6OI/AAAAAAAAAPg/bOKuAd6FThU/s1600/Boards+Of+Canada+-+2005+-+The+Campfire+Headphase.jpg)  
   

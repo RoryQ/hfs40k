@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161947/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/brock-van-wey-white-clouds-drift-on-and.html
 title: Brock Van Wey - White Clouds Drift On And On - (2009) [FLAC]
+artist: Brock Van Wey
+album: White Clouds Drift On And On -
+spotify_url: https://open.spotify.com/search/Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
+apple_music_url: https://music.apple.com/us/search?term=Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
+youtube_url: https://www.youtube.com/results?search_query=Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161947im_/http://2.bp.blogspot.com/_z8rLjrFVzbo/S4mVOFfOv0I/AAAAAAAAAKY/J5anprxjbMk/s400/o2356275.jpg)](https://web.archive.org/web/20111010161947/http://2.bp.blogspot.com/_z8rLjrFVzbo/S4mVOFfOv0I/AAAAAAAAAKY/J5anprxjbMk/s1600-h/o2356275.jpg)
 

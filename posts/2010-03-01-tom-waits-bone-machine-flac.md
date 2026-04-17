@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082244/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/tom-waits-bone-machine-flac.html
 title: Tom Waits - Bone Machine (FLAC)
+artist: Tom Waits
+album: Bone Machine
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Bone%20Machine
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Bone%20Machine
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Bone%20Machine
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082244im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S4w7X6ScxVI/AAAAAAAAAZQ/o1wmXZ8Q0Sg/s400/bm.jpg)](https://web.archive.org/web/20111010082244/http://2.bp.blogspot.com/_cLI19EXK2oU/S4w7X6ScxVI/AAAAAAAAAZQ/o1wmXZ8Q0Sg/s1600-h/bm.jpg)  
 Those vocals. Those lyrics. That mood. From the alpha (the thumping primitive drums of "Earth Died Screaming") to the omega (the howling chorus of guys and guitars finishing off "That Feel"), this CD is like nothing else on the planet. This is a macabre, twisted world: a vision entirely of Mr. Waits devising.  

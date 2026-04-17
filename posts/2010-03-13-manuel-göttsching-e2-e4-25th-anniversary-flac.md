@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111201011543/http://holyfuckingshit4
 date: Saturday, March 13, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/manuel-gottsching-e2-e4-25th.html
 title: "Manuel G\xF6ttsching - E2-E4 (25th anniversary FLAC)"
+artist: "Manuel G\xF6ttsching"
+album: E2-E4
+spotify_url: https://open.spotify.com/search/Manuel%20G%C3%B6ttsching%20E2-E4
+apple_music_url: https://music.apple.com/us/search?term=Manuel%20G%C3%B6ttsching%20E2-E4
+youtube_url: https://www.youtube.com/results?search_query=Manuel%20G%C3%B6ttsching%20E2-E4
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111201011543im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S5yUjYOHIhI/AAAAAAAAADA/zzH86shR8as/s400/cover.jpg)](https://web.archive.org/web/20111201011543/http://3.bp.blogspot.com/_t6lWjgwMoxw/S5yUjYOHIhI/AAAAAAAAADA/zzH86shR8as/s1600-h/cover.jpg)  
   

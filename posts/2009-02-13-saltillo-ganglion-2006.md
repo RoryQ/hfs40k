@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203184600/http://holyfuckingshit4
 date: Friday, February 13, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/saltillo-ganglion-2006.html
 title: Saltillo - Ganglion (2006)
+artist: Saltillo
+album: Ganglion
+spotify_url: https://open.spotify.com/search/Saltillo%20Ganglion
+apple_music_url: https://music.apple.com/us/search?term=Saltillo%20Ganglion
+youtube_url: https://www.youtube.com/results?search_query=Saltillo%20Ganglion
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203184600im_/http://i40.tinypic.com/t5rq87.jpg)](https://web.archive.org/web/20101203184600/http://i40.tinypic.com/t5rq87.jpg)  
 Genre: Trip Hop / Modern Classical  

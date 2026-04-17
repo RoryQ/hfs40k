@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010035559/http://holyfuckingshit4
 date: Saturday, August 20, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/hank-mobley-roll-call-flac.html
 title: Hank Mobley - Roll Call (FLAC)
+artist: Hank Mobley
+album: Roll Call
+spotify_url: https://open.spotify.com/search/Hank%20Mobley%20Roll%20Call
+apple_music_url: https://music.apple.com/us/search?term=Hank%20Mobley%20Roll%20Call
+youtube_url: https://www.youtube.com/results?search_query=Hank%20Mobley%20Roll%20Call
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010035559im_/http://4.bp.blogspot.com/-4F46PysQ_So/Tk974jlgadI/AAAAAAAABB4/FJsv-xBQLGE/s400/HMobleyRollCall.jpg)](https://web.archive.org/web/20111010035559/http://4.bp.blogspot.com/-4F46PysQ_So/Tk974jlgadI/AAAAAAAABB4/FJsv-xBQLGE/s1600/HMobleyRollCall.jpg)
   

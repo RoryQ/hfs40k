@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145252/http://holyfuckingshit4
 date: Saturday, August 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/robert-wyatt-rock-bottom-flac.html
 title: Robert Wyatt - Rock Bottom (FLAC)
+artist: Robert Wyatt
+album: Rock Bottom
+spotify_url: https://open.spotify.com/search/Robert%20Wyatt%20Rock%20Bottom
+apple_music_url: https://music.apple.com/us/search?term=Robert%20Wyatt%20Rock%20Bottom
+youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Rock%20Bottom
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145252im_/http://4.bp.blogspot.com/_cLI19EXK2oU/Sn5X3kW9t6I/AAAAAAAAAR4/NPGlW2-xZso/s400/rockbottom.jpg)](https://web.archive.org/web/20111010145252/http://4.bp.blogspot.com/_cLI19EXK2oU/Sn5X3kW9t6I/AAAAAAAAAR4/NPGlW2-xZso/s1600-h/rockbottom.jpg)  
 I'm hesitant to write anything about this album. It is too good and things that are too good typically transcend language.

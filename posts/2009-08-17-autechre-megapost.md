@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111110132731/http://holyfuckingshit4
 date: Monday, August 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/autechre-megapost.html
 title: Autechre Megapost
+artist: Autechre
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111110132731im_/http://3.bp.blogspot.com/_OYyGYtJuluk/Son5V-dcPuI/AAAAAAAAAR0/3tm8Uk9qWAE/s320/Autechre%2B15.jpg)](https://web.archive.org/web/20111110132731/http://3.bp.blogspot.com/_OYyGYtJuluk/Son5V-dcPuI/AAAAAAAAAR0/3tm8Uk9qWAE/s1600-h/Autechre%2B15.jpg)When was the last time I made a post here?
 

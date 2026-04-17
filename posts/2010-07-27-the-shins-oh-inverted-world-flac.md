@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052354/http://holyfuckingshit4
 date: Tuesday, July 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/shins-oh-inverted-world-flac.html
 title: The Shins - Oh, Inverted World (FLAC)
+artist: The Shins
+album: Oh, Inverted World
+spotify_url: https://open.spotify.com/search/The%20Shins%20Oh%2C%20Inverted%20World
+apple_music_url: https://music.apple.com/us/search?term=The%20Shins%20Oh%2C%20Inverted%20World
+youtube_url: https://www.youtube.com/results?search_query=The%20Shins%20Oh%2C%20Inverted%20World
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052354im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TE8Qxvel9_I/AAAAAAAAAwU/xJlNh6kJXbs/s400/the-shins-oh-inverted-world.jpg)](https://web.archive.org/web/20111010052354/http://1.bp.blogspot.com/_cLI19EXK2oU/TE8Qxvel9_I/AAAAAAAAAwU/xJlNh6kJXbs/s1600/the-shins-oh-inverted-world.jpg)  
 The Shins have managed to combine the best in pop sounds with everything from acoustic ballads, psychedelic sounds and pure rockers. While they maintain strong melodies and pop influence, there is still a hint of experimental sounds throughout this album-whether it's from odd keyboard approaches or wacky lyrics, the Shins have created an album that cannot be compared to anything but the Shins.

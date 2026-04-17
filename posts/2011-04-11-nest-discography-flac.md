@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010150057/http://holyfuckingshit4
 date: Monday, April 11, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/nest-discography-flac.html
 title: Nest Discography [FLAC]
+artist: Nest
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010150057im_/http://3.bp.blogspot.com/-veSwGjpuLsY/TaKz3OvKk6I/AAAAAAAAAJA/9B28ioLMQVQ/s400/Clipboard-3.jpg)](https://web.archive.org/web/20111010150057/http://3.bp.blogspot.com/-veSwGjpuLsY/TaKz3OvKk6I/AAAAAAAAAJA/9B28ioLMQVQ/s1600/Clipboard-3.jpg)  
 

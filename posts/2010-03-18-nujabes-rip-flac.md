@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203165259/http://holyfuckingshit4
 date: Thursday, March 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/nujabes-rip-flac.html
 title: Nujabes (R.I.P) FLAC
+artist: Nujabes
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 Damn! The year 2010 is not really treating music very well, is it?  
   

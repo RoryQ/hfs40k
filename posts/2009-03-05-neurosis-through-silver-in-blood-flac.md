@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164252/http://holyfuckingshit4
 date: Thursday, March 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/neurosis-through-silver-in-blood-flac.html
 title: Neurosis - Through Silver in Blood (FLAC)
+artist: Neurosis
+album: Through Silver in Blood
+spotify_url: https://open.spotify.com/search/Neurosis%20Through%20Silver%20in%20Blood
+apple_music_url: https://music.apple.com/us/search?term=Neurosis%20Through%20Silver%20in%20Blood
+youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Through%20Silver%20in%20Blood
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164252im_/http://i43.tinypic.com/2n64qqb.jpg)](https://web.archive.org/web/20111010164252/http://i43.tinypic.com/2n64qqb.jpg)  
   

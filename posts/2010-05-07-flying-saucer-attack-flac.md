@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095009/http://holyfuckingshit4
 date: Friday, May 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/flying-saucer-attack-flac.html
 title: Flying Saucer Attack [FLAC]
+artist: Flying Saucer Attack
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 "Rural psycedelia"  
   

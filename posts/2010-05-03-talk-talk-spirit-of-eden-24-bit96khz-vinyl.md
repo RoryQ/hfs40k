@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100447/http://holyfuckingshit4
 date: Monday, May 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/talk-talk-spirit-of-eden-24-bit96khz.html
 title: Talk Talk - Spirit of Eden (24-bit/96khz Vinyl)
+artist: Talk Talk
+album: Spirit of Eden
+spotify_url: https://open.spotify.com/search/Talk%20Talk%20Spirit%20of%20Eden
+apple_music_url: https://geo.music.apple.com/au/album/_/701395363?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20Spirit%20of%20Eden
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100447im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S99oxllIzJI/AAAAAAAAAh0/jpkB9hbukww/s400/talk-talk-spirit-of-eden.jpg)](https://web.archive.org/web/20111010100447/http://4.bp.blogspot.com/_cLI19EXK2oU/S99oxllIzJI/AAAAAAAAAh0/jpkB9hbukww/s1600/talk-talk-spirit-of-eden.jpg)Mark Hollis, like David Sylvian of Japan, Bjork of The Sugarcubes and David Byrne of the Talking Heads, always seemed to be peeking over the horizon and onto the next thing even while his band was appearing on 'Top of the Pops' or pandering to record label execs.  
   

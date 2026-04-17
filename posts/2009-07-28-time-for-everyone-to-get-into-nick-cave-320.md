@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141906/http://holyfuckingshit4
 date: Tuesday, July 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/time-for-everyone-to-get-into-nick-cave.html
 title: Time For Everyone to Get Into Nick Cave [320]
+artist: Nick Cave
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141906im_/http://www.nndb.com/people/542/000026464/cave.jpg)](https://web.archive.org/web/20111010141906/http://www.nndb.com/people/542/000026464/cave.jpg)My girlfriend recently uploaded all of his studio albums to our blog, so get them all [here](https://web.archive.org/web/20111010141906/http://idontcareaboutsleep.blogspot.com/2009/07/whole-lot-of-nick-cave-bad-seeds-at-320.html)
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050148/http://holyfuckingshit4
 date: Friday, April 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/amen-orchestra-17-waves-mp3.html
 title: Amen Orchestra - 17 Waves (mp3)
+artist: Amen Orchestra
+album: 17 Waves
+spotify_url: https://open.spotify.com/search/Amen%20Orchestra%2017%20Waves
+apple_music_url: https://music.apple.com/us/search?term=Amen%20Orchestra%2017%20Waves
+youtube_url: https://www.youtube.com/results?search_query=Amen%20Orchestra%2017%20Waves
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010050148im_/http://3.bp.blogspot.com/_pqcGUSDUhi4/S8jRFqAudaI/AAAAAAAAADE/dZbSdpwLais/s320/folder.jpg)](https://web.archive.org/web/20111010050148/http://3.bp.blogspot.com/_pqcGUSDUhi4/S8jRFqAudaI/AAAAAAAAADE/dZbSdpwLais/s1600/folder.jpg)  
   

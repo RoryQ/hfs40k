@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045154/http://holyfuckingshit4
 date: Thursday, April 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/holy-fucking-shit-geology-metal.html
 title: The Ocean - Precambrian (2007) [FLAC]
+artist: The Ocean
+album: Precambrian
+spotify_url: https://open.spotify.com/search/The%20Ocean%20Precambrian
+apple_music_url: https://music.apple.com/us/search?term=The%20Ocean%20Precambrian
+youtube_url: https://www.youtube.com/results?search_query=The%20Ocean%20Precambrian
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045154im_/http://3.bp.blogspot.com/_5cVyPU93ihM/S9Bupv4yXwI/AAAAAAAAAPw/2yQbej6t-gs/s400/oceancover.JPG)](https://web.archive.org/web/20111010045154/http://3.bp.blogspot.com/_5cVyPU93ihM/S9Bupv4yXwI/AAAAAAAAAPw/2yQbej6t-gs/s1600/oceancover.JPG)  
 HOLY FUCKING SHIT: GEOLOGY METAL  

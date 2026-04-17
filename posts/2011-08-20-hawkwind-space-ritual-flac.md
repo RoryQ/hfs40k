@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010035027/http://holyfuckingshit4
 date: Saturday, August 20, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/hawkwind-space-ritual-flac.html
 title: Hawkwind - Space Ritual (FLAC)
+artist: Hawkwind
+album: Space Ritual
+spotify_url: https://open.spotify.com/search/Hawkwind%20Space%20Ritual
+apple_music_url: https://music.apple.com/us/search?term=Hawkwind%20Space%20Ritual
+youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20Space%20Ritual
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010035027im_/http://2.bp.blogspot.com/-L7QoXjR46jw/TlBM5vdlczI/AAAAAAAABCI/VyxjPZcW9oE/s400/cover_1255111722009.jpg)](https://web.archive.org/web/20111010035027/http://2.bp.blogspot.com/-L7QoXjR46jw/TlBM5vdlczI/AAAAAAAABCI/VyxjPZcW9oE/s1600/cover_1255111722009.jpg)
   

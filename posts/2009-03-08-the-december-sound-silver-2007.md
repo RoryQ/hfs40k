@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010163924/http://holyfuckingshit4
 date: Sunday, March 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/december-sound-silver-2007.html
 title: The December Sound - Silver (2007)
+artist: The December Sound
+album: Silver
+spotify_url: https://open.spotify.com/search/The%20December%20Sound%20Silver
+apple_music_url: https://geo.music.apple.com/au/album/_/1445870930?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20December%20Sound%20Silver
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010163924im_/http://i43.tinypic.com/34r6u6b.jpg)](https://web.archive.org/web/20111010163924/http://i43.tinypic.com/34r6u6b.jpg)  
 This cult of noise-terrorists cloak themselves in melting guitars, evil drones, hypnotic basslines, and other worldly soundscapes. It's dark and extreme, influenced by existentialism and avant-garde/underground currents. The group has a reputation for unrelenting live shows that are a full-on assault of the senses,whilst achieving even greater depth on their debut album. Gliding guitars and vocal stylings that range from soft and hazy to outright threatening. The December Sound creates a feeling of hollowed reverberations, echoing trough the air.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111602/http://holyfuckingshit4
 date: Saturday, March 5, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/medicine-her-highness-flac.html
 title: Medicine - Her Highness [FLAC]
+artist: Medicine
+album: Her Highness
+spotify_url: https://open.spotify.com/search/Medicine%20Her%20Highness
+apple_music_url: https://music.apple.com/us/search?term=Medicine%20Her%20Highness
+youtube_url: https://www.youtube.com/results?search_query=Medicine%20Her%20Highness
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111602im_/http://2.bp.blogspot.com/-6rNTAhiclkY/TXLuk78aCtI/AAAAAAAAAPU/XpmJ_Tf1BlU/s400/o17625.jpg)](https://web.archive.org/web/20111010111602/http://2.bp.blogspot.com/-6rNTAhiclkY/TXLuk78aCtI/AAAAAAAAAPU/XpmJ_Tf1BlU/s1600/o17625.jpg)  
 Medicine creates its own imaginary geography of sound in your central nervous system, and leaves you the better for it. For the uninitiated, in previous LPs The Buried Life and Shot Forth Self Living, Medicine has gradually progressed from pure noise blur-a-delia layered over confectionery pop songs to, well, vice-versa. Medicine's poignant babble/free verse lyrics, however, haven't changed, though they've gone progressively more and more introspective, a practice at which Brad Laner, Medicine's It Boy (noisebliss guitarist/vocalist/songwriter/producer/arranger/God) used to guffaw. This has both delighted and frustrated Medicine's diehards, to which Laner emotes--more to himself and bandmates Beth Thompson/Jim Goodall than others--"The band is not about our gear."  

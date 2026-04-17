@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085057/http://holyfuckingshit4
 date: Friday, June 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/talk-talk-laughing-stock-flac.html
 title: Talk Talk - Laughing Stock (FLAC)
+artist: Talk Talk
+album: Laughing Stock
+spotify_url: https://open.spotify.com/search/Talk%20Talk%20Laughing%20Stock
+apple_music_url: https://music.apple.com/us/search?term=Talk%20Talk%20Laughing%20Stock
+youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20Laughing%20Stock
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085057im_/http://2.bp.blogspot.com/_cLI19EXK2oU/Silw3z5LltI/AAAAAAAAAI4/PNDHrW5Z6G4/s400/Talk_Talk-Laughing_Stock-Frontal.jpg)](https://web.archive.org/web/20111010085057/http://2.bp.blogspot.com/_cLI19EXK2oU/Silw3z5LltI/AAAAAAAAAI4/PNDHrW5Z6G4/s1600-h/Talk_Talk-Laughing_Stock-Frontal.jpg)  
 This album ranks as the single greatest album of all time, in its immersive, breath-taking beauty and singularly groundbreaking innovation. An album that starts from the ground (silence) up, built on thought-provoking lyrics and simple acoustic melodies, with six simplistic and heartbreakingly beautiful songs that defined a new, undefinable genre: some called it 'post-rock', but most denied even to try and brand it with a label. It's unclassifiable, proving Talk Talk were truly the most innovative group of their (and perhaps all) time.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121704/http://holyfuckingshit4
 date: Monday, November 23, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/amon-tobin-permutation-flac.html
 title: Amon Tobin - Permutation (FLAC)
+artist: Amon Tobin
+album: Permutation
+spotify_url: https://open.spotify.com/search/Amon%20Tobin%20Permutation
+apple_music_url: https://music.apple.com/us/search?term=Amon%20Tobin%20Permutation
+youtube_url: https://www.youtube.com/results?search_query=Amon%20Tobin%20Permutation
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121704im_/http://i50.tinypic.com/2lx6kgi.jpg)](https://web.archive.org/web/20111010121704/http://i50.tinypic.com/2lx6kgi.jpg)  
   

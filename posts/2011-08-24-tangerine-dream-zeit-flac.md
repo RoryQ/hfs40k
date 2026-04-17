@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023224448/http://holyfuckingshit4
 date: Wednesday, August 24, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/tangerine-dream-zeit-flac.html
 title: Tangerine Dream - Zeit (FLAC)
+artist: Tangerine Dream
+album: Zeit
+spotify_url: https://open.spotify.com/search/Tangerine%20Dream%20Zeit
+apple_music_url: https://geo.music.apple.com/au/album/_/1504490042?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Tangerine%20Dream%20Zeit
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023224448im_/http://3.bp.blogspot.com/--V6Uf1i6pDg/TlXLXIkTkiI/AAAAAAAABCg/13UqRbjbFl8/s400/1242412732_tangerine_dream__zeit_1972.jpg)](https://web.archive.org/web/20111023224448/http://3.bp.blogspot.com/--V6Uf1i6pDg/TlXLXIkTkiI/AAAAAAAABCg/13UqRbjbFl8/s1600/1242412732_tangerine_dream__zeit_1972.jpg)
   

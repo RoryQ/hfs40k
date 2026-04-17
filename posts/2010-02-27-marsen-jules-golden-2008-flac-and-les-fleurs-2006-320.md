@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160039/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/marsen-jules-golden-2008-flac.html
 title: Marsen Jules - Golden [2008, FLAC] and Les Fleurs [2006, 320]
+artist: Marsen Jules
+album: Golden
+spotify_url: https://open.spotify.com/search/Marsen%20Jules%20Golden
+apple_music_url: https://geo.music.apple.com/au/album/_/258478059?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Marsen%20Jules%20Golden
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160039im_/http://1.bp.blogspot.com/_74XjRB1CJng/SFywwhLwDpI/AAAAAAAABXI/b545jeit0JU/s400/Marsen+Jules7.jpg)](https://web.archive.org/web/20111010160039/http://1.bp.blogspot.com/_74XjRB1CJng/SFywwhLwDpI/AAAAAAAABXI/b545jeit0JU/s400/Marsen+Jules7.jpg)  
 "This long awaited new album "Golden" takes little time in declaring its place as a worthy successor to both its predecessors - it's a breathtaking collection of pieces that begin from the same neo-classical starting point and unfurl in different directions, taking in acoustic guitar, barely audible electronic pulses, dense orchestral reductions and heavy filtering along the way. You'd find it difficult to get past the album's incredible opening track "Birkengefluster" without finding yourself incredibly moved by what's in front of you - another shimmering weave of elongated midnight strings and subliminal melodies consorting to force you to abandon all resistance in the face of its relentless beauty. By the time second track "Wharend" wheezes into life with its prepared piano passages and other-worldly washes of sound, you'll be unable to acknowledge anything else in your surroundings bar the music. Marsen Jules is just one of those rare artists who manages to achieve so much with such limited material at his disposal - it's both the simplicity and timeless quality of the 7 long tracks here that make "Golden" not only one of the most beautiful albums you'll hear this summer, but also one that you'll find hard to let go of come autumn. Sublime music - essential listening." - Boomkat  

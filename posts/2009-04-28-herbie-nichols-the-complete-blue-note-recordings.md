@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010131139/http://holyfuckingshit4
 date: Tuesday, April 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/herbie-nichols-complete-blue-note.html
 title: Herbie Nichols - The Complete Blue Note Recordings
+artist: Herbie Nichols
+album: The Complete Blue Note Recordings
+spotify_url: https://open.spotify.com/search/Herbie%20Nichols%20The%20Complete%20Blue%20Note%20Recordings
+apple_music_url: https://geo.music.apple.com/au/album/_/716233595?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Herbie%20Nichols%20The%20Complete%20Blue%20Note%20Recordings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010131139im_/http://i41.tinypic.com/15gd0mg.jpg)](https://web.archive.org/web/20111010131139/http://i41.tinypic.com/15gd0mg.jpg)  
 "Nobody out there has ever sounded like him, either before or after his death from leukemia in 1963. That is a tribute in itself. He has a completely original approach to composition and playing the piano that is unduplicatable.  

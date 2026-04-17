@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052545/http://holyfuckingshit4
 date: Saturday, July 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/ween-mollusk-flac.html
 title: Ween - The Mollusk (FLAC)
+artist: Ween
+album: The Mollusk
+spotify_url: https://open.spotify.com/search/Ween%20The%20Mollusk
+apple_music_url: https://music.apple.com/us/search?term=Ween%20The%20Mollusk
+youtube_url: https://www.youtube.com/results?search_query=Ween%20The%20Mollusk
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052545im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TFUFu9CQTPI/AAAAAAAAAw0/1INkZ1wc_Nk/s400/Ween-mollusk-vinyl.JPG)](https://web.archive.org/web/20111010052545/http://3.bp.blogspot.com/_cLI19EXK2oU/TFUFu9CQTPI/AAAAAAAAAw0/1INkZ1wc_Nk/s1600/Ween-mollusk-vinyl.JPG)  
 Ween threw everyone a curveball as usual with "The Mollusk". This album is much like it's multi-genre predecessor "Chocolate & Cheese" on the surface. But if you look deeper, you will find that there is a focused nautical concept to the album.  

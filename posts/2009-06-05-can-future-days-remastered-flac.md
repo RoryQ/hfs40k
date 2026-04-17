@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085318/http://holyfuckingshit4
 date: Friday, June 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/can-future-days-remastered-flac.html
 title: Can - Future Days (Remastered FLAC)
+artist: Can
+album: Future Days
+spotify_url: https://open.spotify.com/search/Can%20Future%20Days
+apple_music_url: https://geo.music.apple.com/au/album/_/711461112?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Can%20Future%20Days
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085318im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SinHdIDUJdI/AAAAAAAAAJI/GkMG356eXcU/s400/FutureDays.jpg)](https://web.archive.org/web/20111010085318/http://4.bp.blogspot.com/_cLI19EXK2oU/SinHdIDUJdI/AAAAAAAAAJI/GkMG356eXcU/s1600-h/FutureDays.jpg)  
   

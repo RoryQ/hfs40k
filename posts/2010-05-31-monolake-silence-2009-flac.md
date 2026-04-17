@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100219/http://holyfuckingshit4
 date: Monday, May 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/monolake-silence-2009-flac.html
 title: Monolake - Silence (2009, FLAC)
+artist: Monolake
+album: Silence
+spotify_url: https://open.spotify.com/search/Monolake%20Silence
+apple_music_url: https://music.apple.com/us/search?term=Monolake%20Silence
+youtube_url: https://www.youtube.com/results?search_query=Monolake%20Silence
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100219im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/TAOUHN4ElGI/AAAAAAAAAP4/64G8Inzv0v4/s400/cover.jpeg)](https://web.archive.org/web/20111010100219/http://2.bp.blogspot.com/_t6lWjgwMoxw/TAOUHN4ElGI/AAAAAAAAAP4/64G8Inzv0v4/s1600/cover.jpeg)  
   

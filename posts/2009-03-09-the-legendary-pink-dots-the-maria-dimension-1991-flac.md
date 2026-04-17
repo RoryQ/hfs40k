@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164145/http://holyfuckingshit4
 date: Monday, March 9, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/legendary-pink-dots-maria-dimension.html
 title: The Legendary Pink Dots - The Maria Dimension (1991) [FLAC]
+artist: The Legendary Pink Dots
+album: The Maria Dimension
+spotify_url: https://open.spotify.com/search/The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
+apple_music_url: https://music.apple.com/us/search?term=The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
+youtube_url: https://www.youtube.com/results?search_query=The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164145im_/http://4.bp.blogspot.com/_z8rLjrFVzbo/SbXWQ3jBdHI/AAAAAAAAADc/QaTILRH_Yok/s400/15272.jpg)](https://web.archive.org/web/20111010164145/http://4.bp.blogspot.com/_z8rLjrFVzbo/SbXWQ3jBdHI/AAAAAAAAADc/QaTILRH_Yok/s1600-h/15272.jpg)  
 lol what a sick dimension  

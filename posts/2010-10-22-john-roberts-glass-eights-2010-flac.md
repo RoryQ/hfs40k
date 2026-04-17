@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112710/http://holyfuckingshit4
 date: Friday, October 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/john-roberts-glass-eights-2010-flac.html
 title: John Roberts - Glass Eights (2010, FLAC)
+artist: John Roberts
+album: Glass Eights
+spotify_url: https://open.spotify.com/search/John%20Roberts%20Glass%20Eights
+apple_music_url: https://music.apple.com/us/search?term=John%20Roberts%20Glass%20Eights
+youtube_url: https://www.youtube.com/results?search_query=John%20Roberts%20Glass%20Eights
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112710im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGEjpu-8lI/AAAAAAAAAbY/ysqq0qKLj8c/s400/880319482823_1556384.jpg)](https://web.archive.org/web/20111010112710/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGEjpu-8lI/AAAAAAAAAbY/ysqq0qKLj8c/s1600/880319482823_1556384.jpg)  
   

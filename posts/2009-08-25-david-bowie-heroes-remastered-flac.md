@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145141/http://holyfuckingshit4
 date: Tuesday, August 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/david-bowie-heroes-remastered-flac.html
 title: David Bowie - Heroes (Remastered FLAC)
+artist: David Bowie
+album: Heroes
+spotify_url: https://open.spotify.com/search/David%20Bowie%20Heroes
+apple_music_url: https://music.apple.com/us/search?term=David%20Bowie%20Heroes
+youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Heroes
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145141im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SpRMKjwrhYI/AAAAAAAAASo/xsrzOj1QdPI/s400/The%2BDuke.jpg)](https://web.archive.org/web/20111010145141/http://4.bp.blogspot.com/_cLI19EXK2oU/SpRMKjwrhYI/AAAAAAAAASo/xsrzOj1QdPI/s1600-h/The%2BDuke.jpg)  
 The Duke + King Crimson + Brian Eno = One of the greatest albums of the late 70's  

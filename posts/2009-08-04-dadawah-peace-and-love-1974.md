@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145425/http://holyfuckingshit4
 date: Tuesday, August 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/dadawah-peace-and-love-1974.html
 title: Dadawah - Peace and Love (1974)
+artist: Dadawah
+album: Peace and Love
+spotify_url: https://open.spotify.com/search/Dadawah%20Peace%20and%20Love
+apple_music_url: https://music.apple.com/us/search?term=Dadawah%20Peace%20and%20Love
+youtube_url: https://www.youtube.com/results?search_query=Dadawah%20Peace%20and%20Love
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145425im_/http://2.bp.blogspot.com/_lrGz9SY2_jE/Snhb_y8oV8I/AAAAAAAAAEs/G3HulvpqB-s/s320/1523586.jpg)](https://web.archive.org/web/20111010145425/http://2.bp.blogspot.com/_lrGz9SY2_jE/Snhb_y8oV8I/AAAAAAAAAEs/G3HulvpqB-s/s1600-h/1523586.jpg)  
   

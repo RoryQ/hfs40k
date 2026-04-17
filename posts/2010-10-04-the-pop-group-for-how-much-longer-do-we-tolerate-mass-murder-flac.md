@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112336/http://holyfuckingshit4
 date: Monday, October 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/pop-group-for-how-much-longer-do-we.html
 title: The Pop Group - For How Much Longer Do We Tolerate Mass Murder?  [FLAC]
+artist: The Pop Group
+album: For How Much Longer Do We Tolerate Mass Murder?
+spotify_url: https://open.spotify.com/search/The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
+apple_music_url: https://music.apple.com/us/search?term=The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
+youtube_url: https://www.youtube.com/results?search_query=The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112336im_/http://4.bp.blogspot.com/_mTQyK3r0bG0/TKqjBLqnoAI/AAAAAAAAALs/8KEh304haHg/s400/o17239.jpg)](https://web.archive.org/web/20111010112336/http://4.bp.blogspot.com/_mTQyK3r0bG0/TKqjBLqnoAI/AAAAAAAAALs/8KEh304haHg/s1600/o17239.jpg)  
 More funk-ridden than its predecessor (meaning more fluent and less fractured), though it still is miiiiiiiiles away from a Johnny Pate session. How Much Longer is relatively calm in the first half but gets damn ugly/wonderful in the middle, these guys had a knack for throwing sound/noises/harmonies so that everything came crashing towards the listener.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091451/http://holyfuckingshit4
 date: Tuesday, June 16, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/led-zeppelin-houses-of-holy-flac.html
 title: Led Zeppelin - Houses Of The Holy (1973) [FLAC]
+artist: Led Zeppelin
+album: Houses Of The Holy
+spotify_url: https://open.spotify.com/search/Led%20Zeppelin%20Houses%20Of%20The%20Holy
+apple_music_url: https://music.apple.com/us/search?term=Led%20Zeppelin%20Houses%20Of%20The%20Holy
+youtube_url: https://www.youtube.com/results?search_query=Led%20Zeppelin%20Houses%20Of%20The%20Holy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091451im_/http://1.bp.blogspot.com/_5cVyPU93ihM/SjfH8s-lbVI/AAAAAAAAAF0/ijvOFypKPTY/s320/Led+Zeppelin+-+Houses+Of+The+Holy+-+Back.JPG)](https://web.archive.org/web/20111010091451/http://1.bp.blogspot.com/_5cVyPU93ihM/SjfH8s-lbVI/AAAAAAAAAF0/ijvOFypKPTY/s1600-h/Led+Zeppelin+-+Houses+Of+The+Holy+-+Back.JPG)  
 Dad rock.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010064932/http://holyfuckingshit4
 date: Saturday, August 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/shins-chutes-too-narrow-flac.html
 title: The Shins - Chutes Too Narrow (FLAC)
+artist: The Shins
+album: Chutes Too Narrow
+spotify_url: https://open.spotify.com/search/The%20Shins%20Chutes%20Too%20Narrow
+apple_music_url: https://music.apple.com/us/search?term=The%20Shins%20Chutes%20Too%20Narrow
+youtube_url: https://www.youtube.com/results?search_query=The%20Shins%20Chutes%20Too%20Narrow
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064932im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TF2F6hM_DMI/AAAAAAAAAxM/dgWGyqDThMA/s400/the+shins.jpg)](https://web.archive.org/web/20111010064932/http://1.bp.blogspot.com/_cLI19EXK2oU/TF2F6hM_DMI/AAAAAAAAAxM/dgWGyqDThMA/s1600/the+shins.jpg)  
 Many an indie rock fan fell in love with the Shins' 2001 debut, "Oh, Inverted World." They seemingly burst on to the scene completely formed, already possessing a sound uniquely their own (they've been together for almost a decade). On "Chutes Too Narrow," the Shins continue to cultivate a reputation for excellent songcraft, though this album provides a slicker production value and a different bass player (Dave Hernandez of Scared of Chaka replaces Neal Langford). Their first album was certainly characterized by a certain sound--one full of driving drum beats, melodic guitars, neat synth effects, and unforgettable vocal harmonies.  

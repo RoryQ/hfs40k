@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141650/http://holyfuckingshit4
 date: Wednesday, July 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/brian-eno-no-new-york.html
 title: Brian Eno - No New York
+artist: Brian Eno
+album: No New York
+spotify_url: https://open.spotify.com/search/Brian%20Eno%20No%20New%20York
+apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20No%20New%20York
+youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20No%20New%20York
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141650im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SlR2HF2fYnI/AAAAAAAAAPI/Az2wj2WTmIQ/s400/NoNewYork.jpg)](https://web.archive.org/web/20111010141650/http://2.bp.blogspot.com/_cLI19EXK2oU/SlR2HF2fYnI/AAAAAAAAAPI/Az2wj2WTmIQ/s1600-h/NoNewYork.jpg)  
   

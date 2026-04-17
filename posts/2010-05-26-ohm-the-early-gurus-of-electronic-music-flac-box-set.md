@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095928/http://holyfuckingshit4
 date: Wednesday, May 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/ohm-early-gurus-of-electronic-music.html
 title: 'OHM: The Early Gurus of Electronic Music (FLAC Box Set)'
+artist: Various Artists
+album: 'OHM: The Early Gurus of Electronic Music'
+spotify_url: https://open.spotify.com/search/Various%20Artists%20OHM%3A%20The%20Early%20Gurus%20of%20Electronic%20Music
+apple_music_url: https://geo.music.apple.com/au/album/_/1475400326?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20OHM%3A%20The%20Early%20Gurus%20of%20Electronic%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095928im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S_1GTtoXMuI/AAAAAAAAAqc/vhvfGpaunns/s400/jkwe3.jpg)](https://web.archive.org/web/20111010095928/http://1.bp.blogspot.com/_cLI19EXK2oU/S_1GTtoXMuI/AAAAAAAAAqc/vhvfGpaunns/s1600/jkwe3.jpg)  
 OHM makes a very lofty ambition to cover the entire history of electronic music in one set of 3 CDs. While three CDs may offer considerably more time than the standard 1 or 2 disc compilation, it is hardly enough space to really cover much in detail for one decade of music, let alone four. "OHM" is refreshing in its honesty, admitting these flaws and then getting on with what really matters: the music.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145730/http://holyfuckingshit4
 date: Monday, April 18, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/saoridestiny-japanese-chaos-flac.html
 title: Saori@destiny - Japanese Chaos (FLAC)
+artist: Saori@destiny
+album: Japanese Chaos
+spotify_url: https://open.spotify.com/search/Saori%40destiny%20Japanese%20Chaos
+apple_music_url: https://music.apple.com/us/search?term=Saori%40destiny%20Japanese%20Chaos
+youtube_url: https://www.youtube.com/results?search_query=Saori%40destiny%20Japanese%20Chaos
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145730im_/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s320/Saori_destiny.jpg)](https://web.archive.org/web/20111010145730/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s1600/Saori_destiny.jpg)
 

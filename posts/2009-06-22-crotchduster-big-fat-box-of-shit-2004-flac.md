@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085311/http://holyfuckingshit4
 date: Monday, June 22, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/crotchduster-big-fat-box-of-shit-2004.html
 title: Crotchduster - Big Fat Box of Shit (2004) [FLAC]
+artist: Crotchduster
+album: Big Fat Box of Shit
+spotify_url: https://open.spotify.com/search/Crotchduster%20Big%20Fat%20Box%20of%20Shit
+apple_music_url: https://music.apple.com/us/search?term=Crotchduster%20Big%20Fat%20Box%20of%20Shit
+youtube_url: https://www.youtube.com/results?search_query=Crotchduster%20Big%20Fat%20Box%20of%20Shit
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085311im_/http://2.bp.blogspot.com/_5cVyPU93ihM/Sj_f6IYg21I/AAAAAAAAAIM/aG16oAOfqf0/s320/folder.jpg)](https://web.archive.org/web/20111010085311/http://2.bp.blogspot.com/_5cVyPU93ihM/Sj_f6IYg21I/AAAAAAAAAIM/aG16oAOfqf0/s1600-h/folder.jpg)  
 Music: Serious business.  

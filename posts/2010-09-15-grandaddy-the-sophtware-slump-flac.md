@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175815/http://holyfuckingshit4
 date: Wednesday, September 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/grandaddy-sophtware-slump-flac.html
 title: Grandaddy - The Sophtware Slump (FLAC)
+artist: Grandaddy
+album: The Sophtware Slump
+spotify_url: https://open.spotify.com/search/Grandaddy%20The%20Sophtware%20Slump
+apple_music_url: https://music.apple.com/us/search?term=Grandaddy%20The%20Sophtware%20Slump
+youtube_url: https://www.youtube.com/results?search_query=Grandaddy%20The%20Sophtware%20Slump
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175815im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TJFHqJkmV9I/AAAAAAAAA0c/eQofdETBVZ0/s400/tumblr.jpg)](https://web.archive.org/web/20111010175815/http://2.bp.blogspot.com/_cLI19EXK2oU/TJFHqJkmV9I/AAAAAAAAA0c/eQofdETBVZ0/s1600/tumblr.jpg)  
 In many respects, the band Grandaddy is endearingly anachronistic. Consisting of 5 men in their 20's and early 30's, they are very unassuming fellows who dress plainly and wear varying (and at times, disturbingly large) amounts of facial hair. They like to do things like skateboard, shoot guns and drink beer. Their music is something like you might find if there was a place where the sounds of the Beach Boys, Kraftwerk and Neil Young all intersected. On top of it all, their new record, "The Sophtware Slump" is a concept album, one of the mainstays of your typically bad prog-rock outfits, and again harkens to days long since passed. And so you if you haven't heard Grandaddy before, you might read this and wonder wherein then lies the appeal? But this truth of the matter is that this an almost impossibly wonderful, oddly beautiful record. How this is remains something of mystery, yet they pull it off flawlessy. Charisma? Anti-charisma, perhaps? I can't explain.

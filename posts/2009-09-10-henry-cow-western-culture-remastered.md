@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094014/http://holyfuckingshit4
 date: Thursday, September 10, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/henry-cow-western-culture-remastered.html
 title: Henry Cow - Western Culture (Remastered)
+artist: Henry Cow
+album: Western Culture
+spotify_url: https://open.spotify.com/search/Henry%20Cow%20Western%20Culture
+apple_music_url: https://geo.music.apple.com/au/album/_/62459773?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Henry%20Cow%20Western%20Culture
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094014im_/http://2.bp.blogspot.com/_cLI19EXK2oU/Sqk87Sst0CI/AAAAAAAAATw/o-74jrf2w-Y/s400/western-culture.jpg)](https://web.archive.org/web/20111010094014/http://2.bp.blogspot.com/_cLI19EXK2oU/Sqk87Sst0CI/AAAAAAAAATw/o-74jrf2w-Y/s1600-h/western-culture.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112436/http://holyfuckingshit4
 date: Friday, October 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/shackleton-three-eps-2009-flac.html
 title: Shackleton - Three EPs (2009, FLAC)
+artist: Shackleton
+album: Three EPs
+spotify_url: https://open.spotify.com/search/Shackleton%20Three%20EPs
+apple_music_url: https://music.apple.com/us/search?term=Shackleton%20Three%20EPs
+youtube_url: https://www.youtube.com/results?search_query=Shackleton%20Three%20EPs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112436im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMFrCRXbcvI/AAAAAAAAAbI/sQo9SUQYKkQ/s400/three-ep-s-21723316.jpeg)](https://web.archive.org/web/20111010112436/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMFrCRXbcvI/AAAAAAAAAbI/sQo9SUQYKkQ/s1600/three-ep-s-21723316.jpeg)  
   

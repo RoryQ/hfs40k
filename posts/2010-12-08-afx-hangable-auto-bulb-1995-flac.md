@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071907/http://holyfuckingshit4
 date: Wednesday, December 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/afx-hangable-auto-bulb-1995-flac.html
 title: AFX - Hangable Auto Bulb (1995, FLAC)
+artist: AFX
+album: Hangable Auto Bulb
+spotify_url: https://open.spotify.com/search/AFX%20Hangable%20Auto%20Bulb
+apple_music_url: https://music.apple.com/us/search?term=AFX%20Hangable%20Auto%20Bulb
+youtube_url: https://www.youtube.com/results?search_query=AFX%20Hangable%20Auto%20Bulb
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071907im_/http://4.bp.blogspot.com/_8OQrKaBbb98/TP91nbJjYJI/AAAAAAAAACk/BQ7c-rxw8z8/s400/R-533323-1175952920.jpeg)](https://web.archive.org/web/20111010071907/http://4.bp.blogspot.com/_8OQrKaBbb98/TP91nbJjYJI/AAAAAAAAACk/BQ7c-rxw8z8/s1600/R-533323-1175952920.jpeg)
 

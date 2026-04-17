@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085030/http://holyfuckingshit4
 date: Wednesday, June 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/can-ege-bamyasi-remastered-flac.html
 title: Can - Ege Bamyasi (Remastered FLAC)
+artist: Can
+album: Ege Bamyasi
+spotify_url: https://open.spotify.com/search/Can%20Ege%20Bamyasi
+apple_music_url: https://music.apple.com/us/search?term=Can%20Ege%20Bamyasi
+youtube_url: https://www.youtube.com/results?search_query=Can%20Ege%20Bamyasi
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085030im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SkI_PZcoN1I/AAAAAAAAAMA/913-M4anzFw/s400/Can_Ege_Bamyasi.jpg)](https://web.archive.org/web/20111010085030/http://2.bp.blogspot.com/_cLI19EXK2oU/SkI_PZcoN1I/AAAAAAAAAMA/913-M4anzFw/s1600-h/Can_Ege_Bamyasi.jpg)  
 Led by the manic, freakish vocals of Damo Suzuki, Ege Bamyasi bends genres with aplomb, effortlessly including pop, rock, jazz, and psychedelia into one insanely eclectic and addictive stew. This album revels in detail and unpredictability, as each song is overflowing with off-kilter time signatures and and unconventional structures. Plenty of rock bands that have emerged since Can have employed similar devices-the Flaming Lips, Blur, and the Boredoms come to mind-but Can were arguably both the first and the best. The songs here often take as their starting point only the bare bones of the traditional rock sound, but they're far from minimal, as Can were masters at fleshing out their material with decidedly non-rock instrumentation and bizarre use of tape loops.  

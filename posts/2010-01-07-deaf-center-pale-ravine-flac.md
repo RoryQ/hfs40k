@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123247/http://holyfuckingshit4
 date: Thursday, January 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/deaf-center-pale-ravine-flac.html
 title: 'Deaf Center: Pale Ravine (FLAC)'
+artist: Deaf Center
+album: Pale Ravine
+spotify_url: https://open.spotify.com/search/Deaf%20Center%20Pale%20Ravine
+apple_music_url: https://music.apple.com/us/search?term=Deaf%20Center%20Pale%20Ravine
+youtube_url: https://www.youtube.com/results?search_query=Deaf%20Center%20Pale%20Ravine
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123247im_/http://droneambient.files.wordpress.com/2008/04/type009_cover.jpg)](https://web.archive.org/web/20111010123247/http://droneambient.files.wordpress.com/2008/04/type009_cover.jpg)  
   

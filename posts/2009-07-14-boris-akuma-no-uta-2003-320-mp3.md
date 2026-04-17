@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010142716/http://holyfuckingshit4
 date: Tuesday, July 14, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/boris-akuma-no-uta-2003-320-mp3.html
 title: Boris - Akuma no Uta (2003) [320 mp3]
+artist: Boris
+album: Akuma no Uta
+spotify_url: https://open.spotify.com/search/Boris%20Akuma%20no%20Uta
+apple_music_url: https://music.apple.com/us/search?term=Boris%20Akuma%20no%20Uta
+youtube_url: https://www.youtube.com/results?search_query=Boris%20Akuma%20no%20Uta
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010142716im_/http://3.bp.blogspot.com/_OYyGYtJuluk/Slzo_1S9LsI/AAAAAAAAARc/Ooy1rBw4MSI/s320/akumanouta.png)](https://web.archive.org/web/20111010142716/http://3.bp.blogspot.com/_OYyGYtJuluk/Slzo_1S9LsI/AAAAAAAAARc/Ooy1rBw4MSI/s1600-h/akumanouta.png)By request of nostalghia. The first track is extended in this version.
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173134/http://holyfuckingshit4
 date: Tuesday, June 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/boris-with-merzbow-rock-dream-flac.html
 title: 'Boris Week - Day #3 Rock Dream (FLAC)'
+artist: Boris Week
+album: 'Day #3 Rock Dream'
+spotify_url: https://open.spotify.com/search/Boris%20Week%20Day%20%233%20Rock%20Dream
+apple_music_url: https://music.apple.com/us/search?term=Boris%20Week%20Day%20%233%20Rock%20Dream
+youtube_url: https://www.youtube.com/results?search_query=Boris%20Week%20Day%20%233%20Rock%20Dream
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173134im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TCBwFJ_RW-I/AAAAAAAAAuk/o4tgEA_jskg/s400/boris.jpg)](https://web.archive.org/web/20111010173134/http://4.bp.blogspot.com/_cLI19EXK2oU/TCBwFJ_RW-I/AAAAAAAAAuk/o4tgEA_jskg/s1600/boris.jpg)  
 Boris squeeze one more record in before the end of the year with this incredible 2-disc live set with Merzbow, brought to us by none other than the stoner-metal congress of death: Southern Lord Records. Boris, 3-piece from Japan, are to some legends...proof that this genre of music can be presented and imagined in new and engaging ways. Being an extremely prolific band, endlessly touring and releasing various limited edition and proper LPs (last year saw the release of over 4 Boris records) one would imagine that the overwhelming output could be too much or inevitably result in some filler, especially when it comes to a live show of older material. Not so! Boris keep it going at a furiously energetic pace with nearly everything they do and this live set, consisting of many beloved Boris "classics," is no exception. An added pleasure is that Masami Akita, AKA Merzbow "the god of noise" performs with the band adding deep textures and sound effects that further the heady psychedelic nature of the music. Seeing this record at the shop I thought a couple things: 1. I must buy it regardless of quality or low funds in my checking account because of the beautiful slip case packaging (designed by Stephen O'Malley) and because it is limited to only 5000 copies. 2. I was worried that the record would be a lame rehashing of old Boris tracks presented live with low quality. 3. My last concern was that Merzbow's contributions would be lost in the already dense mix of sound.  

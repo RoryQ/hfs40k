@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010050104/http://holyfuckingshit4
 date: Wednesday, April 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/carl-craig-more-songs-about-food.html
 title: Carl Craig - More Songs About Food & Revolutionary Art FLAC
+artist: Carl Craig
+album: More Songs About Food & Revolutionary Art FLAC
+spotify_url: https://open.spotify.com/search/Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010050104im_/http://www.factmagazine.co.uk/images/stories/news/bodyimages/carlcraig-atleas.jpg)](https://web.archive.org/web/20111010050104/http://www.factmagazine.co.uk/images/stories/news/bodyimages/carlcraig-atleas.jpg)  
   

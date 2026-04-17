@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091642/http://holyfuckingshit4
 date: Saturday, June 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/matryoshka-zatracenie.html
 title: Matryoshka - Zatracenie (2008)
+artist: Matryoshka
+album: Zatracenie
+spotify_url: https://open.spotify.com/search/Matryoshka%20Zatracenie
+apple_music_url: https://music.apple.com/us/search?term=Matryoshka%20Zatracenie
+youtube_url: https://www.youtube.com/results?search_query=Matryoshka%20Zatracenie
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091642im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SkaMmr9yktI/AAAAAAAAAMw/CVhwqDE9FC0/s400/zatracenie_jacket_m.jpg)](https://web.archive.org/web/20111010091642/http://1.bp.blogspot.com/_cLI19EXK2oU/SkaMmr9yktI/AAAAAAAAAMw/CVhwqDE9FC0/s1600-h/zatracenie_jacket_m.jpg)  
 More japanese post-rock, recommended for fans of World's End Girlfriend  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042312/http://holyfuckingshit4
 date: Thursday, November 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/11/cerberus-shoal-elements-of-structure.html
 title: Cerberus Shoal - Elements of Structure / Permanence [FLAC]
+artist: Cerberus Shoal
+album: Elements of Structure / Permanence
+spotify_url: https://open.spotify.com/search/Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
+apple_music_url: https://music.apple.com/us/search?term=Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
+youtube_url: https://www.youtube.com/results?search_query=Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042312im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/TO9BsIHoK4I/AAAAAAAAAM0/sa5R1CLxuL8/s400/51UtL9y5E-L._SS500_.jpg)](https://web.archive.org/web/20111010042312/http://2.bp.blogspot.com/_mTQyK3r0bG0/TO9BsIHoK4I/AAAAAAAAAM0/sa5R1CLxuL8/s1600/51UtL9y5E-L._SS500_.jpg)  
 Cerberus Shoal is a weird group. Their body of work varies from slightly eccentric, kinda jazzy post-rock (1999's masterpiece Homb) to experimental schizo-rock (their latest, 2005's The Land We All Believe In). Over the course of their existence (they've been around since 1994), they have sort of evolved from a jazzy-ish post-rock group that could be compared to Do Make Say Think (only the Shoal is more darlessly experimental and influenced by krautrock) to a full-blown experimental indie rock group. But it's this album, Elements Of Structure/Permanance (released in 1997) that sees them achieving their absolute fullest potential. It was conceived as an improvised soundtrack to a film by Tim Follard, all done with aid of two television monitors (to improvise along with the moving pictures), nine people, and a bunch of donated equipment.  

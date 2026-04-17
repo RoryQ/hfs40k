@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081903/http://holyfuckingshit4
 date: Monday, March 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/charles-mingus-mingus-ah-um-legacy.html
 title: Charles Mingus - Mingus Ah Um Legacy Edition (2009) [FLAC]
+artist: Charles Mingus
+album: Mingus Ah Um Legacy Edition
+spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Mingus%20Ah%20Um%20Legacy%20Edition
+apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Mingus%20Ah%20Um%20Legacy%20Edition
+youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Mingus%20Ah%20Um%20Legacy%20Edition
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081903im_/http://3.bp.blogspot.com/_OYyGYtJuluk/S7DQYH5AjNI/AAAAAAAAAVg/e3URTgO1Ep0/s320/mingusahum.png)](https://web.archive.org/web/20111010081903/http://3.bp.blogspot.com/_OYyGYtJuluk/S7DQYH5AjNI/AAAAAAAAAVg/e3URTgO1Ep0/s1600/mingusahum.png)This two disc set includes remastered versions of Mingus Ah Um and Mingus Dynasty. The albums included are the full recordings, not the truncated versions found on the original releases. Also included are alternate takes from Mingus Ah Um and bonus tracks from both albums.
 

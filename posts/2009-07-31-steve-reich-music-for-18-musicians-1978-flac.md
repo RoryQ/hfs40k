@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140512/http://holyfuckingshit4
 date: Friday, July 31, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/steve-reich-music-for-18-musicians-1978.html
 title: Steve Reich - Music for 18 Musicians (1978) [FLAC]
+artist: Steve Reich
+album: Music for 18 Musicians
+spotify_url: https://open.spotify.com/search/Steve%20Reich%20Music%20for%2018%20Musicians
+apple_music_url: https://music.apple.com/us/search?term=Steve%20Reich%20Music%20for%2018%20Musicians
+youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Music%20for%2018%20Musicians
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140512im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SnMGnp54QgI/AAAAAAAAAQ4/v-nQJOCqoEg/s400/covercustomok1.jpg)](https://web.archive.org/web/20111010140512/http://4.bp.blogspot.com/_cLI19EXK2oU/SnMGnp54QgI/AAAAAAAAAQ4/v-nQJOCqoEg/s1600-h/covercustomok1.jpg)  
   

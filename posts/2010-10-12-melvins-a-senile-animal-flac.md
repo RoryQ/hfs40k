@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112233/http://holyfuckingshit4
 date: Tuesday, October 12, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/melvins-senile-animal-flac.html
 title: Melvins - (A) Senile Animal [FLAC]
+artist: Melvins
+album: ''
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112233im_/http://4.bp.blogspot.com/_mTQyK3r0bG0/TLSZpCX91YI/AAAAAAAAAME/VQ5vQjFjJVc/s400/o631424.jpg)](https://web.archive.org/web/20111010112233/http://4.bp.blogspot.com/_mTQyK3r0bG0/TLSZpCX91YI/AAAAAAAAAME/VQ5vQjFjJVc/s1600/o631424.jpg)  
 Almost every review concerning the bands recent releases talks of 'expecting the unexpected'. Well, I'm not too sure if this is the case with this year's release, "A Senile Animal".  

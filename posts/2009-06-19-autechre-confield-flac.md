@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091128/http://holyfuckingshit4
 date: Friday, June 19, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/autechre-confield-flac.html
 title: Autechre - Confield (FLAC)
+artist: Autechre
+album: Confield
+spotify_url: https://open.spotify.com/search/Autechre%20Confield
+apple_music_url: https://geo.music.apple.com/au/album/_/282571770?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Autechre%20Confield
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091128im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SjuuOL9K_8I/AAAAAAAAALI/vviSTanuGAI/s400/confield.jpg)](https://web.archive.org/web/20111010091128/http://4.bp.blogspot.com/_cLI19EXK2oU/SjuuOL9K_8I/AAAAAAAAALI/vviSTanuGAI/s1600-h/confield.jpg)  
   

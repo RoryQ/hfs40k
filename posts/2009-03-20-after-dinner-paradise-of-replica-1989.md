@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010170729/http://holyfuckingshit4
 date: Friday, March 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/after-dinner-paradise-of-replica-1989.html
 title: After Dinner - Paradise of Replica (1989)
+artist: After Dinner
+album: Paradise of Replica
+spotify_url: https://open.spotify.com/search/After%20Dinner%20Paradise%20of%20Replica
+apple_music_url: https://music.apple.com/us/search?term=After%20Dinner%20Paradise%20of%20Replica
+youtube_url: https://www.youtube.com/results?search_query=After%20Dinner%20Paradise%20of%20Replica
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010170729im_/http://4.bp.blogspot.com/_cLI19EXK2oU/ScQX2mjTcFI/AAAAAAAAAB4/kFdtWzfF2xE/s400/afterdinner.jpg)](https://web.archive.org/web/20111010170729/http://4.bp.blogspot.com/_cLI19EXK2oU/ScQX2mjTcFI/AAAAAAAAAB4/kFdtWzfF2xE/s1600-h/afterdinner.jpg)  
 Japanese Avant-Prog Pop. Highly recommended for fans of [Blueberry Boat](https://web.archive.org/web/20111010170729/http://rateyourmusic.com/release/album/the_fiery_furnaces/blueberry_boat/)  

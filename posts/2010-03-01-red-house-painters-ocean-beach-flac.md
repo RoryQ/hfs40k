@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083133/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/red-house-painters-ocean-beach-flac.html
 title: Red House Painters - Ocean Beach FLAC
+artist: Red House Painters
+album: Ocean Beach FLAC
+spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Ocean%20Beach%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Ocean%20Beach%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Ocean%20Beach%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083133im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S4uE_LoVpcI/AAAAAAAAAAc/zFRqA8pllTo/s400/0.jpg)](https://web.archive.org/web/20111010083133/http://3.bp.blogspot.com/_t6lWjgwMoxw/S4uE_LoVpcI/AAAAAAAAAAc/zFRqA8pllTo/s1600-h/0.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065243/http://holyfuckingshit4
 date: Wednesday, August 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/xtc-skylarking-mfsl-flac.html
 title: XTC - Skylarking (MFSL FLAC)
+artist: XTC
+album: Skylarking
+spotify_url: https://open.spotify.com/search/XTC%20Skylarking
+apple_music_url: https://music.apple.com/us/search?term=XTC%20Skylarking
+youtube_url: https://www.youtube.com/results?search_query=XTC%20Skylarking
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065243im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TFkUxd-8F0I/AAAAAAAAAw8/-ny9yTodv6g/s400/06_skylarking.jpg)](https://web.archive.org/web/20111010065243/http://1.bp.blogspot.com/_cLI19EXK2oU/TFkUxd-8F0I/AAAAAAAAAw8/-ny9yTodv6g/s1600/06_skylarking.jpg)  
 Todd Rundgren managed to infuriate the band during the recording of this LP, but he did a great job helping them to pick and sequence their material, and to frame it sound-wise and mix it into a beautiful record.

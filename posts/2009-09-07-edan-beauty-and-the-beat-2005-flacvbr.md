@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094039/http://holyfuckingshit4
 date: Monday, September 7, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/edan-beauty-and-beat-2005-flacvbr.html
 title: Edan - Beauty and the Beat (2005) [FLAC+VBR]
+artist: Edan
+album: Beauty and the Beat
+spotify_url: https://open.spotify.com/search/Edan%20Beauty%20and%20the%20Beat
+apple_music_url: https://geo.music.apple.com/au/album/_/125302141?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Edan%20Beauty%20and%20the%20Beat
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094039im_/http://3.bp.blogspot.com/_JdyrURA7JYI/SqVNTJNLB6I/AAAAAAAAAHI/aKTBstWw9Yg/s400/edanbeauty.PNG)](https://web.archive.org/web/20111010094039/http://3.bp.blogspot.com/_JdyrURA7JYI/SqVNTJNLB6I/AAAAAAAAAHI/aKTBstWw9Yg/s1600-h/edanbeauty.PNG)Pretty good for a jew.  
   

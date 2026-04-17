@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065056/http://holyfuckingshit4
 date: Wednesday, August 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/outkast-aquemini-1998-flac.html
 title: Outkast - Aquemini (1998) [FLAC]
+artist: Outkast
+album: Aquemini
+spotify_url: https://open.spotify.com/search/Outkast%20Aquemini
+apple_music_url: https://music.apple.com/us/search?term=Outkast%20Aquemini
+youtube_url: https://www.youtube.com/results?search_query=Outkast%20Aquemini
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065056im_/http://2.bp.blogspot.com/_5cVyPU93ihM/TGxTlCDvdcI/AAAAAAAAARg/KayuiSo41hY/s400/61hfGwtzTdL.jpg)](https://web.archive.org/web/20111010065056/http://2.bp.blogspot.com/_5cVyPU93ihM/TGxTlCDvdcI/AAAAAAAAARg/KayuiSo41hY/s1600/61hfGwtzTdL.jpg)  
 [Download [MF]](https://web.archive.org/web/20111010065056/http://lix.in/-829acd)[Download [MU]](https://web.archive.org/web/20111010065056/http://lix.in/-84216e)  

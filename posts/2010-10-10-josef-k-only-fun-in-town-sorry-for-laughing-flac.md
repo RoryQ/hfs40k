@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112733/http://holyfuckingshit4
 date: Sunday, October 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/josef-k-only-fun-in-town-sorry-for.html
 title: Josef K - Only Fun in Town / Sorry for Laughing [FLAC]
+artist: Josef K
+album: Only Fun in Town / Sorry for Laughing
+spotify_url: https://open.spotify.com/search/Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
+apple_music_url: https://music.apple.com/us/search?term=Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
+youtube_url: https://www.youtube.com/results?search_query=Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112733im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TLIqKh6YelI/AAAAAAAAAL0/OAxtNCZC3SA/s400/51oyt83%2BHXL.jpg)](https://web.archive.org/web/20111010112733/http://3.bp.blogspot.com/_mTQyK3r0bG0/TLIqKh6YelI/AAAAAAAAAL0/OAxtNCZC3SA/s1600/51oyt83%2BHXL.jpg)  
  \* Musically, like a cross between Magazine, XTC, Joy Division and Television; Josef K were gone as soon as they had arrived. Just one album was released.  

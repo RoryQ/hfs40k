@@ -3,7 +3,13 @@ archived_url: https://web.archive.org/web/20111010100109/http://holyfuckingshit4
 date: Tuesday, May 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/one-kiss-can-lead-to-another-girl-group.html
 title: 'One Kiss Can Lead to Another: Girl Group Sounds Lost and Found (v0 Box Set)'
+artist: One Kiss Can Lead to Another
+album: Girl Group Sounds Lost and Found
+spotify_url: https://open.spotify.com/search/One%20Kiss%20Can%20Lead%20to%20Another%20Girl%20Group%20Sounds%20Lost%20and%20Found
+apple_music_url: https://geo.music.apple.com/au/album/_/80451918?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=One%20Kiss%20Can%20Lead%20to%20Another%20Girl%20Group%20Sounds%20Lost%20and%20Found
 ---
+
 
 [![](https://web.archive.org/web/20111010100109im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S_wYBCN9tEI/AAAAAAAAAqU/5xomnY9pzLY/s400/1973-one-kiss-can-lead-to-another.jpg)](https://web.archive.org/web/20111010100109/http://4.bp.blogspot.com/_cLI19EXK2oU/S_wYBCN9tEI/AAAAAAAAAqU/5xomnY9pzLY/s1600/1973-one-kiss-can-lead-to-another.jpg)  
 I've been in seventh heaven listening to Rhino's latest boxed set, One Kiss Can Lead to Another: Girl Group Sounds, Lost and Found. I'm a long-time fan of the early-60s Girl Group/Brill Building/Wall of Sound genre (and of Rhino Records, of course), and this boxed set is perhaps the finest representation to-date of the Girl Group part of that equation.  

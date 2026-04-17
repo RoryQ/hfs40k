@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023231259/http://holyfuckingshit4
 date: Thursday, September 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/t2-itll-all-work-out-in-boomland-flac.html
 title: T.2. - It'll All Work Out In Boomland (FLAC)
+artist: T.2.
+album: It'll All Work Out In Boomland
+spotify_url: https://open.spotify.com/search/T.2.%20It%27ll%20All%20Work%20Out%20In%20Boomland
+apple_music_url: https://geo.music.apple.com/au/album/_/1732720977?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=T.2.%20It%27ll%20All%20Work%20Out%20In%20Boomland
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023231259im_/http://3.bp.blogspot.com/-iCiHgU-DcbY/TmANOsXm_rI/AAAAAAAABDI/zj3RqTUcRWE/s400/T2%2B-%2BFront.jpg)](https://web.archive.org/web/20111023231259/http://3.bp.blogspot.com/-iCiHgU-DcbY/TmANOsXm_rI/AAAAAAAABDI/zj3RqTUcRWE/s1600/T2%2B-%2BFront.jpg)
   

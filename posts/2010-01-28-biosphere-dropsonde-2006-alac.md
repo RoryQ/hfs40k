@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010122954/http://holyfuckingshit4
 date: Thursday, January 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/biosphere-dropsonde-2006-alac.html
 title: Biosphere - Dropsonde [2006, ALAC]
+artist: Biosphere
+album: Dropsonde
+spotify_url: https://open.spotify.com/search/Biosphere%20Dropsonde
+apple_music_url: https://music.apple.com/us/search?term=Biosphere%20Dropsonde
+youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Dropsonde
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010122954im_/http://2.bp.blogspot.com/_EokfjCVIysk/SSiEREVLSSI/AAAAAAAAAW4/F8t9vs3c17Q/s400/Biosphere_Dropsonde-Frontal_xa_Blog.jpg)](https://web.archive.org/web/20111010122954/http://2.bp.blogspot.com/_EokfjCVIysk/SSiEREVLSSI/AAAAAAAAAW4/F8t9vs3c17Q/s400/Biosphere_Dropsonde-Frontal_xa_Blog.jpg)  
   

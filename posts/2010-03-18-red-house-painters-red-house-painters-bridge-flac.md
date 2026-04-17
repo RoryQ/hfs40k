@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082031/http://holyfuckingshit4
 date: Thursday, March 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/red-house-painters-red-house-painters_18.html
 title: Red House Painters - Red House Painters (Bridge) FLAC
+artist: Red House Painters
+album: Red House Painters
+spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Red%20House%20Painters
+apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Red%20House%20Painters
+youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Red%20House%20Painters
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082031im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6H2_Bqu9QI/AAAAAAAAAF8/Lj-Htq6Pgww/s400/rhp_bridge.jpg)](https://web.archive.org/web/20111010082031/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6H2_Bqu9QI/AAAAAAAAAF8/Lj-Htq6Pgww/s1600-h/rhp_bridge.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004093526/http://holyfuckingshit4
 date: Friday, September 16, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/miles-davis-kind-of-blue-24-bit96khz.html
 title: Miles Davis - Kind Of Blue (24-bit/96khz Vinyl)
+artist: Miles Davis
+album: Kind Of Blue
+spotify_url: https://open.spotify.com/search/Miles%20Davis%20Kind%20Of%20Blue
+apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Kind%20Of%20Blue
+youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Kind%20Of%20Blue
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004093526im_/http://1.bp.blogspot.com/-wPN-Y63wGws/TnL_jn2WPJI/AAAAAAAABFI/TG9BuF37BB8/s400/Label-A.jpg)](https://web.archive.org/web/20111004093526/http://1.bp.blogspot.com/-wPN-Y63wGws/TnL_jn2WPJI/AAAAAAAABFI/TG9BuF37BB8/s1600/Label-A.jpg)  
   

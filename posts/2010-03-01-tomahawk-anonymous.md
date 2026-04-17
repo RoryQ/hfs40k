@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082148/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/tomahawk-anonymous.html
 title: Tomahawk - Anonymous
+artist: Tomahawk
+album: Anonymous
+spotify_url: https://open.spotify.com/search/Tomahawk%20Anonymous
+apple_music_url: https://music.apple.com/us/search?term=Tomahawk%20Anonymous
+youtube_url: https://www.youtube.com/results?search_query=Tomahawk%20Anonymous
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082148im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S4xPr_hek_I/AAAAAAAAAZY/wPEWmvIhQA8/s400/tomahawk_anonymous_album_cover.jpg)](https://web.archive.org/web/20111010082148/http://4.bp.blogspot.com/_cLI19EXK2oU/S4xPr_hek_I/AAAAAAAAAZY/wPEWmvIhQA8/s1600-h/tomahawk_anonymous_album_cover.jpg)Listening to Anonymous without knowing what Mike Patton project it was, those familiar with previous installments in the Tomahawk catalog might be hard-pressed to pin the work specifically on them. Where the earlier two albums focused on abrasive metal, the thematic Native American nature might cause some to assume that Fantomas was responsible, but there are also nods to Patton projects of the distant past - Faith No More and Mr. Bungle. But sure enough, this is all Tomahawk, delivering an album of music inspired by Native American Indians that befits the band name. How listeners feel about it may depend on how adventurous they are.  
   

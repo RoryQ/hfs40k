@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203181909/http://holyfuckingshit4
 date: Saturday, February 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/wolves-in-throne-room-black-cascade.html
 title: Wolves In The Throne Room - Black Cascade (2009)
+artist: Wolves In The Throne Room
+album: Black Cascade
+spotify_url: https://open.spotify.com/search/Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
+apple_music_url: https://music.apple.com/us/search?term=Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
+youtube_url: https://www.youtube.com/results?search_query=Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203181909im_/http://i39.tinypic.com/ob0879.jpg)](https://web.archive.org/web/20101203181909/http://i39.tinypic.com/ob0879.jpg)  
   

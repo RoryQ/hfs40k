@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173312/http://holyfuckingshit4
 date: Saturday, June 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/gong-flying-flac.html
 title: Gong - Flying Teapot  (FLAC)
+artist: Gong
+album: Flying Teapot
+spotify_url: https://open.spotify.com/search/Gong%20Flying%20Teapot
+apple_music_url: https://geo.music.apple.com/au/album/_/1473136821?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Gong%20Flying%20Teapot
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173312im_/http://1.bp.blogspot.com/_9vpegXTmIbs/TCZZX701cHI/AAAAAAAAABs/7EBL275cEB0/s400/flying_teapot.f.jpg)](https://web.archive.org/web/20111010173312/http://1.bp.blogspot.com/_9vpegXTmIbs/TCZZX701cHI/AAAAAAAAABs/7EBL275cEB0/s1600/flying_teapot.f.jpg)  
 Alright, that does it. Gong is officially the most drugged out band I've ever heard from the 70's. I have NEVER heard a band who sounds like they are more high and crazy in the head than these guys. So the question is, can someone like me (who's never done drugs) understand and appreciate music like THIS?  

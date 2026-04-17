@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082749/http://holyfuckingshit4
 date: Monday, March 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/younger-brother-last-days-of-gravity.html
 title: Younger Brother - The Last Days of Gravity FLAC
+artist: Younger Brother
+album: The Last Days of Gravity FLAC
+spotify_url: https://open.spotify.com/search/Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082749im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S540z2hLivI/AAAAAAAAAFU/8VD-r5EM5DA/s400/front+2.jpg)](https://web.archive.org/web/20111010082749/http://3.bp.blogspot.com/_t6lWjgwMoxw/S540z2hLivI/AAAAAAAAAFU/8VD-r5EM5DA/s1600-h/front+2.jpg)  
 [![](https://web.archive.org/web/20111010082749im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S540VZZn_nI/AAAAAAAAAFM/pIdHliml5xI/s400/front+4.jpg)](https://web.archive.org/web/20111010082749/http://1.bp.blogspot.com/_t6lWjgwMoxw/S540VZZn_nI/AAAAAAAAAFM/pIdHliml5xI/s1600-h/front+4.jpg)  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094234/http://holyfuckingshit4
 date: Friday, September 18, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/wu-tang-clan-enter-wu-tang-36-chambers.html
 title: Wu-Tang Clan - Enter the Wu-Tang 36 Chambers (FLAC)
+artist: Wu
+album: Tang Clan - Enter the Wu-Tang 36 Chambers
+spotify_url: https://open.spotify.com/search/Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
+apple_music_url: https://music.apple.com/us/search?term=Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
+youtube_url: https://www.youtube.com/results?search_query=Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094234im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SgWGRT43ezI/AAAAAAAAAEg/rWzn0mOkG00/s400/36chambers.jpg)](https://web.archive.org/web/20111010094234/http://4.bp.blogspot.com/_cLI19EXK2oU/SgWGRT43ezI/AAAAAAAAAEg/rWzn0mOkG00/s1600-h/36chambers.jpg)  
 Without wishing to sound like a Dream Theater fan or something, this is something I’ve been thinking about for quite a while now: on a purely technical level, I believe “Protect Ya Neck” by the Wu Tang Clan to be the peak, the pinnacle, the unadulterated high point of music composition, and something that will never be topped by future generations. And I know it’s catchy and destructive as fuck, I’d never doubt that, but let’s give this a bit of analysis:  

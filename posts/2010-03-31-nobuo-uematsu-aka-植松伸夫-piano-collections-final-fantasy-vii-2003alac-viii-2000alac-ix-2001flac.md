@@ -4,7 +4,15 @@ date: Wednesday, March 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/nobuo-uematsu-aka-piano-collections.html
 title: "Nobuo Uematsu aka \u690D\u677E\u4F38\u592B - Piano Collections: Final Fantasy\
   \ VII [2003/ALAC] VIII [2000/ALAC] & IX [2001/FLAC]"
+artist: "Nobuo Uematsu aka \u690D\u677E\u4F38\u592B"
+album: 'Piano Collections: Final Fantasy VII'
+spotify_url: https://open.spotify.com/search/Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
+apple_music_url: https://music.apple.com/us/search?term=Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
+youtube_url: https://www.youtube.com/results?search_query=Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083029im_/http://bayimg.com/image/aadnhaacd.jpg)](https://web.archive.org/web/20111010083029/http://bayimg.com/image/aadnhaacd.jpg)  
 [VII:ALAC](https://web.archive.org/web/20111010083029/http://lix.in/-74f1f9)  

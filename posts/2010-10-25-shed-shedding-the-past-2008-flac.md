@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112430/http://holyfuckingshit4
 date: Monday, October 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/shed-shedding-past-2008-flac.html
 title: Shed - Shedding The Past (2008, FLAC)
+artist: Shed
+album: Shedding The Past
+spotify_url: https://open.spotify.com/search/Shed%20Shedding%20The%20Past
+apple_music_url: https://geo.music.apple.com/au/album/_/1164968102?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Shed%20Shedding%20The%20Past
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112430im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMVLYmaWKCI/AAAAAAAAAcA/y4hKIVH6zN8/s400/1224359828.jpeg)](https://web.archive.org/web/20111010112430/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMVLYmaWKCI/AAAAAAAAAcA/y4hKIVH6zN8/s1600/1224359828.jpeg)  
   

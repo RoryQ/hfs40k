@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123925/http://holyfuckingshit4
 date: Wednesday, January 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/arcade-fire-flac.html
 title: Arcade Fire [FLAC]
+artist: Arcade Fire
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 Not quite as monstrous as the last discography upload but some fine hipster garabe that was requested by a number of people. PITCHFORK SEAL OF APPROVAL.  
   

@@ -4,7 +4,15 @@ date: Sunday, May 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/2-king-crimson-in-court-of-crimson-king.html
 title: '#2 King Crimson - In The Court Of The Crimson King (Original Vinyl/40th Anniversary
   Remaster)'
+artist: '#2 King Crimson'
+album: In The Court Of The Crimson King
+spotify_url: https://open.spotify.com/search/%232%20King%20Crimson%20In%20The%20Court%20Of%20The%20Crimson%20King
+apple_music_url: https://geo.music.apple.com/au/album/_/918534711?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=%232%20King%20Crimson%20In%20The%20Court%20Of%20The%20Crimson%20King
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209005040im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S-c29uAF1hI/AAAAAAAAAk8/DUEtpzhZ-S4/s400/1273348862544.png)](https://web.archive.org/web/20111209005040/http://1.bp.blogspot.com/_cLI19EXK2oU/S-c29uAF1hI/AAAAAAAAAk8/DUEtpzhZ-S4/s1600/1273348862544.png)  
 One of the pioneering works of progressive-rock, In The Court of the Crimson King is a surreal modernist classic. Crimson's debut album was in fact so good that it almost led to the bands premature demise as it took them nearly 5 years to come up with another album with the same focus or strength. Contrasted with music of the same genre of that era "Court" was unparalleled in its fierceness and songwriting, but it is the albums stunning musicianship that gives the recording its durability.

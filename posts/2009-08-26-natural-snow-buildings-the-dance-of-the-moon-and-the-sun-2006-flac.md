@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111126021740/http://holyfuckingshit4
 date: Wednesday, August 26, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/natural-snow-buildings-dance-of-moon.html
 title: Natural Snow Buildings - The Dance Of The Moon And The Sun (2006) [FLAC]
+artist: Natural Snow Buildings
+album: The Dance Of The Moon And The Sun
+spotify_url: https://open.spotify.com/search/Natural%20Snow%20Buildings%20The%20Dance%20Of%20The%20Moon%20And%20The%20Sun
+apple_music_url: https://geo.music.apple.com/au/album/_/1046364912?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Buildings%20The%20Dance%20Of%20The%20Moon%20And%20The%20Sun
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111126021740im_/http://1.bp.blogspot.com/_TSxXUm0_hPM/SpXHTG0ZqKI/AAAAAAAABkc/vSlE0TpprGw/s400/cover.jpg)](https://web.archive.org/web/20111126021740/http://1.bp.blogspot.com/_TSxXUm0_hPM/SpXHTG0ZqKI/AAAAAAAABkc/vSlE0TpprGw/s1600-h/cover.jpg)  
 PMac551:  

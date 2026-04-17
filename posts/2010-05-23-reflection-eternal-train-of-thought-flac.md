@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094936/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/reflection-eternal-train-of-thought.html
 title: Reflection Eternal - Train of Thought (FLAC)
+artist: Reflection Eternal
+album: Train of Thought
+spotify_url: https://open.spotify.com/search/Reflection%20Eternal%20Train%20of%20Thought
+apple_music_url: https://music.apple.com/us/search?term=Reflection%20Eternal%20Train%20of%20Thought
+youtube_url: https://www.youtube.com/results?search_query=Reflection%20Eternal%20Train%20of%20Thought
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094936im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l3tPHG83I/AAAAAAAAAok/AQ0iuR2HPKc/s400/16benwh.jpg)](https://web.archive.org/web/20111010094936/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l3tPHG83I/AAAAAAAAAok/AQ0iuR2HPKc/s1600/16benwh.jpg)  
   

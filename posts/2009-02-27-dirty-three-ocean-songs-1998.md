@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203184356/http://holyfuckingshit4
 date: Friday, February 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/dirty-three-ocean-songs-1998.html
 title: Dirty Three - Ocean Songs ( 1998)
+artist: Dirty Three
+album: Ocean Songs
+spotify_url: https://open.spotify.com/search/Dirty%20Three%20Ocean%20Songs
+apple_music_url: https://music.apple.com/us/search?term=Dirty%20Three%20Ocean%20Songs
+youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20Ocean%20Songs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203184356im_/http://i40.tinypic.com/wjuzx5.jpg)](https://web.archive.org/web/20101203184356/http://i40.tinypic.com/wjuzx5.jpg)  
 Fuck yeah, I love mermaids.  

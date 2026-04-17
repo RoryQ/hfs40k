@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175131/http://holyfuckingshit4
 date: Tuesday, June 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/oneohtrix-point-never-returnal-2010.html
 title: Oneohtrix Point Never - Returnal (2010, FLAC)
+artist: Oneohtrix Point Never
+album: Returnal
+spotify_url: https://open.spotify.com/search/Oneohtrix%20Point%20Never%20Returnal
+apple_music_url: https://music.apple.com/us/search?term=Oneohtrix%20Point%20Never%20Returnal
+youtube_url: https://www.youtube.com/results?search_query=Oneohtrix%20Point%20Never%20Returnal
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175131im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBdgaUmpVhI/AAAAAAAAARg/YRuy3rzJhBM/s400/eMEGO104_c.jpg)](https://web.archive.org/web/20111010175131/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBdgaUmpVhI/AAAAAAAAARg/YRuy3rzJhBM/s1600/eMEGO104_c.jpg)  
   

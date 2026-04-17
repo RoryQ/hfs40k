@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164834/http://holyfuckingshit4
 date: Tuesday, March 3, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/our-broken-garden-when-your-blackening.html
 title: Our Broken Garden - When Your Blackening Shows (2008)
+artist: Our Broken Garden
+album: When Your Blackening Shows
+spotify_url: https://open.spotify.com/search/Our%20Broken%20Garden%20When%20Your%20Blackening%20Shows
+apple_music_url: https://geo.music.apple.com/au/album/_/1359212545?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Our%20Broken%20Garden%20When%20Your%20Blackening%20Shows
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164834im_/http://i40.tinypic.com/awcar7.jpg)](https://web.archive.org/web/20111010164834/http://i40.tinypic.com/awcar7.jpg)  
   

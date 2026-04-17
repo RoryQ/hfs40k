@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175743/http://holyfuckingshit4
 date: Sunday, September 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/david-sylvian-robert-fripp-damage.html
 title: David Sylvian & Robert Fripp - Damage (Reissue) [FLAC]
+artist: David Sylvian & Robert Fripp
+album: Damage
+spotify_url: https://open.spotify.com/search/David%20Sylvian%20%26%20Robert%20Fripp%20Damage
+apple_music_url: https://geo.music.apple.com/au/album/_/1478468831?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=David%20Sylvian%20%26%20Robert%20Fripp%20Damage
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175743im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TJa2Zat5pBI/AAAAAAAAALM/ez1T4Axus7c/s400/51wkDsDcq6L._SS400_.jpg)](https://web.archive.org/web/20111010175743/http://3.bp.blogspot.com/_mTQyK3r0bG0/TJa2Zat5pBI/AAAAAAAAALM/ez1T4Axus7c/s1600/51wkDsDcq6L._SS400_.jpg)  
 The early '90s found vocalist David Sylvian and guitarist Robert Fripp on the road together in a band that Fripp had wanted to call King Crimson, performing material that sounded quite a bit like King Crimson. After recording a studio record (the superb "The First Day"), the pair released this live album in limited edition. It was eventually reissued with a David Sylvian production credit and a slightly different track listing and track ordering (the original was produced by Fripp and then-frequent production partner David Bottrill). This is the reissue.  

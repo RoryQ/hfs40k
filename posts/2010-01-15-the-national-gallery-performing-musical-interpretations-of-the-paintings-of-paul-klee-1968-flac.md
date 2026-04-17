@@ -4,7 +4,15 @@ date: Friday, January 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/national-gallery-performing-musical.html
 title: The National Gallery - Performing Musical Interpretations of the Paintings
   of Paul Klee (1968) [FLAC]
+artist: The National Gallery
+album: Performing Musical Interpretations of the Paintings of Paul Klee
+spotify_url: https://open.spotify.com/search/The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
+apple_music_url: https://music.apple.com/us/search?term=The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
+youtube_url: https://www.youtube.com/results?search_query=The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123108im_/http://3.bp.blogspot.com/_5cVyPU93ihM/S1Ev7JHLnVI/AAAAAAAAAMg/760eZvQMzak/s400/cover.jpg)](https://web.archive.org/web/20111010123108/http://3.bp.blogspot.com/_5cVyPU93ihM/S1Ev7JHLnVI/AAAAAAAAAMg/760eZvQMzak/s1600-h/cover.jpg)As requested.  
   

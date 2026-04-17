@@ -4,7 +4,15 @@ date: Monday, August 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/bela-bartok-piano-concertos-nos-1-3.html
 title: "B\xE9la Bart\xF3k - Piano Concertos Nos. 1-3 (Ferenc Fricsay & the Radio-Symphonie-Orchester\
   \ Berlin with G\xE9za Anda) (FLAC)"
+artist: "B\xE9la Bart\xF3k"
+album: Piano Concertos Nos. 1-3
+spotify_url: https://open.spotify.com/search/B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
+apple_music_url: https://music.apple.com/us/search?term=B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
+youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010063221im_/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNJt7iK9aI/AAAAAAAAANI/sDYo_h5E3ps/s400/folder.jpg)](https://web.archive.org/web/20111010063221/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNJt7iK9aI/AAAAAAAAANI/sDYo_h5E3ps/s1600/folder.jpg)I can't be arsed to write up my own review of these beauties now that school has started and I have to divert my attention elsewhere, so here goes:
 

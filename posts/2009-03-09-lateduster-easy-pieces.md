@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164557/http://holyfuckingshit4
 date: Monday, March 9, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/lateduster-easy-pieces.html
 title: Lateduster - Easy Pieces
+artist: Lateduster
+album: Easy Pieces
+spotify_url: https://open.spotify.com/search/Lateduster%20Easy%20Pieces
+apple_music_url: https://music.apple.com/us/search?term=Lateduster%20Easy%20Pieces
+youtube_url: https://www.youtube.com/results?search_query=Lateduster%20Easy%20Pieces
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164557im_/http://i42.tinypic.com/2elxlar.jpg)](https://web.archive.org/web/20111010164557/http://i42.tinypic.com/2elxlar.jpg)  
 Jazzy post-rock. Highly recommended if you like Tortoise & Dosh.  

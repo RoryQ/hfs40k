@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045232/http://holyfuckingshit4
 date: Saturday, April 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/dom-sun-bronzed-greek-gods-2010-mp3-v2.html
 title: Dom - Sun Bronzed Greek Gods (2010) [mp3 v2]
+artist: Dom
+album: Sun Bronzed Greek Gods
+spotify_url: https://open.spotify.com/search/Dom%20Sun%20Bronzed%20Greek%20Gods
+apple_music_url: https://music.apple.com/us/search?term=Dom%20Sun%20Bronzed%20Greek%20Gods
+youtube_url: https://www.youtube.com/results?search_query=Dom%20Sun%20Bronzed%20Greek%20Gods
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045232im_/http://1.bp.blogspot.com/_OYyGYtJuluk/S8p4sSDngvI/AAAAAAAAAWI/nUzqwFP-NAQ/s320/sunbronzedgreekgods.png)](https://web.archive.org/web/20111010045232/http://1.bp.blogspot.com/_OYyGYtJuluk/S8p4sSDngvI/AAAAAAAAAWI/nUzqwFP-NAQ/s1600/sunbronzedgreekgods.png)
 > Twenty-two-year-old musician Dom is the leader of Worcester, Massachussets pop-rock trio [Dom](https://web.archive.org/web/20111010045232/http://pitchfork.com/artists/28774-dom/). Dom has a last name, but he will not reveal it because he owes "a lot of money." Which sounds sort of ridiculous. But Dom is ridiculous-- in the best way possible.

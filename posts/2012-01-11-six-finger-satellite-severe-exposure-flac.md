@@ -3,7 +3,16 @@ archived_url: https://web.archive.org/web/20120118185326/http://holyfuckingshit4
 date: Wednesday, January 11, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/six-finger-satellite-severe-exposure.html
 title: Six Finger Satellite - Severe Exposure [FLAC]
+artist: Six Finger Satellite
+album: Severe Exposure
+spotify_url: https://open.spotify.com/search/Six%20Finger%20Satellite%20Severe%20Exposure
+apple_music_url: https://geo.music.apple.com/au/album/_/1688600741?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Six%20Finger%20Satellite%20Severe%20Exposure
 ---
+
+
+
+
 
 [![](https://web.archive.org/web/20120118185326im_/http://2.bp.blogspot.com/--h5O8z06ZbM/Tw4AJ7pCWVI/AAAAAAAAAZQ/O1cX5ln4Idw/s400/51r6ntqlDML._SS500_.jpg)](https://web.archive.org/web/20120118185326/http://2.bp.blogspot.com/--h5O8z06ZbM/Tw4AJ7pCWVI/AAAAAAAAAZQ/O1cX5ln4Idw/s1600/51r6ntqlDML._SS500_.jpg)  
 Herky-jerky pandemonium rife with buzzing guitars and spooky, deliberately melodramatic synth and Moog lines, Severe Exposure is filled with tight, paranoid riffs that fulfills the deepest wish of anyone who ever wanted to find out what the unholy progeny of Big Black and Devo would sound like. Although there isn't much sonic variety -- and some of their attempts at humor are downright silly -- the Satellites command attention with their unrelenting musical intensity and singer J. Ryan's frantic, hell's-bursting-loose delivery. He whines, growls, screams, and rants like a man possessed, only occasionally getting lost in the mix. When he raves "there's trouble in the monkey house" on the gloriously demented noise-fest "Simian Fever," you'd think that he and the deadly apes are involved in some sort of maniacal ritual that'll bring about the end of mankind. John McLean handles his guitar like it's a weapon, a machine gun that spits out combative licks, dirty power chords, and raging feedback. He's no slouch with a keyboard, either, as evidenced by the frenetic new wave number "Rabies (Baby's Got The)," in which he puts down the axe and faces off with the Moog-wielding Ryan. None of it would work, however, if it wasn't for the expert rhythm section, tying it all together with no-nonsense grooves that can bash your brain to butter as easily as they can slink around your throat like a seductive serpent.  

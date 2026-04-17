@@ -4,7 +4,15 @@ date: Monday, April 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/andrew-jackson-jihad-people-who-can-eat.html
 title: Andrew Jackson Jihad - People Who Can Eat People Are the Luckiest People in
   the World (FLAC)
+artist: Andrew Jackson Jihad
+album: People Who Can Eat People Are the Luckiest People in the World
+spotify_url: https://open.spotify.com/search/Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
+apple_music_url: https://music.apple.com/us/search?term=Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
+youtube_url: https://www.youtube.com/results?search_query=Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045507im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yCynu4EbI/AAAAAAAAAd0/2leX5AJn1TA/s400/andrew-jackson-jihad-people.jpg)](https://web.archive.org/web/20111010045507/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yCynu4EbI/AAAAAAAAAd0/2leX5AJn1TA/s1600/andrew-jackson-jihad-people.jpg)  
 There are few words to describe things left in the English language. And I don't know any other languages, besides some Spanish. And I do not know if asking where the bathrooms are would really be a complimentary thing to say about this CD.  

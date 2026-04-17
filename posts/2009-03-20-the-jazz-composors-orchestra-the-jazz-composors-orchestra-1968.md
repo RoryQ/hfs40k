@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010163935/http://holyfuckingshit4
 date: Friday, March 20, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/jazz-composors-orchestra-jazz-composors.html
 title: The Jazz Composor's Orchestra - The Jazz Composor's Orchestra (1968)
+artist: The Jazz Composor's Orchestra
+album: The Jazz Composor's Orchestra
+spotify_url: https://open.spotify.com/search/The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+apple_music_url: https://music.apple.com/us/search?term=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+youtube_url: https://www.youtube.com/results?search_query=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010163935im_/http://4.bp.blogspot.com/_cLI19EXK2oU/ScRxYQUYORI/AAAAAAAAACA/arR_OCH5iLY/s400/2900767418_654619ff0a.jpg)](https://web.archive.org/web/20111010163935/http://4.bp.blogspot.com/_cLI19EXK2oU/ScRxYQUYORI/AAAAAAAAACA/arR_OCH5iLY/s1600-h/2900767418_654619ff0a.jpg)  
 "The sheer size of this ensemble is something to be reckoned with in and of itself: a jazz orchestra consisting of close to one bajillion musicians, I believe. And each and every one of these musicians has the knack for making the entirety of your soul flip a collective shit. It's a double album, yet it never gets boring. With flowing jazz melodies leading into great shows of emotion and sound flawlessly, you're seriously on the edge of your seat the whole time (unless you're lying on a bed, which in that case you'll be sitting there with your butt muscles tightly flexed).  

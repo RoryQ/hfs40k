@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20090629071201/http://holyfuckingshit4
 date: Thursday, June 11, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/talking-heads-remain-in-light-flac.html
 title: Talking Heads - Remain In Light (FLAC)
+artist: Talking Heads
+album: Remain In Light
+spotify_url: https://open.spotify.com/search/Talking%20Heads%20Remain%20In%20Light
+apple_music_url: https://music.apple.com/us/search?term=Talking%20Heads%20Remain%20In%20Light
+youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20Remain%20In%20Light
 ---
+
+
+
 
 [![](https://web.archive.org/web/20090629071201im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SjHToki_fRI/AAAAAAAAAJw/5RHb-btbazI/s400/remain_in_light.jpg)](https://web.archive.org/web/20090629071201/http://1.bp.blogspot.com/_cLI19EXK2oU/SjHToki_fRI/AAAAAAAAAJw/5RHb-btbazI/s1600-h/remain_in_light.jpg)  
 Remain in Light is perhaps the Talking Heads' best album. Technically it is flawless, and as far as music goes, Remain in Light unifies electronica, African rhythms, guitar riffs and Bryan Eno's signature minimalism to hypnotic effect. The music is captivating and melodic - great dance music, but also great careful-listening music - and David Byrne's halting, discordant voice and thoughtful lyrics transcend each song to a more intellectual and compelling level. Ultimately, Remain in Light is a piece of art as well as a piece of music - Byrne and Eno have carefully layered music, vocals and thoughtful lyrics to create perhaps one of the best albums of the eighties.

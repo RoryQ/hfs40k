@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112507/http://holyfuckingshit4
 date: Tuesday, October 12, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/johann-sebastian-bach-sonatas-partitas.html
 title: Johann Sebastian Bach - Sonatas & Partitas for Violin (Henryk Szeryng) (FLAC)
+artist: Johann Sebastian Bach
+album: Sonatas & Partitas for Violin
+spotify_url: https://open.spotify.com/search/Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
+apple_music_url: https://music.apple.com/us/search?term=Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
+youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112507im_/http://4.bp.blogspot.com/_nmjS6fd9kfU/TLRhzHRlbWI/AAAAAAAAAPg/Gw0Cm20p-q8/s400/folder.jpg)](https://web.archive.org/web/20111010112507/http://4.bp.blogspot.com/_nmjS6fd9kfU/TLRhzHRlbWI/AAAAAAAAAPg/Gw0Cm20p-q8/s1600/folder.jpg)"There are so many recordings of Bach; I choose this one by Szeryng.
 

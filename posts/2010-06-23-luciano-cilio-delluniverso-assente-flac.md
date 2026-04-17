@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173232/http://holyfuckingshit4
 date: Wednesday, June 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/luciano-cilio-delluniverso-assente-flac.html
 title: Luciano Cilio - Dell'Universo Assente (FLAC)
+artist: Luciano Cilio
+album: Dell'Universo Assente
+spotify_url: https://open.spotify.com/search/Luciano%20Cilio%20Dell%27Universo%20Assente
+apple_music_url: https://music.apple.com/us/search?term=Luciano%20Cilio%20Dell%27Universo%20Assente
+youtube_url: https://www.youtube.com/results?search_query=Luciano%20Cilio%20Dell%27Universo%20Assente
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173232im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCYflsR2zjI/AAAAAAAAASc/ZXI_7UCRM-g/s400/ciliocover.jpg)](https://web.archive.org/web/20111010173232/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCYflsR2zjI/AAAAAAAAASc/ZXI_7UCRM-g/s1600/ciliocover.jpg)  
   

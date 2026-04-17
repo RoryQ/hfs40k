@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045704/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/tegan-and-sara-con-flac.html
 title: Tegan and Sara - The Con (FLAC)
+artist: Tegan and Sara
+album: The Con
+spotify_url: https://open.spotify.com/search/Tegan%20and%20Sara%20The%20Con
+apple_music_url: https://music.apple.com/us/search?term=Tegan%20and%20Sara%20The%20Con
+youtube_url: https://www.youtube.com/results?search_query=Tegan%20and%20Sara%20The%20Con
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045704im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WofN_r6cI/AAAAAAAAAgU/AxjbzJda5S4/s400/The_Con.jpg)](https://web.archive.org/web/20111010045704/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WofN_r6cI/AAAAAAAAAgU/AxjbzJda5S4/s1600/The_Con.jpg)  
 How do you follow an album like "So Jealous," an album that not only helped solidify Tegan and Sara's place as one of the decade's most notable indie pop/rock acts, but also helped define their career? How do you follow the sheer, raw enjoyment that was found over every second of such a fantastic record? For the Quin sisters, the answer is "The Con," their newest and, in my opinion, best album.  

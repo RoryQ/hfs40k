@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004080009/http://holyfuckingshit4
 date: Sunday, September 18, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/wailers-catch-fire-24-bit96khz-vinyl.html
 title: The Wailers - Catch A Fire (24-bit/96khz Vinyl)
+artist: The Wailers
+album: Catch A Fire
+spotify_url: https://open.spotify.com/search/The%20Wailers%20Catch%20A%20Fire
+apple_music_url: https://music.apple.com/us/search?term=The%20Wailers%20Catch%20A%20Fire
+youtube_url: https://www.youtube.com/results?search_query=The%20Wailers%20Catch%20A%20Fire
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004080009im_/http://3.bp.blogspot.com/-gzidpPTynhE/TnZXYx5HvYI/AAAAAAAABFY/MascROY92x8/s400/The%2BWailers%2B-%2BCatch%2BA%2BFire%2B-%2BLabel_A.jpg)](https://web.archive.org/web/20111004080009/http://3.bp.blogspot.com/-gzidpPTynhE/TnZXYx5HvYI/AAAAAAAABFY/MascROY92x8/s1600/The%2BWailers%2B-%2BCatch%2BA%2BFire%2B-%2BLabel_A.jpg)  
 Universal Japan 200g LP (UIJY - 9044)  

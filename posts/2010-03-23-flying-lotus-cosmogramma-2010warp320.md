@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100327095058/http://holyfuckingshit4
 date: Tuesday, March 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/flying-lotus-cosmogramma-2010warp320.html
 title: Flying Lotus - Cosmogramma [2010/Warp/320]
+artist: Flying Lotus
+album: Cosmogramma
+spotify_url: https://open.spotify.com/search/Flying%20Lotus%20Cosmogramma
+apple_music_url: https://music.apple.com/us/search?term=Flying%20Lotus%20Cosmogramma
+youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmogramma
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100327095058im_/http://nutriot.com/files/2010/02/flying_lotus-cosmogramma.jpg)](https://web.archive.org/web/20100327095058/http://nutriot.com/files/2010/02/flying_lotus-cosmogramma.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010161856/http://holyfuckingshit4
 date: Wednesday, February 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/failure-magnified-flac.html
 title: Failure - Magnified (FLAC)
+artist: Failure
+album: Magnified
+spotify_url: https://open.spotify.com/search/Failure%20Magnified
+apple_music_url: https://geo.music.apple.com/au/album/_/1324361652?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Failure%20Magnified
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010161856im_/http://4.bp.blogspot.com/_fgQJ6Z331aA/S2ox5oxBgyI/AAAAAAAAAIQ/nM-tdY6CDgg/s320/7437.jpg)](https://web.archive.org/web/20111010161856/http://4.bp.blogspot.com/_fgQJ6Z331aA/S2ox5oxBgyI/AAAAAAAAAIQ/nM-tdY6CDgg/s1600-h/7437.jpg)Alternative rock/Post-grunge. One of the very few good albums in it's genre. I'll have Fantastic Planet up in FLAC as well tomorrow.  
   

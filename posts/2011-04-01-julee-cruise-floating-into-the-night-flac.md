@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145901/http://holyfuckingshit4
 date: Friday, April 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/julee-cruise-floating-into-night.html
 title: Julee Cruise - Floating Into the Night (FLAC)
+artist: Julee Cruise
+album: Floating Into the Night
+spotify_url: https://open.spotify.com/search/Julee%20Cruise%20Floating%20Into%20the%20Night
+apple_music_url: https://geo.music.apple.com/au/album/_/300947363?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Julee%20Cruise%20Floating%20Into%20the%20Night
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145901im_/http://www.vinylsearcher.com/largeImages/1470696.jpg)](https://web.archive.org/web/20111010145901/http://www.vinylsearcher.com/largeImages/1470696.jpg)
 

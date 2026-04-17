@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083057/http://holyfuckingshit4
 date: Tuesday, March 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/faithless-reverence-flac.html
 title: Faithless - Reverence FLAC
+artist: Faithless
+album: Reverence FLAC
+spotify_url: https://open.spotify.com/search/Faithless%20Reverence%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Faithless%20Reverence%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Faithless%20Reverence%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083057im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S5YR_6iaGVI/AAAAAAAAACA/bhzdE9d-0XI/s400/ccbc885312c9dc46ec55fc50e24059c5.jpg)](https://web.archive.org/web/20111010083057/http://2.bp.blogspot.com/_t6lWjgwMoxw/S5YR_6iaGVI/AAAAAAAAACA/bhzdE9d-0XI/s1600-h/ccbc885312c9dc46ec55fc50e24059c5.jpg)  
   

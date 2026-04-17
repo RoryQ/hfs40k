@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112257/http://holyfuckingshit4
 date: Friday, October 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/actress-splazsh-2010-flac.html
 title: Actress - Splazsh (2010, FLAC)
+artist: Actress
+album: Splazsh
+spotify_url: https://open.spotify.com/search/Actress%20Splazsh
+apple_music_url: https://music.apple.com/us/search?term=Actress%20Splazsh
+youtube_url: https://www.youtube.com/results?search_query=Actress%20Splazsh
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112257im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/TMGkQhg36wI/AAAAAAAAAb4/T_X-4SPUOF4/s400/480.jpg)](https://web.archive.org/web/20111010112257/http://1.bp.blogspot.com/_t6lWjgwMoxw/TMGkQhg36wI/AAAAAAAAAb4/T_X-4SPUOF4/s1600/480.jpg)  
   

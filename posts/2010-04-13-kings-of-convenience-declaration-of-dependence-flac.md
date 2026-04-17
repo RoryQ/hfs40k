@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100421013424/http://holyfuckingshit4
 date: Tuesday, April 13, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/kings-of-convenience-declaration-of.html
 title: Kings Of Convenience - Declaration Of Dependence [FLAC]
+artist: Kings Of Convenience
+album: Declaration Of Dependence
+spotify_url: https://open.spotify.com/search/Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
+apple_music_url: https://music.apple.com/us/search?term=Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
+youtube_url: https://www.youtube.com/results?search_query=Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100421013424im_/http://4.bp.blogspot.com/_ZGBCgBK9ack/S8R06r1XW2I/AAAAAAAAAEQ/LPakESFmtOo/s400/Declaration+Of+Dependence_front.jpg)](https://web.archive.org/web/20100421013424/http://4.bp.blogspot.com/_ZGBCgBK9ack/S8R06r1XW2I/AAAAAAAAAEQ/LPakESFmtOo/s1600/Declaration+Of+Dependence_front.jpg)  
   

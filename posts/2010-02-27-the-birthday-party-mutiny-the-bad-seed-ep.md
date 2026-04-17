@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155941/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/birthday-party-mutiny-bad-seed-ep.html
 title: The Birthday Party - Mutiny / The Bad Seed EP
+artist: The Birthday Party
+album: Mutiny / The Bad Seed EP
+spotify_url: https://open.spotify.com/search/The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
+apple_music_url: https://music.apple.com/us/search?term=The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
+youtube_url: https://www.youtube.com/results?search_query=The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155941im_/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4nNk1haiQI/AAAAAAAAAX8/YajIaUW7H_g/s400/mutiny.jpg)](https://web.archive.org/web/20111010155941/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4nNk1haiQI/AAAAAAAAAX8/YajIaUW7H_g/s1600-h/mutiny.jpg)
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111532/http://holyfuckingshit4
 date: Wednesday, March 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/natural-snow-buildings-waves-of-random.html
 title: Natural Snow Buildings - Waves of the Random Sea [FLAC]
+artist: Natural Snow Buildings
+album: Waves of the Random Sea
+spotify_url: https://open.spotify.com/search/Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
+apple_music_url: https://music.apple.com/us/search?term=Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
+youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111532im_/http://1.bp.blogspot.com/-Nk3sT1uSrtA/TW7v5xR9ZII/AAAAAAAAAO8/gHGBASbnLMM/s400/o3103596.jpg.png)](https://web.archive.org/web/20111010111532/http://1.bp.blogspot.com/-Nk3sT1uSrtA/TW7v5xR9ZII/AAAAAAAAAO8/gHGBASbnLMM/s1600/o3103596.jpg.png)  
 There is a certain beauty in nothingness. Given the cluttered lives that we all lead, with our eyes locked into some form of electrical stimulus for the entirety of our day to day activities, and even then our leisure is normally spent in front of a television or at a movie, watching people act out entirely arbitrary events for a chuckle or the hint of a tear, it's hard to find moments where we are truly enveloped by natural sounds. Here's where Natural Snow Buildings come in. Their newest album in their ridiculously expansive catalog channels the sounds and emotions of the serene calm that comes from those rare moments of escape. Waves of the Random Sea floats peacefully, ever aware that our hectic schedules could intrude on the tranquility of it all, so it makes every second shine in a resplendent glow. It makes it that much easier to tune out all the pent up stress of modern living and take in the here and now, breathing it in and pushing it out in time with the pensive drone.  

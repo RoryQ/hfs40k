@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173240/http://holyfuckingshit4
 date: Monday, June 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/patty-waters-sings-1965-flac.html
 title: Patty Waters - Sings (1965, FLAC)
+artist: Patty Waters
+album: Sings
+spotify_url: https://open.spotify.com/search/Patty%20Waters%20Sings
+apple_music_url: https://music.apple.com/us/search?term=Patty%20Waters%20Sings
+youtube_url: https://www.youtube.com/results?search_query=Patty%20Waters%20Sings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173240im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/TCiUzOBn-7I/AAAAAAAAAS0/oVGKi5GNHU4/s400/R-1137340-1239142745.jpeg)](https://web.archive.org/web/20111010173240/http://2.bp.blogspot.com/_t6lWjgwMoxw/TCiUzOBn-7I/AAAAAAAAAS0/oVGKi5GNHU4/s1600/R-1137340-1239142745.jpeg)  
   

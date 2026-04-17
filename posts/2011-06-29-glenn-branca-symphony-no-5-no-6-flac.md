@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008165534/http://holyfuckingshit4
 date: Wednesday, June 29, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/glenn-branca-symphony-no-5-symphony-no.html
 title: Glenn Branca - Symphony No. 5 & No. 6  (FLAC)
+artist: Glenn Branca
+album: Symphony No. 5 & No. 6
+spotify_url: https://open.spotify.com/search/Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
+apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
+youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008165534im_/http://4.bp.blogspot.com/-u1zV1MmS1f8/TgtvAh7YNNI/AAAAAAAAA-4/ZX6BAEwshcg/s400/82e335b61c95e78e19a13f49062.jpg)](https://web.archive.org/web/20111008165534/http://4.bp.blogspot.com/-u1zV1MmS1f8/TgtvAh7YNNI/AAAAAAAAA-4/ZX6BAEwshcg/s1600/82e335b61c95e78e19a13f49062.jpg)  
 [![](https://web.archive.org/web/20111008165534im_/http://3.bp.blogspot.com/-TSQKomJpkt8/TgtuVAgpBUI/AAAAAAAAA-w/nAdHjqZjeuQ/s400/glenn.jpg)](https://web.archive.org/web/20111008165534/http://3.bp.blogspot.com/-TSQKomJpkt8/TgtuVAgpBUI/AAAAAAAAA-w/nAdHjqZjeuQ/s1600/glenn.jpg)  

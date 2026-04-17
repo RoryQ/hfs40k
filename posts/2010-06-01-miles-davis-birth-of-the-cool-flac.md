@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175209/http://holyfuckingshit4
 date: Tuesday, June 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/miles-davis-birth-of-cool-flac.html
 title: Miles Davis - Birth of the Cool (FLAC)
+artist: Miles Davis
+album: Birth of the Cool
+spotify_url: https://open.spotify.com/search/Miles%20Davis%20Birth%20of%20the%20Cool
+apple_music_url: https://geo.music.apple.com/au/album/_/1440951879?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Birth%20of%20the%20Cool
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175209im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TAV4Hcp1UnI/AAAAAAAAArk/TaQ-CDFDTv0/s400/img27833622.jpg)](https://web.archive.org/web/20111010175209/http://2.bp.blogspot.com/_cLI19EXK2oU/TAV4Hcp1UnI/AAAAAAAAArk/TaQ-CDFDTv0/s1600/img27833622.jpg)  
 In his professional life, Miles Davis was an agent of change and a permanent self critic. Also, he would always surround himself of the best possible musicians (he said, "I'm hiring a [musician] to play, not for what color he is") to help in materializing his musical vision. Leaving behind the enviable position of musical director of Charlie Parker's group, Miles assembled a nonet (several of its members coming from the ranks of Claude Thornhill's Orchestra), Gerry Mulligan and John Lewis among them, and with their help gave birth to the new sound in jazz at the time: the Cool, an attempt to sound like a big band with a significantly smaller ensemble (a nonet, in this case), by means of a collective writing approach.

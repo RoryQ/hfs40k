@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160205/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/yo-la-tengo-summer-sun-flac.html
 title: Yo La Tengo - Summer Sun (FLAC)
+artist: Yo La Tengo
+album: Summer Sun
+spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20Summer%20Sun
+apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20Summer%20Sun
+youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20Summer%20Sun
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160205im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S4lrQIN-nVI/AAAAAAAAAYY/Rw96Ea1XDKg/s400/album-summer-sun.jpg)](https://web.archive.org/web/20111010160205/http://2.bp.blogspot.com/_cLI19EXK2oU/S4lrQIN-nVI/AAAAAAAAAYY/Rw96Ea1XDKg/s1600-h/album-summer-sun.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112407/http://holyfuckingshit4
 date: Tuesday, October 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/actress-hazyville-2008-flac.html
 title: Actress - Hazyville (2008. FLAC)
+artist: Actress
+album: Hazyville
+spotify_url: https://open.spotify.com/search/Actress%20Hazyville
+apple_music_url: https://music.apple.com/us/search?term=Actress%20Hazyville
+youtube_url: https://www.youtube.com/results?search_query=Actress%20Hazyville
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112407im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TMaA8Z3d8XI/AAAAAAAAAcQ/FdMUCSvpZiQ/s400/actress-hazyville.jpg)](https://web.archive.org/web/20111010112407/http://3.bp.blogspot.com/_t6lWjgwMoxw/TMaA8Z3d8XI/AAAAAAAAAcQ/FdMUCSvpZiQ/s1600/actress-hazyville.jpg)  
   

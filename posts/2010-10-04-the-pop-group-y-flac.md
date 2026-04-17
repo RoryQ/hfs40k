@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112441/http://holyfuckingshit4
 date: Monday, October 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/pop-group-y-flac.html
 title: The Pop Group - Y [FLAC]
+artist: The Pop Group
+album: Y
+spotify_url: https://open.spotify.com/search/The%20Pop%20Group%20Y
+apple_music_url: https://music.apple.com/us/search?term=The%20Pop%20Group%20Y
+youtube_url: https://www.youtube.com/results?search_query=The%20Pop%20Group%20Y
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112441im_/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKqhH5AtszI/AAAAAAAAALk/QCYuCDLmBa0/s400/o17237.jpg)](https://web.archive.org/web/20111010112441/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKqhH5AtszI/AAAAAAAAALk/QCYuCDLmBa0/s1600/o17237.jpg)  
 That line - the title of one of the songs on this album - perfectly describes my dilemma in attempting to write a review of this recording. I can think of few albums that have picked me up, shaken me, thrown me against the wall and opened my heart and mind as beautifully and powerfully as this one. I only wish that the other albums by this band were available on cd - especially their incredible FOR HOW MUCH LONGER DO WE TOLERATE MASS MURDER. Combining elements of rock, punk, funk, free jazz and downright mind-blowing experimentation in a way that can only be described as courageous, The Pop Group burst onto the UK music scene with this, their first release, in 1979 - and my mind, for one, hasn't been the same since.  

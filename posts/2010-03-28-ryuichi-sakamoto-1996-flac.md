@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081637/http://holyfuckingshit4
 date: Sunday, March 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/ryuichi-sakamoto-1996-flac.html
 title: Ryuichi Sakamoto - 1996 FLAC
+artist: Ryuichi Sakamoto
+album: 1996 FLAC
+spotify_url: https://open.spotify.com/search/Ryuichi%20Sakamoto%201996%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Ryuichi%20Sakamoto%201996%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Ryuichi%20Sakamoto%201996%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081637im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68bVU1Va6I/AAAAAAAAAHM/yoPTW0U2q6U/s400/1996ss6.jpg)](https://web.archive.org/web/20111010081637/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68bVU1Va6I/AAAAAAAAAHM/yoPTW0U2q6U/s1600/1996ss6.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145541/http://holyfuckingshit4
 date: Wednesday, August 26, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/bloody-panda-summon-2009.html
 title: Bloody Panda - Summon (2009)
+artist: Bloody Panda
+album: Summon
+spotify_url: https://open.spotify.com/search/Bloody%20Panda%20Summon
+apple_music_url: https://geo.music.apple.com/au/album/_/324851360?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Bloody%20Panda%20Summon
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145541im_/http://3.bp.blogspot.com/_z8rLjrFVzbo/SpUZE1aYLlI/AAAAAAAAAI0/0hSbzxp-Ruo/s400/o2347536.jpg)](https://web.archive.org/web/20111010145541/http://3.bp.blogspot.com/_z8rLjrFVzbo/SpUZE1aYLlI/AAAAAAAAAI0/0hSbzxp-Ruo/s1600-h/o2347536.jpg)  
 "Fronted by Japanese siren and accomplished visual artist Yoshiko Ohara, whose death defying wails have at once drawn comparison to Diamanda Galas, Björk and Jarboe, Bloody Panda creates unique, affecting heavy music that combines visceral power, pained beauty and devastating emotion. Since its formation in 2005, Bloody Panda has skillfully combined the brutal with the entrancing, generating buzz with the UG metal sect and the indie set alike, each drawn to the band's super-strength songs, funeral doom arrangements and the sight and sound of a petite woman chanting and screaming in both English and Japanese alongside four imposing musicians sporting executioner's masks.  

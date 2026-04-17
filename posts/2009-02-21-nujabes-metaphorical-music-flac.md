@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203181322/http://holyfuckingshit4
 date: Saturday, February 21, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/nujabes-metaphorical-music-flac.html
 title: Nujabes - Metaphorical Music (FLAC)
+artist: Nujabes
+album: Metaphorical Music
+spotify_url: https://open.spotify.com/search/Nujabes%20Metaphorical%20Music
+apple_music_url: https://music.apple.com/us/search?term=Nujabes%20Metaphorical%20Music
+youtube_url: https://www.youtube.com/results?search_query=Nujabes%20Metaphorical%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203181322im_/http://i40.tinypic.com/1r3m9k.jpg)](https://web.archive.org/web/20101203181322/http://i40.tinypic.com/1r3m9k.jpg)  
 Thanks to NeverSHARE  

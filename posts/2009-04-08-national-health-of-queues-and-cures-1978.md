@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010130621/http://holyfuckingshit4
 date: Wednesday, April 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/national-health-of-queues-and-cures.html
 title: National Health - Of Queues and Cures (1978)
+artist: National Health
+album: Of Queues and Cures
+spotify_url: https://open.spotify.com/search/National%20Health%20Of%20Queues%20and%20Cures
+apple_music_url: https://geo.music.apple.com/au/album/_/1463050450?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=National%20Health%20Of%20Queues%20and%20Cures
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010130621im_/http://1.bp.blogspot.com/_5cVyPU93ihM/Sd0cE1VeHGI/AAAAAAAAAC4/71ldvA5vdDk/s320/Of+Queues+and+Cures.jpg)](https://web.archive.org/web/20111010130621/http://1.bp.blogspot.com/_5cVyPU93ihM/Sd0cE1VeHGI/AAAAAAAAAC4/71ldvA5vdDk/s1600-h/Of+Queues+and+Cures.jpg)Fuck yeah, I love free healthcare.  
   

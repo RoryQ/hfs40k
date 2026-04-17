@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081407/http://holyfuckingshit4
 date: Saturday, March 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/tom-waits-franks-wild-years-flac.html
 title: Tom Waits - Franks Wild Years (FLAC)
+artist: Tom Waits
+album: Franks Wild Years
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Franks%20Wild%20Years
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Franks%20Wild%20Years
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Franks%20Wild%20Years
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081407im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KRtLYyDJI/AAAAAAAAAaY/xO1-Xd5Blrw/s400/album-franks-wild-years.jpg)](https://web.archive.org/web/20111010081407/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KRtLYyDJI/AAAAAAAAAaY/xO1-Xd5Blrw/s1600-h/album-franks-wild-years.jpg)  
 

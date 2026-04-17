@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010131014/http://holyfuckingshit4
 date: Saturday, April 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/animal-collective-sung-tongs-flac.html
 title: Animal Collective - Sung Tongs (FLAC)
+artist: Animal Collective
+album: Sung Tongs
+spotify_url: https://open.spotify.com/search/Animal%20Collective%20Sung%20Tongs
+apple_music_url: https://geo.music.apple.com/au/album/_/1484067224?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Sung%20Tongs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010131014im_/http://i43.tinypic.com/ruo85k.jpg)](https://web.archive.org/web/20111010131014/http://i43.tinypic.com/ruo85k.jpg)  
 "I don't do drugs, and I probably never will. But my enjoyment of music can be directly correlated to the amount of drugs consumed by the band I'm listening to. In the case of Animal Collective's Sung Tongs, I can only assume that that's quite a fucking lot."  

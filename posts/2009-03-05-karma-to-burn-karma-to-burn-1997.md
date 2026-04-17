@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164521/http://holyfuckingshit4
 date: Thursday, March 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/karma-to-burn-karma-to-burn-1997.html
 title: Karma to Burn - Karma to Burn (1997)
+artist: Karma to Burn
+album: Karma to Burn
+spotify_url: https://open.spotify.com/search/Karma%20to%20Burn%20Karma%20to%20Burn
+apple_music_url: https://music.apple.com/us/search?term=Karma%20to%20Burn%20Karma%20to%20Burn
+youtube_url: https://www.youtube.com/results?search_query=Karma%20to%20Burn%20Karma%20to%20Burn
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164521im_/http://i39.tinypic.com/m7ddt2.jpg)](https://web.archive.org/web/20111010164521/http://i39.tinypic.com/m7ddt2.jpg)  
 3D pig disgusting etc.  

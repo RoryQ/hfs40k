@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010034757/http://holyfuckingshit4
 date: Friday, December 26, 2008
 original_url: http://holyfuckingshit40000.blogspot.com/2008/12/infidel-castro-bioentropic-damage.html
 title: Infidel? / Castro! - Bioentropic Damage Fractal (2005)
+artist: Infidel? / Castro!
+album: Bioentropic Damage Fractal
+spotify_url: https://open.spotify.com/search/Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
+apple_music_url: https://music.apple.com/us/search?term=Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
+youtube_url: https://www.youtube.com/results?search_query=Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010034757im_/http://i40.tinypic.com/2z71y8n.jpg)](https://web.archive.org/web/20111010034757/http://i40.tinypic.com/2z71y8n.jpg)  
 Genre: Experimental  

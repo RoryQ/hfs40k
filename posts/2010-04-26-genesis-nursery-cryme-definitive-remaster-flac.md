@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045617/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/genesis-nursery-cryme-definitive.html
 title: Genesis - Nursery Cryme  (Definitive Remaster FLAC)
+artist: Genesis
+album: Nursery Cryme
+spotify_url: https://open.spotify.com/search/Genesis%20Nursery%20Cryme
+apple_music_url: https://music.apple.com/us/search?term=Genesis%20Nursery%20Cryme
+youtube_url: https://www.youtube.com/results?search_query=Genesis%20Nursery%20Cryme
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045617im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S9Wmz20UByI/AAAAAAAAAgE/7jWo49PgoME/s400/03nursery.jpg)](https://web.archive.org/web/20111010045617/http://3.bp.blogspot.com/_cLI19EXK2oU/S9Wmz20UByI/AAAAAAAAAgE/7jWo49PgoME/s1600/03nursery.jpg)  
 Released in 1971, this is the first album with the "classic" Genesis lineup and the first to feature the distinctive ensemble sound that would characterize their work up to late 1976.   

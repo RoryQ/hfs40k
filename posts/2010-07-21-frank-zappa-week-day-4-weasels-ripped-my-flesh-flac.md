@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111218142933/http://holyfuckingshit4
 date: Wednesday, July 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-zappa-week-day-4-weasels-ripped.html
 title: 'Frank Zappa Week - Day #4 Weasels Ripped My Flesh (FLAC)'
+artist: Frank Zappa Week
+album: 'Day #4 Weasels Ripped My Flesh'
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%234%20Weasels%20Ripped%20My%20Flesh
+apple_music_url: https://geo.music.apple.com/au/album/_/1442853944?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%234%20Weasels%20Ripped%20My%20Flesh
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111218142933im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TEboByBneII/AAAAAAAAAvc/U33Y134BfDs/s400/mothers_of_invention_weasel.jpg)](https://web.archive.org/web/20111218142933/http://3.bp.blogspot.com/_cLI19EXK2oU/TEboByBneII/AAAAAAAAAvc/U33Y134BfDs/s1600/mothers_of_invention_weasel.jpg)  
 \_Weasels Ripped My Flesh\_ is a Frank Zappa & The Mothers Of Invention disc that combines both live and studio material recorded between 1967-1969. This material I believe is not found on their studio albums that came before this one. The combination of loose jazz improvisation, relentless experimentation and musical adventurousness will irritate and baffle many listeners who are accustomed to easy pop/rock or the like. However, amongst all the chaos, there are a few tracks that can be considered accessible. These tracks would be:   

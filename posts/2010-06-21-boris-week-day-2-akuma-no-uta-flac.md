@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173425/http://holyfuckingshit4
 date: Monday, June 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/boris-week-day-2-akuma-no-uta-flac.html
 title: 'Boris Week - Day #2 Akuma no Uta (FLAC)'
+artist: Boris Week
+album: 'Day #2 Akuma no Uta'
+spotify_url: https://open.spotify.com/search/Boris%20Week%20Day%20%232%20Akuma%20no%20Uta
+apple_music_url: https://geo.music.apple.com/au/album/_/1854900347?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Boris%20Week%20Day%20%232%20Akuma%20no%20Uta
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173425im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TB7uh26HxnI/AAAAAAAAAuc/mWexAqRgPKU/s400/51GbCyH9cpL._SS500_.jpg)](https://web.archive.org/web/20111010173425/http://3.bp.blogspot.com/_cLI19EXK2oU/TB7uh26HxnI/AAAAAAAAAuc/mWexAqRgPKU/s1600/51GbCyH9cpL._SS500_.jpg)  
   

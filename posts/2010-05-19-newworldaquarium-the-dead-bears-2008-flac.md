@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100012/http://holyfuckingshit4
 date: Wednesday, May 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/newworldaquarium-dead-bears-2008-flac.html
 title: Newworldaquarium - The Dead Bears (2008, FLAC)
+artist: Newworldaquarium
+album: The Dead Bears
+spotify_url: https://open.spotify.com/search/Newworldaquarium%20The%20Dead%20Bears
+apple_music_url: https://music.apple.com/us/search?term=Newworldaquarium%20The%20Dead%20Bears
+youtube_url: https://www.youtube.com/results?search_query=Newworldaquarium%20The%20Dead%20Bears
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100012im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_OsJbETPjI/AAAAAAAAAOw/kvkzPQ6u5Mc/s400/14aj7a0.jpg)](https://web.archive.org/web/20111010100012/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_OsJbETPjI/AAAAAAAAAOw/kvkzPQ6u5Mc/s1600/14aj7a0.jpg)  
   

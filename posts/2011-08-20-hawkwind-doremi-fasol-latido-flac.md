@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010032933/http://holyfuckingshit4
 date: Saturday, August 20, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/hawkwind-doremi-fasol-latido-flac.html
 title: Hawkwind - Doremi Fasol Latido (FLAC)
+artist: Hawkwind
+album: Doremi Fasol Latido
+spotify_url: https://open.spotify.com/search/Hawkwind%20Doremi%20Fasol%20Latido
+apple_music_url: https://music.apple.com/us/search?term=Hawkwind%20Doremi%20Fasol%20Latido
+youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20Doremi%20Fasol%20Latido
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010032933im_/http://4.bp.blogspot.com/-V43mylbwf_Q/TlBMIsTbctI/AAAAAAAABCA/wbc7Qbp573g/s400/6uq0nd4.jpg)](https://web.archive.org/web/20111010032933/http://4.bp.blogspot.com/-V43mylbwf_Q/TlBMIsTbctI/AAAAAAAABCA/wbc7Qbp573g/s1600/6uq0nd4.jpg)
   

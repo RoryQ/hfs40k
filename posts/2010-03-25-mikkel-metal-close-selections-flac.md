@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083128/http://holyfuckingshit4
 date: Thursday, March 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/mikkel-metal-close-selections-flac.html
 title: Mikkel Metal - Close Selections FLAC
+artist: Mikkel Metal
+album: Close Selections FLAC
+spotify_url: https://open.spotify.com/search/Mikkel%20Metal%20Close%20Selections%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Mikkel%20Metal%20Close%20Selections%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Mikkel%20Metal%20Close%20Selections%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083128im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s400/x.jpg)](https://web.archive.org/web/20111010083128/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s1600/x.jpg)  
   

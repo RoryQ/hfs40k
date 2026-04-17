@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145750/http://holyfuckingshit4
 date: Monday, April 11, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/jg-thirlwell-venture-bros-score-volume.html
 title: JG Thirlwell - The Venture Bros Score (Volume 1) [FLAC]
+artist: JG Thirlwell
+album: The Venture Bros Score
+spotify_url: https://open.spotify.com/search/JG%20Thirlwell%20The%20Venture%20Bros%20Score
+apple_music_url: https://geo.music.apple.com/au/album/_/307784426?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=JG%20Thirlwell%20The%20Venture%20Bros%20Score
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145750im_/http://3.bp.blogspot.com/-rrpoe-lYIfA/TaKvaldk73I/AAAAAAAAAI4/Vad_kbJPaC4/s400/Cover.jpg)](https://web.archive.org/web/20111010145750/http://3.bp.blogspot.com/-rrpoe-lYIfA/TaKvaldk73I/AAAAAAAAAI4/Vad_kbJPaC4/s1600/Cover.jpg)Officially this is named *The Venture Bros.: The Music of JG Thirlwell*. It is the 1st of an undeclared amount of volumes. It's a lot like his work with Foetus. Obviously you'll recognize a lot of this music if you're a fan of The Venture Bros.
 

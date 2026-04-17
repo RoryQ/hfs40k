@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111024052217/http://holyfuckingshit4
 date: Friday, September 30, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/monolake-momentum-2003-flac.html
 title: Monolake - Momentum (2003, FLAC)
+artist: Monolake
+album: Momentum
+spotify_url: https://open.spotify.com/search/Monolake%20Momentum
+apple_music_url: https://music.apple.com/us/search?term=Monolake%20Momentum
+youtube_url: https://www.youtube.com/results?search_query=Monolake%20Momentum
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111024052217im_/http://3.bp.blogspot.com/-9th7CIacYy4/ToW8rC5g86I/AAAAAAAAAEg/OAo9LwCcnhw/s400/momentum.png)](https://web.archive.org/web/20111024052217/http://3.bp.blogspot.com/-9th7CIacYy4/ToW8rC5g86I/AAAAAAAAAEg/OAo9LwCcnhw/s1600/momentum.png)
 

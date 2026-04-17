@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053635/http://holyfuckingshit4
 date: Friday, July 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/ravi-shankar-chants-of-india-flac.html
 title: Ravi Shankar - Chants of India [FLAC]
+artist: Ravi Shankar
+album: Chants of India
+spotify_url: https://open.spotify.com/search/Ravi%20Shankar%20Chants%20of%20India
+apple_music_url: https://music.apple.com/us/search?term=Ravi%20Shankar%20Chants%20of%20India
+youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20Chants%20of%20India
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053635im_/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEE2sM4PgaI/AAAAAAAAAJY/O7FxIx1DrrA/s400/o49701.jpg)](https://web.archive.org/web/20111010053635/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEE2sM4PgaI/AAAAAAAAAJY/O7FxIx1DrrA/s1600/o49701.jpg)  
 On CHANTS OF INDIA, Ravi Shankar's music mixes both Western and Eastern styles to evoke the beauty of the collective human experience. We hear an Indian chorus of singers and a western chorus of singers working in synergy, and stringed instruments (violins, cellos, etc.) mixed in with Indian instruments such as the sitar, tanpura, and others.  

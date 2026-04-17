@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155403/http://holyfuckingshit4
 date: Thursday, May 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/venetian-snares-hospitality-2006-flac.html
 title: Venetian Snares - Hospitality (2006) [FLAC]
+artist: Venetian Snares
+album: Hospitality
+spotify_url: https://open.spotify.com/search/Venetian%20Snares%20Hospitality
+apple_music_url: https://music.apple.com/us/search?term=Venetian%20Snares%20Hospitality
+youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Hospitality
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155403im_/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1gYaeckII/AAAAAAAAAPk/kBSo2vLWhVk/s320/hospitality.png)](https://web.archive.org/web/20111008155403/http://1.bp.blogspot.com/_OYyGYtJuluk/Sk1gYaeckII/AAAAAAAAAPk/kBSo2vLWhVk/s1600-h/hospitality.png)
 

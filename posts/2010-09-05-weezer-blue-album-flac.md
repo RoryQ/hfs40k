@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175413/http://holyfuckingshit4
 date: Sunday, September 5, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/weezer-blue-album-flac.html
 title: Weezer - Blue Album (FLAC)
+artist: Weezer
+album: Blue Album
+spotify_url: https://open.spotify.com/search/Weezer%20Blue%20Album
+apple_music_url: https://geo.music.apple.com/au/album/_/1440869641?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Weezer%20Blue%20Album
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175413im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TIRORFOfuSI/AAAAAAAAA0E/a70GC_vQu4Y/s400/Weezer+-+Blue+Album.jpg)](https://web.archive.org/web/20111010175413/http://2.bp.blogspot.com/_cLI19EXK2oU/TIRORFOfuSI/AAAAAAAAA0E/a70GC_vQu4Y/s1600/Weezer+-+Blue+Album.jpg)  
 I really don't think Weezer ever made a more consistent, more infectious, or more charming album than this one; their debut. It's got it all: loud, heavy, swirling, electrified guitars which create a lush wall-of-sound, infectious sing-a-long melodies which are as sweet as candy, charming & quirky lyrics.  

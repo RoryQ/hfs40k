@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145921/http://holyfuckingshit4
 date: Saturday, April 9, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/johann-johannsson-ibm-1401-users-manual.html
 title: "J\xF3hann J\xF3hannsson - IBM 1401 A User's Manual (FLAC)"
+artist: "J\xF3hann J\xF3hannsson"
+album: IBM 1401 A User's Manual
+spotify_url: https://open.spotify.com/search/J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
+apple_music_url: https://music.apple.com/us/search?term=J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
+youtube_url: https://www.youtube.com/results?search_query=J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145921im_/http://1.bp.blogspot.com/-VNoSJoA72Xw/TaCEUYDt69I/AAAAAAAAA8E/btZLTQ9ZASM/s400/2d8l3ps.jpg)](https://web.archive.org/web/20111010145921/http://1.bp.blogspot.com/-VNoSJoA72Xw/TaCEUYDt69I/AAAAAAAAA8E/btZLTQ9ZASM/s1600/2d8l3ps.jpg)  
 The story behind the release is interesting, and definitely worth retelling, as Jóhannsson's father worked for IBM in Iceland roughly 40 years back when they got their first 1401 Data Processing System. Also a musician, his father managed to program the machine so that it emitted electromagnetic waves in patterns that could be picked up by radio receivers. When the machine was put out of commission and replaced roughly five years later, his dad gave it a little ceremony that included playing some of the music he'd written for it.  

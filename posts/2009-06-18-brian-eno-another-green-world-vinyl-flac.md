@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20090628025949/http://holyfuckingshit4
 date: Thursday, June 18, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/brian-eno-another-green-world-vinyl.html
 title: Brian Eno - Another Green World (Vinyl FLAC)
+artist: Brian Eno
+album: Another Green World
+spotify_url: https://open.spotify.com/search/Brian%20Eno%20Another%20Green%20World
+apple_music_url: https://geo.music.apple.com/au/album/_/724357753?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%20Green%20World
 ---
+
+
+
 
 [![](https://web.archive.org/web/20090628025949im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SjrDg2hAVfI/AAAAAAAAALA/N18_fQxSc6M/s400/another_green_world.jpg)](https://web.archive.org/web/20090628025949/http://4.bp.blogspot.com/_cLI19EXK2oU/SjrDg2hAVfI/AAAAAAAAALA/N18_fQxSc6M/s1600-h/another_green_world.jpg)  
 In an interview ten years after the release of his acknowledged 1975 masterpiece ANOTHER GREEN WORLD, Brian Eno said, "I want the music to be as much as possible a continuous condition of the environment...in the same way as a painting is." This goes a long way toward explaining Eno's approach to music, where tone and texture take precedence over lyrics and melody. These are not so much songs as they are ambient sound paintings. Even on songs like "I'll Come Running", which seems to follow a conventional song structure, there is an ethereal beauty about it.  

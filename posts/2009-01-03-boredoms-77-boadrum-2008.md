@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042648/http://holyfuckingshit4
 date: Saturday, January 3, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/boredoms-77-boadrum-2008.html
 title: Boredoms - 77 Boadrum (2008)
+artist: Boredoms
+album: 77 Boadrum
+spotify_url: https://open.spotify.com/search/Boredoms%2077%20Boadrum
+apple_music_url: https://music.apple.com/us/search?term=Boredoms%2077%20Boadrum
+youtube_url: https://www.youtube.com/results?search_query=Boredoms%2077%20Boadrum
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042648im_/http://i42.tinypic.com/289v4sw.jpg)](https://web.archive.org/web/20111010042648/http://i42.tinypic.com/289v4sw.jpg)  
   

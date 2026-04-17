@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004080824/http://holyfuckingshit4
 date: Tuesday, September 13, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/joy-division-unknown-pleasures-24.html
 title: Joy Division - Unknown Pleasures (24-bit/96hz Vinyl)
+artist: Joy Division
+album: Unknown Pleasures
+spotify_url: https://open.spotify.com/search/Joy%20Division%20Unknown%20Pleasures
+apple_music_url: https://music.apple.com/us/search?term=Joy%20Division%20Unknown%20Pleasures
+youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Unknown%20Pleasures
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004080824im_/http://3.bp.blogspot.com/-pLv_XRvGoSA/TnBEov46XLI/AAAAAAAABE4/bD9STVkPxEc/s400/13zuxyh.jpg)](https://web.archive.org/web/20111004080824/http://3.bp.blogspot.com/-pLv_XRvGoSA/TnBEov46XLI/AAAAAAAABE4/bD9STVkPxEc/s1600/13zuxyh.jpg)  
 Original pressing on Factory UK from 1979  

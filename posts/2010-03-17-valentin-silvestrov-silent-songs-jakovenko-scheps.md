@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203175528/http://holyfuckingshit4
 date: Wednesday, March 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/valentin-silvestrov-silent-songs.html
 title: Valentin Silvestrov - Silent Songs [Jakovenko, Scheps]
+artist: Valentin Silvestrov
+album: Silent Songs
+spotify_url: https://open.spotify.com/search/Valentin%20Silvestrov%20Silent%20Songs
+apple_music_url: https://music.apple.com/us/search?term=Valentin%20Silvestrov%20Silent%20Songs
+youtube_url: https://www.youtube.com/results?search_query=Valentin%20Silvestrov%20Silent%20Songs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203175528im_/http://1.bp.blogspot.com/_fgQJ6Z331aA/S6Fkg0J2Y_I/AAAAAAAAAO4/rvZa0Jc2gLc/s320/527702.jpg)](https://web.archive.org/web/20101203175528/http://1.bp.blogspot.com/_fgQJ6Z331aA/S6Fkg0J2Y_I/AAAAAAAAAO4/rvZa0Jc2gLc/s1600-h/527702.jpg)  
 Not really sure how to describe this, but this is some very beautiful music.  

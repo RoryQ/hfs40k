@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111517/http://holyfuckingshit4
 date: Tuesday, March 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/portishead-dummy-flac.html
 title: Portishead - Dummy (FLAC)
+artist: Portishead
+album: Dummy
+spotify_url: https://open.spotify.com/search/Portishead%20Dummy
+apple_music_url: https://geo.music.apple.com/au/album/_/1440653096?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Portishead%20Dummy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111517im_/http://1.bp.blogspot.com/-1g13Iu6nCT0/TW1Gh59yrXI/AAAAAAAAA48/oZ9gqgA1CUs/s400/Portishead-thumb-479x479-59107.jpeg)](https://web.archive.org/web/20111010111517/http://1.bp.blogspot.com/-1g13Iu6nCT0/TW1Gh59yrXI/AAAAAAAAA48/oZ9gqgA1CUs/s1600/Portishead-thumb-479x479-59107.jpeg)  
 If it wasn't for Portishead's vocalist Beth Gibbons, you could listen to Dummy all of the time. With tight, fresh hip-hop beats and a subtle jazz flavor, most of Dummy is danceable, although the band do have a knack for creating an especially eerie mood with moaning organs and swelling strings. But when Gibbons enters the scene, her clear delicate vibrato casts a shadow of isolation and absolute melancholy over the whole album.

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155910/http://holyfuckingshit4
 date: Friday, May 29, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/sam-valley-my-favorite-clinic-1997-flac.html
 title: Sam & Valley - My Favorite Clinic (1997) [FLAC]
+artist: Sam & Valley
+album: My Favorite Clinic
+spotify_url: https://open.spotify.com/search/Sam%20%26%20Valley%20My%20Favorite%20Clinic
+apple_music_url: https://music.apple.com/us/search?term=Sam%20%26%20Valley%20My%20Favorite%20Clinic
+youtube_url: https://www.youtube.com/results?search_query=Sam%20%26%20Valley%20My%20Favorite%20Clinic
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155910im_/http://4.bp.blogspot.com/_OYyGYtJuluk/Sk1g8lnm-0I/AAAAAAAAAP8/jc2C3MGIaj0/s320/myfavoriteclinic.png)](https://web.archive.org/web/20111008155910/http://4.bp.blogspot.com/_OYyGYtJuluk/Sk1g8lnm-0I/AAAAAAAAAP8/jc2C3MGIaj0/s1600-h/myfavoriteclinic.png)
 

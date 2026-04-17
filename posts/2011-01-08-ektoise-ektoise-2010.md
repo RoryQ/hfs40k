@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071126/http://holyfuckingshit4
 date: Saturday, January 8, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/01/ektoise-ektoise-2010.html
 title: Ektoise - Ektoise (2010)
+artist: Ektoise
+album: Ektoise
+spotify_url: https://open.spotify.com/search/Ektoise%20Ektoise
+apple_music_url: https://music.apple.com/us/search?term=Ektoise%20Ektoise
+youtube_url: https://www.youtube.com/results?search_query=Ektoise%20Ektoise
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071126im_/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TSkWuCC1cUI/AAAAAAAAAhk/uaW4sOxzQzs/s320/1763623341-1.jpg)](https://web.archive.org/web/20111010071126/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TSkWuCC1cUI/AAAAAAAAAhk/uaW4sOxzQzs/s1600/1763623341-1.jpg)
 

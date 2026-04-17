@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052248/http://holyfuckingshit4
 date: Saturday, July 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-sinatra-in-wee-small-hours-1955.html
 title: Frank Sinatra - In the Wee Small Hours (1955) (FLAC)
+artist: Frank Sinatra
+album: In the Wee Small Hours
+spotify_url: https://open.spotify.com/search/Frank%20Sinatra%20In%20the%20Wee%20Small%20Hours
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Sinatra%20In%20the%20Wee%20Small%20Hours
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Sinatra%20In%20the%20Wee%20Small%20Hours
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052248im_/http://4.bp.blogspot.com/_pqcGUSDUhi4/TDitqtQX3lI/AAAAAAAAAL4/Z5jjU5-UAyo/s320/folder.jpg)](https://web.archive.org/web/20111010052248/http://4.bp.blogspot.com/_pqcGUSDUhi4/TDitqtQX3lI/AAAAAAAAAL4/Z5jjU5-UAyo/s1600/folder.jpg)  
   

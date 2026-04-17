@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111625/http://holyfuckingshit4
 date: Friday, March 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/plaid-not-for-threes-flac.html
 title: Plaid - Not for Threes (FLAC)
+artist: Plaid
+album: Not for Threes
+spotify_url: https://open.spotify.com/search/Plaid%20Not%20for%20Threes
+apple_music_url: https://music.apple.com/us/search?term=Plaid%20Not%20for%20Threes
+youtube_url: https://www.youtube.com/results?search_query=Plaid%20Not%20for%20Threes
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111625im_/http://3.bp.blogspot.com/-4DZPspv8g2s/TXFtbvlVRYI/AAAAAAAAA58/2LE_g9wQBKg/s400/plaid.jpg)](https://web.archive.org/web/20111010111625/http://3.bp.blogspot.com/-4DZPspv8g2s/TXFtbvlVRYI/AAAAAAAAA58/2LE_g9wQBKg/s1600/plaid.jpg)  
 Plaid have had a celebrated past with electronica, having long since not only been part of a (then) fledgling 'Warp' label. but this release, An album, before they made the jump to the Warp Label, is nothing, if not a consistently re-firmation that Plaid have been consistently making superb albums for sometime now, that are an amalgamation of: trip-hop, electro-techno, IDM, Experimental and ambient electronic, that remain tightly woven across the tracks on their albums and retain a cerebral yet hypnotic sound, that is remarkably unique to them, and all the more surprising that this album still stands up brilliantly today, as it did, when released back in 1998.   

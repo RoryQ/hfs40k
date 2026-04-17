@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045812/http://holyfuckingshit4
 date: Wednesday, April 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/david-torn-prezens-flac.html
 title: David Torn - Prezens FLAC
+artist: David Torn
+album: Prezens FLAC
+spotify_url: https://open.spotify.com/search/David%20Torn%20Prezens%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=David%20Torn%20Prezens%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=David%20Torn%20Prezens%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045812im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S871Z-ucbdI/AAAAAAAAAJk/tcnfje7SsZs/s400/Presenz.jpg)](https://web.archive.org/web/20111010045812/http://4.bp.blogspot.com/_t6lWjgwMoxw/S871Z-ucbdI/AAAAAAAAAJk/tcnfje7SsZs/s1600/Presenz.jpg)  
   

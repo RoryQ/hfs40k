@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164045/http://holyfuckingshit4
 date: Sunday, March 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/maudlin-of-well-bathleaving-your-body.html
 title: maudlin of the Well - Bath+Leaving Your Body Map (2001) [FLAC]
+artist: maudlin of the Well
+album: Bath+Leaving Your Body Map
+spotify_url: https://open.spotify.com/search/maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
+apple_music_url: https://music.apple.com/us/search?term=maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
+youtube_url: https://www.youtube.com/results?search_query=maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164045im_/http://3.bp.blogspot.com/_z8rLjrFVzbo/SbzS32qNN1I/AAAAAAAAAEM/WlFS9_VLBhE/s400/35217.jpg)](https://web.archive.org/web/20111010164045/http://3.bp.blogspot.com/_z8rLjrFVzbo/SbzS32qNN1I/AAAAAAAAAEM/WlFS9_VLBhE/s1600-h/35217.jpg)[![](https://web.archive.org/web/20111010164045im_/http://2.bp.blogspot.com/_z8rLjrFVzbo/SbzU3U1epUI/AAAAAAAAAEc/GwihJkdn1PU/s400/68050.jpg)](https://web.archive.org/web/20111010164045/http://2.bp.blogspot.com/_z8rLjrFVzbo/SbzU3U1epUI/AAAAAAAAAEc/GwihJkdn1PU/s1600-h/68050.jpg)Bath is the album with no bath, Leaving your body map is the bath album.  
   

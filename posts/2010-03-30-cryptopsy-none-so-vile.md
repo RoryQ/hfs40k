@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081551/http://holyfuckingshit4
 date: Tuesday, March 30, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/cryptopsy-none-so-vile.html
 title: Cryptopsy - None So Vile
+artist: Cryptopsy
+album: None So Vile
+spotify_url: https://open.spotify.com/search/Cryptopsy%20None%20So%20Vile
+apple_music_url: https://music.apple.com/us/search?term=Cryptopsy%20None%20So%20Vile
+youtube_url: https://www.youtube.com/results?search_query=Cryptopsy%20None%20So%20Vile
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081551im_/http://4.bp.blogspot.com/_pqcGUSDUhi4/S7JsSOBjUjI/AAAAAAAAABE/lLckQl950yQ/s320/None+So+Vile.jpg)](https://web.archive.org/web/20111010081551/http://4.bp.blogspot.com/_pqcGUSDUhi4/S7JsSOBjUjI/AAAAAAAAABE/lLckQl950yQ/s1600/None+So+Vile.jpg)  
   

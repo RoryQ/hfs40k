@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042554/http://holyfuckingshit4
 date: Friday, January 2, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/time-to-burn-island-2007.html
 title: Time to Burn - Is.Land (2007)
+artist: Time to Burn
+album: Is.Land
+spotify_url: https://open.spotify.com/search/Time%20to%20Burn%20Is.Land
+apple_music_url: https://music.apple.com/us/search?term=Time%20to%20Burn%20Is.Land
+youtube_url: https://www.youtube.com/results?search_query=Time%20to%20Burn%20Is.Land
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042554im_/http://i44.tinypic.com/28tgz90.jpg)](https://web.archive.org/web/20111010042554/http://i44.tinypic.com/28tgz90.jpg)Genre: Experimental Sludge  
 Country: France  

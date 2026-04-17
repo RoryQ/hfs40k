@@ -4,7 +4,15 @@ date: Monday, May 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/1-my-bloody-valentine-loveless-24.html
 title: '#1 My Bloody Valentine - Loveless (24-bit/96khz Vinyl & Japanese CD Edition
   FLAC)'
+artist: '#1 My Bloody Valentine'
+album: Loveless
+spotify_url: https://open.spotify.com/search/%231%20My%20Bloody%20Valentine%20Loveless
+apple_music_url: https://music.apple.com/us/search?term=%231%20My%20Bloody%20Valentine%20Loveless
+youtube_url: https://www.youtube.com/results?search_query=%231%20My%20Bloody%20Valentine%20Loveless
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209004350im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-hWuP5b0iI/AAAAAAAAAlM/nxOutKjhafw/s400/Back.jpg)](https://web.archive.org/web/20111209004350/http://2.bp.blogspot.com/_cLI19EXK2oU/S-hWuP5b0iI/AAAAAAAAAlM/nxOutKjhafw/s1600/Back.jpg)  
 Where does one begin when it comes to describing this landmark album? Let's start with the general aesthetic. Imagine an album full of variations upon "Tomorrow Never Knows" via Sonic Youth and you might get an idea of what My Bloody Valentine is all about. Add some post-coital, halcyon-dazed vocals to the mix, warp the guitar sound with a healthy dose of gamma radiation and you've got yerself the best guitar album since Television's "Marquee Moon" hit in the mid-'70s. "Loveless" is one of those rare albums that managed to transcend its influences. In 1991, it was a distinct and compelling force within the incredibly stale medium of guitar rock. Guess what? It's still just as jaw-droppingly good twelve years down the road.

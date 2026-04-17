@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094347/http://holyfuckingshit4
 date: Wednesday, September 30, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/corea-los-peores-7-km-de-mi-vida-192.html
 title: Corea - Los Peores 7 Km De Mi Vida ( 192 kbps)
+artist: Corea
+album: Los Peores 7 Km De Mi Vida
+spotify_url: https://open.spotify.com/search/Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
+apple_music_url: https://geo.music.apple.com/au/album/_/1877137007?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094347im_/http://1.bp.blogspot.com/_t9AzX0yFUfM/SsMZE6UgwOI/AAAAAAAAABc/02NFJeZJquU/s200/715995.jpg)](https://web.archive.org/web/20111010094347/http://1.bp.blogspot.com/_t9AzX0yFUfM/SsMZE6UgwOI/AAAAAAAAABc/02NFJeZJquU/s1600-h/715995.jpg)  
 Sorry for the small picture, was really all I could find for this.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052505/http://holyfuckingshit4
 date: Sunday, July 25, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/ween-chocolate-and-cheese-flac.html
 title: Ween - Chocolate & Cheese (FLAC)
+artist: Ween
+album: Chocolate & Cheese
+spotify_url: https://open.spotify.com/search/Ween%20Chocolate%20%26%20Cheese
+apple_music_url: https://music.apple.com/us/search?term=Ween%20Chocolate%20%26%20Cheese
+youtube_url: https://www.youtube.com/results?search_query=Ween%20Chocolate%20%26%20Cheese
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052505im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TExy-HejuPI/AAAAAAAAAwE/LTw8nzgYYK8/s400/Ween+-+Chocolate+%26+Cheese.jpg)](https://web.archive.org/web/20111010052505/http://2.bp.blogspot.com/_cLI19EXK2oU/TExy-HejuPI/AAAAAAAAAwE/LTw8nzgYYK8/s1600/Ween+-+Chocolate+%26+Cheese.jpg)1994's "Chocolate & Cheese" is arguably Ween's finest moment in their career. You may be a little puzzled with Ween's unique brand of music if you've only heard albums such as "GodWeenSatan: The Oneness", "The Pod", or "Pure Guava". Those are their earlier album, which are masterpieces, but very much like "Mr. Bungle" or "Captain Beefheart", material like that can be kind of hard to swallow at first listen, or it might scare you away. The love for their earlier albums will come with how you feel about this album, or one of their more recent albums. The first time I heard "GodWeenSatan: The Oneness" I didn't like it; now it's my favorite Ween album (actually, all of their albums are too great to pick a favorite). After I heard "Chocolate & Cheese" I was hooked; and after getting into "The Mollusk" immediately after, the only way I can describe Ween to anybody that asks me about them, is that they're the greatest band on earth.  
   

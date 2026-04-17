@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010141455/http://holyfuckingshit4
 date: Wednesday, July 1, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/gentle-giant-free-hand-flac.html
 title: Gentle Giant - Free Hand (FLAC)
+artist: Gentle Giant
+album: Free Hand
+spotify_url: https://open.spotify.com/search/Gentle%20Giant%20Free%20Hand
+apple_music_url: https://music.apple.com/us/search?term=Gentle%20Giant%20Free%20Hand
+youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Free%20Hand
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010141455im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SkuSsg69YoI/AAAAAAAAAOY/z14sDEk0VWk/s400/cover_36261617102008.jpg)](https://web.archive.org/web/20111010141455/http://1.bp.blogspot.com/_cLI19EXK2oU/SkuSsg69YoI/AAAAAAAAAOY/z14sDEk0VWk/s1600-h/cover_36261617102008.jpg)  
 It's difficult to pick one desert island Gentle Giant album, they all are unique, and all studio releases except "Giant for a Day" are must haves. With numerous time changes and intricate musical passages Giant is not for everybody and may challenge most listeners. But this challenge can have great rewards because the talent this band has is amazing... all musicians are proficient at multiple instruments, the songwriting skill is superb, and the tunes are timeless. For the novice to Gentle Giant, this CD would be a good starting point.  

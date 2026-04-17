@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010135558/http://holyfuckingshit4
 date: Friday, July 22, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/igorrr-nostril-2010-flac.html
 title: Igorrr - Nostril (2010, FLAC)
+artist: Igorrr
+album: Nostril
+spotify_url: https://open.spotify.com/search/Igorrr%20Nostril
+apple_music_url: https://music.apple.com/us/search?term=Igorrr%20Nostril
+youtube_url: https://www.youtube.com/results?search_query=Igorrr%20Nostril
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010135558im_/http://3.bp.blogspot.com/-RvtxobmCBas/TilrlFYXCLI/AAAAAAAAAEU/SItgCOV99Jc/s400/Igorrr-Nostril1.jpg)](https://web.archive.org/web/20111010135558/http://3.bp.blogspot.com/-RvtxobmCBas/TilrlFYXCLI/AAAAAAAAAEU/SItgCOV99Jc/s1600/Igorrr-Nostril1.jpg)
 

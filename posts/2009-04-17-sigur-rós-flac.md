@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010130604/http://holyfuckingshit4
 date: Friday, April 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/04/sigur-ros-flac.html
 title: "Sigur R\xF3s - ( ) (FLAC)"
+artist: "Sigur R\xF3s"
+album: ''
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010130604im_/http://i39.tinypic.com/71qpvm.jpg)](https://web.archive.org/web/20111010130604/http://i39.tinypic.com/71qpvm.jpg)*Scene: interior of Sigur Ros' management offices on a cold day in Iceland. All exchanges will be in English to make it easier for the reader.*  
   

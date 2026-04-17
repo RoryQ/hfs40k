@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155822/http://holyfuckingshit4
 date: Tuesday, February 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/swans-swans-are-dead-1998-flac.html
 title: Swans - Swans Are Dead (1998) [FLAC]
+artist: Swans
+album: Swans Are Dead
+spotify_url: https://open.spotify.com/search/Swans%20Swans%20Are%20Dead
+apple_music_url: https://geo.music.apple.com/au/album/_/911484609?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Swans%20Swans%20Are%20Dead
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155822im_/http://3.bp.blogspot.com/_bIgHZQu-UEA/S4Su-HKcIjI/AAAAAAAAAXU/g9XEFDTLHnk/s400/swans+are+dead.jpg)](https://web.archive.org/web/20111010155822/http://3.bp.blogspot.com/_bIgHZQu-UEA/S4Su-HKcIjI/AAAAAAAAAXU/g9XEFDTLHnk/s1600-h/swans+are+dead.jpg)  
 

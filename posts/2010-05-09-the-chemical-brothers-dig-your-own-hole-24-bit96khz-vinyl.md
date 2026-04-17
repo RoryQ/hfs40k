@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094942/http://holyfuckingshit4
 date: Sunday, May 9, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/chemical-brothers-dig-your-own-hole-24.html
 title: The Chemical Brothers - Dig Your Own Hole (24-bit/96khz Vinyl)
+artist: The Chemical Brothers
+album: Dig Your Own Hole
+spotify_url: https://open.spotify.com/search/The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole
+apple_music_url: https://geo.music.apple.com/au/album/_/714366008?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094942im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-bRjoknO5I/AAAAAAAAAk0/toLSOhp0hl0/s400/935e923f8da04371a8458010.L.jpg)](https://web.archive.org/web/20111010094942/http://2.bp.blogspot.com/_cLI19EXK2oU/S-bRjoknO5I/AAAAAAAAAk0/toLSOhp0hl0/s1600/935e923f8da04371a8458010.L.jpg)  
 Much has been written about this album in the past 8 years since its release and it has been appraised by many people - they were right. However, this is not your kind of music, if you're not into experimental music or you turn away from unusual patterns. Anyway, this album is Chemical Brothers and techno music at their best.  

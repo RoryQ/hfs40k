@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094426/http://holyfuckingshit4
 date: Monday, September 21, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/interpol-turn-on-bright-lights-flac.html
 title: Interpol - Turn on the Bright Lights (FLAC)
+artist: Interpol
+album: Turn on the Bright Lights
+spotify_url: https://open.spotify.com/search/Interpol%20Turn%20on%20the%20Bright%20Lights
+apple_music_url: https://music.apple.com/us/search?term=Interpol%20Turn%20on%20the%20Bright%20Lights
+youtube_url: https://www.youtube.com/results?search_query=Interpol%20Turn%20on%20the%20Bright%20Lights
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094426im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SrfyhCdvJNI/AAAAAAAAAUI/s2TEseBlo70/s400/turn-on-the-bright-lights.jpg)](https://web.archive.org/web/20111010094426/http://1.bp.blogspot.com/_cLI19EXK2oU/SrfyhCdvJNI/AAAAAAAAAUI/s2TEseBlo70/s1600-h/turn-on-the-bright-lights.jpg)  
 When I was young, I had a best friend. We would hang out all the time and every time we saw each other at school, we'd talk about music a lot. I was a post-punk kid and he was a grunge guy.  

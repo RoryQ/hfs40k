@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173003/http://holyfuckingshit4
 date: Sunday, June 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/new-order-substance-flac.html
 title: New Order - Substance (FLAC)
+artist: New Order
+album: Substance
+spotify_url: https://open.spotify.com/search/New%20Order%20Substance
+apple_music_url: https://geo.music.apple.com/au/album/_/1530256325?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=New%20Order%20Substance
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173003im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TAwxIXuDTpI/AAAAAAAAAsU/F1gGgI2MniY/s400/new_order_substance.gif)](https://web.archive.org/web/20111010173003/http://3.bp.blogspot.com/_cLI19EXK2oU/TAwxIXuDTpI/AAAAAAAAAsU/F1gGgI2MniY/s1600/new_order_substance.gif)  
 Shortly after Ian Curtis committed suicide in 1980, it appeared as if his band Joy Division had died with him, and its members would now have to give up what were once very promising careers. But the surviving members weren't going to give up that easy & after changing their name to New Order (with the addition of keyboardist Gillian Gilbert & Joy Division guitarist Bernard Sumner taking over vocal duties), they released their first single "Ceremony" to modest commercial success, but substantial raves in the dance club underground. New Order released four studio albums in the first half of the 1980s, then in 1987, created an early career-capper with the unique retrospective SUBSTANCE.

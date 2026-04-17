@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100621002615/http://holyfuckingshit4
 date: Saturday, June 5, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/jelonek-jelonek-2007flac.html
 title: Jelonek - Jelonek [2007/FLAC]
+artist: Jelonek
+album: Jelonek
+spotify_url: https://open.spotify.com/search/Jelonek%20Jelonek
+apple_music_url: https://music.apple.com/us/search?term=Jelonek%20Jelonek
+youtube_url: https://www.youtube.com/results?search_query=Jelonek%20Jelonek
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100621002615im_/http://3.bp.blogspot.com/_ZGBCgBK9ack/TAprGPwSQyI/AAAAAAAAAJ8/XmnrdqLpFsw/s400/Jelonek+-+Jelonek.JPG)](https://web.archive.org/web/20100621002615/http://3.bp.blogspot.com/_ZGBCgBK9ack/TAprGPwSQyI/AAAAAAAAAJ8/XmnrdqLpFsw/s1600/Jelonek+-+Jelonek.JPG)  
 

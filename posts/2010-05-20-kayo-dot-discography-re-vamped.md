@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100533/http://holyfuckingshit4
 date: Thursday, May 20, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/kayo-dot-discography-re-vamped_20.html
 title: Kayo Dot discography (re-vamped)
+artist: Kayo Dot discography (re
+album: vamped)
+spotify_url: https://open.spotify.com/search/Kayo%20Dot%20discography%20%28re%20vamped%29
+apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20discography%20%28re%20vamped%29
+youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20discography%20%28re%20vamped%29
 ---
+
+
+
 
 Okay, my last post was alright, but this is the fucking granddaddy of them all.  
   

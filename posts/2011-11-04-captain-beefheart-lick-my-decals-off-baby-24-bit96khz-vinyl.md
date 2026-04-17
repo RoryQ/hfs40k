@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111128042335/http://holyfuckingshit4
 date: Friday, November 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/11/captain-beefheart-lick-my-decals-off.html
 title: Captain Beefheart - Lick My Decals Off Baby (24-bit/96khz Vinyl)
+artist: Captain Beefheart
+album: Lick My Decals Off Baby
+spotify_url: https://open.spotify.com/search/Captain%20Beefheart%20Lick%20My%20Decals%20Off%20Baby
+apple_music_url: https://geo.music.apple.com/au/album/_/415007099?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20Lick%20My%20Decals%20Off%20Baby
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111128042335im_/http://2.bp.blogspot.com/-7Kw8YJEPCAo/TrQaBij9-dI/AAAAAAAABIw/lqgL8jheNXo/s400/front.JPG)](https://web.archive.org/web/20111128042335/http://2.bp.blogspot.com/-7Kw8YJEPCAo/TrQaBij9-dI/AAAAAAAABIw/lqgL8jheNXo/s1600/front.JPG)  
   

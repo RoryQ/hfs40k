@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010063226/http://holyfuckingshit4
 date: Monday, August 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/tim-buckley-goodbye-and-hello-flac.html
 title: Tim Buckley - Goodbye and Hello (FLAC)
+artist: Tim Buckley
+album: Goodbye and Hello
+spotify_url: https://open.spotify.com/search/Tim%20Buckley%20Goodbye%20and%20Hello
+apple_music_url: https://music.apple.com/us/search?term=Tim%20Buckley%20Goodbye%20and%20Hello
+youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Goodbye%20and%20Hello
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010063226im_/http://2.bp.blogspot.com/_cLI19EXK2oU/THIy4OIVo9I/AAAAAAAAAzM/WtpfndoA0dQ/s400/Tim_Buckley___Goodbye_and_hello.jpg)](https://web.archive.org/web/20111010063226/http://2.bp.blogspot.com/_cLI19EXK2oU/THIy4OIVo9I/AAAAAAAAAzM/WtpfndoA0dQ/s1600/Tim_Buckley___Goodbye_and_hello.jpg)  
 There's no denying that some of the lyrics on this album apply specifically to the incredible era that was the 1960s - but have the values and beliefs they espoused so vibrantly faded into nonexistence? I don't think so. Emphasis shifts, forms of expression change - but the things about which Tim Buckley sang so eloquently on this recording are eternal: war and peace (both internal and external); love and loneliness; the strife that is born between generations. The 60s era was full of bands and songwriters wrestling with these subjects, striving to help us all deal with them - and more than a few who tagged along for the ride with the hope of making a buck out of the movements that arose around them. Buckley - and his (then-) lyricist Larry Beckett were, as artists, reaching desperately and honestly for something higher, not for any accolades that might come their way as a result, but to latch onto something they could use to pull themselves (and the rest of us) up to a higher level. Tim Buckley succeeded in this more than most of his contemporaries.

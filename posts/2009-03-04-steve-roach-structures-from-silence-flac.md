@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164705/http://holyfuckingshit4
 date: Wednesday, March 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/steve-roach-structures-from-silence.html
 title: Steve Roach - Structures From Silence (FLAC)
+artist: Steve Roach
+album: Structures From Silence
+spotify_url: https://open.spotify.com/search/Steve%20Roach%20Structures%20From%20Silence
+apple_music_url: https://music.apple.com/us/search?term=Steve%20Roach%20Structures%20From%20Silence
+youtube_url: https://www.youtube.com/results?search_query=Steve%20Roach%20Structures%20From%20Silence
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164705im_/http://i39.tinypic.com/2yv2n7r.jpg)](https://web.archive.org/web/20111010164705/http://i39.tinypic.com/2yv2n7r.jpg)  
 "The more something stays the same, the more it changes"  

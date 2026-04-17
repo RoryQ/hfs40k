@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111216101027/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/bill-evans-trio-waltz-for-debby-flac.html
 title: Bill Evans Trio - Waltz For Debby (FLAC)
+artist: Bill Evans Trio
+album: Waltz For Debby
+spotify_url: https://open.spotify.com/search/Bill%20Evans%20Trio%20Waltz%20For%20Debby
+apple_music_url: https://geo.music.apple.com/au/album/_/1440940930?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Bill%20Evans%20Trio%20Waltz%20For%20Debby
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111216101027im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WpZJTOoMI/AAAAAAAAAgc/ehgAU0ftLzs/s400/454691.jpg)](https://web.archive.org/web/20111216101027/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WpZJTOoMI/AAAAAAAAAgc/ehgAU0ftLzs/s1600/454691.jpg)  
 A beautifully felt and executed album, by one of the best trios in jazz history. Is it too much to say that Evans "owns" My Foolish Heart?" I think not, just as he has applied his touch to produce other definitive version. His beautiful touch--soft, lyrical, sure but seeking, produce a floating, atmospheric sound that sets him apart from all other pianists.

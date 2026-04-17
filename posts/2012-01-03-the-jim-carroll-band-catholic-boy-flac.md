@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120117124910/http://holyfuckingshit4
 date: Tuesday, January 3, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/jim-carroll-band-catholic-boy-flac.html
 title: The Jim Carroll Band- Catholic Boy (FLAC)
+artist: The Jim Carroll Band
+album: Catholic Boy
+spotify_url: https://open.spotify.com/search/The%20Jim%20Carroll%20Band%20Catholic%20Boy
+apple_music_url: https://geo.music.apple.com/au/album/_/1476457132?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Jim%20Carroll%20Band%20Catholic%20Boy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120117124910im_/http://4.bp.blogspot.com/-cv30vZKZdKs/Tv89DFxW9MI/AAAAAAAAFLo/ynVRcmQYBdY/s400/Jim-Carroll-Band-Catholic-Boy-216831crop.jpg)](https://web.archive.org/web/20120117124910/http://4.bp.blogspot.com/-cv30vZKZdKs/Tv89DFxW9MI/AAAAAAAAFLo/ynVRcmQYBdY/s1600/Jim-Carroll-Band-Catholic-Boy-216831crop.jpg)
 

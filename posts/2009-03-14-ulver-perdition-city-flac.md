@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164210/http://holyfuckingshit4
 date: Saturday, March 14, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/ulver-perdition-city-flac.html
 title: Ulver - Perdition City (FLAC)
+artist: Ulver
+album: Perdition City
+spotify_url: https://open.spotify.com/search/Ulver%20Perdition%20City
+apple_music_url: https://music.apple.com/us/search?term=Ulver%20Perdition%20City
+youtube_url: https://www.youtube.com/results?search_query=Ulver%20Perdition%20City
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164210im_/http://i39.tinypic.com/25a2k9s.jpg)](https://web.archive.org/web/20111010164210/http://i39.tinypic.com/25a2k9s.jpg)  
 Perdition City is what happens when black metal grows up and becomes a man.  

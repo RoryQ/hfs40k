@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111641/http://holyfuckingshit4
 date: Thursday, March 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/glenn-branca-symphonies-nos-1-8-10-flac.html
 title: Glenn Branca - Symphonies Nos. 1, 8, 10 (FLAC)
+artist: Glenn Branca
+album: Symphonies Nos. 1, 8, 10
+spotify_url: https://open.spotify.com/search/Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
+apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
+youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111641im_/http://2.bp.blogspot.com/-c6a2WPNip58/TW_Ybi0CZ8I/AAAAAAAAA50/6kD03Eeiq5w/s400/Glenn%252BBranca%252B5.jpg)](https://web.archive.org/web/20111010111641/http://2.bp.blogspot.com/-c6a2WPNip58/TW_Ybi0CZ8I/AAAAAAAAA50/6kD03Eeiq5w/s1600/Glenn%252BBranca%252B5.jpg)  
 It took awhile to fully appreciate these, but deep down their among his most well composed music. The sheer amount of layers and complexity inside the music is wonderful. The symphonies are filled both with dread and horror as well as love and ecstacy. His music is primal much like fear, love, anger, and sex. If you listen to his other works, I think you'll find alot more ambience and less structure. In this album however his music is much more disciplined.  

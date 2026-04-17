@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175527/http://holyfuckingshit4
 date: Wednesday, September 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/jim-orourke-halfway-to-threeway-flac.html
 title: Jim O'Rourke - Halfway to a Threeway (FLAC)
+artist: Jim O'Rourke
+album: Halfway to a Threeway
+spotify_url: https://open.spotify.com/search/Jim%20O%27Rourke%20Halfway%20to%20a%20Threeway
+apple_music_url: https://music.apple.com/us/search?term=Jim%20O%27Rourke%20Halfway%20to%20a%20Threeway
+youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Halfway%20to%20a%20Threeway
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175527im_/http://1.bp.blogspot.com/_nmjS6fd9kfU/TH6qHZWfB1I/AAAAAAAAANw/IbwT9cWte68/s400/folder.jpg)](https://web.archive.org/web/20111010175527/http://1.bp.blogspot.com/_nmjS6fd9kfU/TH6qHZWfB1I/AAAAAAAAANw/IbwT9cWte68/s1600/folder.jpg)Jesus Christ it's a cute frog get in the car!
 

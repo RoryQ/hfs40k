@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083346/http://holyfuckingshit4
 date: Tuesday, March 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/lusine-icl-language-barrier-2007-flac.html
 title: Lusine Icl - Language Barrier (2007) [FLAC]
+artist: Lusine Icl
+album: Language Barrier
+spotify_url: https://open.spotify.com/search/Lusine%20Icl%20Language%20Barrier
+apple_music_url: https://music.apple.com/us/search?term=Lusine%20Icl%20Language%20Barrier
+youtube_url: https://www.youtube.com/results?search_query=Lusine%20Icl%20Language%20Barrier
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083346im_/http://4.bp.blogspot.com/_7ZAm7Q56iwM/S5_zgGa6afI/AAAAAAAAAYw/liX-caI8rzU/s400/R-994217-1251335488.jpeg)](https://web.archive.org/web/20111010083346/http://4.bp.blogspot.com/_7ZAm7Q56iwM/S5_zgGa6afI/AAAAAAAAAYw/liX-caI8rzU/s1600-h/R-994217-1251335488.jpeg)
 

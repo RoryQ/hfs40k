@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010124053/http://holyfuckingshit4
 date: Monday, January 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/herbie-hancock-sextant-1973.html
 title: Herbie Hancock - Sextant (1973)
+artist: Herbie Hancock
+album: Sextant
+spotify_url: https://open.spotify.com/search/Herbie%20Hancock%20Sextant
+apple_music_url: https://music.apple.com/us/search?term=Herbie%20Hancock%20Sextant
+youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Sextant
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010124053im_/http://4.bp.blogspot.com/_JdyrURA7JYI/S1UoUgJCDGI/AAAAAAAAANo/tELS7nM3pWQ/s400/herbiesextant.PNG)](https://web.archive.org/web/20111010124053/http://4.bp.blogspot.com/_JdyrURA7JYI/S1UoUgJCDGI/AAAAAAAAANo/tELS7nM3pWQ/s1600-h/herbiesextant.PNG)When most people hear the name "Herbie Hancock" they either think "oh yeah, he made Head Hunters, what a good album" or "didn't that guy win a grammy a few years back? I thought he was dead."  
   

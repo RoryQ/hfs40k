@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111440/http://holyfuckingshit4
 date: Tuesday, March 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/jesus-lizard-liar-flac.html
 title: The Jesus Lizard - Liar (FLAC)
+artist: The Jesus Lizard
+album: Liar
+spotify_url: https://open.spotify.com/search/The%20Jesus%20Lizard%20Liar
+apple_music_url: https://music.apple.com/us/search?term=The%20Jesus%20Lizard%20Liar
+youtube_url: https://www.youtube.com/results?search_query=The%20Jesus%20Lizard%20Liar
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111440im_/http://4.bp.blogspot.com/_A31Dfz4S5yg/SrW-ZE3sPQI/AAAAAAAAAH8/7yUFd3Jdeso/s320/wrjhel.jpg)](https://web.archive.org/web/20111010111440/http://4.bp.blogspot.com/_A31Dfz4S5yg/SrW-ZE3sPQI/AAAAAAAAAH8/7yUFd3Jdeso/s1600-h/wrjhel.jpg) Liar is a wild, unhinged piece of punkish, metallic alt-rock, one that obliterated petty genre distinctions at the same time that it exposed the legions of pretenders that were just starting to pop up at the time. Want to know how ahead of its time Liar was? It came out before such boring Seattle knockoffs as Bush and Silverchair had even emerged, to say nothing of the ridiculous throwbacks polluting the scene right now. Of course, being ahead of the curve is a virtual guarantee of going unnoticed by the masses, but then I don't think mainstream success was high on the Lizard's list of priorities.   
   

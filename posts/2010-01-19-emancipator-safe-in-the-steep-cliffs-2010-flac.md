@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123344/http://holyfuckingshit4
 date: Tuesday, January 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/emancipator-safe-in-steep-cliffs-2010.html
 title: Emancipator - Safe In The Steep Cliffs (2010) [FLAC]
+artist: Emancipator
+album: Safe In The Steep Cliffs
+spotify_url: https://open.spotify.com/search/Emancipator%20Safe%20In%20The%20Steep%20Cliffs
+apple_music_url: https://music.apple.com/us/search?term=Emancipator%20Safe%20In%20The%20Steep%20Cliffs
+youtube_url: https://www.youtube.com/results?search_query=Emancipator%20Safe%20In%20The%20Steep%20Cliffs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123344im_/http://2.bp.blogspot.com/_5cVyPU93ihM/S1Y6M-F6EqI/AAAAAAAAAM4/39Np3MRrZdw/s400/cover.jpg)](https://web.archive.org/web/20111010123344/http://2.bp.blogspot.com/_5cVyPU93ihM/S1Y6M-F6EqI/AAAAAAAAAM4/39Np3MRrZdw/s1600-h/cover.jpg)  
 'Safe In The Steep Cliffs' is a set of finely-crafted, epic instrumentals from Portland-based electronica/hip hop/downtempo producer Emancipator, featuring tight, syncopated percussion, organic melodies and eclectic samples.  

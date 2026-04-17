@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112748/http://holyfuckingshit4
 date: Tuesday, October 12, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/mississippi-john-hurt-complete-1928.html
 title: Mississippi John Hurt - The Complete 1928 Okeh Recordings (FLAC)
+artist: Mississippi John Hurt
+album: The Complete 1928 Okeh Recordings
+spotify_url: https://open.spotify.com/search/Mississippi%20John%20Hurt%20The%20Complete%201928%20Okeh%20Recordings
+apple_music_url: https://geo.music.apple.com/au/album/_/432856275?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Mississippi%20John%20Hurt%20The%20Complete%201928%20Okeh%20Recordings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112748im_/http://2.bp.blogspot.com/_nmjS6fd9kfU/TLRlf7ms3XI/AAAAAAAAAPw/MUGjB10PTNI/s400/folder.jpg)](https://web.archive.org/web/20111010112748/http://2.bp.blogspot.com/_nmjS6fd9kfU/TLRlf7ms3XI/AAAAAAAAAPw/MUGjB10PTNI/s1600/folder.jpg)The sound quality on these recordings is insane. The mastering is masterful. Hardly any tape hiss/noise remains. And that guitar playing? Listen, and hear where John Fahey, Nick Drake, and all of your favorite picksters got their style.
 

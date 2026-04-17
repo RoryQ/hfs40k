@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111209004743/http://holyfuckingshit4
 date: Monday, May 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/8-talk-talk-laughing-stock-flac.html
 title: '#8 Talk Talk - Laughing Stock (FLAC)'
+artist: '#8 Talk Talk'
+album: Laughing Stock
+spotify_url: https://open.spotify.com/search/%238%20Talk%20Talk%20Laughing%20Stock
+apple_music_url: https://geo.music.apple.com/au/album/_/1442531159?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=%238%20Talk%20Talk%20Laughing%20Stock
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111209004743im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S99n9Ka9roI/AAAAAAAAAhs/Ep-NjONjLzc/s400/laughing_stock.jpg)](https://web.archive.org/web/20111209004743/http://3.bp.blogspot.com/_cLI19EXK2oU/S99n9Ka9roI/AAAAAAAAAhs/Ep-NjONjLzc/s1600/laughing_stock.jpg)  
 

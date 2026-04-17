@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112513/http://holyfuckingshit4
 date: Tuesday, October 12, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/skip-james-complete-early-recordings.html
 title: Skip James - The Complete Early Recordings (FLAC)
+artist: Skip James
+album: The Complete Early Recordings
+spotify_url: https://open.spotify.com/search/Skip%20James%20The%20Complete%20Early%20Recordings
+apple_music_url: https://geo.music.apple.com/au/album/_/1568075884?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Skip%20James%20The%20Complete%20Early%20Recordings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112513im_/http://1.bp.blogspot.com/_nmjS6fd9kfU/TLRiojBEMJI/AAAAAAAAAPo/-GOwB5UCxVg/s400/cover.jpg)](https://web.archive.org/web/20111010112513/http://1.bp.blogspot.com/_nmjS6fd9kfU/TLRiojBEMJI/AAAAAAAAAPo/-GOwB5UCxVg/s1600/cover.jpg)If you (are white and) listen to American music made in the 20th or 21st centuries, and have never listened to blues, then you're a racist (!!!) who is content to steal the innovations of subjugated and marginalized minority groups without actually honoring the influences that their musical style has had on all of the music you love and cherish. And no, Stevie Ray Vaughn doesn't count.
 

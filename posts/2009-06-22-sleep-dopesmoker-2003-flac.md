@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085255/http://holyfuckingshit4
 date: Monday, June 22, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/sleep-dopesmoker-2003-flac.html
 title: Sleep - Dopesmoker (2003) [FLAC]
+artist: Sleep
+album: Dopesmoker
+spotify_url: https://open.spotify.com/search/Sleep%20Dopesmoker
+apple_music_url: https://geo.music.apple.com/au/album/_/1854884359?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Sleep%20Dopesmoker
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085255im_/http://2.bp.blogspot.com/_7ZAm7Q56iwM/SkAM2uy5RoI/AAAAAAAAAFM/0QT2-Rac9Zo/s320/84874.jpg)](https://web.archive.org/web/20111010085255/http://2.bp.blogspot.com/_7ZAm7Q56iwM/SkAM2uy5RoI/AAAAAAAAAFM/0QT2-Rac9Zo/s1600-h/84874.jpg)  
 HOLY FUCKING SHIT THIS IS HEAVY  

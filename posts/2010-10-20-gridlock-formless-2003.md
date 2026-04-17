@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112637/http://holyfuckingshit4
 date: Wednesday, October 20, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/gridlock-formless-2003.html
 title: Gridlock - Formless (2003)
+artist: Gridlock
+album: Formless
+spotify_url: https://open.spotify.com/search/Gridlock%20Formless
+apple_music_url: https://music.apple.com/us/search?term=Gridlock%20Formless
+youtube_url: https://www.youtube.com/results?search_query=Gridlock%20Formless
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112637im_/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TL8AU469NUI/AAAAAAAAAg0/M9tVizRQfX4/s400/formless.jpg)](https://web.archive.org/web/20111010112637/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TL8AU469NUI/AAAAAAAAAg0/M9tVizRQfX4/s1600/formless.jpg)
 

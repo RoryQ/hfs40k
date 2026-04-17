@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010052311/http://holyfuckingshit4
 date: Monday, July 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/frank-zappa-week-day-2-chungas-revenge.html
 title: 'Frank Zappa Week - Day #2 Chunga''s Revenge (FLAC)'
+artist: Frank Zappa Week
+album: 'Day #2 Chunga''s Revenge'
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010052311im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TERa2USIUpI/AAAAAAAAAvM/NIY0kHQiQvA/s400/Chungas_Revenge_1024_768.jpg)](https://web.archive.org/web/20111010052311/http://4.bp.blogspot.com/_cLI19EXK2oU/TERa2USIUpI/AAAAAAAAAvM/NIY0kHQiQvA/s1600/Chungas_Revenge_1024_768.jpg)  
 Before the "Groupie Routine," before mudsharks, before "Bogus Pomp" and "Penis Dimension," there was this album: Chunga's Revenge, the opening salvo of Frank's Flo and Eddie era. With a re-formed group that included Aynsley Dunbar, Jeff Simmons, and the aforementioned Phlorescent Leech and Eddie (Jim Pons doesn't seem to be around yet), Zappa backed away slightly from the classical experimentalism that had marked "Weasels" and "Weenie," and the jazz-fusion of Hot Rats...but only slightly. Chunga's Revenge is full of great performances and great songs, and is all-too-often overshadowed by what came before (the aforementioned "Hot Rats") and what came after ("Fillmore" and "200 Motels").  

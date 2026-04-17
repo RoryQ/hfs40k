@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175611/http://holyfuckingshit4
 date: Thursday, September 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/public-enemy-fear-of-black-planet-flac.html
 title: Public Enemy - Fear of a Black Planet (FLAC)
+artist: Public Enemy
+album: Fear of a Black Planet
+spotify_url: https://open.spotify.com/search/Public%20Enemy%20Fear%20of%20a%20Black%20Planet
+apple_music_url: https://geo.music.apple.com/au/album/_/1769273382?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Public%20Enemy%20Fear%20of%20a%20Black%20Planet
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175611im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TJvQsGUhBII/AAAAAAAAA1M/RxiM2kFZ1As/s400/fearofablackplanet.jpg)](https://web.archive.org/web/20111010175611/http://3.bp.blogspot.com/_cLI19EXK2oU/TJvQsGUhBII/AAAAAAAAA1M/RxiM2kFZ1As/s1600/fearofablackplanet.jpg)  
 With It Takes a Nation of Millions To Hold Us Back (1988), Public Enemy single-handedly shattered the limits and expanded the possibilities for hip-hop as an artist and cultural force. To that point, It Takes a Nation was the most inventive, powerful rap record ever. It's blend of diverse samples, infectious beats, and intelligent lyrics (delivered with irrepresible cogence by the band's frontman and lead rapper Chuck D) was unlike anything that preceded it. As tempting as it is to praise Public Enemy for their fiercly intelligent vision, the compelling delivery is what makes it all worthwhile. While secondary rapper Flavor Flav doesn't have Chuck D's powerful baritone or undeniable intelligence, his raps humorously compliment the groups militant ideals. Public Enemy's deft production team, aptly titled The Bomb Squad (which includes Chuck D, DJ Terminator X, and numerous studio technicians), manages to extract samples from eccletic sources, including John Coltrane, Van Halen, and speeches by Martin Luther King jr., and Malcom X. If this album had a flaw, it was that the themes were only loosely held together. All discuss African-American oppression, occasionally attacking it so ambiguously that the album sometimes feels a little unfocused. This isn't really a problem because the music is what ultimately holds this brilliant work together.

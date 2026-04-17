@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042717/http://holyfuckingshit4
 date: Saturday, January 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/unbroken-lifeloveregret-1994.html
 title: Unbroken - Life.Love.Regret (1994)
+artist: Unbroken
+album: Life.Love.Regret
+spotify_url: https://open.spotify.com/search/Unbroken%20Life.Love.Regret
+apple_music_url: https://music.apple.com/us/search?term=Unbroken%20Life.Love.Regret
+youtube_url: https://www.youtube.com/results?search_query=Unbroken%20Life.Love.Regret
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042717im_/http://i43.tinypic.com/2q850df.jpg)](https://web.archive.org/web/20111010042717/http://i43.tinypic.com/2q850df.jpg)  
 Genre: Hardcore  

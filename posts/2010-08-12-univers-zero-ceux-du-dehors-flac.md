@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010063208/http://holyfuckingshit4
 date: Thursday, August 12, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/univers-zero-ceux-du-dehors-flac.html
 title: Univers Zero - Ceux du Dehors (FLAC)
+artist: Univers Zero
+album: Ceux du Dehors
+spotify_url: https://open.spotify.com/search/Univers%20Zero%20Ceux%20du%20Dehors
+apple_music_url: https://music.apple.com/us/search?term=Univers%20Zero%20Ceux%20du%20Dehors
+youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Ceux%20du%20Dehors
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010063208im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TGRU9CZELGI/AAAAAAAAAx8/mLqUUAvv72c/s400/295093598_a05dc6325f.jpg)](https://web.archive.org/web/20111010063208/http://3.bp.blogspot.com/_cLI19EXK2oU/TGRU9CZELGI/AAAAAAAAAx8/mLqUUAvv72c/s1600/295093598_a05dc6325f.jpg)  
 This is the third and best Univers Zero album, and on this one they adopt a grander, more symphonic sound, without losing their high originality.

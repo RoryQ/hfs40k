@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010124143/http://holyfuckingshit4
 date: Tuesday, January 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/sun-ra-disco-3000-flacv0.html
 title: Sun Ra - Disco 3000 (FLAC/v0)
+artist: Sun Ra
+album: Disco 3000
+spotify_url: https://open.spotify.com/search/Sun%20Ra%20Disco%203000
+apple_music_url: https://music.apple.com/us/search?term=Sun%20Ra%20Disco%203000
+youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20Disco%203000
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010124143im_/http://3.bp.blogspot.com/_JdyrURA7JYI/S1_Md-O-bEI/AAAAAAAAAN4/-FnQZ0iVtck/s400/sunradisco.PNG)](https://web.archive.org/web/20111010124143/http://3.bp.blogspot.com/_JdyrURA7JYI/S1_Md-O-bEI/AAAAAAAAAN4/-FnQZ0iVtck/s1600-h/sunradisco.PNG)Electric jazz = Miles Davis in the 70s, right? Heh.  
   

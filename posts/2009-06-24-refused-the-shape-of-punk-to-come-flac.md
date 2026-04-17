@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085129/http://holyfuckingshit4
 date: Wednesday, June 24, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/refused-shape-of-punk-to-come-flac.html
 title: Refused - The Shape Of Punk To Come (FLAC)
+artist: Refused
+album: The Shape Of Punk To Come
+spotify_url: https://open.spotify.com/search/Refused%20The%20Shape%20Of%20Punk%20To%20Come
+apple_music_url: https://music.apple.com/us/search?term=Refused%20The%20Shape%20Of%20Punk%20To%20Come
+youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%20Of%20Punk%20To%20Come
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085129im_/http://1.bp.blogspot.com/_cLI19EXK2oU/SkJPPjES0yI/AAAAAAAAAMI/4wzhK_sBRLo/s400/Shape.jpg)](https://web.archive.org/web/20111010085129/http://1.bp.blogspot.com/_cLI19EXK2oU/SkJPPjES0yI/AAAAAAAAAMI/4wzhK_sBRLo/s1600-h/Shape.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010044959/http://holyfuckingshit4
 date: Tuesday, April 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/flying-lotus-cosmogramma-flac.html
 title: Flying Lotus - Cosmogramma FLAC
+artist: Flying Lotus
+album: Cosmogramma FLAC
+spotify_url: https://open.spotify.com/search/Flying%20Lotus%20Cosmogramma%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Flying%20Lotus%20Cosmogramma%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmogramma%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010044959im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9aejUt8wrI/AAAAAAAAAKc/ZBeBiLWpvOw/s400/WARPCD192+Packshot_1000.jpg)](https://web.archive.org/web/20111010044959/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9aejUt8wrI/AAAAAAAAAKc/ZBeBiLWpvOw/s1600/WARPCD192+Packshot_1000.jpg)  
   

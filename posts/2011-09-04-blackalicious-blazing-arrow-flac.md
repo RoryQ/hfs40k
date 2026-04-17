@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023224453/http://holyfuckingshit4
 date: Sunday, September 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/blackalicious-blazing-arrow-flac.html
 title: Blackalicious - Blazing Arrow (FLAC)
+artist: Blackalicious
+album: Blazing Arrow
+spotify_url: https://open.spotify.com/search/Blackalicious%20Blazing%20Arrow
+apple_music_url: https://geo.music.apple.com/au/album/_/1440772915?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Blackalicious%20Blazing%20Arrow
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023224453im_/http://1.bp.blogspot.com/-95zUMzPN5sQ/TmQmbtQMAcI/AAAAAAAABDk/6QRkDkAw4HM/s400/ba.jpg)](https://web.archive.org/web/20111023224453/http://1.bp.blogspot.com/-95zUMzPN5sQ/TmQmbtQMAcI/AAAAAAAABDk/6QRkDkAw4HM/s1600/ba.jpg)
   

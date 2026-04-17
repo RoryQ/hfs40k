@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085245/http://holyfuckingshit4
 date: Monday, June 29, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/mahmoud-ahmed-ethiopiques-vol-7-ere.html
 title: 'Mahmoud Ahmed - Ethiopiques, Vol. 7: Ere Mela Mela'
+artist: Mahmoud Ahmed
+album: 'Ethiopiques, Vol. 7: Ere Mela Mela'
+spotify_url: https://open.spotify.com/search/Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
+apple_music_url: https://music.apple.com/us/search?term=Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
+youtube_url: https://www.youtube.com/results?search_query=Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085245im_/http://3.bp.blogspot.com/_cLI19EXK2oU/Ski2nD04g5I/AAAAAAAAANg/tvPNimxPd8Y/s400/ahmed_mahmo_eremelame_101b.jpg)](https://web.archive.org/web/20111010085245/http://3.bp.blogspot.com/_cLI19EXK2oU/Ski2nD04g5I/AAAAAAAAANg/tvPNimxPd8Y/s1600-h/ahmed_mahmo_eremelame_101b.jpg)  
 This is a powerful album, with raw intensity, complex rhythm patterns, a fabulous, energetic brass section, and the artistry of Mahmoud Ahmed, who's gritty, strong and sensual voice is terrific, and should have a wider audience.

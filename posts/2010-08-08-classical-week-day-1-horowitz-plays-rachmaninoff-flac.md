@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203221233/http://holyfuckingshit4
 date: Sunday, August 8, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/piano-week-day-1-horowitz-plays.html
 title: 'Classical Week - Day #1 Horowitz Plays Rachmaninoff (FLAC)'
+artist: Classical Week
+album: 'Day #1 Horowitz Plays Rachmaninoff'
+spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
+apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
+youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203221233im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TF7zE4I0noI/AAAAAAAAAxU/APyqV4Vj6k4/s400/51RNiRaIp6L.jpg)](https://web.archive.org/web/20101203221233/http://4.bp.blogspot.com/_cLI19EXK2oU/TF7zE4I0noI/AAAAAAAAAxU/APyqV4Vj6k4/s1600/51RNiRaIp6L.jpg)Vladimir Horowitz made three "official" recordings of Rachmaninoff's formidable Third Concerto. There are wonderful things in the 1930 recording with Coates, but that performance was severely cut. The 1978 version with Ormandy is also marvelous in its own way, but this 1951 studio recording with Reiner is the probably Horowitz's high water mark in this piece. There are a few cuts here, but not as severe as the version with Coates or Rachmaninoff's 1939 recording with Ormandy. Reiner is a sympathetic collaborator and draws some virtuoso playing from the pickup orchestra. The recording balance favors the piano, but Horowitz dazzling virtuosity and clarity deserve to be highlighted. On the whole, this is my favorite Rachmaninoff Third on CD.   
   

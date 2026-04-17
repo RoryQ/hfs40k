@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111512/http://holyfuckingshit4
 date: Friday, March 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/pan-american-quiet-city-flac.html
 title: Pan American - Quiet City (FLAC)
+artist: Pan American
+album: Quiet City
+spotify_url: https://open.spotify.com/search/Pan%20American%20Quiet%20City
+apple_music_url: https://music.apple.com/us/search?term=Pan%20American%20Quiet%20City
+youtube_url: https://www.youtube.com/results?search_query=Pan%20American%20Quiet%20City
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111512im_/http://4.bp.blogspot.com/-D4eGXqjowK0/TXFukzGJokI/AAAAAAAAA6E/ZmTattekfKA/s400/6133-quiet-city.jpg)](https://web.archive.org/web/20111010111512/http://4.bp.blogspot.com/-D4eGXqjowK0/TXFukzGJokI/AAAAAAAAA6E/ZmTattekfKA/s1600/6133-quiet-city.jpg)  
 Pan American is the solo project of Labradfor guitarist Mark Nelson. He's quite the prolific artist, with somewhere around ten albums to his name. This album is one of the best to be released by Kranky this year, and that's saying a lot. 2004 has been the best year the chicago label has ever had, even though one of their better artists, Low, left for Sub Pop.  

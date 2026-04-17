@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175720/http://holyfuckingshit4
 date: Tuesday, September 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/murder-by-death-who-will-survive-and.html
 title: Murder by Death - Who Will Survive, and What Will be Left of Them (FLAC)
+artist: Murder by Death
+album: Who Will Survive, and What Will be Left of Them
+spotify_url: https://open.spotify.com/search/Murder%20by%20Death%20Who%20Will%20Survive%2C%20and%20What%20Will%20be%20Left%20of%20Them
+apple_music_url: https://geo.music.apple.com/au/album/_/726407139?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Murder%20by%20Death%20Who%20Will%20Survive%2C%20and%20What%20Will%20be%20Left%20of%20Them
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175720im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TJioW7aZAAI/AAAAAAAAA1E/j1gmKMc2MPw/s400/murder-by-death-survive.jpg)](https://web.archive.org/web/20111010175720/http://3.bp.blogspot.com/_cLI19EXK2oU/TJioW7aZAAI/AAAAAAAAA1E/j1gmKMc2MPw/s1600/murder-by-death-survive.jpg)"Who Will Survive..." is beautifuly crafted and played album. Every song drips with an erriee sense of evil, something the band seems to bask in. The majority of the songs are about "whiskey and the devil" as the lead singer mentioned at one of the shows I attended. Indeed the majority of the songs include references to whiskey and the evil one himself, but what should be more important is the structue and pure beauty of these 10 songs.
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160218/http://holyfuckingshit4
 date: Wednesday, February 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/danny-norbury-light-in-august-2009-flac.html
 title: Danny Norbury - Light In August [2009, FLAC]
+artist: Danny Norbury
+album: Light In August
+spotify_url: https://open.spotify.com/search/Danny%20Norbury%20Light%20In%20August
+apple_music_url: https://music.apple.com/us/search?term=Danny%20Norbury%20Light%20In%20August
+youtube_url: https://www.youtube.com/results?search_query=Danny%20Norbury%20Light%20In%20August
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160218im_/http://2.bp.blogspot.com/_GAQqEjIHGKA/SlIz_DZhR-I/AAAAAAAACIs/6KAI4oRQH5s/s320/27.jpeg)](https://web.archive.org/web/20111010160218/http://2.bp.blogspot.com/_GAQqEjIHGKA/SlIz_DZhR-I/AAAAAAAACIs/6KAI4oRQH5s/s320/27.jpeg)  
   

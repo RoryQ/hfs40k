@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045710/http://holyfuckingshit4
 date: Monday, April 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/belle-and-sebastian-tigermilk-flac.html
 title: Belle and Sebastian - Tigermilk (FLAC)
+artist: Belle and Sebastian
+album: Tigermilk
+spotify_url: https://open.spotify.com/search/Belle%20and%20Sebastian%20Tigermilk
+apple_music_url: https://music.apple.com/us/search?term=Belle%20and%20Sebastian%20Tigermilk
+youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastian%20Tigermilk
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045710im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WuxjrUNbI/AAAAAAAAAhE/XeBkZnMKJF8/s400/belle-sebastian-tigermilk.jpg)](https://web.archive.org/web/20111010045710/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WuxjrUNbI/AAAAAAAAAhE/XeBkZnMKJF8/s1600/belle-sebastian-tigermilk.jpg)  
 The story of B&S is the story of a band without the intention of selling music, who still became one of the most influential indie-bands. Deriving their name from a French childrens book named "Belle et Sebastién", Belle and Sebastian is by all measures a band quite outside the ordinary.  

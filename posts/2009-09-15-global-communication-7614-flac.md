@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010094257/http://holyfuckingshit4
 date: Tuesday, September 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/09/global-communication-7614-flac.html
 title: Global Communication - 76:14 (FLAC)
+artist: Global Communication
+album: '76:14'
+spotify_url: https://open.spotify.com/search/Global%20Communication%2076%3A14
+apple_music_url: https://geo.music.apple.com/au/album/_/1687117665?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Global%20Communication%2076%3A14
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010094257im_/http://4.bp.blogspot.com/_A31Dfz4S5yg/Sq_arwFvtyI/AAAAAAAAAHU/sfa27JiQP0Q/s320/gc7614.jpeg)](https://web.archive.org/web/20111010094257/http://4.bp.blogspot.com/_A31Dfz4S5yg/Sq_arwFvtyI/AAAAAAAAAHU/sfa27JiQP0Q/s1600-h/gc7614.jpeg)Fairly good ambient/ambientan techno, made a really big impression on me first time I heard it, was best shit evar!! Not so much now but I do believe it's not bad.  
   

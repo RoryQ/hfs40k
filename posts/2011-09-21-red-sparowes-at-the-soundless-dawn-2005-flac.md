@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111213155557/http://holyfuckingshit4
 date: Wednesday, September 21, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/red-sparowes-at-soundless-dawn-2005.html
 title: Red Sparowes - At the Soundless Dawn (2005, FLAC)
+artist: Red Sparowes
+album: At the Soundless Dawn
+spotify_url: https://open.spotify.com/search/Red%20Sparowes%20At%20the%20Soundless%20Dawn
+apple_music_url: https://geo.music.apple.com/au/album/_/257660477?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Red%20Sparowes%20At%20the%20Soundless%20Dawn
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111213155557im_/http://2.bp.blogspot.com/-4LzL9rOWAio/TnoeyGTorHI/AAAAAAAAAEc/iFLjUTzJGLA/s400/rsparowes.jpg)](https://web.archive.org/web/20111213155557/http://2.bp.blogspot.com/-4LzL9rOWAio/TnoeyGTorHI/AAAAAAAAAEc/iFLjUTzJGLA/s1600/rsparowes.jpg)
 

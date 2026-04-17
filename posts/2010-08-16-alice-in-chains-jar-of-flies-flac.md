@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065104/http://holyfuckingshit4
 date: Monday, August 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/alice-in-chains-jar-of-flies-flac.html
 title: Alice In Chains - Jar Of Flies (FLAC)
+artist: Alice In Chains
+album: Jar Of Flies
+spotify_url: https://open.spotify.com/search/Alice%20In%20Chains%20Jar%20Of%20Flies
+apple_music_url: https://music.apple.com/us/search?term=Alice%20In%20Chains%20Jar%20Of%20Flies
+youtube_url: https://www.youtube.com/results?search_query=Alice%20In%20Chains%20Jar%20Of%20Flies
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065104im_/http://2.bp.blogspot.com/_cLI19EXK2oU/TGl9SQJpLCI/AAAAAAAAAyc/FWSKCV-qczM/s400/JarofFliesEP.jpg)](https://web.archive.org/web/20111010065104/http://2.bp.blogspot.com/_cLI19EXK2oU/TGl9SQJpLCI/AAAAAAAAAyc/FWSKCV-qczM/s1600/JarofFliesEP.jpg)  
 Despite being AIC's shortest album and despite my opinion that "Dirt" is perhaps the most exemplary display of the band's sound, I'm gonna go out on a limb here and say that "Jar of Flies" is the best album they have ever done. It was here that the band's warm, emotional side really shone through like never before. The music is largely acoustic and Layne really just sang his heart and soul out.  

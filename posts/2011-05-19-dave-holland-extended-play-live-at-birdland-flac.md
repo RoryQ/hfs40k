@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093525/http://holyfuckingshit4
 date: Thursday, May 19, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/dave-holland-extended-play-live-at.html
 title: 'Dave Holland - Extended Play: Live at Birdland (FLAC)'
+artist: Dave Holland
+album: 'Extended Play: Live at Birdland'
+spotify_url: https://open.spotify.com/search/Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
+apple_music_url: https://music.apple.com/us/search?term=Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
+youtube_url: https://www.youtube.com/results?search_query=Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093525im_/http://4.bp.blogspot.com/-pul1U8UHr0M/TdX1wDzENkI/AAAAAAAAATM/g6BnaYQy92k/s400/folder.jpg)](https://web.archive.org/web/20111010093525/http://4.bp.blogspot.com/-pul1U8UHr0M/TdX1wDzENkI/AAAAAAAAATM/g6BnaYQy92k/s1600/folder.jpg)
 

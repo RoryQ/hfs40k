@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010064834/http://holyfuckingshit4
 date: Thursday, August 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/devo-are-we-not-men-2008-remaster-flac.html
 title: Devo - Are We Not Men? (2008 Remaster FLAC)
+artist: Devo
+album: Are We Not Men?
+spotify_url: https://open.spotify.com/search/Devo%20Are%20We%20Not%20Men%3F
+apple_music_url: https://music.apple.com/us/search?term=Devo%20Are%20We%20Not%20Men%3F
+youtube_url: https://www.youtube.com/results?search_query=Devo%20Are%20We%20Not%20Men%3F
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010064834im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TG16LVs61NI/AAAAAAAAAy0/-pJq-KMHfqo/s400/Devo-AreWeNotMen.jpg)](https://web.archive.org/web/20111010064834/http://3.bp.blogspot.com/_cLI19EXK2oU/TG16LVs61NI/AAAAAAAAAy0/-pJq-KMHfqo/s1600/Devo-AreWeNotMen.jpg)  
 Devo stormed onto the music scene with their 1978 debut; the CD starts perfectly with the "yeah yeah yeah yeah" rumble of "Uncontrollable Urge." They build on this auspicious beginning with their remake of "(I Can't Get No) Satisfaction," which always sounds to me as though the music consists solely of a synthesizer backed with garage tools being banged together. I love the irony of these rather contained and arty "rockers" opening their debut CD with two such completely hedonistic songs.  

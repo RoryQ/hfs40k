@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091345/http://holyfuckingshit4
 date: Wednesday, June 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/skullflower-form-destroyer.html
 title: Skullflower - Form Destroyer
+artist: Skullflower
+album: Form Destroyer
+spotify_url: https://open.spotify.com/search/Skullflower%20Form%20Destroyer
+apple_music_url: https://music.apple.com/us/search?term=Skullflower%20Form%20Destroyer
+youtube_url: https://www.youtube.com/results?search_query=Skullflower%20Form%20Destroyer
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091345im_/http://3.bp.blogspot.com/_cLI19EXK2oU/SjkX2a7mdtI/AAAAAAAAAK4/kgvrRsJ31pk/s400/formdestroyer.jpg)](https://web.archive.org/web/20111010091345/http://3.bp.blogspot.com/_cLI19EXK2oU/SjkX2a7mdtI/AAAAAAAAAK4/kgvrRsJ31pk/s1600-h/formdestroyer.jpg)  
   

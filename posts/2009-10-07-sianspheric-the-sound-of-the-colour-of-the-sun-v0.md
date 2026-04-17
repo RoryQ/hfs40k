@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010033235/http://holyfuckingshit4
 date: Wednesday, October 7, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/sianspheric-sound-of-colour-of-sun-v0.html
 title: Sianspheric - The Sound of the Colour of the Sun [v0]
+artist: Sianspheric
+album: The Sound of the Colour of the Sun
+spotify_url: https://open.spotify.com/search/Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
+apple_music_url: https://music.apple.com/us/search?term=Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
+youtube_url: https://www.youtube.com/results?search_query=Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010033235im_/http://2.bp.blogspot.com/_cLI19EXK2oU/SszKsHGrUYI/AAAAAAAAAUw/2n9Dd3-8ybM/s400/sian02.jpg)](https://web.archive.org/web/20111010033235/http://2.bp.blogspot.com/_cLI19EXK2oU/SszKsHGrUYI/AAAAAAAAAUw/2n9Dd3-8ybM/s1600-h/sian02.jpg)  
 2001: Space Rawk Odyssey  

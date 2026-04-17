@@ -4,7 +4,15 @@ date: Friday, August 13, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/classical-week-day-6-paganini-24.html
 title: "Classical Week - Day #6 Niccol\xF2 Paganini: 24 Caprices for Solo Violin (Itzhak\
   \ Perlman)"
+artist: Classical Week
+album: "Day #6 Niccol\xF2 Paganini: 24 Caprices for Solo Violin"
+spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
+apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
+youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065326im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TGUCFx-B6hI/AAAAAAAAAyE/DO1Mw73SpYA/s400/51iCRktqB3L._SS500_.jpg)](https://web.archive.org/web/20111010065326/http://4.bp.blogspot.com/_cLI19EXK2oU/TGUCFx-B6hI/AAAAAAAAAyE/DO1Mw73SpYA/s1600/51iCRktqB3L._SS500_.jpg)  
 

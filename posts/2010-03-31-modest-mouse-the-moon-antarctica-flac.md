@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083213/http://holyfuckingshit4
 date: Wednesday, March 31, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/modest-mouse-moon-antarctica-flac.html
 title: Modest Mouse - The Moon & Antarctica (FLAC)
+artist: Modest Mouse
+album: The Moon & Antarctica
+spotify_url: https://open.spotify.com/search/Modest%20Mouse%20The%20Moon%20%26%20Antarctica
+apple_music_url: https://music.apple.com/us/search?term=Modest%20Mouse%20The%20Moon%20%26%20Antarctica
+youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20The%20Moon%20%26%20Antarctica
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083213im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S7PqYovHK0I/AAAAAAAAAck/fhF94d205PA/s400/moon.jpg)](https://web.archive.org/web/20111010083213/http://3.bp.blogspot.com/_cLI19EXK2oU/S7PqYovHK0I/AAAAAAAAAck/fhF94d205PA/s1600/moon.jpg)  
   

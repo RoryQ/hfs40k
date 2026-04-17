@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100144/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/naked-city-naked-city-flac.html
 title: Naked City - Naked City (FLAC)
+artist: Naked City
+album: Naked City
+spotify_url: https://open.spotify.com/search/Naked%20City%20Naked%20City
+apple_music_url: https://geo.music.apple.com/au/album/_/298696230?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Naked%20City%20Naked%20City
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100144im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S-7GZLS-dUI/AAAAAAAAAmc/10yXf5AhlnM/s400/cover_554163182009.jpg)](https://web.archive.org/web/20111010100144/http://3.bp.blogspot.com/_cLI19EXK2oU/S-7GZLS-dUI/AAAAAAAAAmc/10yXf5AhlnM/s1600/cover_554163182009.jpg)  
 John Zorn hails from New York and has been one of the most interesting and exciting figures in contemporary music for years. He appears to be of limitless talent, acquiring quite a reputation for his wild eclecticism. That eclecticism is wildly abundant on this fine, fine album, as Zorn and Company rage thru the music of Ornette Coleman, Henry Mancini, Ennio Morricone, John Barry, and of course Mr. Zorn himself. They blaze through jazz, swing, blues, free jazz, noise, rock, thrash, and surf- often in the same song. This is great music for today's attention-span addled human. In fact, I think this would actually be a great album for youngsters with an interest in jazz to listen to. It is fast moving, often changing, and definitely never boring. I haven't listened to this CD for awhile (until today), and I forgot how enthralling it is.  

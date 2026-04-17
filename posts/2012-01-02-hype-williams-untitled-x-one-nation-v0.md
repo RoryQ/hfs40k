@@ -3,7 +3,16 @@ archived_url: https://web.archive.org/web/20120117070146/http://holyfuckingshit4
 date: Monday, January 2, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/hype-williams-untitled-x-one-nation-v0.html
 title: Hype Williams - Untitled x One Nation (v0)
+artist: Hype Williams
+album: Untitled x One Nation
+spotify_url: https://open.spotify.com/search/Hype%20Williams%20Untitled%20x%20One%20Nation
+apple_music_url: https://music.apple.com/us/search?term=Hype%20Williams%20Untitled%20x%20One%20Nation
+youtube_url: https://www.youtube.com/results?search_query=Hype%20Williams%20Untitled%20x%20One%20Nation
 ---
+
+
+
+
 
 Good day peoples who follow HFS40k. Haven't posted here in months so I figured I'd drop by to say hi and give you some music I've been digging. Enter Hype Williams: "Onstage, online, and on film, the band likes to maintain an aura of cut-and-paste mystery: they perform wearing elaborate DIY masks on stage (often made out of aluminium foil), call themselves D. Blunt and Inga Copeland, are practically impossible to catch for an interview. When you do corner them with questions, they respond something totally (or rather, seemingly) unrelated."
 

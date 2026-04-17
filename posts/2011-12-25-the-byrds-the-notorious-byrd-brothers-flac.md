@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120117185743/http://holyfuckingshit4
 date: Sunday, December 25, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/12/byrds-notorious-byrd-brothers-flac.html
 title: The Byrds - The Notorious Byrd Brothers (FLAC)
+artist: The Byrds
+album: The Notorious Byrd Brothers
+spotify_url: https://open.spotify.com/search/The%20Byrds%20The%20Notorious%20Byrd%20Brothers
+apple_music_url: https://geo.music.apple.com/au/album/_/257558067?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Byrds%20The%20Notorious%20Byrd%20Brothers
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120117185743im_/http://4.bp.blogspot.com/-ooXpCIfi-Sw/TvdmDe3FTSI/AAAAAAAABMk/8EMrIswkRKg/s400/album-the-notorious-byrd-brothers.jpg)](https://web.archive.org/web/20120117185743/http://4.bp.blogspot.com/-ooXpCIfi-Sw/TvdmDe3FTSI/AAAAAAAABMk/8EMrIswkRKg/s1600/album-the-notorious-byrd-brothers.jpg)  
   

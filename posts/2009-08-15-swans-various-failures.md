@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145200/http://holyfuckingshit4
 date: Saturday, August 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/swans-various-failures.html
 title: Swans - Various Failures
+artist: Swans
+album: Various Failures
+spotify_url: https://open.spotify.com/search/Swans%20Various%20Failures
+apple_music_url: https://music.apple.com/us/search?term=Swans%20Various%20Failures
+youtube_url: https://www.youtube.com/results?search_query=Swans%20Various%20Failures
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145200im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SodJh1p_ZII/AAAAAAAAASA/xfYiUzeULvI/s400/swansvf.jpg)](https://web.archive.org/web/20111010145200/http://4.bp.blogspot.com/_cLI19EXK2oU/SodJh1p_ZII/AAAAAAAAASA/xfYiUzeULvI/s1600-h/swansvf.jpg)  
 **You can bank your hard earned money on Failure**  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111547/http://holyfuckingshit4
 date: Thursday, March 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/melvins-houdini-flac.html
 title: Melvins - Houdini (FLAC)
+artist: Melvins
+album: Houdini
+spotify_url: https://open.spotify.com/search/Melvins%20Houdini
+apple_music_url: https://geo.music.apple.com/au/album/_/300975382?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Melvins%20Houdini
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111547im_/http://1.bp.blogspot.com/-XYZ0VaZ7K24/TW_Wyj6tvnI/AAAAAAAAA5s/C1u8sDAMASk/s400/houdini.jpg)](https://web.archive.org/web/20111010111547/http://1.bp.blogspot.com/-XYZ0VaZ7K24/TW_Wyj6tvnI/AAAAAAAAA5s/C1u8sDAMASk/s1600/houdini.jpg)  
 Announced by the thunderous, crashing, opening notes of "Hooch," "Houdini," is the document of an overtly noncommercial band channeling their artistic presence into a mildly more produced, dynamic sound. This is in part due to their brief signing to Atlantic Records and in part due to the bands compadre Kurt Cobain chipping in at the mixing board, along with his contribution to the guitar on two songs.  

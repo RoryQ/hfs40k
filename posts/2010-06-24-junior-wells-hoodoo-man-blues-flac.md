@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173125/http://holyfuckingshit4
 date: Thursday, June 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/junior-wells-hoodoo-man-blues-flac.html
 title: Junior Wells - Hoodoo Man Blues (FLAC)
+artist: Junior Wells
+album: Hoodoo Man Blues
+spotify_url: https://open.spotify.com/search/Junior%20Wells%20Hoodoo%20Man%20Blues
+apple_music_url: https://geo.music.apple.com/au/album/_/74727463?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Junior%20Wells%20Hoodoo%20Man%20Blues
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173125im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/TCMWlPahmZI/AAAAAAAAASU/yObqtoOtPEw/s400/Hoodoo+Man+Blues+cover.jpg)](https://web.archive.org/web/20111010173125/http://3.bp.blogspot.com/_t6lWjgwMoxw/TCMWlPahmZI/AAAAAAAAASU/yObqtoOtPEw/s1600/Hoodoo+Man+Blues+cover.jpg)  
   

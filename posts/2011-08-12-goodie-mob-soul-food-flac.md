@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010035238/http://holyfuckingshit4
 date: Friday, August 12, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/goodie-mob-soul-food-flac.html
 title: Goodie Mob - Soul Food (FLAC)
+artist: Goodie Mob
+album: Soul Food
+spotify_url: https://open.spotify.com/search/Goodie%20Mob%20Soul%20Food
+apple_music_url: https://music.apple.com/us/search?term=Goodie%20Mob%20Soul%20Food
+youtube_url: https://www.youtube.com/results?search_query=Goodie%20Mob%20Soul%20Food
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010035238im_/http://2.bp.blogspot.com/-7LnXIuDcUYU/TkXwSpssEEI/AAAAAAAABA4/OQUabJh-LLw/s400/soul_food_CD_large.jpg)](https://web.archive.org/web/20111010035238/http://2.bp.blogspot.com/-7LnXIuDcUYU/TkXwSpssEEI/AAAAAAAABA4/OQUabJh-LLw/s1600/soul_food_CD_large.jpg)
   

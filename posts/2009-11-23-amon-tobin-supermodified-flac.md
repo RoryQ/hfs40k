@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121844/http://holyfuckingshit4
 date: Monday, November 23, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/amon-tobin-supermodified-flac.html
 title: Amon Tobin - Supermodified (FLAC)
+artist: Amon Tobin
+album: Supermodified
+spotify_url: https://open.spotify.com/search/Amon%20Tobin%20Supermodified
+apple_music_url: https://music.apple.com/us/search?term=Amon%20Tobin%20Supermodified
+youtube_url: https://www.youtube.com/results?search_query=Amon%20Tobin%20Supermodified
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121844im_/http://i45.tinypic.com/11qke1k.jpg)](https://web.archive.org/web/20111010121844/http://i45.tinypic.com/11qke1k.jpg)  
   

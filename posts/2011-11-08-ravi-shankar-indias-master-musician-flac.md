@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111203232832/http://holyfuckingshit4
 date: Tuesday, November 8, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/11/ravi-shankar-indias-master-musician.html
 title: Ravi Shankar - India's Master Musician  (FLAC)
+artist: Ravi Shankar
+album: India's Master Musician
+spotify_url: https://open.spotify.com/search/Ravi%20Shankar%20India%27s%20Master%20Musician
+apple_music_url: https://geo.music.apple.com/au/album/_/724465582?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20India%27s%20Master%20Musician
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111203232832im_/http://4.bp.blogspot.com/-NDKlOco92Cs/TrlR-Tk_a2I/AAAAAAAABI8/bwWxOjAkrDY/s400/2509105-ravi-shankar-indias-master-musician.jpg)](https://web.archive.org/web/20111203232832/http://4.bp.blogspot.com/-NDKlOco92Cs/TrlR-Tk_a2I/AAAAAAAABI8/bwWxOjAkrDY/s1600/2509105-ravi-shankar-indias-master-musician.jpg)  
 I wish I could have all of the "REMASTERED CDs" that have been released now and perhaps one day I will. But this was the first one I got which started off my Ravi Shankar collection. This is an excellent CD because it gives you five completely different raags including a "dhun" and a "thumri" style. What is great about these old recordings is that Panditji has condensed every raag in a shorter version of a fully blown concert which is usually about an hour long.   

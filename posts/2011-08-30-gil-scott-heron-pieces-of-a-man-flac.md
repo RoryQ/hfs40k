@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010035022/http://holyfuckingshit4
 date: Tuesday, August 30, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/gil-scott-heron-pieces-of-man-flac.html
 title: Gil Scott-Heron - Pieces Of A Man (FLAC)
+artist: Gil Scott
+album: Heron - Pieces Of A Man
+spotify_url: https://open.spotify.com/search/Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
+apple_music_url: https://music.apple.com/us/search?term=Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
+youtube_url: https://www.youtube.com/results?search_query=Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010035022im_/http://4.bp.blogspot.com/-ku6tpuyltwI/Tl0xK4-No2I/AAAAAAAABDA/nAiaUByi8MY/s400/pieces.jpg)](https://web.archive.org/web/20111010035022/http://4.bp.blogspot.com/-ku6tpuyltwI/Tl0xK4-No2I/AAAAAAAABDA/nAiaUByi8MY/s1600/pieces.jpg)
   

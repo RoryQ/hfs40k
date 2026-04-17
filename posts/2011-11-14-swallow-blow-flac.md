@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111201050117/http://holyfuckingshit4
 date: Monday, November 14, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/11/swallow-blow-flac.html
 title: Swallow - Blow [FLAC]
+artist: Swallow
+album: Blow
+spotify_url: https://open.spotify.com/search/Swallow%20Blow
+apple_music_url: https://music.apple.com/us/search?term=Swallow%20Blow
+youtube_url: https://www.youtube.com/results?search_query=Swallow%20Blow
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111201050117im_/http://2.bp.blogspot.com/-amTo93Aa7TY/TsGZYZdhcDI/AAAAAAAAAX8/JaaYBdl5ER0/s400/o54958.jpg)](https://web.archive.org/web/20111201050117/http://2.bp.blogspot.com/-amTo93Aa7TY/TsGZYZdhcDI/AAAAAAAAAX8/JaaYBdl5ER0/s1600/o54958.jpg)  
   

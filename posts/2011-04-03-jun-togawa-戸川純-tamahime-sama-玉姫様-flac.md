@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145854/http://holyfuckingshit4
 date: Sunday, April 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/jun-togawa-tamahime-sama-flac.html
 title: "Jun Togawa (\u6238\u5DDD\u7D14) - Tamahime-Sama (\u7389\u59EB\u69D8) [FLAC]"
+artist: "Jun Togawa (\u6238\u5DDD\u7D14)"
+album: Tamahime-Sama
+spotify_url: https://open.spotify.com/search/Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
+apple_music_url: https://music.apple.com/us/search?term=Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
+youtube_url: https://www.youtube.com/results?search_query=Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145854im_/http://2.bp.blogspot.com/-Rz5oJBke3O8/TZjPjmm9OrI/AAAAAAAAAQU/KeERHyf7tYM/s400/o523962.jpg)](https://web.archive.org/web/20111010145854/http://2.bp.blogspot.com/-Rz5oJBke3O8/TZjPjmm9OrI/AAAAAAAAAQU/KeERHyf7tYM/s1600/o523962.jpg)  
 Comparisons are always reductive. At Jrawk, we tend to shy away from phrases like "The Japanese \_\_\_." One, it reinforces the irritating stereotype that non-English speaking countries just copy English speaking artists. Two, it inevitably sets the listener up for elements of the known artist that might not appear in the unknown artist.  

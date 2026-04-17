@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010091722/http://holyfuckingshit4
 date: Thursday, June 4, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/loop-heavens-end-2008-remastered.html
 title: Loop - Heaven's End (2008 Remastered)
+artist: Loop
+album: Heaven's End
+spotify_url: https://open.spotify.com/search/Loop%20Heaven%27s%20End
+apple_music_url: https://geo.music.apple.com/au/album/_/1541888474?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Loop%20Heaven%27s%20End
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010091722im_/http://1.bp.blogspot.com/_cLI19EXK2oU/Sig8SNbuTnI/AAAAAAAAAIA/IXl8WO2tpzU/s400/back.jpg)](https://web.archive.org/web/20111010091722/http://1.bp.blogspot.com/_cLI19EXK2oU/Sig8SNbuTnI/AAAAAAAAAIA/IXl8WO2tpzU/s1600-h/back.jpg)  
   

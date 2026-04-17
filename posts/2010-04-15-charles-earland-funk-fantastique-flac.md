@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20100424060529/http://holyfuckingshit4
 date: Thursday, April 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/charles-earland-funk-fantastique-flac.html
 title: Charles Earland - Funk Fantastique [FLAC]
+artist: Charles Earland
+album: Funk Fantastique
+spotify_url: https://open.spotify.com/search/Charles%20Earland%20Funk%20Fantastique
+apple_music_url: https://music.apple.com/us/search?term=Charles%20Earland%20Funk%20Fantastique
+youtube_url: https://www.youtube.com/results?search_query=Charles%20Earland%20Funk%20Fantastique
 ---
+
+
+
 
 [![](https://web.archive.org/web/20100424060529im_/http://1.bp.blogspot.com/_ZGBCgBK9ack/S8e1kZP6avI/AAAAAAAAAFg/7ZcvfkB0Mj4/s400/ce04.jpg)](https://web.archive.org/web/20100424060529/http://1.bp.blogspot.com/_ZGBCgBK9ack/S8e1kZP6avI/AAAAAAAAAFg/7ZcvfkB0Mj4/s1600/ce04.jpg)  
 

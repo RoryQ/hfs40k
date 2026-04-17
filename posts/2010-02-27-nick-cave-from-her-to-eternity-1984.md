@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160123/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/nick-cave-from-her-to-eternity-1984.html
 title: Nick Cave - From Her to Eternity (1984)
+artist: Nick Cave
+album: From Her to Eternity
+spotify_url: https://open.spotify.com/search/Nick%20Cave%20From%20Her%20to%20Eternity
+apple_music_url: https://music.apple.com/us/search?term=Nick%20Cave%20From%20Her%20to%20Eternity
+youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20From%20Her%20to%20Eternity
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160123im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4nMNOkMKMI/AAAAAAAAAX0/r-Lj5aIqmig/s400/n3rf9.jpg)](https://web.archive.org/web/20111010160123/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4nMNOkMKMI/AAAAAAAAAX0/r-Lj5aIqmig/s1600-h/n3rf9.jpg)  
 

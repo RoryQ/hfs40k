@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083259/http://holyfuckingshit4
 date: Saturday, March 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/have-nice-life-time-of-land-2010.html
 title: Have A Nice Life - Time of Land (2010)
+artist: Have A Nice Life
+album: Time of Land
+spotify_url: https://open.spotify.com/search/Have%20A%20Nice%20Life%20Time%20of%20Land
+apple_music_url: https://music.apple.com/us/search?term=Have%20A%20Nice%20Life%20Time%20of%20Land
+youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life%20Time%20of%20Land
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083259im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KUEkSce9I/AAAAAAAAAag/xqoXWzlgbQc/s400/timeofland_big_cover.jpg)](https://web.archive.org/web/20111010083259/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KUEkSce9I/AAAAAAAAAag/xqoXWzlgbQc/s1600-h/timeofland_big_cover.jpg)  
 "Time of Land is the name of an E.P. we kind of fell into while working on our next full-length album. It was sold in physical form only once: at our first show ever, at The Stone in NYC. About 50 tapes were sold that night.  

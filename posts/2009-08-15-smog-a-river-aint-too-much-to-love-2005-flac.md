@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145636/http://holyfuckingshit4
 date: Saturday, August 15, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/smog-river-aint-too-much-to-love-2005.html
 title: Smog - A River Aint Too Much To Love (2005) [FLAC]
+artist: Smog
+album: A River Aint Too Much To Love
+spotify_url: https://open.spotify.com/search/Smog%20A%20River%20Aint%20Too%20Much%20To%20Love
+apple_music_url: https://geo.music.apple.com/au/album/_/57688631?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Smog%20A%20River%20Aint%20Too%20Much%20To%20Love
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145636im_/http://3.bp.blogspot.com/_szA7LlYqWKo/Se6P2hZQJOI/AAAAAAAAAN0/xi_Fmqz_R9E/s320/7286-a-river-aint-too-much-to-love.jpg)](https://web.archive.org/web/20111010145636/http://3.bp.blogspot.com/_szA7LlYqWKo/Se6P2hZQJOI/AAAAAAAAAN0/xi_Fmqz_R9E/s320/7286-a-river-aint-too-much-to-love.jpg)The Joanna Newsom post a few days ago reminded me to post this. I saw Smog and Joanna Newsom play a show a few years back that was just fantastic.
 

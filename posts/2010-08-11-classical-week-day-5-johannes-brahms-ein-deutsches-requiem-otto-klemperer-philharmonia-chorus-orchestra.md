@@ -4,7 +4,15 @@ date: Wednesday, August 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/classical-week-day-5-johannes-brahms.html
 title: 'Classical Week - Day #5 Johannes Brahms: Ein Deutsches Requiem (Otto Klemperer,
   Philharmonia Chorus & Orchestra)'
+artist: Classical Week
+album: 'Day #5 Johannes Brahms: Ein Deutsches Requiem'
+spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
+apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
+youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065154im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TGOLrkOpkfI/AAAAAAAAAx0/HCXB0PsQciU/s400/61Rl6Y8ITIL+(1).jpg)](https://web.archive.org/web/20111010065154/http://1.bp.blogspot.com/_cLI19EXK2oU/TGOLrkOpkfI/AAAAAAAAAx0/HCXB0PsQciU/s1600/61Rl6Y8ITIL+(1).jpg)  
 

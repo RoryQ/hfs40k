@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010163636/http://holyfuckingshit4
 date: Wednesday, March 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/neurosis-sun-that-never-sets-flac.html
 title: Neurosis - A Sun That Never Sets (FLAC)
+artist: Neurosis
+album: A Sun That Never Sets
+spotify_url: https://open.spotify.com/search/Neurosis%20A%20Sun%20That%20Never%20Sets
+apple_music_url: https://music.apple.com/us/search?term=Neurosis%20A%20Sun%20That%20Never%20Sets
+youtube_url: https://www.youtube.com/results?search_query=Neurosis%20A%20Sun%20That%20Never%20Sets
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010163636im_/http://i39.tinypic.com/11hgj09.jpg)](https://web.archive.org/web/20111010163636/http://i39.tinypic.com/11hgj09.jpg)"A sun that never sets. Solitary star scorching skeletons strewn sleepless save simple, sanguine stirrings. Half of the planet scalded into submission beneath an unrelenting, untouchable force. The other half eternally oppressed in a frozen wasteland devoid of hope or meaning. Neurosis chooses to illustrate the former.  
   

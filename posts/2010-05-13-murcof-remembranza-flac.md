@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100511/http://holyfuckingshit4
 date: Thursday, May 13, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/murcof-remembranza-flac.html
 title: Murcof - Remembranza FLAC
+artist: Murcof
+album: Remembranza FLAC
+spotify_url: https://open.spotify.com/search/Murcof%20Remembranza%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Murcof%20Remembranza%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Murcof%20Remembranza%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100511im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S-vHowzUuxI/AAAAAAAAANs/yJLKpLYMkLA/s400/2806454884_99300a6a81.jpg)](https://web.archive.org/web/20111010100511/http://1.bp.blogspot.com/_t6lWjgwMoxw/S-vHowzUuxI/AAAAAAAAANs/yJLKpLYMkLA/s1600/2806454884_99300a6a81.jpg)  
   

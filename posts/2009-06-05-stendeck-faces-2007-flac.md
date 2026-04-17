@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010084957/http://holyfuckingshit4
 date: Friday, June 5, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/stendeck-faces-2007-flac.html
 title: Stendeck - Faces (2007) [FLAC]
+artist: Stendeck
+album: Faces
+spotify_url: https://open.spotify.com/search/Stendeck%20Faces
+apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Faces
+youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Faces
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010084957im_/http://3.bp.blogspot.com/_7ZAm7Q56iwM/SilNqBAvFSI/AAAAAAAAADs/9W5WrkwmfD8/s320/954547.jpg)](https://web.archive.org/web/20111010084957/http://3.bp.blogspot.com/_7ZAm7Q56iwM/SilNqBAvFSI/AAAAAAAAADs/9W5WrkwmfD8/s1600-h/954547.jpg)  
   

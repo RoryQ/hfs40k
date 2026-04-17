@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010170657/http://holyfuckingshit4
 date: Tuesday, March 3, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/fly-pan-am-necoutez-pas-2004.html
 title: Fly Pan Am - N'Ecoutez Pas (2004)
+artist: Fly Pan Am
+album: N'Ecoutez Pas
+spotify_url: https://open.spotify.com/search/Fly%20Pan%20Am%20N%27Ecoutez%20Pas
+apple_music_url: https://geo.music.apple.com/au/album/_/480325042?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Fly%20Pan%20Am%20N%27Ecoutez%20Pas
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010170657im_/http://i41.tinypic.com/160wizk.jpg)](https://web.archive.org/web/20111010170657/http://i41.tinypic.com/160wizk.jpg)  
   

@@ -4,7 +4,15 @@ date: Thursday, June 10, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/james-brown-live-at-apollo-mobile.html
 title: "James Brown \u2013 Live At The Apollo (Mobile Fidelity Sound Lab Remaster\
   \ FLAC)"
+artist: James Brown
+album: Live At The Apollo
+spotify_url: https://open.spotify.com/search/James%20Brown%20Live%20At%20The%20Apollo
+apple_music_url: https://music.apple.com/us/search?term=James%20Brown%20Live%20At%20The%20Apollo
+youtube_url: https://www.youtube.com/results?search_query=James%20Brown%20Live%20At%20The%20Apollo
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010172948im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TBEWGLadcrI/AAAAAAAAAtE/ouFUGRh-ibw/s400/jbapollo.jpg)](https://web.archive.org/web/20111010172948/http://1.bp.blogspot.com/_cLI19EXK2oU/TBEWGLadcrI/AAAAAAAAAtE/ouFUGRh-ibw/s1600/jbapollo.jpg)  
 October 24, 1962 is a date that will live in music infamy. For it was then at the midnight show at Harlem's famed Apollo Theater when James Brown recorded the album that fully introduced soul music to America and gave documented proof that he was indeed the greatest showman alive.

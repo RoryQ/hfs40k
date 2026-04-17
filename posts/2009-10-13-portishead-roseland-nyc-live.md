@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010032828/http://holyfuckingshit4
 date: Tuesday, October 13, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/10/portishead-roseland-nyc-live.html
 title: Portishead - Roseland NYC Live
+artist: Portishead
+album: Roseland NYC Live
+spotify_url: https://open.spotify.com/search/Portishead%20Roseland%20NYC%20Live
+apple_music_url: https://music.apple.com/us/search?term=Portishead%20Roseland%20NYC%20Live
+youtube_url: https://www.youtube.com/results?search_query=Portishead%20Roseland%20NYC%20Live
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010032828im_/http://2.bp.blogspot.com/_cLI19EXK2oU/StT2oQSyfwI/AAAAAAAAAVA/MWNi-8jeW2I/s400/pnyc.jpg)](https://web.archive.org/web/20111010032828/http://2.bp.blogspot.com/_cLI19EXK2oU/StT2oQSyfwI/AAAAAAAAAVA/MWNi-8jeW2I/s1600-h/pnyc.jpg)  
 Most live albums pretty much lose the feel of the original studio albums -- sometimes they sound tinny and distant. No such sound here. "Live: Roseland NYC" has not only an orchestra, but the jazzy trip-hop of Portishead's two albums, and the beautiful voice of Beth Gibbons. No wonder it was so good.  

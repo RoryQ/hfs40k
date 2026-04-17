@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010072028/http://holyfuckingshit4
 date: Tuesday, December 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/autechre-oversteps-2010-flac.html
 title: Autechre - Oversteps (2010, FLAC)
+artist: Autechre
+album: Oversteps
+spotify_url: https://open.spotify.com/search/Autechre%20Oversteps
+apple_music_url: https://music.apple.com/us/search?term=Autechre%20Oversteps
+youtube_url: https://www.youtube.com/results?search_query=Autechre%20Oversteps
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010072028im_/http://1.bp.blogspot.com/_8OQrKaBbb98/TP5dGjsjzeI/AAAAAAAAACY/4EsdnE2No-0/s400/oversteps.jpg)](https://web.archive.org/web/20111010072028/http://1.bp.blogspot.com/_8OQrKaBbb98/TP5dGjsjzeI/AAAAAAAAACY/4EsdnE2No-0/s1600/oversteps.jpg)
 

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010160111/http://holyfuckingshit4
 date: Monday, February 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/tom-waits-alice-2002-flac.html
 title: Tom Waits - Alice (2002) [FLAC]
+artist: Tom Waits
+album: Alice
+spotify_url: https://open.spotify.com/search/Tom%20Waits%20Alice
+apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Alice
+youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Alice
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010160111im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4OBjrNwpcI/AAAAAAAAAW8/EdIiD0RUf-Y/s400/tomwaits_alice.jpg)](https://web.archive.org/web/20111010160111/http://4.bp.blogspot.com/_bIgHZQu-UEA/S4OBjrNwpcI/AAAAAAAAAW8/EdIiD0RUf-Y/s1600-h/tomwaits_alice.jpg)  
 

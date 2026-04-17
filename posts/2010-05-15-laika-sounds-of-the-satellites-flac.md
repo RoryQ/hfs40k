@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100522/http://holyfuckingshit4
 date: Saturday, May 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/laika-sounds-of-satellites-flac.html
 title: Laika - Sounds of the Satellites (FLAC)
+artist: Laika
+album: Sounds of the Satellites
+spotify_url: https://open.spotify.com/search/Laika%20Sounds%20of%20the%20Satellites
+apple_music_url: https://geo.music.apple.com/au/album/_/7060524?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Laika%20Sounds%20of%20the%20Satellites
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100522im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-6-v_DGPlI/AAAAAAAAAlk/5zMuLr1DuVg/s400/1cd8a2c008a04e2b785d2010.L.jpg)](https://web.archive.org/web/20111010100522/http://2.bp.blogspot.com/_cLI19EXK2oU/S-6-v_DGPlI/AAAAAAAAAlk/5zMuLr1DuVg/s1600/1cd8a2c008a04e2b785d2010.L.jpg)  
 After the busy, dizzy soundscapes of "Silver Apples of the Moon," Laika return two years later with the cooler, spacier sonic drifts of "Sounds of the Satellites." There are still clanks, quirks and rattles a'plenty, but with larger spaces in between. "Prarie Dog" lopes and glistens, like stars twinkling over a grassy hill. "Spooky Rhodes" and "Breather" pillow you on lush drifts of gentle electronica. "Bedbugs" and "Poor Gal" stir up the mix with car alarms, clanks, inner city groove and outerspace noise. "Blood and Bones" hits a happy medium, tempo, noise and space.

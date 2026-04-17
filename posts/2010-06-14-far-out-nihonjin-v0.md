@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175137/http://holyfuckingshit4
 date: Monday, June 14, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/far-out-nihonjin-v0.html
 title: Far Out - Nihonjin (v0)
+artist: Far Out
+album: Nihonjin
+spotify_url: https://open.spotify.com/search/Far%20Out%20Nihonjin
+apple_music_url: https://music.apple.com/us/search?term=Far%20Out%20Nihonjin
+youtube_url: https://www.youtube.com/results?search_query=Far%20Out%20Nihonjin
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175137im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TBZgh7Uo2sI/AAAAAAAAAtk/J51Tyqll3zc/s400/Far+Out.jpg)](https://web.archive.org/web/20111010175137/http://4.bp.blogspot.com/_cLI19EXK2oU/TBZgh7Uo2sI/AAAAAAAAAtk/J51Tyqll3zc/s1600/Far+Out.jpg)  
 Far Out was actually the pre-cursor to Far East Family Band, much like Organisation was to Kraftwerk. But many would file Organisation's Tone Float under Kraftwerk like Far Out under Far East Family Band so these titles wouldn't get lost.  

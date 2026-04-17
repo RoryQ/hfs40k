@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093550/http://holyfuckingshit4
 date: Tuesday, May 10, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/wayne-shorter-juju-flac.html
 title: Wayne Shorter - JuJu (FLAC)
+artist: Wayne Shorter
+album: JuJu
+spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20JuJu
+apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20JuJu
+youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20JuJu
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093550im_/http://2.bp.blogspot.com/-tKz8iln4AB0/TcloLpe0GPI/AAAAAAAAASc/KKlIsImGv-A/s400/folder.jpg)](https://web.archive.org/web/20111010093550/http://2.bp.blogspot.com/-tKz8iln4AB0/TcloLpe0GPI/AAAAAAAAASc/KKlIsImGv-A/s1600/folder.jpg)Wayne Shorter. McCoy Tyner. Elvin Jones. Reggie Workman. That's my review.
 

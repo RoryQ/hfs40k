@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111117080055/http://holyfuckingshit4
 date: Friday, October 7, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/10/ugk-ridin-dirty-flac.html
 title: UGK - Ridin' Dirty (FLAC)
+artist: UGK
+album: Ridin' Dirty
+spotify_url: https://open.spotify.com/search/UGK%20Ridin%27%20Dirty
+apple_music_url: https://music.apple.com/us/search?term=UGK%20Ridin%27%20Dirty
+youtube_url: https://www.youtube.com/results?search_query=UGK%20Ridin%27%20Dirty
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111117080055im_/http://1.bp.blogspot.com/-CEtTdSpfPVI/To9AQeNyNsI/AAAAAAAABHA/pYonKqSNLCg/s400/ugk-ridin-dirty.jpg)](https://web.archive.org/web/20111117080055/http://1.bp.blogspot.com/-CEtTdSpfPVI/To9AQeNyNsI/AAAAAAAABHA/pYonKqSNLCg/s1600/ugk-ridin-dirty.jpg)  
 Long before Chamillionaire was "Ridin' Dirty"(which was questionably changed to simply "Ridin'" when it made radio waves) on the charts, the Underground Kingz were ridin' dirtier than anyone else in the game; and to this day, this is still one of the rawest records to come from the Dirty South.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145952/http://holyfuckingshit4
 date: Monday, April 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/vali-forlatt-flac.html
 title: "V\xE1li - Forlatt [FLAC]"
+artist: "V\xE1li"
+album: Forlatt
+spotify_url: https://open.spotify.com/search/V%C3%A1li%20Forlatt
+apple_music_url: https://music.apple.com/us/search?term=V%C3%A1li%20Forlatt
+youtube_url: https://www.youtube.com/results?search_query=V%C3%A1li%20Forlatt
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145952im_/http://4.bp.blogspot.com/-YCQkZI24LZY/TZpCjW36QLI/AAAAAAAAAIQ/rQMTVZKuXuA/s400/Cover.jpg)](https://web.archive.org/web/20111010145952/http://4.bp.blogspot.com/-YCQkZI24LZY/TZpCjW36QLI/AAAAAAAAAIQ/rQMTVZKuXuA/s1600/Cover.jpg)  
 

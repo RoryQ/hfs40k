@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008161941/http://holyfuckingshit4
 date: Wednesday, June 22, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/06/painkiller-rituals-live-in-japan-flac.html
 title: Painkiller - Rituals Live in Japan (FLAC)
+artist: Painkiller
+album: Rituals Live in Japan
+spotify_url: https://open.spotify.com/search/Painkiller%20Rituals%20Live%20in%20Japan
+apple_music_url: https://music.apple.com/us/search?term=Painkiller%20Rituals%20Live%20in%20Japan
+youtube_url: https://www.youtube.com/results?search_query=Painkiller%20Rituals%20Live%20in%20Japan
 ---
+
+
+
 
 ![http://1.bp.blogspot.com/_ErfTEq6__-g/S__zyeGONDI/AAAAAAAAAwY/2bqlfO-Otbs/s1600/Painkiller+-+Rituals_Live+in+japan.jpg](https://web.archive.org/web/20111008161941im_/http://1.bp.blogspot.com/_ErfTEq6__-g/S__zyeGONDI/AAAAAAAAAwY/2bqlfO-Otbs/s400/Painkiller+-+Rituals_Live+in+japan.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010071943/http://holyfuckingshit4
 date: Wednesday, December 22, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/future-sound-of-london-lifeforms-1994.html
 title: The Future Sound of London - Lifeforms (1994, FLAC)
+artist: The Future Sound of London
+album: Lifeforms
+spotify_url: https://open.spotify.com/search/The%20Future%20Sound%20of%20London%20Lifeforms
+apple_music_url: https://music.apple.com/us/search?term=The%20Future%20Sound%20of%20London%20Lifeforms
+youtube_url: https://www.youtube.com/results?search_query=The%20Future%20Sound%20of%20London%20Lifeforms
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010071943im_/http://3.bp.blogspot.com/_8OQrKaBbb98/TRJCwGavQhI/AAAAAAAAADk/hjqI_s8nkEQ/s1600/lf5.jpg)](https://web.archive.org/web/20111010071943/http://3.bp.blogspot.com/_8OQrKaBbb98/TRJCwGavQhI/AAAAAAAAADk/hjqI_s8nkEQ/s1600/lf5.jpg)
 

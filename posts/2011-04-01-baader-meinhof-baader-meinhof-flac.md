@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010150006/http://holyfuckingshit4
 date: Friday, April 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/baader-meinhof-baader-meinhof-falc.html
 title: Baader Meinhof - Baader Meinhof [FLAC]
+artist: Baader Meinhof
+album: Baader Meinhof
+spotify_url: https://open.spotify.com/search/Baader%20Meinhof%20Baader%20Meinhof
+apple_music_url: https://music.apple.com/us/search?term=Baader%20Meinhof%20Baader%20Meinhof
+youtube_url: https://www.youtube.com/results?search_query=Baader%20Meinhof%20Baader%20Meinhof
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010150006im_/http://4.bp.blogspot.com/-3L_D5Y2hQyA/TZY5zj5JuwI/AAAAAAAAAPs/sIEPHaDR2RM/s400/o14762.jpg)](https://web.archive.org/web/20111010150006/http://4.bp.blogspot.com/-3L_D5Y2hQyA/TZY5zj5JuwI/AAAAAAAAAPs/sIEPHaDR2RM/s1600/o14762.jpg)  
 Although Luke Haines got a name for himself with his albums with the Auteurs, this record is totally distinct in its sound. While containing Haines' usual malevolence, here it is surrounded by wailing shots of noise, clattering percussion, menacing strings and funked-up bass, combined with buzzing electro synths, all nevertheless very sparse, making the sudden interjections of instruments even more invasive. Although the album milks pretty much the same sound all the way through, it's such an inventive and unique one that this works. Treading the line with his lyrics about terrorism between mocking and almost condoning, it's Haines at his most provocative.  

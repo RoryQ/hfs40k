@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082540/http://holyfuckingshit4
 date: Tuesday, March 16, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/boris-at-last-feedbacker-flac.html
 title: Boris - At Last Feedbacker (FLAC)
+artist: Boris
+album: At Last Feedbacker
+spotify_url: https://open.spotify.com/search/Boris%20At%20Last%20Feedbacker
+apple_music_url: https://music.apple.com/us/search?term=Boris%20At%20Last%20Feedbacker
+youtube_url: https://www.youtube.com/results?search_query=Boris%20At%20Last%20Feedbacker
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082540im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S5-8Qf_8I8I/AAAAAAAAAbQ/Jdahw50N5iM/s400/Boris_feedbacker.jpg)](https://web.archive.org/web/20111010082540/http://3.bp.blogspot.com/_cLI19EXK2oU/S5-8Qf_8I8I/AAAAAAAAAbQ/Jdahw50N5iM/s1600-h/Boris_feedbacker.jpg)  
   

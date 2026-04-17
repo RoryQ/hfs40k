@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175334/http://holyfuckingshit4
 date: Saturday, September 18, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/grant-lee-buffalo-mighty-joe-moon-flac.html
 title: Grant Lee Buffalo - Mighty Joe Moon [FLAC]
+artist: Grant Lee Buffalo
+album: Mighty Joe Moon
+spotify_url: https://open.spotify.com/search/Grant%20Lee%20Buffalo%20Mighty%20Joe%20Moon
+apple_music_url: https://music.apple.com/us/search?term=Grant%20Lee%20Buffalo%20Mighty%20Joe%20Moon
+youtube_url: https://www.youtube.com/results?search_query=Grant%20Lee%20Buffalo%20Mighty%20Joe%20Moon
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175334im_/http://4.bp.blogspot.com/_mTQyK3r0bG0/TJWJlpy2yVI/AAAAAAAAAK0/en2LajWROME/s400/cd-front.jpg)](https://web.archive.org/web/20111010175334/http://4.bp.blogspot.com/_mTQyK3r0bG0/TJWJlpy2yVI/AAAAAAAAAK0/en2LajWROME/s1600/cd-front.jpg)  
 One of my fav records from the 90s. You can pick up their debut from [idontcareaboutsleep](https://web.archive.org/web/20111010175334/http://idontcareaboutsleep.blogspot.com/2010/09/grant-lee-buffalo-fuzzy-1993-flacv0.html) but I guarantee you this one is even better. Review from Amazon.  

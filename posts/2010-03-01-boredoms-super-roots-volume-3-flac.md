@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203162559/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/boredoms-super-roots-volume-3-flac.html
 title: Boredoms - Super Roots Volume 3 (FLAC)
+artist: Boredoms
+album: Super Roots Volume 3
+spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Roots%20Volume%203
+apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Roots%20Volume%203
+youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roots%20Volume%203
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203162559im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S4w1zwceV-I/AAAAAAAAAYw/a2E9fcSDSgo/s400/borbw1.jpg)](https://web.archive.org/web/20101203162559/http://4.bp.blogspot.com/_cLI19EXK2oU/S4w1zwceV-I/AAAAAAAAAYw/a2E9fcSDSgo/s1600-h/borbw1.jpg)  
 Boredoms went through some amazing transformation--from the frenetic start-stop work of \_Soul Discharge\_ and \_Onanie Bomb\_, absurdist works that seemed almost uncategorizable and impossible to tell when one track ended and another began, to almost spiritually ambient, drum-centered barrages like on \_VisionCreationNewSun\_ or \_Super Ae\_.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045149/http://holyfuckingshit4
 date: Wednesday, April 28, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/tindersticks-curtains-flac.html
 title: Tindersticks - Curtains FLAC
+artist: Tindersticks
+album: Curtains FLAC
+spotify_url: https://open.spotify.com/search/Tindersticks%20Curtains%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Tindersticks%20Curtains%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Tindersticks%20Curtains%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045149im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S9fuzGr7RFI/AAAAAAAAALc/hsOUVSKkwng/s400/00731452434425_S.jpg)](https://web.archive.org/web/20111010045149/http://1.bp.blogspot.com/_t6lWjgwMoxw/S9fuzGr7RFI/AAAAAAAAALc/hsOUVSKkwng/s1600/00731452434425_S.jpg)  
   

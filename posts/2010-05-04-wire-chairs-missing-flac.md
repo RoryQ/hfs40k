@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100804/http://holyfuckingshit4
 date: Tuesday, May 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/wire-chairs-missing-flac.html
 title: Wire - Chairs Missing (FLAC)
+artist: Wire
+album: Chairs Missing
+spotify_url: https://open.spotify.com/search/Wire%20Chairs%20Missing
+apple_music_url: https://geo.music.apple.com/au/album/_/1328869087?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Wire%20Chairs%20Missing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100804im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S-CcEYMyJjI/AAAAAAAAAis/sdIeL5RBt7M/s400/Wire-Chairs_Missing.jpeg)](https://web.archive.org/web/20111010100804/http://2.bp.blogspot.com/_cLI19EXK2oU/S-CcEYMyJjI/AAAAAAAAAis/sdIeL5RBt7M/s1600/Wire-Chairs_Missing.jpeg)  
 If Kafka played guitar..  

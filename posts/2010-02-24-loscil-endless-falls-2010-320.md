@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010155911/http://holyfuckingshit4
 date: Wednesday, February 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/loscil-endless-falls-2010-160.html
 title: Loscil - Endless Falls [2010, 320]
+artist: Loscil
+album: Endless Falls
+spotify_url: https://open.spotify.com/search/Loscil%20Endless%20Falls
+apple_music_url: https://music.apple.com/us/search?term=Loscil%20Endless%20Falls
+youtube_url: https://www.youtube.com/results?search_query=Loscil%20Endless%20Falls
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010155911im_/http://1.bp.blogspot.com/_2gIsOuOmgSg/S19ZSqz9FgI/AAAAAAAAAvY/sYl9ni2kClA/s320/113544.jpg)](https://web.archive.org/web/20111010155911/http://1.bp.blogspot.com/_2gIsOuOmgSg/S19ZSqz9FgI/AAAAAAAAAvY/sYl9ni2kClA/s320/113544.jpg)  
   

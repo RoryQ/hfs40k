@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010140338/http://holyfuckingshit4
 date: Saturday, July 18, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/07/swans-soundtracks-for-blind-flac.html
 title: Swans - Soundtracks for the Blind (FLAC)
+artist: Swans
+album: Soundtracks for the Blind
+spotify_url: https://open.spotify.com/search/Swans%20Soundtracks%20for%20the%20Blind
+apple_music_url: https://music.apple.com/us/search?term=Swans%20Soundtracks%20for%20the%20Blind
+youtube_url: https://www.youtube.com/results?search_query=Swans%20Soundtracks%20for%20the%20Blind
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010140338im_/http://3.bp.blogspot.com/_cLI19EXK2oU/SmJ9L-1zVHI/AAAAAAAAAP4/4jmn0UQp910/s400/ps_r_soundtracks_d.jpg)](https://web.archive.org/web/20111010140338/http://3.bp.blogspot.com/_cLI19EXK2oU/SmJ9L-1zVHI/AAAAAAAAAP4/4jmn0UQp910/s1600-h/ps_r_soundtracks_d.jpg)  
 As the old reviewers' cliché goes, Soundtracks for the Blind is a "sprawling masterpiece." Over more than 120 minutes, Swans give up the ghost in a most magnificent series of sobs. If you can bear it, Soundtracks is best appreciated in one listening session, however masochistic that may seem.  

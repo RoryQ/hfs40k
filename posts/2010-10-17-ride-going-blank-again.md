@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112246/http://holyfuckingshit4
 date: Sunday, October 17, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/ride-going-blank-again.html
 title: Ride - Going Blank Again
+artist: Ride
+album: Going Blank Again
+spotify_url: https://open.spotify.com/search/Ride%20Going%20Blank%20Again
+apple_music_url: https://geo.music.apple.com/au/album/_/595192081?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Ride%20Going%20Blank%20Again
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112246im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TLsCf-T01ZI/AAAAAAAAA2s/6BUi-5-9QFw/s400/h6dtw4wZcpo885q1BKnzWg84o1_500.jpg)](https://web.archive.org/web/20111010112246/http://1.bp.blogspot.com/_cLI19EXK2oU/TLsCf-T01ZI/AAAAAAAAA2s/6BUi-5-9QFw/s1600/h6dtw4wZcpo885q1BKnzWg84o1_500.jpg)  
 I am always surprised how often Ride's masterpiece is overlooked or ranked below "Nowhere". Clearly "Nowhere" was a seminal CD and showed their promise, but it was on this CD, "Going Blank Again", that Mark Gardener showed VAST improvement on his vocals, and he and Andy Bell (now of Oasis) truly came into their own as songwriters. The quality of the production is superb, though perhaps not brilliant, and the band play their instruments with consummate skill and were clearly well-rehearsed before going into the studio.  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111522/http://holyfuckingshit4
 date: Tuesday, March 1, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/love-da-capo-flac.html
 title: Love - Da Capo (FLAC)
+artist: Love
+album: Da Capo
+spotify_url: https://open.spotify.com/search/Love%20Da%20Capo
+apple_music_url: https://geo.music.apple.com/au/album/_/838386992?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Love%20Da%20Capo
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111522im_/http://3.bp.blogspot.com/-wZm66LNw2gg/TWypb1zBidI/AAAAAAAAA4k/omG1uIq96Nw/s400/dacapo.jpg)](https://web.archive.org/web/20111010111522/http://3.bp.blogspot.com/-wZm66LNw2gg/TWypb1zBidI/AAAAAAAAA4k/omG1uIq96Nw/s1600/dacapo.jpg)  
 After the excellent, self-titled debut, it was hard to imagine that Arthur Lee and LOVE could top their pro-punkish selves on their second effort. While "Da Capo" is not as hard-edged and raw as "Love" was, it still packs plenty of punch.  

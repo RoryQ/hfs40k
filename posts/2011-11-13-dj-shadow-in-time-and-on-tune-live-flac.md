@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111128040930/http://holyfuckingshit4
 date: Sunday, November 13, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/11/dj-shadow-in-time-and-on-tune-live-flac.html
 title: DJ Shadow - In Time and On Tune Live (FLAC)
+artist: DJ Shadow
+album: In Time and On Tune Live
+spotify_url: https://open.spotify.com/search/DJ%20Shadow%20In%20Time%20and%20On%20Tune%20Live
+apple_music_url: https://geo.music.apple.com/au/album/_/1660501933?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20In%20Time%20and%20On%20Tune%20Live
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111128040930im_/http://3.bp.blogspot.com/-INsqRkY8Xuo/TsAuCQP3HDI/AAAAAAAABJg/b00xQBrR5T0/s400/2376-live-in-tune-and-on-time.jpg)](https://web.archive.org/web/20111128040930/http://3.bp.blogspot.com/-INsqRkY8Xuo/TsAuCQP3HDI/AAAAAAAABJg/b00xQBrR5T0/s1600/2376-live-in-tune-and-on-time.jpg)This is the best of DJ Shadow.
 

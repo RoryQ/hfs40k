@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010135339/http://holyfuckingshit4
 date: Saturday, July 16, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/07/aphex-twin-1994-selected-ambient-works.html
 title: Aphex Twin - Selected Ambient Works Volume II (1994, FLAC)
+artist: Aphex Twin
+album: Selected Ambient Works Volume II
+spotify_url: https://open.spotify.com/search/Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
+apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
+youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010135339im_/http://3.bp.blogspot.com/-npfKE4ya7Ng/TiNoOtGeOmI/AAAAAAAAAEQ/VSLqe7PqKUo/s400/afex.jpg)](https://web.archive.org/web/20111010135339/http://3.bp.blogspot.com/-npfKE4ya7Ng/TiNoOtGeOmI/AAAAAAAAAEQ/VSLqe7PqKUo/s1600/afex.jpg)
 

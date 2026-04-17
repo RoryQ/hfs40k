@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175451/http://holyfuckingshit4
 date: Sunday, September 19, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/auteurs-new-wave-flac.html
 title: The Auteurs - New Wave [FLAC]
+artist: The Auteurs
+album: New Wave
+spotify_url: https://open.spotify.com/search/The%20Auteurs%20New%20Wave
+apple_music_url: https://geo.music.apple.com/au/album/_/724205052?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Auteurs%20New%20Wave
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175451im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/TJZWk5HyaWI/AAAAAAAAALE/GgdFQaQ6fms/s400/o2506.jpg)](https://web.archive.org/web/20111010175451/http://2.bp.blogspot.com/_mTQyK3r0bG0/TJZWk5HyaWI/AAAAAAAAALE/GgdFQaQ6fms/s1600/o2506.jpg)  
 Three bands released albums, 14th February 1993. One was Radiohead, one was Saint Etienne and one was The Auteurs. Of those three names, you may only know one - and that's Radiohead. But who released the better of the three? You're looking right at it. Still not the best album released in 1993, mind you. That honour falls to The Boo Radleys amazingly kaleidoscopic classic 'Giant Steps'. By now, those of you rooted in classic rock and unfamiliar with UK indie music of the eighties and nineties are probably scratching their heads and moving onto another web-site to read something else! But, persevere. Just because something is ( relatively ) new, doesn't mean it's bad! This works vice-versa. There are many music fans who hold anything released more than five years ago as being irrelevant. Still, none of this matters, I suppose. I'm just a guy who gets interested in such things, forgive me. Let's move forwards, shall we? Okay, then! The Auteurs 'New Wave'? Nothing New Wave in the musical sense about it, but a breath of fresh air circa 1993, anyway. Music that is elegant, somehow. Music with poetic lyrics that remind you of Ray Davies of The Kinks a little. An album seemingly obsessed with stardom, but from an outsiders point of view. The opening 'Show Girl' was the top 41 (?!?) hit single that launched The Auteurs. Luke Haines is the leading creative force, singing, playing the guitar and writing the songs. He's backed up by a drummer and a bass player. Occasionally a cello player too, most attractively. Anyways, 'Showgirl' is a story, evocative - the vocals are double-tracked through the verses as Luke seems to sing harmony with himself. It's a great, rich, glorious sound. From a showgirl to mentions of stardom failing in 'Bailed Out' through to a dig at the US grunge scene with 'American Guitars', which ironically, features plenty of guitars. More so than other songs here, but of course that was the point.  

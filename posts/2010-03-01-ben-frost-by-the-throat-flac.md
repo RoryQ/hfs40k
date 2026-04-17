@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010080927/http://holyfuckingshit4
 date: Monday, March 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/ben-frost-by-throat-flac.html
 title: Ben Frost - By The Throat FLAC
+artist: Ben Frost
+album: By The Throat FLAC
+spotify_url: https://open.spotify.com/search/Ben%20Frost%20By%20The%20Throat%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Ben%20Frost%20By%20The%20Throat%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Ben%20Frost%20By%20The%20Throat%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010080927im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4uZMpw5ooI/AAAAAAAAAAk/4kuQyrDcBgc/s400/ben_frost-by_the_throat%281%29.jpg)](https://web.archive.org/web/20111010080927/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4uZMpw5ooI/AAAAAAAAAAk/4kuQyrDcBgc/s1600-h/ben_frost-by_the_throat%281%29.jpg)  
   

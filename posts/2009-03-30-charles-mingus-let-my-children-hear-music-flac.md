@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164534/http://holyfuckingshit4
 date: Monday, March 30, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/charles-mingus-let-my-children-hear.html
 title: Charles Mingus - Let My Children Hear Music (FLAC)
+artist: Charles Mingus
+album: Let My Children Hear Music
+spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
+apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
+youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164534im_/http://i39.tinypic.com/140lzrq.jpg)](https://web.archive.org/web/20111010164534/http://i39.tinypic.com/140lzrq.jpg)  
 "Mingus just continues to wow me. Everytime I hear one of his albums I am left believing that music can never end, there is still so much yet to be composed...

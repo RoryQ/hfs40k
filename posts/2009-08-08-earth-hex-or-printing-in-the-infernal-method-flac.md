@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145349/http://holyfuckingshit4
 date: Saturday, August 8, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/earth-hex-or-printing-in-infernal.html
 title: Earth - Hex; Or Printing In The Infernal Method (FLAC)
+artist: Earth
+album: Hex; Or Printing In The Infernal Method
+spotify_url: https://open.spotify.com/search/Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
+apple_music_url: https://music.apple.com/us/search?term=Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
+youtube_url: https://www.youtube.com/results?search_query=Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145349im_/http://www.collective-zine.co.uk/upload/1133-earth_hex.jpg)](https://web.archive.org/web/20111010145349/http://www.collective-zine.co.uk/upload/1133-earth_hex.jpg)shit dogg is that earth's (second) best album in flac?  
   

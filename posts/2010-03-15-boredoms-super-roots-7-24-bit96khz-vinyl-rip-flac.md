@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010081707/http://holyfuckingshit4
 date: Monday, March 15, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/boredoms-super-roots-7-24-bit96khz.html
 title: Boredoms - Super Roots 7 (24-bit/96khz Vinyl Rip, FLAC)
+artist: Boredoms
+album: Super Roots 7
+spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Roots%207
+apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Roots%207
+youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roots%207
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010081707im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S53ngBGUbAI/AAAAAAAAAEU/wo5rVfM4Tqc/s400/cover.jpg)](https://web.archive.org/web/20111010081707/http://4.bp.blogspot.com/_t6lWjgwMoxw/S53ngBGUbAI/AAAAAAAAAEU/wo5rVfM4Tqc/s1600-h/cover.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111008155643/http://holyfuckingshit4
 date: Monday, May 11, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/05/david-murray-ming-flac.html
 title: David Murray - Ming (FLAC)
+artist: David Murray
+album: Ming
+spotify_url: https://open.spotify.com/search/David%20Murray%20Ming
+apple_music_url: https://music.apple.com/us/search?term=David%20Murray%20Ming
+youtube_url: https://www.youtube.com/results?search_query=David%20Murray%20Ming
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111008155643im_/http://4.bp.blogspot.com/_cLI19EXK2oU/SgjCs-z2PEI/AAAAAAAAAFI/3cSJD9xAsLw/s400/david+murray+ming.jpeg)](https://web.archive.org/web/20111008155643/http://4.bp.blogspot.com/_cLI19EXK2oU/SgjCs-z2PEI/AAAAAAAAAFI/3cSJD9xAsLw/s1600-h/david+murray+ming.jpeg)  
 "David Murray's "Ming" is simply one of the best jazz albums of all time; a contemporary and progressive album that is also rooted in jazz traditions. It remains the perfect introduction to a gifted musician who is sadly unappreciated today.

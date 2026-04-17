@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010035212/http://holyfuckingshit4
 date: Monday, August 22, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/08/field-music-tones-of-town-flac.html
 title: Field Music - Tones of Town (FLAC)
+artist: Field Music
+album: Tones of Town
+spotify_url: https://open.spotify.com/search/Field%20Music%20Tones%20of%20Town
+apple_music_url: https://music.apple.com/us/search?term=Field%20Music%20Tones%20of%20Town
+youtube_url: https://www.youtube.com/results?search_query=Field%20Music%20Tones%20of%20Town
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010035212im_/http://2.bp.blogspot.com/-C3lq32OSV14/TlLPul2_eRI/AAAAAAAABCY/HSgBXeKmRS8/s400/field_music_-_tones_of_town-800x800.jpg)](https://web.archive.org/web/20111010035212/http://2.bp.blogspot.com/-C3lq32OSV14/TlLPul2_eRI/AAAAAAAABCY/HSgBXeKmRS8/s1600/field_music_-_tones_of_town-800x800.jpg)
   

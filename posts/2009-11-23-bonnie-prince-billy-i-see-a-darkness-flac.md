@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010122026/http://holyfuckingshit4
 date: Monday, November 23, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/bonnie-prince-billy-i-see-darkness-flac.html
 title: 'Bonnie ''Prince'' Billy: I See a Darkness (FLAC)'
+artist: Bonnie 'Prince' Billy
+album: I See a Darkness
+spotify_url: https://open.spotify.com/search/Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
+apple_music_url: https://music.apple.com/us/search?term=Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
+youtube_url: https://www.youtube.com/results?search_query=Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010122026im_/http://jandemessemaeker.net/music/albumcovers/Bonnie%20Prince%20Billy-I%20See%20A%20Darkness.jpg)](https://web.archive.org/web/20111010122026/http://jandemessemaeker.net/music/albumcovers/Bonnie%20Prince%20Billy-I%20See%20A%20Darkness.jpg)  
   

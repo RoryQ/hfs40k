@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111004075251/http://holyfuckingshit4
 date: Saturday, September 10, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/charles-mingus-let-my-children-hear.html
 title: Charles Mingus - Let My Children Hear Music (24-bit/96khz Vinyl)
+artist: Charles Mingus
+album: Let My Children Hear Music
+spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
+apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
+youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111004075251im_/http://3.bp.blogspot.com/-5QgiLRaXjp0/TmuzwsBX4uI/AAAAAAAABEo/GIsxqoTOOXk/s400/Charles%2BMingus%2B-%2BLet%2BMy%2BChildren%2B%2528back%2529.jpg)](https://web.archive.org/web/20111004075251/http://3.bp.blogspot.com/-5QgiLRaXjp0/TmuzwsBX4uI/AAAAAAAABEo/GIsxqoTOOXk/s1600/Charles%2BMingus%2B-%2BLet%2BMy%2BChildren%2B%2528back%2529.jpg)  
 aksman's rip  

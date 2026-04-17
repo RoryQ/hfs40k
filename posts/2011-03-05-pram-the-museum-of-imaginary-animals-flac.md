@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010111543/http://holyfuckingshit4
 date: Saturday, March 5, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/03/pram-museum-of-imaginary-animals-flac.html
 title: Pram - The Museum of Imaginary Animals [FLAC]
+artist: Pram
+album: The Museum of Imaginary Animals
+spotify_url: https://open.spotify.com/search/Pram%20The%20Museum%20of%20Imaginary%20Animals
+apple_music_url: https://music.apple.com/us/search?term=Pram%20The%20Museum%20of%20Imaginary%20Animals
+youtube_url: https://www.youtube.com/results?search_query=Pram%20The%20Museum%20of%20Imaginary%20Animals
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010111543im_/http://4.bp.blogspot.com/-mt9ObhFgi40/TXLs05jo8MI/AAAAAAAAAPE/qHh6Kh4ZMmA/s400/Pram%2BMoIA.jpg)](https://web.archive.org/web/20111010111543/http://4.bp.blogspot.com/-mt9ObhFgi40/TXLs05jo8MI/AAAAAAAAAPE/qHh6Kh4ZMmA/s1600/Pram%2BMoIA.jpg)  
 It's all there in the title. Like the (real) exhibit which Pram's fifth studio LP pays tribute to - a collection of zoological Frankensteins with body parts from several different species - the Birmingham seven-piece make no anatomical sense. And while their appeal remains utterly baffling to some (their 'Sargasso Sea' LP scored a resounding zero out of ten in NME some years back), half their charm lies in their dismissal of normal musical logic.  

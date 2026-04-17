@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042613/http://holyfuckingshit4
 date: Tuesday, January 13, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/guernica-shinseiki-e-no-unga-1988.html
 title: Guernica - Shinseiki E No Unga (1988)
+artist: Guernica
+album: Shinseiki E No Unga
+spotify_url: https://open.spotify.com/search/Guernica%20Shinseiki%20E%20No%20Unga
+apple_music_url: https://music.apple.com/us/search?term=Guernica%20Shinseiki%20E%20No%20Unga
+youtube_url: https://www.youtube.com/results?search_query=Guernica%20Shinseiki%20E%20No%20Unga
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042613im_/http://i39.tinypic.com/2hycjzd.jpg)](https://web.archive.org/web/20111010042613/http://i39.tinypic.com/2hycjzd.jpg)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053512/http://holyfuckingshit4
 date: Thursday, July 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/okinawa-lifestyle-lazy-friend-you-move.html
 title: Okinawa Lifestyle - Lazy Friend You Move So Fast (2010)
+artist: Okinawa Lifestyle
+album: Lazy Friend You Move So Fast
+spotify_url: https://open.spotify.com/search/Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
+apple_music_url: https://music.apple.com/us/search?term=Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
+youtube_url: https://www.youtube.com/results?search_query=Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053512im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/TFFo4hd66HI/AAAAAAAAAU4/TSD6m907X-A/s400/Lazy+Friend+You+Move+So+Fast.png)](https://web.archive.org/web/20111010053512/http://4.bp.blogspot.com/_t6lWjgwMoxw/TFFo4hd66HI/AAAAAAAAAU4/TSD6m907X-A/s1600/Lazy+Friend+You+Move+So+Fast.png)  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20101203183856/http://holyfuckingshit4
 date: Thursday, February 12, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/02/aukcyon-hangover.html
 title: "AUKCYON - \u0411\u043E\u0434\u0443\u043D (HANGOVER)"
+artist: AUKCYON
+album: "\u0411\u043E\u0434\u0443\u043D"
+spotify_url: https://open.spotify.com/search/AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
+apple_music_url: https://music.apple.com/us/search?term=AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
+youtube_url: https://www.youtube.com/results?search_query=AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
 ---
+
+
+
 
 [![](https://web.archive.org/web/20101203183856im_/http://i40.tinypic.com/14uhoah.jpg)](https://web.archive.org/web/20101203183856/http://i40.tinypic.com/14uhoah.jpg)  
 Genre: Experimental Rock  

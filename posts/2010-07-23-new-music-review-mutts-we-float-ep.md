@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053112/http://holyfuckingshit4
 date: Friday, July 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/mutts-we-float-ep.html
 title: 'New Music Review: Mutts - We Float EP'
+artist: 'New Music Review: Mutts'
+album: We Float EP
+spotify_url: https://open.spotify.com/search/New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
+apple_music_url: https://music.apple.com/us/search?term=New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
+youtube_url: https://www.youtube.com/results?search_query=New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053112im_/http://reviewsic.files.wordpress.com/2010/05/wefloat500.jpg?w=300&h=300)](https://web.archive.org/web/20111010053112/http://reviewsic.files.wordpress.com/2010/05/wefloat500.jpg?w=300&h=300)Mutts are a Chicago-based rock band that play rough-around-the-edges rock filled with melodic riffs and interesting ideas. Right off the start, you're smacked in the face by the riff of "Beggar", a loud, fuzzy and distorted piece of lo-fi goodness. What grabbed me here was the drummer (Corey Healey), check out the rhythm between the vocals and the percussion going on under the lyrics "I seen you downtown/still with your hand out". Good stuff. The next track, the titular "We Float", opens with more excellent displays of the drumming talent we have at work here. The bassist (Bob Buckstaff) and Faller have a good rapport here, forming a very solid rhythm section.
 

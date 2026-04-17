@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111217015146/http://holyfuckingshit4
 date: Sunday, November 20, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/11/robert-johnson-centennial-collection.html
 title: Robert Johnson - The Centennial Collection (FLAC)
+artist: Robert Johnson
+album: The Centennial Collection
+spotify_url: https://open.spotify.com/search/Robert%20Johnson%20The%20Centennial%20Collection
+apple_music_url: https://geo.music.apple.com/au/album/_/432748889?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Robert%20Johnson%20The%20Centennial%20Collection
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111217015146im_/http://4.bp.blogspot.com/-zaIRoJcd8Is/TslfITqrJoI/AAAAAAAABKA/oMIjgGGho3I/s400/1000x1000.jpg)](https://web.archive.org/web/20111217015146/http://4.bp.blogspot.com/-zaIRoJcd8Is/TslfITqrJoI/AAAAAAAABKA/oMIjgGGho3I/s1600/1000x1000.jpg)Robert Johnson, blues pioneer and legend, would turn 100 next month if he were still alive. In celebration of his centennial, his all-too-brief catalog-- 29 master takes and 13 alternates-- has been reissued.  
   

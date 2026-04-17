@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010175622/http://holyfuckingshit4
 date: Wednesday, September 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/09/klaus-schulze-irrlicht-w-bonus-tracks.html
 title: Klaus Schulze - Irrlicht (+Bonus Tracks FLAC)
+artist: Klaus Schulze
+album: Irrlicht
+spotify_url: https://open.spotify.com/search/Klaus%20Schulze%20Irrlicht
+apple_music_url: https://geo.music.apple.com/au/album/_/1444204896?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Irrlicht
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010175622im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TH369519LKI/AAAAAAAAAz8/R0PNwQumRSo/s400/1271346757_1269517250_klausschulze.jpg)](https://web.archive.org/web/20111010175622/http://4.bp.blogspot.com/_cLI19EXK2oU/TH369519LKI/AAAAAAAAAz8/R0PNwQumRSo/s1600/1271346757_1269517250_klausschulze.jpg)  
 The year was 1972 when former Tangerine Dream and Ash Ra Tempel member Klaus Schulze embarked on his lengthy solo career which continues to this day.  

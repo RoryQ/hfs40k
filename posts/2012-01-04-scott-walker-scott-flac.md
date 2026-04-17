@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120117141254/http://holyfuckingshit4
 date: Wednesday, January 4, 2012
 original_url: http://holyfuckingshit40000.blogspot.com/2012/01/scott-walker-scott-flac.html
 title: Scott Walker- Scott (FLAC)
+artist: Scott Walker
+album: Scott
+spotify_url: https://open.spotify.com/search/Scott%20Walker%20Scott
+apple_music_url: https://geo.music.apple.com/au/album/_/1444125181?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Scott%20Walker%20Scott
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120117141254im_/http://4.bp.blogspot.com/_OJxCIZJY8TQ/TUzyXUbzfLI/AAAAAAAAArU/q0lR18J7wXI/s400/Scott-Walker-Scott---Stereo-105140.jpg)](https://web.archive.org/web/20120117141254/http://4.bp.blogspot.com/_OJxCIZJY8TQ/TUzyXUbzfLI/AAAAAAAAArU/q0lR18J7wXI/s1600/Scott-Walker-Scott---Stereo-105140.jpg)
 

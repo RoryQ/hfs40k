@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20110306160257/http://holyfuckingshit4
 date: Saturday, December 11, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/12/deepchord-presents-echospace-coldest.html
 title: Deepchord presents Echospace - The Coldest Season (2007, FLAC)
+artist: Deepchord presents Echospace
+album: The Coldest Season
+spotify_url: https://open.spotify.com/search/Deepchord%20presents%20Echospace%20The%20Coldest%20Season
+apple_music_url: https://music.apple.com/us/search?term=Deepchord%20presents%20Echospace%20The%20Coldest%20Season
+youtube_url: https://www.youtube.com/results?search_query=Deepchord%20presents%20Echospace%20The%20Coldest%20Season
 ---
+
+
+
 
 [![](https://web.archive.org/web/20110306160257im_/http://3.bp.blogspot.com/_8OQrKaBbb98/TP62LPIEHDI/AAAAAAAAACg/O38xaEf5lwA/s400/the+coldest+season.jpg)](https://web.archive.org/web/20110306160257/http://3.bp.blogspot.com/_8OQrKaBbb98/TP62LPIEHDI/AAAAAAAAACg/O38xaEf5lwA/s1600/the+coldest+season.jpg)
 

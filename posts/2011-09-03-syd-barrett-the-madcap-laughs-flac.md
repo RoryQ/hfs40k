@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111023224557/http://holyfuckingshit4
 date: Saturday, September 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/09/syd-barrett-madcap-laughs-flac.html
 title: Syd Barrett - The Madcap Laughs (FLAC)
+artist: Syd Barrett
+album: The Madcap Laughs
+spotify_url: https://open.spotify.com/search/Syd%20Barrett%20The%20Madcap%20Laughs
+apple_music_url: https://music.apple.com/us/search?term=Syd%20Barrett%20The%20Madcap%20Laughs
+youtube_url: https://www.youtube.com/results?search_query=Syd%20Barrett%20The%20Madcap%20Laughs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111023224557im_/http://1.bp.blogspot.com/-k2sfR1QXr1o/TmKRvcY3rMI/AAAAAAAABDY/aaYiF_jEPR8/s400/syd16.jpg)](https://web.archive.org/web/20111023224557/http://1.bp.blogspot.com/-k2sfR1QXr1o/TmKRvcY3rMI/AAAAAAAABDY/aaYiF_jEPR8/s1600/syd16.jpg)
   

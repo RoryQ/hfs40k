@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010121751/http://holyfuckingshit4
 date: Friday, November 27, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/11/moody-blues-in-flac.html
 title: The Moody Blues in FLAC?
+artist: The Moody Blues
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010121751im_/http://www.wpm003.com/images/moodies4.jpg)](https://web.archive.org/web/20111010121751/http://www.wpm003.com/images/moodies4.jpg)  
   

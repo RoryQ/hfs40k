@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095859/http://holyfuckingshit4
 date: Monday, May 24, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/isis-wavering-radiant-vinyl-24bit-96khz.html
 title: Isis - Wavering Radiant (Vinyl 24bit 96kHz)
+artist: Isis
+album: Wavering Radiant
+spotify_url: https://open.spotify.com/search/Isis%20Wavering%20Radiant
+apple_music_url: https://music.apple.com/us/search?term=Isis%20Wavering%20Radiant
+youtube_url: https://www.youtube.com/results?search_query=Isis%20Wavering%20Radiant
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095859im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_pOmXywcFI/AAAAAAAAAPI/edQK2xje1gc/s400/113mini.jpg)](https://web.archive.org/web/20111010095859/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_pOmXywcFI/AAAAAAAAAPI/edQK2xje1gc/s1600/113mini.jpg)  
   

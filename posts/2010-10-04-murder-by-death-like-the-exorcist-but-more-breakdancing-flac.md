@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112213/http://holyfuckingshit4
 date: Monday, October 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/murder-by-death-like-exorcist-but-more.html
 title: Murder by Death - Like the Exorcist, But More Breakdancing (FLAC)
+artist: Murder by Death
+album: Like the Exorcist, But More Breakdancing
+spotify_url: https://open.spotify.com/search/Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
+apple_music_url: https://music.apple.com/us/search?term=Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
+youtube_url: https://www.youtube.com/results?search_query=Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112213im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TKo0RNBaKZI/AAAAAAAAA2M/Icz-POVrqdo/s400/B00006EXGZ.01._SS500_SCLZZZZZZZ_V1116343047_.jpg)](https://web.archive.org/web/20111010112213/http://3.bp.blogspot.com/_cLI19EXK2oU/TKo0RNBaKZI/AAAAAAAAA2M/Icz-POVrqdo/s1600/B00006EXGZ.01._SS500_SCLZZZZZZZ_V1116343047_.jpg)  
 Take the best parts of the atmospheric soundscapes by the likes of Sigur Ros, Godspeed You Black Emperor, or any other post-rock ensemble, and add a thrashing, angry guitar and an angst filled Robert Smith/Morrissey type voice, and you've almost got something like Murder By Death.

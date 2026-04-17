@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010084626/http://holyfuckingshit4
 date: Wednesday, June 3, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/dinosaur-jr-farm-2009.html
 title: Dinosaur Jr. - Farm (2009)
+artist: Dinosaur Jr.
+album: Farm
+spotify_url: https://open.spotify.com/search/Dinosaur%20Jr.%20Farm
+apple_music_url: https://music.apple.com/us/search?term=Dinosaur%20Jr.%20Farm
+youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20Farm
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010084626im_/http://i44.tinypic.com/2i1kyuc.jpg)](https://web.archive.org/web/20111010084626/http://i44.tinypic.com/2i1kyuc.jpg)  
 HOLY FUCKING SHIT WALKING TREES CARRYING STONED LITTLE GIRLS  

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045739/http://holyfuckingshit4
 date: Wednesday, April 21, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/c-schulz-4-film-ton-flac.html
 title: C-Schulz - 4. Film Ton FLAC
+artist: C
+album: Schulz - 4. Film Ton FLAC
+spotify_url: https://open.spotify.com/search/C%20Schulz%20-%204.%20Film%20Ton%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=C%20Schulz%20-%204.%20Film%20Ton%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=C%20Schulz%20-%204.%20Film%20Ton%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045739im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S87B6QtpYzI/AAAAAAAAAJU/gc7iVegzl00/s400/front.jpg)](https://web.archive.org/web/20111010045739/http://3.bp.blogspot.com/_t6lWjgwMoxw/S87B6QtpYzI/AAAAAAAAAJU/gc7iVegzl00/s1600/front.jpg)  
   

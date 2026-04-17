@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093626/http://holyfuckingshit4
 date: Wednesday, May 4, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/andrew-hill-dance-with-death-flac.html
 title: Andrew Hill - Dance with Death (FLAC)
+artist: Andrew Hill
+album: Dance with Death
+spotify_url: https://open.spotify.com/search/Andrew%20Hill%20Dance%20with%20Death
+apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20Dance%20with%20Death
+youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Dance%20with%20Death
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093626im_/http://2.bp.blogspot.com/-xVKIneX9pKg/TcGE2M7W5uI/AAAAAAAAARY/hx6nbT4WWiw/s400/folder.jpg)](https://web.archive.org/web/20111010093626/http://2.bp.blogspot.com/-xVKIneX9pKg/TcGE2M7W5uI/AAAAAAAAARY/hx6nbT4WWiw/s1600/folder.jpg)Andrew Hill is my favorite jazz musician. Andrew Hill is my favorite jazz composer. Yes, Andrew Hill is just that good. I've listened to a lot of jazz, and no one pleases my ears more than Andrew, with his cerebral, twisting composed melodies and improvisations. From listening to the vast majority of his output, I can classify his albums into one of two general categories: large group sessions and smaller quartets/quinets. This is one of the latter, and this is important because Hill's role changes somewhat based upon which category he finds himself in for a given album.
 

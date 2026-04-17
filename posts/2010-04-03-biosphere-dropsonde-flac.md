@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045909/http://holyfuckingshit4
 date: Saturday, April 3, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/biosphere-dropsonde-flac.html
 title: Biosphere - Dropsonde FLAC
+artist: Biosphere
+album: Dropsonde FLAC
+spotify_url: https://open.spotify.com/search/Biosphere%20Dropsonde%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=Biosphere%20Dropsonde%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Dropsonde%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045909im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S7g0E_YT1kI/AAAAAAAAAIM/68GkeOpEuPM/s400/biosphere-dropsonde-cvr-1302.jpg)](https://web.archive.org/web/20111010045909/http://1.bp.blogspot.com/_t6lWjgwMoxw/S7g0E_YT1kI/AAAAAAAAAIM/68GkeOpEuPM/s1600/biosphere-dropsonde-cvr-1302.jpg)  
   

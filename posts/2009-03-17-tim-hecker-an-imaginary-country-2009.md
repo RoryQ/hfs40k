@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164827/http://holyfuckingshit4
 date: Tuesday, March 17, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/tim-hecker-imaginary-country-2009.html
 title: Tim Hecker - An  Imaginary Country (2009)
+artist: Tim Hecker
+album: An  Imaginary Country
+spotify_url: https://open.spotify.com/search/Tim%20Hecker%20An%20%20Imaginary%20Country
+apple_music_url: https://music.apple.com/us/search?term=Tim%20Hecker%20An%20%20Imaginary%20Country
+youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20An%20%20Imaginary%20Country
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164827im_/http://4.bp.blogspot.com/_X0HDv9LMCK8/Sb_rLulc3hI/AAAAAAAAAAU/IafgVsFLILc/s400/1875637.jpg)](https://web.archive.org/web/20111010164827/http://4.bp.blogspot.com/_X0HDv9LMCK8/Sb_rLulc3hI/AAAAAAAAAAU/IafgVsFLILc/s1600-h/1875637.jpg)In the ambient/electronic scene few stand as tall as Mr. Hecker, in my opinion. Yet again we have another stellar output from one of the masters of the genre that proves what an unstoppable force this man is.  
   

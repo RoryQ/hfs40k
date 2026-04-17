@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010112455/http://holyfuckingshit4
 date: Wednesday, October 6, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/10/rush-hemispheres-flac.html
 title: Rush - Hemispheres (FLAC)
+artist: Rush
+album: Hemispheres
+spotify_url: https://open.spotify.com/search/Rush%20Hemispheres
+apple_music_url: https://geo.music.apple.com/au/album/_/1440764218?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Rush%20Hemispheres
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010112455im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TKxoj9NdW9I/AAAAAAAAA2U/hABCavnMBMA/s400/rush_hemispheres1.jpg)](https://web.archive.org/web/20111010112455/http://3.bp.blogspot.com/_cLI19EXK2oU/TKxoj9NdW9I/AAAAAAAAA2U/hABCavnMBMA/s1600/rush_hemispheres1.jpg)  
 As the closing album of Rush's classic progressive period, this is possibly the album where they reached their peak in composition and concept. Starting from 1976's \_2112\_, and up to this album from 1978, one can see how the band's performance & writing skills had progressed.  

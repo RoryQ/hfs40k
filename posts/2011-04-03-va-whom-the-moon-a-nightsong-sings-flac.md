@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145948/http://holyfuckingshit4
 date: Sunday, April 3, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/thank-you-tolkkii.html
 title: V/A - Whom The Moon A Nightsong Sings [FLAC]
+artist: V/A
+album: Whom The Moon A Nightsong Sings
+spotify_url: https://open.spotify.com/search/V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
+apple_music_url: https://music.apple.com/us/search?term=V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
+youtube_url: https://www.youtube.com/results?search_query=V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145948im_/http://1.bp.blogspot.com/-dRk3cooM0R0/TZkN6Fxd91I/AAAAAAAAAII/QHxN5jPUld4/s400/Cover.jpg)](https://web.archive.org/web/20111010145948/http://1.bp.blogspot.com/-dRk3cooM0R0/TZkN6Fxd91I/AAAAAAAAAII/QHxN5jPUld4/s1600/Cover.jpg)Thank you, tolkkii. Since early 2009 I've been visiting this site of yours. This blog has been hugely involved in the discovery of many of what are now my favorite bands, so I really appreciate the chance I've been given.
 

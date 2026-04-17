@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010093715/http://holyfuckingshit4
 date: Thursday, May 26, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/05/eric-dolphy-iron-man-flac.html
 title: Eric Dolphy - Iron Man (FLAC)
+artist: Eric Dolphy
+album: Iron Man
+spotify_url: https://open.spotify.com/search/Eric%20Dolphy%20Iron%20Man
+apple_music_url: https://music.apple.com/us/search?term=Eric%20Dolphy%20Iron%20Man
+youtube_url: https://www.youtube.com/results?search_query=Eric%20Dolphy%20Iron%20Man
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010093715im_/http://1.bp.blogspot.com/-bqAehA-sVyg/Td6O7fPPZ1I/AAAAAAAAA98/TRy4ff9FbZY/s400/0qqoAq1kzfSXEkX2b3SSrr.jpg)](https://web.archive.org/web/20111010093715/http://1.bp.blogspot.com/-bqAehA-sVyg/Td6O7fPPZ1I/AAAAAAAAA98/TRy4ff9FbZY/s1600/0qqoAq1kzfSXEkX2b3SSrr.jpg)  
 Whilst I'd undoubtedly stick Dolphy's "Out to Lunch" somewhere on a "Desert Island Discs" list, if need be, I don't think "Iron Man" would be too far behind. In fact, when push comes to shove, I think I'd have to rate this as possibly Dolphy's best ever album.  

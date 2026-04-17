@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111216221609/http://holyfuckingshit4
 date: Saturday, February 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/02/foreign-exchange-leave-it-all-behind.html
 title: The Foreign Exchange - Leave It All Behind (FLAC)
+artist: The Foreign Exchange
+album: Leave It All Behind
+spotify_url: https://open.spotify.com/search/The%20Foreign%20Exchange%20Leave%20It%20All%20Behind
+apple_music_url: https://geo.music.apple.com/au/album/_/1747361844?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=The%20Foreign%20Exchange%20Leave%20It%20All%20Behind
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111216221609im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S4lnXhguWjI/AAAAAAAAAYI/l496awHVFn8/s400/foreignexchangeleavebehind2.jpg)](https://web.archive.org/web/20111216221609/http://4.bp.blogspot.com/_cLI19EXK2oU/S4lnXhguWjI/AAAAAAAAAYI/l496awHVFn8/s1600-h/foreignexchangeleavebehind2.jpg)  
 Why limit yourself? That's the lesson of The Foreign Exchange.   

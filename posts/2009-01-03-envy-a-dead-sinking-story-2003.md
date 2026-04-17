@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010042756/http://holyfuckingshit4
 date: Saturday, January 3, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/01/envy-dead-sinking-story-2003.html
 title: Envy - A Dead Sinking Story (2003)
+artist: Envy
+album: A Dead Sinking Story
+spotify_url: https://open.spotify.com/search/Envy%20A%20Dead%20Sinking%20Story
+apple_music_url: https://music.apple.com/us/search?term=Envy%20A%20Dead%20Sinking%20Story
+youtube_url: https://www.youtube.com/results?search_query=Envy%20A%20Dead%20Sinking%20Story
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010042756im_/http://img296.imageshack.us/img296/1283/envyqv9.jpg)](https://web.archive.org/web/20111010042756/http://img296.imageshack.us/img296/1283/envyqv9.jpg)  
 Genre: Post-Rock  

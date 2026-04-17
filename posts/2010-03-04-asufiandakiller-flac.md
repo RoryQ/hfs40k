@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010083311/http://holyfuckingshit4
 date: Thursday, March 4, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/asufiandakiller-flac.html
 title: ASufiAndAKiller FLAC
+artist: A Sufi and a Killer
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010083311im_/http://upload.wikimedia.org/wikipedia/en/4/42/Moir%C3%A9.gif)](https://web.archive.org/web/20111010083311/http://upload.wikimedia.org/wikipedia/en/4/42/Moir%C3%A9.gif)  
 [![](https://web.archive.org/web/20111010083311im_/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4_RDRSqFZI/AAAAAAAAABk/l7LuboRNQ9M/s400/WARPCD172.jpg)](https://web.archive.org/web/20111010083311/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4_RDRSqFZI/AAAAAAAAABk/l7LuboRNQ9M/s1600-h/WARPCD172.jpg)  

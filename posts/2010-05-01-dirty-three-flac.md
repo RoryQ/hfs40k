@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095238/http://holyfuckingshit4
 date: Saturday, May 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/dirty-three-flac.html
 title: Dirty Three [FLAC]
+artist: Dirty Three
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 "Violinist Warren Ellis, guitarist Mick Turner, and drummer Jim White are Dirty Three - an instrumental trio considered one of the most prestigious Australian acts on the international music scene. Their music has been called lyrical, passionate, original, inspiring, and has earned them admiration and renown the world over. "  
   

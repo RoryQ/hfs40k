@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010130659/http://holyfuckingshit4
 date: Friday, March 6, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/koenjihyakkei-angherr-shisspa-flac.html
 title: Koenjihyakkei - Angherr Shisspa (FLAC)
+artist: Koenjihyakkei
+album: Angherr Shisspa
+spotify_url: https://open.spotify.com/search/Koenjihyakkei%20Angherr%20Shisspa
+apple_music_url: https://music.apple.com/us/search?term=Koenjihyakkei%20Angherr%20Shisspa
+youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%20Angherr%20Shisspa
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010130659im_/http://i43.tinypic.com/xqb76f.jpg)](https://web.archive.org/web/20111010130659/http://i43.tinypic.com/xqb76f.jpg)  
 Warning! This album contains ridiculous amounts of: awesome, win, japs and wankery. Milestone of Weeaboo Zeuhl.  

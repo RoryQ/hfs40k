@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20120108034744/http://holyfuckingshit4
 date: Wednesday, October 28, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/lustmord-heresy-1990.html
 title: Lustmord - Heresy (1990)
+artist: Lustmord
+album: Heresy
+spotify_url: https://open.spotify.com/search/Lustmord%20Heresy
+apple_music_url: https://geo.music.apple.com/au/album/_/396269726?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Lustmord%20Heresy
 ---
+
+
+
 
 [![](https://web.archive.org/web/20120108034744im_/http://i39.tinypic.com/2ryomqv.jpg)](https://web.archive.org/web/20120108034744/http://i39.tinypic.com/2ryomqv.jpg)  
   

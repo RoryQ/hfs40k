@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010085157/http://holyfuckingshit4
 date: Thursday, June 11, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/quella-vecchia-locanda-il-tempo-della_11.html
 title: Quella Vecchia Locanda - Il Tempo Della Gioia (1974) [Remastered FLAC]
+artist: Quella Vecchia Locanda
+album: Il Tempo Della Gioia
+spotify_url: https://open.spotify.com/search/Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
+apple_music_url: https://music.apple.com/us/search?term=Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
+youtube_url: https://www.youtube.com/results?search_query=Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010085157im_/http://1.bp.blogspot.com/_5cVyPU93ihM/SjFcW3v-hEI/AAAAAAAAAFk/-bRBZnitunA/s320/Quella%2BVecchia%2BLocanda%2B-%2BIl%2BTempo%2BDella%2BGioia%2B%281974%29.jpg)](https://web.archive.org/web/20111010085157/http://1.bp.blogspot.com/_5cVyPU93ihM/SjFcW3v-hEI/AAAAAAAAAFk/-bRBZnitunA/s1600-h/Quella%2BVecchia%2BLocanda%2B-%2BIl%2BTempo%2BDella%2BGioia%2B%281974%29.jpg)  
 Replacing the filthy 192 version. Also contains booklet included with the Japanese edition.  

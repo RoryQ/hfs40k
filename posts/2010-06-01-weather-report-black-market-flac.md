@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010173206/http://holyfuckingshit4
 date: Tuesday, June 1, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/06/weather-report-black-market-flac.html
 title: Weather Report - Black Market (FLAC)
+artist: Weather Report
+album: Black Market
+spotify_url: https://open.spotify.com/search/Weather%20Report%20Black%20Market
+apple_music_url: https://music.apple.com/us/search?term=Weather%20Report%20Black%20Market
+youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Black%20Market
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010173206im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TAV2j8fZuQI/AAAAAAAAArc/6cHId2woEIU/s400/61trcmwmutl_ss500_.jpg)](https://web.archive.org/web/20111010173206/http://4.bp.blogspot.com/_cLI19EXK2oU/TAV2j8fZuQI/AAAAAAAAArc/6cHId2woEIU/s1600/61trcmwmutl_ss500_.jpg)  
 Weather Report's second "phase" (1973-76) established its (now famous) sound, variously characterized by:

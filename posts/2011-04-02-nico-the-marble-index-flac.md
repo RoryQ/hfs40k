@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145746/http://holyfuckingshit4
 date: Saturday, April 2, 2011
 original_url: http://holyfuckingshit40000.blogspot.com/2011/04/nico-marble-index-flac.html
 title: Nico - The Marble Index [FLAC]
+artist: Nico
+album: The Marble Index
+spotify_url: https://open.spotify.com/search/Nico%20The%20Marble%20Index
+apple_music_url: https://music.apple.com/us/search?term=Nico%20The%20Marble%20Index
+youtube_url: https://www.youtube.com/results?search_query=Nico%20The%20Marble%20Index
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145746im_/http://3.bp.blogspot.com/-LTbN4Y3CEys/TZe5c602z5I/AAAAAAAAAP8/-S0-hmDrDgk/s400/o1912153.jpg)](https://web.archive.org/web/20111010145746/http://3.bp.blogspot.com/-LTbN4Y3CEys/TZe5c602z5I/AAAAAAAAAP8/-S0-hmDrDgk/s1600/o1912153.jpg)  
 The life of Velvet Underground chanteuse/model Nico was a life of tragedy that fame couldn't soothe and drugs couldn't blot out. And beautiful "The Marble Index" is much like Nico herself was -- beautiful, vaguely gothic and laced with sadness and darkness.  

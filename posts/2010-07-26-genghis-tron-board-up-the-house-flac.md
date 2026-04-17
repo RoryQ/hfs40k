@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010053135/http://holyfuckingshit4
 date: Monday, July 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/07/genghis-tron-board-up-house-flac.html
 title: Genghis Tron - Board Up The House (FLAC)
+artist: Genghis Tron
+album: Board Up The House
+spotify_url: https://open.spotify.com/search/Genghis%20Tron%20Board%20Up%20The%20House
+apple_music_url: https://music.apple.com/us/search?term=Genghis%20Tron%20Board%20Up%20The%20House
+youtube_url: https://www.youtube.com/results?search_query=Genghis%20Tron%20Board%20Up%20The%20House
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010053135im_/http://3.bp.blogspot.com/_cLI19EXK2oU/TE2gJKPz8MI/AAAAAAAAAwM/3tlbe6lOX4k/s400/602px-Board_Up_The_House.jpg)](https://web.archive.org/web/20111010053135/http://3.bp.blogspot.com/_cLI19EXK2oU/TE2gJKPz8MI/AAAAAAAAAwM/3tlbe6lOX4k/s1600/602px-Board_Up_The_House.jpg)  
 A crazily ticking metronome with an odd beat opens up 2008's Board Up the House. It serves as a good expectation of what's about to come; an ungainly mixture of grind's menace and speed, Coil-like electronic weirdness, and a more advanced sense of space and depth. The vocals come in two shapes, one being a paralyzing screech that reminds you A LOT like Jacob Bannon, and the other is a somewhat robotic and haunting clean vox full of sad and creepy melody. The drums feel less mechanical, more human. Toolkit from Hell I think.  

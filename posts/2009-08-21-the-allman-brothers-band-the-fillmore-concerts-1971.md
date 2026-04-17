@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010145500/http://holyfuckingshit4
 date: Friday, August 21, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/08/allman-brothers-band-fillmore-concerts.html
 title: The Allman Brothers Band - The Fillmore Concerts (1971)
+artist: The Allman Brothers Band
+album: The Fillmore Concerts
+spotify_url: https://open.spotify.com/search/The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
+apple_music_url: https://music.apple.com/us/search?term=The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
+youtube_url: https://www.youtube.com/results?search_query=The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010145500im_/http://2.bp.blogspot.com/_JdyrURA7JYI/So8-ycC3iJI/AAAAAAAAAGo/0516LVcrqHc/s400/allmanfillmore.PNG)](https://web.archive.org/web/20111010145500/http://2.bp.blogspot.com/_JdyrURA7JYI/So8-ycC3iJI/AAAAAAAAAGo/0516LVcrqHc/s1600-h/allmanfillmore.PNG)HEY THERE WE'RE THE ALLMAN BROTHERS AND WE'RE GONNA BE PLAYING SOME OF THAT BLUES FOR YA'LL TONIGHT.  
   

@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010045456/http://holyfuckingshit4
 date: Friday, April 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/04/national-boxer-2496-vinyl-flac.html
 title: The National - Boxer 24/96 vinyl FLAC
+artist: The National
+album: Boxer 24/96 vinyl FLAC
+spotify_url: https://open.spotify.com/search/The%20National%20Boxer%2024/96%20vinyl%20FLAC
+apple_music_url: https://music.apple.com/us/search?term=The%20National%20Boxer%2024/96%20vinyl%20FLAC
+youtube_url: https://www.youtube.com/results?search_query=The%20National%20Boxer%2024/96%20vinyl%20FLAC
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010045456im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S9FTlO0wnwI/AAAAAAAAAKE/8HKx-7mhI-U/s400/folder.jpg)](https://web.archive.org/web/20111010045456/http://4.bp.blogspot.com/_t6lWjgwMoxw/S9FTlO0wnwI/AAAAAAAAAKE/8HKx-7mhI-U/s1600/folder.jpg)  
   

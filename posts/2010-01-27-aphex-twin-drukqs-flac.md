@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010123723/http://holyfuckingshit4
 date: Wednesday, January 27, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/01/aphex-twin-drukqs-flac.html
 title: Aphex Twin - DrukQs (FLAC)
+artist: Aphex Twin
+album: DrukQs
+spotify_url: https://open.spotify.com/search/Aphex%20Twin%20DrukQs
+apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20DrukQs
+youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20DrukQs
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010123723im_/http://2.bp.blogspot.com/_cLI19EXK2oU/S2ET4yOralI/AAAAAAAAAWY/ateud5ZDMH4/s400/drukqs.jpg)](https://web.archive.org/web/20111010123723/http://2.bp.blogspot.com/_cLI19EXK2oU/S2ET4yOralI/AAAAAAAAAWY/ateud5ZDMH4/s1600-h/drukqs.jpg)  
 Richard D. James has been around the electronic music scene for quite a while now. Under the guise of Aphex Twin, he basically founded the genre of idm, and released critically acclaimed works such as "Selected Ambient Works", "Richard D James Album", and "Windowlicker" EP. His compositions are so musically diverse, so surreal and schizophrenic, that many people have seemingly forgotten that Richard D. James is a human being.

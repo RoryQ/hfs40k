@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010082917/http://holyfuckingshit4
 date: Sunday, March 7, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/03/piero-umiliani-continente-nero-1975-320.html
 title: Piero Umiliani - Continente Nero (1975) [320]
+artist: Piero Umiliani
+album: Continente Nero
+spotify_url: https://open.spotify.com/search/Piero%20Umiliani%20Continente%20Nero
+apple_music_url: https://music.apple.com/us/search?term=Piero%20Umiliani%20Continente%20Nero
+youtube_url: https://www.youtube.com/results?search_query=Piero%20Umiliani%20Continente%20Nero
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010082917im_/http://2.bp.blogspot.com/_hJHDGO7PJL4/S5LFwGNVZ1I/AAAAAAAAAU8/FjxNP0jAPPM/s400/nero.jpeg)](https://web.archive.org/web/20111010082917/http://2.bp.blogspot.com/_hJHDGO7PJL4/S5LFwGNVZ1I/AAAAAAAAAU8/FjxNP0jAPPM/s1600-h/nero.jpeg)  
 

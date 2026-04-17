@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010164237/http://holyfuckingshit4
 date: Friday, March 6, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/03/king-crimson-flac.html
 title: King Crimson (FLAC)
+artist: King Crimson
+album: null
+spotify_url: null
+apple_music_url: null
+youtube_url: null
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010164237im_/http://i41.tinypic.com/65dd3d.png)](https://web.archive.org/web/20111010164237/http://i41.tinypic.com/65dd3d.png)[Last.fm](https://web.archive.org/web/20111010164237/http://www.last.fm/music/King+Crimson)  
   

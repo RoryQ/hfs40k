@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010095251/http://holyfuckingshit4
 date: Sunday, May 23, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/miles-davis-sketches-of-spain-flac.html
 title: Miles Davis - Sketches of Spain (FLAC)
+artist: Miles Davis
+album: Sketches of Spain
+spotify_url: https://open.spotify.com/search/Miles%20Davis%20Sketches%20of%20Spain
+apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Sketches%20of%20Spain
+youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Sketches%20of%20Spain
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010095251im_/http://3.bp.blogspot.com/_cLI19EXK2oU/S_l037yAgEI/AAAAAAAAAoE/N-FpD2kNNR0/s400/1216728063031_f.jpg)](https://web.archive.org/web/20111010095251/http://3.bp.blogspot.com/_cLI19EXK2oU/S_l037yAgEI/AAAAAAAAAoE/N-FpD2kNNR0/s1600/1216728063031_f.jpg)  
 This is a favorite of many Miles fans, and for good reason, it's an impressionistic yet accessible introduction to the Miles canon. It features what some might call "classical" orchestrations, though this is misleading: The term is too broad. It's probably more precise to trace the album to impressionist composers such as Ravel and Debussy.

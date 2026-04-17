@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010065050/http://holyfuckingshit4
 date: Thursday, August 26, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/08/frank-zappa-freak-out-flac.html
 title: Frank Zappa - Freak Out (FLAC)
+artist: Frank Zappa
+album: Freak Out
+spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Freak%20Out
+apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Freak%20Out
+youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Freak%20Out
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010065050im_/http://3.bp.blogspot.com/_cLI19EXK2oU/THbBPiRkHrI/AAAAAAAAAzk/uiCLBY5FGlY/s400/album-Frank-Zappa--The-Mothers-of-Invention-Freak-Out.jpg)](https://web.archive.org/web/20111010065050/http://3.bp.blogspot.com/_cLI19EXK2oU/THbBPiRkHrI/AAAAAAAAAzk/uiCLBY5FGlY/s1600/album-Frank-Zappa--The-Mothers-of-Invention-Freak-Out.jpg)  
 Frank Zappa's extraordinary 60+album output is, in essence, one single thematically related piece of music. True Zappaphiles (of which I am one) appreciate all aspects of this remarkable lifetime achievement, but the point of reviews like this are to point out the salient characteristics of individual albums.

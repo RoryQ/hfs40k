@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20111010100505/http://holyfuckingshit4
 date: Saturday, May 29, 2010
 original_url: http://holyfuckingshit40000.blogspot.com/2010/05/spacemen-3-perfect-prescription-flac.html
 title: Spacemen 3 - The Perfect Prescription (FLAC)
+artist: Spacemen 3
+album: The Perfect Prescription
+spotify_url: https://open.spotify.com/search/Spacemen%203%20The%20Perfect%20Prescription
+apple_music_url: https://music.apple.com/us/search?term=Spacemen%203%20The%20Perfect%20Prescription
+youtube_url: https://www.youtube.com/results?search_query=Spacemen%203%20The%20Perfect%20Prescription
 ---
+
+
+
 
 [![](https://web.archive.org/web/20111010100505im_/http://1.bp.blogspot.com/_cLI19EXK2oU/TAFDYxdSy8I/AAAAAAAAArE/Dapz3QG64oU/s400/cover_3812142332009.jpg)](https://web.archive.org/web/20111010100505/http://1.bp.blogspot.com/_cLI19EXK2oU/TAFDYxdSy8I/AAAAAAAAArE/Dapz3QG64oU/s1600/cover_3812142332009.jpg)  
 

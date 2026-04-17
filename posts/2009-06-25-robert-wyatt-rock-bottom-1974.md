@@ -3,7 +3,15 @@ archived_url: https://web.archive.org/web/20090629170242/http://holyfuckingshit4
 date: Thursday, June 25, 2009
 original_url: http://holyfuckingshit40000.blogspot.com/2009/06/robert-wyatt-rock-bottom-1974.html
 title: Robert Wyatt - Rock Bottom (1974)
+artist: Robert Wyatt
+album: Rock Bottom
+spotify_url: https://open.spotify.com/search/Robert%20Wyatt%20Rock%20Bottom
+apple_music_url: https://music.apple.com/us/search?term=Robert%20Wyatt%20Rock%20Bottom
+youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Rock%20Bottom
 ---
+
+
+
 
 [![](https://web.archive.org/web/20090629170242im_/http://3.bp.blogspot.com/_JdyrURA7JYI/SkQeTRX7iPI/AAAAAAAAACQ/dVFXFk5nR4E/s400/wyatt.PNG)](https://web.archive.org/web/20090629170242/http://3.bp.blogspot.com/_JdyrURA7JYI/SkQeTRX7iPI/AAAAAAAAACQ/dVFXFk5nR4E/s1600-h/wyatt.PNG)Not nit not nit no not  
 Nit nit folly bololy  
