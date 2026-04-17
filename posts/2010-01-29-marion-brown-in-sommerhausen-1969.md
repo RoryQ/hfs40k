@@ -1,0 +1,10 @@
+---
+archived_url: https://web.archive.org/web/20111010124034/http://holyfuckingshit40000.blogspot.com/2010/01/marion-brown-in-sommerhausen-1969.html
+date: Friday, January 29, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/01/marion-brown-in-sommerhausen-1969.html
+title: Marion Brown - In Sommerhausen (1969)
+---
+
+[![](https://web.archive.org/web/20111010124034im_/http://1.bp.blogspot.com/_JdyrURA7JYI/S2Or0ISPaYI/AAAAAAAAAOY/e0njYpxYrsE/s400/marionsommer.PNG)](https://web.archive.org/web/20111010124034/http://1.bp.blogspot.com/_JdyrURA7JYI/S2Or0ISPaYI/AAAAAAAAAOY/e0njYpxYrsE/s1600-h/marionsommer.PNG)Marion Brown has got to be one of my best finds of the jazz underground in the last month or so. Even though he is an alto saxophonist he writes most of his songs around eclectic percussion and uses more practical sounds as well (whistles, bells). Here, he performs live with Gunter Hamel on vibes/bass clarinet/percussion, Ambrose Jackson on trumpet/percussion, Daniel Laloux on bass/percussion, Steve McCall on drums and Jeanne Lee on vocals for tracks 3 and 4. Recorded live at Bayerisches Staatskonservatorium Musik, Wurzburg, Germany on May 17, 1969. All credit for this album goes to whoever ripped it to 192kbps from vinyl, which is better than nothing considering it hasn't been released on CD. Overall, it is a great live album. "Exhibit B" is a short solo by Brown himself, showing his range on the sax. "The Sound of a Song" will most likely everyone's favorite song who downloads this due to it's brilliant vibes performed by Hamel. The part that may kill this album for some is the scat singing on the second half of "Malipieros Midnight Theatre" by Jeanne Lee. But if you look past that, the rest is a brilliant performance. Highly recommended.  
+  
+[Download 192 (vinyl rip)](https://web.archive.org/web/20111010124034/http://lix.in/-69e15a)

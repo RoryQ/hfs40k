@@ -1,0 +1,12 @@
+---
+archived_url: https://web.archive.org/web/20111010175617/http://holyfuckingshit40000.blogspot.com/2010/09/lcd-soundsystem-sound-of-silver-flac.html
+date: Saturday, September 18, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/09/lcd-soundsystem-sound-of-silver-flac.html
+title: LCD Soundsystem - Sound of Silver (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010175617im_/http://4.bp.blogspot.com/_cLI19EXK2oU/TJTO_LBl_RI/AAAAAAAAA0s/ln9TgDZ0xjM/s400/lcd-soundsystem-sound-of-silver.jpg)](https://web.archive.org/web/20111010175617/http://4.bp.blogspot.com/_cLI19EXK2oU/TJTO_LBl_RI/AAAAAAAAA0s/ln9TgDZ0xjM/s1600/lcd-soundsystem-sound-of-silver.jpg)  
+The second LCD full length is at once a more daring record, but also a more focused record. The most rewarding part about the first album was the inclusion of all LCD's previous vinyl releases collected on the bonus disc. The self titled debut itself was strong in places, but unfocused, and not much linked the various styles together. Here, on the second- record, LCD is able to create an album that wanders through various styles and yet somehow manages to still work as a larger whole. Murphy's vocals are alot stronger, and the sound is overall much fuller without being overdone. The slower songs are better, and the digital madness more infectious than ever. Overall, it is much more focused and rewarding effort from LCD. Highly recommended for fans of the first album and newcomers alike.   
+ [New York, I Love You But You're Bringing Me Down](https://web.archive.org/web/20111010175617/http://www.megaupload.com/?d=67GGIPO6)  
+  
+Password: haveanicelife

@@ -1,0 +1,25 @@
+---
+archived_url: https://web.archive.org/web/20111010065050/http://holyfuckingshit40000.blogspot.com/2010/08/frank-zappa-freak-out-flac.html
+date: Thursday, August 26, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/08/frank-zappa-freak-out-flac.html
+title: Frank Zappa - Freak Out (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010065050im_/http://3.bp.blogspot.com/_cLI19EXK2oU/THbBPiRkHrI/AAAAAAAAAzk/uiCLBY5FGlY/s400/album-Frank-Zappa--The-Mothers-of-Invention-Freak-Out.jpg)](https://web.archive.org/web/20111010065050/http://3.bp.blogspot.com/_cLI19EXK2oU/THbBPiRkHrI/AAAAAAAAAzk/uiCLBY5FGlY/s1600/album-Frank-Zappa--The-Mothers-of-Invention-Freak-Out.jpg)  
+Frank Zappa's extraordinary 60+album output is, in essence, one single thematically related piece of music. True Zappaphiles (of which I am one) appreciate all aspects of this remarkable lifetime achievement, but the point of reviews like this are to point out the salient characteristics of individual albums.
+
+Released in 1966, Freak Out! presented itself as the annunciation of a cultural revolution. Much like the Sex Pistols' Never Mind the Bollocks (1977), this was pop music as threat. But its scope goes far beyond this. The album begins with the proto-punk anthem, "Hungry Freaks, Daddy," a raw, blistering electric rave-up that works as well as "Anarchy in the U.K.," and stands up just as well. If this was all that remained of Freak Out!, it would still be a classic, but the album goes much deeper. Zappa works dilligently on perfectly realized pop songs built on cliche's, contrasting them with "reality songs" like "Motherly Love" (a brutal rocker that appeals for groupies to have sex with the band members), "You're Probably Wondering Why I'm Here" (a savage attack on the shallowness of the youth culture likely to consume the album), and most importantly, the strange, enigmatic "Who Are the Brain Police?" (in which people and objects are unreal, manufactured, interchangeable and subject to melting). The overly arranged love songs sit side by side with material that deconstructs them as false representations (particularly the '50s doo-wop parody "Go Cry on Somebody Else's Shoulder."
+
+I'll never complain about 2 LPs on one CD, but the breakup of the two sections does hurt the psychological impact of the album somewhat. Keep in mind that Side 3 of the LP was where Freak Out! began moving the listener into deeper territory, throwing more light upon what had already occured. The sprawling, grungy blues of "More Trouble Every Day" kicks this off, with a savage, biting report of the Watts riots and the media coverage in a racially and economically divided America that has not changed much. Here, we're a million miles from the pop gleen of "Wowie Zowie" and "How Could I Be Such a Fool?" The next step takes us where no "popular" artist had dared step before.
+
+"Help, I'm a Rock" is musical event in stasis, relieved by shock. Everything the album has been so far has mutated into a new form, an "abstract" pop where representations become more difficult to pin down. The "freak" threat now arises full-blown: but what is it? (These are not hippies, friends--but they are the dissafected, the "left behinds" who are rising up to claim a stake in the American dream--and they will transform it in a new image.) An atonal barbershop quartet taunts, "You're safe, mama. You're safe, baby." (Meaning of course, quite the opposite.)
+
+Did Zappa believe this was actually going to happen? Possibly in 1966 he did, but not much longer. The message of Freak Out! is much larger than that--it amounts to nothing less than a demand for complete social/sexual/aesthetic emancipation. His conclusion lies in the side-long epic, "The Return of the Son of the Monster Magnet" Often castigated/dismissed as chaotic noise, close listening will reveal a very controlled hand at work. This is the soundtrack of the awakening of a new individual sensibility. Section 1 ("Ritual Dance of the Child-Killer") is a destruction of the innocence that allows people to accept a prefabricated reality (the "Brain Police"), while the avant-garde Section 2 ("Nullis Prettii") translates "No Commercial Potential," a slogan Zappa wore as his badge of honor.
+
+Now or in 1966, this album is an audacious, vital masterpiece by one of the greatest artists of the century. (And did I forget to mention it's melodic, catchy and funny, too?)For the uninitiated, or the underinitiated, this is the perfect place to start what could be a lifelong dialectic with the most challenging, exciting and rewarding musicians/composers you will ever encounter.
+
+The present-day composer refuses to die! Long live Frank Zappa.
+
+[Who Are The Brain Police?](https://web.archive.org/web/20111010065050/http://lix.in/-8921df)
+
+Password: haveanicelife

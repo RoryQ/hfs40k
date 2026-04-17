@@ -1,0 +1,18 @@
+---
+archived_url: https://web.archive.org/web/20111010145357/http://holyfuckingshit40000.blogspot.com/2009/08/nina-simone-pastel-blues-1965-320.html
+date: Tuesday, August 4, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/08/nina-simone-pastel-blues-1965-320.html
+title: Nina Simone - Pastel Blues (1965) [320]
+---
+
+[![](https://web.archive.org/web/20111010145357im_/http://4.bp.blogspot.com/_cLxnR3lIheA/Rxtww9nDorI/AAAAAAAAAOM/osRiJCSjxMU/s320/Picture+2.png)](https://web.archive.org/web/20111010145357/http://4.bp.blogspot.com/_cLxnR3lIheA/Rxtww9nDorI/AAAAAAAAAOM/osRiJCSjxMU/s320/Picture+2.png)  
+
+One of my favourite albums. Her voice is amazing, and is as scary she looks. Best-of compilations tend to overlook a lot of her brilliant early work, and in my opinion, this is the best of her early work. So there's no going wrong. Every song works well, starting with the humble a cappella *Be My Husband* (which was covered beautifully by Jeff Buckley, whom I don't even like), all leading up to the epic *Sinnerman* (which is used at the end of *Inland Empire*)
+
+If anyone has any other good Nina Simone or some other old blues or folk singers, I'd appreciate the upload or the recommendation, I'm stuck on this album and Ella Fitzgerald and Louis Armstrong's *Ella and Louis Again*
+
+Track 7 is now up, I've got to start testing my archives before uploading..
+
+[Download (Mediafire)](https://web.archive.org/web/20111010145357/http://lix.in/-54c63f)
+
+[Track 7](https://web.archive.org/web/20111010145357/http://lix.in/-554f14)

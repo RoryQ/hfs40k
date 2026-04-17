@@ -1,0 +1,15 @@
+---
+archived_url: https://web.archive.org/web/20111010042729/http://holyfuckingshit40000.blogspot.com/2009/01/boris-dronevil-combined-2006.html
+date: Monday, January 19, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/01/boris-dronevil-combined-2006.html
+title: Boris - Dronevil Combined (2006)
+---
+
+[![](https://web.archive.org/web/20111010042729im_/http://i42.tinypic.com/2ez3715.jpg)](https://web.archive.org/web/20111010042729/http://i42.tinypic.com/2ez3715.jpg)Genre: Drone (HURR DURR)  
+Country: Japan  
+  
+This is the 2 original Dronevil disc combined/overlapped into one, the way it was meant to be played.  
+  
+ [Download1](https://web.archive.org/web/20111010042729/http://www.mediafire.com/?2zmdtitmrmy) [Download2](https://web.archive.org/web/20111010042729/http://www.mediafire.com/?njymwa2uyln) VBR/v0  
+  
+EDIT: Links fixed, sorry about that.

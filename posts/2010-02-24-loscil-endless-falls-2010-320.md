@@ -1,0 +1,12 @@
+---
+archived_url: https://web.archive.org/web/20111010155911/http://holyfuckingshit40000.blogspot.com/2010/02/loscil-endless-falls-2010-160.html
+date: Wednesday, February 24, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/02/loscil-endless-falls-2010-160.html
+title: Loscil - Endless Falls [2010, 320]
+---
+
+[![](https://web.archive.org/web/20111010155911im_/http://1.bp.blogspot.com/_2gIsOuOmgSg/S19ZSqz9FgI/AAAAAAAAAvY/sYl9ni2kClA/s320/113544.jpg)](https://web.archive.org/web/20111010155911/http://1.bp.blogspot.com/_2gIsOuOmgSg/S19ZSqz9FgI/AAAAAAAAAvY/sYl9ni2kClA/s320/113544.jpg)  
+  
+Warning: Listening to this album may require the aid of headphones and/or diapers.  
+  
+[320](https://web.archive.org/web/20111010155911/http://lix.in/-78d7cf)

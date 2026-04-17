@@ -1,0 +1,10 @@
+---
+archived_url: https://web.archive.org/web/20111010145242/http://holyfuckingshit40000.blogspot.com/2009/08/anthony-braxton-composition-113-1983.html
+date: Saturday, August 15, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/08/anthony-braxton-composition-113-1983.html
+title: Anthony Braxton - Composition 113 (1983)
+---
+
+[![](https://web.archive.org/web/20111010145242im_/http://4.bp.blogspot.com/_JdyrURA7JYI/SocUy7_TiiI/AAAAAAAAAGQ/nGIqBQS9jZE/s400/braxton113.PNG)](https://web.archive.org/web/20111010145242/http://4.bp.blogspot.com/_JdyrURA7JYI/SocUy7_TiiI/AAAAAAAAAGQ/nGIqBQS9jZE/s1600-h/braxton113.PNG)Anthony "Diarrhea" Braxton blowing some solo free jazz.  
+  
+[Download 320](https://web.archive.org/web/20111010145242/http://lix.in/-549a1a)

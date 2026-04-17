@@ -1,0 +1,11 @@
+---
+archived_url: https://web.archive.org/web/20111010145332/http://holyfuckingshit40000.blogspot.com/2009/08/david-bowie-aladdin-sane-remastered.html
+date: Monday, August 3, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/08/david-bowie-aladdin-sane-remastered.html
+title: David Bowie - Aladdin Sane (Remastered FLAC)
+---
+
+[![](https://web.archive.org/web/20111010145332im_/http://1.bp.blogspot.com/_cLI19EXK2oU/Sne4lQvmQPI/AAAAAAAAARQ/Iw47PxXAWP4/s400/aladdin-sane.jpg)](https://web.archive.org/web/20111010145332/http://1.bp.blogspot.com/_cLI19EXK2oU/Sne4lQvmQPI/AAAAAAAAARQ/Iw47PxXAWP4/s1600-h/aladdin-sane.jpg)  
+His earlier albums, Hunky Dory and The Rise and Fall of Ziggy Stardust, inexplicably receive more acclaimed, but Aladdin Sane is the peak of David Bowie's heavily influential glam rock phase. With a fantastic back-up band, a keen knowledge of many pop structures (jazz, blues and rock all play integral parts in the album) and a sleek, sexy sound, the androgynous, charismatic, make-up clad singer struts through the glam rock's world of raucous partying ("Watch That Man" "Drive-In Saturday"), trashy decadence ("Cracked Actor," "Time") and champagne-scented romance ("Lady Grinning Soul," the title track) as if he owned it all. The album is one of Bowie's best, as well as a practical bible for all the young dudes whom would follow him into the weird, wonderful world of glitzy artrock.  
+  
+ [Download FLAC](https://web.archive.org/web/20111010145332/http://lix.in/-502b86)

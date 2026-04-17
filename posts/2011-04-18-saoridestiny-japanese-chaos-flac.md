@@ -1,0 +1,13 @@
+---
+archived_url: https://web.archive.org/web/20111010145730/http://holyfuckingshit40000.blogspot.com/2011/04/saoridestiny-japanese-chaos-flac.html
+date: Monday, April 18, 2011
+original_url: http://holyfuckingshit40000.blogspot.com/2011/04/saoridestiny-japanese-chaos-flac.html
+title: Saori@destiny - Japanese Chaos (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010145730im_/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s320/Saori_destiny.jpg)](https://web.archive.org/web/20111010145730/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s1600/Saori_destiny.jpg)
+
+  
+Saori@destiny - Japanese Chaos, one of my favorite j-pop albums. The album has some really cute and catchy songs produced by Terukado Ōnishi. There's nice ethnic, techno twist on the stuff he comes up with, and Saori's cute voice I could listen all day. If you've ever heard Perfume you might like this! Alert this post is for weeaboos. But it's in LOSSLESS!, enjoy.  
+  
+[http://lix.in/-9c6d86](https://web.archive.org/web/20111010145730/http://lix.in/-9c6d86)

@@ -1,0 +1,16 @@
+---
+archived_url: https://web.archive.org/web/20111010142911/http://holyfuckingshit40000.blogspot.com/2009/07/roy-eldridge-monterux-77.html
+date: Wednesday, July 22, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/07/roy-eldridge-monterux-77.html
+title: Roy Eldridge - Monterux '77
+---
+
+[![](https://web.archive.org/web/20111010142911im_/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s320/roy17.jpg)](https://web.archive.org/web/20111010142911/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s1600-h/roy17.jpg)I CAN SEE YOU!! HWEH HWEH.  
+IS THIS ANY GOOD?  
+MAYBE IT IS MAYBE IT IS NOT, WHO AM I TO JUDGE?  
+  
+[FLAC](https://web.archive.org/web/20111010142911/http://lix.in/-51da3c)  
+  
+[V0](https://web.archive.org/web/20111010142911/http://lix.in/-4a3967)  
+  
+I AM SO BAKA.

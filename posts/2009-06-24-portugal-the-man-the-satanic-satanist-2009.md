@@ -1,0 +1,12 @@
+---
+archived_url: https://web.archive.org/web/20111010085217/http://holyfuckingshit40000.blogspot.com/2009/06/portugal-man-satanic-satanist-2009.html
+date: Wednesday, June 24, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/06/portugal-man-satanic-satanist-2009.html
+title: Portugal. The Man - The Satanic Satanist (2009)
+---
+
+[![](https://web.archive.org/web/20111010085217im_/http://3.bp.blogspot.com/_cLI19EXK2oU/SkKkDPCW_fI/AAAAAAAAAMg/lwVPa1ULYDA/s400/469x470.jpeg)](https://web.archive.org/web/20111010085217/http://3.bp.blogspot.com/_cLI19EXK2oU/SkKkDPCW_fI/AAAAAAAAAMg/lwVPa1ULYDA/s1600-h/469x470.jpeg)  
+hipster garbage  
+  
+[download 192 mediafire](https://web.archive.org/web/20111010085217/http://lix.in/-54db14)  
+[download 192 megaupload](https://web.archive.org/web/20111010085217/http://lix.in/-4bb358)

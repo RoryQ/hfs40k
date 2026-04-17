@@ -1,0 +1,10 @@
+---
+archived_url: https://web.archive.org/web/20111010053225/http://holyfuckingshit40000.blogspot.com/2010/07/heavenly-heavenly-vs-satan-flac.html
+date: Tuesday, July 13, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/07/heavenly-heavenly-vs-satan-flac.html
+title: Heavenly - Heavenly vs. Satan (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010053225im_/http://2.bp.blogspot.com/_nmjS6fd9kfU/TDxZWAibsRI/AAAAAAAAAKA/BhxX7Lw3QCU/s400/folder.jpg)](https://web.archive.org/web/20111010053225/http://2.bp.blogspot.com/_nmjS6fd9kfU/TDxZWAibsRI/AAAAAAAAAKA/BhxX7Lw3QCU/s1600/folder.jpg)Even though *Snowball* is a GREAT album, **this** is what I'm talking about when it comes to twee. Amelia Fletcher's voice makes me melt. I don't even give a damn what she's saying, it's just so saccharine, so sugary sugary sweet, that I keep insulin shots next to me just in case. Seriously, I don't think I could gush enough. If her voice doesn't just make your heart explode into bunnies and pink rainbows, you might need to recheck your priorities in life. The rest of the band and the melodies they come up with are top-notch twee as well, but damn, that voice...
+
+[Enjoy](https://web.archive.org/web/20111010053225/http://lix.in/-8bdfc3)

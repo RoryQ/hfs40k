@@ -1,0 +1,33 @@
+---
+archived_url: https://web.archive.org/web/20111010045223/http://holyfuckingshit40000.blogspot.com/2010/04/orb-orbus-terrarum-remastered-flac.html
+date: Tuesday, April 27, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/04/orb-orbus-terrarum-remastered-flac.html
+title: The Orb - Orbus Terrarum (Remastered FLAC)
+---
+
+[![](https://web.archive.org/web/20111010045223im_/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9blE1WTyJI/AAAAAAAAALE/RUgj7zUvdZg/s400/17296229cc4811ca5cd073406dc87ccc_full.jpg)](https://web.archive.org/web/20111010045223/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9blE1WTyJI/AAAAAAAAALE/RUgj7zUvdZg/s1600/17296229cc4811ca5cd073406dc87ccc_full.jpg)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Epic!!!11!  
+  
+[Part one,](https://web.archive.org/web/20111010045223/http://www.megaupload.com/?d=QVKJXNV7) [Part Two.](https://web.archive.org/web/20111010045223/http://www.megaupload.com/?d=GJCTKJ4Z)

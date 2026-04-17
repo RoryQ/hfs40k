@@ -1,0 +1,14 @@
+---
+archived_url: https://web.archive.org/web/20110613013156/http://holyfuckingshit40000.blogspot.com/2009/02/john-coltrane-ascension-1965.html
+date: Friday, February 20, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/02/john-coltrane-ascension-1965.html
+title: John Coltrane - Ascension (FLAC)
+---
+
+[![](https://web.archive.org/web/20110613013156im_/http://i41.tinypic.com/2j500mt.jpg)](https://web.archive.org/web/20110613013156/http://i41.tinypic.com/2j500mt.jpg)  
+  
+  
+And another FLAC request filled! Expect many more within the next few days.  
+  
+  
+[Download1](https://web.archive.org/web/20110613013156/http://www.mediafire.com/?ywlzwuk0jtn) [Download2](https://web.archive.org/web/20110613013156/http://www.mediafire.com/?yzygwctwmtf) [Download3](https://web.archive.org/web/20110613013156/http://www.mediafire.com/?tuynmzyyl1v)

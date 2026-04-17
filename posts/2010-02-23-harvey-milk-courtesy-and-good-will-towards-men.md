@@ -1,0 +1,12 @@
+---
+archived_url: https://web.archive.org/web/20111010155814/http://holyfuckingshit40000.blogspot.com/2010/02/harvey-milk-courtesy-and-good-will.html
+date: Tuesday, February 23, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/02/harvey-milk-courtesy-and-good-will.html
+title: Harvey Milk - Courtesy And Good Will Towards Men
+---
+
+[![](https://web.archive.org/web/20111010155814im_/http://4.bp.blogspot.com/_bIgHZQu-UEA/S3hWyW_sl_I/AAAAAAAAAVc/doxot8jtJrA/s400/good+will.jpg)](https://web.archive.org/web/20111010155814/http://4.bp.blogspot.com/_bIgHZQu-UEA/S3hWyW_sl_I/AAAAAAAAAVc/doxot8jtJrA/s1600-h/good+will.jpg)  
+
+I'm pretty sure nobody else has bought the album and ripped it [lossless](https://web.archive.org/web/20111010155814/http://lix.in/-6f3b70), everywhere else it remains [lossy](https://web.archive.org/web/20111010155814/http://lix.in/-7248b2), although not at [320kbps](https://web.archive.org/web/20111010155814/http://lix.in/-73cf53). The album includes a [bonus disc](https://web.archive.org/web/20111010155814/http://lix.in/-76dc95).
+
+Give it enough listens and it will hit you in the gut like not many other albums (up there with Tom Waits and Leonard Cohen in that respect)

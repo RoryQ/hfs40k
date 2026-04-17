@@ -1,0 +1,10 @@
+---
+archived_url: https://web.archive.org/web/20111010130740/http://holyfuckingshit40000.blogspot.com/2009/04/worlds-end-girlfriend-lie-lay-land-flac.html
+date: Friday, April 17, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/04/worlds-end-girlfriend-lie-lay-land-flac.html
+title: World's End Girlfriend - The Lie Lay Land (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010130740im_/http://2.bp.blogspot.com/_5cVyPU93ihM/SeikRcKCFSI/AAAAAAAAADo/IlKE7P6nhhU/s320/World%27s+End+Girlfriend+-+The+Lie+Lay+Land.jpg)](https://web.archive.org/web/20111010130740/http://2.bp.blogspot.com/_5cVyPU93ihM/SeikRcKCFSI/AAAAAAAAADo/IlKE7P6nhhU/s1600-h/World%27s+End+Girlfriend+-+The+Lie+Lay+Land.jpg)"The soundtrack for your dreams"  
+[Download](https://web.archive.org/web/20111010130740/http://lix.in/-4c6623)  
+[Last.fm](https://web.archive.org/web/20111010130740/http://www.last.fm/music/World%27s+End+Girlfriend)

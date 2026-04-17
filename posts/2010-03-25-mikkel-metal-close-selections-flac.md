@@ -1,0 +1,30 @@
+---
+archived_url: https://web.archive.org/web/20111010083128/http://holyfuckingshit40000.blogspot.com/2010/03/mikkel-metal-close-selections-flac.html
+date: Thursday, March 25, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/03/mikkel-metal-close-selections-flac.html
+title: Mikkel Metal - Close Selections FLAC
+---
+
+[![](https://web.archive.org/web/20111010083128im_/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s400/x.jpg)](https://web.archive.org/web/20111010083128/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s1600/x.jpg)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Another marvel from obscurity, everybody who is familiar with echocord should check it out. in fact as it seems it is echocords first cd release, [echocord cd01](https://web.archive.org/web/20111010083128/http://www.discogs.com/label/Echocord)   
+  
+[Get it in FLAC](https://web.archive.org/web/20111010083128/http://www.megaupload.com/?d=RO11PFCX)

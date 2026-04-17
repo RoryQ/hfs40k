@@ -1,0 +1,26 @@
+---
+archived_url: https://web.archive.org/web/20111010123241/http://holyfuckingshit40000.blogspot.com/2010/01/edvard-grieg-piano-concerto.html
+date: Sunday, January 31, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/01/edvard-grieg-piano-concerto.html
+title: Edvard Grieg - Piano Concerto
+---
+
+[![](https://web.archive.org/web/20111010123241im_/http://2.bp.blogspot.com/_bIgHZQu-UEA/S2YhBBKdGZI/AAAAAAAAAQ0/nq8v046bczE/s320/Edvard%2BGrieg.jpg)](https://web.archive.org/web/20111010123241/http://2.bp.blogspot.com/_bIgHZQu-UEA/S2YhBBKdGZI/AAAAAAAAAQ0/nq8v046bczE/s1600-h/Edvard%2BGrieg.jpg)
+
+Havard Gimse, Piano
+
+Royal Scottish National Orchestra
+
+Bjarte Engeset
+
+Concert Overture: In Autumn, Op. 11
+
+Piano Concerto in A minor, Op. 16
+
+Symphonic Dances, Op. 64
+
+I assume people here like classic music that is also not minimalist and/or avant-garde classical music. He wrote stuff for one of Ibsen's plays, Ibsen fans rejoice.
+
+[Download FLAC](https://web.archive.org/web/20111010123241/http://lix.in/-68abbd)
+
+[Download 320](https://web.archive.org/web/20111010123241/http://lix.in/-704e04)

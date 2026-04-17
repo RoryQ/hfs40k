@@ -1,0 +1,18 @@
+---
+archived_url: https://web.archive.org/web/20111201230011/http://holyfuckingshit40000.blogspot.com/2009/05/belle-and-sebastian-if-youre-feeling.html
+date: Sunday, October 4, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/05/belle-and-sebastian-if-youre-feeling.html
+title: Belle and Sebastian - If You're Feeling Sinister (FLAC)
+---
+
+[![](https://web.archive.org/web/20111201230011im_/http://4.bp.blogspot.com/_cLI19EXK2oU/Sgd9LBCmBbI/AAAAAAAAAEo/JtLcP-ntGas/s400/sinister.jpg)](https://web.archive.org/web/20111201230011/http://4.bp.blogspot.com/_cLI19EXK2oU/Sgd9LBCmBbI/AAAAAAAAAEo/JtLcP-ntGas/s1600-h/sinister.jpg)  
+Fuck yeah Kafka  
+  
+[Download](https://web.archive.org/web/20111201230011/http://www.megaupload.com/?d=UIC0HPTP) [FLAC](https://web.archive.org/web/20111201230011/http://www.megaupload.com/?d=UIC0HPTP)  
+  
+Password: haveanicelife  
+  
+  
+Reuploaded by Obi's request  
+  
+Also lix.in is temporarily down for maintenance, don't worry the links will be back soon

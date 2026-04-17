@@ -1,0 +1,11 @@
+---
+archived_url: https://web.archive.org/web/20111010153019/http://holyfuckingshit40000.blogspot.com/2009/12/erik-satie-ouvres-pour-piano-aldo.html
+date: Friday, December 11, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/12/erik-satie-ouvres-pour-piano-aldo.html
+title: Erik Satie - Oeuvres pour Piano (Aldo Ciccolini)
+---
+
+[![](https://web.archive.org/web/20111010153019im_/http://1.bp.blogspot.com/_nmjS6fd9kfU/SyMYE02oaVI/AAAAAAAAAF0/6G2YPVHljPI/s400/folder.jpg)](https://web.archive.org/web/20111010153019/http://1.bp.blogspot.com/_nmjS6fd9kfU/SyMYE02oaVI/AAAAAAAAAF0/6G2YPVHljPI/s1600-h/folder.jpg)  
+An excellent, and by some sources definitive, collection of Satie's piano works. Although best known for the beautifully melancholy set of three Gymnopedies that begin the collection, Satie develops his unique musical style through a seemingly endless set of interestingly titled miniatures that never deviate too far from the proto-ambient style of the more famous Gymnopedies. That isn't too say that they are boring, as his then-new harmonic ideas still retain some of their quirky freshness today. Perfect album for a rainy day or a dark, calm night.  
+  
+[Enjoy](https://web.archive.org/web/20111010153019/http://lix.in/-6967b2)

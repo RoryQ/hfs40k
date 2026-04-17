@@ -1,0 +1,18 @@
+---
+archived_url: https://web.archive.org/web/20111010130659/http://holyfuckingshit40000.blogspot.com/2009/03/koenjihyakkei-angherr-shisspa-flac.html
+date: Friday, March 6, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/03/koenjihyakkei-angherr-shisspa-flac.html
+title: Koenjihyakkei - Angherr Shisspa (FLAC)
+---
+
+[![](https://web.archive.org/web/20111010130659im_/http://i43.tinypic.com/xqb76f.jpg)](https://web.archive.org/web/20111010130659/http://i43.tinypic.com/xqb76f.jpg)  
+Warning! This album contains ridiculous amounts of: awesome, win, japs and wankery. Milestone of Weeaboo Zeuhl.  
+Tatsuya Yoshida = God  
+  
+[Review](https://web.archive.org/web/20111010130659/http://www.pitchforkmedia.com/article/record_review/19121-koenjihyakkei-angherr-shisspa) 8.3 from Pitchfork Media  
+  
+Download  
+[Part1](https://web.archive.org/web/20111010130659/http://www.mediafire.com/?ymjx5ggoxmd), [Part2](https://web.archive.org/web/20111010130659/http://www.mediafire.com/?ttjzjm2jomt), [Part3](https://web.archive.org/web/20111010130659/http://www.mediafire.com/?qkynjmjjomz), [Part4](https://web.archive.org/web/20111010130659/http://www.mediafire.com/?ymygloz1imz)  
+  
+[Last.fm](https://web.archive.org/web/20111010130659/http://www.last.fm/music/Koenjihyakkei)  
+[Rateyourmusic](https://web.archive.org/web/20111010130659/http://rateyourmusic.com/release/album/koenjihyakkei/angherr_shisspa/)

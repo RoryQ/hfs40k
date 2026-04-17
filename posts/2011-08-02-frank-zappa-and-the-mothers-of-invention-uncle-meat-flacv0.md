@@ -1,0 +1,10 @@
+---
+archived_url: https://web.archive.org/web/20111008165722/http://holyfuckingshit40000.blogspot.com/2011/08/frank-zappa-and-mothers-of-invention.html
+date: Tuesday, August 2, 2011
+original_url: http://holyfuckingshit40000.blogspot.com/2011/08/frank-zappa-and-mothers-of-invention.html
+title: Frank Zappa and The Mothers of Invention - Uncle Meat [FLAC/v0]
+---
+
+[![](https://web.archive.org/web/20111008165722im_/http://3.bp.blogspot.com/-ihNI64NdMPQ/TjhfNPa8m9I/AAAAAAAAAWM/9cG1dYNUWN8/s400/unclemeat.png)](https://web.archive.org/web/20111008165722/http://3.bp.blogspot.com/-ihNI64NdMPQ/TjhfNPa8m9I/AAAAAAAAAWM/9cG1dYNUWN8/s1600/unclemeat.png)We had a huge Zappa-thon awhile ago on HFS40k, but yet this very underrated Mothers album was never included. Understandable, though. This album is really all over the place with random jazzy compositions, tidbits of psych rock, commentary by the fictional character Suzy Creamcheese among other Mothers members. It was originally intended as the soundtrack to a movie that The Mothers could never afford (read the text under Uncle Meat on the album cover). Still, there's enough genius music on this to get its own honorary post on the site. The focal point being Side D of this album, the King Kong suite. 6 separate parts to an 18 minute jazz rock jam that more than parallels the genius 18 minute composition on later album Burnt Weeny Sandwich. When Zappa and his band get into that chaotic, cathartic, melodic mood, there is nothing else that can compare. Not only are these guys a bunch of excellent musicians, but passionate virtuosos as well. If you like jazz rock/fusion at all I would suggest at least checking out that suite (which is on Disc 2 of this release).
+
+[Download FLAC](https://web.archive.org/web/20111008165722/http://lix.in/-a0d392) // \\ [Download v0](https://web.archive.org/web/20111008165722/http://lix.in/-9f4a7b)

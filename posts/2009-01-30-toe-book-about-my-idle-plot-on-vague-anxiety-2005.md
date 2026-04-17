@@ -1,0 +1,16 @@
+---
+archived_url: https://web.archive.org/web/20111010042742/http://holyfuckingshit40000.blogspot.com/2009/01/toe-book-about-my-idle-plot-on-vague.html
+date: Friday, January 30, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/01/toe-book-about-my-idle-plot-on-vague.html
+title: Toe - Book About My Idle Plot on Vague Anxiety (2005)
+---
+
+[![](https://web.archive.org/web/20111010042742im_/http://i44.tinypic.com/10zzuqh.jpg)](https://web.archive.org/web/20111010042742/http://i44.tinypic.com/10zzuqh.jpg)  
+Genre: Post-Rock / Math Rock  
+Country: Japan  
+  
+  
+FUCK YES, YOU ARE THE BEST POST-ROCK DRUMMER EVER. Very active album with a lot of hooks, highly recommended.  
+  
+  
+[Download](https://web.archive.org/web/20111010042742/http://www.megaupload.com/?d=HHE4HU73)

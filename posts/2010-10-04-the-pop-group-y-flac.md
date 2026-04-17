@@ -1,0 +1,19 @@
+---
+archived_url: https://web.archive.org/web/20111010112441/http://holyfuckingshit40000.blogspot.com/2010/10/pop-group-y-flac.html
+date: Monday, October 4, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/10/pop-group-y-flac.html
+title: The Pop Group - Y [FLAC]
+---
+
+[![](https://web.archive.org/web/20111010112441im_/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKqhH5AtszI/AAAAAAAAALk/QCYuCDLmBa0/s400/o17237.jpg)](https://web.archive.org/web/20111010112441/http://1.bp.blogspot.com/_mTQyK3r0bG0/TKqhH5AtszI/AAAAAAAAALk/QCYuCDLmBa0/s1600/o17237.jpg)  
+That line - the title of one of the songs on this album - perfectly describes my dilemma in attempting to write a review of this recording. I can think of few albums that have picked me up, shaken me, thrown me against the wall and opened my heart and mind as beautifully and powerfully as this one. I only wish that the other albums by this band were available on cd - especially their incredible FOR HOW MUCH LONGER DO WE TOLERATE MASS MURDER. Combining elements of rock, punk, funk, free jazz and downright mind-blowing experimentation in a way that can only be described as courageous, The Pop Group burst onto the UK music scene with this, their first release, in 1979 - and my mind, for one, hasn't been the same since.  
+  
+The band was made up of some angry young men who - depending on your point of view - were stellar musicians who managed to put across their musical/social/political ideas in an incredibly effective manner, or were political/social idealists who managed to make their musical talents perform those ideas in a way to convey them so eloquently and emotionally to their listeners. It's actually a bit of both, with lots of other elements thrown into the mix.  
+  
+It's hard to say that the band was `fronted' by Mark Stewart's inimitable vocals - but let's call it that for the sake of argument. He has a voice that is unique and unmistakable - once you hear him in any setting, you'll recognize him in another (and he has performed in other ensembles, both during The Pop Group's existence and afterwards). Stewart croons, shrieks, growls, coos and more - he THROWS his voice at the listener, and the listener better be ready to catch it. Utilizing mixing and performing techniques of dub artists along with his already-formidable vocal palette, Stewart creates an atmosphere of intensity, alternately powered and driven by anger, love, fear, dread, and a whole range of other equally powerful emotions.  
+  
+Instrumentally, the band is as unique as Stewart is vocally. Gareth Sager performs on guitar, piano, and saxophone - his love of free jazz artists such as the great Roland Kirk is evident in his technique (as well as in the heart-wrenching abandon/control combination of his playing). Bruce Smith (drums) and Simon Underwood (bass) lay down one of the greatest foundations you're ever likely to hear anywhere. John Waddington's guitar completes the audio picture, sending cascades of slashing rhythms across the mix. The whole thing is really, really indescribable. The overall feel, believe it or not (for those who have never heard this band) is steamingly funky - but make no mistake about it, this is NOT mindless dance music. There are multiple, intense and VITAL messages to be found in the band's lyrics - they address political and social issues that concern them (and should concern us all) without flinching or pulling any punches.  
+  
+This cd release contains the entire album as it was originally released, with the addition of `She is beyond good and evil', the band's first (I think) single. Take a chance, take a dive, and experience this - AND TURN IT UP!  
+  
+[Don't Sell Your Dreams](https://web.archive.org/web/20111010112441/http://lix.in/-8a1800)

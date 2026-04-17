@@ -1,0 +1,13 @@
+---
+archived_url: https://web.archive.org/web/20111010111551/http://holyfuckingshit40000.blogspot.com/2011/03/after-dinner-editions-flac.html
+date: Monday, March 21, 2011
+original_url: http://holyfuckingshit40000.blogspot.com/2011/03/after-dinner-editions-flac.html
+title: After Dinner - Editions [FLAC]
+---
+
+[![](https://web.archive.org/web/20111010111551im_/http://2.bp.blogspot.com/-GPQ9N1TeCKQ/TYeYuaXXXcI/AAAAAAAAAPc/6XgfVl7qIO0/s400/o278380.jpg)](https://web.archive.org/web/20111010111551/http://2.bp.blogspot.com/-GPQ9N1TeCKQ/TYeYuaXXXcI/AAAAAAAAAPc/6XgfVl7qIO0/s1600/o278380.jpg)  
+I remember hearing this in high school, not remotely ready at that time to wrap my ears around this Japanese group's 1984 debut. Some 20 years later, it's still a staggering achievement. I'm tempted to use terms like electroglobe or Neu! World to describe the sound- a vast array of instruments, constant and extreme electro-acoustic treatment and myriad splices all in the service of consummate song craft. Building on the innovations of groups like Faust and Neu!, but relying heavily on traditional Japanese aesthetics, Live Editions is as much a collage of slow fades, swells and interruptions as it is a collection of songs. The lyrics, often exhibiting the staticity of haiku, are in juxtaposition with a backdrop of constantly morphing music. On Glass Tube , vocalist Haco is reminiscent of Twin Peaks, her words reversed twofold like the Man From Another Place. The texture moves gradually from sinewy-soft bottle-blowing, accompanied by guitar and piano, through a string quartet interlude, punctuated by gentle tea stirrings and some disconcertingly distorted hammer blows; the strings detune sickeningly just before the unceremonious return of the verse, complete with crunchy new wave drums. The album is full of these heterogeneities, most fairly quiet, rendering any noisy passages more powerful. Live, this group was probably a wilder entity, as the two massively different versions of After Dinner will demonstrate. However, the live material is also subject to extreme editing, sometimes phrase by phrase, so that the concert experience is never even approximated. The disc contains a few non-album tracks as well, but the highlight is certainly the original LP, an absolute masterpiece of controlled spontaneity. Apart from This Heat and the aforementioned Faust, I can think of no group from that time that covered so much in such short spaces. Their influence looms large, and it s very nice to see this one back in print.  
+  
+Apolloj's request  
+  
+[Download FLAC](https://web.archive.org/web/20111010111551/http://lix.in/-975178)
