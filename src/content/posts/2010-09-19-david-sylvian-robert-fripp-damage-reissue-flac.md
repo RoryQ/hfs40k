@@ -1,0 +1,34 @@
+---
+archived_url: https://web.archive.org/web/20111010175743/http://holyfuckingshit40000.blogspot.com/2010/09/david-sylvian-robert-fripp-damage.html
+date: Sunday, September 19, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/09/david-sylvian-robert-fripp-damage.html
+title: David Sylvian & Robert Fripp - Damage (Reissue) [FLAC]
+artist: David Sylvian & Robert Fripp
+album: Damage
+spotify_url: https://open.spotify.com/search/David%20Sylvian%20%26%20Robert%20Fripp%20Damage
+apple_music_url: https://geo.music.apple.com/au/album/_/1478468831?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=David%20Sylvian%20%26%20Robert%20Fripp%20Damage
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/covers/2010-09-19-david-sylvian-robert-fripp-damage-reissue-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-19-david-sylvian-robert-fripp-damage-reissue-flac.webp)  
+The early '90s found vocalist David Sylvian and guitarist Robert Fripp on the road together in a band that Fripp had wanted to call King Crimson, performing material that sounded quite a bit like King Crimson. After recording a studio record (the superb "The First Day"), the pair released this live album in limited edition. It was eventually reissued with a David Sylvian production credit and a slightly different track listing and track ordering (the original was produced by Fripp and then-frequent production partner David Bottrill). This is the reissue.  
+  
+The music first--what a performance! Sylvian (on vocals, guitars and keyboards) and Fripp (on guitar) had assembled a fine supporting cast-- infinite guitarist Michael Brook and future King Crimson members Trey Gunn (Chapman stick) and Pat Mastelotto (drums) to work up a really potent stew. The addition of Mastelotto and his admittedly somewhat heavier hand provides the live performance with a fantastic energy-- everything is powerfully rendered with Mastelotto's tribal-tinged rhythms providing a backbone that certainly seems to inspire Fripp-- his performances masterfully trump the studio recording with jaw-dropping energetic solos on pieces like "God's Monkey", "20th Century Dreaming" and especially "Firepower" that really make the album cuts look like pale shadows in comparison.  
+  
+Along the way, the band performs a few songs from Sylvian's catalog-- "Gone to Earth", "Wave" and "Riverman" from "Gone to Earth" (all of which featured Fripp on the album) all get readings here as does Rain Tree Crow/Japan reunion classic, "Every Colour You Are". "Wave" and "Riverman" both get great readings-- Sylvian really seems to take advantage of the opportunity to not have the onslaught of guitars that is the majority of the material to dig in-- his vocals are nothing short of earth-shattering. But "Every Colour You Are" is the gem here-- just pure magic of a performance, Sylvian's vocal is haunted and disturbed and a fantastic solo (from Brook I suspect) provides a great angular contrast.  
+  
+Additionally, three pieces left off the studio record get performances here as well-- two ballads in "Damage" and "The First Day" and straight rocker "Blinding Light of Heaven". The ballads being left off the record is a real mystery-- while they pulled the material away from its King Crimsonesque sound, both of them are fantastic, with Sylvian's vocals and Fripp's guitars laden in passion. "Damage" in particular really grabs you.  
+  
+The Sylvian-mixed reissue makes a few sequencing changes-- pushing "Damage" from the beginning to the middle of the record (where it was in the set) and subbing "Jean the Birdman" for "Darshan". Personally, I wish they'd included everything from the set in a reissue (between the two issues, the only missing track is "Exposure", from Fripp's solo record of the same name). In terms of production values, as I'm playing the reissue now immediately after listening to the original, what I notice is a distinct level of almost studio-like clarity-- Fripp I think lives that live mix sound, the occasional unbalance, the guitars subsuming the vocals now and again, etc. Sylvian's opted for a very clean approach. Both certainly have their merits, though I think I prefer Fripp's slightly.  
+  
+The Sylvian/Fripp collaboration bore enormous fruits-- it's really a pity that they have yet to reconvene in any significant fashion. Nonetheless, "Damage" serves as a calling card for their collaboration, and it should not be overlooked. Highly recommended.  
+  
+[20th Century Dreaming (A Shaman's Song)](https://web.archive.org/web/20111010175743/http://lix.in/-894984)

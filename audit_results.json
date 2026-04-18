@@ -1,0 +1,142 @@
+[
+  {
+    "filename": "42ce67d70d1507e73f6bb2b68e0949f7.webp",
+    "artist": "Shellac",
+    "album": "1000 Hurts",
+    "status": "NSFW",
+    "reason": "The image is sexually explicit and contains nudity. It is not the album cover."
+  },
+  {
+    "filename": "b56764d2ef0bc98854799827e36f9b5b.webp",
+    "artist": "Shellac",
+    "album": "At Action Park",
+    "status": "OK",
+    "reason": "The image matches the album cover for 'Shellac - At Action Park'."
+  },
+  {
+    "filename": "3cf1aa24e99903d97d6adce735d1232b.webp",
+    "artist": "Miles Davis",
+    "album": "'Round About Midnight",
+    "status": "OK",
+    "reason": "The image is the album cover for 'Miles Davis - 'Round About Midnight'."
+  },
+  {
+    "filename": "a83ec2ed2beeb3f6c0cfa8e4a7ce2ce5.webp",
+    "artist": "Shellac",
+    "album": "At Action Park",
+    "status": "OK",
+    "reason": "The image matches the album cover for Shellac - At Action Park."
+  },
+  {
+    "filename": "42ce67d70d1507e73f6bb2b68e0949f7.webp",
+    "artist": "Shellac",
+    "album": "1000 Hurts",
+    "status": "NSFW",
+    "reason": "The image is sexually explicit and inappropriate for general audiences."
+  },
+  {
+    "filename": "6c6832b68229dfb17a4b4a31dc5803f1.webp",
+    "artist": "Bondage Fruit",
+    "album": "Bondage Fruit",
+    "status": "OK",
+    "reason": "The image is the album cover of Bondage Fruit's self titled album."
+  },
+  {
+    "filename": "f65a2af788c3c5970e2ce721492c5df3.webp",
+    "artist": "King Crimson",
+    "album": "In the Court of the Crimson King",
+    "status": "OK",
+    "reason": "This is indeed the album cover for 'King Crimson - In the Court of the Crimson King'."
+  },
+  {
+    "filename": "6c6832b68229dfb17a4b4a31dc5803f1.webp",
+    "artist": "Bondage Fruit",
+    "album": "Bondage Fruit",
+    "status": "OK",
+    "reason": "Image appears to match the album cover for 'Bondage Fruit - Bondage Fruit' based on visual inspection."
+  },
+  {
+    "filename": "00a593363cfd4bfc6e8a21c07f3fcf0e.webp",
+    "artist": "Charles Mingus",
+    "album": "Pithecanthropus Erectus",
+    "status": "OK",
+    "reason": "The image matches the description of the album cover for 'Charles Mingus - Pithecanthropus Erectus'."
+  },
+  {
+    "filename": "c99be68360834e714c3811b1020ea10a.webp",
+    "artist": "Charles Mingus",
+    "album": "Pithecanthropus Erectus",
+    "status": "WRONG",
+    "reason": "This image is unrelated to the album cover for 'Charles Mingus - Pithecanthropus Erectus'. It contains text from a social media post."
+  },
+  {
+    "filename": "c99be68360834e714c3811b1020ea10a.webp",
+    "artist": "Charles Mingus",
+    "album": "Pithecanthropus Erectus",
+    "status": "WRONG",
+    "reason": "The image contains text from a user review about mistyping a word. It is unrelated to the album cover for 'Charles Mingus - Pithecanthropus Erectus'."
+  },
+  {
+    "filename": "a2224d81b0a4f2a42daf8ec53670a537.webp",
+    "artist": "A Silver Mt. Zion",
+    "album": "13 Blues for Thirteen Moons",
+    "status": "OK",
+    "reason": "The image matches the album cover for 'A Silver Mt. Zion - 13 Blues for Thirteen Moons'."
+  },
+  {
+    "filename": "09fbab6540f6eb06e0401569ab856b56.webp",
+    "artist": "The Flaming Lips",
+    "album": "Yoshimi Battles The Pink Robots",
+    "status": "OK",
+    "reason": "The image appears to be the album cover for 'The Flaming Lips - Yoshimi Battles The Pink Robots'."
+  },
+  {
+    "filename": "00a593363cfd4bfc6e8a21c07f3fcf0e.webp",
+    "artist": "Charles Mingus",
+    "album": "Pithecanthropus Erectus",
+    "status": "OK",
+    "reason": "The image matches the album cover for 'Charles Mingus - Pithecanthropus Erectus'."
+  },
+  {
+    "filename": "b6a39bb3bf4a2f16c88a845505e40cf9.webp",
+    "artist": "Silkie",
+    "album": "City Limits, Volume 1",
+    "status": "OK",
+    "reason": "The image appears to be the album cover for Silkie - City Limits, Volume 1."
+  },
+  {
+    "filename": "ea016162adc2e9b9f005a80b01bca4f9.webp",
+    "artist": "Dexter Gordon",
+    "album": "The Complete Blue Note Sixties Sessions",
+    "status": "OK",
+    "reason": "The image appears to be the album cover for 'Dexter Gordon - The Complete Blue Note Sixties Sessions'."
+  },
+  {
+    "filename": "1ffb0ddf1a6a5a2408bddb9f706ecb0d.webp",
+    "artist": "The White Stripes",
+    "album": "Elephant",
+    "status": "WRONG",
+    "reason": "It is a White Stripes album cover, but not 'Elephant'. It's 'Get Behind me Satan'"
+  },
+  {
+    "filename": "7907d26071304e3fd83f6f631bb04a56.webp",
+    "artist": "Dexter Gordon",
+    "album": "The Complete Blue Note Sixties Sessions",
+    "status": "OK",
+    "reason": "The image matches the album cover description."
+  },
+  {
+    "filename": "03a2310a962484f9846ab6d4b52c366c.webp",
+    "artist": "La Monte Young",
+    "album": "The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC",
+    "status": "OK",
+    "reason": "The image matches the description of the album cover for La Monte Young - The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC."
+  },
+  {
+    "filename": "b8d7f04c357c9a1721a6d38428be1d07.webp",
+    "artist": "The Flaming Lips",
+    "album": "Yoshimi Battles The Pink Robots",
+    "status": "OK",
+    "reason": "The image is the album cover for 'The Flaming Lips - Yoshimi Battles The Pink Robots'."
+  }
+]

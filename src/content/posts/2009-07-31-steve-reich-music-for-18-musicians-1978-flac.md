@@ -1,0 +1,28 @@
+---
+archived_url: https://web.archive.org/web/20111010140512/http://holyfuckingshit40000.blogspot.com/2009/07/steve-reich-music-for-18-musicians-1978.html
+date: Friday, July 31, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/07/steve-reich-music-for-18-musicians-1978.html
+title: Steve Reich - Music for 18 Musicians (1978) [FLAC]
+artist: Steve Reich
+album: Music for 18 Musicians
+spotify_url: https://open.spotify.com/search/Steve%20Reich%20Music%20for%2018%20Musicians
+apple_music_url: https://music.apple.com/us/search?term=Steve%20Reich%20Music%20for%2018%20Musicians
+youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Music%20for%2018%20Musicians
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/df0ea40b79a1029920ad5da8cff035f9.webp)](https://web.archive.org/web/20111010140512/http://4.bp.blogspot.com/_cLI19EXK2oU/SnMGnp54QgI/AAAAAAAAAQ4/v-nQJOCqoEg/s1600-h/covercustomok1.jpg)  
+  
+This album can either send you into a deep trance or a screaming fit, depending on your tolerance for repetitive minimalist music. Music for 18 Musicians is Reich's great transition work from the small ensemble pieces of the 70's to his large scale work of the 80's and 90's. It's densely layered repeating patterns gradually shift in and out of phase with each other, creating a kaleidoscope of timbres, and endlessly varied crossrhythms. To listen to this piece with an open mind is to enter an entrancing world of color light and imagination. Reich proves why he is the most imitated and inimitable of all of the minimalists.
+
+The performance is definitive. These musicians were all members of Reich's performing groups of the 70's. And ECM engineers have a genius for atmospheric sound that is perfect for this music. This is a delightful album.
+
+  
+ [Download FLAC](https://web.archive.org/web/20111010140512/http://lix.in/-544d4f)

@@ -1,7 +1,21 @@
 {
-  "devDependencies": {
-    "@astrojs/tailwind": "^6.0.2",
+  "name": "holyfuckingshit40000-repress",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.0.0",
+    "@astrojs/tailwind": "^6.0.0",
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/typography": "^0.5.0",
     "lucide-astro": "^0.556.0",
-    "tailwindcss": "^4.2.2"
+    "@fontsource/inter": "^5.0.0",
+    "@fontsource/space-mono": "^5.0.0"
   }
 }

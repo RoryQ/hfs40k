@@ -1,0 +1,23 @@
+---
+archived_url: https://web.archive.org/web/20111010123902/http://holyfuckingshit40000.blogspot.com/2010/01/various-artists-pop-ambient-2010-flac.html
+date: Friday, January 29, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/01/various-artists-pop-ambient-2010-flac.html
+title: Various Artists - Pop Ambient 2010 [FLAC]
+artist: Various Artists
+album: Pop Ambient 2010
+spotify_url: https://open.spotify.com/search/Various%20Artists%20Pop%20Ambient%202010
+apple_music_url: https://music.apple.com/us/search?term=Various%20Artists%20Pop%20Ambient%202010
+youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20Pop%20Ambient%202010
+---
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/cd26100a7473105d16970eacb64bf8a5.webp)](/holyfuckingshit40000/images/cd26100a7473105d16970eacb64bf8a5.webp)  
+Kompakt begin their 2010 with the latest Pop Ambient collection, featuring exclusive cuts from Wolfgang Voigt, DJ Koze, Thomas Fehlmann and The Orb among other key contributors to the much loved series. Marsen Jules is up first with 'The Sound Of One Lip Kissing', riffing on a single repeating chord that leaves vapour trails of ambience and flickering percussion behind it. Triola offers up another early highlight, plunging into a frosted-over world of filtered, grainy tone sculpting, serving as a perfect contrast to the unexpected electroacoustic Wolfgang Voigt construction, 'Zither Und Horn', whose effect-laden instrumental treatments avoid retreading any of the classic GAS material in favour of something a little more spartan in its construction. All Voigt's customary harmonic richness remains intact however, and the pitch-shifted, delayed sounds all contribute to a sparkling soundscape that eschews Pop Ambient convention, avoiding the more customary plumes of drone that tend to fill these compilations. Similarly experimental is DJ Koze's 'Bodenweich', which also places emphasis on the processing of instrumental source material, resulting in something that actually brings to mind Harold Budd. You'll still find plenty of contributions that retain the more conventional language of the Pop Ambient series however, and the likes of Andrew Thomas, Mikkel Metal, Bvdub and Popnoname all put in stellar work in that vein. Highly Recommended. - Boomkat  
+  
+[FLAC](https://web.archive.org/web/20111010123902/http://lix.in/-6e6165)

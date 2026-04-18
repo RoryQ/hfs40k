@@ -1,0 +1,25 @@
+---
+archived_url: https://web.archive.org/web/20111010163935/http://holyfuckingshit40000.blogspot.com/2009/03/jazz-composors-orchestra-jazz-composors.html
+date: Friday, March 20, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/03/jazz-composors-orchestra-jazz-composors.html
+title: The Jazz Composor's Orchestra - The Jazz Composor's Orchestra (1968)
+artist: The Jazz Composor's Orchestra
+album: The Jazz Composor's Orchestra
+spotify_url: https://open.spotify.com/search/The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+apple_music_url: https://music.apple.com/us/search?term=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+youtube_url: https://www.youtube.com/results?search_query=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/5d5eadccbe2e4e33ef01e226e120cbc0.webp)](https://web.archive.org/web/20111010163935/http://4.bp.blogspot.com/_cLI19EXK2oU/ScRxYQUYORI/AAAAAAAAACA/arR_OCH5iLY/s1600-h/2900767418_654619ff0a.jpg)  
+"The sheer size of this ensemble is something to be reckoned with in and of itself: a jazz orchestra consisting of close to one bajillion musicians, I believe. And each and every one of these musicians has the knack for making the entirety of your soul flip a collective shit. It's a double album, yet it never gets boring. With flowing jazz melodies leading into great shows of emotion and sound flawlessly, you're seriously on the edge of your seat the whole time (unless you're lying on a bed, which in that case you'll be sitting there with your butt muscles tightly flexed).  
+  
+The first few "Communication" tracks are just stellar. Never have I heard such classical brilliance merged with jazz. The type of music fast-paced yet reflective music that you would want to hear in sophisticated action-movies. A sort of brooding horn section sticks to itself in the background of "Communications #9", as a guitar gets raped and annihilated in full view for everyone to see. Now if that doesn't scream out a cultured version of Michael Bay, then I don't know what does. High-class jazz music doesn't just stoop down to Michael Bay's levels, but it could for the sake of irony, I suppose. And something I find very peculiar about this album is how it sometimes almost feels as if it's mocking you. Slightly whimsical and frantic horns seem to tease you at times with its cynicism. But if you're a well-grounded enough person who can take a few jabs, it shouldn't hurt your feelings too bad."  
+ [Download](https://web.archive.org/web/20111010163935/http://www.mediafire.com/?j2zmz1j5uyi)

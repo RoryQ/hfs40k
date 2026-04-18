@@ -1,0 +1,133 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import { Music, Disc, Youtube, Play, ArrowRight, Shuffle } from 'lucide-astro';
+
+// Filter out non-album posts
+const allPosts = await getCollection('posts', ({ data }) => {
+  return data.artist !== 'Site Announcement' && data.album !== 'Megapost';
+});
+
+const sortedPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+// Daily Crate Digger Logic
+// We use a deterministic seeded shuffle to cycle through all albums
+function seededShuffle(array, seed) {
+  const shuffled = [...array].sort((a, b) => a.slug.localeCompare(b.slug)); // Start with consistent order
+  let m = shuffled.length, t, i;
+  let s = seed;
+  while (m) {
+    // Simple pseudo-random generator
+    s = (s * 9301 + 49297) % 233280;
+    i = Math.floor((s / 233280) * m--);
+    t = shuffled[m];
+    shuffled[m] = shuffled[i];
+    shuffled[i] = t;
+  }
+  return shuffled;
+}
+
+// Calculate days since the blog's final post (Jan 20, 2012)
+const epoch = new Date('2012-01-20');
+const now = new Date();
+const msPerDay = 1000 * 60 * 60 * 24;
+const dayCount = Math.floor((now.getTime() - epoch.getTime()) / msPerDay);
+
+const shuffledPosts = seededShuffle(allPosts, 40000); // "40000" is our fixed seed
+const dailyAlbum = shuffledPosts[dayCount % shuffledPosts.length];
+
+// Recent posts
+const recentPosts = sortedPosts.slice(0, 24);
+---
+
+<Layout title="holyfuckingshit40000: The Digital Repress">
+  <!-- Crate Digger Section -->
+  <section class="mb-20">
+    <div class="flex items-center gap-2 text-red-600 mb-6 uppercase tracking-widest text-sm font-bold">
+      <Shuffle size={18} />
+      <span>Today's Dig</span>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 bg-holy-grey/20 p-8 border border-holy-grey">
+      <div class="aspect-square bg-holy-grey flex items-center justify-center overflow-hidden">
+        {dailyAlbum.body.match(/!\[.*?\]\((.*?)\)/) ? (
+          <img 
+            src={dailyAlbum.body.match(/!\[.*?\]\((.*?)\)/)?.[1]} 
+            alt={dailyAlbum.data.title}
+            class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+          />
+        ) : (
+          <Disc size={120} class="text-holy-black" />
+        )}
+      </div>
+      <div class="flex flex-col justify-center">
+        <h2 class="text-3xl font-bold mb-2 uppercase leading-tight">{dailyAlbum.data.artist || dailyAlbum.data.title}</h2>
+        {dailyAlbum.data.album && <h3 class="text-xl text-holy-grey mb-6 uppercase">{dailyAlbum.data.album}</h3>}
+        
+        <p class="text-sm text-holy-white/60 mb-8 line-clamp-3 italic">
+          Originally posted on {dailyAlbum.data.date}
+        </p>
+
+        <div class="flex flex-wrap gap-4 mb-8">
+          {dailyAlbum.data.spotify_url && (
+            <a href={dailyAlbum.data.spotify_url} target="_blank" class="flex items-center gap-2 bg-green-600 text-black px-4 py-2 text-xs font-bold uppercase hover:bg-green-500 transition-colors">
+              <Play size={14} /> Spotify
+            </a>
+          )}
+          {dailyAlbum.data.apple_music_url && (
+            <a href={dailyAlbum.data.apple_music_url} target="_blank" class="flex items-center gap-2 bg-pink-600 text-white px-4 py-2 text-xs font-bold uppercase hover:bg-pink-500 transition-colors">
+              <Music size={14} /> Apple
+            </a>
+          )}
+          {dailyAlbum.data.youtube_url && (
+            <a href={dailyAlbum.data.youtube_url} target="_blank" class="flex items-center gap-2 bg-red-600 text-white px-4 py-2 text-xs font-bold uppercase hover:bg-red-500 transition-colors">
+              <Youtube size={14} /> YouTube
+            </a>
+          )}
+        </div>
+
+        <a href={`/holyfuckingshit40000/posts/${dailyAlbum.slug}`} class="inline-flex items-center gap-2 text-sm uppercase font-bold border-b border-holy-white pb-1 w-fit hover:text-red-600 hover:border-red-600 transition-all">
+          Read original post <ArrowRight size={14} />
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Represses Grid -->
+  <section>
+    <div class="flex justify-between items-end mb-10 border-b border-holy-grey pb-4">
+      <h2 class="text-2xl font-bold uppercase tracking-tight">Recent Represses</h2>
+      <a href="/holyfuckingshit40000/archive" class="text-xs uppercase text-holy-grey hover:text-holy-white transition-colors">View All {allPosts.length} albums</a>
+    </div>
+
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6">
+      {recentPosts.map((post) => {
+        const image = post.body.match(/!\[.*?\]\((.*?)\)/)?.[1];
+        return (
+          <a href={`/holyfuckingshit40000/posts/${post.slug}`} class="group">
+            <div class="aspect-square bg-holy-grey mb-3 overflow-hidden relative">
+              {image ? (
+                <img 
+                  src={image} 
+                  alt={post.data.title}
+                  class="w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-500"
+                />
+              ) : (
+                <div class="w-full h-full flex items-center justify-center">
+                   <Disc size={40} class="text-holy-black" />
+                </div>
+              )}
+              <div class="absolute inset-0 bg-red-600/0 group-hover:bg-red-600/10 transition-colors" />
+            </div>
+            <h3 class="text-[10px] uppercase font-bold leading-tight line-clamp-2 group-hover:text-red-600 transition-colors">
+              {post.data.artist || post.data.title}
+            </h3>
+            <p class="text-[9px] text-holy-grey uppercase mt-1">
+              {post.data.album || ""}
+            </p>
+          </a>
+        )
+      })}
+    </div>
+  </section>
+</Layout>

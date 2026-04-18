@@ -1,0 +1,43 @@
+---
+archived_url: https://web.archive.org/web/20111010173003/http://holyfuckingshit40000.blogspot.com/2010/06/new-order-substance-flac.html
+date: Sunday, June 6, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/06/new-order-substance-flac.html
+title: New Order - Substance (FLAC)
+artist: New Order
+album: Substance
+spotify_url: https://open.spotify.com/search/New%20Order%20Substance
+apple_music_url: https://geo.music.apple.com/au/album/_/1530256325?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=New%20Order%20Substance
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/49b7cab6442386264b3965b82d3e39de.gif)](https://web.archive.org/web/20111010173003/http://3.bp.blogspot.com/_cLI19EXK2oU/TAwxIXuDTpI/AAAAAAAAAsU/F1gGgI2MniY/s1600/new_order_substance.gif)  
+Shortly after Ian Curtis committed suicide in 1980, it appeared as if his band Joy Division had died with him, and its members would now have to give up what were once very promising careers. But the surviving members weren't going to give up that easy & after changing their name to New Order (with the addition of keyboardist Gillian Gilbert & Joy Division guitarist Bernard Sumner taking over vocal duties), they released their first single "Ceremony" to modest commercial success, but substantial raves in the dance club underground. New Order released four studio albums in the first half of the 1980s, then in 1987, created an early career-capper with the unique retrospective SUBSTANCE.
+
+Certainly smarter than your average greatest-hits collection, SUBSTANCE mostly is a gathering of New Order's early singles that never appeared on their albums, along with 12" single mixes that perhaps had become rare almost immediately after their initial release. 24 songs of these types are here on SUBSTANCE for posterity, but instead of it being another way of bringing royalities to the band, it's an extremely fine introduction to New Order, who at this point were just on the cusp of mainstream chart success.
+
+New Order's debut single "Ceremony" was actually one of the last songs Joy Division ever wrote, and it hints at a possible lightening up that the band may have been undergoing at the time of Ian's death. It certainly is much warmer than the engaging coldness of most Joy Division music, and one can only wonder what it would have been like had Ian lived long enough to record it. "In A Lonely Place" is another great Joy Division cast-off that New Order manages to make into their own.
+
+It was apparent that New Order, from the beginning, was mostly a singles band with the abundance of EPs & singles that featured songs not available anywhere else. One such work is the 1981 EP EVERYTHING'S GONE GREEN, which has two songs featured on SUBSTANCE: the Krautrock-inspired title track & "Cries & Whispers". Both of these songs have New Order still channeling the spirit of Joy Division (especially in Bernard's vocals), but this is understandable with the songs coming from a time when the impact of Ian's suicide was still being felt.
+
+From their 1982 EP FACTUS 8, "Temptation" (re-recorded for this album) came out as a single right before New Order's landmark 1983 album POWER, CORRUPTION & LIES, and is a good sign of things to come on that masterpiece. That album's undoubted highpoint "Blue Monday" is featured on here & it still is a sound to behold because it indicates that New Order had at last found their niche in dramatic, techno-based pop. Its B-side "The Beach" (also on P,C&L) makes a fine counterpart to that all-time great of techno music, and it was perhaps no accident that the 2000 film THE BEACH maybe was inspired by that song (New Order would even contribute a new song to the soundtrack). "Procession", "Mesh" & "Hurt" were also on that EP, featuring the synthesizer (thanks to distaff member Gillian) more of a focus than before, another sign that New Order had found its own way.
+
+1985's LOW-LIFE was still more of a hit on the dance charts than pop, but it showed New Order willing to expand their audience base away from just the clubs. "Perfect Kiss" & "Subculture" are represented on here, with the former in a much longer 12" mix. 1986's BROTHERHOOD further opened the commercial market a little more with "Bizarre Love Triangle" its most famous entry & the longer dance mix here was already a standard even before it finally became a pop chart entry in another remix. "State Of The Nation" is also improved upon from its original album counterpart with its extended version on SUBSTANCE. "Shellshock" originally appeared on the soundtrack to the 1986 film PRETTY IN PINK & while it is often considered a rush job, it again shows the move towards lighter, even optimistic material for New Order.
+
+A great many songs on SUBSTANCE make their first official appearance on here, so be glad you've got them here. 1983's "Confusion" (re-recorded for SUBSTANCE) & "Thieves Like Us" (both also included in instrumental mixes) were New Order's successful collaborations with pioneer hip-hop producer Arthur Baker (of "Planet Rock" fame) with the former even making it to #5 on the Club Play Singles chart & #71 on the R&B surveys (not too bad for a band full of Whites). The old-school rap leanings of these two songs indicate New Order had more than just mopey techno-pop on their minds. "Lonesome Tonight", "Murder", "Kiss Of Death", "Shame Of The Nation" (I'm not sure if these are B-sides or previously unheard works) & "1963" (I think recorded at the same time as "True Faith") all have their first-ever showing on SUBSTANCE, proving that maybe New Order's well of creativity is probably a bottomless one.
+
+Finally, we get to the song that at last won New Order a wider mainstream audience. "True Faith" was the first single to cross over to the Hot 100 & did a fantastic job, topping out at #32. With this song, New Order made official their willingness to act positive on record for a change. Bernard Sumner sounds just buoyant on "True Faith" & in that stiff-upper-lip English tradition, he might actually be smiling as he sings this. Gillian's keyboards further heighten the good spirits, indicating maybe the missing element that was needed for New Order to cross over into the mainstream was positivity. I'll even go so far as to say that "True Faith" might be New Order's finest 6 minutes on record (and I am including "Blue Monday").
+
+New Order managed to turn out quite a body of work in the first 6 or 7 years of their career, and SUBSTANCE features the best of it in a way that is unique if nothing else. With 12" mixes favored over official album versions & in some cases, actually going back into the studio to re-record songs all over again, SUBSTANCE is certainly not your average greatest hits record (1995's (THE BEST OF) NEW ORDER & 2002's INTERNATIONAL are the ones to get for that purpose). Sounds difficult & hard to understand? Perhaps, but it nevertheless is still an excellent way for neophytes to get into New Order & just maybe might influence them to try out the original albums as well.
+
+[Everything's Gone Green](https://web.archive.org/web/20111010173003/http://lix.in/-83a5bc)  
+ [In a Lonely Place](https://web.archive.org/web/20111010173003/http://lix.in/-852c5d)   
+  
+Password: haveanicelife

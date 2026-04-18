@@ -1,0 +1,109 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { Music, Disc, Youtube, Play, ExternalLink, Calendar, Ghost } from 'lucide-astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts', ({ data }) => {
+    return data.artist !== 'Site Announcement' && data.album !== 'Megapost';
+  });
+  return allPosts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+// Find original download links in content
+const downloadMatches = post.body.match(/\[Download.*?\]\((.*?)\)/g) || [];
+---
+
+<Layout title={`${post.data.title} | holyfuckingshit40000`}>
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-16">
+    <!-- Main Content -->
+    <div class="lg:col-span-2">
+      <article class="prose prose-invert prose-red max-w-none prose-img:border prose-img:border-holy-grey">
+        <div class="mb-12">
+          <div class="flex items-center gap-4 text-holy-grey text-xs uppercase tracking-widest mb-4">
+            <span class="flex items-center gap-1"><Calendar size={12}/> {post.data.date}</span>
+            <span>//</span>
+            <span>Original Archive</span>
+          </div>
+          <h1 class="text-4xl font-bold uppercase tracking-tighter mb-4 leading-none">{post.data.title}</h1>
+        </div>
+
+        <div class="bg-holy-grey/10 border-l-4 border-red-600 p-6 mb-12 italic text-holy-white/80">
+          <Content />
+        </div>
+      </article>
+    </div>
+
+    <!-- Sidebar: The Repress -->
+    <div class="space-y-12">
+      <section class="border border-holy-grey p-8 bg-holy-grey/5">
+        <h2 class="text-xs uppercase tracking-[0.2em] font-bold text-red-600 mb-8 flex items-center gap-2">
+          <Disc size={14} /> The Repress
+        </h2>
+
+        <div class="mb-8">
+          <p class="text-[10px] uppercase text-holy-grey mb-1">Artist</p>
+          <p class="text-xl font-bold uppercase">{post.data.artist || 'Unknown'}</p>
+        </div>
+
+        <div class="mb-10">
+          <p class="text-[10px] uppercase text-holy-grey mb-1">Album</p>
+          <p class="text-lg uppercase">{post.data.album || 'Unknown'}</p>
+        </div>
+
+        <div class="space-y-3">
+          {post.data.spotify_url && (
+            <a href={post.data.spotify_url} target="_blank" class="flex items-center justify-between bg-holy-white text-holy-black px-4 py-3 text-xs font-bold uppercase hover:bg-green-500 transition-colors">
+              <span class="flex items-center gap-2"><Play size={14} /> Spotify</span>
+              <ExternalLink size={12} />
+            </a>
+          )}
+          {post.data.apple_music_url && (
+            <a href={post.data.apple_music_url} target="_blank" class="flex items-center justify-between border border-holy-grey px-4 py-3 text-xs font-bold uppercase hover:bg-pink-600 hover:text-white transition-all">
+              <span class="flex items-center gap-2"><Music size={14} /> Apple Music</span>
+              <ExternalLink size={12} />
+            </a>
+          )}
+          {post.data.youtube_url && (
+            <a href={post.data.youtube_url} target="_blank" class="flex items-center justify-between border border-holy-grey px-4 py-3 text-xs font-bold uppercase hover:bg-red-600 hover:text-white transition-all">
+              <span class="flex items-center gap-2"><Youtube size={14} /> YouTube</span>
+              <ExternalLink size={12} />
+            </a>
+          )}
+        </div>
+      </section>
+
+      <!-- The Graveyard Section -->
+      <section class="border border-holy-grey border-dashed p-8 opacity-50 grayscale hover:opacity-100 hover:grayscale-0 transition-all">
+        <h2 class="text-xs uppercase tracking-[0.2em] font-bold text-holy-grey mb-6 flex items-center gap-2">
+          <Ghost size={14} /> The Graveyard
+        </h2>
+        <p class="text-[10px] leading-relaxed text-holy-grey uppercase mb-6">
+          Original download links from the 2008-2012 era. Most are likely dead or seized. 
+        </p>
+        <div class="space-y-2">
+          {downloadMatches.length > 0 ? (
+            downloadMatches.map((link) => (
+               <div class="text-[10px] text-holy-grey line-through break-all font-mono">
+                 {link}
+               </div>
+            ))
+          ) : (
+            <p class="text-[10px] text-holy-grey italic">No original links detected.</p>
+          )}
+        </div>
+        <div class="mt-8 pt-6 border-t border-holy-grey/20">
+          <a href={post.data.archived_url} target="_blank" class="text-[10px] uppercase font-bold flex items-center gap-1 hover:text-red-600">
+            View original Wayback snapshot <ExternalLink size={10} />
+          </a>
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

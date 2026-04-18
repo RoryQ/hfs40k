@@ -1,0 +1,17 @@
+---
+archived_url: https://web.archive.org/web/20111010175752/http://holyfuckingshit40000.blogspot.com/2010/09/final-final-verdict-on-flac-vs-mp3.html
+date: Saturday, September 25, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/09/final-final-verdict-on-flac-vs-mp3.html
+title: Final Final Verdict on FLAC vs. MP3
+artist: Site Announcement
+album: Announcement
+spotify_url: null
+apple_music_url: null
+youtube_url: null
+---
+
+
+
+
+[![](/holyfuckingshit40000/images/f282da400a88ebb54fd0c60d1872931a.webp)](https://web.archive.org/web/20111010175752/http://3.bp.blogspot.com/_nmjS6fd9kfU/TJ5sr1krsQI/AAAAAAAAAO4/H-8_lxcvoZk/s1600/watasmiling.jpg)  
+"I have a PhD in Digital Music Conservation from the University of Florida. I have to stress that the phenomenon known as "digital dust" is the real problem regarding conservation of music, and any other type of digital file. Digital files are stored in digital filing cabinets called "directories" which are prone to "digital dust" - slight bit alterations that happen now or then. Now, admittedly, in its ideal, pristine condition, a piece of musical work encoded in FLAC format contains more information than the same piece encoded in MP3, however, as the FLAC file is bigger, it accumulates, in fact, MORE digital dust than the MP3 file. Now you might say that the density of dust is the same. That would be a naive view. Since MP3 files are smaller, they can be much more easily stacked together and held in "drawers" called archive files (Zip, Rar, Lha, etc.) ; in such a configuration, their surface-to-volume ratio is minimized. Thus, they accumulate LESS digital dust and thus decay at a much slower rate than FLACs. All this is well-known in academia, alas the ignorant hordes just think that because it's bigger, it must be better."

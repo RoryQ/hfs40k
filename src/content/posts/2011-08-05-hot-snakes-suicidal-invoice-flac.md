@@ -1,0 +1,23 @@
+---
+archived_url: https://web.archive.org/web/20111008172453/http://holyfuckingshit40000.blogspot.com/2011/08/hot-snakes-suicidal-invoice-flac.html
+date: Friday, August 5, 2011
+original_url: http://holyfuckingshit40000.blogspot.com/2011/08/hot-snakes-suicidal-invoice-flac.html
+title: Hot Snakes - Suicidal Invoice (FLAC)
+artist: Hot Snakes
+album: Suicidal Invoice
+spotify_url: https://open.spotify.com/search/Hot%20Snakes%20Suicidal%20Invoice
+apple_music_url: https://music.apple.com/us/search?term=Hot%20Snakes%20Suicidal%20Invoice
+youtube_url: https://www.youtube.com/results?search_query=Hot%20Snakes%20Suicidal%20Invoice
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/a6563bf374e78c36af4806ddb108ca12.webp)](https://web.archive.org/web/20111008172453/http://3.bp.blogspot.com/-BP1mLl34aXo/Tjus3IPNuuI/AAAAAAAABAA/6350dlT5KZs/s1600/resize.jpg)[Gar Forgets His Insulin](https://web.archive.org/web/20111008172453/http://lix.in/-9dd32a)  
+  
+Password haveanicelife

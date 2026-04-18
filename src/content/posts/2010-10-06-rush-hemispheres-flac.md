@@ -1,0 +1,42 @@
+---
+archived_url: https://web.archive.org/web/20111010112455/http://holyfuckingshit40000.blogspot.com/2010/10/rush-hemispheres-flac.html
+date: Wednesday, October 6, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/10/rush-hemispheres-flac.html
+title: Rush - Hemispheres (FLAC)
+artist: Rush
+album: Hemispheres
+spotify_url: https://open.spotify.com/search/Rush%20Hemispheres
+apple_music_url: https://music.apple.com/us/search?term=Rush%20Hemispheres
+youtube_url: https://www.youtube.com/results?search_query=Rush%20Hemispheres
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/d5e8d04c7ba329661eb1c0d9877fbcf6.webp)](/holyfuckingshit40000/images/737ffc00dddae451a0b4a0b1d9d66db9.webp)  
+As the closing album of Rush's classic progressive period, this is possibly the album where they reached their peak in composition and concept. Starting from 1976's \_2112\_, and up to this album from 1978, one can see how the band's performance & writing skills had progressed.  
+  
+The concept here (or rather the title centerpiece) deals with the conflict of reason (the left hemisphere of the brain) and emotion (the right hemisphere of the brain), and the consequences of the lack of equilibrium between the two. It's divided into six movements: each (with the exception of the closing movement) represented by a mythological figure that correlates with the designated psychological/behavioral characteristics associated with each respective one.  
+  
+The musicianship displayed here is nearly flawless and awe-inspiring, as the band here is nearly playing orchestral music - only in a hard rock/metal context. I could easily see this title-piece arranged for an orchestra. The first movement called Prelude plays out like an overture: giving subtle glimpses of what will appear in later moments. It bursts open with an F#7 sus 4 chord from Alex Lifeson, followed by full band interplay which then plays out in typical rhythm - albeit with some unpredictable chord changes. Shortly after, Lifeson plays some ethereal guitar arpeggios, then switches the atmosphere abruptly with a near-diatonic scale riff in descending mode. Later, Lifeson plays more wispy, atmospheric arpeggiated riffs, which are later followed by the band playing in full hard rock mode, and not to mention Geddy's infamous "shrieks."  
+  
+The second movement called Apollo: Bringer of Wisdom opens up with that descending riff from Alex Lifeson found on the first movement. It then turns into a 7/4 smorgasbord of Geddy's majestic vocals, Alex's crunchy and complex chords and Neil Peart's great drumming and poetic lyrics. Like the title of the movement suggests, the lyrics deal with the side of the brain that offers logic and necessity. The third movement called Dionysus: Bringer of Love is pretty much the exact same musical phrasing of the second movement: the same 7/4 rhythm, the same chords and progressions, the same vocal rhythmics and more. The only difference this time is the lyrics shift to talk about the side of the brain that offers emotion and total subjectivity.  
+  
+The fourth movement called Armageddon: The Battle of The Heart and Mind opens in a very tricky rhythm (in 7 possibly.) It's a quirky romp which features a devastating and powerful riff from Lifeson before Geddy brings out his vocal shrieks. The fifth movement called Cygnus: Bringer of Balance starts off with the closing chords (C minor - Eb minor - E minor) from "Cygnus X-1" (off of \_A Farewell To Kings\_), to possibly give the listener a feeling of continuation from where the aforementioned track left off. A few moments later, there are a couple of dimly audible snippets of "Cygnus X-1" before Geddy gives a restive and haunting vocal performance set up against a lush bed of warm synthesizers. After that, the track continually builds in sonic intensity, before closing out on an explosive finale. The sixth movement called The Sphere: A Kind of Dream discusses what it would be like if one can achieve mental and emotional equilibrium. Geddy gives a decent vocal performance, as Alex Lifeson is strumming some nice chords on what sounds like a 12-string acoustic guitar.  
+  
+"Circumstances" is a short rocker which covers topics such as alienation, introspection and coming-of-age. These are topics that would be covered more immensely on future albums. Alex Lifeson is playing some unpredictable chord progressions on here. And for the beginning of the chorus, he pulls out a mesmerizing, elaborate and cerebral riff, which is then followed by Geddy's commanding vocals, which are sung in English and French. There's a short instrumental section, featuring more wispy arpeggios from Lifeson, nice drum fills from Peart and Geddy's ever-moving basslines. The track then closes out with the chorus.  
+  
+"The Trees" is a track about inequality, as discussed by many other reviewers. It starts out with some Spanish-like guitar arpeggios, followed by a stern vocal from Geddy Lee. It then turns into a straight-ahead rocker before the instrumental middle section kicks in. In this section, there's more atmospheric arpeggios as to be expected from Lifeson, exotic percussion, and some orchestral interplay later on. Each musician shines on his respective instrument. The track closes on a hard rocking note.  
+  
+"La Villa Strangiato" is the instrumental on here which displays the instrumental chops of each musician. The piece is subtitled "an exercise in self-indulgence," though I wouldn't necessarily call it the most self-indulgent thing out there, as I've heard many other things that I would label self-indulgent long before I would lend that title to this. The fun part is trying to decipher which movement is which, as this piece is subdivided into twelve different movements. It starts with a Spanish-like guitar (followed by a frenzied solo) from Lifeson, before he displays his signature atmospheric and inventive arpeggios, which is then followed by a synthesizer line which. Later, the band cranks it up with fiery playing & soloing, quirky/humorous atmospherics, complex drum fills, jazzy basslines and other assorted goodies.  
+  
+Hemispheres features brilliant musicianship, intelligent lyrics and melody. If you crave either of the things listed above, you can't go wrong here.  
+  
+[Circumstances](https://web.archive.org/web/20111010112455/http://lix.in/-9237b5)  
+  
+Password: haveanicelife

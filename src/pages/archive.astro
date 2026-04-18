@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import { Calendar } from 'lucide-astro';
+
+// Filter out non-album posts
+const allPosts = await getCollection('posts', ({ data }) => {
+  return data.artist !== 'Site Announcement' && data.album !== 'Megapost';
+});
+
+const sortedPosts = allPosts.sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+// Group by year
+const postsByYear = sortedPosts.reduce((acc, post) => {
+  const year = new Date(post.data.date).getFullYear();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(post);
+  return acc;
+}, {});
+
+const years = Object.keys(postsByYear).sort((a, b) => b - a);
+---
+
+<Layout title="Archive | holyfuckingshit40000">
+  <div class="mb-16">
+    <h2 class="text-3xl font-bold uppercase tracking-tighter mb-4">Complete Archive</h2>
+    <p class="text-holy-grey uppercase text-xs tracking-widest">{allPosts.length} albums recovered from the ruins.</p>
+  </div>
+
+  <div class="space-y-20">
+    {years.map(year => (
+      <section>
+        <h3 class="text-6xl font-bold text-holy-grey/20 mb-8 select-none">{year}</h3>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-4">
+          {postsByYear[year].map(post => (
+            <a href={`/holyfuckingshit40000/posts/${post.slug}`} class="flex items-baseline gap-4 group border-b border-holy-grey/10 py-2 hover:border-red-600 transition-colors">
+              <span class="text-[10px] text-holy-grey font-mono whitespace-nowrap">
+                {new Date(post.data.date).toLocaleDateString('en-US', { month: 'short', day: '2-digit' })}
+              </span>
+              <span class="text-xs uppercase font-bold truncate group-hover:text-red-600 transition-colors">
+                {post.data.artist ? `${post.data.artist} - ${post.data.album}` : post.data.title}
+              </span>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Layout>

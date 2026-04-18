@@ -1,0 +1,25 @@
+---
+archived_url: https://web.archive.org/web/20111010142223/http://holyfuckingshit40000.blogspot.com/2009/07/cunninlynguists-southernunderground.html
+date: Wednesday, July 1, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/07/cunninlynguists-southernunderground.html
+title: CunninLynguists - SouthernUnderground (2003) [FLAC]
+artist: CunninLynguists
+album: SouthernUnderground
+spotify_url: https://open.spotify.com/search/CunninLynguists%20SouthernUnderground
+apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20SouthernUnderground
+youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20SouthernUnderground
+---
+
+
+
+
+
+
+
+
+
+[![](https://web.archive.org/web/20111010142223im_/http://3.bp.blogspot.com/_5cVyPU93ihM/SkuId7kO5-I/AAAAAAAAAJ8/LM0zx6Rfi3c/s320/southernunderground5bfront5d.jpg)](https://web.archive.org/web/20111010142223/http://3.bp.blogspot.com/_5cVyPU93ihM/SkuId7kO5-I/AAAAAAAAAJ8/LM0zx6Rfi3c/s1600-h/southernunderground5bfront5d.jpg)  
+For those searching in the ashes of 21st century hip-hop for a semblance of its basement past, the sophomore LP by Dirty South trio CunninLynguists was an encouraging sign. The generally unheralded crew put together a revisionist type of album in a time of lost innocence for hip-hop (referred to here as "the Ice Age"). The spit and polish of the album are remarkable for a so-called backpacker group, as the tightly packaged tracks touch on the entire emotional gamut (something of an anomaly in hip-hop at the time of its release). The MCs, Kentucky native Deacon the Villain and Florida representative Mr. SOS, display a lyrical deftness and genuine feel for the music rarely seen in the bling-conscious rap of the latter-day era. The bulk of the sound is sculpted by the idiosyncratic ear of Atlanta-based producer Kno, who hits the listener with a variety of soundscapes ranging from the rugged ("The South") to the emotional ("Love Ain't," with a smooth lyrical sample of Classic IV's "Traces") to even the heart-wrenching ("Rain," which lifts a lyrical sample of Elton John's "We All Fall in Love Sometimes"). This is music with both meaning and sincere feeling, as the group tackles everything from politics (on "Dying Nation" and the instrumental opus "War") to disgruntled fast-food workers (the manically perverse "Falling Down"). The lyrical content, always sharp and articulate, is sometimes as powerful as a jab to the windpipe. Dense, self-indulgent, and serious, but not without comic relief, this is a bona fide "end-to-end burner" from an unexpected source  
+  
+[Download](https://web.archive.org/web/20111010142223/http://lix.in/-4b01a5) (MU)  
+[Download](https://web.archive.org/web/20111010142223/http://lix.in/-4c8846) (MF)

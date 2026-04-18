@@ -1,0 +1,28 @@
+---
+archived_url: https://web.archive.org/web/20111010053627/http://holyfuckingshit40000.blogspot.com/2010/07/grapes-from-estate-oren-ambarchi-flac.html
+date: Wednesday, July 21, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/07/grapes-from-estate-oren-ambarchi-flac.html
+title: Oren Ambarchi - Grapes From the Estate [FLAC]
+artist: Oren Ambarchi
+album: Grapes From the Estate
+spotify_url: https://open.spotify.com/search/Oren%20Ambarchi%20Grapes%20From%20the%20Estate
+apple_music_url: https://music.apple.com/us/search?term=Oren%20Ambarchi%20Grapes%20From%20the%20Estate
+youtube_url: https://www.youtube.com/results?search_query=Oren%20Ambarchi%20Grapes%20From%20the%20Estate
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)From the old post, which link is sadly dead:  
+  
+"One of my all-time favorite ambient albums. When I think of ambient drone this is the first album that comes to mind. Warm tones wrap you up and take you on a soothing jazzy aural experience. The use of space is superb.  
+  
+"Lovely guitar tones given topography by dronus interruptus as if an old telecom switch is being thrown; similar tones fleshed out with brushed drums and lightly echoing/contrasting guitar and muted organ; busier tones dancing through space(s), varying upon an intelligent whim, and then are joined by musing strings, bells, acoustic guitar, piano, and jazzy drums; back to metronomic tones slowly growing out to near-tunefulness. Full circle." "  
+  
+  
+[Download](https://web.archive.org/web/20111010053627/http://lix.in/-8658f1)

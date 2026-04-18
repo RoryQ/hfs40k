@@ -1,0 +1,23 @@
+---
+archived_url: https://web.archive.org/web/20111010153304/http://holyfuckingshit40000.blogspot.com/2009/12/earth-bees-made-honey-in-lions-skull.html
+date: Monday, December 28, 2009
+original_url: http://holyfuckingshit40000.blogspot.com/2009/12/earth-bees-made-honey-in-lions-skull.html
+title: Earth - The Bees Made Honey In the Lion's Skull (FLAC/v0)
+artist: Earth
+album: The Bees Made Honey In the Lion's Skull
+spotify_url: https://open.spotify.com/search/Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
+apple_music_url: https://music.apple.com/us/search?term=Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
+youtube_url: https://www.youtube.com/results?search_query=Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/5aab8cd45c8300a960848527dfe9c467.webp)](https://web.archive.org/web/20111010153304/http://2.bp.blogspot.com/_JdyrURA7JYI/SzmdQ-MDGmI/AAAAAAAAAMo/jgXojvYJIig/s1600-h/earthhoney.PNG)Just 1-upping tolkkii's post. (StrangeRanger's other request also I believe.)  
+  
+[Download FLAC](https://web.archive.org/web/20111010153304/http://lix.in/-6c8956) // \\ [Download v0](https://web.archive.org/web/20111010153304/http://lix.in/-6b02b5)

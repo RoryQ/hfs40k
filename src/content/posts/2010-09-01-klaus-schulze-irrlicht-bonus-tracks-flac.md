@@ -1,0 +1,33 @@
+---
+archived_url: https://web.archive.org/web/20111010175622/http://holyfuckingshit40000.blogspot.com/2010/09/klaus-schulze-irrlicht-w-bonus-tracks.html
+date: Wednesday, September 1, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/09/klaus-schulze-irrlicht-w-bonus-tracks.html
+title: Klaus Schulze - Irrlicht (+Bonus Tracks FLAC)
+artist: Klaus Schulze
+album: Irrlicht
+spotify_url: https://open.spotify.com/search/Klaus%20Schulze%20Irrlicht
+apple_music_url: https://geo.music.apple.com/au/album/_/1444204896?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Irrlicht
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)  
+The year was 1972 when former Tangerine Dream and Ash Ra Tempel member Klaus Schulze embarked on his lengthy solo career which continues to this day.  
+Although it is considered to be a pioneering classic in Electronic music today, Schulze's solo debut "Irrlicht" was not well received when it was first released 34 years ago. Many listeners (as well as members of the orchestra which Klaus used on the album) didn't quite know what to think at the time. However, the listening public finally caught up with Klaus's crazy ideas and the album has since become a blueprint for the ambient/drone genre.  
+Although Klaus Schulze has long been regarded as a pioneer of synthesizers, "Irrlicht" was actually created without any synths whatsoever as Klaus did not own one yet. The instruments and tools that were used were the above-mentioned orchestra as well as a primitive electric organ, a broken guitar amplifier, echo and effect devices as well as other miscellaneous objects.  
+"Irrlicht" is essentially an album-length piece divided into three distinct movements. The opening 23-minute movement "Ebene" opens with a giant orchestra rush which leads into a low-end organ drone centered around D-minor. As the organ drone shifts and pulsates, the orchestra creates and intense cinematic atmosphere around it. After about 10-minutes, the mood becomes more intense as Klaus brings in a dark chord sequence which builds with suspense. The panning effect as well as the shrieking background noises used towards the end of the movement add further intensity until it's all washed away by loud gong-like crash.  
+The crash begins the short second movement, "Gewitter". While it sounds like there is a primitive synthesizer being used on this track, it actually is Klaus using a broken-down amplifier and a rewired organ. The intense organ theme of the first movement is pushed to the backround while strange sound effects as well as various percussive sounds (which sound like cymbals, gongs and trash cans being hit while being drenched with echo) come to the forefront.  
+The last movement, "Exil Sils Maria", is probably the most experimental movement of the three. It begins with a dark orchestral/organ theme similar to the first movement only more forboding. This leads into an extremely avant-garde section consisting of a droning collage of backward-sounding noises and what sounds like a car motor being amplified. This section is a real treat to be heard with headphones. Afterward, the movement shifts back to how it began with its dark organ theme.  
+The newly remastered edition includes a highly informative essay from Klaus Schulze himself as well as a never before released bonus track. "Dungeon" was supposedly recorded in 1976 (although there is speculation that it could have been recorded earlier in the liner notes) but is very much in the same style as the original "Irrlicht" album with its long held chords and drones.  
+With this said, if you've never heard Klaus Schulze's "Irrlicht" before, now's the time to do so especially since it has been given pristine treatment on this reissue.  
+  
+[Gewitter Energy Rise Energy Collapse](https://web.archive.org/web/20111010175622/http://lix.in/-834ef5)  
+  
+Password: haveanicelife

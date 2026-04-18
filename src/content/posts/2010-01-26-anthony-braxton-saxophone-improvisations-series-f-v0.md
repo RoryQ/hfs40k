@@ -1,0 +1,27 @@
+---
+archived_url: https://web.archive.org/web/20111010123209/http://holyfuckingshit40000.blogspot.com/2010/01/anthony-braxton-saxophone.html
+date: Tuesday, January 26, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/01/anthony-braxton-saxophone.html
+title: Anthony Braxton - Saxophone Improvisations Series F (v0)
+artist: Anthony Braxton
+album: Saxophone Improvisations Series F
+spotify_url: https://open.spotify.com/search/Anthony%20Braxton%20Saxophone%20Improvisations%20Series%20F
+apple_music_url: https://geo.music.apple.com/au/album/_/1452855576?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+youtube_url: https://www.youtube.com/results?search_query=Anthony%20Braxton%20Saxophone%20Improvisations%20Series%20F
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)](/holyfuckingshit40000/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)I'd post the ghetto ass face shot of him on the original vinyl but I can't find one any bigger than 150x150.  
+  
+Anyway  
+  
+This is pretty much what the title says. Like Braxton's 1971 double LP For Alto, here's another big chunk of solo alto saxophone music recorded in France on February 25th, 1972. For Alto was several variations of his "composition 8" while this is "composition 26" mostly. The last track "104˚ KELVIN -M-12" is a homage to composer Philip Glass and is one of my favorite compositions, focusing mainly around the minimalism of Glass' works and performing several variations around a minimalist theme.  
+  
+[Enjoy, free jazz purists.](https://web.archive.org/web/20111010123209/http://lix.in/-6c3a6a)

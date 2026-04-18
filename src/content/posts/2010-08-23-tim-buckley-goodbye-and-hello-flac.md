@@ -1,0 +1,39 @@
+---
+archived_url: https://web.archive.org/web/20111010063226/http://holyfuckingshit40000.blogspot.com/2010/08/tim-buckley-goodbye-and-hello-flac.html
+date: Monday, August 23, 2010
+original_url: http://holyfuckingshit40000.blogspot.com/2010/08/tim-buckley-goodbye-and-hello-flac.html
+title: Tim Buckley - Goodbye and Hello (FLAC)
+artist: Tim Buckley
+album: Goodbye and Hello
+spotify_url: https://open.spotify.com/search/Tim%20Buckley%20Goodbye%20and%20Hello
+apple_music_url: https://music.apple.com/us/search?term=Tim%20Buckley%20Goodbye%20and%20Hello
+youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Goodbye%20and%20Hello
+---
+
+
+
+
+
+
+
+
+
+[![](/holyfuckingshit40000/images/1f09634c80b51661cb6691d315bdcf0e.webp)](https://web.archive.org/web/20111010063226/http://2.bp.blogspot.com/_cLI19EXK2oU/THIy4OIVo9I/AAAAAAAAAzM/WtpfndoA0dQ/s1600/Tim_Buckley___Goodbye_and_hello.jpg)  
+There's no denying that some of the lyrics on this album apply specifically to the incredible era that was the 1960s - but have the values and beliefs they espoused so vibrantly faded into nonexistence? I don't think so. Emphasis shifts, forms of expression change - but the things about which Tim Buckley sang so eloquently on this recording are eternal: war and peace (both internal and external); love and loneliness; the strife that is born between generations. The 60s era was full of bands and songwriters wrestling with these subjects, striving to help us all deal with them - and more than a few who tagged along for the ride with the hope of making a buck out of the movements that arose around them. Buckley - and his (then-) lyricist Larry Beckett were, as artists, reaching desperately and honestly for something higher, not for any accolades that might come their way as a result, but to latch onto something they could use to pull themselves (and the rest of us) up to a higher level. Tim Buckley succeeded in this more than most of his contemporaries.
+
+The musicianship on the album is superb. Buckley has moved to a 12-string acoustic guitar, the instrument which was soon to become his main choice. Lee Underwood is along on lead guitar - and I can't say too much about Lee's contributions to Tim's music (and his life - he was one of Buckley's closest friends). Carter C. C. Collins makes his first recorded appearance on congas - another musician who would become a close friend to Buckley, as well as a frequent, welcome accompanist. Jim Fielder is along on bass on some of the tracks. Most of the rest of the musicians, while talented, are studio players brought into the recording by producer Jerry Yester - Elektra recognized Tim's potential, and wanted a fairly slick, commercial recording. It turned out pretty good from all angles - but it would be the last bow to commerciality that Buckley would make.
+
+The album begins with a song dealing with the horrors of war - it was, after all, the era of Vietnam - but in the case of `No man can find the war', the lyrics suggest that the real war is not in the jungle, but in the minds of men and women: `Is the war across the sea? Is the war behind the sky? Have you each and all gone blind? Is the war inside your mind?' It is only when we fight - or at least make an attempt to do so - the battles that rage within us that real peace will come. `Carnival song', the next track (written by Buckley alone) speaks to hypocrisy and truth, and does so more directly than many of the more popular tunes of the day that addressed this subject. `Pleasant Street' (also written by Buckley alone) is one of his finest tunes - `Hallucinations' is just that - the melody, lyrics and arrangement combine to produce a gently swirling maelstrom that draws the listener into the images spun by the singer.
+
+The next track, `I never asked to be your mountain', is in my opinion one of the best things Buckley ever wrote. In it, he addresses his first wife, speaking openly and poetically of the forces that pull two people together and drive them apart. His 12-string guitar thunders out the rhythm on this track, drawing the other musicians along with him into one of the most powerful pieces he ever recorded. At the end of the song, the listener aches to hear Tim cry out `...please come home...' over and over - this is piercing music straight from the heart, which is where all of Tim's songs originated.
+
+`Once I was' follows, a song that speaks gently of love and change - a beautiful song. `Phantasmagoria in two' (which Tim and Lee called `The fiddler'), is a deceptively progressive step in Tim's songwriting - giving free rein to the meaning at the heart of the song, Tim abandons completely attempting to force the words into rhyme. The effect is perfect - Tim's lyrics are so moving, combined with his amazing voice and the melody, that it almost goes unnoticed, form being overshadowed (as it should be) by substance. `Knight-errant' is next - a nod to the romantic attitudes of the era that uses the images of a knight and his lady nicely, if a bit naïvely.
+
+`Goodbye and hello' is Larry Becket's magnum opus - at least among the songs he co-wrote with Tim. It's quite a piece of poetry, with two stanzas existing side-by-side in several places (and sung that way by Tim) - the fact that Tim was able to take this challenge up and write the melody for it says a lot about his skills as well as his determination. This is a tune that, due to its complexity, was only performed live on a couple of occasions. It borders on being overwrought - but it stands nevertheless as a valuable document.
+
+`Morning glory' ends the set - this was covered more popularly by Blood Sweat and Tears - a gentle song that is deceptive in its depth, dealing with the romantic notion (held by the `character' who sings it) that simply by asking a hobo about his life, that life can be experienced by the questioner. The hobo makes his point by his refusal to tell his stories to the singer - and Beckett's lyrics make the point as well, that experience is the greatest teacher.
+
+This is an amazingly good album - a wonderful example of Tim's most `accessible' work - and one which will shine for many years to come. Once you've dipped into the rich well that is Tim Buckley's voice, allow yourself to become adventurous and move on into his jazz explorations (on HAPPY SAD and BLUE AFTERNOON), then on to his more experimental works (LORCA and STARSAILOR, which he considered to be his greatest achievement). It's a journey you won't regret.
+
+[Hallucinations](https://web.archive.org/web/20111010063226/http://lix.in/-8f09cd)  
+Password: haveanicelife
