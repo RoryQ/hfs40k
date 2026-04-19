@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Arcade%20Fire%20Funera
 
 
 
-[![](/holyfuckingshit40000/images/4520874f2bf53dcc3a369cb221f56dd7.webp)](/holyfuckingshit40000/images/4520874f2bf53dcc3a369cb221f56dd7.webp)  
+[![](/hfs40k/images/4520874f2bf53dcc3a369cb221f56dd7.webp)](/hfs40k/images/4520874f2bf53dcc3a369cb221f56dd7.webp)  
 Does anybody even like this album anymore?  
   
   

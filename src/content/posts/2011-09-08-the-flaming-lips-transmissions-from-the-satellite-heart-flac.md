@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-08-the-flaming-lips-transmissions-from-the-satellite-heart-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-08-the-flaming-lips-transmissions-from-the-satellite-heart-flac.webp)  
+[![](/hfs40k/images/covers/2011-09-08-the-flaming-lips-transmissions-from-the-satellite-heart-flac.webp)](/hfs40k/images/covers/2011-09-08-the-flaming-lips-transmissions-from-the-satellite-heart-flac.webp)  
 [Turn It On](https://web.archive.org/web/20111221213602/http://lix.in/-9fe354)  
   
 Password haveanicelife

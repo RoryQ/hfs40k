@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wisp%20The%20Shimmerin
 
 
 
-[![](/holyfuckingshit40000/images/2ed7d836bb056f76c5b741abbdf367d0.webp)](/holyfuckingshit40000/images/6040dadc37febcd74238d18643cb782e.webp)Holy shits, only a few god-tier electronic albums pop up out of the blue and give you a "why the fuck haven't I hear this before?" feeling. This album by IDM/ambient artist Wisp is some of greatest stuff I've heard since Burial or Stendeck.  
+[![](/hfs40k/images/2ed7d836bb056f76c5b741abbdf367d0.webp)](/hfs40k/images/6040dadc37febcd74238d18643cb782e.webp)Holy shits, only a few god-tier electronic albums pop up out of the blue and give you a "why the fuck haven't I hear this before?" feeling. This album by IDM/ambient artist Wisp is some of greatest stuff I've heard since Burial or Stendeck.  
   
 [Download V2](https://web.archive.org/web/20111010053543/http://lix.in/-8ce41d)  
   

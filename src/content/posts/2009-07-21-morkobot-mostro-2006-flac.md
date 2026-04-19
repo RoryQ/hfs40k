@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Morkobot%20MoStRo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-21-morkobot-mostro-2006-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-21-morkobot-mostro-2006-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-21-morkobot-mostro-2006-flac.webp)](/hfs40k/images/covers/2009-07-21-morkobot-mostro-2006-flac.webp)  
 Reuploaded to pair with Ufomammut as craziest Sludge bands ever.  
   
 Aliens know how to make music.  

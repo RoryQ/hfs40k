@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Sy
 
 
 
-[![](/holyfuckingshit40000/images/aff68b45f81ebb1ee34b75376c9563c0.webp)](/holyfuckingshit40000/images/aff68b45f81ebb1ee34b75376c9563c0.webp)  
+[![](/hfs40k/images/aff68b45f81ebb1ee34b75376c9563c0.webp)](/hfs40k/images/aff68b45f81ebb1ee34b75376c9563c0.webp)  
 It's Brahms. It's the Vienna Philharmonic. And Leonard Bernstein is good too. Don't ask any questions, just listen to the best 19th century composer of all time. OF ALL TIME!  
   
 [Enjoy](https://web.archive.org/web/20111010094153/http://lix.in/-5ed89d)

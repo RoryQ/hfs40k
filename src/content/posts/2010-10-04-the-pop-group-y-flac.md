@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Pop%20Group%20Y
 
 
 
-[![](/holyfuckingshit40000/images/bc5a28233e66f22b7e7074a9b78a13e2.webp)](/holyfuckingshit40000/images/14781824312fa8479110b131914f1054.webp)  
+[![](/hfs40k/images/bc5a28233e66f22b7e7074a9b78a13e2.webp)](/hfs40k/images/14781824312fa8479110b131914f1054.webp)  
 That line - the title of one of the songs on this album - perfectly describes my dilemma in attempting to write a review of this recording. I can think of few albums that have picked me up, shaken me, thrown me against the wall and opened my heart and mind as beautifully and powerfully as this one. I only wish that the other albums by this band were available on cd - especially their incredible FOR HOW MUCH LONGER DO WE TOLERATE MASS MURDER. Combining elements of rock, punk, funk, free jazz and downright mind-blowing experimentation in a way that can only be described as courageous, The Pop Group burst onto the UK music scene with this, their first release, in 1979 - and my mind, for one, hasn't been the same since.  
   
 The band was made up of some angry young men who - depending on your point of view - were stellar musicians who managed to put across their musical/social/political ideas in an incredibly effective manner, or were political/social idealists who managed to make their musical talents perform those ideas in a way to convey them so eloquently and emotionally to their listeners. It's actually a bit of both, with lots of other elements thrown into the mix.  

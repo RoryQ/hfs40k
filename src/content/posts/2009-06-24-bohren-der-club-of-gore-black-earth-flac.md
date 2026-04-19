@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bohren%20%26%20der%20C
 
 
 
-[![](/holyfuckingshit40000/images/88bad9052522a92ad90dcf89914764f8.webp)](https://web.archive.org/web/20111010091204/http://2.bp.blogspot.com/_cLI19EXK2oU/SkIyHPdBLjI/AAAAAAAAAL4/tLk7gcRQ82c/s1600-h/blackearth.jpg)  
+[![](/hfs40k/images/88bad9052522a92ad90dcf89914764f8.webp)](https://web.archive.org/web/20111010091204/http://2.bp.blogspot.com/_cLI19EXK2oU/SkIyHPdBLjI/AAAAAAAAAL4/tLk7gcRQ82c/s1600-h/blackearth.jpg)  
 Mallgoth jazz for the basement dwellers  
   
   

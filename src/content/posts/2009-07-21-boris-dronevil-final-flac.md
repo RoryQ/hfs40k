@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Dronevil%20-Fi
 
 
 
-[![](/holyfuckingshit40000/images/cb8939a42f044b1f91b896210951d07c.webp)](https://web.archive.org/web/20111010142044/http://2.bp.blogspot.com/_TSxXUm0_hPM/SmWVn2WbUrI/AAAAAAAABck/wiDb1CN-kE0/s1600-h/cover.jpg)  
+[![](/hfs40k/images/cb8939a42f044b1f91b896210951d07c.webp)](https://web.archive.org/web/20111010142044/http://2.bp.blogspot.com/_TSxXUm0_hPM/SmWVn2WbUrI/AAAAAAAABck/wiDb1CN-kE0/s1600-h/cover.jpg)  
 Drone from Hell!!  
 *"Note: Play these discs simultaneously through individual stereo players and  
 speakers"*[DOWNLOAD [FLAC]](https://web.archive.org/web/20111010142044/http://lix.in/-4d0c89)

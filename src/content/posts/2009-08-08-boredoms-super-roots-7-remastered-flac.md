@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-08-boredoms-super-roots-7-remastered-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-08-boredoms-super-roots-7-remastered-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-08-boredoms-super-roots-7-remastered-flac.webp)](/hfs40k/images/covers/2009-08-08-boredoms-super-roots-7-remastered-flac.webp)  
 God tier Boredoms, ranks up Vision Creation Newsun as their best and most lively work to date.  
   
   

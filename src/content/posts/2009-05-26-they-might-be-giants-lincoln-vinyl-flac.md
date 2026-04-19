@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=They%20Might%20Be%20Gi
 
 
 
-[![](/holyfuckingshit40000/images/8c154dbbd00945d1b4b27921f9757a82.webp)](https://web.archive.org/web/20111008155636/http://3.bp.blogspot.com/_cLI19EXK2oU/Shwft5gx4fI/AAAAAAAAAGg/sjxA6PMDIpg/s1600-h/LincolnFront.jpg)  
+[![](/hfs40k/images/8c154dbbd00945d1b4b27921f9757a82.webp)](https://web.archive.org/web/20111008155636/http://3.bp.blogspot.com/_cLI19EXK2oU/Shwft5gx4fI/AAAAAAAAAGg/sjxA6PMDIpg/s1600-h/LincolnFront.jpg)  
 Not back on it, Joe. Still on it.  
   
   

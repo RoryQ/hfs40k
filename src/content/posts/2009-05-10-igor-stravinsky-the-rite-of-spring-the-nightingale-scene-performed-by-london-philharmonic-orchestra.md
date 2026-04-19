@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Igor%20Stravinsky%20Th
 
 
 
-[![](/holyfuckingshit40000/images/d2864627410bf9ce06bb70d16b67803e.gif)](https://web.archive.org/web/20111008154954/http://3.bp.blogspot.com/_cLI19EXK2oU/SgeXrmdr0gI/AAAAAAAAAEw/zr9EHnkuFaY/s1600-h/Stravinsky_Rite.gif)  
+[![](/hfs40k/images/d2864627410bf9ce06bb70d16b67803e.gif)](https://web.archive.org/web/20111008154954/http://3.bp.blogspot.com/_cLI19EXK2oU/SgeXrmdr0gI/AAAAAAAAAEw/zr9EHnkuFaY/s1600-h/Stravinsky_Rite.gif)  
 Reuploaded for lonelypanda  
   
 [Download](https://web.archive.org/web/20111008154954/http://www.megaupload.com/?d=S0CE0A03) 320

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=This%20Kind%20of%20Pun
 
 
 
-[![](/holyfuckingshit40000/images/1c5bba9c7131fcaa5bc669218156318e.webp)](/holyfuckingshit40000/images/1c5bba9c7131fcaa5bc669218156318e.webp)  
+[![](/hfs40k/images/1c5bba9c7131fcaa5bc669218156318e.webp)](/hfs40k/images/1c5bba9c7131fcaa5bc669218156318e.webp)  
 
 Described somewhere as 'This Heat gone introspective'. It's not as good as that sounds, but it's on the right track. It took me a few listens to get used to the vocals, but there is a lot here that you'll be missing if you don't give it at least a few tries too. What you have is a melancholic album that might be too soft for the 'post-punk' tag, bookended with moving piano pieces played by one of the Jefferies (both of which have great, similarly gloomy solo releases if you're interested), filled with assorted effects and guitar layers over the awkward and unsure vocals that despite their nature, could not be removed from the whole without destroying its beauty. Listening to it, the influence of This Heat is quite clear (which is strange, I didn't actually think you could get This Heat records back then in the very isolated Dunedin), but the loops and effects don't seem as bent on experimentation. Rather, they serve as an interesting accompaniment to the guitar and voice. As the first and last track suggest, This Kind of Punishment, despite the additions, are perhaps more simple compositionally, the product of a couple of moody guys given studio time after the break-up of their post-punk band, Nocturnal Projections.
 

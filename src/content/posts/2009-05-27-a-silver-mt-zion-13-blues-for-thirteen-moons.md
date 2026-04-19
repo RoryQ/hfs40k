@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zio
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-27-a-silver-mt-zion-13-blues-for-thirteen-moons.webp)](/holyfuckingshit40000/images/covers/2009-05-27-a-silver-mt-zion-13-blues-for-thirteen-moons.webp)By request (hah) because I could. Play some bingo today or something guys.  
+[![](/hfs40k/images/covers/2009-05-27-a-silver-mt-zion-13-blues-for-thirteen-moons.webp)](/hfs40k/images/covers/2009-05-27-a-silver-mt-zion-13-blues-for-thirteen-moons.webp)By request (hah) because I could. Play some bingo today or something guys.  
 Haven't listened to them in a while but I think this one is rather for a die-hard fans; it won't convert anyone. Actually I should give them a listen in order to revise my opinions [or not] but it won't happen soon as I feel indifferent about everything I try to listen to right now. Anyways ...  
   
 [FLAC](https://web.archive.org/web/20111008155656/http://www.megaupload.com/?d=8L2FJ1B0) //\\ [v1](https://web.archive.org/web/20111008155656/http://www.mediafire.com/?nmgmzmz2kmz)

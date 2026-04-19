@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tool%20Lateralus
 
 
 
-[![](/holyfuckingshit40000/images/17924537d9df61e05bc6e4c54b5809ef.webp)](https://web.archive.org/web/20111010100620/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_o4Ex-wb1I/AAAAAAAAAPA/MC28sFm13io/s1600/lateralus.jpg)  
+[![](/hfs40k/images/17924537d9df61e05bc6e4c54b5809ef.webp)](https://web.archive.org/web/20111010100620/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_o4Ex-wb1I/AAAAAAAAAPA/MC28sFm13io/s1600/lateralus.jpg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Queens%20of%20the%20St
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-26-queens-of-the-stone-age-songs-for-the-deaf-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-26-queens-of-the-stone-age-songs-for-the-deaf-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-26-queens-of-the-stone-age-songs-for-the-deaf-flac.webp)](/hfs40k/images/covers/2009-06-26-queens-of-the-stone-age-songs-for-the-deaf-flac.webp)  
 PARENTAL ADVISORY EXPLICIT CONTENT  
   
 Kyuss discography will come later  

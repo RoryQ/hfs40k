@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20
 
 
 
-[![](/holyfuckingshit40000/images/9ba92a480c4e71c44d6f82a5710e2c56.webp)](/holyfuckingshit40000/images/9ba92a480c4e71c44d6f82a5710e2c56.webp)  
+[![](/hfs40k/images/9ba92a480c4e71c44d6f82a5710e2c56.webp)](/hfs40k/images/9ba92a480c4e71c44d6f82a5710e2c56.webp)  
 [troutcore](https://web.archive.org/web/20111008155515/http://lix.in/-506348)

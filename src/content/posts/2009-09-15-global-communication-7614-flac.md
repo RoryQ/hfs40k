@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Global%20Communication
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-15-global-communication-7614-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-15-global-communication-7614-flac.webp)Fairly good ambient/ambientan techno, made a really big impression on me first time I heard it, was best shit evar!! Not so much now but I do believe it's not bad.  
+[![](/hfs40k/images/covers/2009-09-15-global-communication-7614-flac.webp)](/hfs40k/images/covers/2009-09-15-global-communication-7614-flac.webp)Fairly good ambient/ambientan techno, made a really big impression on me first time I heard it, was best shit evar!! Not so much now but I do believe it's not bad.  
   
 Here's some interesting rym review:  
 "I feel like I can’t fully appreciate it. I get the feeling that this was meant to listened to completely stoned. Absolutely horizontal and incapable of standing up. Incapable of doing anything without starting to laugh so hard that you become afraid that you might not get enough air to breath properly. This time around I can wonder without being dis-respectable whether all the people that are digging this are in fact stoned."  

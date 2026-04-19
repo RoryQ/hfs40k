@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Raison%20D%27Etre%20In
 
 
 
-[![](/holyfuckingshit40000/images/632455453115ff3953112eb28467bd6f.webp)](/holyfuckingshit40000/images/632455453115ff3953112eb28467bd6f.webp)  
+[![](/hfs40k/images/632455453115ff3953112eb28467bd6f.webp)](/hfs40k/images/632455453115ff3953112eb28467bd6f.webp)  
 GRIMbient from Sweden. Recommended if you like The Caretaker and Lustmord.  
   
 [Download](https://web.archive.org/web/20101203181709/http://www.mediafire.com/?zdjj9i1veg0)

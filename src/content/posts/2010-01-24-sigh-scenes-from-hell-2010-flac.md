@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sigh%20Scenes%20From%2
 
 
 
-[![](/holyfuckingshit40000/images/96b971bfeb69bf123d8f6f555c6d6f47.webp)](https://web.archive.org/web/20111010123602/http://1.bp.blogspot.com/_5cVyPU93ihM/S11FYr7biSI/AAAAAAAAANI/vJrbsfzsUpo/s1600-h/scenesfromhell.jpg)  
+[![](/hfs40k/images/96b971bfeb69bf123d8f6f555c6d6f47.webp)](https://web.archive.org/web/20111010123602/http://1.bp.blogspot.com/_5cVyPU93ihM/S11FYr7biSI/AAAAAAAAANI/vJrbsfzsUpo/s1600-h/scenesfromhell.jpg)  
 lolossless Black Metal. Includes booklet as well.  
   
 [Download](https://web.archive.org/web/20111010123602/http://lix.in/-75027c)

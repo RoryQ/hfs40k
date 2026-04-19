@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yeti%20Volume%20Oblite
 
 
 
-[![](/holyfuckingshit40000/images/f13e20fd5074cd918bee806c9423a69e.webp)](https://web.archive.org/web/20101203184249/http://2.bp.blogspot.com/_z8rLjrFVzbo/SaWCb6NnTAI/AAAAAAAAABc/9TA5TSEIpk4/s1600-h/176818.jpg)  
+[![](/hfs40k/images/f13e20fd5074cd918bee806c9423a69e.webp)](https://web.archive.org/web/20101203184249/http://2.bp.blogspot.com/_z8rLjrFVzbo/SaWCb6NnTAI/AAAAAAAAABc/9TA5TSEIpk4/s1600-h/176818.jpg)  
 Is it Zeuhl? Is it Krautrock? Is it Sludge? Should we ask?  
   
 [Download mp3](https://web.archive.org/web/20101203184249/http://www.mediafire.com/?2nydx0mggjr)

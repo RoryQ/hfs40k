@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20National%20Boxer
 
 
 
-[![](/holyfuckingshit40000/images/468afdfbe21e77cc7dde947e4cbd53bb.webp)](/holyfuckingshit40000/images/f8258e95f0365cd413966b85a6786fd8.webp)  
+[![](/hfs40k/images/468afdfbe21e77cc7dde947e4cbd53bb.webp)](/hfs40k/images/f8258e95f0365cd413966b85a6786fd8.webp)  
   
   
   

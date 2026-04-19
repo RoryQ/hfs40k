@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mikkel%20Metal%20Close
 
 
 
-[![](/holyfuckingshit40000/images/ca1e6ecdd092aa939686f8a0cc3cbba4.webp)](https://web.archive.org/web/20111010083128/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s1600/x.jpg)  
+[![](/hfs40k/images/ca1e6ecdd092aa939686f8a0cc3cbba4.webp)](https://web.archive.org/web/20111010083128/http://2.bp.blogspot.com/_t6lWjgwMoxw/S6t8xClcIqI/AAAAAAAAAGs/Nx2wDnHaf_E/s1600/x.jpg)  
   
   
   

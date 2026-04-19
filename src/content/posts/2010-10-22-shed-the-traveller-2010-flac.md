@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shed%20The%20Traveller
 
 
 
-[![](/holyfuckingshit40000/images/883d3b81118442f1049c5714163305d1.webp)](https://web.archive.org/web/20111010112657/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGPVHFQiQI/AAAAAAAAAbg/2Jb6LesFrQI/s1600/shed-the-traveller.jpg)  
+[![](/hfs40k/images/883d3b81118442f1049c5714163305d1.webp)](https://web.archive.org/web/20111010112657/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGPVHFQiQI/AAAAAAAAAbg/2Jb6LesFrQI/s1600/shed-the-traveller.jpg)  
   
   
   

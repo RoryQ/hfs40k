@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Patty%20Waters%20Sings
 
 
 
-[![](/holyfuckingshit40000/images/f7793b9aa2280010090b61e11a6183f1.webp)](https://web.archive.org/web/20111010173240/http://2.bp.blogspot.com/_t6lWjgwMoxw/TCiUzOBn-7I/AAAAAAAAAS0/oVGKi5GNHU4/s1600/R-1137340-1239142745.jpeg)  
+[![](/hfs40k/images/f7793b9aa2280010090b61e11a6183f1.webp)](https://web.archive.org/web/20111010173240/http://2.bp.blogspot.com/_t6lWjgwMoxw/TCiUzOBn-7I/AAAAAAAAAS0/oVGKi5GNHU4/s1600/R-1137340-1239142745.jpeg)  
   
   
   

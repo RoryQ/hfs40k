@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20An%20%2
 
 
 
-[![](/holyfuckingshit40000/images/92cee906c3599b81aa215a04adb9ad83.webp)](/holyfuckingshit40000/images/bae5a9c54949f2f5cb480384df305a37.webp)In the ambient/electronic scene few stand as tall as Mr. Hecker, in my opinion. Yet again we have another stellar output from one of the masters of the genre that proves what an unstoppable force this man is.  
+[![](/hfs40k/images/92cee906c3599b81aa215a04adb9ad83.webp)](/hfs40k/images/bae5a9c54949f2f5cb480384df305a37.webp)In the ambient/electronic scene few stand as tall as Mr. Hecker, in my opinion. Yet again we have another stellar output from one of the masters of the genre that proves what an unstoppable force this man is.  
   
 [Download](https://web.archive.org/web/20111010164827/http://www.mediafire.com/?imtmih2nnyy) (@ 320)

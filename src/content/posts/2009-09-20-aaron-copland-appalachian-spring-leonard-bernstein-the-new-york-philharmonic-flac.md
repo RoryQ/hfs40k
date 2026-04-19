@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aaron%20Copland%20Appa
 
 
 
-[![](/holyfuckingshit40000/images/deca309188d02c15b408d0cb58c88b44.webp)](/holyfuckingshit40000/images/deca309188d02c15b408d0cb58c88b44.webp)  
+[![](/hfs40k/images/deca309188d02c15b408d0cb58c88b44.webp)](/hfs40k/images/deca309188d02c15b408d0cb58c88b44.webp)  
 Cliche to say, but his music is indeed "distinctly American". Taking simple, folky melodies and harmonies and weaving them up into the tapestry of the European art music tradition, Copland created some of the more pleasantly listenable music of the 20th century.  
   
 [Enjoy](https://web.archive.org/web/20111010094407/http://lix.in/-5ed90b)

@@ -13,7 +13,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/9416fd94de1d8c2c9ec41e0a7348245f.webp)](https://web.archive.org/web/20111010150052/http://3.bp.blogspot.com/-4IkkVYRrwkM/TZUsmRhqaMI/AAAAAAAAA7E/GEFZPofQbhE/s1600/dontforget.jpg)  
+[![](/hfs40k/images/9416fd94de1d8c2c9ec41e0a7348245f.webp)](https://web.archive.org/web/20111010150052/http://3.bp.blogspot.com/-4IkkVYRrwkM/TZUsmRhqaMI/AAAAAAAAA7E/GEFZPofQbhE/s1600/dontforget.jpg)  
 Post requests below. Again, the ones that take priority will be those which either spark my interest or have already been posted with now dead links.  
   
 I've started using [last.fm](https://web.archive.org/web/20111010150052/http://www.last.fm/user/tolkkii) again so if you need to contact me for whichever reason, do so through last.fm instead of the rateyourmusic link. We also now have a [group](https://web.archive.org/web/20111010150052/http://www.last.fm/group/holyfuckingshit40000) on last.fm which anyone is free to join.  

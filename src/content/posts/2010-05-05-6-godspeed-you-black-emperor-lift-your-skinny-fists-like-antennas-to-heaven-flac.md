@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=%236%20Godspeed%20You%
 
 
 
-[![](/holyfuckingshit40000/images/bfeab89ac8cf1f5b9fc3eac827db28d3.gif)](https://web.archive.org/web/20111209005019/http://2.bp.blogspot.com/_cLI19EXK2oU/S-HyPjCQ8YI/AAAAAAAAAjM/A6eX7qJwDag/s1600/olawd.gif)  
+[![](/hfs40k/images/bfeab89ac8cf1f5b9fc3eac827db28d3.gif)](https://web.archive.org/web/20111209005019/http://2.bp.blogspot.com/_cLI19EXK2oU/S-HyPjCQ8YI/AAAAAAAAAjM/A6eX7qJwDag/s1600/olawd.gif)  
 189 points  
   
 [And-ah... Anyways, lets see what else I-I, eh..  

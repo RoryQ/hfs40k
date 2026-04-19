@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Verlaines%20Bird
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-10-the-verlaines-bird-dog-1987-320.webp)](/holyfuckingshit40000/images/covers/2009-09-10-the-verlaines-bird-dog-1987-320.webp)The Verlaines play fucking awesome jangle-pop indie stuff with heaps of literary references in the lyrics so you can feel smart while listening to them. Their most famous song is *Death and the Maiden* which you might recognise. Stephen Malkmus loved it and recorded his own cover that you can watch on youtube. Also, yeah, I think it's a reference to Schubert. Graeme Downes loves classical music.
+[![](/hfs40k/images/covers/2009-09-10-the-verlaines-bird-dog-1987-320.webp)](/hfs40k/images/covers/2009-09-10-the-verlaines-bird-dog-1987-320.webp)The Verlaines play fucking awesome jangle-pop indie stuff with heaps of literary references in the lyrics so you can feel smart while listening to them. Their most famous song is *Death and the Maiden* which you might recognise. Stephen Malkmus loved it and recorded his own cover that you can watch on youtube. Also, yeah, I think it's a reference to Schubert. Graeme Downes loves classical music.
 
 Watch the original [here](https://web.archive.org/web/20111010094130/http://www.youtube.com/watch?v=Eeuy8PD0bFM) (yeah, I know, faggy hipsters smoking Camel cigarettes)
 

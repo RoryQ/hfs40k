@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Pharcyde%20Bizar
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-27-the-pharcyde-bizarre-ride-ii-1992-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-27-the-pharcyde-bizarre-ride-ii-1992-flac.webp)By request.  
+[![](/hfs40k/images/covers/2009-06-27-the-pharcyde-bizarre-ride-ii-1992-flac.webp)](/hfs40k/images/covers/2009-06-27-the-pharcyde-bizarre-ride-ii-1992-flac.webp)By request.  
   
 [Download](https://web.archive.org/web/20111010091406/http://lix.in/-4d8d0f) (MU)  
 [Download](https://web.archive.org/web/20111010091406/http://lix.in/-4f13b0) (MF)

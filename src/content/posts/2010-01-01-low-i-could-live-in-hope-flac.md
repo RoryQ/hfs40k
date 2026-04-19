@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Low%20I%20Could%20Live
 
 
 
-[![](/holyfuckingshit40000/images/79fd00bd446c521d63d3d3e3bcfab505.webp)](https://web.archive.org/web/20111010122939/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sz54x8_B5_I/AAAAAAAAAO8/aJwYPKiT-MI/s1600-h/icouldliveinhope.jpg)[FLAC](https://web.archive.org/web/20111010122939/http://lix.in/-641b6c)  
+[![](/hfs40k/images/79fd00bd446c521d63d3d3e3bcfab505.webp)](https://web.archive.org/web/20111010122939/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sz54x8_B5_I/AAAAAAAAAO8/aJwYPKiT-MI/s1600-h/icouldliveinhope.jpg)[FLAC](https://web.archive.org/web/20111010122939/http://lix.in/-641b6c)  
   
 [V0](https://web.archive.org/web/20111010122939/http://www.mediafire.com/?fzzoey2zmty)

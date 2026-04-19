@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Kind%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-miles-davis-kind-of-blue-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-14-miles-davis-kind-of-blue-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-14-miles-davis-kind-of-blue-flac.webp)](/hfs40k/images/covers/2009-03-14-miles-davis-kind-of-blue-flac.webp)  
 MY FIRST JAZZ RECORD ~PLAYSKOOL LOGO~  
   
 [Download1](https://web.archive.org/web/20111010164113/http://www.mediafire.com/?dmjaywnczni) [Download2](https://web.archive.org/web/20111010164113/http://www.mediafire.com/?znqmbmjizjc) [Download3](https://web.archive.org/web/20111010164113/http://www.mediafire.com/?nluijg2jdwz) [Download4](https://web.archive.org/web/20111010164113/http://www.mediafire.com/?kzzvijmfzo5)

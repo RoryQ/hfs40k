@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Repeater%20%2
 
 
 
-[![](/holyfuckingshit40000/images/6cb3b8114c4828646b502e3d3a5df9f8.webp)](https://web.archive.org/web/20111010091302/http://2.bp.blogspot.com/_cLI19EXK2oU/SjUQpRNROQI/AAAAAAAAAKQ/4tQzH5KffaA/s1600-h/repeater.jpg)  
+[![](/hfs40k/images/6cb3b8114c4828646b502e3d3a5df9f8.webp)](https://web.archive.org/web/20111010091302/http://2.bp.blogspot.com/_cLI19EXK2oU/SjUQpRNROQI/AAAAAAAAAKQ/4tQzH5KffaA/s1600-h/repeater.jpg)  
 In a season when consumerism is running rampant with packed shopping malls, ridiculous traffic jams, and long lines everywhere, it's good to be reminded that our way of life is hollow. "Merchandise keeps us in line, common sense says it's by design. What could a businessman ever want more than to have us sucking in his store? We owe you nothing. You have no control. You are not what you own!"  
 Fugazi is nothing short of amazing on all levels. Their music was innovative and powerful, their lyrics were packed with intelligence and emotion, and the way they conducted their business was absolutely respectable and ethical. There will never be another band like them.  
 "Repeater" is known as Fugazi's defining moment. They still had the youthful energy that defined the hardcore punk scene, which band member Ian MacKaye embodied with his band Minor Threat, but more skill and broader talents.  

@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melvins%20A%20Senile%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-12-melvins-a-senile-animal-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-12-melvins-a-senile-animal-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-12-melvins-a-senile-animal-flac.webp)](/hfs40k/images/covers/2010-10-12-melvins-a-senile-animal-flac.webp)  
 Almost every review concerning the bands recent releases talks of 'expecting the unexpected'. Well, I'm not too sure if this is the case with this year's release, "A Senile Animal".  
   
 When you consider the band now have two drummers, thanks to Big Business' percussion section (they have also recruited their bass section too). So yes, when you know that the band now has two drummers you can expect a lot of drums, and a lot of crazy fills, maybe some syncopation, odd time signatures etc etc. You should also guess that the album will have a very low-end growl, full of rumbling and fuzzy bass tones, as for one thing, this is Melvins, and no Melvins album goes without rumbling bass, but also because Big Business' bass tone is gigantic. You should also assume that the almighty king of sludgy riffdom, Buzzo, will lay down some mind rumbling slabs of dirge, along with some quicker, thrashier riffs, as no Melvins release bypasses these rules. And if you assumed all of this, you will be spot on.  

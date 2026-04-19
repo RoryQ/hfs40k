@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=OM%20Pilgrimage
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-15-om-pilgrimage-2007-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-15-om-pilgrimage-2007-flac.webp)I'm finally getting around to uploading some of my CDs in FLAC format. This is the first one I've done.
+[![](/hfs40k/images/covers/2009-07-15-om-pilgrimage-2007-flac.webp)](/hfs40k/images/covers/2009-07-15-om-pilgrimage-2007-flac.webp)I'm finally getting around to uploading some of my CDs in FLAC format. This is the first one I've done.
 
 Download (Mediafire)
 

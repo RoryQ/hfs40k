@@ -19,6 +19,6 @@ youtube_url: https://www.youtube.com/results?search_query=Wire%20Chairs%20Missin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-08-wire-chairs-missing-1978.webp)](/holyfuckingshit40000/images/covers/2009-07-08-wire-chairs-missing-1978.webp)This and 154 are better than Pink Flag in my opinion. More post and less punk but still great.  
+[![](/hfs40k/images/covers/2009-07-08-wire-chairs-missing-1978.webp)](/hfs40k/images/covers/2009-07-08-wire-chairs-missing-1978.webp)This and 154 are better than Pink Flag in my opinion. More post and less punk but still great.  
   
 [Download 320](https://web.archive.org/web/20120119071042/http://lix.in/-504550)

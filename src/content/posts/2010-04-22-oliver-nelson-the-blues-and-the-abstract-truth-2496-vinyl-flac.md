@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Oliver%20Nelson%20The%
 
 
 
-[![](/holyfuckingshit40000/images/2a85161ed24eda9888966fd5155e63c3.webp)](/holyfuckingshit40000/images/971a1f957a36901f295fa435954ff7f3.webp)  
+[![](/hfs40k/images/2a85161ed24eda9888966fd5155e63c3.webp)](/hfs40k/images/971a1f957a36901f295fa435954ff7f3.webp)  
   
   
   

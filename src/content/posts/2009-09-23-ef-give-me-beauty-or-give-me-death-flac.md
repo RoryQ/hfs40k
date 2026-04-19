@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Ef%20Give%20Me%20Beaut
 
 
 
-[![](/holyfuckingshit40000/images/1cfccb0f131568f93d0e9e6395d88fb5.webp)](https://web.archive.org/web/20111010094107/http://4.bp.blogspot.com/_A31Dfz4S5yg/SrroKurBpWI/AAAAAAAAAI0/F0RG8baS2ro/s1600-h/gotfv796g.jpg)  
+[![](/hfs40k/images/1cfccb0f131568f93d0e9e6395d88fb5.webp)](https://web.archive.org/web/20111010094107/http://4.bp.blogspot.com/_A31Dfz4S5yg/SrroKurBpWI/AAAAAAAAAI0/F0RG8baS2ro/s1600-h/gotfv796g.jpg)  
 [FLAC](https://web.archive.org/web/20111010094107/http://lix.in/-57a91a) |||| [V0](https://web.archive.org/web/20111010094107/http://www.mediafire.com/?iyrmtzfd534)

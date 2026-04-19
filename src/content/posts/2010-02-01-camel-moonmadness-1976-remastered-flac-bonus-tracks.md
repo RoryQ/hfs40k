@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Camel%20Moonmadness
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-01-camel-moonmadness-1976-remastered-flac-bonus-tracks.webp)](/holyfuckingshit40000/images/covers/2010-02-01-camel-moonmadness-1976-remastered-flac-bonus-tracks.webp)  
+[![](/hfs40k/images/covers/2010-02-01-camel-moonmadness-1976-remastered-flac-bonus-tracks.webp)](/hfs40k/images/covers/2010-02-01-camel-moonmadness-1976-remastered-flac-bonus-tracks.webp)  
 "This album was where Camel really came of age. From the first notes of "Aristillus", a brief but striking instrumental, the attention of the listener is caught.
 
 The well worn criticism of Camel's vocal capabilities can undoubtedly be applied to "Moonmadness". After "Snowgoose" however, another instrumental album would perhaps have appeared indulgent, and would certainly have implied that the band accepted the criticism, giving up on the vocals altogether. Without wishing to labour the point, the vocals are indeed the weak point, but not to the extent that they spoil the album.

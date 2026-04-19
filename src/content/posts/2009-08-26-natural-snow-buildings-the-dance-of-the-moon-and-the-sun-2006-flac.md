@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Build
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-26-natural-snow-buildings-the-dance-of-the-moon-and-the-sun-2006-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-26-natural-snow-buildings-the-dance-of-the-moon-and-the-sun-2006-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-26-natural-snow-buildings-the-dance-of-the-moon-and-the-sun-2006-flac.webp)](/hfs40k/images/covers/2009-08-26-natural-snow-buildings-the-dance-of-the-moon-and-the-sun-2006-flac.webp)  
 PMac551:  
   
 "This will probably be my first ever lengthy, emotion ridden, in depth review. But fuck it, this piece of art deserves the first. To describe what this album is to me, let me tell you something first:  

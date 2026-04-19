@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Dowsing%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-13-kayo-dot-dowsing-anemone-with-copper-tongue-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-13-kayo-dot-dowsing-anemone-with-copper-tongue-flac.webp)To make up for my cruel joke (but it is my birthday).  
+[![](/hfs40k/images/covers/2009-09-13-kayo-dot-dowsing-anemone-with-copper-tongue-flac.webp)](/hfs40k/images/covers/2009-09-13-kayo-dot-dowsing-anemone-with-copper-tongue-flac.webp)To make up for my cruel joke (but it is my birthday).  
   
 [Download FLAC](https://web.archive.org/web/20111010094839/http://lix.in/-56e265)

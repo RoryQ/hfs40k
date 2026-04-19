@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Van%20Dyke%20Parks%20S
 
 
 
-[![](/holyfuckingshit40000/images/f192003580bde7eaee98554d5f5c8c54.webp)](https://web.archive.org/web/20111010065402/http://3.bp.blogspot.com/_mTQyK3r0bG0/TG3V8nSpG1I/AAAAAAAAAKg/XGs7Rw5LemI/s1600/Front.jpg)  
+[![](/hfs40k/images/f192003580bde7eaee98554d5f5c8c54.webp)](https://web.archive.org/web/20111010065402/http://3.bp.blogspot.com/_mTQyK3r0bG0/TG3V8nSpG1I/AAAAAAAAAKg/XGs7Rw5LemI/s1600/Front.jpg)  
 [All you Joanna Newsom fanboys need to listen to this](https://web.archive.org/web/20111010065402/http://lix.in/-8edd6d)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Stanley%20Clarke%20Sch
 
 
 
-[![](/holyfuckingshit40000/images/ffbb20f2d97312099d026c2475b1749d.webp)](/holyfuckingshit40000/images/ffbb20f2d97312099d026c2475b1749d.webp)  
+[![](/hfs40k/images/ffbb20f2d97312099d026c2475b1749d.webp)](/hfs40k/images/ffbb20f2d97312099d026c2475b1749d.webp)  
 Essential record for Jazz Fusion enthusiasts and Bass players, featuring some of the biggest names of 70s fusion, such as John McLaughlin, Billy Cobham, George Duke and Steve Gadd.  
   
 [Download](https://web.archive.org/web/20101203184808/http://www.mediafire.com/download.php?nidndi4ydnn)  

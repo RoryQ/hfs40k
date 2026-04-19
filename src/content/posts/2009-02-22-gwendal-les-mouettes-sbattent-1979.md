@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gwendal%20Les%20Mouett
 
 
 
-[![](/holyfuckingshit40000/images/7ffee9ebc4c3cae1638507e4b26911c9.webp)](https://web.archive.org/web/20101203184007/http://1.bp.blogspot.com/_z8rLjrFVzbo/SaGWe06yBAI/AAAAAAAAABM/JcqYGKQ8cbw/s1600-h/194815.jpg)  
+[![](/hfs40k/images/7ffee9ebc4c3cae1638507e4b26911c9.webp)](https://web.archive.org/web/20101203184007/http://1.bp.blogspot.com/_z8rLjrFVzbo/SaGWe06yBAI/AAAAAAAAABM/JcqYGKQ8cbw/s1600-h/194815.jpg)  
 Awesome Celtic folk band from France. Their fusion with progressive rock, jazz and reggae makes them even more interesting.  
   
 [Download mp3](https://web.archive.org/web/20101203184007/http://www.mediafire.com/?5ruhmztzmaa)

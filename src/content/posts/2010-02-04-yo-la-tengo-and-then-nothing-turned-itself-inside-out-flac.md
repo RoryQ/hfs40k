@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20And%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-04-yo-la-tengo-and-then-nothing-turned-itself-inside-out-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-04-yo-la-tengo-and-then-nothing-turned-itself-inside-out-flac.webp)Album cover couldn't fit the music more. I'm itching for it to be summer again so I can play Yo La Tengo all day and into the night.
+[![](/hfs40k/images/covers/2010-02-04-yo-la-tengo-and-then-nothing-turned-itself-inside-out-flac.webp)](/hfs40k/images/covers/2010-02-04-yo-la-tengo-and-then-nothing-turned-itself-inside-out-flac.webp)Album cover couldn't fit the music more. I'm itching for it to be summer again so I can play Yo La Tengo all day and into the night.
 
 [Enjoy](https://web.archive.org/web/20111010155727/http://lix.in/-73e868)

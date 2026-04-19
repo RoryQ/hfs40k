@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Caspian%20The%20Four%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-31-caspian-the-four-trees-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-31-caspian-the-four-trees-flac.webp)[download flac](https://web.archive.org/web/20111010153116/http://lix.in/-6eb083)
+[![](/hfs40k/images/covers/2009-12-31-caspian-the-four-trees-flac.webp)](/hfs40k/images/covers/2009-12-31-caspian-the-four-trees-flac.webp)[download flac](https://web.archive.org/web/20111010153116/http://lix.in/-6eb083)

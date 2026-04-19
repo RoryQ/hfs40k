@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Real%20G
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-13-tom-waits-real-gone-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-13-tom-waits-real-gone-flac.webp)  
+[![](/hfs40k/images/covers/2011-05-13-tom-waits-real-gone-flac.webp)](/hfs40k/images/covers/2011-05-13-tom-waits-real-gone-flac.webp)  
 Tom Waits, as usual, has produced another classic. It should be noted, however, that "Real Gone" is a really gritty, avant-garde effort. The sonic texture of the album is akin to some of the tunes on "Bone Machine" with a tinge of the sweaty grit of the more raucous parts of "Mule Variations" (e.g., the texture found on the rough and funky "Filipino Box Spring Hog"). If you are a fan of Waits' last few albums, you will enjoy "Real Gone." If what you enjoy about Waits' music is his piano playing, well, this is one you can skip--there is no piano whatsoever on this CD.   
   
 The music is oddly mixed and Tom's microphone sounds overloaded at times, but somehow it all fits together to make sense. The disc opens with "Top of the Hill," which is a great indicator of things to come with its funky rhythms with prominent percussive downbeats. If you enjoy this tune, you will likely enjoy "Metropolitan Glide," which comes up a few tracks later and uses turntables to great effect without dominating the musical landscape. There are a couple beautiful slow pieces as well in "Dead and Lovely" and "How's It Gonna End." The guitar duties are largely handled by the legendary Marc Ribot, whose playing is perfectly suited to Waits' music. He really shines on "Real Gone." His guitar brings a haunting quality to the slower pieces and razor-sharp gutter funk to the faster tunes.   

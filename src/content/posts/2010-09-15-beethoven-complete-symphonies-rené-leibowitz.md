@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Beethoven%20Complete%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-15-beethoven-complete-symphonies-rené-leibowitz.webp)](/holyfuckingshit40000/images/covers/2010-09-15-beethoven-complete-symphonies-rené-leibowitz.webp)  
+[![](/hfs40k/images/covers/2010-09-15-beethoven-complete-symphonies-rené-leibowitz.webp)](/hfs40k/images/covers/2010-09-15-beethoven-complete-symphonies-rené-leibowitz.webp)  
 
 René Leibowitz / Royal Philharmonic Orchestra  
 The Beecham Choral Society  

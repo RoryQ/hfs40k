@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Orb%20The%20Orb%
 
 
 
-[![](/holyfuckingshit40000/images/b51576f118d7908d83e5b4a861ae65db.webp)](https://web.archive.org/web/20111010045855/http://4.bp.blogspot.com/_t6lWjgwMoxw/S9bH4YC6FyI/AAAAAAAAAKk/FJF_P6AU__c/s1600/21321.jpg)  
+[![](/hfs40k/images/b51576f118d7908d83e5b4a861ae65db.webp)](https://web.archive.org/web/20111010045855/http://4.bp.blogspot.com/_t6lWjgwMoxw/S9bH4YC6FyI/AAAAAAAAAKk/FJF_P6AU__c/s1600/21321.jpg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20Pr
 
 
 
-[![](/holyfuckingshit40000/images/ca8121b55b9a65cbfd783e6708372ea0.webp)](https://web.archive.org/web/20111010091101/http://2.bp.blogspot.com/_z8rLjrFVzbo/SaCBPq-lj6I/AAAAAAAAAA8/3QSU-ChiUiI/s1600-h/1006734.jpg)  
+[![](/hfs40k/images/ca8121b55b9a65cbfd783e6708372ea0.webp)](https://web.archive.org/web/20111010091101/http://2.bp.blogspot.com/_z8rLjrFVzbo/SaCBPq-lj6I/AAAAAAAAAA8/3QSU-ChiUiI/s1600-h/1006734.jpg)  
 Reuploaded & bumped  
   
 [Download FLAC](https://web.archive.org/web/20111010091101/http://www.megaupload.com/?d=0NOJTAI1)

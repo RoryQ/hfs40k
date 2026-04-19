@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sun%20City%20Girls%203
 
 
 
-[![](/holyfuckingshit40000/images/2234a9a18da7ee8edac4598975055838.webp)](/holyfuckingshit40000/images/2234a9a18da7ee8edac4598975055838.webp)  
+[![](/hfs40k/images/2234a9a18da7ee8edac4598975055838.webp)](/hfs40k/images/2234a9a18da7ee8edac4598975055838.webp)  
 Oh hey this bands name is Sun City Girls, I bet its just a bunch of teeny boppers singing generic indie pop off key.  
  [Download](https://web.archive.org/web/20090427114822/http://www.mediafire.com/?w3m4dynjgfy) v0

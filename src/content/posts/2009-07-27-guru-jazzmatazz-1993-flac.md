@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Guru%20Jazzmatazz
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-27-guru-jazzmatazz-1993-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-27-guru-jazzmatazz-1993-flac.webp)Fuck yeah, my second FLAC upload here.  
+[![](/hfs40k/images/covers/2009-07-27-guru-jazzmatazz-1993-flac.webp)](/hfs40k/images/covers/2009-07-27-guru-jazzmatazz-1993-flac.webp)Fuck yeah, my second FLAC upload here.  
 Fuck yeah, Guru and Blue Note Jazz.  
   
 Don't listen to any other Jazzmatazz, this is the first one and it is the best one.  

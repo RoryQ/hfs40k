@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Grateful%20Dead%20Live
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-29-grateful-dead-livedead-1969.webp)](/holyfuckingshit40000/images/covers/2009-12-29-grateful-dead-livedead-1969.webp)
+[![](/hfs40k/images/covers/2009-12-29-grateful-dead-livedead-1969.webp)](/hfs40k/images/covers/2009-12-29-grateful-dead-livedead-1969.webp)
 
 1. Dark Star (23:15)
 

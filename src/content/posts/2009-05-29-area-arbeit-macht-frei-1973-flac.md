@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Area%20Arbeit%20Macht%
 
 
 
-[![](/holyfuckingshit40000/images/88246e55044011f9b9ebd7e70eb83fd0.webp)](https://web.archive.org/web/20111008155715/http://1.bp.blogspot.com/_5cVyPU93ihM/SiBwm1CPPbI/AAAAAAAAAFM/wZ8tOTkH5Ns/s1600-h/area%2B-%2B1973%2B-%2Barbeit%2Bmacht%2Bfrei%2B%281%29.jpg)  
+[![](/hfs40k/images/88246e55044011f9b9ebd7e70eb83fd0.webp)](https://web.archive.org/web/20111008155715/http://1.bp.blogspot.com/_5cVyPU93ihM/SiBwm1CPPbI/AAAAAAAAAFM/wZ8tOTkH5Ns/s1600-h/area%2B-%2B1973%2B-%2Barbeit%2Bmacht%2Bfrei%2B%281%29.jpg)  
 "Glass-breaking operatic lead tenor belting didactic Italian lyrics of Marx-ian determinism over furious jazz fusion with Arabesque tinges."  
 [Download](https://web.archive.org/web/20111008155715/http://lix.in/-490625)  
 [Last.fm](https://web.archive.org/web/20111008155715/http://www.last.fm/music/Area)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fat%20Freddy%27s%20Dro
 
 
 
-[![](/holyfuckingshit40000/images/60855c0a7699e753fba598fbc47fce68.webp)](https://web.archive.org/web/20111010123116/http://4.bp.blogspot.com/_bIgHZQu-UEA/S0kk06xNAjI/AAAAAAAAAOE/5Q4PdEE7ajo/s1600-h/fat-freddys-drop.jpg)  
+[![](/hfs40k/images/60855c0a7699e753fba598fbc47fce68.webp)](https://web.archive.org/web/20111010123116/http://4.bp.blogspot.com/_bIgHZQu-UEA/S0kk06xNAjI/AAAAAAAAAOE/5Q4PdEE7ajo/s1600-h/fat-freddys-drop.jpg)  
 
 Laid-back dub/reggae/electronica that a lot of people play on nice summer days, but I think suits night time just as well because the tracks are all stretched out over the 5 minute mark and often more slow than simply laid-back. They gained a lot of success in New Zealand purely through word of mouth. The album is great, but apparently not as good as their live recordings which I'll have to look into.
 

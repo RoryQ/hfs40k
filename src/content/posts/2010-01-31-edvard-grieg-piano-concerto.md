@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Edvard%20Grieg%20Piano
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-31-edvard-grieg-piano-concerto.webp)](/holyfuckingshit40000/images/covers/2010-01-31-edvard-grieg-piano-concerto.webp)
+[![](/hfs40k/images/covers/2010-01-31-edvard-grieg-piano-concerto.webp)](/hfs40k/images/covers/2010-01-31-edvard-grieg-piano-concerto.webp)
 
 Havard Gimse, Piano
 

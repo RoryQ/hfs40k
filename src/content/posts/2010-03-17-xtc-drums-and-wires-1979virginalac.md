@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=XTC%20Drums%20and%20Wi
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-17-xtc-drums-and-wires-1979virginalac.webp)](/holyfuckingshit40000/images/covers/2010-03-17-xtc-drums-and-wires-1979virginalac.webp)  
+[![](/hfs40k/images/covers/2010-03-17-xtc-drums-and-wires-1979virginalac.webp)](/hfs40k/images/covers/2010-03-17-xtc-drums-and-wires-1979virginalac.webp)  
 I feel like I'm walking round ten feet tall..  
 [ALAC](https://web.archive.org/web/20101203174303/http://lix.in/-72add1)

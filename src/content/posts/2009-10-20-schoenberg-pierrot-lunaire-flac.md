@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Pierrot%2
 
 
 
-[![](/holyfuckingshit40000/images/0929f82caad992b627aa7e3b4cb1bb5b.gif)](/holyfuckingshit40000/images/0929f82caad992b627aa7e3b4cb1bb5b.gif)This is too atonal for me. I can send the CD to you for Christmas if you want  
+[![](/hfs40k/images/0929f82caad992b627aa7e3b4cb1bb5b.gif)](/hfs40k/images/0929f82caad992b627aa7e3b4cb1bb5b.gif)This is too atonal for me. I can send the CD to you for Christmas if you want  
 
 Download (Mediafire)
 

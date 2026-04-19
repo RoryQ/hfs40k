@@ -24,7 +24,7 @@ The film soundtrack can be a fantastic medium for artistic expression. While som
 
 Some of the links are old (hence mediafire). If there are any problems, give me a comment and I'll fix it.
 
-[![](/holyfuckingshit40000/images/covers/2010-03-19-assorted-soundtracks.webp)](/holyfuckingshit40000/images/covers/2010-03-19-assorted-soundtracks.webp)
+[![](/hfs40k/images/covers/2010-03-19-assorted-soundtracks.webp)](/hfs40k/images/covers/2010-03-19-assorted-soundtracks.webp)
 
 Piero Piccioni
 
@@ -82,7 +82,7 @@ Piccioni was involved in the death of a young woman who was reportedly drugged, 
 Highly recommended.
 
   
-[![](/holyfuckingshit40000/images/42f8e53e14b94c99563a09439f7829de.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/S53iXDlqi5I/AAAAAAAAAWE/BO63mludVHk/s1600-h/p.thom.jpeg)  
+[![](/hfs40k/images/42f8e53e14b94c99563a09439f7829de.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/S53iXDlqi5I/AAAAAAAAAWE/BO63mludVHk/s1600-h/p.thom.jpeg)  
 
 Peter Thomas Sound Orchestra
 
@@ -128,7 +128,7 @@ Peter Thomas is a German composer, he apparently did lots of music for film and 
 
 > "This compilation is a certain kind of chic, nutty, bizarre, spheric, sinful-horny music out of the erotic soundscape of the acoustic-phonetic-hotline-lounge-party music universe."
 
-[![](/holyfuckingshit40000/images/7ff6e2a726d82f5cdd772e5dcdaf8f62.webp)](https://web.archive.org/web/20111010082726/http://1.bp.blogspot.com/_hJHDGO7PJL4/SvNJcoHxcUI/AAAAAAAAAJM/vUmZ-RNwPmE/s1600-h/Vivre+Pour+Vivre+Cover.jpg)
+[![](/hfs40k/images/7ff6e2a726d82f5cdd772e5dcdaf8f62.webp)](https://web.archive.org/web/20111010082726/http://1.bp.blogspot.com/_hJHDGO7PJL4/SvNJcoHxcUI/AAAAAAAAAJM/vUmZ-RNwPmE/s1600-h/Vivre+Pour+Vivre+Cover.jpg)
 
 Francis Lai
 
@@ -158,7 +158,7 @@ Francis Lai
 
 [Download (Mediafire)](https://web.archive.org/web/20111010082726/http://lix.in/-604702)
 
-[![](/holyfuckingshit40000/images/e19cfd40f8adfa55553d74ad671ad7ea.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/SxOHe_1hSZI/AAAAAAAAAMU/22_SAlPLlno/s1600/2320131396_02395c76fb.jpg)
+[![](/hfs40k/images/e19cfd40f8adfa55553d74ad671ad7ea.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/SxOHe_1hSZI/AAAAAAAAAMU/22_SAlPLlno/s1600/2320131396_02395c76fb.jpg)
 
 Francis Lai
 
@@ -184,7 +184,7 @@ Francis Lai
 
 [Download (Mediafire)](https://web.archive.org/web/20111010082726/http://lix.in/-6765de)
 
-[![](/holyfuckingshit40000/images/5e14833fd9c6863bced3391ea4281175.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/SxLR0B6FE2I/AAAAAAAAAME/6Oe149hlhXw/s1600/PKqBx.jpg)
+[![](/hfs40k/images/5e14833fd9c6863bced3391ea4281175.webp)](https://web.archive.org/web/20111010082726/http://2.bp.blogspot.com/_hJHDGO7PJL4/SxLR0B6FE2I/AAAAAAAAAME/6Oe149hlhXw/s1600/PKqBx.jpg)
 
 Piero Piccioni
 
@@ -220,7 +220,7 @@ Piero Piccioni
 
 This might be my favourite in the post. "exciting, fun and classy", somewhere between erotica (sexual-tension) and exotica (black caricatures and palm trees).
 
-[![](/holyfuckingshit40000/images/7f2eee00e66705e876fa9a252c9c047b.gif)](/holyfuckingshit40000/images/0d0c38ae07bfb6e15b3c55a25d88cca3.gif)
+[![](/hfs40k/images/7f2eee00e66705e876fa9a252c9c047b.gif)](/hfs40k/images/0d0c38ae07bfb6e15b3c55a25d88cca3.gif)
 
 Bruno Nicolai
 
@@ -296,7 +296,7 @@ Pierre Bachelet
 
 Look at the cover! More sadomasochistic than the rest of this stuff (darker and more porno)
 
-![](/holyfuckingshit40000/images/f0c83c20f689e4e7de388b8dadf0a86a.webp)
+![](/hfs40k/images/f0c83c20f689e4e7de388b8dadf0a86a.webp)
 
 Ennio Morricone
 

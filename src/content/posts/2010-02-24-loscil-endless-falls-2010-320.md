@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Loscil%20Endless%20Fal
 
 
 
-[![](/holyfuckingshit40000/images/fa3333988982b48d726a25a066d8d595.webp)](/holyfuckingshit40000/images/fa3333988982b48d726a25a066d8d595.webp)  
+[![](/hfs40k/images/fa3333988982b48d726a25a066d8d595.webp)](/hfs40k/images/fa3333988982b48d726a25a066d8d595.webp)  
   
 Warning: Listening to this album may require the aid of headphones and/or diapers.  
   

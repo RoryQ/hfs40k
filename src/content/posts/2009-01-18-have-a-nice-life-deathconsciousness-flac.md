@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life
 
 
 
-[![](/holyfuckingshit40000/images/d214029841c0cb2af782e109d8f0512f.gif)](/holyfuckingshit40000/images/6fc9334128278d674b6c87f447e19d1b.gif)  
+[![](/hfs40k/images/d214029841c0cb2af782e109d8f0512f.gif)](/hfs40k/images/6fc9334128278d674b6c87f447e19d1b.gif)  
   
   
 Genre: Shoegaze  

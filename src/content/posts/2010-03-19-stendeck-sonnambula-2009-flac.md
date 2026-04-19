@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Sonnambula
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-19-stendeck-sonnambula-2009-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-19-stendeck-sonnambula-2009-flac.webp)
+[![](/hfs40k/images/covers/2010-03-19-stendeck-sonnambula-2009-flac.webp)](/hfs40k/images/covers/2010-03-19-stendeck-sonnambula-2009-flac.webp)
 
   
 [Fuck yeah](https://web.archive.org/web/20111010081340/http://anonym.to/?http://www.youtube.com/watch?v=J1qfrK0HI4Q)  

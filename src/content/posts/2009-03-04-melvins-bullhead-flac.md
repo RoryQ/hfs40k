@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melvins%20Bullhead
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-04-melvins-bullhead-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-04-melvins-bullhead-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-04-melvins-bullhead-flac.webp)](/hfs40k/images/covers/2009-03-04-melvins-bullhead-flac.webp)  
 GENERATE LAY EM FLAT LIKE MONKEY MAN  
   
 [Download](https://web.archive.org/web/20111010164726/http://www.megaupload.com/?d=frhbcyt0)

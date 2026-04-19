@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Reflection%20Eternal%2
 
 
 
-[![](/holyfuckingshit40000/images/8d50f021eae0c5d301f6072293a0dd95.webp)](https://web.archive.org/web/20111010094936/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l3tPHG83I/AAAAAAAAAok/AQ0iuR2HPKc/s1600/16benwh.jpg)  
+[![](/hfs40k/images/8d50f021eae0c5d301f6072293a0dd95.webp)](https://web.archive.org/web/20111010094936/http://2.bp.blogspot.com/_cLI19EXK2oU/S_l3tPHG83I/AAAAAAAAAok/AQ0iuR2HPKc/s1600/16benwh.jpg)  
   
 I really enjoyed Talib Kweli & Hi-Tek's "Reflection Eternal". This completes the trilogy of Black Star's "Mos Def And Talib Kweli Are Black Star", Mos Def's "Black on Both Sides", and "Reflection Eternal". I can only imagine what Black Star's second album will be like when Mos Def and Talib Kweli join again with the production skills of Hi-Tek. This is one of the few Hip Hop albums you can listen from track one to track twenty without fast forwarding, well, let's make the twenty-one because of the enlightening hidden track "For Women". After "Move Somethin" the album only get more poetic and visual. Talib drops lyrical science you have to almost swear he had to earn a Ph.d. to verbally express the knowledge he delievers. Talib cares more about his underground following rather than selling out and trying to be commerical.
 

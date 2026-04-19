@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%20Angher
 
 
 
-[![](/holyfuckingshit40000/images/774646af9e603f2546b642826f542c2c.webp)](/holyfuckingshit40000/images/774646af9e603f2546b642826f542c2c.webp)  
+[![](/hfs40k/images/774646af9e603f2546b642826f542c2c.webp)](/hfs40k/images/774646af9e603f2546b642826f542c2c.webp)  
 Warning! This album contains ridiculous amounts of: awesome, win, japs and wankery. Milestone of Weeaboo Zeuhl.  
 Tatsuya Yoshida = God  
   

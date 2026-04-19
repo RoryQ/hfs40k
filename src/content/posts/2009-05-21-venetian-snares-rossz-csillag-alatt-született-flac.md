@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Ro
 
 
 
-[![](/holyfuckingshit40000/images/7e956aa7a5139bc4e4dfb23341fdd681.webp)](/holyfuckingshit40000/images/7e956aa7a5139bc4e4dfb23341fdd681.webp)  
+[![](/hfs40k/images/7e956aa7a5139bc4e4dfb23341fdd681.webp)](/hfs40k/images/7e956aa7a5139bc4e4dfb23341fdd681.webp)  
 Reuploaded by request  
   
 [FLAC](https://web.archive.org/web/20111008155449/http://lix.in/-51e647)

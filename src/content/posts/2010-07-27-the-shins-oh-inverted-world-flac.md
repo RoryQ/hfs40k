@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Shins%20Oh%2C%20
 
 
 
-[![](/holyfuckingshit40000/images/6e7327bbf7d83d20cedad19f09286c60.webp)](/holyfuckingshit40000/images/bc50ab4b8ca28e33cc4dbb247de8eca4.webp)  
+[![](/hfs40k/images/6e7327bbf7d83d20cedad19f09286c60.webp)](/hfs40k/images/bc50ab4b8ca28e33cc4dbb247de8eca4.webp)  
 The Shins have managed to combine the best in pop sounds with everything from acoustic ballads, psychedelic sounds and pure rockers. While they maintain strong melodies and pop influence, there is still a hint of experimental sounds throughout this album-whether it's from odd keyboard approaches or wacky lyrics, the Shins have created an album that cannot be compared to anything but the Shins.
 
 For a debut release, it's nice to see a band being a band and not following current trends. No song runs over four minutes and not one track on this albums needs skipping past-they all work on all sorts of levels.

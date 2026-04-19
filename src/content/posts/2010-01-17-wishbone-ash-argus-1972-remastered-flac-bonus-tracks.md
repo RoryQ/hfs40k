@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wishbone%20Ash%20Argus
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-17-wishbone-ash-argus-1972-remastered-flac-bonus-tracks.webp)](/holyfuckingshit40000/images/covers/2010-01-17-wishbone-ash-argus-1972-remastered-flac-bonus-tracks.webp)  
+[![](/hfs40k/images/covers/2010-01-17-wishbone-ash-argus-1972-remastered-flac-bonus-tracks.webp)](/hfs40k/images/covers/2010-01-17-wishbone-ash-argus-1972-remastered-flac-bonus-tracks.webp)  
 Good 'ol twin guitar dad rock.  
   
 [Download](https://web.archive.org/web/20111010123649/http://lix.in/-707908) / [Bonus Tracks](https://web.archive.org/web/20111010123649/http://lix.in/-71ffa9)

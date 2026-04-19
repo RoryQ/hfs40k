@@ -19,7 +19,7 @@ youtube_url: null
 
 Unomia - 2004  
   
-[![](/holyfuckingshit40000/images/covers/2010-05-04-helios-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-04-helios-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-04-helios-flac.webp)](/hfs40k/images/covers/2010-05-04-helios-flac.webp)  
 [Download](https://web.archive.org/web/20111010100211/http://lix.in/-81729e)  
   
 Eingya - 2006  

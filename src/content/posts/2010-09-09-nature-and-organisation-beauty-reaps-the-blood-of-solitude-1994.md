@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nature%20and%20Organis
 
 
 
-[![](/holyfuckingshit40000/images/255f8f4097a46d5ea0dc80819c0b687d.webp)](https://web.archive.org/web/20111010175350/http://2.bp.blogspot.com/_bIgHZQu-UEA/THDGPll5YBI/AAAAAAAAArs/lXntW2Oxdkc/s1600/nature.jpg)
+[![](/hfs40k/images/255f8f4097a46d5ea0dc80819c0b687d.webp)](https://web.archive.org/web/20111010175350/http://2.bp.blogspot.com/_bIgHZQu-UEA/THDGPll5YBI/AAAAAAAAArs/lXntW2Oxdkc/s1600/nature.jpg)
 
 I excitedly posted this on my blog only to find that nobody really gave a shit (woe is me)
 

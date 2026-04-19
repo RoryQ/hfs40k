@@ -15,7 +15,7 @@ youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-29-deathconsciousness.webp)](/holyfuckingshit40000/images/covers/2011-09-29-deathconsciousness.webp)
+[![](/hfs40k/images/covers/2011-09-29-deathconsciousness.webp)](/hfs40k/images/covers/2011-09-29-deathconsciousness.webp)
 
 hey.
 

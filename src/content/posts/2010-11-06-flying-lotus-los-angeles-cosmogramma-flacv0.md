@@ -23,8 +23,8 @@ Hi people. Haven't posted in ages. College is a shit ton of work. But since I'm 
 
 Los Angeles
 
-[![](/holyfuckingshit40000/images/18e7aef924a3ee2cd6ef70233d81f3ca.webp)](/holyfuckingshit40000/images/685cd4189973195f9a2621f7a1a54595.webp)[Download FLAC](https://web.archive.org/web/20111010042317/http://lix.in/-8e18ce) // \\ [Download v0](https://web.archive.org/web/20111010042317/http://lix.in/-8b065a)  
+[![](/hfs40k/images/18e7aef924a3ee2cd6ef70233d81f3ca.webp)](/hfs40k/images/685cd4189973195f9a2621f7a1a54595.webp)[Download FLAC](https://web.archive.org/web/20111010042317/http://lix.in/-8e18ce) // \\ [Download v0](https://web.archive.org/web/20111010042317/http://lix.in/-8b065a)  
   
 Cosmogramma  
 
-[![](/holyfuckingshit40000/images/15c90d59b0a523115341b5a4f2f7c37c.webp)](/holyfuckingshit40000/images/f5ce0e9435a54cb23bf6a08e69ea54cb.webp)[Download FLAC](https://web.archive.org/web/20111010042317/http://lix.in/-8c922d) // \\ [Download v0](https://web.archive.org/web/20111010042317/http://lix.in/-912610)
+[![](/hfs40k/images/15c90d59b0a523115341b5a4f2f7c37c.webp)](/hfs40k/images/f5ce0e9435a54cb23bf6a08e69ea54cb.webp)[Download FLAC](https://web.archive.org/web/20111010042317/http://lix.in/-8c922d) // \\ [Download v0](https://web.archive.org/web/20111010042317/http://lix.in/-912610)

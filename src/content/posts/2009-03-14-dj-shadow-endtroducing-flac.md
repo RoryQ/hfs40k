@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Endtrodu
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-dj-shadow-endtroducing-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-14-dj-shadow-endtroducing-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-14-dj-shadow-endtroducing-flac.webp)](/hfs40k/images/covers/2009-03-14-dj-shadow-endtroducing-flac.webp)  
 SOMEBODY STOP THAT MAN, HE'S TRYING TO STEAL MUSIC!  
   
 [Download1](https://web.archive.org/web/20111010170510/http://www.mediafire.com/?ybtocw2kyh4) [Download2](https://web.archive.org/web/20111010170510/http://www.mediafire.com/?tbikowiizwm) [Download3](https://web.archive.org/web/20111010170510/http://www.mediafire.com/?jfkmmemzezm) [Download4](https://web.archive.org/web/20111010170510/http://www.mediafire.com/?j4mtekyxbtm)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Oren%20Ambarchi%20Grap
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)From the old post, which link is sadly dead:  
+[![](/hfs40k/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)](/hfs40k/images/covers/2010-07-21-oren-ambarchi-grapes-from-the-estate-flac.webp)From the old post, which link is sadly dead:  
   
 "One of my all-time favorite ambient albums. When I think of ambient drone this is the first album that comes to mind. Warm tones wrap you up and take you on a soothing jazzy aural experience. The use of space is superb.  
   

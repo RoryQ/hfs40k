@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Henry%20Cow%20Western%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-10-henry-cow-western-culture-remastered.webp)](/holyfuckingshit40000/images/covers/2009-09-10-henry-cow-western-culture-remastered.webp)  
+[![](/hfs40k/images/covers/2009-09-10-henry-cow-western-culture-remastered.webp)](/hfs40k/images/covers/2009-09-10-henry-cow-western-culture-remastered.webp)  
   
 karppy and nostalghia's request  
 

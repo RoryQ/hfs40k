@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Betty%20Davis%20They%2
 
 
 
-[![](/holyfuckingshit40000/images/0dbcc7e167bd3edb4cd8ee3cdc3bbcd1.webp)](https://web.archive.org/web/20111010053314/http://3.bp.blogspot.com/_nmjS6fd9kfU/TDvLR3syBRI/AAAAAAAAAJg/pOF9VMqCTn8/s1600/folder.jpg)Absolutely delicious funk. Betty Davis (former wife of Miles Davis) brings the raw, irresistable sex appeal, and her backing band brings the instrumental chops. If your butt isn't moving, it's super-glued to the chair.
+[![](/hfs40k/images/0dbcc7e167bd3edb4cd8ee3cdc3bbcd1.webp)](https://web.archive.org/web/20111010053314/http://3.bp.blogspot.com/_nmjS6fd9kfU/TDvLR3syBRI/AAAAAAAAAJg/pOF9VMqCTn8/s1600/folder.jpg)Absolutely delicious funk. Betty Davis (former wife of Miles Davis) brings the raw, irresistable sex appeal, and her backing band brings the instrumental chops. If your butt isn't moving, it's super-glued to the chair.
 
 [Enjoy](https://web.archive.org/web/20111010053314/http://lix.in/-8124dc)
 

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastia
 
 
 
-[![](/holyfuckingshit40000/images/007cd9bd6b2db03b3ddf93d23b6950bd.webp)](https://web.archive.org/web/20111008160001/http://4.bp.blogspot.com/_cLI19EXK2oU/SiGfaisuAgI/AAAAAAAAAHQ/tXk7zJLrzxc/s1600-h/IfYoureFeelingSinister.jpg)  
+[![](/hfs40k/images/007cd9bd6b2db03b3ddf93d23b6950bd.webp)](https://web.archive.org/web/20111008160001/http://4.bp.blogspot.com/_cLI19EXK2oU/SiGfaisuAgI/AAAAAAAAAHQ/tXk7zJLrzxc/s1600-h/IfYoureFeelingSinister.jpg)  
 If you liked the studio album, you'll love this. Some of them are superior to the studio recordings and not just because of the excellent atmosphere from the crowd.  
   
 [v0](https://web.archive.org/web/20111008160001/http://lix.in/-4737c2)

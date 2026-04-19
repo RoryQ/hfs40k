@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shed%20Soloaction%20EP
 
 
 
-[![](/holyfuckingshit40000/images/7604a3ed22e0c81562cd9829845ce19b.webp)](https://web.archive.org/web/20111010112613/http://2.bp.blogspot.com/_t6lWjgwMoxw/TMVWUVAJOFI/AAAAAAAAAcI/vJTocA9lFus/s1600/r16_1_or.jpg)  
+[![](/hfs40k/images/7604a3ed22e0c81562cd9829845ce19b.webp)](https://web.archive.org/web/20111010112613/http://2.bp.blogspot.com/_t6lWjgwMoxw/TMVWUVAJOFI/AAAAAAAAAcI/vJTocA9lFus/s1600/r16_1_or.jpg)  
   
   
   

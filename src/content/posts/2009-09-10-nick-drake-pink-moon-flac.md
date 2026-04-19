@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Nick%20Drake%20Pink%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-10-nick-drake-pink-moon-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-10-nick-drake-pink-moon-flac.webp)Little surprised no one upped this in FLAC yet.  
+[![](/hfs40k/images/covers/2009-09-10-nick-drake-pink-moon-flac.webp)](/hfs40k/images/covers/2009-09-10-nick-drake-pink-moon-flac.webp)Little surprised no one upped this in FLAC yet.  
   
 [Download](https://web.archive.org/web/20111010094207/http://lix.in/-5ad97c)

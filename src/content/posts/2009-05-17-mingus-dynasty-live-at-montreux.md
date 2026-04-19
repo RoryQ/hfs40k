@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mingus%20Dynasty%20Liv
 
 
 
-[![](/holyfuckingshit40000/images/d1136e954c4b46cdc10805089d3234f5.webp)](https://web.archive.org/web/20111008155632/http://1.bp.blogspot.com/_A31Dfz4S5yg/ShC7U0sXrQI/AAAAAAAAAEU/_xObKANBqfg/s1600-h/mingmingmingmingmigmgifmgimgi.jpg)  
+[![](/hfs40k/images/d1136e954c4b46cdc10805089d3234f5.webp)](https://web.archive.org/web/20111008155632/http://1.bp.blogspot.com/_A31Dfz4S5yg/ShC7U0sXrQI/AAAAAAAAAEU/_xObKANBqfg/s1600-h/mingmingmingmingmigmgifmgimgi.jpg)  
 [Mingust Dynasty.](https://web.archive.org/web/20111008155632/http://en.wikipedia.org/wiki/Mingus_Dynasty_%28band%29)  
 Well not much to say, I simply think it's some highly impressive jazzin here. Unfortunately, I'm no expert and it might be exactly the opposite. w/e, you might want to  
   

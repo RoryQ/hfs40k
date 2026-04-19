@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=One%20Kiss%20Can%20Lea
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-25-one-kiss-can-lead-to-another-girl-group-sounds-lost-and-found-v0-box-set.webp)](/holyfuckingshit40000/images/covers/2010-05-25-one-kiss-can-lead-to-another-girl-group-sounds-lost-and-found-v0-box-set.webp)  
+[![](/hfs40k/images/covers/2010-05-25-one-kiss-can-lead-to-another-girl-group-sounds-lost-and-found-v0-box-set.webp)](/hfs40k/images/covers/2010-05-25-one-kiss-can-lead-to-another-girl-group-sounds-lost-and-found-v0-box-set.webp)  
 I've been in seventh heaven listening to Rhino's latest boxed set, One Kiss Can Lead to Another: Girl Group Sounds, Lost and Found. I'm a long-time fan of the early-60s Girl Group/Brill Building/Wall of Sound genre (and of Rhino Records, of course), and this boxed set is perhaps the finest representation to-date of the Girl Group part of that equation.  
   
 First, the details. This is a 4-CD set, each CD with 30 songs each, for a total of 120 girl group classics. It comes with the kind of in-depth liner notes, in a separate booklet, that one expects from the folks at Rhino. And it's all wrapped up in what looks to be a 60s-era hatbox, very cute.   

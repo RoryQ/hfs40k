@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Bowery%20Electric%20Bo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-26-bowery-electric-bowery-electric-1995.webp)](/holyfuckingshit40000/images/covers/2009-07-26-bowery-electric-bowery-electric-1995.webp)It's a long way down.  
+[![](/hfs40k/images/covers/2009-07-26-bowery-electric-bowery-electric-1995.webp)](/hfs40k/images/covers/2009-07-26-bowery-electric-bowery-electric-1995.webp)It's a long way down.  
   
 [Download 320](https://web.archive.org/web/20111116011608/http://lix.in/-56ce9b)

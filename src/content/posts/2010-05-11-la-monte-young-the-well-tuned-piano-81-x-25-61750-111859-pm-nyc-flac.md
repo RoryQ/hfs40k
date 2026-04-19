@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=La%20Monte%20Young%20T
 
 
 
-[![](https://web.archive.org/web/20111010100649im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S-kYtXRfzoI/AAAAAAAAANk/rO-FfJ1hsvA/s400/R-868783-1194825220.jpeg)](/holyfuckingshit40000/images/03a2310a962484f9846ab6d4b52c366c.webp)  
+[![](https://web.archive.org/web/20111010100649im_/http://4.bp.blogspot.com/_t6lWjgwMoxw/S-kYtXRfzoI/AAAAAAAAANk/rO-FfJ1hsvA/s400/R-868783-1194825220.jpeg)](/hfs40k/images/03a2310a962484f9846ab6d4b52c366c.webp)  
   
   
   

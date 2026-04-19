@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Songs%3A%20Ohia%20Song
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-19-songs-ohia-songs-ohia.webp)](/holyfuckingshit40000/images/covers/2010-01-19-songs-ohia-songs-ohia.webp)  
+[![](/hfs40k/images/covers/2010-01-19-songs-ohia-songs-ohia.webp)](/hfs40k/images/covers/2010-01-19-songs-ohia-songs-ohia.webp)  
   
 Jason Molina at his best.  
   

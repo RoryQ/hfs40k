@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=16%20Horsepower%20Sack
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-18-16-horsepower-sackcloth-n-ashes.webp)](/holyfuckingshit40000/images/covers/2010-09-18-16-horsepower-sackcloth-n-ashes.webp)  
+[![](/hfs40k/images/covers/2010-09-18-16-horsepower-sackcloth-n-ashes.webp)](/hfs40k/images/covers/2010-09-18-16-horsepower-sackcloth-n-ashes.webp)  
 "Sackcloth 'n' Ashes" has the fevered, stream-of-consciousness lyricism of The Birthday Party, and the backwoods appeal of "outlaw" country music. You could film a sequel to "Deliverance," and this would be the soundtrack. It's a great album for college students who are burned out on Dave Matthews and Phish, but aren't quite ready for Swans.  
   
 There's little humor in the songs, but it's easier to get in the groove when the singer doesn't play it cute. David Eugene Edwards has a wailing urgency perfect for no-tech music. There's an Old Testament anguish in the singing and the guitar, so the image of hardship and minimal education holds up pretty well. Jean-Yves Tola and Edwards have some fun with the drums and banjo. The yearning, moonshine quality of Edwards' voice reminds me of Concrete Blonde's Johnette Napolitano. All the songs are fairly brief, but the mood is set early and just gets deeper. The black-and-white photos and turn-of-the-century typeface cement the vibe.  

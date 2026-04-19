@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Scientist%20Launches%2
 
 
 
-[![](/holyfuckingshit40000/images/49378e851fb0e5c334bc69d63ecbb764.webp)](https://web.archive.org/web/20110301172139/http://4.bp.blogspot.com/_t6lWjgwMoxw/TQNoyjXcAVI/AAAAAAAAAeQ/v65mJXNflPI/s1600/1291177098_6750aa5d-76ec-4030-b6c7-05041bc12d58.jpg)  
+[![](/hfs40k/images/49378e851fb0e5c334bc69d63ecbb764.webp)](https://web.archive.org/web/20110301172139/http://4.bp.blogspot.com/_t6lWjgwMoxw/TQNoyjXcAVI/AAAAAAAAAeQ/v65mJXNflPI/s1600/1291177098_6750aa5d-76ec-4030-b6c7-05041bc12d58.jpg)  
   
   
   

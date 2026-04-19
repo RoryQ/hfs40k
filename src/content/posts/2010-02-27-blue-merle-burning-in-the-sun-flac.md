@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Blue%20Merle%20Burning
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-27-blue-merle-burning-in-the-sun-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-27-blue-merle-burning-in-the-sun-flac.webp)Maleko's request  
+[![](/hfs40k/images/covers/2010-02-27-blue-merle-burning-in-the-sun-flac.webp)](/hfs40k/images/covers/2010-02-27-blue-merle-burning-in-the-sun-flac.webp)Maleko's request  
   
   
 [Download FLAC](https://web.archive.org/web/20111010155540/http://lix.in/-6ccfef)  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Philip%20Glass%20Glass
 
 
 
-[![](/holyfuckingshit40000/images/941ffa44280c4b12f26d8553bac74e7a.webp)](https://web.archive.org/web/20111010145841/http://1.bp.blogspot.com/-Zcez_cdJpC4/Ta6K_2r1FhI/AAAAAAAAAAk/oNq1LpiXZxE/s1600/Screen%2Bshot%2B2011-04-20%2Bat%2B12.27.12%2BAM.png)
+[![](/hfs40k/images/941ffa44280c4b12f26d8553bac74e7a.webp)](https://web.archive.org/web/20111010145841/http://1.bp.blogspot.com/-Zcez_cdJpC4/Ta6K_2r1FhI/AAAAAAAAAAk/oNq1LpiXZxE/s1600/Screen%2Bshot%2B2011-04-20%2Bat%2B12.27.12%2BAM.png)
 
 One of Glass’s more well-known releases. Recorded in 1981, it was intended to introduce his music to a more general audience than had been familiar with it in the past. Philip composed Glassworks during the same time as he was doing the soundtrack for the film Koyaanisqatsi; which is perhaps his most famous work. Even some movements from Glassworks were originally set to be used in the film.
 

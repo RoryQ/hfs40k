@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sviatoslav%20Richter%2
 
 
 
-[![](/holyfuckingshit40000/images/8ad7bde6e05859e88fc02dae76159d75.webp)](https://web.archive.org/web/20111010082005/http://4.bp.blogspot.com/_cLI19EXK2oU/S6rTVcKyJ7I/AAAAAAAAAcM/WwmoR8NfoWw/s1600/Sviatoslav%2BRichter%2BRichter1.jpg)  
+[![](/hfs40k/images/8ad7bde6e05859e88fc02dae76159d75.webp)](https://web.archive.org/web/20111010082005/http://4.bp.blogspot.com/_cLI19EXK2oU/S6rTVcKyJ7I/AAAAAAAAAcM/WwmoR8NfoWw/s1600/Sviatoslav%2BRichter%2BRichter1.jpg)  
 The performances on this disc are unique, simply spectacular. Has its place in any classical library, more so in any Richter collector's library.  
   
 The two concertos were recorded in 1961 in studio. The recording of the sonata is from a live concert in 1966. The two concertos, also with Kondrashin & LSO were recorded in 1961 live in London. It has since been released in the BBC Legends collection. However, I have listened to both and prefer this recording for its far superior sound quality.  

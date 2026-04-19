@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20%E2%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-15-john-coltrane-africa-brass-24-bit96khz.webp)](/holyfuckingshit40000/images/covers/2011-09-15-john-coltrane-africa-brass-24-bit96khz.webp)  
+[![](/hfs40k/images/covers/2011-09-15-john-coltrane-africa-brass-24-bit96khz.webp)](/hfs40k/images/covers/2011-09-15-john-coltrane-africa-brass-24-bit96khz.webp)  
 Includes all liner notes  
   
 [1](https://web.archive.org/web/20111223220450/http://lix.in/-9ecc39)  

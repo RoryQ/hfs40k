@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mississippi%20John%20H
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-12-mississippi-john-hurt-the-complete-1928-okeh-recordings-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-12-mississippi-john-hurt-the-complete-1928-okeh-recordings-flac.webp)The sound quality on these recordings is insane. The mastering is masterful. Hardly any tape hiss/noise remains. And that guitar playing? Listen, and hear where John Fahey, Nick Drake, and all of your favorite picksters got their style.
+[![](/hfs40k/images/covers/2010-10-12-mississippi-john-hurt-the-complete-1928-okeh-recordings-flac.webp)](/hfs40k/images/covers/2010-10-12-mississippi-john-hurt-the-complete-1928-okeh-recordings-flac.webp)The sound quality on these recordings is insane. The mastering is masterful. Hardly any tape hiss/noise remains. And that guitar playing? Listen, and hear where John Fahey, Nick Drake, and all of your favorite picksters got their style.
 
 "Avalon Blues
 

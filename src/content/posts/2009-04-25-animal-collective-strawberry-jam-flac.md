@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-25-animal-collective-strawberry-jam-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-25-animal-collective-strawberry-jam-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-25-animal-collective-strawberry-jam-flac.webp)](/hfs40k/images/covers/2009-04-25-animal-collective-strawberry-jam-flac.webp)  
 ”I want to get so stoned and take a walk out in the light drizzle / At the end of the day when there's no one watching"  
   
 [Download (FLAC)](https://web.archive.org/web/20111010130943/http://www.megaupload.com/?d=8WH6MKK0)  

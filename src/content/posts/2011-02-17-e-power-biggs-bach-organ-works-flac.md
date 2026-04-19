@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=E.%20Power%20Biggs%20B
 
 
 
-[![](/holyfuckingshit40000/images/69a424c4db022735301e6e6e22654ca6.webp)](/holyfuckingshit40000/images/103f49fdf50a80402d3af50493176716.webp)  
+[![](/hfs40k/images/69a424c4db022735301e6e6e22654ca6.webp)](/hfs40k/images/103f49fdf50a80402d3af50493176716.webp)  
 On March 2, 1972, a spacecraft called Pioneer 10 was launched by the National Aeronautics and Space Administration. On the grounds that the craft might at some point, at some time, come under the notice of intelligent beings on another world, a plaque was attached to the craft, etched with some figures and whatnot. The figures were designed to "represent the type of creature that created Pioneer." It struck me at the time that if we wanted to tell others not only what type of creature we are, but what we are supremely capable of, that we should include a recording of Bach's Toccata and Fugue in D minor, and, more specifically, this recording of that marvelous expression of the human mind and spirit.  
   
 E. Power Biggs was known not only for his mastery of the pipe organ, but also for his careful matching of a particular composition to an organ best suited to its performance. We can hope that Sony will at some point release a CD of Biggs' performance of the Toccata from Widor's fifth organ symphony on the organ of the Episcopal Church of St. George in New York City with its 32 -foot ranks. The thundering pedal notes in the concluding part of the work have never had better justice done to them.  

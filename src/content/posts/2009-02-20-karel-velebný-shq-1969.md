@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Karel%20Velebn%C3%BD%2
 
 
 
-[![](/holyfuckingshit40000/images/73629b4cc15783c2565740de9d0a363e.webp)](/holyfuckingshit40000/images/73629b4cc15783c2565740de9d0a363e.webp)  
+[![](/hfs40k/images/73629b4cc15783c2565740de9d0a363e.webp)](/hfs40k/images/73629b4cc15783c2565740de9d0a363e.webp)  
 Genre: Avant-Garde Jazz  
 Country: Czech  
   

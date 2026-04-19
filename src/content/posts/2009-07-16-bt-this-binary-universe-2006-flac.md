@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=BT%20This%20Binary%20U
 
 
 
-[![](/holyfuckingshit40000/images/93ffc19df002d199cdf6597cff0d3f75.webp)](https://web.archive.org/web/20111010140258/http://2.bp.blogspot.com/_z8rLjrFVzbo/Se_mhCdsmNI/AAAAAAAAAGE/J9T1k9yD8j0/s1600-h/r5gczgpmq2z13x7yg4im.jpg)Reuploaded  
+[![](/hfs40k/images/93ffc19df002d199cdf6597cff0d3f75.webp)](https://web.archive.org/web/20111010140258/http://2.bp.blogspot.com/_z8rLjrFVzbo/Se_mhCdsmNI/AAAAAAAAAGE/J9T1k9yD8j0/s1600-h/r5gczgpmq2z13x7yg4im.jpg)Reuploaded  
   
 I see both how people can hate or love this album.  
   

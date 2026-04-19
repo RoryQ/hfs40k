@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Eternal
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-14-don-cherry-eternal-rhythm-1969.webp)](/holyfuckingshit40000/images/covers/2009-08-14-don-cherry-eternal-rhythm-1969.webp)Don Cherry's only fame up to this point was his work as a trumpeter for Ornette Coleman, particularly on his famous 1959 LP The Shape of Jazz to Come. But here, Cherry takes the reigns and makes one of the strangest, most beautiful live jazz experiments ever caught on tape. Eternal Rhythm is a two-part fusion of free jazz, gamelan, and several styles of European music. Definitely worth a listen even for those not fond of the free jazz scene. One of my personal favorites.  
+[![](/hfs40k/images/covers/2009-08-14-don-cherry-eternal-rhythm-1969.webp)](/hfs40k/images/covers/2009-08-14-don-cherry-eternal-rhythm-1969.webp)Don Cherry's only fame up to this point was his work as a trumpeter for Ornette Coleman, particularly on his famous 1959 LP The Shape of Jazz to Come. But here, Cherry takes the reigns and makes one of the strangest, most beautiful live jazz experiments ever caught on tape. Eternal Rhythm is a two-part fusion of free jazz, gamelan, and several styles of European music. Definitely worth a listen even for those not fond of the free jazz scene. One of my personal favorites.  
   
 [Download 320](https://web.archive.org/web/20111010145342/http://lix.in/-517982)

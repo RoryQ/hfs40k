@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Ceux%
 
 
 
-[![](/holyfuckingshit40000/images/e8f36a8d23bfc627d6ff0c1725c5853b.webp)](https://web.archive.org/web/20111010063208/http://3.bp.blogspot.com/_cLI19EXK2oU/TGRU9CZELGI/AAAAAAAAAx8/mLqUUAvv72c/s1600/295093598_a05dc6325f.jpg)  
+[![](/hfs40k/images/e8f36a8d23bfc627d6ff0c1725c5853b.webp)](https://web.archive.org/web/20111010063208/http://3.bp.blogspot.com/_cLI19EXK2oU/TGRU9CZELGI/AAAAAAAAAx8/mLqUUAvv72c/s1600/295093598_a05dc6325f.jpg)  
 This is the third and best Univers Zero album, and on this one they adopt a grander, more symphonic sound, without losing their high originality.
 
 The music is quite dark (though less so than on the previous album "Heresie"), and its quite dissonant and very strange and gothic. One of the tracks on this album is inspired by a H.P. Lovecraft story, and its Lovecraft's mixture of the gothic and the strange that one comes to think of, when hearing this album. Also there is a Belgian folkmusic tone here, as well as echoes of medieval music. The music also has a strong melancholy beauty amidst the gothic strangeness.

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bob%20Dylan%20Blonde%2
 
 
 
-*[![](/holyfuckingshit40000/images/covers/2011-10-27-bob-dylan-blonde-on-blonde-mastersound-gold-flac.webp)](/holyfuckingshit40000/images/covers/2011-10-27-bob-dylan-blonde-on-blonde-mastersound-gold-flac.webp)*
+*[![](/hfs40k/images/covers/2011-10-27-bob-dylan-blonde-on-blonde-mastersound-gold-flac.webp)](/hfs40k/images/covers/2011-10-27-bob-dylan-blonde-on-blonde-mastersound-gold-flac.webp)*
 
 *That thin, that wild mercury sound. It's metallic and bright gold.*
 

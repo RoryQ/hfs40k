@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melvins%20%26%20Lustmo
 
 
 
-[![](/holyfuckingshit40000/images/a8516b94a344bd02c4d16f73657e4dbd.webp)](https://web.archive.org/web/20111010094325/http://1.bp.blogspot.com/_z8rLjrFVzbo/SqfGgFoPktI/AAAAAAAAAJM/noJl9T2_VS8/s1600-h/melvinslustmordpigsofthjq3.jpg)  
+[![](/hfs40k/images/a8516b94a344bd02c4d16f73657e4dbd.webp)](https://web.archive.org/web/20111010094325/http://1.bp.blogspot.com/_z8rLjrFVzbo/SqfGgFoPktI/AAAAAAAAAJM/noJl9T2_VS8/s1600-h/melvinslustmordpigsofthjq3.jpg)  
 Like nothing I've ever heard before, Melvins at their best play while Lustmord fucks their music in the best way possible. Dark sludgebient metal. And don't feel weird if you think this sounds like Tool sometimes, Adam Jones is in this album too (in fact I could upload Tool in lossless in the following weeks).  
   
 [Download @ 320](https://web.archive.org/web/20111010094325/http://lix.in/-578c7a)

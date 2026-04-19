@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melt%20Banana%20-%20Ch
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-28-melt-banana-charlie-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-28-melt-banana-charlie-flac.webp)  
+[![](/hfs40k/images/covers/2009-09-28-melt-banana-charlie-flac.webp)](/hfs40k/images/covers/2009-09-28-melt-banana-charlie-flac.webp)  
   
 MELT  
   

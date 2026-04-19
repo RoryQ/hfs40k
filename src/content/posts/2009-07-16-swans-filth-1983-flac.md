@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Filth
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-16-swans-filth-1983-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-16-swans-filth-1983-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-16-swans-filth-1983-flac.webp)](/hfs40k/images/covers/2009-07-16-swans-filth-1983-flac.webp)  
 My favorite Godflesh album  
   
 [FLAC](https://web.archive.org/web/20111010142924/http://lix.in/-573bac)

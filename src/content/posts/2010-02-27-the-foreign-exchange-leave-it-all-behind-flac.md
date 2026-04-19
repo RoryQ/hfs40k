@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Foreign%20Exchan
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-27-the-foreign-exchange-leave-it-all-behind-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-27-the-foreign-exchange-leave-it-all-behind-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-27-the-foreign-exchange-leave-it-all-behind-flac.webp)](/hfs40k/images/covers/2010-02-27-the-foreign-exchange-leave-it-all-behind-flac.webp)  
 Why limit yourself? That's the lesson of The Foreign Exchange.   
   
 Yes, Phonte is still the brilliant MC we've come to know and love from Little Brother. He's still half of the very talented retro-duo known as Zo! and Tigallo. And if you've not given ears to his occasional Gordon Gartrell Radio Podcasts, you're missing out on commentary that is at once insightful and hilarious, all set to the found beats of DJ Brainchild. This should be enough for any one man, but Phonte has talent to spare. Which brings us to The Foreign Exchange.  

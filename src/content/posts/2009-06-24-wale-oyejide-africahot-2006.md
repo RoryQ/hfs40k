@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wale%20Oyejide%20Afric
 
 
 
-[![](/holyfuckingshit40000/images/4442bfa6acc53278565ee3b7f8ded1fb.webp)](https://web.archive.org/web/20111010085146/http://4.bp.blogspot.com/_U_-AMxSHIOo/SkMJId95-EI/AAAAAAAAABs/aIJ3_gYqoI4/s1600-h/Wale-Oyejide---Africahot---The-Afro.png)  
+[![](/hfs40k/images/4442bfa6acc53278565ee3b7f8ded1fb.webp)](https://web.archive.org/web/20111010085146/http://4.bp.blogspot.com/_U_-AMxSHIOo/SkMJId95-EI/AAAAAAAAABs/aIJ3_gYqoI4/s1600-h/Wale-Oyejide---Africahot---The-Afro.png)  
 Hip-Hop + Afrobeat.  
   
 It's okay I came in my pants too.  

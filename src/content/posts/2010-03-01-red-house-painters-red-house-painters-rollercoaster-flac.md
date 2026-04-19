@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters
 
 
 
-[![](/holyfuckingshit40000/images/4bcb1f08a68d8bdfc6b4c5e4620b9df1.webp)](https://web.archive.org/web/20111010081138/http://4.bp.blogspot.com/_t6lWjgwMoxw/S4t8TudsbvI/AAAAAAAAAAU/IUYj66PUN1s/s1600-h/RHP-Rollercoaster.jpg)  
+[![](/hfs40k/images/4bcb1f08a68d8bdfc6b4c5e4620b9df1.webp)](https://web.archive.org/web/20111010081138/http://4.bp.blogspot.com/_t6lWjgwMoxw/S4t8TudsbvI/AAAAAAAAAAU/IUYj66PUN1s/s1600-h/RHP-Rollercoaster.jpg)  
   
   
   
@@ -41,7 +41,7 @@ youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters
   
   
   
-[Review](/holyfuckingshit40000/images/c4bc2ae5ec196ca9d6928d4252ba4054.webp)  
+[Review](/hfs40k/images/c4bc2ae5ec196ca9d6928d4252ba4054.webp)  
   
 Finally!! for fck sake.....  
   

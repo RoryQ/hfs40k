@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bad%20Brains%20Rock%20
 
 
 
-[![](/holyfuckingshit40000/images/1f1337e9008f086430de56e08105ed3f.webp)](https://web.archive.org/web/20111010112521/http://3.bp.blogspot.com/_mTQyK3r0bG0/TKkhnNaXcyI/AAAAAAAAALc/eKYdSae38Ls/s1600/Bad+Brains+-+Rock+For+Light.jpg)  
+[![](/hfs40k/images/1f1337e9008f086430de56e08105ed3f.webp)](https://web.archive.org/web/20111010112521/http://3.bp.blogspot.com/_mTQyK3r0bG0/TKkhnNaXcyI/AAAAAAAAALc/eKYdSae38Ls/s1600/Bad+Brains+-+Rock+For+Light.jpg)  
 This is the original PVC release with the original track order and mastered at the correct speed. The most commercially available Caroline version is totally fucked up: mastered at a wrong speed making not only all the slower reggae songs a tad faster, but the whole album's pitch is shifted, let alone a completely different and inferior track order. Anyway, the PVC version is how this album is supposed to be heard.  
   
 Review from AMG:  

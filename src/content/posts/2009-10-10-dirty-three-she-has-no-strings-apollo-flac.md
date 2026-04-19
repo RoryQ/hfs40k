@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20She%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-10-dirty-three-she-has-no-strings-apollo-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-10-dirty-three-she-has-no-strings-apollo-flac.webp)Post-rockin stuff. Thanks to [Yunckzilla](https://web.archive.org/web/20111010033249/http://www.last.fm/user/Yunckzilla) for the rip.  
+[![](/hfs40k/images/covers/2009-10-10-dirty-three-she-has-no-strings-apollo-flac.webp)](/hfs40k/images/covers/2009-10-10-dirty-three-she-has-no-strings-apollo-flac.webp)Post-rockin stuff. Thanks to [Yunckzilla](https://web.archive.org/web/20111010033249/http://www.last.fm/user/Yunckzilla) for the rip.  
   
 [Download FLAC](https://web.archive.org/web/20111010033249/http://lix.in/-58652f)

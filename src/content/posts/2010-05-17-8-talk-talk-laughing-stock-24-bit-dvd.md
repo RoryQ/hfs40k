@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%238%20Talk%20Talk%20L
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-17-8-talk-talk-laughing-stock-24-bit-dvd.webp)](/holyfuckingshit40000/images/covers/2010-05-17-8-talk-talk-laughing-stock-24-bit-dvd.webp)  
+[![](/hfs40k/images/covers/2010-05-17-8-talk-talk-laughing-stock-24-bit-dvd.webp)](/hfs40k/images/covers/2010-05-17-8-talk-talk-laughing-stock-24-bit-dvd.webp)  
   
 Add the cue file called "ascencion", instead of the flac file with the same name, in order to get the correct track listing.  
   

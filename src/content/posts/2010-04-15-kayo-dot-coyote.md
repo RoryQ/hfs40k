@@ -10,6 +10,8 @@ apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20Coyote
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Coyote
 ---
 
+[![](/hfs40k/images/covers/kayo-dot-coyote.webp)](/hfs40k/images/covers/kayo-dot-coyote.webp)
+
 
 
 

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Taint%20The%20Ruin%20o
 
 
 
-[![](/holyfuckingshit40000/images/0cad12c8c50bfdfb78dbd15c3afb0934.webp)](https://web.archive.org/web/20111010044830/http://4.bp.blogspot.com/_5cVyPU93ihM/S872rzRwiSI/AAAAAAAAAPY/GfHNVlGvMw4/s1600/taint-roma.jpg)  
+[![](/hfs40k/images/0cad12c8c50bfdfb78dbd15c3afb0934.webp)](https://web.archive.org/web/20111010044830/http://4.bp.blogspot.com/_5cVyPU93ihM/S872rzRwiSI/AAAAAAAAAPY/GfHNVlGvMw4/s1600/taint-roma.jpg)  
 "An extremely powerful and well-written collection of songs from this UK band that had been ploughing the underground circuit for many years before releasing this debut full-length. Mixing in sludge, stoner, post-hardcore and prog into an incredibly potent and accomplished mix of catchy yet full of depth songs. And oh the riffs, the magnificent sweet riffs!"  
 Fans of Kylesa, Baroness and Mastodon would do well to check 'em out.  
   

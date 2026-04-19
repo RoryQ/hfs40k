@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Datashock%20%26%20Shiv
 
 
 
-[![](/holyfuckingshit40000/images/156d8e4d852e9770b5d18d62373a9847.webp)](/holyfuckingshit40000/images/156d8e4d852e9770b5d18d62373a9847.webp)  
+[![](/hfs40k/images/156d8e4d852e9770b5d18d62373a9847.webp)](/hfs40k/images/156d8e4d852e9770b5d18d62373a9847.webp)  
   
   
 Genre: Experimental Drone  

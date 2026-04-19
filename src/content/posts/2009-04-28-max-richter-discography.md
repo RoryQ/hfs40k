@@ -18,21 +18,21 @@ youtube_url: https://www.youtube.com/results?search_query=Max%20Richter%20Discog
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-28-max-richter-discography.webp)](/holyfuckingshit40000/images/covers/2009-04-28-max-richter-discography.webp)Memoryhouse (2002)  
+[![](/hfs40k/images/covers/2009-04-28-max-richter-discography.webp)](/hfs40k/images/covers/2009-04-28-max-richter-discography.webp)Memoryhouse (2002)  
 [Download](https://web.archive.org/web/20111010131352/http://www.megaupload.com/?d=3IVD0UVO) (320)  
   
   
-[![](/holyfuckingshit40000/images/c5af7d81d8c383d98a86270fc6850740.webp)](/holyfuckingshit40000/images/db36bfd7d0d0dc5f1e29a43de418ca55.webp)The Blue Notebooks (2004)  
+[![](/hfs40k/images/c5af7d81d8c383d98a86270fc6850740.webp)](/hfs40k/images/db36bfd7d0d0dc5f1e29a43de418ca55.webp)The Blue Notebooks (2004)  
 [Download](https://web.archive.org/web/20111010131352/http://www.megaupload.com/?d=H2Q1GVAF) (320)  
   
 
-[![](/holyfuckingshit40000/images/bd2f5f6511ad5062905c01481a5ad869.webp)](https://web.archive.org/web/20111010131352/http://2.bp.blogspot.com/_X0HDv9LMCK8/Sffue_rFh6I/AAAAAAAAABc/ReoRpe0L7-Q/s1600-h/641765.jpg)
+[![](/hfs40k/images/bd2f5f6511ad5062905c01481a5ad869.webp)](https://web.archive.org/web/20111010131352/http://2.bp.blogspot.com/_X0HDv9LMCK8/Sffue_rFh6I/AAAAAAAAABc/ReoRpe0L7-Q/s1600-h/641765.jpg)
 
 Songs From Before (2006)  
 [Download](https://web.archive.org/web/20111010131352/http://www.megaupload.com/?d=TVJ4TS80) (320)  
   
 
-[![](/holyfuckingshit40000/images/d92f68a13d3b61a03c47d0ac71fee335.webp)](https://web.archive.org/web/20111010131352/http://1.bp.blogspot.com/_X0HDv9LMCK8/SffuceBqenI/AAAAAAAAABU/rJAHezcZld4/s1600-h/1582524.jpg)
+[![](/hfs40k/images/d92f68a13d3b61a03c47d0ac71fee335.webp)](https://web.archive.org/web/20111010131352/http://1.bp.blogspot.com/_X0HDv9LMCK8/SffuceBqenI/AAAAAAAAABU/rJAHezcZld4/s1600-h/1582524.jpg)
 
 24 Postcards in Full Colour (2008)  
 [Download](https://web.archive.org/web/20111010131352/http://www.megaupload.com/?d=DNA9FP8Q) (320)  

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20Ap
 
 
 
-[![](/holyfuckingshit40000/images/4b35386b35216c13185b4d81665dca9f.webp)](https://web.archive.org/web/20111010094112/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sq_KKcTmzQI/AAAAAAAAAHM/5jBx9Elq44g/s1600-h/april2.jpg)Serves for a decent warm-up before letting yourself to be blown away by Program Music I, then listen to 5 Dec. to not feel guilty of listening to ethereal music like Stella Melos.  
+[![](/hfs40k/images/4b35386b35216c13185b4d81665dca9f.webp)](https://web.archive.org/web/20111010094112/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sq_KKcTmzQI/AAAAAAAAAHM/5jBx9Elq44g/s1600-h/april2.jpg)Serves for a decent warm-up before letting yourself to be blown away by Program Music I, then listen to 5 Dec. to not feel guilty of listening to ethereal music like Stella Melos.  
   
 [FLAC](https://web.archive.org/web/20111010094112/http://lix.in/-5b2241) //// [V0](https://web.archive.org/web/20111010094112/http://www.mediafire.com/?5w3vkkmz4vz)

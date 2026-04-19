@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%235%20Talking%20Heads
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-06-5-talking-heads-remain-in-light-24bit-96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2010-05-06-5-talking-heads-remain-in-light-24bit-96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2010-05-06-5-talking-heads-remain-in-light-24bit-96khz-vinyl.webp)](/hfs40k/images/covers/2010-05-06-5-talking-heads-remain-in-light-24bit-96khz-vinyl.webp)  
   
 Remain in Light is perhaps the Talking Heads' best album. Technically it is flawless, and as far as music goes, Remain in Light unifies electronica, African rhythms, guitar riffs and Bryan Eno's signature minimalism to hypnotic effect. The music is captivating and melodic - great dance music, but also great careful-listening music - and David Byrne's halting, discordant voice and thoughtful lyrics transcend each song to a more intellectual and compelling level. Ultimately, Remain in Light is a piece of art as well as a piece of music - Byrne and Eno have carefully layered music, vocals and thoughtful lyrics to create perhaps one of the best albums of the eighties.
 

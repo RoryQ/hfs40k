@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shub%20Niggurath%20-%2
 
 
 
-[![](/holyfuckingshit40000/images/87df6c589068a83a377b37749e8e7381.webp)](/holyfuckingshit40000/images/87df6c589068a83a377b37749e8e7381.webp)  
+[![](/hfs40k/images/87df6c589068a83a377b37749e8e7381.webp)](/hfs40k/images/87df6c589068a83a377b37749e8e7381.webp)  
 Evil Lovecraftian avant-prog.  
   
 [FLAC](https://web.archive.org/web/20111008142658/http://lix.in/-4edb21)  

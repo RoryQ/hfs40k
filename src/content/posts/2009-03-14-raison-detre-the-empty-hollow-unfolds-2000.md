@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Raison%20d%27etre%20Th
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-raison-detre-the-empty-hollow-unfolds-2000.webp)](/holyfuckingshit40000/images/covers/2009-03-14-raison-detre-the-empty-hollow-unfolds-2000.webp)  
+[![](/hfs40k/images/covers/2009-03-14-raison-detre-the-empty-hollow-unfolds-2000.webp)](/hfs40k/images/covers/2009-03-14-raison-detre-the-empty-hollow-unfolds-2000.webp)  
 More GRIMbient. Recommended for fans of Lustmord.  
  [Download](https://web.archive.org/web/20111010164646/http://www.mediafire.com/?uzgwz4zjixo)

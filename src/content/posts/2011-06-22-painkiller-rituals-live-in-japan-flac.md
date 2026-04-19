@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Painkiller%20Rituals%2
 
 
 
-![http://1.bp.blogspot.com/_ErfTEq6__-g/S__zyeGONDI/AAAAAAAAAwY/2bqlfO-Otbs/s1600/Painkiller+-+Rituals_Live+in+japan.jpg](/holyfuckingshit40000/images/347333675daf4dce934b846363b1a7b4.webp)  
+![http://1.bp.blogspot.com/_ErfTEq6__-g/S__zyeGONDI/AAAAAAAAAwY/2bqlfO-Otbs/s1600/Painkiller+-+Rituals_Live+in+japan.jpg](/hfs40k/images/347333675daf4dce934b846363b1a7b4.webp)  
   
 Recorded in 1991, nasty improvisations from the usual suspects (Laswell Zorn Harris) and Haino Keiji joins the madness on five tracks adding vocals and guitar.  
   

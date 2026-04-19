@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Week%20Day%20%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-21-boris-week-day-2-akuma-no-uta-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-21-boris-week-day-2-akuma-no-uta-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-21-boris-week-day-2-akuma-no-uta-flac.webp)](/hfs40k/images/covers/2010-06-21-boris-week-day-2-akuma-no-uta-flac.webp)  
   
 Boris is a brutal delicacy, that rare concoction that does all things for all people. If everyone knew it and consumed it in extremis, though, it would stop being a delicacy, right? Oh well, everyone else's loss. \_Akuma No Uta\_ is a drop-dead masterpiece, from the punishing drone of the opener to the gong-inititiated reprise of the intro on the last song, the title track (translated as "The Evil Song.") They can do it all and just about better than all the competition:   
 --Sludge? I don't hear anyone who can blend a blaring punk melody with sludge in such a truly sickly-sweet manner as Boris does on their upbeat tracks;   

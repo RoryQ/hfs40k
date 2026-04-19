@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Atomsmasher%20Atomsmas
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-10-atomsmasher-atomsmasher-2001-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-10-atomsmasher-atomsmasher-2001-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-10-atomsmasher-atomsmasher-2001-flac.webp)](/hfs40k/images/covers/2009-07-10-atomsmasher-atomsmasher-2001-flac.webp)  
 
 Hey Infidel?/Castro! where have you been, long time no see!
 

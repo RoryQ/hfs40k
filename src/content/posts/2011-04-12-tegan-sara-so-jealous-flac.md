@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tegan%20%26%20Sara%20S
 
 
 
-[![](/holyfuckingshit40000/images/b965b7f6fc61df4947d20949ba37920c.webp)](/holyfuckingshit40000/images/815d772825c15c782cdc886c76b76842.webp)  
+[![](/hfs40k/images/b965b7f6fc61df4947d20949ba37920c.webp)](/hfs40k/images/815d772825c15c782cdc886c76b76842.webp)  
   
 [OctaneHugo's request](https://web.archive.org/web/20111010145714/http://lix.in/-98c8d2)  
   

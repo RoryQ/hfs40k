@@ -15,7 +15,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/a57c71bdf3cc683c7a2fe5bedfb097e9.webp)](https://web.archive.org/web/20120123031144/http://3.bp.blogspot.com/-PBQQ8ZhPJfg/TxmPMJkP_pI/AAAAAAAABOI/9dyBGojoZv0/s1600/rip_tombstone.jpg)  
+[![](/hfs40k/images/a57c71bdf3cc683c7a2fe5bedfb097e9.webp)](https://web.archive.org/web/20120123031144/http://3.bp.blogspot.com/-PBQQ8ZhPJfg/TxmPMJkP_pI/AAAAAAAABOI/9dyBGojoZv0/s1600/rip_tombstone.jpg)  
   
 ;\_;  
   

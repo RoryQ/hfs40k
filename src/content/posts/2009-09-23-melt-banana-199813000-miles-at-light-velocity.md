@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melt%20Banana%20-%2019
 
 
 
-[![](/holyfuckingshit40000/images/8f550488fea3e39da1daf9a93c49893d.webp)](/holyfuckingshit40000/images/91938062c08bdca8efdabe4240eb0f21.webp)  
+[![](/hfs40k/images/8f550488fea3e39da1daf9a93c49893d.webp)](/hfs40k/images/91938062c08bdca8efdabe4240eb0f21.webp)  
 You know when you put on 2 different albums at the same time through 2 separate speakers and its unlistenable? That's what Melt-Banana sounds like.  
   
 [Download v0](https://web.archive.org/web/20111010094911/http://lix.in/-5c1c37)  

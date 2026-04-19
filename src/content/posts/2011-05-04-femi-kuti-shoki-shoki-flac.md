@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Femi%20Kuti%20Shoki%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-04-femi-kuti-shoki-shoki-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-04-femi-kuti-shoki-shoki-flac.webp)Standing in the shadow of a giant? No. Not for Femi.
+[![](/hfs40k/images/covers/2011-05-04-femi-kuti-shoki-shoki-flac.webp)](/hfs40k/images/covers/2011-05-04-femi-kuti-shoki-shoki-flac.webp)Standing in the shadow of a giant? No. Not for Femi.
 
 *Dancing* in the shadow of a giant.
 

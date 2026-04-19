@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cocteau%20Twins%20Heav
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-07-cocteau-twins-heaven-or-las-vegas-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-07-cocteau-twins-heaven-or-las-vegas-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-07-cocteau-twins-heaven-or-las-vegas-flac.webp)](/hfs40k/images/covers/2010-06-07-cocteau-twins-heaven-or-las-vegas-flac.webp)  
 you-x's request  
   
 Heaven Or Las Vegas, the beautiful title of the Cocteau's sixth album is a departure from their earlier work. The sound is much brighter and more accessible, but that isn't a bad thing, indeed! Heaven Or Las Vegas is one of the best releases from the Cocteau Twins, and also one of their best selling albums. Elizabeth Fraser's voice has matured somewhat and she sings more in her lower register. She still has the most distinct voice I have ever heard, in combination with the trademark murmuring lyrics. They are much better listenable then on the previous albums, and the Cocteau's would go on with Four-Calendar Café, were the lyrics are almost easy to decipher. Ok, back to the album, here are the songs:

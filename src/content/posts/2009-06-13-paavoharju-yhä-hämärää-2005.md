@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Paavoharju%20Yh%C3%A4%
 
 
 
-[![](/holyfuckingshit40000/images/08402d3d33fe64649fc7c1d096d98d30.webp)](https://web.archive.org/web/20111010085107/http://4.bp.blogspot.com/_cLI19EXK2oU/SjPucUJh9PI/AAAAAAAAAJ4/PhvwIVE6rDM/s1600-h/paavoharju_yhahamaraa_cd-record.jpg)  
+[![](/hfs40k/images/08402d3d33fe64649fc7c1d096d98d30.webp)](https://web.archive.org/web/20111010085107/http://4.bp.blogspot.com/_cLI19EXK2oU/SjPucUJh9PI/AAAAAAAAAJ4/PhvwIVE6rDM/s1600-h/paavoharju_yhahamaraa_cd-record.jpg)  
 Top tier psychedelic folk, even though I can't understand a single word they're saying. Maybe karppaky can do translations for us.  
   
 [Download](https://web.archive.org/web/20111010085107/http://lix.in/-4d52b4)

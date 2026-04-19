@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonny%20Sharrock%20Ask
 
 
 
-[![](/holyfuckingshit40000/images/ad74c678601253e0175df9e15accd880.webp)](/holyfuckingshit40000/images/ad74c678601253e0175df9e15accd880.webp)  
+[![](/hfs40k/images/ad74c678601253e0175df9e15accd880.webp)](/hfs40k/images/ad74c678601253e0175df9e15accd880.webp)  
 Genre: Avant-Garde Jazz  
 Country: U.S.  
   

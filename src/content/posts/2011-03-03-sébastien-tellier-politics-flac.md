@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=S%C3%A9bastien%20Telli
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-03-sébastien-tellier-politics-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-03-sébastien-tellier-politics-flac.webp)  
+[![](/hfs40k/images/covers/2011-03-03-sébastien-tellier-politics-flac.webp)](/hfs40k/images/covers/2011-03-03-sébastien-tellier-politics-flac.webp)  
 [Ignorant Bliss With Dave And Adam And Leah! & RevengefulLobster's request](https://web.archive.org/web/20111010111421/http://lix.in/-9aa187)  
   
 Password: haveanicelife

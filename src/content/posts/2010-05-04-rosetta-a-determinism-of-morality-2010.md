@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rosetta%20A%20Determin
 
 
 
-[![](/holyfuckingshit40000/images/418bed3092152fb15804213bbff37408.webp)](https://web.archive.org/web/20111010100102/http://1.bp.blogspot.com/_cLI19EXK2oU/S-DUKzgPjEI/AAAAAAAAAi8/aFNI_eQ-Ibk/s1600/01AwcamwAIfgsAjRMBAAAAQMH5bYk+.jpg)  
+[![](/hfs40k/images/418bed3092152fb15804213bbff37408.webp)](https://web.archive.org/web/20111010100102/http://1.bp.blogspot.com/_cLI19EXK2oU/S-DUKzgPjEI/AAAAAAAAAi8/aFNI_eQ-Ibk/s1600/01AwcamwAIfgsAjRMBAAAAQMH5bYk+.jpg)  
   
 REJOICE!  
   

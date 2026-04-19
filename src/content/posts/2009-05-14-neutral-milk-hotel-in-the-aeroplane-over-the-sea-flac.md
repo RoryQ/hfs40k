@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neutral%20Milk%20Hotel
 
 
 
-[![](/holyfuckingshit40000/images/123d359c052116504ae3e73bad4eed38.webp)](/holyfuckingshit40000/images/123d359c052116504ae3e73bad4eed38.webp)  
+[![](/hfs40k/images/123d359c052116504ae3e73bad4eed38.webp)](/hfs40k/images/123d359c052116504ae3e73bad4eed38.webp)  
 "In the Aeroplane Over the Sea is a personal album but not in the way you expect. It's not biography. It's a record of images, associations, and threads; no single word describes it so well as the beautiful and overused "kaleidoscope." It has the cracked logic of a dream, beginning with "King of Carrot Flowers Part 1". The easiest song on the record to like on first listen, it quietly introduces the listener to the to the album's world, Mangum singing in a muted voice closer to where he left off with the more restrained On Avery Island (through most of Aeroplane he sounds like he's running out of time and struggling to get everything said). The first four words are so important: "When you were young..." Like every perceptive artist trafficking in memory, Mangum knows dark surrealism to be the language of childhood. At a certain age the leap from kitchen utensils jammed into dad's shoulder to feet encircled by holy rattlesnakes is nothing. A cock of the head; a squint, maybe."  
   
 10.0 from Pitchfork Media. The second best album ever made after OK Computer.  

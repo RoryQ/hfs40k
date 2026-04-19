@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tomasz%20Sta%C5%84ko%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-11-tomasz-stańko-music-for-k-flacv0.webp)](/holyfuckingshit40000/images/covers/2010-06-11-tomasz-stańko-music-for-k-flacv0.webp)Hey Krzysztof Komeda...I love your album Astigmatic and all...and it's certainly one of the greatest polish jazz records of all time...but I love the album dedicated to your sad and sudden death more.  
+[![](/hfs40k/images/covers/2010-06-11-tomasz-stańko-music-for-k-flacv0.webp)](/hfs40k/images/covers/2010-06-11-tomasz-stańko-music-for-k-flacv0.webp)Hey Krzysztof Komeda...I love your album Astigmatic and all...and it's certainly one of the greatest polish jazz records of all time...but I love the album dedicated to your sad and sudden death more.  
   
 (In all seriousness, this is, in my opinion, the greatest polish jazz masterpiece of all times. It really does evoke sadness and mourning towards Komeda's death.)  
   

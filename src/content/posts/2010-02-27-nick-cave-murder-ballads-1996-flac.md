@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20Murder%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-27-nick-cave-murder-ballads-1996-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-27-nick-cave-murder-ballads-1996-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-27-nick-cave-murder-ballads-1996-flac.webp)](/hfs40k/images/covers/2010-02-27-nick-cave-murder-ballads-1996-flac.webp)  
 
 Despite Nick Cave's ongoing obsession with love and death, even much before the release of *Murder Ballads*, this album remains different, specialising in a dense, cathartic, ironic and bloody atmosphere under which Nick Cave painted some of his more unforgiving musical and lyrical portraits.
 

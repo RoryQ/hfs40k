@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Andromeda%20Mega%20Exp
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-21-andromeda-mega-express-orchestra-take-off-2009-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-21-andromeda-mega-express-orchestra-take-off-2009-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-21-andromeda-mega-express-orchestra-take-off-2009-flac.webp)](/hfs40k/images/covers/2010-04-21-andromeda-mega-express-orchestra-take-off-2009-flac.webp)  
 Re-uploaded this fantastic little gem from last year:  
   
 "The debut album from the Andromeda Mega Express Orchestra is all over the map, yet they navigate Ennio Morricone territory without ever appearing lost. It’s a mutant big band concoction that glides through various forms of raunchy hot jazz, modern classical, and bits of forgotten film score without going pure in any respect. Led by 25 year-old Berlin composer Daniel Glatzel, this 20 piece international collective pools all of their more traditional influences and aims for the gooey middle, a realm of wonder that flashes sparks of true, inspiring, original creativity. Take Off is like Danny Elfmann, Duke Ellington, and David Axelrod taking turns conducting the Degenerate Art Ensemble.  

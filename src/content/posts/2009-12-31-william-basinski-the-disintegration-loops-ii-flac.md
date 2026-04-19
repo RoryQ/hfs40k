@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%20T
 
 
 
-[![](/holyfuckingshit40000/images/dbf012610f8d14a2d4d0e3d304882efa.webp)](https://web.archive.org/web/20111010153206/http://2.bp.blogspot.com/_A31Dfz4S5yg/Sz1ARKjizmI/AAAAAAAAAN0/uzKx0PHWH0g/s1600-h/DIL2.jpg)hey  
+[![](/hfs40k/images/dbf012610f8d14a2d4d0e3d304882efa.webp)](https://web.archive.org/web/20111010153206/http://2.bp.blogspot.com/_A31Dfz4S5yg/Sz1ARKjizmI/AAAAAAAAAN0/uzKx0PHWH0g/s1600-h/DIL2.jpg)hey  
   
 [flac](https://web.archive.org/web/20111010153206/http://lix.in/-66f69a)

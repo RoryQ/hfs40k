@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Ecstasy%20of%20S
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-20-the-ecstasy-of-saint-theresa-susurrate-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-20-the-ecstasy-of-saint-theresa-susurrate-flac.webp)  
+[![](/hfs40k/images/covers/2011-09-20-the-ecstasy-of-saint-theresa-susurrate-flac.webp)](/hfs40k/images/covers/2011-09-20-the-ecstasy-of-saint-theresa-susurrate-flac.webp)  
 
 Cult shoegaze classic from Czech in lossless quality. Very MBV-esque. Enjoy!
 

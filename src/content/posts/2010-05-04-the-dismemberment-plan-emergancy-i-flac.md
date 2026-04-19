@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Dismemberment%20
 
 
 
-[![](https://web.archive.org/web/20111010100734im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S-DLZqj7hdI/AAAAAAAAAi0/JldsqlEmCL4/s400/emergency-i.jpg)](/holyfuckingshit40000/images/5f3e8726170b5b234896ce8b6a2c66ed.webp)  
+[![](https://web.archive.org/web/20111010100734im_/http://4.bp.blogspot.com/_cLI19EXK2oU/S-DLZqj7hdI/AAAAAAAAAi0/JldsqlEmCL4/s400/emergency-i.jpg)](/hfs40k/images/5f3e8726170b5b234896ce8b6a2c66ed.webp)  
 Every once in a while, you come across a band so unique you become a missionary for their music. For a lot of people, including me, Dismemberment Plan is one of those bands.
 
 Here's the drill. Believe the hype and stick with this CD; it takes several listens to get into it. Straight away, you'll be struck by a few songs, but overall the sound is so unusual, it can be off-putting. Don't give up-- albums like this continue to reveal something new each time you listen. Yes, it's a bit abstract, but there's a lot going on here. About half the songs are on the relatively accessible side-- pop music for a better, more creative world-- but the rest are dense, hyper-active and TENSE. There are loud-soft-loud passages, time and tempo changes, and out-of-tune keyboards furiously bleeping away, fronted by a singer who has a very appealing (if somewhat limited) voice. He comes across as sort of a sensitive spaz, joyously singing heart-breaking lyrics centered around some kind of a personal crisis (hence "Emergency & I").

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=About%20Tess%20Beautif
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-31-about-tess-beautiful-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-31-about-tess-beautiful-flac.webp)  
+[![](/hfs40k/images/covers/2011-03-31-about-tess-beautiful-flac.webp)](/hfs40k/images/covers/2011-03-31-about-tess-beautiful-flac.webp)  
 No, I haven't completely forgotten yet.  
  [dhalmel's request](https://web.archive.org/web/20111010111608/http://lix.in/-936d49)  
   

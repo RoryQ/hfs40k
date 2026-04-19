@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20Farm
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-03-dinosaur-jr-farm-2009.webp)](/holyfuckingshit40000/images/covers/2009-06-03-dinosaur-jr-farm-2009.webp)  
+[![](/hfs40k/images/covers/2009-06-03-dinosaur-jr-farm-2009.webp)](/hfs40k/images/covers/2009-06-03-dinosaur-jr-farm-2009.webp)  
 HOLY FUCKING SHIT WALKING TREES CARRYING STONED LITTLE GIRLS  
  [128](https://web.archive.org/web/20111010084626/http://www.mediafire.com/?xodjmnm3jnd)

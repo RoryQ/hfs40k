@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/ec5f77a1cff19b040db6ebe0b25b91c9.webp)](/holyfuckingshit40000/images/ec5f77a1cff19b040db6ebe0b25b91c9.webp)  
+[![](/hfs40k/images/ec5f77a1cff19b040db6ebe0b25b91c9.webp)](/hfs40k/images/ec5f77a1cff19b040db6ebe0b25b91c9.webp)  
   
 ap67's request.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Can%20Tago%20Mago
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-06-can-tago-mago-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-06-can-tago-mago-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-06-can-tago-mago-flac.webp)](/hfs40k/images/covers/2009-06-06-can-tago-mago-flac.webp)  
 Try saying Tago Mago 10 times without stuttering  
   
 [FLAC](https://web.archive.org/web/20111010091039/http://lix.in/-4d520a)

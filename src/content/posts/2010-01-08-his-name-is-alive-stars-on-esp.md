@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=His%20Name%20Is%20Aliv
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-08-his-name-is-alive-stars-on-esp.webp)](/holyfuckingshit40000/images/covers/2010-01-08-his-name-is-alive-stars-on-esp.webp)  
+[![](/hfs40k/images/covers/2010-01-08-his-name-is-alive-stars-on-esp.webp)](/hfs40k/images/covers/2010-01-08-his-name-is-alive-stars-on-esp.webp)  
   
 Lord Rama's request. Dope-ass shoegaze/dream pop.  
   

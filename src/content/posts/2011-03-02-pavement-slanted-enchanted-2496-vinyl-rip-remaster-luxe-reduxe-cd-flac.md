@@ -19,8 +19,8 @@ youtube_url: https://www.youtube.com/results?search_query=Pavement%20Slanted%20%
 
 
 
-[![](/holyfuckingshit40000/images/f0677da4eff616dfe86b1c37774550fa.webp)](https://web.archive.org/web/20111010111630/http://2.bp.blogspot.com/-ZJSRc7VT1ao/TW7u6Aqls_I/AAAAAAAAAO0/EQXV2XMjYDc/s1600/2560882419_af38436c2a_o.jpg)  
-[![](/holyfuckingshit40000/images/6993d5ac124ec583c099fe012283377c.webp)](https://web.archive.org/web/20111010111630/http://1.bp.blogspot.com/-qHL7GDX-edY/TW7uwpqmsPI/AAAAAAAAAOs/p4Su7H-ySDQ/s1600/0019ws76.jpg)  
+[![](/hfs40k/images/f0677da4eff616dfe86b1c37774550fa.webp)](https://web.archive.org/web/20111010111630/http://2.bp.blogspot.com/-ZJSRc7VT1ao/TW7u6Aqls_I/AAAAAAAAAO0/EQXV2XMjYDc/s1600/2560882419_af38436c2a_o.jpg)  
+[![](/hfs40k/images/6993d5ac124ec583c099fe012283377c.webp)](https://web.archive.org/web/20111010111630/http://1.bp.blogspot.com/-qHL7GDX-edY/TW7uwpqmsPI/AAAAAAAAAOs/p4Su7H-ySDQ/s1600/0019ws76.jpg)  
   
 NO REVIEWS NEEDED.  
   

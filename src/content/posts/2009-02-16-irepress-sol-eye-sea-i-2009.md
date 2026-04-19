@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Irepress%20Sol%20Eye%2
 
 
 
-[![](/holyfuckingshit40000/images/3edccf73800147bd83943ecf7d90a7fc.webp)](/holyfuckingshit40000/images/3edccf73800147bd83943ecf7d90a7fc.webp)  
+[![](/hfs40k/images/3edccf73800147bd83943ecf7d90a7fc.webp)](/hfs40k/images/3edccf73800147bd83943ecf7d90a7fc.webp)  
   
 Genre: Post-Rock / Sludge  
 Country: U.S.  

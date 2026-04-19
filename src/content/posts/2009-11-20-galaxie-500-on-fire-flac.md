@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Galaxie%20500%20On%20F
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-20-galaxie-500-on-fire-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-20-galaxie-500-on-fire-flac.webp)Long forgotten Galaxie 500.  
+[![](/hfs40k/images/covers/2009-11-20-galaxie-500-on-fire-flac.webp)](/hfs40k/images/covers/2009-11-20-galaxie-500-on-fire-flac.webp)Long forgotten Galaxie 500.  
   
 [download flac](https://web.archive.org/web/20111010122929/http://lix.in/-5e7131)  
   

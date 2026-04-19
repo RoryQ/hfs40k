@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jaco%20Pastorius%20Jac
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-10-10-jaco-pastorius-jaco-pastorius-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2011-10-10-jaco-pastorius-jaco-pastorius-24-bit96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2011-10-10-jaco-pastorius-jaco-pastorius-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2011-10-10-jaco-pastorius-jaco-pastorius-24-bit96khz-vinyl.webp)  
 "..and I'm the greatest bass player in the world."
 
 Big words, eh?

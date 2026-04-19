@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Cam%20Mad%20Blunt
 
 
 
-[![](/holyfuckingshit40000/images/b746ec0d283dfc4ad100de313b813df0.webp)](https://web.archive.org/web/20101203170736/http://4.bp.blogspot.com/_zmnJLFM8_Ok/S6eWltUMlVI/AAAAAAAAACY/ymjRNFG3wrk/s1600-h/madbluntedjazz.jpg)Mad blunted jazz from '96 for the jazz and hip-hop heads. Truly dope. The first disc's recorded, the second is mixed live. [FLAC+CUE](https://web.archive.org/web/20101203170736/http://lix.in/-77faa0)
+[![](/hfs40k/images/b746ec0d283dfc4ad100de313b813df0.webp)](https://web.archive.org/web/20101203170736/http://4.bp.blogspot.com/_zmnJLFM8_Ok/S6eWltUMlVI/AAAAAAAAACY/ymjRNFG3wrk/s1600-h/madbluntedjazz.jpg)Mad blunted jazz from '96 for the jazz and hip-hop heads. Truly dope. The first disc's recorded, the second is mixed live. [FLAC+CUE](https://web.archive.org/web/20101203170736/http://lix.in/-77faa0)

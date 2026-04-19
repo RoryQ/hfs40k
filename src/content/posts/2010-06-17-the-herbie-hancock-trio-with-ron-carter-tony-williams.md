@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Herbie%20Hancock
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-17-the-herbie-hancock-trio-with-ron-carter-tony-williams.webp)](/holyfuckingshit40000/images/covers/2010-06-17-the-herbie-hancock-trio-with-ron-carter-tony-williams.webp)*Yes my man Ron Carter, is on the bass, check it out...*
+[![](/hfs40k/images/covers/2010-06-17-the-herbie-hancock-trio-with-ron-carter-tony-williams.webp)](/hfs40k/images/covers/2010-06-17-the-herbie-hancock-trio-with-ron-carter-tony-williams.webp)*Yes my man Ron Carter, is on the bass, check it out...*
 
 In all seriousness, this is some nice acoustic jazz that was only released in Japan for some reason. Good stuff. Back from a hiatus for legal reasons so I'll be posting more often again.
 

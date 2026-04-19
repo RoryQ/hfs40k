@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Coil%20Horse%20Rotorva
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-24-coil-horse-rotorvator-1986-320-mp3.webp)](/holyfuckingshit40000/images/covers/2009-06-24-coil-horse-rotorvator-1986-320-mp3.webp)
+[![](/hfs40k/images/covers/2009-06-24-coil-horse-rotorvator-1986-320-mp3.webp)](/hfs40k/images/covers/2009-06-24-coil-horse-rotorvator-1986-320-mp3.webp)
 > THE MOST AMAZING CD IN THE MUSIC HISTORY  
 >   
 >   

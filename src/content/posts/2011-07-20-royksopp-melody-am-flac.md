@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ro%CC%88yksopp%20Melod
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-07-20-royksopp-melody-am-flac.webp)](/holyfuckingshit40000/images/covers/2011-07-20-royksopp-melody-am-flac.webp)  
+[![](/hfs40k/images/covers/2011-07-20-royksopp-melody-am-flac.webp)](/hfs40k/images/covers/2011-07-20-royksopp-melody-am-flac.webp)  
 Where do I start with this wonderful little gem? This may be trite by now, but I too was introduced to Royksopp via the Geico Caveman commercial (those joints are funny, right?) Like a previous reviewer, I instantly flew to my computer trying to find the song ("Remind Me"). It wasn't long before I tried to buy the CD, but there was a problem: it was no where to be found within 70 miles of my location. I literally travelled to the capital of my state and still couldn't find it. I despaired, and that's no hyperbole. I could find copies of "The Understanding", their latest CD, in abundance. However, I was told by a DJ acquaintance of mine that Melody AM far out-shined The Understanding.  
   
 So about 2 months passed before it finally dawned on me to try Amazon.com (DERR!!) When I received my CD, I popped it in and immediately skipped to "Remind Me" and played it about 10 times before hearing the rest of the disk. I'd read the reviews and expected "Eple" to knock me off my feet...it really didn't, though. Don't get me wrong, it was good and quirky, but this CD didn't become magical for me until #4 "In Space". I heard the intro and was immediately fixated...when the rest of the song dropped in, my mouth hit the floor of my car. This orchestral, celestial music wrapped itself around my heart and as corny as this may sound, I think I teared up for a millisecond.  

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Joanna%20Newsom%20Waln
 
 
 
-[![](/holyfuckingshit40000/images/7e522463f4e908905bf389437b54adfc.webp)](/holyfuckingshit40000/images/4864d9fdfe5ab1199a0f2052caf8c103.webp) [Clam Crab Cockle Cowrie](https://web.archive.org/web/20111004092616/http://lix.in/-a0fe30)  
+[![](/hfs40k/images/7e522463f4e908905bf389437b54adfc.webp)](/hfs40k/images/4864d9fdfe5ab1199a0f2052caf8c103.webp) [Clam Crab Cockle Cowrie](https://web.archive.org/web/20111004092616/http://lix.in/-a0fe30)  
   
 Password haveanicelife

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=East%20West%20Blast%20
 
 
 
-![http://1.bp.blogspot.com/_tXgfEoD10ck/SAJAkKGEJzI/AAAAAAAAASs/cyOFb2FbOP4/s400/EWBT.jpg](/holyfuckingshit40000/images/eb346b6811420f049925500010aa4df8.webp)  
+![http://1.bp.blogspot.com/_tXgfEoD10ck/SAJAkKGEJzI/AAAAAAAAASs/cyOFb2FbOP4/s400/EWBT.jpg](/hfs40k/images/eb346b6811420f049925500010aa4df8.webp)  
   
 27 tracks in under 18 minutes. Chris Dodge (founder of Slap A Ham Records) and the amazing Dave Witte on drums (Discordance Axis, Municipal Waste) deliver this package for fans of Melt Banana, Ruins, Fantômas.  
   

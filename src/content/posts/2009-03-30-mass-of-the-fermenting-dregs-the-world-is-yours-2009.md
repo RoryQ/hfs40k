@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mass%20of%20The%20Ferm
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-30-mass-of-the-fermenting-dregs-the-world-is-yours-2009.webp)](/holyfuckingshit40000/images/covers/2009-03-30-mass-of-the-fermenting-dregs-the-world-is-yours-2009.webp)  
+[![](/hfs40k/images/covers/2009-03-30-mass-of-the-fermenting-dregs-the-world-is-yours-2009.webp)](/hfs40k/images/covers/2009-03-30-mass-of-the-fermenting-dregs-the-world-is-yours-2009.webp)  
   
 Nas tribute album. Thanks to [octobro](https://web.archive.org/web/20111010170613/http://www.last.fm/user/Octobro "39, United Kingdom")  for the upload!  
   

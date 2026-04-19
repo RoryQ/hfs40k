@@ -86,7 +86,7 @@ const recentPosts = sortedPosts.slice(0, 24);
           )}
         </div>
 
-        <a href={`/holyfuckingshit40000/posts/${dailyAlbum.slug}`} class="inline-flex items-center gap-2 text-sm uppercase font-bold border-b border-holy-white pb-1 w-fit hover:text-red-600 hover:border-red-600 transition-all">
+        <a href={`/hfs40k/posts/${dailyAlbum.slug}`} class="inline-flex items-center gap-2 text-sm uppercase font-bold border-b border-holy-white pb-1 w-fit hover:text-red-600 hover:border-red-600 transition-all">
           Read original post <ArrowRight size={14} />
         </a>
       </div>
@@ -97,14 +97,14 @@ const recentPosts = sortedPosts.slice(0, 24);
   <section>
     <div class="flex justify-between items-end mb-10 border-b border-holy-grey pb-4">
       <h2 class="text-2xl font-bold uppercase tracking-tight">Recent Represses</h2>
-      <a href="/holyfuckingshit40000/archive" class="text-xs uppercase text-holy-grey hover:text-holy-white transition-colors">View All {allPosts.length} albums</a>
+      <a href="/hfs40k/archive" class="text-xs uppercase text-holy-grey hover:text-holy-white transition-colors">View All {allPosts.length} albums</a>
     </div>
 
     <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6">
       {recentPosts.map((post) => {
         const image = post.body.match(/!\[.*?\]\((.*?)\)/)?.[1];
         return (
-          <a href={`/holyfuckingshit40000/posts/${post.slug}`} class="group">
+          <a href={`/hfs40k/posts/${post.slug}`} class="group">
             <div class="aspect-square bg-holy-grey mb-3 overflow-hidden relative">
               {image ? (
                 <img 

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Windy%20%26%20Carl%20D
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-05-windy-carl-drawing-of-sound-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-05-windy-carl-drawing-of-sound-flac.webp)Nachkebia's request. Drench yourself in beautiful drone bliss.  
+[![](/hfs40k/images/covers/2010-04-05-windy-carl-drawing-of-sound-flac.webp)](/hfs40k/images/covers/2010-04-05-windy-carl-drawing-of-sound-flac.webp)Nachkebia's request. Drench yourself in beautiful drone bliss.  
   
 [Download FLAC](https://web.archive.org/web/20111010045817/http://lix.in/-728197)

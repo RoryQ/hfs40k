@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Bone%20M
 
 
 
-[![](/holyfuckingshit40000/images/1041d11a05156d7efa5047ff033e88dd.webp)](https://web.archive.org/web/20111010082244/http://2.bp.blogspot.com/_cLI19EXK2oU/S4w7X6ScxVI/AAAAAAAAAZQ/o1wmXZ8Q0Sg/s1600-h/bm.jpg)  
+[![](/hfs40k/images/1041d11a05156d7efa5047ff033e88dd.webp)](https://web.archive.org/web/20111010082244/http://2.bp.blogspot.com/_cLI19EXK2oU/S4w7X6ScxVI/AAAAAAAAAZQ/o1wmXZ8Q0Sg/s1600-h/bm.jpg)  
 Those vocals. Those lyrics. That mood. From the alpha (the thumping primitive drums of "Earth Died Screaming") to the omega (the howling chorus of guys and guitars finishing off "That Feel"), this CD is like nothing else on the planet. This is a macabre, twisted world: a vision entirely of Mr. Waits devising.  
   
 Lyrically, this is light years beyond so much music out there. Namely all of it. Waits never stoops to cliche, never resorts to the old, crusty, stale rhymes and metaphors that haunt the minds of most song-smiths. His lyrics are restlessly inventive and vivid. When he tells a story he lures you in, shows you the scene and leaves you there to figure out what happened and find your own way home again.  

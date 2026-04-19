@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=New%20Trolls%20Concert
 
 
 
-[![](/holyfuckingshit40000/images/18e31d923637058fe10fe6e63d29b3df.webp)](https://web.archive.org/web/20111010130705/http://3.bp.blogspot.com/_5cVyPU93ihM/SdQML7StuoI/AAAAAAAAACw/Dw4paB0JGVM/s1600-h/concerto+grosso+-+new+trolls.jpg)  
+[![](/hfs40k/images/18e31d923637058fe10fe6e63d29b3df.webp)](https://web.archive.org/web/20111010130705/http://3.bp.blogspot.com/_5cVyPU93ihM/SdQML7StuoI/AAAAAAAAACw/Dw4paB0JGVM/s1600-h/concerto+grosso+-+new+trolls.jpg)  
 Hey, April Fools is over now...  
   
 

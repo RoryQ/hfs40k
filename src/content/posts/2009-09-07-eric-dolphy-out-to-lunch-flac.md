@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Eric%20Dolphy%20Out%20
 
 
 
-[![](/holyfuckingshit40000/images/af5c0e6e0c9e104abdfef4226481b4ac.webp)](/holyfuckingshit40000/images/af5c0e6e0c9e104abdfef4226481b4ac.webp)  
+[![](/hfs40k/images/af5c0e6e0c9e104abdfef4226481b4ac.webp)](/hfs40k/images/af5c0e6e0c9e104abdfef4226481b4ac.webp)  
 
 "Eric Dolphy has one foot in the compositional richness of Mingus and another in the avant-garde -- at the time, Dolphy was boldly stepping beyond tradition. So perfect are these pieces that it can be difficult to tell where composition ends and improvisation begins, and that ambiguity is part of \_Out to Lunch\_'s hook. Solos build out of the written arrangement and overlay the rhythms; melodically and rhythmically, this is tougher and sharper than most of the jazz I have heard so far. The playing is absolutely great.
 

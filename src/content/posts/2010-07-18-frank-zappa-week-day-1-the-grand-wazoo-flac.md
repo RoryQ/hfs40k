@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%2
 
 
 
-[![](/holyfuckingshit40000/images/4bf097e254052da10e4907cd0444cd68.webp)](https://web.archive.org/web/20111010053656/http://2.bp.blogspot.com/_cLI19EXK2oU/TEMZbmOCh7I/AAAAAAAAAvE/M8ZZYuh77L0/s1600/The_Grand_Wazoo.jpg)  
+[![](/hfs40k/images/4bf097e254052da10e4907cd0444cd68.webp)](https://web.archive.org/web/20111010053656/http://2.bp.blogspot.com/_cLI19EXK2oU/TEMZbmOCh7I/AAAAAAAAAvE/M8ZZYuh77L0/s1600/The_Grand_Wazoo.jpg)  
 Over thirty years after "Grand Wazoo" was released, it remains as much a stunning example of Zappa's uncompromising musical vision now as it did then.  
   
 Although it is accurate to say that it continued the Jazz explorations of "Waka Jawaka" or deserves to be compared with "Hot Rats" as one of Frank's most accomplished instrumental albums, this alone does not paint the full picture of what this album has to offer. "Grand Wazoo" is an astonishinng work of melodic inventiveness and orchestration, each of its tunes can leave you breathless with their wealth of ideas and ironic genius.  

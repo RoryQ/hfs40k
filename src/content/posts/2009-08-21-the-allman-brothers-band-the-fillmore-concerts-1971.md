@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Allman%20Brother
 
 
 
-[![](/holyfuckingshit40000/images/5a07c42cea7160f70fa03aad96d7ec4a.webp)](https://web.archive.org/web/20111010145500/http://2.bp.blogspot.com/_JdyrURA7JYI/So8-ycC3iJI/AAAAAAAAAGo/0516LVcrqHc/s1600-h/allmanfillmore.PNG)HEY THERE WE'RE THE ALLMAN BROTHERS AND WE'RE GONNA BE PLAYING SOME OF THAT BLUES FOR YA'LL TONIGHT.  
+[![](/hfs40k/images/5a07c42cea7160f70fa03aad96d7ec4a.webp)](https://web.archive.org/web/20111010145500/http://2.bp.blogspot.com/_JdyrURA7JYI/So8-ycC3iJI/AAAAAAAAAGo/0516LVcrqHc/s1600-h/allmanfillmore.PNG)HEY THERE WE'RE THE ALLMAN BROTHERS AND WE'RE GONNA BE PLAYING SOME OF THAT BLUES FOR YA'LL TONIGHT.  
   
 Download 320: [1](https://web.archive.org/web/20111010145500/http://lix.in/-4f33be) / [2](https://web.archive.org/web/20111010145500/http://lix.in/-50ba5f) / [3](https://web.archive.org/web/20111010145500/http://lix.in/-53c7ab) / [4](https://web.archive.org/web/20111010145500/http://lix.in/-56d4ed)  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20December%20Sound
 
 
 
-[![](/holyfuckingshit40000/images/115423d45185c520c3128ea85e517a48.webp)](https://web.archive.org/web/20111010145450/http://1.bp.blogspot.com/_TSxXUm0_hPM/SpRM-CDuuNI/AAAAAAAABkU/dG5Kjps5c5Q/s1600-h/cover.jpg)  
+[![](/hfs40k/images/115423d45185c520c3128ea85e517a48.webp)](https://web.archive.org/web/20111010145450/http://1.bp.blogspot.com/_TSxXUm0_hPM/SpRM-CDuuNI/AAAAAAAABkU/dG5Kjps5c5Q/s1600-h/cover.jpg)  
 Holy shit shoegazu.  
 Loveless Part 2.  
   

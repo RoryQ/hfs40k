@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/72551998e858ed81642dd86dc4bf77d8.webp)](/holyfuckingshit40000/images/b3879d487a681e427efc6f95f34d83ea.webp)It isn't particularly hard to find this in lossless but who cares.  
+[![](/hfs40k/images/72551998e858ed81642dd86dc4bf77d8.webp)](/hfs40k/images/b3879d487a681e427efc6f95f34d83ea.webp)It isn't particularly hard to find this in lossless but who cares.  
   
 [download flac.](https://web.archive.org/web/20111010121718/http://lix.in/-6843c9) (654 mb)

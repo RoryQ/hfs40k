@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=alyosha%20Atmosphere
 
 
 
-[![](/holyfuckingshit40000/images/97e56ca7b842255a7523980d4df0719f.webp)](https://web.archive.org/web/20111010093605/http://4.bp.blogspot.com/-8mL-upOtzAo/TeMb2hGjm2I/AAAAAAAAABM/9Z7VB-pL0Kc/s1600/atmospherecover.jpg)
+[![](/hfs40k/images/97e56ca7b842255a7523980d4df0719f.webp)](https://web.archive.org/web/20111010093605/http://4.bp.blogspot.com/-8mL-upOtzAo/TeMb2hGjm2I/AAAAAAAAABM/9Z7VB-pL0Kc/s1600/atmospherecover.jpg)
 
 hello,  
   

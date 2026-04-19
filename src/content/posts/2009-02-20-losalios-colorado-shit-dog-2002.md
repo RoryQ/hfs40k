@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Losalios%20Colorado%20
 
 
 
-[![](/holyfuckingshit40000/images/9c077cea66a66cdd294cbaaa61ee2318.webp)](/holyfuckingshit40000/images/9c077cea66a66cdd294cbaaa61ee2318.webp)  
+[![](/hfs40k/images/9c077cea66a66cdd294cbaaa61ee2318.webp)](/hfs40k/images/9c077cea66a66cdd294cbaaa61ee2318.webp)  
 Continuing the weeaboo tradition, presenting: Math Rock from Japan, with a lick of Jazz.  
   
 [Download](https://web.archive.org/web/20101203182828/http://www.mediafire.com/download.php?kxnd5mzmlmz) (192)  

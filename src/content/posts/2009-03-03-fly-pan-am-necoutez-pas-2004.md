@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fly%20Pan%20Am%20N%27E
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-03-fly-pan-am-necoutez-pas-2004.webp)](/holyfuckingshit40000/images/covers/2009-03-03-fly-pan-am-necoutez-pas-2004.webp)  
+[![](/hfs40k/images/covers/2009-03-03-fly-pan-am-necoutez-pas-2004.webp)](/hfs40k/images/covers/2009-03-03-fly-pan-am-necoutez-pas-2004.webp)  
   
 "It seems most people tend to hold the viewpoint that this record, the last, is where Fly Pan Am finally broke away from their association with Godspeed You! Black Emperor and established themselves as their own entity. Fortunately, I don't subscribe to that idea because it's a bit sad. Granted Fly Pan Am has always contained some connection to Roger Tellier-Craig's other band, but they've always been strongly rooted in the insistent rhythms of dub and krautrock rather than Godspeed's punk styled orchestration.  
   

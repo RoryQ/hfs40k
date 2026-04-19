@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Junior%20Wells%20Hoodo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-24-junior-wells-hoodoo-man-blues-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-24-junior-wells-hoodoo-man-blues-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-24-junior-wells-hoodoo-man-blues-flac.webp)](/hfs40k/images/covers/2010-06-24-junior-wells-hoodoo-man-blues-flac.webp)  
   
   
   

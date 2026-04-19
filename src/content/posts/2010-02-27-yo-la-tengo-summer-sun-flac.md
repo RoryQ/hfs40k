@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20Summ
 
 
 
-[![](/holyfuckingshit40000/images/551fb8cde1de8f4ccd8ae6f800008626.webp)](https://web.archive.org/web/20111010160205/http://2.bp.blogspot.com/_cLI19EXK2oU/S4lrQIN-nVI/AAAAAAAAAYY/Rw96Ea1XDKg/s1600-h/album-summer-sun.jpg)  
+[![](/hfs40k/images/551fb8cde1de8f4ccd8ae6f800008626.webp)](https://web.archive.org/web/20111010160205/http://2.bp.blogspot.com/_cLI19EXK2oU/S4lrQIN-nVI/AAAAAAAAAYY/Rw96Ea1XDKg/s1600-h/album-summer-sun.jpg)  
   
 I gotta confess that it doesn't surprise me people have decided this is The Decline of Yo La Tengo since it rolls back the guitars and the lyrics are more direct. I saw the same exact thing happen with the last two R.E.M. albums. The common logic seems to be that neither band is being true to its original eclectic vision (not that R.E.M. was ever half as eclectic as YLT, wonderful as both bands may be).
 

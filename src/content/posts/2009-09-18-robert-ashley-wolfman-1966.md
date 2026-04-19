@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Robert%20Ashley%20Wolf
 
 
 
-[![](/holyfuckingshit40000/images/6ef3042781c63cbe2a9b784c4b9e3a55.webp)](https://web.archive.org/web/20111010094420/http://2.bp.blogspot.com/_JdyrURA7JYI/SrRSzW-e3hI/AAAAAAAAAII/j_zwQU7VSrw/s1600-h/ashwolf.PNG)A collection of noise/field recording tapes. Originally released in 1966 then re-released in 2003. Arguably one the first "noise" musicians.  
+[![](/hfs40k/images/6ef3042781c63cbe2a9b784c4b9e3a55.webp)](https://web.archive.org/web/20111010094420/http://2.bp.blogspot.com/_JdyrURA7JYI/SrRSzW-e3hI/AAAAAAAAAII/j_zwQU7VSrw/s1600-h/ashwolf.PNG)A collection of noise/field recording tapes. Originally released in 1966 then re-released in 2003. Arguably one the first "noise" musicians.  
   
 [Download 256](https://web.archive.org/web/20111010094420/http://lix.in/-588ba1)

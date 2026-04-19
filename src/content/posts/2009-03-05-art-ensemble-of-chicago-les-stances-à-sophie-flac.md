@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20
 
 
 
-[![](/holyfuckingshit40000/images/73f6424f26545c6575c5c61c6ccd73ce.webp)](/holyfuckingshit40000/images/73f6424f26545c6575c5c61c6ccd73ce.webp)  
+[![](/hfs40k/images/73f6424f26545c6575c5c61c6ccd73ce.webp)](/hfs40k/images/73f6424f26545c6575c5c61c6ccd73ce.webp)  
 "Your fanny's like two sperm whales floating down the Seine Your voice is like a long fuck that's music to your brain."  
   
 Greatest female vocalist ever.  

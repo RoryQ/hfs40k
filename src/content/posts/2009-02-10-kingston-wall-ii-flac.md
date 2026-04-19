@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kingston%20Wall%20II
 
 
 
-[![](/holyfuckingshit40000/images/570d003e677efdeff9be87e4b49822c3.webp)](/holyfuckingshit40000/images/570d003e677efdeff9be87e4b49822c3.webp)  
+[![](/hfs40k/images/570d003e677efdeff9be87e4b49822c3.webp)](/hfs40k/images/570d003e677efdeff9be87e4b49822c3.webp)  
 Genre: Progressive Rock  
 Country: Finland  
   

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Devin%20Townsend%20Ki
 
 
 
-[![](/holyfuckingshit40000/images/ec4699e9e1762b5a3b2e10d9efb56bd6.webp)](https://web.archive.org/web/20111010033242/http://3.bp.blogspot.com/_A31Dfz4S5yg/StzYkMtoJeI/AAAAAAAAAJU/eA8KiWuoGfY/s1600-h/f65f6.jpg)Let's try again.  
+[![](/hfs40k/images/ec4699e9e1762b5a3b2e10d9efb56bd6.webp)](https://web.archive.org/web/20111010033242/http://3.bp.blogspot.com/_A31Dfz4S5yg/StzYkMtoJeI/AAAAAAAAAJU/eA8KiWuoGfY/s1600-h/f65f6.jpg)Let's try again.  
   
 [FLAC](https://web.archive.org/web/20111010033242/http://lix.in/-641fe8) /// [V0](https://web.archive.org/web/20111010033242/http://www.mediafire.com/?3jlmdjj3tto)

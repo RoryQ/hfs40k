@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Empyrium%20Where%20at%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-07-empyrium-where-at-night-the-wood-grouse-plays-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-07-empyrium-where-at-night-the-wood-grouse-plays-flac.webp)  
+[![](/hfs40k/images/covers/2011-04-07-empyrium-where-at-night-the-wood-grouse-plays-flac.webp)](/hfs40k/images/covers/2011-04-07-empyrium-where-at-night-the-wood-grouse-plays-flac.webp)  
 
 "When through the starry night
 

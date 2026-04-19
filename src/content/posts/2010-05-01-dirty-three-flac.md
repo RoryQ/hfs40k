@@ -32,7 +32,7 @@ Horse Stories - 1996
   
 Ocean Songs (+Bonus Tracks) - 1998  
   
-[![](/holyfuckingshit40000/images/covers/2010-05-01-dirty-three-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-01-dirty-three-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-01-dirty-three-flac.webp)](/hfs40k/images/covers/2010-05-01-dirty-three-flac.webp)  
 [Download](https://web.archive.org/web/20111010095238/http://lix.in/-82907b)  
   
 Whatever You Love, You Are - 2000  

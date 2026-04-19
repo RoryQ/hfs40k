@@ -20,7 +20,7 @@ youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zio
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-11-a-silver-mt-zion-he-has-left-us-alone-but-shafts-of-light-sometimes-grace-the-corner-of-our-rooms-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-11-a-silver-mt-zion-he-has-left-us-alone-but-shafts-of-light-sometimes-grace-the-corner-of-our-rooms-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-11-a-silver-mt-zion-he-has-left-us-alone-but-shafts-of-light-sometimes-grace-the-corner-of-our-rooms-flac.webp)](/hfs40k/images/covers/2010-04-11-a-silver-mt-zion-he-has-left-us-alone-but-shafts-of-light-sometimes-grace-the-corner-of-our-rooms-flac.webp)  
 Yep, the title is a mouthful. Even the abbreviation HHLUABSOLSGTCOOR is a monster...
 
 The Silver Mt. Zion Memorial Orchestra and Tra-la-la Band would probably be called a side-project of Godspeed You Black Emperor!. Down from a nine-piece rock orchestra to just three people, GYBE!'s lavish soundscapes are stripped down to the mere basics of piano, violin, and contrabass. Even with the occasional addition of some guitar, drumming, vocals (yes, vocals), radio samples, and clarinet, A Silver Mt. Zion relegates its music to sparse, oppressively sad passages that bleed silent anguish. Compared to the ominous symphonies of GYBE! (whom you probably like if you're checking this out), this music is less foreboding and dark. Instead, it is just sad, like a weight on the soul. Depressing music is often the most beautiful to me, because it functions as an emotional release. This album is beautiful, but it is a distressed beauty that is difficult to listen to sometimes. And what's it all about? The album is an aching dirge for a dead dog named Wanda.

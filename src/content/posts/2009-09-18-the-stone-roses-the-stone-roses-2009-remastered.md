@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Stone%20Roses%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-18-the-stone-roses-the-stone-roses-2009-remastered.webp)](/holyfuckingshit40000/images/covers/2009-09-18-the-stone-roses-the-stone-roses-2009-remastered.webp)  
+[![](/hfs40k/images/covers/2009-09-18-the-stone-roses-the-stone-roses-2009-remastered.webp)](/hfs40k/images/covers/2009-09-18-the-stone-roses-the-stone-roses-2009-remastered.webp)  
 Welcome PMac as our 14th poster! Look forward to the wide range of hipster garbage he will be posting.  
  [Download FLAC](https://web.archive.org/web/20111026072021/http://lix.in/-602cb2)  
   

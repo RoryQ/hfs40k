@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Oneohtrix%20Point%20Ne
 
 
 
-[![](/holyfuckingshit40000/images/9e07100d57a82171c7eac3b7a6cc0cb6.webp)](https://web.archive.org/web/20111010175131/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBdgaUmpVhI/AAAAAAAAARg/YRuy3rzJhBM/s1600/eMEGO104_c.jpg)  
+[![](/hfs40k/images/9e07100d57a82171c7eac3b7a6cc0cb6.webp)](https://web.archive.org/web/20111010175131/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBdgaUmpVhI/AAAAAAAAARg/YRuy3rzJhBM/s1600/eMEGO104_c.jpg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ryuichi%20Sakamoto%201
 
 
 
-[![](/holyfuckingshit40000/images/65db031f99f481cb198a658248bcde19.webp)](https://web.archive.org/web/20111010081637/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68bVU1Va6I/AAAAAAAAAHM/yoPTW0U2q6U/s1600/1996ss6.jpg)  
+[![](/hfs40k/images/65db031f99f481cb198a658248bcde19.webp)](https://web.archive.org/web/20111010081637/http://4.bp.blogspot.com/_t6lWjgwMoxw/S68bVU1Va6I/AAAAAAAAAHM/yoPTW0U2q6U/s1600/1996ss6.jpg)  
   
   
   

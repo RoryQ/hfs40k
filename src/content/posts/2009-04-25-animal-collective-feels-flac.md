@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/8c36671eb932e4cad160504d3080e3c1.webp)](/holyfuckingshit40000/images/8c36671eb932e4cad160504d3080e3c1.webp)  
+[![](/hfs40k/images/8c36671eb932e4cad160504d3080e3c1.webp)](/hfs40k/images/8c36671eb932e4cad160504d3080e3c1.webp)  
 "There is a song entitled 'Daffy Duck.' No, really."  
   
 [Download (FLAC)](https://web.archive.org/web/20111010130616/http://www.megaupload.com/?d=C85ULNVM)

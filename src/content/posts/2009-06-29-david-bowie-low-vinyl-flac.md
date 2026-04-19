@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Low
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-29-david-bowie-low-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-29-david-bowie-low-vinyl-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-29-david-bowie-low-vinyl-flac.webp)](/hfs40k/images/covers/2009-06-29-david-bowie-low-vinyl-flac.webp)  
 The best album of the 70's. Pitchfork agreed, don't bother them about it.  
   
  [Download Vinyl FLAC](https://web.archive.org/web/20111010085025/http://lix.in/-4937ca)

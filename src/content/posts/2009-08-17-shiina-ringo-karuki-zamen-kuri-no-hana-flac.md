@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Karuk
 
 
 
-[![](/holyfuckingshit40000/images/53a1b421892ad191069c030ec7f38403.webp)](https://web.archive.org/web/20111010145632/http://2.bp.blogspot.com/_cLI19EXK2oU/SonE1-2Lr3I/AAAAAAAAASI/KoH7uByiMTk/s1600-h/Karuki.jpg)  
+[![](/hfs40k/images/53a1b421892ad191069c030ec7f38403.webp)](https://web.archive.org/web/20111010145632/http://2.bp.blogspot.com/_cLI19EXK2oU/SonE1-2Lr3I/AAAAAAAAASI/KoH7uByiMTk/s1600-h/Karuki.jpg)  
 Fap away weeabros.  
   
  [Download FLAC](https://web.archive.org/web/20111010145632/http://lix.in/-5aecde)

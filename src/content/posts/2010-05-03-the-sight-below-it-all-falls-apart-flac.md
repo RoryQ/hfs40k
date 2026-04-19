@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Sight%20Below%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-03-the-sight-below-it-all-falls-apart-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-03-the-sight-below-it-all-falls-apart-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-03-the-sight-below-it-all-falls-apart-flac.webp)](/hfs40k/images/covers/2010-05-03-the-sight-below-it-all-falls-apart-flac.webp)  
 Now it all falls [FLAC](https://web.archive.org/web/20111010100811/http://lix.in/-847e32)

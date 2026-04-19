@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cibo%20Matto%20Stereo%
 
 
 
-[![](/holyfuckingshit40000/images/8a89a3a3ea776d6db9f0de6f83e1596e.webp)](https://web.archive.org/web/20111010145818/http://4.bp.blogspot.com/-vkDPEdl8jSs/TaB5OwmZwSI/AAAAAAAAAAo/nFSYWQGpo4M/s1600/front.jpg)
+[![](/hfs40k/images/8a89a3a3ea776d6db9f0de6f83e1596e.webp)](https://web.archive.org/web/20111010145818/http://4.bp.blogspot.com/-vkDPEdl8jSs/TaB5OwmZwSI/AAAAAAAAAAo/nFSYWQGpo4M/s1600/front.jpg)
 
   
   

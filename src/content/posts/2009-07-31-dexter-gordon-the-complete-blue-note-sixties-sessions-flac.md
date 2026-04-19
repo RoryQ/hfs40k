@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dexter%20Gordon%20The%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-31-dexter-gordon-the-complete-blue-note-sixties-sessions-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-31-dexter-gordon-the-complete-blue-note-sixties-sessions-flac.webp)Remember when I uploaded this in v0. yeah, me neither but anyway here it is in flac as you might not be quite keen on knocking down your ratio or buying it. or whatever  
+[![](/hfs40k/images/covers/2009-07-31-dexter-gordon-the-complete-blue-note-sixties-sessions-flac.webp)](/hfs40k/images/covers/2009-07-31-dexter-gordon-the-complete-blue-note-sixties-sessions-flac.webp)Remember when I uploaded this in v0. yeah, me neither but anyway here it is in flac as you might not be quite keen on knocking down your ratio or buying it. or whatever  
   
 [disc 1+6](https://web.archive.org/web/20111010140103/http://lix.in/-4b30c9)   
 [disc 2+3](https://web.archive.org/web/20111010140103/http://lix.in/-514b4d)  

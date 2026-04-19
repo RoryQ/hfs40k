@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Morphine%20Cure%20For%
 
 
 
-[![](/holyfuckingshit40000/images/b37a32a1214063322d9a8da23d4e9dcf.webp)](https://web.archive.org/web/20111010045050/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9lycwHjs2I/AAAAAAAAALk/ZpHU_I-AxmQ/s1600/kwWKwPUK0j7ffvaacznw4X93o1_500.jpg)  
+[![](/hfs40k/images/b37a32a1214063322d9a8da23d4e9dcf.webp)](https://web.archive.org/web/20111010045050/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9lycwHjs2I/AAAAAAAAALk/ZpHU_I-AxmQ/s1600/kwWKwPUK0j7ffvaacznw4X93o1_500.jpg)  
   
   
   

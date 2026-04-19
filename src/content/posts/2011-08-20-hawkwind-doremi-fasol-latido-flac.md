@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20Doremi%20Fa
 
 
 
-[![](/holyfuckingshit40000/images/66c39d54a1740f6e0df732c57c221269.webp)](https://web.archive.org/web/20111010032933/http://4.bp.blogspot.com/-V43mylbwf_Q/TlBMIsTbctI/AAAAAAAABCA/wbc7Qbp573g/s1600/6uq0nd4.jpg)
+[![](/hfs40k/images/66c39d54a1740f6e0df732c57c221269.webp)](https://web.archive.org/web/20111010032933/http://4.bp.blogspot.com/-V43mylbwf_Q/TlBMIsTbctI/AAAAAAAABCA/wbc7Qbp573g/s1600/6uq0nd4.jpg)
   
 Arguably the HEAVIEST rock album of all time. Hawkwind's "Doremi" succeeds both as heavy metal and spacerock in equal measure. Lemmy Kilmister's rumbling bass lines are augmented by D. Brock's fuzzed and wahhed electric guitars as thunderous drums keep the tribal beat going. Certainly, the feedback-drenched sequeway from "Brainstorm" into "Space Is Deep" qualifies as rock's most audacious song intro (-the sonic equivalent of the sky being torn in two! ). "Space Is Deep" being another strong point-combining twittering audio-generators with hamfisted acoustic guitar work. "Time We Left This World Today" could've been done by primitive Amazonian tribesmen wielding Telecasters and forests of 100-watt Marshall stacks. The song's roto-rhythmic riffs and are orgasmically entrancing. Overall a tour-de-force for the heavyhanded spacerock enthusiast.
   

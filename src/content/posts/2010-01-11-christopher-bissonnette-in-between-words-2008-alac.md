@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Christopher%20Bissonne
 
 
 
-[![](/holyfuckingshit40000/images/983076ef7c8e1d55180a80e7f5627499.webp)](/holyfuckingshit40000/images/983076ef7c8e1d55180a80e7f5627499.webp)  
+[![](/hfs40k/images/983076ef7c8e1d55180a80e7f5627499.webp)](/hfs40k/images/983076ef7c8e1d55180a80e7f5627499.webp)  
   
 So you love Stars of the Lid but you can't wait another couple years for them to drop a new LP. What do you listen to to get you by? How about another Kranky ambient maestro with a sound palette nearly as beguiling as the legendary 'Lids'? Enter: Christopher Bissonnette with his sophomore release In Between Words. And in lossless, no less. How can you not click?  
   

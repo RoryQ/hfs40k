@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Isao%20Tomita%20Snowfl
 
 
 
-[![](/holyfuckingshit40000/images/2695e08db530b62b568f88c8adc2ad0c.webp)](/holyfuckingshit40000/images/ace51ecf70533f88dbf3c25607653e63.webp)
+[![](/hfs40k/images/2695e08db530b62b568f88c8adc2ad0c.webp)](/hfs40k/images/ace51ecf70533f88dbf3c25607653e63.webp)
 
 1974
 

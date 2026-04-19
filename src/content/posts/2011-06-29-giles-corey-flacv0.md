@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dan%20Barrett%20Giles%
 
 
 
-[![](/holyfuckingshit40000/images/72755c9497160e17a826997dcb5139e1.webp)](/holyfuckingshit40000/images/14912ac39b94945512a81343e185422d.webp)*"Sometime in the Spring of 2009 I tried to kill myself. Six months before that, I used a Voor’s Head Device for the first time."*  
+[![](/hfs40k/images/72755c9497160e17a826997dcb5139e1.webp)](/hfs40k/images/14912ac39b94945512a81343e185422d.webp)*"Sometime in the Spring of 2009 I tried to kill myself. Six months before that, I used a Voor’s Head Device for the first time."*  
   
 "This line opens the 150-page book that accompanies *Giles Corey,* an intensely personal, intimate portrait of depression that took me almost 4 years to make.  
   

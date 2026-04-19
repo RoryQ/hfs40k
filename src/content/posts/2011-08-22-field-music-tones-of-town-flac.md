@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Field%20Music%20Tones%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-08-22-field-music-tones-of-town-flac.webp)](/holyfuckingshit40000/images/covers/2011-08-22-field-music-tones-of-town-flac.webp)
+[![](/hfs40k/images/covers/2011-08-22-field-music-tones-of-town-flac.webp)](/hfs40k/images/covers/2011-08-22-field-music-tones-of-town-flac.webp)
   
 As a reviewer, one of the most difficult things to do is review an album that you're entirely infatuated with. It would be easy to rant on and on about how great an album is without pointing out it's flaws or shortcomings. And here I find myself with Field Music's newest release. I am not familiar with their previous work, so I'm beginning with a fresh slate here. However, I cannot get over the greatness of "Tones of Town." In many ways, it is a perfect album, stringing together 11 solid pop songs effortlessly, and completely enthralling me in the process.
   

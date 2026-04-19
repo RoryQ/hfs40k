@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-11-04-captain-beefheart-lick-my-decals-off-baby-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2011-11-04-captain-beefheart-lick-my-decals-off-baby-24-bit96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2011-11-04-captain-beefheart-lick-my-decals-off-baby-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2011-11-04-captain-beefheart-lick-my-decals-off-baby-24-bit96khz-vinyl.webp)  
   
 Transfered by vertigoswirl, December 2010.  
   

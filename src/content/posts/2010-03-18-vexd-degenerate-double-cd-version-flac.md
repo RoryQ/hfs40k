@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Vex%27d%20Degenerate
 
 
 
-[![](/holyfuckingshit40000/images/97c6f1dd567c157f5ba49a7108945898.webp)](https://web.archive.org/web/20101203170622/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6IIRqReTcI/AAAAAAAAAGE/Qg5t82HBGS0/s1600-h/R-476639-1121779952.jpg)  
+[![](/hfs40k/images/97c6f1dd567c157f5ba49a7108945898.webp)](https://web.archive.org/web/20101203170622/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6IIRqReTcI/AAAAAAAAAGE/Qg5t82HBGS0/s1600-h/R-476639-1121779952.jpg)  
   
   
   

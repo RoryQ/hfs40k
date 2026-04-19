@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-17-worlds-end-girlfriend-farewell-kingdom-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-17-worlds-end-girlfriend-farewell-kingdom-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-17-worlds-end-girlfriend-farewell-kingdom-flac.webp)](/hfs40k/images/covers/2009-04-17-worlds-end-girlfriend-farewell-kingdom-flac.webp)  
 Expect more World's End Girlfriend very soon!  
   
 Note: Track 4 appears to not extract properly, so please use the second link for it.  

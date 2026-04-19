@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melvins%20Houdini
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-12-melvins-houdini-1993-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-12-melvins-houdini-1993-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-12-melvins-houdini-1993-flac.webp)](/hfs40k/images/covers/2009-08-12-melvins-houdini-1993-flac.webp)  
 The only album in my record collection that has been on high rotation for over 4 years now (maybe 5 or something).  
   
 Check out my Earth post for the track The Dry Lake if you downloaded the earlier version with that missing  

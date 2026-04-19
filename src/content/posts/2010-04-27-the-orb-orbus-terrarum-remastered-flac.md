@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Orb%20Orbus%20Te
 
 
 
-[![](/holyfuckingshit40000/images/4101c2be12dc2c0a69cdde08c431bc33.webp)](https://web.archive.org/web/20111010045223/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9blE1WTyJI/AAAAAAAAALE/RUgj7zUvdZg/s1600/17296229cc4811ca5cd073406dc87ccc_full.jpg)  
+[![](/hfs40k/images/4101c2be12dc2c0a69cdde08c431bc33.webp)](https://web.archive.org/web/20111010045223/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9blE1WTyJI/AAAAAAAAALE/RUgj7zUvdZg/s1600/17296229cc4811ca5cd073406dc87ccc_full.jpg)  
   
   
   

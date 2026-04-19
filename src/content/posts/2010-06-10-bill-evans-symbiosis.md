@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bill%20Evans%20Symbios
 
 
 
-[![](/holyfuckingshit40000/images/ff52d529b135b10b19f674c1b42434e5.webp)](https://web.archive.org/web/20111010173253/http://2.bp.blogspot.com/_9vpegXTmIbs/TBFUmgY05MI/AAAAAAAAABc/KdvrJtVJp1I/s1600/folder.jpg)  
+[![](/hfs40k/images/ff52d529b135b10b19f674c1b42434e5.webp)](https://web.archive.org/web/20111010173253/http://2.bp.blogspot.com/_9vpegXTmIbs/TBFUmgY05MI/AAAAAAAAABc/KdvrJtVJp1I/s1600/folder.jpg)  
 Bill Evans finds out that classical music is like a pretty little flower, and jazz is an enourmous badass bee.  
   
   

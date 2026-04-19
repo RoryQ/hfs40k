@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Kind%2
 
 
 
-[![](/holyfuckingshit40000/images/1167e61dfe6a689665e36b032b5aba4c.webp)](https://web.archive.org/web/20111004093526/http://1.bp.blogspot.com/-wPN-Y63wGws/TnL_jn2WPJI/AAAAAAAABFI/TG9BuF37BB8/s1600/Label-A.jpg)  
+[![](/hfs40k/images/1167e61dfe6a689665e36b032b5aba4c.webp)](https://web.archive.org/web/20111004093526/http://1.bp.blogspot.com/-wPN-Y63wGws/TnL_jn2WPJI/AAAAAAAABFI/TG9BuF37BB8/s1600/Label-A.jpg)  
   
 1959 Columbia Records CL 1355 (mono)  
   

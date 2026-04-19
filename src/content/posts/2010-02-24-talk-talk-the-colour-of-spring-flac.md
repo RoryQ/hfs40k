@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20The%20Co
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-24-talk-talk-the-colour-of-spring-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-24-talk-talk-the-colour-of-spring-flac.webp)[download](https://web.archive.org/web/20111010160027/http://lix.in/-786119)
+[![](/hfs40k/images/covers/2010-02-24-talk-talk-the-colour-of-spring-flac.webp)](/hfs40k/images/covers/2010-02-24-talk-talk-the-colour-of-spring-flac.webp)[download](https://web.archive.org/web/20111010160027/http://lix.in/-786119)

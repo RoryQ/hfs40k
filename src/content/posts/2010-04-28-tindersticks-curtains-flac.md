@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tindersticks%20Curtain
 
 
 
-[![](/holyfuckingshit40000/images/4328fabc073da115130620836a70174a.webp)](/holyfuckingshit40000/images/cec4e3c914e4392971acb59dd0e65c27.webp)  
+[![](/hfs40k/images/4328fabc073da115130620836a70174a.webp)](/hfs40k/images/cec4e3c914e4392971acb59dd0e65c27.webp)  
   
   
   

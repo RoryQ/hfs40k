@@ -19,4 +19,4 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/ce1bd39533d2b3e32acdb79b4890a34f.webp)](https://web.archive.org/web/20111010153145/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sz09GGixMUI/AAAAAAAAANU/5gL2ci1KJno/s1600-h/AC-SPIRITDANSE.jpg)dmca
+[![](/hfs40k/images/ce1bd39533d2b3e32acdb79b4890a34f.webp)](https://web.archive.org/web/20111010153145/http://1.bp.blogspot.com/_A31Dfz4S5yg/Sz09GGixMUI/AAAAAAAAANU/5gL2ci1KJno/s1600-h/AC-SPIRITDANSE.jpg)dmca

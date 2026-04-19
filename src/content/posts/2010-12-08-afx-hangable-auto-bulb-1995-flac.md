@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=AFX%20Hangable%20Auto%
 
 
 
-[![](/holyfuckingshit40000/images/71e54b46fe8a4bf03c4171355bbafa0c.webp)](https://web.archive.org/web/20111010071907/http://4.bp.blogspot.com/_8OQrKaBbb98/TP91nbJjYJI/AAAAAAAAACk/BQ7c-rxw8z8/s1600/R-533323-1175952920.jpeg)
+[![](/hfs40k/images/71e54b46fe8a4bf03c4171355bbafa0c.webp)](https://web.archive.org/web/20111010071907/http://4.bp.blogspot.com/_8OQrKaBbb98/TP91nbJjYJI/AAAAAAAAACk/BQ7c-rxw8z8/s1600/R-533323-1175952920.jpeg)
 
 Some of the best RDJ. Frantic breakbeats spiced up with bizarre samples and childish melodies in a way nobody else can. Short but to the point, each of the 35 minutes has more "fuck yeah this is awesome" than many can fit into a single track. Luckily this style wasn't an one-off thing though, it was to be experimented with more on the RDJ Album, Come to Daddy EP and drukqs to name a few. But Hangable Auto Bulb is the rawest of its kind.  
   

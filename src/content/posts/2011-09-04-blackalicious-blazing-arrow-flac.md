@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Blackalicious%20Blazin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-04-blackalicious-blazing-arrow-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-04-blackalicious-blazing-arrow-flac.webp)
+[![](/hfs40k/images/covers/2011-09-04-blackalicious-blazing-arrow-flac.webp)](/hfs40k/images/covers/2011-09-04-blackalicious-blazing-arrow-flac.webp)
   
 The next level you ask? Gift of Gab's impenetrably ill lyricism over Chief Xcel's beautifully lush production is something that I would call legendary, unique, and dare I say - untouchable. Gift of Gab definitely possesses a gift that may have you questioning the talents of your favorite emcee. He has endless capabilities as far as his impressive jaw gymnastics are concerned. His rhymes are jam-packed with metaphors, varying tones and rhythms, impeccable precision, and of course lightning quick speed. Like label-mate Lyrics Born, Gift of Gab redefines breath control. But Gift of Gab is quite a bit faster, leaving the listener in awe, and confused as to wear he actually fits a breath in his repertoire. In another respect, he doesn't drop sickly fast rhymes the whole time (which would actually get old). He experiments with his flow like a DJ experiments with their record collection.
   

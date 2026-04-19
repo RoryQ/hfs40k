@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Pixies%20Surfer%20Rosa
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-18-pixies-surfer-rosa-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-18-pixies-surfer-rosa-flac.webp)Gigaaantic, gigaaantic, a big big love!  
+[![](/hfs40k/images/covers/2009-12-18-pixies-surfer-rosa-flac.webp)](/hfs40k/images/covers/2009-12-18-pixies-surfer-rosa-flac.webp)Gigaaantic, gigaaantic, a big big love!  
   
 [Enjoy](https://web.archive.org/web/20111010153213/http://lix.in/-6aa3fc)

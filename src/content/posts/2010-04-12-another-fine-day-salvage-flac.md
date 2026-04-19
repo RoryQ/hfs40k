@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Another%20Fine%20Day%2
 
 
 
-[![](/holyfuckingshit40000/images/38726c5eda71087729f63699e22b0193.webp)](https://web.archive.org/web/20111010045437/http://2.bp.blogspot.com/_t6lWjgwMoxw/S8LxRABZb8I/AAAAAAAAAI8/2bQwlaYiKIw/s1600/Another_Fine_Day_-_Salvage_500.jpg)  
+[![](/hfs40k/images/38726c5eda71087729f63699e22b0193.webp)](https://web.archive.org/web/20111010045437/http://2.bp.blogspot.com/_t6lWjgwMoxw/S8LxRABZb8I/AAAAAAAAAI8/2bQwlaYiKIw/s1600/Another_Fine_Day_-_Salvage_500.jpg)  
   
   
   

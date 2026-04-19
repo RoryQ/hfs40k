@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%2077%20Boadru
 
 
 
-[![](/holyfuckingshit40000/images/cb0219c19b99fd56bec6db124d91efdb.webp)](/holyfuckingshit40000/images/cb0219c19b99fd56bec6db124d91efdb.webp)  
+[![](/hfs40k/images/cb0219c19b99fd56bec6db124d91efdb.webp)](/hfs40k/images/cb0219c19b99fd56bec6db124d91efdb.webp)  
   
   
 Genre: Noise Rock  

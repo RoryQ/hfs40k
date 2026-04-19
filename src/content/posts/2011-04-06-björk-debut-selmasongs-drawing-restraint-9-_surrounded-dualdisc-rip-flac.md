@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Debut%2C%
 
 
 
-[![](/holyfuckingshit40000/images/76283afdc700598195c3367bbcd1cff3.webp)](https://web.archive.org/web/20111010145741/http://1.bp.blogspot.com/-aLynbJRI4NQ/TZzxgk3GApI/AAAAAAAAAAk/tj51SbGn7S4/s1600/front.jpg)
+[![](/hfs40k/images/76283afdc700598195c3367bbcd1cff3.webp)](https://web.archive.org/web/20111010145741/http://1.bp.blogspot.com/-aLynbJRI4NQ/TZzxgk3GApI/AAAAAAAAAAk/tj51SbGn7S4/s1600/front.jpg)
 
 Here's the rest of these. Debut is dated and boring, Big Time Sensuality is the only one I really enjoy.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Al%20Pacino%20Songs%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-08-al-pacino-songs-of-love-and-hate-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-08-al-pacino-songs-of-love-and-hate-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-08-al-pacino-songs-of-love-and-hate-flac.webp)](/hfs40k/images/covers/2009-08-08-al-pacino-songs-of-love-and-hate-flac.webp)  
 Without a doubt this is Cohen's darkest, most ambitious & quite possibly most depressing record. I think he inadvertently created a whole new genre here---Death Folk. Self proclaimed fans range from Kurt Cobain to Nick Cave.  
   
 "Avalanche" definitely veers on the hate side of things. Lyrically speaking, it's like stumbling across Richard The Third in an abandoned mineshaft. Toss in some stark, flamenco guitar & you get the picture. A dark start to a creepy, often disturbing album.  

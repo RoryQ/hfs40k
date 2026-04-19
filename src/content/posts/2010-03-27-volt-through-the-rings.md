@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=VoLt%20Through%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/bc9f213636ea8bdf806bd70497236670.webp)](https://web.archive.org/web/20101203162838/http://3.bp.blogspot.com/_pqcGUSDUhi4/S650MTztcTI/AAAAAAAAAA8/Vx08gjve0w0/s1600/Volt+-+Through+The+Rings+-+FRONT.jpg)  
+[![](/hfs40k/images/bc9f213636ea8bdf806bd70497236670.webp)](https://web.archive.org/web/20101203162838/http://3.bp.blogspot.com/_pqcGUSDUhi4/S650MTztcTI/AAAAAAAAAA8/Vx08gjve0w0/s1600/Volt+-+Through+The+Rings+-+FRONT.jpg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let
 
 
 
-[![](/holyfuckingshit40000/images/4064a62fccc15966c7f82fb084edbd1c.webp)](https://web.archive.org/web/20111004075251/http://3.bp.blogspot.com/-5QgiLRaXjp0/TmuzwsBX4uI/AAAAAAAABEo/GIsxqoTOOXk/s1600/Charles%2BMingus%2B-%2BLet%2BMy%2BChildren%2B%2528back%2529.jpg)  
+[![](/hfs40k/images/4064a62fccc15966c7f82fb084edbd1c.webp)](https://web.archive.org/web/20111004075251/http://3.bp.blogspot.com/-5QgiLRaXjp0/TmuzwsBX4uI/AAAAAAAABEo/GIsxqoTOOXk/s1600/Charles%2BMingus%2B-%2BLet%2BMy%2BChildren%2B%2528back%2529.jpg)  
 aksman's rip  
   
 Technical Informations  

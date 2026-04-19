@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Undergr
 
 
 
-[![](/holyfuckingshit40000/images/d203f72bdc66ced2ae4811e3304febea.webp)](https://web.archive.org/web/20111010130824/http://4.bp.blogspot.com/_cLI19EXK2oU/SfmuK50dsnI/AAAAAAAAAEQ/DgJigCytZnE/s1600-h/whitelightwhiteheat.jpg)  
+[![](/hfs40k/images/d203f72bdc66ced2ae4811e3304febea.webp)](https://web.archive.org/web/20111010130824/http://4.bp.blogspot.com/_cLI19EXK2oU/SfmuK50dsnI/AAAAAAAAAEQ/DgJigCytZnE/s1600-h/whitelightwhiteheat.jpg)  
   
 I said c-c-c-couldn't hit it sideways  
 I said c-c-c-c-c-c-couldn't hit it sideways  

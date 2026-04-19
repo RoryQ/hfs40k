@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Memoryhouse%20The%20Ye
 
 
 
-[![](/holyfuckingshit40000/images/b631ef0376c88140c0e60342e331e6d5.webp)](/holyfuckingshit40000/images/b631ef0376c88140c0e60342e331e6d5.webp)  
+[![](/hfs40k/images/b631ef0376c88140c0e60342e331e6d5.webp)](/hfs40k/images/b631ef0376c88140c0e60342e331e6d5.webp)  
 Seems like a chill EP, bros.  
   
 "Memoryhouse is the recording project of a neo-classical composer and a photographer (Evan Abeele and Denise Nouvion) from Ontario, Canada. The name “Memoryhouse” is itself, a tribute to German composer Max Richter’s seminal work and the project was originally a means to escape the paralysis of winter. It mixes ambient loops, breezy samples, aquatic guitars, and burbling synths." - last.fm  

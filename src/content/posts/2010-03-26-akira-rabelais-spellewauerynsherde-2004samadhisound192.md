@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Akira%20Rabelais%20Spe
 
 
 
-[![](/holyfuckingshit40000/images/764e29ed47b9fe758564a63dd9de5a2b.webp)](/holyfuckingshit40000/images/7431e58252d1c179f65719d4cd7dee5d.webp)  
+[![](/hfs40k/images/764e29ed47b9fe758564a63dd9de5a2b.webp)](/hfs40k/images/7431e58252d1c179f65719d4cd7dee5d.webp)  
 "Putting his Argeiphontes Lyre software to use, Akira Rabelais shifts around and reassembles performances of traditional Icelandic a cappella lament songs, field recordings that date as far back as the early '60s. Some passages sound as if they were barely touched, while others twist and fold within pillows of wind. Some notes hit with deep resonance, while others sublimate into shadowy drones. Regardless of what processing Rabelais put them through, each sound floats through your ears like a whisper but sticks when it reaches your soul." - AMG  
   
 Highly recommended.  

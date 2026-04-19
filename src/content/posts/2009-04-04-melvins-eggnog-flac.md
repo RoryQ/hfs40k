@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Melvins%20Eggnog
 
 
 
-[![](/holyfuckingshit40000/images/87cff5b417f388a7c2b3c9c9e7f74dcc.webp)](/holyfuckingshit40000/images/87cff5b417f388a7c2b3c9c9e7f74dcc.webp)  
+[![](/hfs40k/images/87cff5b417f388a7c2b3c9c9e7f74dcc.webp)](/hfs40k/images/87cff5b417f388a7c2b3c9c9e7f74dcc.webp)  
 Fuck yeah, I love eggnog.  
  [Download](https://web.archive.org/web/20111010131025/http://www.megaupload.com/?d=lpgwnqvv)

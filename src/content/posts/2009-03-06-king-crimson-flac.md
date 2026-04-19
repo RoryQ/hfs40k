@@ -17,7 +17,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-06-king-crimson-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-06-king-crimson-flac.webp)[Last.fm](https://web.archive.org/web/20111010164237/http://www.last.fm/music/King+Crimson)  
+[![](/hfs40k/images/covers/2009-03-06-king-crimson-flac.webp)](/hfs40k/images/covers/2009-03-06-king-crimson-flac.webp)[Last.fm](https://web.archive.org/web/20111010164237/http://www.last.fm/music/King+Crimson)  
   
 In the Court of the Crimson King (2004 Remaster) (1969)  
   

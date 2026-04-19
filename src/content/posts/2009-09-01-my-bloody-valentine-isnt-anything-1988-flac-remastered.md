@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentin
 
 
 
-[![](/holyfuckingshit40000/images/aaf75460c925f689a9252033625a4b42.webp)](https://web.archive.org/web/20100117031016/http://3.bp.blogspot.com/_z8rLjrFVzbo/Sp0NXu8FPJI/AAAAAAAAAI8/3XPT2hGtrtc/s1600-h/o354.jpg)  
+[![](/hfs40k/images/aaf75460c925f689a9252033625a4b42.webp)](https://web.archive.org/web/20100117031016/http://3.bp.blogspot.com/_z8rLjrFVzbo/Sp0NXu8FPJI/AAAAAAAAAI8/3XPT2hGtrtc/s1600-h/o354.jpg)  
 My Bloody Valentine making proper songs instead of the noisy mess Loveless is.  
   
 [Download@FLAC](https://web.archive.org/web/20100117031016/http://lix.in/-5075f8)  

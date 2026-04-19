@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20The
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-16-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-16-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-16-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)](/hfs40k/images/covers/2009-06-16-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)  
 Reuploaded for karppy  
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Chrome%20Half%20Machin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-07-chrome-half-machine-lip-moves-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-07-chrome-half-machine-lip-moves-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-07-chrome-half-machine-lip-moves-flac.webp)](/hfs40k/images/covers/2009-08-07-chrome-half-machine-lip-moves-flac.webp)  
 A mixture of Post-Punk, Noise Rock and strange sounds here and there. Not enough noise.  
   
 [DOWNLOAD [FLAC]](https://web.archive.org/web/20111010145555/http://lix.in/-521631)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Keith%20Fullerton%20Wh
 
 
 
-[![](/holyfuckingshit40000/images/37387605ad1b6cd81376b4d62690beb2.webp)](https://web.archive.org/web/20111008155616/http://4.bp.blogspot.com/_X0HDv9LMCK8/Sh4TghH9IiI/AAAAAAAAAC8/jOJPV20Dq6s/s1600-h/482619.jpg)Shifting ambient drones creating blissful textures.  
+[![](/hfs40k/images/37387605ad1b6cd81376b4d62690beb2.webp)](https://web.archive.org/web/20111008155616/http://4.bp.blogspot.com/_X0HDv9LMCK8/Sh4TghH9IiI/AAAAAAAAAC8/jOJPV20Dq6s/s1600-h/482619.jpg)Shifting ambient drones creating blissful textures.  
   
 [Download](https://web.archive.org/web/20111008155616/http://www.mediafire.com/download.php?5tgwdtoltxy) (320)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Earth%20Earth%202%20Sp
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-02-earth-earth-2-special-low-fequency-version-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-02-earth-earth-2-special-low-fequency-version-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-02-earth-earth-2-special-low-fequency-version-flac.webp)](/hfs40k/images/covers/2009-03-02-earth-earth-2-special-low-fequency-version-flac.webp)  
 The best Earth album and by default the greatest drone album.  
   
 [Download](https://web.archive.org/web/20111010170424/http://www.megaupload.com/?d=MPKL3848)

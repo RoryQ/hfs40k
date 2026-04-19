@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%20T
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-30-william-basinski-the-disintegration-loops-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-30-william-basinski-the-disintegration-loops-flac.webp)[Download flac.](https://web.archive.org/web/20111010155024/http://lix.in/-6b53d7)
+[![](/hfs40k/images/covers/2009-12-30-william-basinski-the-disintegration-loops-flac.webp)](/hfs40k/images/covers/2009-12-30-william-basinski-the-disintegration-loops-flac.webp)[Download flac.](https://web.archive.org/web/20111010155024/http://lix.in/-6b53d7)

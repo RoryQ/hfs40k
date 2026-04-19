@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Wilco%20Yankee%20Hotel
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-26-wilco-yankee-hotel-foxtrot-flacv0.webp)](/holyfuckingshit40000/images/covers/2009-12-26-wilco-yankee-hotel-foxtrot-flacv0.webp)There's a couple of brilliant tracks (I Am Trying to Break Your Heart, Ashes of American Flags, Poor Places) and some decent ones. This band really lost it when Jay Bennett left (now dead, R.I.P.) Now they have (the useless) Nels Cline and make pretty dull country.  
+[![](/hfs40k/images/covers/2009-12-26-wilco-yankee-hotel-foxtrot-flacv0.webp)](/hfs40k/images/covers/2009-12-26-wilco-yankee-hotel-foxtrot-flacv0.webp)There's a couple of brilliant tracks (I Am Trying to Break Your Heart, Ashes of American Flags, Poor Places) and some decent ones. This band really lost it when Jay Bennett left (now dead, R.I.P.) Now they have (the useless) Nels Cline and make pretty dull country.  
   
 [Download FLAC](https://web.archive.org/web/20111010155304/http://lix.in/-61674f) // \\ [Download v0](https://web.archive.org/web/20111010155304/http://lix.in/-6d9a77)

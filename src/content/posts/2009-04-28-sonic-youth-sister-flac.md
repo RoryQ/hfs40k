@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Sister
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-28-sonic-youth-sister-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-28-sonic-youth-sister-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-28-sonic-youth-sister-flac.webp)](/hfs40k/images/covers/2009-04-28-sonic-youth-sister-flac.webp)  
   
 Oh god there's a naked baby on the album cover, how edgy.  
   

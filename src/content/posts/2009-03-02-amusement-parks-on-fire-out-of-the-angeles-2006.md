@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Amusement%20Parks%20On
 
 
 
-[![](/holyfuckingshit40000/images/8fa884c440f878388270d1db56a05799.webp)](/holyfuckingshit40000/images/5a4c321b58f2faa664ab10c90787b4bc.webp)Genre: Shoegaze  
+[![](/hfs40k/images/8fa884c440f878388270d1db56a05799.webp)](/hfs40k/images/5a4c321b58f2faa664ab10c90787b4bc.webp)Genre: Shoegaze  
 Country: U.K.  
   
 Fuck yeah, I hate amusement parks.  

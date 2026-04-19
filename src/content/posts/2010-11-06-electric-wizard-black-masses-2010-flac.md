@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-11-06-electric-wizard-black-masses-2010-flac.webp)](/holyfuckingshit40000/images/covers/2010-11-06-electric-wizard-black-masses-2010-flac.webp)[Download FLAC](https://web.archive.org/web/20111010042411/http://lix.in/-942268)
+[![](/hfs40k/images/covers/2010-11-06-electric-wizard-black-masses-2010-flac.webp)](/hfs40k/images/covers/2010-11-06-electric-wizard-black-masses-2010-flac.webp)[Download FLAC](https://web.archive.org/web/20111010042411/http://lix.in/-942268)

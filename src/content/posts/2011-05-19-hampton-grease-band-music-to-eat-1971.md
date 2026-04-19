@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Hampton%20Grease%20Ban
 
 
 
-[![](/holyfuckingshit40000/images/4c57f372a948eec24fad618eccf3636b.webp)](https://web.archive.org/web/20111010093646/http://3.bp.blogspot.com/-vlEW2ETY0-4/TdX_Xpr1YbI/AAAAAAAAAVY/LmF6Oci-5sE/s1600/hamptongreaseband1.PNG)Think Pere Ubu meets Hot Rats-era Zappa? If anything, this is what I wish Trout Mask Replica was. Both are long albums but this one just feels looser and not overproduced. And to think, according to legend it is the 2nd least selling album in Columbia Records history. Go figure.
+[![](/hfs40k/images/4c57f372a948eec24fad618eccf3636b.webp)](https://web.archive.org/web/20111010093646/http://3.bp.blogspot.com/-vlEW2ETY0-4/TdX_Xpr1YbI/AAAAAAAAAVY/LmF6Oci-5sE/s1600/hamptongreaseband1.PNG)Think Pere Ubu meets Hot Rats-era Zappa? If anything, this is what I wish Trout Mask Replica was. Both are long albums but this one just feels looser and not overproduced. And to think, according to legend it is the 2nd least selling album in Columbia Records history. Go figure.
 
 [Download v0](https://web.archive.org/web/20111010093646/http://lix.in/-a3542d) // \\ [Download FLAC](https://web.archive.org/web/20111010093646/http://lix.in/-a04731)

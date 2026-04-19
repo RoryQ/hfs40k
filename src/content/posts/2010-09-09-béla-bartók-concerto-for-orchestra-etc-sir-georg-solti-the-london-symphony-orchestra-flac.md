@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3
 
 
 
-[![](/holyfuckingshit40000/images/a74d48f1cba0ddec55203a0f7570f9ea.webp)](/holyfuckingshit40000/images/a74d48f1cba0ddec55203a0f7570f9ea.webp)I've been on a Bartók binge lately, so it's only right that I post one of his most recognized masterworks. I also have a reading of this by Szell with his famous Cleveland Orchestra that I might up later on so that you all can do comparisons, but from listening to both I can say that there really isn't one I prefer over the other.
+[![](/hfs40k/images/a74d48f1cba0ddec55203a0f7570f9ea.webp)](/hfs40k/images/a74d48f1cba0ddec55203a0f7570f9ea.webp)I've been on a Bartók binge lately, so it's only right that I post one of his most recognized masterworks. I also have a reading of this by Szell with his famous Cleveland Orchestra that I might up later on so that you all can do comparisons, but from listening to both I can say that there really isn't one I prefer over the other.
 
 In composing this piece, Bartók incorporated a diverse array of influences to arrive at this paradoxically titled (a concerto is a work for solo instrument accompanied by orchestra) whole. Drawing on folk songs from his Hungarian background, the classical (period) approach to sonata form, and a modern sense of tonality (yet a not-completely-out-there sense), I view this piece as the best exemplar of Bartók's position in my mind as one of the best retrograde-thinking forward-thinkers the world of classical music has yet seen, and certainly one of the top five composers of the 20th century.
 

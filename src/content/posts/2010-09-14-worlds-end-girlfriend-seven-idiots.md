@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-14-worlds-end-girlfriend-seven-idiots.webp)](/holyfuckingshit40000/images/covers/2010-09-14-worlds-end-girlfriend-seven-idiots.webp)[flac](https://web.archive.org/web/20111010175535/http://lix.in/-8c1314)
+[![](/hfs40k/images/covers/2010-09-14-worlds-end-girlfriend-seven-idiots.webp)](/hfs40k/images/covers/2010-09-14-worlds-end-girlfriend-seven-idiots.webp)[flac](https://web.archive.org/web/20111010175535/http://lix.in/-8c1314)

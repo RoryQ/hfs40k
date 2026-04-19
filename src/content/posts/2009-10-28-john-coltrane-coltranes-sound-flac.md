@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Colt
 
 
 
-[![](/holyfuckingshit40000/images/3fdbad0f2f7d53a22316558981b620a5.webp)](https://web.archive.org/web/20111010033104/http://2.bp.blogspot.com/_nmjS6fd9kfU/Suji_jflDSI/AAAAAAAAAEU/vM8CzTTuzsk/s1600-h/folder.jpg)John Coltrane. McCoy Tyner. Elvin Jones.  
+[![](/hfs40k/images/3fdbad0f2f7d53a22316558981b620a5.webp)](https://web.archive.org/web/20111010033104/http://2.bp.blogspot.com/_nmjS6fd9kfU/Suji_jflDSI/AAAAAAAAAEU/vM8CzTTuzsk/s1600-h/folder.jpg)John Coltrane. McCoy Tyner. Elvin Jones.  
   
 [Enjoy](https://web.archive.org/web/20111010033104/http://lix.in/-63cfe7)

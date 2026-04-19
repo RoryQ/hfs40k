@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Curumin%20Achados%20e%
 
 
 
-[![](/holyfuckingshit40000/images/730064d78671205ac9e57b3d7d3eb040.webp)](https://web.archive.org/web/20111010091235/http://3.bp.blogspot.com/_JdyrURA7JYI/SkrOaEjOEwI/AAAAAAAAAC4/ggDBKaXvEjs/s1600-h/curumin.PNG)An amazing mix of trip-hop and Brazilian funk + samba. Cannsaw will probably love this if he doesn't have it already.  
+[![](/hfs40k/images/730064d78671205ac9e57b3d7d3eb040.webp)](https://web.archive.org/web/20111010091235/http://3.bp.blogspot.com/_JdyrURA7JYI/SkrOaEjOEwI/AAAAAAAAAC4/ggDBKaXvEjs/s1600-h/curumin.PNG)An amazing mix of trip-hop and Brazilian funk + samba. Cannsaw will probably love this if he doesn't have it already.  
   
 [Download](https://web.archive.org/web/20111010091235/http://lix.in/-51074d) (320ish)

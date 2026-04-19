@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Far%20Out%20Nihonjin
 
 
 
-[![](/holyfuckingshit40000/images/6f76a9a3f956b8c449df5d7a554cdb0c.webp)](https://web.archive.org/web/20111010175137/http://4.bp.blogspot.com/_cLI19EXK2oU/TBZgh7Uo2sI/AAAAAAAAAtk/J51Tyqll3zc/s1600/Far+Out.jpg)  
+[![](/hfs40k/images/6f76a9a3f956b8c449df5d7a554cdb0c.webp)](https://web.archive.org/web/20111010175137/http://4.bp.blogspot.com/_cLI19EXK2oU/TBZgh7Uo2sI/AAAAAAAAAtk/J51Tyqll3zc/s1600/Far+Out.jpg)  
 Far Out was actually the pre-cursor to Far East Family Band, much like Organisation was to Kraftwerk. But many would file Organisation's Tone Float under Kraftwerk like Far Out under Far East Family Band so these titles wouldn't get lost.  
   
 OK, so Far Out isn't Far East Family Band, aside from vocalist/guitarst Fumio Miyashta. Kitaro is not present, for one thing. Aside from Fumio, the group consisted of guitarist Eiichi Sayu, bassist Kei Ishikawa, and drummer Manami Arai (both Ishikawa and Arai later moved to Los Angeles, and recruited a couple of other Japanese musicians to form Chronicle, which, from the album I heard from them, 1977's Like a Message From the Stars, is good, but not as good as Far East Family Band).  

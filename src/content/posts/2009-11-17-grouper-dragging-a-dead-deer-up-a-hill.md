@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Grouper%20Dragging%20A
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-17-grouper-dragging-a-dead-deer-up-a-hill.webp)](/holyfuckingshit40000/images/covers/2009-11-17-grouper-dragging-a-dead-deer-up-a-hill.webp)  
+[![](/hfs40k/images/covers/2009-11-17-grouper-dragging-a-dead-deer-up-a-hill.webp)](/hfs40k/images/covers/2009-11-17-grouper-dragging-a-dead-deer-up-a-hill.webp)  
 
 One of my favourite 2008 releases
 

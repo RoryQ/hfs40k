@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Octet%
 
 
 
-[![](/holyfuckingshit40000/images/922b994a4655cd6eba03b675bab2efee.webp)](/holyfuckingshit40000/images/922b994a4655cd6eba03b675bab2efee.webp)  
-[![](/holyfuckingshit40000/images/379daf592de7c6f48899618ecee5d3dd.webp)](https://web.archive.org/web/20111010145226/http://3.bp.blogspot.com/_cLI19EXK2oU/ScX5d_6cEiI/AAAAAAAAACg/Lr295G9x8jY/s1600-h/backpanist.png) [Download](https://web.archive.org/web/20111010145226/http://www.mediafire.com/?mrnfdgwteki)
+[![](/hfs40k/images/922b994a4655cd6eba03b675bab2efee.webp)](/hfs40k/images/922b994a4655cd6eba03b675bab2efee.webp)  
+[![](/hfs40k/images/379daf592de7c6f48899618ecee5d3dd.webp)](https://web.archive.org/web/20111010145226/http://3.bp.blogspot.com/_cLI19EXK2oU/ScX5d_6cEiI/AAAAAAAAACg/Lr295G9x8jY/s1600-h/backpanist.png) [Download](https://web.archive.org/web/20111010145226/http://www.mediafire.com/?mrnfdgwteki)

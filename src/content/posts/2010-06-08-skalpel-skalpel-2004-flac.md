@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Skalpel%20Skalpel
 
 
 
-[![](/holyfuckingshit40000/images/472a3ebe28857001bfe014ce36051791.webp)](https://web.archive.org/web/20111010173018/http://3.bp.blogspot.com/_t6lWjgwMoxw/TA5lPPcOSiI/AAAAAAAAAQo/c45_TBWTNec/s1600/41A-BJ7jAiL._SS500_.jpg)  
+[![](/hfs40k/images/472a3ebe28857001bfe014ce36051791.webp)](https://web.archive.org/web/20111010173018/http://3.bp.blogspot.com/_t6lWjgwMoxw/TA5lPPcOSiI/AAAAAAAAAQo/c45_TBWTNec/s1600/41A-BJ7jAiL._SS500_.jpg)  
   
   
   

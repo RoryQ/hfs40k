@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Astra%20The%20Weirding
 
 
 
-[![](/holyfuckingshit40000/images/749a17bc109f5802f9e567c069f9dd27.webp)](https://web.archive.org/web/20111010094619/http://3.bp.blogspot.com/_A31Dfz4S5yg/SqxlVAuMpYI/AAAAAAAAAHE/M6f2CnQCuA0/s1600-h/astra-the-weirding.jpg)[insert name of good old prog rock band here] tribute album.  
+[![](/hfs40k/images/749a17bc109f5802f9e567c069f9dd27.webp)](https://web.archive.org/web/20111010094619/http://3.bp.blogspot.com/_A31Dfz4S5yg/SqxlVAuMpYI/AAAAAAAAAHE/M6f2CnQCuA0/s1600-h/astra-the-weirding.jpg)[insert name of good old prog rock band here] tribute album.  
   
 [[V0]](https://web.archive.org/web/20111010094619/http://www.mediafire.com/?r2dzwecrmcz)

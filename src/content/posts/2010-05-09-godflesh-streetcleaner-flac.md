@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Godflesh%20Streetclean
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-09-godflesh-streetcleaner-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-09-godflesh-streetcleaner-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-09-godflesh-streetcleaner-flac.webp)](/hfs40k/images/covers/2010-05-09-godflesh-streetcleaner-flac.webp)  
 I cannot imagine what sheer and utter joy a select few had upon buying this album, slipping it into the CD player, and hearing it for the first time. I discovered Godflesh later (with the "Slavestate" single), and by the time I got around to buying a copy of Streetcleaner, I already knew Slavestate and Pure backwards and forwards. So I was ready for the opening bars of "Like Rats," and I knew what I was about to hear, more or less.  
   
 But oh, my, what it must have been to hear something so thoroughly brutal and unrestrained, with lyrics that wouldn't overly confuse a bright six-year-old and a repetitive drum line that sounds like it was created on a cruelly cheap Roland (mainly because it was), and yet at the same time have all that coalesce into the work of profound beauty that is Streetcleaner.   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%2
 
 
 
-[![](/holyfuckingshit40000/images/f5389978c170582076a60a24fcfc1df5.webp)](https://web.archive.org/web/20111010053158/http://3.bp.blogspot.com/_cLI19EXK2oU/TElBcL0XpOI/AAAAAAAAAvs/qtxEqPxqec4/s1600/zappaonlymoney2s.jpg)  
+[![](/hfs40k/images/f5389978c170582076a60a24fcfc1df5.webp)](https://web.archive.org/web/20111010053158/http://3.bp.blogspot.com/_cLI19EXK2oU/TElBcL0XpOI/AAAAAAAAAvs/qtxEqPxqec4/s1600/zappaonlymoney2s.jpg)  
 Zappa's mocking attack of the "summer of love" and its adherents' bloated self-importance might seem dated to some (I still find it very funny), but the satire of "We're Only in it for the Money" isn't really the point. Its strength lies in Zappa's command in the studio and his ability to piece together a huge patchwork of sounds into one wonderfully varied 39-minute work.
 
 The 1968 release was Zappa's answer to the Beatles' "Sergeant Pepper's Lonely Hearts Club Band," which he lampoons on the cover. The Beatles' work had in turn been inspired by the Mothers' "Freak Out." Whatever the difference between "Money" and the Lennon and McCartney's work, though, the two albums share one similarity: they both surprise with sound. Zappa's work includes patches of melody played backward, spoken words, doo-wop, surf music, hard-edged guitar, and a note held at the end of the tone poem "The Chrome-Plated Megaphone of Destiny," which ends the album and provides Zappa's final comment to the closer of "Sergeant Pepper's," the then-spooky "Day in the Life."

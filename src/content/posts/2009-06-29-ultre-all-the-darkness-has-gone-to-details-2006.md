@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ultre%20All%20The%20Da
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-29-ultre-all-the-darkness-has-gone-to-details-2006.webp)](/holyfuckingshit40000/images/covers/2009-06-29-ultre-all-the-darkness-has-gone-to-details-2006.webp)  
+[![](/hfs40k/images/covers/2009-06-29-ultre-all-the-darkness-has-gone-to-details-2006.webp)](/hfs40k/images/covers/2009-06-29-ultre-all-the-darkness-has-gone-to-details-2006.webp)  
 ledhendrix2doors's request  
   
 [Download v0](https://web.archive.org/web/20111010091052/http://lix.in/-53e799)

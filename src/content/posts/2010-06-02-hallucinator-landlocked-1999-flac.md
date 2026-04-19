@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hallucinator%20Landloc
 
 
 
-[![](/holyfuckingshit40000/images/7aadb62bdde4272e45be67cbc249ffcd.webp)](https://web.archive.org/web/20111010173150/http://3.bp.blogspot.com/_t6lWjgwMoxw/TAe2R-XSKlI/AAAAAAAAAQY/9NnWO6hfk2c/s1600/R-707-1233084896.jpeg)  
+[![](/hfs40k/images/7aadb62bdde4272e45be67cbc249ffcd.webp)](https://web.archive.org/web/20111010173150/http://3.bp.blogspot.com/_t6lWjgwMoxw/TAe2R-XSKlI/AAAAAAAAAQY/9NnWO6hfk2c/s1600/R-707-1233084896.jpeg)  
   
   
   

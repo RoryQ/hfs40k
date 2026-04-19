@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dio%20Holy%20Diver
 
 
 
-[![](/holyfuckingshit40000/images/ef12c93d4f87cf744bcc2ad4f8e67289.webp)](https://web.archive.org/web/20111010100238/http://4.bp.blogspot.com/_cLI19EXK2oU/S_a7LPCP-VI/AAAAAAAAAnk/fkdXo9eSr2A/s1600/Dio-INT.jpg)  
+[![](/hfs40k/images/ef12c93d4f87cf744bcc2ad4f8e67289.webp)](https://web.archive.org/web/20111010100238/http://4.bp.blogspot.com/_cLI19EXK2oU/S_a7LPCP-VI/AAAAAAAAAnk/fkdXo9eSr2A/s1600/Dio-INT.jpg)  
  [;\_;](https://web.archive.org/web/20111010100238/http://lix.in/-7e548e)  
   
 Password: haveanicelife

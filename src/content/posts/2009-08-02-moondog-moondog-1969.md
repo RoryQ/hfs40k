@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Moondog%20Moondog
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-02-moondog-moondog-1969.webp)](/holyfuckingshit40000/images/covers/2009-08-02-moondog-moondog-1969.webp)The legendary hobo's best album. Although only 30 minutes, it is his best work in my opinion. A nice mix of classical music, jazz, and percussion from his own invented instruments.  
+[![](/hfs40k/images/covers/2009-08-02-moondog-moondog-1969.webp)](/hfs40k/images/covers/2009-08-02-moondog-moondog-1969.webp)The legendary hobo's best album. Although only 30 minutes, it is his best work in my opinion. A nice mix of classical music, jazz, and percussion from his own invented instruments.  
   
 320kbps download in comments. Thanks 10806.

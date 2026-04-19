@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Cardigans%20Life
 
 
 
-[![](/holyfuckingshit40000/images/c39bfcd5f492db7b8835cc159c590182.webp)](https://web.archive.org/web/20101203191653/http://3.bp.blogspot.com/_A31Dfz4S5yg/SwWrUcBqPKI/AAAAAAAAAJ8/rpRqXOKcsUA/s1600/life.jpg)Not so bad twee pop.  
+[![](/hfs40k/images/c39bfcd5f492db7b8835cc159c590182.webp)](https://web.archive.org/web/20101203191653/http://3.bp.blogspot.com/_A31Dfz4S5yg/SwWrUcBqPKI/AAAAAAAAAJ8/rpRqXOKcsUA/s1600/life.jpg)Not so bad twee pop.  
   
 [download flac](https://web.archive.org/web/20101203191653/http://lix.in/-5fec2e)  
   

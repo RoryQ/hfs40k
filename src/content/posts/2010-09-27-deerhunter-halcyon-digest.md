@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Deerhunter%20Halcyon%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-27-deerhunter-halcyon-digest.webp)](/holyfuckingshit40000/images/covers/2010-09-27-deerhunter-halcyon-digest.webp)mhm  
+[![](/hfs40k/images/covers/2010-09-27-deerhunter-halcyon-digest.webp)](/hfs40k/images/covers/2010-09-27-deerhunter-halcyon-digest.webp)mhm  
   
 [flac](https://web.archive.org/web/20111209004954/http://lix.in/-8fbf02)

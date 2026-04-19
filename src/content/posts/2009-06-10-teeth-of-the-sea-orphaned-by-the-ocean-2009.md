@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Teeth%20of%20the%20Sea
 
 
 
-[![](/holyfuckingshit40000/images/9aff71708590cc9c11e580e0cfd16d5a.webp)](https://web.archive.org/web/20111010084609/http://3.bp.blogspot.com/_X0HDv9LMCK8/SjACdTsrQGI/AAAAAAAAADM/TB6Jeu3C9Ug/s1600-h/2064015.jpg)You know, it's easy to describe an album with a few words describing genres found within it to give a general idea of what you're getting into, but with Teeth of the Sea's debut I have been scraping at my mind to figure out how to do that.  
+[![](/hfs40k/images/9aff71708590cc9c11e580e0cfd16d5a.webp)](https://web.archive.org/web/20111010084609/http://3.bp.blogspot.com/_X0HDv9LMCK8/SjACdTsrQGI/AAAAAAAAADM/TB6Jeu3C9Ug/s1600-h/2064015.jpg)You know, it's easy to describe an album with a few words describing genres found within it to give a general idea of what you're getting into, but with Teeth of the Sea's debut I have been scraping at my mind to figure out how to do that.  
   
 I have heard many, many, genres of music and a plethora of artists within those genres, and I have to say this release is one of the most unique and unclassifiable things I have ever heard. The way the album flows makes me perceive it is a living, breathing, entity of its own. A general idea of what you're getting into I guess would be a post-rock/drone/tribal/sound-scape cluster-fuck in an opium den complete with brass instruments.  
   

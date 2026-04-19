@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20Gho
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-21-sun-kil-moon-ghosts-of-the-great-highway-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-21-sun-kil-moon-ghosts-of-the-great-highway-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-21-sun-kil-moon-ghosts-of-the-great-highway-flac.webp)](/hfs40k/images/covers/2010-05-21-sun-kil-moon-ghosts-of-the-great-highway-flac.webp)  
 With his early '90s band, the Red House Painters, San Francisco's Mark Kozelek struck a chord of disquiet and bohemian poignancy that made that band the darling of the scribbling-poems-to-the-pretty-barista-who-will-never-know-my-name set. With lovely, unadorned melodies and Kozelek's angst-ridden tributes to disillusionment, the Red House Painters influenced a score of later bands who lacked his rich melodic imagination and incisive lyrics -- Low is a good example -- resulting in Kozelek himself being typecast as the maestro of "mopecore." Then he did something unforgivable in the minds of some of his fans: he evolved.
 
 Without rehashing the epic travails and record-biz nightmares that caused RHP's fine album "Old Ramon" to be delayed in release for years after it was finished, the good news is that "Ghosts of the Great Highway" not only continues the evolutionary path Kozelek took on later RHP work like "Songs for a Blue Guitar" and his solo album "Rock and Roll Singer," it's a masterpiece on its own terms, and the most magnificent rock album of 2003.

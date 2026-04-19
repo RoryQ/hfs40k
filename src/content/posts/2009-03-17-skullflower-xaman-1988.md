@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Skullflower%20Xaman
 
 
 
-[![](/holyfuckingshit40000/images/d3c5292867f14541171d6ce1d4abcaa9.webp)](/holyfuckingshit40000/images/d3c5292867f14541171d6ce1d4abcaa9.webp)  
+[![](/hfs40k/images/d3c5292867f14541171d6ce1d4abcaa9.webp)](/hfs40k/images/d3c5292867f14541171d6ce1d4abcaa9.webp)  
 Do you like mindless distortion and feedbacking? Listen to this album.  
   
 [Download](https://web.archive.org/web/20111010164810/http://www.mediafire.com/?inyntcmizym)

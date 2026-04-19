@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Joe%20Henderson%20Inne
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-26-joe-henderson-inner-urge-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-26-joe-henderson-inner-urge-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-26-joe-henderson-inner-urge-flac.webp)](/hfs40k/images/covers/2009-05-26-joe-henderson-inner-urge-flac.webp)  
 For those "in the know," just looking at the musicians on this album (the leader, Henderson; McCoy Tyner; Bob Cranshaw; Elvin Jones) should make you instantly jump for the download button. For those who aren't, this quartet consists of one half of John Coltrane's mid-60s lineup (Tyner and Jones), with the rock solid Cranshaw rounding out the rhythm section. Take a listen to "El Barrio" and try to resist being floored.  
  [Enjoy](https://web.archive.org/web/20111008155651/http://www.megaupload.com/?d=0ZD3HLKU)

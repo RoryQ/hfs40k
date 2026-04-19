@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shackleton%20fabric%20
 
 
 
-[![](/holyfuckingshit40000/images/32effbd032ca8ab58f8569901667c426.webp)](https://web.archive.org/web/20101212233833/http://2.bp.blogspot.com/_t6lWjgwMoxw/TP4ynk4TypI/AAAAAAAAAd0/166I_Pg0gz8/s1600/fabric55_Album-Cover1.jpg)  
+[![](/hfs40k/images/32effbd032ca8ab58f8569901667c426.webp)](https://web.archive.org/web/20101212233833/http://2.bp.blogspot.com/_t6lWjgwMoxw/TP4ynk4TypI/AAAAAAAAAd0/166I_Pg0gz8/s1600/fabric55_Album-Cover1.jpg)  
   
   
   

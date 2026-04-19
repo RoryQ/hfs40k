@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neil%20Young%20Harvest
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-25-neil-young-harvest-2009-remaster-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-25-neil-young-harvest-2009-remaster-flac.webp)  
+[![](/hfs40k/images/covers/2010-07-25-neil-young-harvest-2009-remaster-flac.webp)](/hfs40k/images/covers/2010-07-25-neil-young-harvest-2009-remaster-flac.webp)  
 Neil Young's Harvest is sometimes dismissed as his most commercial album, due in part to the success of Heart of Gold as a single. He's been criticized for employing lush strings on a couple of tunes here (A Man Needs a Maid; There's a World) but I don't care what anybody says; they work, and the songs are gorgeous. In fact, the whole record is full of great songs. Out on the Weekend, Heart of Gold, Old Man, Needle and the Damage Done, -- how many albums can boast a lineup like that? Bottom line is, this rates with his best work. Don't miss it.  
   
 [Heart of Gold](https://web.archive.org/web/20111010053115/http://lix.in/-89f12f)  

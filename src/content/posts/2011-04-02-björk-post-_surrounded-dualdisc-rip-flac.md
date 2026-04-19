@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Post%20_S
 
 
 
-[![](/holyfuckingshit40000/images/5f746e553f6d6db9d50c2f5139aedf3a.webp)](https://web.archive.org/web/20111010150032/http://1.bp.blogspot.com/-gx4-Au93_FM/TZeyq0UPGPI/AAAAAAAAAAQ/r4IqS7tVjzc/s1600/front.jpg)
+[![](/hfs40k/images/5f746e553f6d6db9d50c2f5139aedf3a.webp)](https://web.archive.org/web/20111010150032/http://1.bp.blogspot.com/-gx4-Au93_FM/TZeyq0UPGPI/AAAAAAAAAAQ/r4IqS7tVjzc/s1600/front.jpg)
 
   
 Look, I could write some self-indulgent diatribe about how great this album is, or you could just do yourself a favor and download the fucking thing.  

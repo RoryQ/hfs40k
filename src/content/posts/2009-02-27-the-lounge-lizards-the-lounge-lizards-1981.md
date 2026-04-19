@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Lounge%20Lizards
 
 
 
-[![](/holyfuckingshit40000/images/0c06d3c1243faee4cda24e8ccc5dd8fb.webp)](/holyfuckingshit40000/images/471edfd6fbb9b9b13a544a68ef232f1e.webp)  
+[![](/hfs40k/images/0c06d3c1243faee4cda24e8ccc5dd8fb.webp)](/hfs40k/images/471edfd6fbb9b9b13a544a68ef232f1e.webp)  
 Genre: Avant-Garde Jazz / No Wave  
 Country: U.S.  
   

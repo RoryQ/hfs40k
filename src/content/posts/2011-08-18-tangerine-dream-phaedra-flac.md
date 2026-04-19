@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tangerine%20Dream%20Ph
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-08-18-tangerine-dream-phaedra-flac.webp)](/holyfuckingshit40000/images/covers/2011-08-18-tangerine-dream-phaedra-flac.webp)
+[![](/hfs40k/images/covers/2011-08-18-tangerine-dream-phaedra-flac.webp)](/hfs40k/images/covers/2011-08-18-tangerine-dream-phaedra-flac.webp)
   
 If I could pick one of the over 60 Tangerine Dream albums, "Phaedra" would be it. Recorded in 1974, it was released during a time that was gloriously free of heavy drum beats or anything that detracted from the harmonious flow of the music. Track one starts out as a crescendo of electronic arpeggios that climax into a glorious, colorful burst, producing waves of major chords and sonic waveforms that seem to be in tune with the surreal portions of the mind. Although less than 40 minutes long, this wonderful composition marks the gem of the three best TD albums, the others being "Ricochet", and "Rubycon". Unique, timeless and inimitable, music like Tangerine Dream is what the people of the future will be calling classical.
   

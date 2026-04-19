@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Atheist%20Unquestionab
 
 
 
-[![](/holyfuckingshit40000/images/b757b3a4a5dc475bc994b4cee95e37c4.webp)](https://web.archive.org/web/20111010142133/http://2.bp.blogspot.com/_cLI19EXK2oU/Sl93ERJXdEI/AAAAAAAAAPo/SRsfPlWQ3ws/s1600-h/atheist.jpg)  
+[![](/hfs40k/images/b757b3a4a5dc475bc994b4cee95e37c4.webp)](https://web.archive.org/web/20111010142133/http://2.bp.blogspot.com/_cLI19EXK2oU/Sl93ERJXdEI/AAAAAAAAAPo/SRsfPlWQ3ws/s1600-h/atheist.jpg)  
 Hurf Durf "JAZZ METAL"  
   
   

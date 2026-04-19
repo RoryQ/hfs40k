@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rachel%27s%20Selenogra
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-20-rachels-selenography-1999.webp)](/holyfuckingshit40000/images/covers/2009-06-20-rachels-selenography-1999.webp)  
+[![](/hfs40k/images/covers/2009-06-20-rachels-selenography-1999.webp)](/hfs40k/images/covers/2009-06-20-rachels-selenography-1999.webp)  
 Come and get it quick before the invisible Rachel's police come and shoot it down.  
   
 [Download (320)](https://web.archive.org/web/20111010085234/http://lix.in/-4fbc3f)

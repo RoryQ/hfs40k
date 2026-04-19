@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Rev.%20Utah%20Smith%20
 
 
 
-[![](/holyfuckingshit40000/images/986763c33deb5695a5ccdf1a177ceb9d.webp)](/holyfuckingshit40000/images/986763c33deb5695a5ccdf1a177ceb9d.webp)What can I say about gospel? Highly recommended.  
+[![](/hfs40k/images/986763c33deb5695a5ccdf1a177ceb9d.webp)](/hfs40k/images/986763c33deb5695a5ccdf1a177ceb9d.webp)What can I say about gospel? Highly recommended.  
 
 [Download](https://web.archive.org/web/20111010033144/http://lix.in/-57f6ab)

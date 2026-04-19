@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Broken%20Social%20Scen
 
 
 
-[![](/holyfuckingshit40000/images/077862c60d6fd8f6b1668e8491466d99.webp)](https://web.archive.org/web/20111008155436/http://1.bp.blogspot.com/_cLI19EXK2oU/SgiHK5aTaoI/AAAAAAAAAFA/4nw3sWKyVYM/s1600-h/ac014.jpg)  
+[![](/hfs40k/images/077862c60d6fd8f6b1668e8491466d99.webp)](https://web.archive.org/web/20111008155436/http://1.bp.blogspot.com/_cLI19EXK2oU/SgiHK5aTaoI/AAAAAAAAAFA/4nw3sWKyVYM/s1600-h/ac014.jpg)  
 Karppaky's request.  
   
 If there's enough demand I can upload the bonus EP that came with it.  

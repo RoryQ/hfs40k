@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/304d69d186a5502ad853c45fdf4e350e.webp)](/holyfuckingshit40000/images/a2d4fdaa9e441d738b52ce425b1f91cc.webp)  
+[![](/hfs40k/images/304d69d186a5502ad853c45fdf4e350e.webp)](/hfs40k/images/a2d4fdaa9e441d738b52ce425b1f91cc.webp)  
  [download flac](https://web.archive.org/web/20111010082024/http://www.megaupload.com/?d=BZ1EUMO9)  
   
 (link from [ughireallydontknow](https://web.archive.org/web/20111010082024/http://ughireallydontknow.blogspot.com/))

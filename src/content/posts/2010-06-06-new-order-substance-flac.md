@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=New%20Order%20Substanc
 
 
 
-[![](/holyfuckingshit40000/images/49b7cab6442386264b3965b82d3e39de.gif)](https://web.archive.org/web/20111010173003/http://3.bp.blogspot.com/_cLI19EXK2oU/TAwxIXuDTpI/AAAAAAAAAsU/F1gGgI2MniY/s1600/new_order_substance.gif)  
+[![](/hfs40k/images/49b7cab6442386264b3965b82d3e39de.gif)](https://web.archive.org/web/20111010173003/http://3.bp.blogspot.com/_cLI19EXK2oU/TAwxIXuDTpI/AAAAAAAAAsU/F1gGgI2MniY/s1600/new_order_substance.gif)  
 Shortly after Ian Curtis committed suicide in 1980, it appeared as if his band Joy Division had died with him, and its members would now have to give up what were once very promising careers. But the surviving members weren't going to give up that easy & after changing their name to New Order (with the addition of keyboardist Gillian Gilbert & Joy Division guitarist Bernard Sumner taking over vocal duties), they released their first single "Ceremony" to modest commercial success, but substantial raves in the dance club underground. New Order released four studio albums in the first half of the 1980s, then in 1987, created an early career-capper with the unique retrospective SUBSTANCE.
 
 Certainly smarter than your average greatest-hits collection, SUBSTANCE mostly is a gathering of New Order's early singles that never appeared on their albums, along with 12" single mixes that perhaps had become rare almost immediately after their initial release. 24 songs of these types are here on SUBSTANCE for posterity, but instead of it being another way of bringing royalities to the band, it's an extremely fine introduction to New Order, who at this point were just on the cusp of mainstream chart success.

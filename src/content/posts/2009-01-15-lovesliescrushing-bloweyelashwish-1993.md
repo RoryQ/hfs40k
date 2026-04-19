@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Lovesliescrushing%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/8e83d30e13e657aef7490a0ae5d2982d.webp)](/holyfuckingshit40000/images/8e83d30e13e657aef7490a0ae5d2982d.webp)  
+[![](/hfs40k/images/8e83d30e13e657aef7490a0ae5d2982d.webp)](/hfs40k/images/8e83d30e13e657aef7490a0ae5d2982d.webp)  
 Genre: Shoegaze  
 Country: U.S.  
   

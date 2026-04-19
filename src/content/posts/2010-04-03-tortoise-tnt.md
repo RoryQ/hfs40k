@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tortoise%20TNT
 
 
 
-[![](https://web.archive.org/web/20111010045905im_/http://3.bp.blogspot.com/_9vpegXTmIbs/S7eMuNztH2I/AAAAAAAAAAU/wMXQqjsQm0Q/s320/Tortoise12298TNT.jpg)](/holyfuckingshit40000/images/e4573dc384bfe92e6892e83fc3ef6e1c.webp)  
+[![](https://web.archive.org/web/20111010045905im_/http://3.bp.blogspot.com/_9vpegXTmIbs/S7eMuNztH2I/AAAAAAAAAAU/wMXQqjsQm0Q/s320/Tortoise12298TNT.jpg)](/hfs40k/images/e4573dc384bfe92e6892e83fc3ef6e1c.webp)  
 
 You may remember me for the up of really nice stuff -sure you do!!-... don't you?  
 At this time you must be laughing, not because of my sense of humour, but beacause of my poor english writing skills. Anyway you can expect nothing of me, but low quality posts.

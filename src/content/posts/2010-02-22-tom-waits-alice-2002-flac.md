@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Alice
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-22-tom-waits-alice-2002-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-22-tom-waits-alice-2002-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-22-tom-waits-alice-2002-flac.webp)](/hfs40k/images/covers/2010-02-22-tom-waits-alice-2002-flac.webp)  
 
 A newish release from Tom Waits, definitely a polarising one. Here, he's musically and lyrically direct, something he's not really renowned for. "The only strings that hold me here/Are tangled up around the pier/And so a secret kiss/Brings madness with the bliss/And I will think of this/When I'm dead and in my grave/Set me adrift/I'm lost over there/But I must be insane/To go on skating on your name/And by tracing it twice I fell through the ice/Of *Alice*/There's only*Alice*"
 

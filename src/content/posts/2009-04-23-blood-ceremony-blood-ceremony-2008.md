@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Blood%20Ceremony%20Blo
 
 
 
-[![](/holyfuckingshit40000/images/c9d8b3890d4111cacdd6d4378b1b3c5d.webp)](https://web.archive.org/web/20111010130710/http://3.bp.blogspot.com/_5cVyPU93ihM/SfCctu3ey0I/AAAAAAAAAEk/hTARXjXP1G8/s1600-h/cover.jpg)  
+[![](/hfs40k/images/c9d8b3890d4111cacdd6d4378b1b3c5d.webp)](https://web.archive.org/web/20111010130710/http://3.bp.blogspot.com/_5cVyPU93ihM/SfCctu3ey0I/AAAAAAAAAEk/hTARXjXP1G8/s1600-h/cover.jpg)  
 Ever wondered what would happen if you mixed Sabbath, Tull and a female vocalist together?  
   
 [Download](https://web.archive.org/web/20111010130710/http://lix.in/-464be5) (VBR/V2)  

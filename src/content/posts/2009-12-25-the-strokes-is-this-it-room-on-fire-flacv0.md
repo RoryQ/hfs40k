@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Strokes%20Is%20T
 
 
 
-[![](/holyfuckingshit40000/images/93ebb639f61686ae4d256b6257285bcc.webp)](https://web.archive.org/web/20111010154928/http://1.bp.blogspot.com/_JdyrURA7JYI/SzV1bu4DoQI/AAAAAAAAALg/VVC9oj8mYAE/s1600-h/strokesisfire.PNG)Two decent rock albums that try to mix Television-esque riffing and poppy hooks. Is This It is the US version.  
+[![](/hfs40k/images/93ebb639f61686ae4d256b6257285bcc.webp)](https://web.archive.org/web/20111010154928/http://1.bp.blogspot.com/_JdyrURA7JYI/SzV1bu4DoQI/AAAAAAAAALg/VVC9oj8mYAE/s1600-h/strokesisfire.PNG)Two decent rock albums that try to mix Television-esque riffing and poppy hooks. Is This It is the US version.  
   
 Is This It:  
 [Download FLAC](https://web.archive.org/web/20111010154928/http://lix.in/-613879) // \\ [Download v0](https://web.archive.org/web/20111010154928/http://lix.in/-6ef418)  

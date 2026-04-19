@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20The%20Ti
 
 
 
-[![](/holyfuckingshit40000/images/a07c7b19c910ecab954b95dc33b82d19.webp)](/holyfuckingshit40000/images/9f36b9a506ca17b79f00fda120ced59e.webp)  
+[![](/hfs40k/images/a07c7b19c910ecab954b95dc33b82d19.webp)](/hfs40k/images/9f36b9a506ca17b79f00fda120ced59e.webp)  
   
 The first album I ever gave you guys. Trying to be a bit more down-low this time.  
   

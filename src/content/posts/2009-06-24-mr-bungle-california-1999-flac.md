@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Mr.%20Bungle%20Califor
 
 
 
-[![](/holyfuckingshit40000/images/22af870081fb19ed763124c84aafbfac.webp)](https://web.archive.org/web/20111010085038/http://1.bp.blogspot.com/_7ZAm7Q56iwM/SkLcX49156I/AAAAAAAAAFU/xA9DPAL3gIE/s1600-h/folder.jpg)  
+[![](/hfs40k/images/22af870081fb19ed763124c84aafbfac.webp)](https://web.archive.org/web/20111010085038/http://1.bp.blogspot.com/_7ZAm7Q56iwM/SkLcX49156I/AAAAAAAAAFU/xA9DPAL3gIE/s1600-h/folder.jpg)  
 [Mike Patton.](https://web.archive.org/web/20111010085038/http://lix.in/-4a2f2d)

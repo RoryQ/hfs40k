@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Third%20Eye%20Fo
 
 
 
-[![](/holyfuckingshit40000/images/7de5ecdaba1e804928df3f4e5ebf9fbd.webp)](https://web.archive.org/web/20111010153153/http://2.bp.blogspot.com/_U_-AMxSHIOo/SypYx-K-V5I/AAAAAAAAACU/ty1AbyjUr60/s1600-h/84802.jpg)  
+[![](/hfs40k/images/7de5ecdaba1e804928df3f4e5ebf9fbd.webp)](https://web.archive.org/web/20111010153153/http://2.bp.blogspot.com/_U_-AMxSHIOo/SypYx-K-V5I/AAAAAAAAACU/ty1AbyjUr60/s1600-h/84802.jpg)  
   
   
 some sick drum and bass. geddit  

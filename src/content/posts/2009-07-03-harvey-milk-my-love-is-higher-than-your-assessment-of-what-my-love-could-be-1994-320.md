@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20My%20L
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-03-harvey-milk-my-love-is-higher-than-your-assessment-of-what-my-love-could-be-1994-320.webp)](/holyfuckingshit40000/images/covers/2009-07-03-harvey-milk-my-love-is-higher-than-your-assessment-of-what-my-love-could-be-1994-320.webp)Sounds like Melvins covering Swans, or Swans covering Melvins  
+[![](/hfs40k/images/covers/2009-07-03-harvey-milk-my-love-is-higher-than-your-assessment-of-what-my-love-could-be-1994-320.webp)](/hfs40k/images/covers/2009-07-03-harvey-milk-my-love-is-higher-than-your-assessment-of-what-my-love-could-be-1994-320.webp)Sounds like Melvins covering Swans, or Swans covering Melvins  
   
 Download (MF)  
 [Part 1](https://web.archive.org/web/20111010142846/http://lix.in/-55e8e2)  

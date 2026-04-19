@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Buried%20at%20Sea%20Mi
 
 
 
-[![](/holyfuckingshit40000/images/608d0ae66439cd5d7ced056c9911311f.webp)](https://web.archive.org/web/20111010085021/http://4.bp.blogspot.com/_X0HDv9LMCK8/SkfbNtMUUrI/AAAAAAAAAD8/gO0eSB5wtGM/s1600-h/156559.jpg)The heaviest album you've never heard.  
+[![](/hfs40k/images/608d0ae66439cd5d7ced056c9911311f.webp)](https://web.archive.org/web/20111010085021/http://4.bp.blogspot.com/_X0HDv9LMCK8/SkfbNtMUUrI/AAAAAAAAAD8/gO0eSB5wtGM/s1600-h/156559.jpg)The heaviest album you've never heard.  
   
 [Download (320)](https://web.archive.org/web/20111010085021/http://lix.in/-5557c4)

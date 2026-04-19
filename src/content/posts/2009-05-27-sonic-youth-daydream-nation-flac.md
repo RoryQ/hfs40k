@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Daydre
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-27-sonic-youth-daydream-nation-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-27-sonic-youth-daydream-nation-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-27-sonic-youth-daydream-nation-flac.webp)](/hfs40k/images/covers/2009-05-27-sonic-youth-daydream-nation-flac.webp)  
   
 Reuploaded by very popular demand  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sleep%20Sleep%27s%20Ho
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-23-sleep-sleeps-holy-mountain-1993-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-23-sleep-sleeps-holy-mountain-1993-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-23-sleep-sleeps-holy-mountain-1993-flac.webp)](/hfs40k/images/covers/2009-06-23-sleep-sleeps-holy-mountain-1993-flac.webp)  
 WE. ARE. BIG.  
   
 [Download](https://web.archive.org/web/20111010091402/http://lix.in/-4e9a48) (MU)  

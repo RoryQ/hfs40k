@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rachel%27s%20Systems%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-13-rachels-systems-layers-2003.webp)](/holyfuckingshit40000/images/covers/2009-03-13-rachels-systems-layers-2003.webp)  
+[![](/hfs40k/images/covers/2009-03-13-rachels-systems-layers-2003.webp)](/hfs40k/images/covers/2009-03-13-rachels-systems-layers-2003.webp)  
   
   
 The last and most traditional Rachel's album. Recommended for fans of Dirty Three & Labradford.  

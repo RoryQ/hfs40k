@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Mogwai%20Young%20Team
 
 
 
-[![](/holyfuckingshit40000/images/31429be8a56afb62966ff5a66f0f8c64.webp)](/holyfuckingshit40000/images/31429be8a56afb62966ff5a66f0f8c64.webp)  
+[![](/hfs40k/images/31429be8a56afb62966ff5a66f0f8c64.webp)](/hfs40k/images/31429be8a56afb62966ff5a66f0f8c64.webp)  
 Best post-rock album that isn't by Godspeed amirite?  
 [MOGWAI FEAR SATAN](https://web.archive.org/web/20111010095624/http://lix.in/-822ffe)

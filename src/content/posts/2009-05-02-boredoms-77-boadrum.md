@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%2077%20Boadru
 
 
 
-[![](/holyfuckingshit40000/images/2db834f200c7d37499f06f6a38ffe626.webp)](https://web.archive.org/web/20111008143219/http://4.bp.blogspot.com/_X0HDv9LMCK8/SfzKZ4diuII/AAAAAAAAAB0/W_-loj3hoXA/s1600-h/1863902.jpg)  
+[![](/hfs40k/images/2db834f200c7d37499f06f6a38ffe626.webp)](https://web.archive.org/web/20111008143219/http://4.bp.blogspot.com/_X0HDv9LMCK8/SfzKZ4diuII/AAAAAAAAAB0/W_-loj3hoXA/s1600-h/1863902.jpg)  
 Boredoms + 77 drummers = awesome transcendent drum textures  
   
 I envy anyone that was actually there to witness it.  

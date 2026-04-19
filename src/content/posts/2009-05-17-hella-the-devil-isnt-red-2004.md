@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Hella%20The%20Devil%20
 
 
 
-[![](/holyfuckingshit40000/images/f5ec7fda4718c11546e34f8ad7a0e765.webp)](https://web.archive.org/web/20111008142842/http://2.bp.blogspot.com/_X0HDv9LMCK8/ShBJX6D4LiI/AAAAAAAAACk/8pTZMEB633o/s1600-h/110193.jpg)This is my favorite of theirs but if there's demand I'll upload "Hold Your Horse Is".  
+[![](/hfs40k/images/f5ec7fda4718c11546e34f8ad7a0e765.webp)](https://web.archive.org/web/20111008142842/http://2.bp.blogspot.com/_X0HDv9LMCK8/ShBJX6D4LiI/AAAAAAAAACk/8pTZMEB633o/s1600-h/110193.jpg)This is my favorite of theirs but if there's demand I'll upload "Hold Your Horse Is".  
   
 [Download](https://web.archive.org/web/20111008142842/http://www.mediafire.com/download.php?mwtnlm2tmzi) (320)

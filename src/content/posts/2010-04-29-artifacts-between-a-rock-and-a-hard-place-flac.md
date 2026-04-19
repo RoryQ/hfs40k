@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Artifacts%20Between%20
 
 
 
-[![](/holyfuckingshit40000/images/454e9c7015b6805074875de855661b68.webp)](https://web.archive.org/web/20111010045100/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9l_UY8qRjI/AAAAAAAAALs/ZIDGTP_qE1M/s1600/cover.jpg)  
+[![](/hfs40k/images/454e9c7015b6805074875de855661b68.webp)](https://web.archive.org/web/20111010045100/http://3.bp.blogspot.com/_t6lWjgwMoxw/S9l_UY8qRjI/AAAAAAAAALs/ZIDGTP_qE1M/s1600/cover.jpg)  
   
   
   

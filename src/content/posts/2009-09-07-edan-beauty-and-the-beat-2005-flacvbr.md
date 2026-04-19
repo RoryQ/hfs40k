@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Edan%20Beauty%20and%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-07-edan-beauty-and-the-beat-2005-flacvbr.webp)](/holyfuckingshit40000/images/covers/2009-09-07-edan-beauty-and-the-beat-2005-flacvbr.webp)Pretty good for a jew.  
+[![](/hfs40k/images/covers/2009-09-07-edan-beauty-and-the-beat-2005-flacvbr.webp)](/hfs40k/images/covers/2009-09-07-edan-beauty-and-the-beat-2005-flacvbr.webp)Pretty good for a jew.  
   
 Download FLAC: [1](https://web.archive.org/web/20111010094039/http://lix.in/-5a6e38) / [2](https://web.archive.org/web/20111010094039/http://lix.in/-5a6e42) / [3](https://web.archive.org/web/20111010094039/http://lix.in/-576114)  
 [Download VBR](https://web.archive.org/web/20111010094039/http://lix.in/-57611e)

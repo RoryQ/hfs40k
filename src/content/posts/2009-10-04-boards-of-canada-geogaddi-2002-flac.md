@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/83371e03c4d55dcbcda9f920630389d9.webp)](https://web.archive.org/web/20111010033000/http://2.bp.blogspot.com/_TSxXUm0_hPM/Ssh9zmUJQHI/AAAAAAAABqo/K50Y8R4Eu3c/s1600-h/cover.jpg)  
+[![](/hfs40k/images/83371e03c4d55dcbcda9f920630389d9.webp)](https://web.archive.org/web/20111010033000/http://2.bp.blogspot.com/_TSxXUm0_hPM/Ssh9zmUJQHI/AAAAAAAABqo/K50Y8R4Eu3c/s1600-h/cover.jpg)  
 Requested by [Talvi](https://web.archive.org/web/20111010033000/http://rateyourmusic.com/%7ETalvi).  
 This is not Music Has the Right to Children IMO.  
 But, hey, it's still Boards of Canada.  

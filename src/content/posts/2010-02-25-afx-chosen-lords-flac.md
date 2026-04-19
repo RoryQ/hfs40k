@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=AFX%20Chosen%20Lords
 
 
 
-[![](/holyfuckingshit40000/images/c3d811b7bec7e8de247adb015c8311ec.webp)](https://web.archive.org/web/20111010160129/http://4.bp.blogspot.com/_A31Dfz4S5yg/S4baHWl6eZI/AAAAAAAAARU/zLo7S88lc6w/s1600-h/chla.jpg)  
+[![](/hfs40k/images/c3d811b7bec7e8de247adb015c8311ec.webp)](https://web.archive.org/web/20111010160129/http://4.bp.blogspot.com/_A31Dfz4S5yg/S4baHWl6eZI/AAAAAAAAARU/zLo7S88lc6w/s1600-h/chla.jpg)  
 [download](https://web.archive.org/web/20111010160129/http://lix.in/-758ab9)

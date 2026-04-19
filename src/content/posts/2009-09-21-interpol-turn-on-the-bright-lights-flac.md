@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Interpol%20Turn%20on%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-21-interpol-turn-on-the-bright-lights-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-21-interpol-turn-on-the-bright-lights-flac.webp)  
+[![](/hfs40k/images/covers/2009-09-21-interpol-turn-on-the-bright-lights-flac.webp)](/hfs40k/images/covers/2009-09-21-interpol-turn-on-the-bright-lights-flac.webp)  
 When I was young, I had a best friend. We would hang out all the time and every time we saw each other at school, we'd talk about music a lot. I was a post-punk kid and he was a grunge guy.  
   
 Time passed, our tastes developed with every year. We turned 19, and he left to join the army. He would write to me every now and then out of boredom to ask how things were going. Then it was the year that Interpol's Turn on the Bright Lights came out. I told him about how fresh it sounded and that I wanted to start a band with him when he got back.  

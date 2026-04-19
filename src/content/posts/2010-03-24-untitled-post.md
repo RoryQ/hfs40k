@@ -17,7 +17,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mazzy%20Star%20So%20To
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-24-untitled-post.webp)](/holyfuckingshit40000/images/covers/2010-03-24-untitled-post.webp)No title no major lable shit. Y'all know what this is right? Vinyl rip for you 24/96 freaks!  
+[![](/hfs40k/images/covers/2010-03-24-untitled-post.webp)](/hfs40k/images/covers/2010-03-24-untitled-post.webp)No title no major lable shit. Y'all know what this is right? Vinyl rip for you 24/96 freaks!  
   
 [I'm a big fat vinyl rip FLAC](https://web.archive.org/web/20101203180950/http://lix.in/-7e875c)  
   

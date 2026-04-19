@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Dronevil%20Com
 
 
 
-[![](/holyfuckingshit40000/images/a2d9c261005460846e5cd7767fa90721.webp)](/holyfuckingshit40000/images/a2d9c261005460846e5cd7767fa90721.webp)Genre: Drone (HURR DURR)  
+[![](/hfs40k/images/a2d9c261005460846e5cd7767fa90721.webp)](/hfs40k/images/a2d9c261005460846e5cd7767fa90721.webp)Genre: Drone (HURR DURR)  
 Country: Japan  
   
 This is the 2 original Dronevil disc combined/overlapped into one, the way it was meant to be played.  

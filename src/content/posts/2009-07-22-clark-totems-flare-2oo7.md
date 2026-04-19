@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Clark%20Totems%20Flare
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-22-clark-totems-flare-2oo7.webp)](/holyfuckingshit40000/images/covers/2009-07-22-clark-totems-flare-2oo7.webp)  
+[![](/hfs40k/images/covers/2009-07-22-clark-totems-flare-2oo7.webp)](/hfs40k/images/covers/2009-07-22-clark-totems-flare-2oo7.webp)  
 dah second best of 09 behind that animal something shit wat. don't know the bitrate if its low watevs m8 get another copy  
   
 [album](https://web.archive.org/web/20111010140324/http://lix.in/-504f09)

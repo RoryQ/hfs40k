@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wolves%20in%20the%20Th
 
 
 
-[![](/holyfuckingshit40000/images/ecaa4f2667ff624e271076d5c763e9e4.webp)](https://web.archive.org/web/20111010083230/http://3.bp.blogspot.com/_7ZAm7Q56iwM/S6jYfGRE6kI/AAAAAAAAAaM/449YbfPsxLE/s1600-h/diadem.jpg)
+[![](/hfs40k/images/ecaa4f2667ff624e271076d5c763e9e4.webp)](https://web.archive.org/web/20111010083230/http://3.bp.blogspot.com/_7ZAm7Q56iwM/S6jYfGRE6kI/AAAAAAAAAaM/449YbfPsxLE/s1600-h/diadem.jpg)
 
   
 environmentalism black metal  

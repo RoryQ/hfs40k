@@ -16,5 +16,5 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Bad%20as
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-10-21-this-is-really-baaaaaadass.webp)](/holyfuckingshit40000/images/covers/2011-10-21-this-is-really-baaaaaadass.webp)  
+[![](/hfs40k/images/covers/2011-10-21-this-is-really-baaaaaadass.webp)](/hfs40k/images/covers/2011-10-21-this-is-really-baaaaaadass.webp)  
 [Grab the FLAC while it lasts](https://web.archive.org/web/20111117075754/http://lix.in/-aee6ea)

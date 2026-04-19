@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Byrds%20The%20No
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-12-25-the-byrds-the-notorious-byrd-brothers-flac.webp)](/holyfuckingshit40000/images/covers/2011-12-25-the-byrds-the-notorious-byrd-brothers-flac.webp)  
+[![](/hfs40k/images/covers/2011-12-25-the-byrds-the-notorious-byrd-brothers-flac.webp)](/hfs40k/images/covers/2011-12-25-the-byrds-the-notorious-byrd-brothers-flac.webp)  
   
 What an astonishingly perfect album.  
   

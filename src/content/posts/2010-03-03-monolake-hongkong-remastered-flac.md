@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Monolake%20Hongkong
 
 
 
-[![](/holyfuckingshit40000/images/eed5383923999145f4bb524e7343c2ad.webp)](https://web.archive.org/web/20111010081627/http://2.bp.blogspot.com/_t6lWjgwMoxw/S44gVpz7_QI/AAAAAAAAABE/mCSHbridncc/s1600-h/333.jpg)  
+[![](/hfs40k/images/eed5383923999145f4bb524e7343c2ad.webp)](https://web.archive.org/web/20111010081627/http://2.bp.blogspot.com/_t6lWjgwMoxw/S44gVpz7_QI/AAAAAAAAABE/mCSHbridncc/s1600-h/333.jpg)  
   
   
   

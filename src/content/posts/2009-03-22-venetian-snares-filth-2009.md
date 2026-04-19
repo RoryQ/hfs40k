@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Fi
 
 
 
-[![](/holyfuckingshit40000/images/0f669d8fe690469a7879466b9220e70d.webp)](/holyfuckingshit40000/images/8c391443935109e4adeb43d431bf5b3c.webp)  
+[![](/hfs40k/images/0f669d8fe690469a7879466b9220e70d.webp)](/hfs40k/images/8c391443935109e4adeb43d431bf5b3c.webp)  
 GENTLEMAN!  
   
 This is kind of disappointing.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hartfield%20True%20Col
 
 
 
-[![](/holyfuckingshit40000/images/cece3db057506a645d45f375fdaa8068.webp)](/holyfuckingshit40000/images/cece3db057506a645d45f375fdaa8068.webp)  
+[![](/hfs40k/images/cece3db057506a645d45f375fdaa8068.webp)](/hfs40k/images/cece3db057506a645d45f375fdaa8068.webp)  
 Genre: Shoegaze  
 Country: Japan  
   

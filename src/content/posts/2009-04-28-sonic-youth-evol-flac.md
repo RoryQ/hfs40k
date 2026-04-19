@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20EVOL
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-28-sonic-youth-evol-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-28-sonic-youth-evol-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-28-sonic-youth-evol-flac.webp)](/hfs40k/images/covers/2009-04-28-sonic-youth-evol-flac.webp)  
   
 Shadow of a Doubt is the best track on here, if you disagree you're pretty much wrong.  
   

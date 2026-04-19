@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=De%20La%20Soul%20Buhlo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-30-de-la-soul-buhloone-mindstate-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-30-de-la-soul-buhloone-mindstate-flac.webp)[download flac](https://web.archive.org/web/20111010153312/http://www.megaupload.com/?d=HFX7454Y)
+[![](/hfs40k/images/covers/2009-12-30-de-la-soul-buhloone-mindstate-flac.webp)](/hfs40k/images/covers/2009-12-30-de-la-soul-buhloone-mindstate-flac.webp)[download flac](https://web.archive.org/web/20111010153312/http://www.megaupload.com/?d=HFX7454Y)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Flower%20Travellin%27%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-08-flower-travellin-band-satori-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-08-flower-travellin-band-satori-flac.webp)  
+[![](/hfs40k/images/covers/2011-09-08-flower-travellin-band-satori-flac.webp)](/hfs40k/images/covers/2011-09-08-flower-travellin-band-satori-flac.webp)  
  It's like Can and Black Sabbath made love and gave birth to Godzilla and instead of trashing Tokyo he just smoked weed and ROCKED. Heavier than a thousand planets, tripper than if the end of of 2001 was really happening to you right now, and you really were a giant immortal baby hovering in space, and if that were true then forget Strauss, these guys would be the house band. Don't let tomorrow be another day that you've lived without hearing this.   
   
 [Map](https://web.archive.org/web/20111223093200/http://lix.in/-aa91bb)  

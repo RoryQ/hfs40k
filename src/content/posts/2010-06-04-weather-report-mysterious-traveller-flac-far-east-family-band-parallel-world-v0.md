@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Mys
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-04-weather-report-mysterious-traveller-flac-far-east-family-band-parallel-world-v0.webp)](/holyfuckingshit40000/images/covers/2010-06-04-weather-report-mysterious-traveller-flac-far-east-family-band-parallel-world-v0.webp)  
+[![](/hfs40k/images/covers/2010-06-04-weather-report-mysterious-traveller-flac-far-east-family-band-parallel-world-v0.webp)](/hfs40k/images/covers/2010-06-04-weather-report-mysterious-traveller-flac-far-east-family-band-parallel-world-v0.webp)  
 Following their previous breakthrough album ( "SWEETNIGHTER"), which established the "Weather Report sound", "MYSTERIOUS TRAVELLER" (1974) contains a number of interesting compositions that give the recording the feeling (if not the formal unity) of a "suite", an extended journey through varying musical landscapes. Even more than in prior albums, individual improvisation is eschewed in favor of an "orchestral" and textural approach, an aspect of style distinguishing Weather Report from the Mahavishnu Orchestra ( the other great fusion band of the era ).
 
 The adoption and elaboration of funky rhythm & blues "grooves" (a la Curtis Mayfield, et al ) was a vitally important ingredient that lent the music a propulsion and flow analogous to the bop swing feel that had for decades characterized jazz rhythm. To be sure, Weather Report was not the first band to do this; what set them apart was the absolutely seamless manner in which they integrated R&B grooves, achieving an authentic fluency that allowed them to break free from the reigning "rhythmic paradigm" while simultaneously retaining a connection to the older swing feel by virtue of shared (African) roots. Joe Zawinul used this dynamic rhythmic feel as an ideal foundation on which to construct elaborate electronic textures: in his hands, synthesizers were more than the self-indulgent and often hideous sounding toys that have given "fusion" music a bad name.
@@ -38,7 +38,7 @@ An aura of the mysterious and ethereal was always one of the prominent aspects o
 
 As the album opened so it closes: "Jungle Book" (Zawinul) is even more indebted to "world music". A number of different "exotic" instruments ( kalimba, tamboura, cabassa, clay drum, finger cymbals ) are caressingly employed in a gentle number that gradually builds in intensity toward a life-affirming conclusion.
 
-[![](/holyfuckingshit40000/images/12c51718e0297e9eaa66ad31e3ece2a1.webp)](https://web.archive.org/web/20111010173116/http://3.bp.blogspot.com/_cLI19EXK2oU/TAlTSY1qHhI/AAAAAAAAAsM/9j6MHg8R3u4/s1600/B000E0LL90.01._SS500_SCLZZZZZZZ_.jpg)
+[![](/hfs40k/images/12c51718e0297e9eaa66ad31e3ece2a1.webp)](https://web.archive.org/web/20111010173116/http://3.bp.blogspot.com/_cLI19EXK2oU/TAlTSY1qHhI/AAAAAAAAAsM/9j6MHg8R3u4/s1600/B000E0LL90.01._SS500_SCLZZZZZZZ_.jpg)
 
 This is a killer album produced by Klaus Schulze,...and he makes all the difference too! Don't believe me(?),...buy Tenkujin and hear what they did without him at the helm.  
 This has a slight vocal nod to the Moody Blues(at times),but these guys head for deep space where the Moodies were too stiff to follow. This also features Kitaro on keyboards,....but it's no "light fare". This is Kosmic Musik of the first degree, get it ASAP if you like Kraut Rock.

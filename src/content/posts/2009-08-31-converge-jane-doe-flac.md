@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Converge%20Jane%20Doe
 
 
 
-[![](/holyfuckingshit40000/images/b97e799e6ebce8dcc2ac91b729ad183d.webp)](https://web.archive.org/web/20111010145248/http://3.bp.blogspot.com/_cLI19EXK2oU/SdDBT_89M2I/AAAAAAAAACo/Oi39ncEGK6M/s1600-h/converge.1024.jpg)  
+[![](/hfs40k/images/b97e799e6ebce8dcc2ac91b729ad183d.webp)](https://web.archive.org/web/20111010145248/http://3.bp.blogspot.com/_cLI19EXK2oU/SdDBT_89M2I/AAAAAAAAACo/Oi39ncEGK6M/s1600-h/converge.1024.jpg)  
 Shoegaze for scenesters.  
   
 [Download FLAC](https://web.archive.org/web/20111010145248/http://lix.in/-598216)  

@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=How%20to%20Dress%20Wel
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-06-16-ways-to-dress-good.webp)](/holyfuckingshit40000/images/covers/2011-06-16-ways-to-dress-good.webp)  
+[![](/hfs40k/images/covers/2011-06-16-ways-to-dress-good.webp)](/hfs40k/images/covers/2011-06-16-ways-to-dress-good.webp)  
   
 Download this and cry. It's HTDW working with a more orchestral, hi-fi setup, and the results are stunning to say the least  
   

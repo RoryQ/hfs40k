@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Through%20S
 
 
 
-[![](/holyfuckingshit40000/images/20481a1e12f4c5964199c6f40e3d7b72.webp)](/holyfuckingshit40000/images/20481a1e12f4c5964199c6f40e3d7b72.webp)  
+[![](/hfs40k/images/20481a1e12f4c5964199c6f40e3d7b72.webp)](/hfs40k/images/20481a1e12f4c5964199c6f40e3d7b72.webp)  
   
 "Imagine living through a nuclear catastrophe. All that was around you now lies in ruins. Imagine moving amidst the devastation, alone, a wandering nomad roaming the bleak landscape. There is nothing but you and your slowly deteriorating sanity. That's what Through Silver In Blood is like. "  
   

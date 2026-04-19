@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Dead%20C%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-12-the-dead-c-the-white-house-1995vbr.webp)](/holyfuckingshit40000/images/covers/2009-07-12-the-dead-c-the-white-house-1995vbr.webp)  
+[![](/hfs40k/images/covers/2009-07-12-the-dead-c-the-white-house-1995vbr.webp)](/hfs40k/images/covers/2009-07-12-the-dead-c-the-white-house-1995vbr.webp)  
 Another good New Zealand drone/noise band that the majority of New Zealanders either don't know or don't like, but the good people from Sonic Youth love and namedrop (the other one is Birchville Cat Motel)  
   
 Avant-garde/noise rock, should be played before or after [Harry Pussy](https://web.archive.org/web/20111010142421/http://holyfuckingshit40000.blogspot.com/2009/07/harry-pussy-first-album-192-and-what.html)  

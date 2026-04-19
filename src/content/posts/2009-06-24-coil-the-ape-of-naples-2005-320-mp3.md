@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Coil%20The%20Ape%20of%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-24-coil-the-ape-of-naples-2005-320-mp3.webp)](/holyfuckingshit40000/images/covers/2009-06-24-coil-the-ape-of-naples-2005-320-mp3.webp)I'm going to post Coil until you hipsters like it.
+[![](/hfs40k/images/covers/2009-06-24-coil-the-ape-of-naples-2005-320-mp3.webp)](/hfs40k/images/covers/2009-06-24-coil-the-ape-of-naples-2005-320-mp3.webp)I'm going to post Coil until you hipsters like it.
 
 [Download mp3](https://web.archive.org/web/20111010085413/http://lix.in/-55d686)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20Tak
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-22-sigur-rós-takk.webp)](/holyfuckingshit40000/images/covers/2009-07-22-sigur-rós-takk.webp)NAISU POPPU MUZIKU.  
+[![](/hfs40k/images/covers/2009-07-22-sigur-rós-takk.webp)](/hfs40k/images/covers/2009-07-22-sigur-rós-takk.webp)NAISU POPPU MUZIKU.  
   
 I WANTED TO UPLOAD IT SO MUCH.  
 AND GUESS WHAT?  

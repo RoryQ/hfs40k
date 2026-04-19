@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Eluvium%20Copia
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-02-eluvium-copia-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-02-eluvium-copia-flac.webp)  
+[![](/hfs40k/images/covers/2009-12-02-eluvium-copia-flac.webp)](/hfs40k/images/covers/2009-12-02-eluvium-copia-flac.webp)  
   
 The most beautiful ambient album ever. You may not agree, but put this album on and you'll be way too overwhelmed and tranquil to care about such petty rankings. Highly recommended.  
   

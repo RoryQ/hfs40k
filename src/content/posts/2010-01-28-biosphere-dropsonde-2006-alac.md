@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Dropsonde
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-28-biosphere-dropsonde-2006-alac.webp)](/holyfuckingshit40000/images/covers/2010-01-28-biosphere-dropsonde-2006-alac.webp)  
+[![](/hfs40k/images/covers/2010-01-28-biosphere-dropsonde-2006-alac.webp)](/hfs40k/images/covers/2010-01-28-biosphere-dropsonde-2006-alac.webp)  
   
 "Dropsonde is a glorious Biosphere variation on a classic modal jazz album. Imagine the first Cinematic Orchestra album stripped of all the soloing and major keys and that's the feeling evoked here. It's all about the mood conveyed by the looped drums, bass and keys layered as to fuel the drone quality that this music releases. Triosk is another reference though of course they play live and then rearrange, I could imagine Geir is using samples that in a way makes this even more impressive. This cd version is almost twice as long as the vinyl edition (clocking in at over 70 minutes) and is just incredibly lush. Another highly absorbing album from this amazing artist - highly recommended." - Boomkat  
   

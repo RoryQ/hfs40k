@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bill%20Evans%20Trio%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-26-bill-evans-trio-waltz-for-debby-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-26-bill-evans-trio-waltz-for-debby-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-26-bill-evans-trio-waltz-for-debby-flac.webp)](/hfs40k/images/covers/2010-04-26-bill-evans-trio-waltz-for-debby-flac.webp)  
 A beautifully felt and executed album, by one of the best trios in jazz history. Is it too much to say that Evans "owns" My Foolish Heart?" I think not, just as he has applied his touch to produce other definitive version. His beautiful touch--soft, lyrical, sure but seeking, produce a floating, atmospheric sound that sets him apart from all other pianists.
 
 Evans can do no wrong, and his performances here are famous, even definitive, especially on "Porgy and Bess," "My Foolish Heart," and the absolutely wonderful "Waltz for Debbie." (Fans of the latter might want to check out the vocal of this song on "The Tony Bennett/Bill Evans Album", with lyrics by jazz critic and writer, Gene Lees. Bennett and Evans perform also the lovely ballad "Some Other Time," played beautifully on this album.)

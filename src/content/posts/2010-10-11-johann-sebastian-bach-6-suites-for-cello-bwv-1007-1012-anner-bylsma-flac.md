@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20B
 
 
 
-[![](/holyfuckingshit40000/images/f72574f2d5f8abe4ece569de26946751.webp)](/holyfuckingshit40000/images/83b5508da74bfa96711e4b2cf5fbb977.webp)"Listen up, sports fans! If you haven't heard the six Suites for solo cello by JS Bach, no matter how old you are, you haven't fully lived. Each of the suites has the experiential equivalent of: climbing a mountain in the Himalayas (I have!); watching your team sweep the World Series (I have!!); giving an SI swimsuit model a sponge bath (I have... but she was only four years old at the time.); and meditating for a year under a bodhi tree (I haven't). Without Bach, you haven't lived 40 years; you've lived one year forty times!  
+[![](/hfs40k/images/f72574f2d5f8abe4ece569de26946751.webp)](/hfs40k/images/83b5508da74bfa96711e4b2cf5fbb977.webp)"Listen up, sports fans! If you haven't heard the six Suites for solo cello by JS Bach, no matter how old you are, you haven't fully lived. Each of the suites has the experiential equivalent of: climbing a mountain in the Himalayas (I have!); watching your team sweep the World Series (I have!!); giving an SI swimsuit model a sponge bath (I have... but she was only four years old at the time.); and meditating for a year under a bodhi tree (I haven't). Without Bach, you haven't lived 40 years; you've lived one year forty times!  
   
 Baroque cellist Anner Bylsma is, as baseball announcers say, the whole package, a four skills player: left hand on the fingerboard for pitch and tempo, right hand on the bow for phrasing, left brain for understanding the complex rhythms and rhythmic patterns, right brain for emotional depth.  
   

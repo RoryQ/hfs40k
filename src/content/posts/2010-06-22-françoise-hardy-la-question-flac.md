@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Fran%C3%A7oise%20Hardy
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-22-françoise-hardy-la-question-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-22-françoise-hardy-la-question-flac.webp)Enchanting, sensual jazz pop performed by a beautiful French songstress. If you're in need of a silky ear massage after all that crust punk, power violence, and noise, then here is your remedy. Recommended by [Recklessnin](https://web.archive.org/web/20111010175247/http://www.lastfm.es/user/ReCklessnin).
+[![](/hfs40k/images/covers/2010-06-22-françoise-hardy-la-question-flac.webp)](/hfs40k/images/covers/2010-06-22-françoise-hardy-la-question-flac.webp)Enchanting, sensual jazz pop performed by a beautiful French songstress. If you're in need of a silky ear massage after all that crust punk, power violence, and noise, then here is your remedy. Recommended by [Recklessnin](https://web.archive.org/web/20111010175247/http://www.lastfm.es/user/ReCklessnin).
 
 [Enjoy](https://web.archive.org/web/20111010175247/http://lix.in/-80db4f)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rush%20Hemispheres
 
 
 
-[![](/holyfuckingshit40000/images/d5e8d04c7ba329661eb1c0d9877fbcf6.webp)](/holyfuckingshit40000/images/737ffc00dddae451a0b4a0b1d9d66db9.webp)  
+[![](/hfs40k/images/d5e8d04c7ba329661eb1c0d9877fbcf6.webp)](/hfs40k/images/737ffc00dddae451a0b4a0b1d9d66db9.webp)  
 As the closing album of Rush's classic progressive period, this is possibly the album where they reached their peak in composition and concept. Starting from 1976's \_2112\_, and up to this album from 1978, one can see how the band's performance & writing skills had progressed.  
   
 The concept here (or rather the title centerpiece) deals with the conflict of reason (the left hemisphere of the brain) and emotion (the right hemisphere of the brain), and the consequences of the lack of equilibrium between the two. It's divided into six movements: each (with the exception of the closing movement) represented by a mythological figure that correlates with the designated psychological/behavioral characteristics associated with each respective one.  

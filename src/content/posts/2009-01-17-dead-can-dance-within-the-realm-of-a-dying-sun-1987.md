@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dead%20Can%20Dance%20W
 
 
 
-[![](/holyfuckingshit40000/images/ae3135daea5790e9fd1a9098afe2ac69.webp)](/holyfuckingshit40000/images/0deb6d8be4ec9ee567df58fbf8117630.webp)  
+[![](/hfs40k/images/ae3135daea5790e9fd1a9098afe2ac69.webp)](/hfs40k/images/0deb6d8be4ec9ee567df58fbf8117630.webp)  
    
   
 Genre: Darkwave / Modern Classical  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Head%20of%20David%20Du
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-07-09-head-of-david-dustbowl-flac.webp)](/holyfuckingshit40000/images/covers/2011-07-09-head-of-david-dustbowl-flac.webp)  
+[![](/hfs40k/images/covers/2011-07-09-head-of-david-dustbowl-flac.webp)](/hfs40k/images/covers/2011-07-09-head-of-david-dustbowl-flac.webp)  
   
 Rock solid album, brought to more mainstream attention by Fear Factory's cover of Dog Day Sunrise. Usually appreciated in the noiserock/industrial scene, give it a try also if you're into stoner rock or more psychedelic stuff. Produced by Steve Albini.  
   

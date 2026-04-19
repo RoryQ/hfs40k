@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Eternal%20Morning%20So
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-28-eternal-morning-soundtrack-to-a-lost-film-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-28-eternal-morning-soundtrack-to-a-lost-film-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-28-eternal-morning-soundtrack-to-a-lost-film-flac.webp)](/hfs40k/images/covers/2009-06-28-eternal-morning-soundtrack-to-a-lost-film-flac.webp)  
 Ethereal instrumental hip hop comparable to Nujabes and DJ Krush. Highly recommended.  
   
   

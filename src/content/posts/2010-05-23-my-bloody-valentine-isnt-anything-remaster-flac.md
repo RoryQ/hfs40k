@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-23-my-bloody-valentine-isnt-anything-remaster-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-23-my-bloody-valentine-isnt-anything-remaster-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-23-my-bloody-valentine-isnt-anything-remaster-flac.webp)](/hfs40k/images/covers/2010-05-23-my-bloody-valentine-isnt-anything-remaster-flac.webp)  
 It would be far too easy to simply slap this album with an average rating, state, "this isn't Loveless," and call it a day, but instead, I'm choosing to review this (outstanding) album as if the monumental, phenomenal, perhaps-best-album-of-all-time Loveless was never created.  
   
 The humbly titled Isn't Anything is one of the most underrated and tragically ignored albums ever. I would say that it's easily among the top 10 albums of the 80s, but hardly anyone has a strong opinion on it. It has become massively influential throughout the alternative/indie world, but never duplicated.  

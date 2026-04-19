@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jun%20Togawa%20%28%E6%
 
 
 
-[![](/holyfuckingshit40000/images/5f764f2dcd10d4740b31591909651945.webp)](https://web.archive.org/web/20111010145854/http://2.bp.blogspot.com/-Rz5oJBke3O8/TZjPjmm9OrI/AAAAAAAAAQU/KeERHyf7tYM/s1600/o523962.jpg)  
+[![](/hfs40k/images/5f764f2dcd10d4740b31591909651945.webp)](https://web.archive.org/web/20111010145854/http://2.bp.blogspot.com/-Rz5oJBke3O8/TZjPjmm9OrI/AAAAAAAAAQU/KeERHyf7tYM/s1600/o523962.jpg)  
 Comparisons are always reductive. At Jrawk, we tend to shy away from phrases like "The Japanese \_\_\_." One, it reinforces the irritating stereotype that non-English speaking countries just copy English speaking artists. Two, it inevitably sets the listener up for elements of the known artist that might not appear in the unknown artist.  
   
 Case in point: Jun Togawa, in some fairly significant ways, could be called (sorry) a Japanese Kate Bush. Both women started their careers very young, draw large degrees of inspiration from their country's historical culture, have made great use of experimentation within pop forms, occasionally feature a strong theatrical bent, and often come off as quite, uh, eccentric.  

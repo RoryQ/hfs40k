@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Selecte
 
 
 
-[![](/holyfuckingshit40000/images/58adfafabb8f18dfa1feb81eac2f92c2.webp)](https://web.archive.org/web/20111010135339/http://3.bp.blogspot.com/-npfKE4ya7Ng/TiNoOtGeOmI/AAAAAAAAAEQ/VSLqe7PqKUo/s1600/afex.jpg)
+[![](/hfs40k/images/58adfafabb8f18dfa1feb81eac2f92c2.webp)](https://web.archive.org/web/20111010135339/http://3.bp.blogspot.com/-npfKE4ya7Ng/TiNoOtGeOmI/AAAAAAAAAEQ/VSLqe7PqKUo/s1600/afex.jpg)
 
 Out of the two volumes, this one's the actual "ambient" album. The packaging features a puzzle which involves matching symbols with blurry photographs. Blue Calx is the only track whose name is spelled out, the rest have nothing but those photographs for identification. For maximum scrobblability however, I've tagged these files with the generally accepted titles. But I went and scanned the art as well so you can check it out for yourself, here's an [Imgur album](https://web.archive.org/web/20111010135339/http://imgur.com/a/EDKhh) with six hi-res shots.   
   

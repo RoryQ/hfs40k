@@ -14,5 +14,5 @@ youtube_url: https://www.youtube.com/results?search_query=Radiohead%20The%20King
 
 
 
-[![](/holyfuckingshit40000/images/7a468e7a1b6cb69d740d7a219683e05f.webp)](/holyfuckingshit40000/images/8bccadff43b5cfe3fe9df55a181a0196.webp)  
+[![](/hfs40k/images/7a468e7a1b6cb69d740d7a219683e05f.webp)](/hfs40k/images/8bccadff43b5cfe3fe9df55a181a0196.webp)  
 [And it's in FLAC](https://web.archive.org/web/20111010033413/http://lix.in/-9e7ef4)

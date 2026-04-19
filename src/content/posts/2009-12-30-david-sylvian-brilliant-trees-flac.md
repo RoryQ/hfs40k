@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Sylvian%20Bril
 
 
 
-[![](/holyfuckingshit40000/images/a9e61cb264e3eb4817eb1e4d8b8ab5d1.webp)](https://web.archive.org/web/20111010153112/http://2.bp.blogspot.com/_A31Dfz4S5yg/Szt61YaHN2I/AAAAAAAAAMU/-ioWzh_aPws/s1600-h/bt.jpg)[download flac](https://web.archive.org/web/20111010153112/http://www.megaupload.com/?d=YBWA6340)
+[![](/hfs40k/images/a9e61cb264e3eb4817eb1e4d8b8ab5d1.webp)](https://web.archive.org/web/20111010153112/http://2.bp.blogspot.com/_A31Dfz4S5yg/Szt61YaHN2I/AAAAAAAAAMU/-ioWzh_aPws/s1600-h/bt.jpg)[download flac](https://web.archive.org/web/20111010153112/http://www.megaupload.com/?d=YBWA6340)

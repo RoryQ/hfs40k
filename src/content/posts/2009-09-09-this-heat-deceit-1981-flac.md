@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=This%20Heat%20Deceit
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-09-this-heat-deceit-1981-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-09-this-heat-deceit-1981-flac.webp)  
+[![](/hfs40k/images/covers/2009-09-09-this-heat-deceit-1981-flac.webp)](/hfs40k/images/covers/2009-09-09-this-heat-deceit-1981-flac.webp)  
 Uploaded as requested.  
   
 [DOWNLOAD [FLAC]](https://web.archive.org/web/20111010094820/http://lix.in/-5d9f38)

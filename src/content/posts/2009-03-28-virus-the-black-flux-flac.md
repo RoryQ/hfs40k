@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Virus%20The%20Black%20
 
 
 
-[![](/holyfuckingshit40000/images/3d0751c9799977c831be2d533d0bba08.webp)](https://web.archive.org/web/20111010164346/http://3.bp.blogspot.com/_5cVyPU93ihM/Sc7yd8ejYbI/AAAAAAAAACg/ocy1dEPf_7Q/s1600-h/cover.jpg)For those wondering what the hell those crazy cats behind Ved Buens Ende were up to lately...here's their 2008 offering on the current project.  
+[![](/hfs40k/images/3d0751c9799977c831be2d533d0bba08.webp)](https://web.archive.org/web/20111010164346/http://3.bp.blogspot.com/_5cVyPU93ihM/Sc7yd8ejYbI/AAAAAAAAACg/ocy1dEPf_7Q/s1600-h/cover.jpg)For those wondering what the hell those crazy cats behind Ved Buens Ende were up to lately...here's their 2008 offering on the current project.  
   
 [Download](https://web.archive.org/web/20111010164346/http://lix.in/-464b6d)  
 [Last.fm](https://web.archive.org/web/20111010164346/http://www.last.fm/music/Virus)

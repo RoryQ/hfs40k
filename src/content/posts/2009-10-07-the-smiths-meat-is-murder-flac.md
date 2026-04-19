@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Smiths%20Meat%20
 
 
 
-[![](/holyfuckingshit40000/images/aa6584f1bed79e2dc3adef6f67eea78a.webp)](https://web.archive.org/web/20111010032845/http://1.bp.blogspot.com/_cLI19EXK2oU/SszdB43HzNI/AAAAAAAAAU4/fwdj5dsIS3U/s1600-h/Smiths+-+Meat+Is+Murder.jpg)  
+[![](/hfs40k/images/aa6584f1bed79e2dc3adef6f67eea78a.webp)](https://web.archive.org/web/20111010032845/http://1.bp.blogspot.com/_cLI19EXK2oU/SszdB43HzNI/AAAAAAAAAU4/fwdj5dsIS3U/s1600-h/Smiths+-+Meat+Is+Murder.jpg)  
 Historically, the greatest songwriters in rock (Bob Dylan, Paul Simon, Elvis Costello) have never articulated any original or remarkable thoughts within their lyrics. The most a successful rock lyricist can hope to accomplish, is to accurately mirror the status quo by encapsulating how and why certain segments of society feel. Not to write meaningless, relativistic "phonetic poetry"
 
 When Morrissey first emerged from the UK's New Romantic scene in the early 1980s, he and the Smiths immediately stood out from the crowd. Hitherto, he was the first lyricist to speak out for tens of thousands of disaffected, alienated adolescents, who had been waiting impatiently for such a spokesman as the flamboyant Mancunian. Unlike unbearably bleak successors Kurt Cobain and Richey Edwards, there was an occasional optimistic light at the end of the tunnel within Morrissey's lyrics.

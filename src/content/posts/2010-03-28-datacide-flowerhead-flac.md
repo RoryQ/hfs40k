@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Datacide%20Flowerhead%
 
 
 
-[![](/holyfuckingshit40000/images/172f9f4b81c80602b34c7840042b7aaa.webp)](https://web.archive.org/web/20111010081843/http://3.bp.blogspot.com/_t6lWjgwMoxw/S69llbk4itI/AAAAAAAAAHc/xB_jhZZUC8A/s1600/ASP0964-00.jpg)  
+[![](/hfs40k/images/172f9f4b81c80602b34c7840042b7aaa.webp)](https://web.archive.org/web/20111010081843/http://3.bp.blogspot.com/_t6lWjgwMoxw/S69llbk4itI/AAAAAAAAAHc/xB_jhZZUC8A/s1600/ASP0964-00.jpg)  
   
   
   

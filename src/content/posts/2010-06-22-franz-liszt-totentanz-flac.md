@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Franz%20Liszt%20Totent
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-22-franz-liszt-totentanz-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-22-franz-liszt-totentanz-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-22-franz-liszt-totentanz-flac.webp)](/hfs40k/images/covers/2010-06-22-franz-liszt-totentanz-flac.webp)  
   
 [Death is so fucking Romantic](https://web.archive.org/web/20111010175150/http://lix.in/-887d5a)

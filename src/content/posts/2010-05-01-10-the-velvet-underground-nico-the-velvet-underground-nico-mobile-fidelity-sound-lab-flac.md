@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=%2310%20The%20Velvet%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-01-10-the-velvet-underground-nico-the-velvet-underground-nico-mobile-fidelity-sound-lab-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-01-10-the-velvet-underground-nico-the-velvet-underground-nico-mobile-fidelity-sound-lab-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-01-10-the-velvet-underground-nico-the-velvet-underground-nico-mobile-fidelity-sound-lab-flac.webp)](/hfs40k/images/covers/2010-05-01-10-the-velvet-underground-nico-the-velvet-underground-nico-mobile-fidelity-sound-lab-flac.webp)  
   
   
 Well then, let's begin. The votes are finally counted and I have to say I'm genuinely surprised by the amount of people who participated.  

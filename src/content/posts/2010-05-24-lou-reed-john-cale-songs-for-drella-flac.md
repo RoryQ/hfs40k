@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Lou%20Reed%20%26%20Joh
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-24-lou-reed-john-cale-songs-for-drella-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-24-lou-reed-john-cale-songs-for-drella-flac.webp)[Hello It's Me](https://web.archive.org/web/20111010095131/http://lix.in/-7a2bbd) ಥ\_ಥ
+[![](/hfs40k/images/covers/2010-05-24-lou-reed-john-cale-songs-for-drella-flac.webp)](/hfs40k/images/covers/2010-05-24-lou-reed-john-cale-songs-for-drella-flac.webp)[Hello It's Me](https://web.archive.org/web/20111010095131/http://lix.in/-7a2bbd) ಥ\_ಥ

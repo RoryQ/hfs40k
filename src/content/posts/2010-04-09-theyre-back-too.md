@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cypress%20Hill%20Rise%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-09-theyre-back-too.webp)](/holyfuckingshit40000/images/covers/2010-04-09-theyre-back-too.webp)  
+[![](/hfs40k/images/covers/2010-04-09-theyre-back-too.webp)](/hfs40k/images/covers/2010-04-09-theyre-back-too.webp)  
 
 Audiochecker says that ~70% is CDDA, so, it's probably genuine from someone who order it before its release on 20th this month.
 

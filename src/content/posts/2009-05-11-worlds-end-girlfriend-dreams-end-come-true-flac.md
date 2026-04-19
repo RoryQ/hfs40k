@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-11-worlds-end-girlfriend-dreams-end-come-true-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-11-worlds-end-girlfriend-dreams-end-come-true-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-11-worlds-end-girlfriend-dreams-end-come-true-flac.webp)](/hfs40k/images/covers/2009-05-11-worlds-end-girlfriend-dreams-end-come-true-flac.webp)  
 So, this one has been omitted when WEG's albums were being posted on here earlier. Well, I guess that's understandable it's a very specific record, but I didn't like that and so I'm posting it, ha ha ha, oh wow. um, yeah. It was my first contact with WEG and nothing was the same afterwards. Oh, and yeah, before there was Kashiwa Daisuke, there was WEG and before there was Stella, there was All Imperfect Love Song. Prolly everyone has already heard it anyway but w/e.  
   
 [download](https://web.archive.org/web/20111008142831/http://lix.in/-5ad866)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Jorge%20Ben%20Africa%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-02-jorge-ben-africa-brasil-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-02-jorge-ben-africa-brasil-flac.webp)Sup bums. Download this shit, it's great.
+[![](/hfs40k/images/covers/2011-05-02-jorge-ben-africa-brasil-flac.webp)](/hfs40k/images/covers/2011-05-02-jorge-ben-africa-brasil-flac.webp)Sup bums. Download this shit, it's great.
 
 [Enjoy](https://web.archive.org/web/20111010093706/http://lix.in/-974456)

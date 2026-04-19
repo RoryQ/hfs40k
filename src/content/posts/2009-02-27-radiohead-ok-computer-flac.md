@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Radiohead%20OK%20Compu
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-27-radiohead-ok-computer-flac.webp)](/holyfuckingshit40000/images/covers/2009-02-27-radiohead-ok-computer-flac.webp)  
+[![](/hfs40k/images/covers/2009-02-27-radiohead-ok-computer-flac.webp)](/hfs40k/images/covers/2009-02-27-radiohead-ok-computer-flac.webp)  
   
 "Thom Yorke's fragile vocals backed by the intricate guitar duels of Jonny Greenwood and Ed O'Brien, Phil Selway's intense, rhythmic pounding and the subtle but effective bass guitar of Colin Greenwood sends an energetic flare clean through your speakers, hurtling into the room around you and charging the air with static electricity. When Yorke sings, "In an interstellar burst / I am back to save the universe," you believe him."  
   

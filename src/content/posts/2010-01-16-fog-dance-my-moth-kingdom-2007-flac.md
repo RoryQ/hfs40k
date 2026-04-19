@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Fog%20Dance%20My%20Mot
 
 
 
-[![](/holyfuckingshit40000/images/bc999e01649b43e0bd7f85589bc1669b.webp)](/holyfuckingshit40000/images/a387e2f78122882901cb8ffa2a7c72d1.webp)  
+[![](/hfs40k/images/bc999e01649b43e0bd7f85589bc1669b.webp)](/hfs40k/images/a387e2f78122882901cb8ffa2a7c72d1.webp)  
 Update to a previous post. Now available in [FLAC](https://web.archive.org/web/20111010123306/http://lix.in/-702ee4) at your friendly neighborhood HFS40k.

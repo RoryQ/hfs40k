@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bark%20Psychosis%20Hex
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-09-bark-psychosis-hex-1994.webp)](/holyfuckingshit40000/images/covers/2009-08-09-bark-psychosis-hex-1994.webp)  
+[![](/hfs40k/images/covers/2009-08-09-bark-psychosis-hex-1994.webp)](/hfs40k/images/covers/2009-08-09-bark-psychosis-hex-1994.webp)  
 Ethereal is one of the most accurate terms to describe this one. Post-rock (not in the soft-loud sense) with a lush, airy, somewhat jazzy atmosphere. Recommended night-time listening.  
   
 [Download (320)](https://web.archive.org/web/20111010145311/http://lix.in/-526811)

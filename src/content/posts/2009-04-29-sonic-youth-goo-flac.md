@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Goo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-29-sonic-youth-goo-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-29-sonic-youth-goo-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-29-sonic-youth-goo-flac.webp)](/hfs40k/images/covers/2009-04-29-sonic-youth-goo-flac.webp)  
   
 By popular demand  
   

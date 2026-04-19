@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Statio
 
 
 
-[![](/holyfuckingshit40000/images/30a7cc209bf5b7f940fb2e3c96e3a39c.webp)](/holyfuckingshit40000/images/30a7cc209bf5b7f940fb2e3c96e3a39c.webp)
+[![](/hfs40k/images/30a7cc209bf5b7f940fb2e3c96e3a39c.webp)](/hfs40k/images/30a7cc209bf5b7f940fb2e3c96e3a39c.webp)
 
 1. Station to Station
 

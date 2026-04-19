@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gong%20Flying%20Teapot
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-26-gong-flying-teapot-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-26-gong-flying-teapot-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-26-gong-flying-teapot-flac.webp)](/hfs40k/images/covers/2010-06-26-gong-flying-teapot-flac.webp)  
 Alright, that does it. Gong is officially the most drugged out band I've ever heard from the 70's. I have NEVER heard a band who sounds like they are more high and crazy in the head than these guys. So the question is, can someone like me (who's never done drugs) understand and appreciate music like THIS?  
   
 Well I hope so, because these guys are probably my favorite of the progressive rock bands. You know what? FORGET about the fact they are a prog band. These guys are nothing like Genesis, Yes, Jethro Tull or anyone else. This is not even anything like the space rock bands like Pink Floyd, Hawkwind or Rush.  

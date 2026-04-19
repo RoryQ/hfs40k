@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Miles%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-09-miles-davis-miles-ahead-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-09-miles-davis-miles-ahead-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-09-miles-davis-miles-ahead-flac.webp)](/hfs40k/images/covers/2009-05-09-miles-davis-miles-ahead-flac.webp)  
 1997 remaster without nice boat.  
   
 [Download.](https://web.archive.org/web/20100117043034/http://www.megaupload.com/?d=V70ZIJL3)

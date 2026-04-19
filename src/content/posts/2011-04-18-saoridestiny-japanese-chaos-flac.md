@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Saori%40destiny%20Japa
 
 
 
-[![](/holyfuckingshit40000/images/8da7694b29b14768289882ff02f27d5c.webp)](https://web.archive.org/web/20111010145730/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s1600/Saori_destiny.jpg)
+[![](/hfs40k/images/8da7694b29b14768289882ff02f27d5c.webp)](https://web.archive.org/web/20111010145730/http://3.bp.blogspot.com/-v7qzJ3XUiO4/TayvYTobGBI/AAAAAAAAAhw/A-87Kt_8d1s/s1600/Saori_destiny.jpg)
 
   
 Saori@destiny - Japanese Chaos, one of my favorite j-pop albums. The album has some really cute and catchy songs produced by Terukado Ōnishi. There's nice ethnic, techno twist on the stuff he comes up with, and Saori's cute voice I could listen all day. If you've ever heard Perfume you might like this! Alert this post is for weeaboos. But it's in LOSSLESS!, enjoy.  

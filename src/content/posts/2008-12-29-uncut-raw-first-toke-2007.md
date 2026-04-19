@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Uncut%20Raw%20First%20
 
 
 
-[![](/holyfuckingshit40000/images/d8a06a3634fed84903b2a8181d8c1994.webp)](/holyfuckingshit40000/images/d8a06a3634fed84903b2a8181d8c1994.webp)  
+[![](/hfs40k/images/d8a06a3634fed84903b2a8181d8c1994.webp)](/hfs40k/images/d8a06a3634fed84903b2a8181d8c1994.webp)  
 Genre: Hip Hop  
 Country: U.S.  
   

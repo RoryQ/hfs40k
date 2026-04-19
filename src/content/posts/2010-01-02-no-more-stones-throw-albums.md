@@ -13,5 +13,5 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/afa384672231d148ea48c80229b71150.webp)](/holyfuckingshit40000/images/15be36f95e15f0741f63c65e04177064.webp)  
+[![](/hfs40k/images/afa384672231d148ea48c80229b71150.webp)](/hfs40k/images/15be36f95e15f0741f63c65e04177064.webp)  
 Or Big Boss neko will get you.

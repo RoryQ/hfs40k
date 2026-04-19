@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20Mirages
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-31-tim-hecker-mirages-2004-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-31-tim-hecker-mirages-2004-flac.webp)  
+[![](/hfs40k/images/covers/2009-12-31-tim-hecker-mirages-2004-flac.webp)](/hfs40k/images/covers/2009-12-31-tim-hecker-mirages-2004-flac.webp)  
 Some say this is his best, but I don't think it is. Avarance already posted that. If anyone has any Fennesz or Oval FLAC they can hook me up with, I'd appreciate it very much.
 
 [heeeeeeeeeere](https://web.archive.org/web/20111010153300/http://lix.in/-65764d)

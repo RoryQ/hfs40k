@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Opal%20Happy%20Nightma
 
 
 
-[![](/holyfuckingshit40000/images/9183a0f59d5f474cdb23650611b70943.webp)](https://web.archive.org/web/20111010173120/http://1.bp.blogspot.com/_mTQyK3r0bG0/TCchIPuLj2I/AAAAAAAAAIY/7yI06n8jEAc/s1600/o34680.jpg)  
+[![](/hfs40k/images/9183a0f59d5f474cdb23650611b70943.webp)](https://web.archive.org/web/20111010173120/http://1.bp.blogspot.com/_mTQyK3r0bG0/TCchIPuLj2I/AAAAAAAAAIY/7yI06n8jEAc/s1600/o34680.jpg)  
 Formed out of the ashes of the Dream Syndicate and the Rain Parade, guitarist David Roback and vocalist Kendra Smith brought the Paisley Underground to the SST catalogue, and they managed to provide the label with one of the best examples of SoCal dark psychedelic since the Doors walked on down the hall.  
   
 Happy Nightmare Baby is subdued acid-eating, forged heavily from the pair’s previous bands while using little more than slow-blues licks and reverb to conjure up the darker side of recreational hallucinogens. Kendra Smith’s understated combines perfectly with Roback’s slide guitar in creating a brooding atmosphere. She mines themes from the Marc Bolan School of song titles and sounds like she’s halfway nodding off even when she’s singing about inter-planetary space travel and vampires.  

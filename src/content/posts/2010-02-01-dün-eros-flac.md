@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=D%C3%BCn%20Eros
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-01-dün-eros-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-01-dün-eros-flac.webp)These guys only released one albums but man is it a good one. Probably my 2nd favorite avant-prog/Zeuhl album behind Bondage Fruit's first one. I'm not very good at reviews so I'll copy one off rateyourmusic.  
+[![](/hfs40k/images/covers/2010-02-01-dün-eros-flac.webp)](/hfs40k/images/covers/2010-02-01-dün-eros-flac.webp)These guys only released one albums but man is it a good one. Probably my 2nd favorite avant-prog/Zeuhl album behind Bondage Fruit's first one. I'm not very good at reviews so I'll copy one off rateyourmusic.  
   
 "Zeuhl, jazz fusion and flavors of modern classical with a lot of vibraphones and xylophones. Very complex rhythmic structures and occasional flute, piano, and aggressively guitar flourishes. Very good album and a minor masterpiece."  
   

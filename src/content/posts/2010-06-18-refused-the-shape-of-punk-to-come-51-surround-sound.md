@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%
 
 
 
-[![](/holyfuckingshit40000/images/070f3ffc044ccf983ddc23f9a029ad7a.webp)](https://web.archive.org/web/20111010175023/http://2.bp.blogspot.com/_cLI19EXK2oU/TBvAFi5K9tI/AAAAAAAAAt8/-wsUD3BsBsc/s1600/Laker+girls.jpg)  
+[![](/hfs40k/images/070f3ffc044ccf983ddc23f9a029ad7a.webp)](https://web.archive.org/web/20111010175023/http://2.bp.blogspot.com/_cLI19EXK2oU/TBvAFi5K9tI/AAAAAAAAAt8/-wsUD3BsBsc/s1600/Laker+girls.jpg)  
 My face when Kobe did the shittiest of everyone in the last quarter and still won MvP  
   
 [Enjoy the 3GB's](https://web.archive.org/web/20111010175023/http://lix.in/-81eda6)  

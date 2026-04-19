@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neil%20on%20Impression
 
 
 
-[![](/holyfuckingshit40000/images/dff56c572a433f93eb77352c9753786f.webp)](https://web.archive.org/web/20111010091315/http://3.bp.blogspot.com/_cLI19EXK2oU/SkjZh2LBNqI/AAAAAAAAANw/0MUshQnPs_0/s1600-h/neilonimpression.jpg)  
+[![](/hfs40k/images/dff56c572a433f93eb77352c9753786f.webp)](https://web.archive.org/web/20111010091315/http://3.bp.blogspot.com/_cLI19EXK2oU/SkjZh2LBNqI/AAAAAAAAANw/0MUshQnPs_0/s1600-h/neilonimpression.jpg)  
 FUCK YEAH WHALECORE!  
   
  [Download v0](https://web.archive.org/web/20111010091315/http://lix.in/-556d72)

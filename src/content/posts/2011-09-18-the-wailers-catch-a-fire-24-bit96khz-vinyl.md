@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Wailers%20Catch%
 
 
 
-[![](/holyfuckingshit40000/images/cd9b15bd92506025189addf6787285bc.webp)](https://web.archive.org/web/20111004080009/http://3.bp.blogspot.com/-gzidpPTynhE/TnZXYx5HvYI/AAAAAAAABFY/MascROY92x8/s1600/The%2BWailers%2B-%2BCatch%2BA%2BFire%2B-%2BLabel_A.jpg)  
+[![](/hfs40k/images/cd9b15bd92506025189addf6787285bc.webp)](https://web.archive.org/web/20111004080009/http://3.bp.blogspot.com/-gzidpPTynhE/TnZXYx5HvYI/AAAAAAAABFY/MascROY92x8/s1600/The%2BWailers%2B-%2BCatch%2BA%2BFire%2B-%2BLabel_A.jpg)  
 Universal Japan 200g LP (UIJY - 9044)  
 Vinyl rip 24-bit/96kHz  
 ripped by Aksman, 2009  

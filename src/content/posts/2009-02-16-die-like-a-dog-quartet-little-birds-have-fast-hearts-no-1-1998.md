@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Die%20Like%20A%20Dog%2
 
 
 
-[![](/holyfuckingshit40000/images/a28a54c2fc83dd92009e85e8c620965a.webp)](/holyfuckingshit40000/images/a28a54c2fc83dd92009e85e8c620965a.webp)  
+[![](/hfs40k/images/a28a54c2fc83dd92009e85e8c620965a.webp)](/hfs40k/images/a28a54c2fc83dd92009e85e8c620965a.webp)  
 Free jazz greatly influenced by Albert Ayler. Swirling and at times even psychedelic, it can put you in a mental haze if you're not alert.  
   
 Thanks to youngprayer for the upload and recommendation.  

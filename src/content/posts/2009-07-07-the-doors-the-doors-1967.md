@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Doors%20The%20Do
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-07-the-doors-the-doors-1967.webp)](/holyfuckingshit40000/images/covers/2009-07-07-the-doors-the-doors-1967.webp)I'm Jim Morrison, I'm dead.  
+[![](/hfs40k/images/covers/2009-07-07-the-doors-the-doors-1967.webp)](/hfs40k/images/covers/2009-07-07-the-doors-the-doors-1967.webp)I'm Jim Morrison, I'm dead.  
   
 [Download 320 (by request)](https://web.archive.org/web/20111010140722/http://lix.in/-488b2b)

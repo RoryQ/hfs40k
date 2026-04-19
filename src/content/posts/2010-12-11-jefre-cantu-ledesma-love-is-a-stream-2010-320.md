@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jefre%20Cantu%20Ledesm
 
 
 
-[![](/holyfuckingshit40000/images/5078ed8af232be28712c84e10c1e667f.webp)](https://web.archive.org/web/20111010071634/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQNvuKvLsMI/AAAAAAAAAeY/jxcp1c6R4VM/s1600/10107.jpg)  
+[![](/hfs40k/images/5078ed8af232be28712c84e10c1e667f.webp)](https://web.archive.org/web/20111010071634/http://1.bp.blogspot.com/_t6lWjgwMoxw/TQNvuKvLsMI/AAAAAAAAAeY/jxcp1c6R4VM/s1600/10107.jpg)  
   
   
   

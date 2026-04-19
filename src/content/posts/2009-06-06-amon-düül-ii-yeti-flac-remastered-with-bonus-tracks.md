@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Amon%20D%C3%BC%C3%BCl%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-06-amon-düül-ii-yeti-flac-remastered-with-bonus-tracks.webp)](/holyfuckingshit40000/images/covers/2009-06-06-amon-düül-ii-yeti-flac-remastered-with-bonus-tracks.webp)  
+[![](/hfs40k/images/covers/2009-06-06-amon-düül-ii-yeti-flac-remastered-with-bonus-tracks.webp)](/hfs40k/images/covers/2009-06-06-amon-düül-ii-yeti-flac-remastered-with-bonus-tracks.webp)  
 Fuck yeah, I love Yeti's.  
   
   

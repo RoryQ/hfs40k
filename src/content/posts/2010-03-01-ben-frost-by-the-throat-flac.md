@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ben%20Frost%20By%20The
 
 
 
-[![](/holyfuckingshit40000/images/d38426d850a363c36458d92a46a84b0e.webp)](https://web.archive.org/web/20111010080927/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4uZMpw5ooI/AAAAAAAAAAk/4kuQyrDcBgc/s1600-h/ben_frost-by_the_throat%281%29.jpg)  
+[![](/hfs40k/images/d38426d850a363c36458d92a46a84b0e.webp)](https://web.archive.org/web/20111010080927/http://1.bp.blogspot.com/_t6lWjgwMoxw/S4uZMpw5ooI/AAAAAAAAAAk/4kuQyrDcBgc/s1600-h/ben_frost-by_the_throat%281%29.jpg)  
   
   
   

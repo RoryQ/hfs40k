@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Small%20
 
 
 
-[![](/holyfuckingshit40000/images/53a05d00787305cedc6e3ef6431eeb9b.webp)](https://web.archive.org/web/20111010155714/http://1.bp.blogspot.com/_cLI19EXK2oU/S4HemlpTNiI/AAAAAAAAAW4/6w3FCcySJqs/s1600-h/075596061223.320.jpg)  
+[![](/hfs40k/images/53a05d00787305cedc6e3ef6431eeb9b.webp)](https://web.archive.org/web/20111010155714/http://1.bp.blogspot.com/_cLI19EXK2oU/S4HemlpTNiI/AAAAAAAAAW4/6w3FCcySJqs/s1600-h/075596061223.320.jpg)  
 On this album Tom takes the listener to the same place "Notes from the Underground" takes the reader. It's a real world that daylight doesn't penetrate and heartbroken loners like Mr. Waits portrays wander the darkened streets alone. The entire album is excellent, from the tormented "Tom Traubert's Blues" to the hysterical "The Piano Has Been Drinking" to the mellow "Jitterbug Boy." But even if abovementioned tunes did nothing for me, it would be made with the title track.  
   
 "Small Change" is one of the most chilling tunes I have ever heard. The combination of Waits' raspy voice, the instrumentals being a lone saxophone, and the bleak lyrics describing the crime scene and the gunned down gambler are more haunting than any ghost story you were told as a child. This is Tom Waits at his poetic best.  

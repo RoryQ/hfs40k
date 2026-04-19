@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Minutemen%20Double%20N
 
 
 
-[![](/holyfuckingshit40000/images/ca6784fe7206e650349d7ba4e3ba37ee.webp)](/holyfuckingshit40000/images/ca6784fe7206e650349d7ba4e3ba37ee.webp)  
+[![](/hfs40k/images/ca6784fe7206e650349d7ba4e3ba37ee.webp)](/hfs40k/images/ca6784fe7206e650349d7ba4e3ba37ee.webp)  
 Oh hey its those guys from Jackass!  
   
 [Download](https://web.archive.org/web/20111010164737/http://www.megaupload.com/?d=ZPG8SQPN)

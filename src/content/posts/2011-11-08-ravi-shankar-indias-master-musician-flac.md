@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20India
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-11-08-ravi-shankar-indias-master-musician-flac.webp)](/holyfuckingshit40000/images/covers/2011-11-08-ravi-shankar-indias-master-musician-flac.webp)  
+[![](/hfs40k/images/covers/2011-11-08-ravi-shankar-indias-master-musician-flac.webp)](/hfs40k/images/covers/2011-11-08-ravi-shankar-indias-master-musician-flac.webp)  
 I wish I could have all of the "REMASTERED CDs" that have been released now and perhaps one day I will. But this was the first one I got which started off my Ravi Shankar collection. This is an excellent CD because it gives you five completely different raags including a "dhun" and a "thumri" style. What is great about these old recordings is that Panditji has condensed every raag in a shorter version of a fully blown concert which is usually about an hour long.   
 Listening to Puriya Dhanashri one is automatically taken to an evening setting. My favourite in this CD is the raag "Charu Keshi" I haven't experienced such a beautiful introduction to a raag, there is so much in the first five or six seconds of this piece that I could hear just that again and again.  
 If you hear any poor digital remastering, you are not paying attention.   

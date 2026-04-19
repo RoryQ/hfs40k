@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=.O.rang%20Herd%20of%20
 
 
 
-[![](/holyfuckingshit40000/images/017a84d8d8b14dcb6a655e7c6c3f878b.webp)](/holyfuckingshit40000/images/93afc33750750543d14e0541db032d37.webp)  
+[![](/hfs40k/images/017a84d8d8b14dcb6a655e7c6c3f878b.webp)](/hfs40k/images/93afc33750750543d14e0541db032d37.webp)  
   
   
   

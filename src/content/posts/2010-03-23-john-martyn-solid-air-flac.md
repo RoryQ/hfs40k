@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Martyn%20Solid%
 
 
 
-[![](/holyfuckingshit40000/images/9b2ec4cab6a80ac01145ea0937924245.webp)](https://web.archive.org/web/20111010082248/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6jEA8azfZI/AAAAAAAAAGU/HK2nowNVL4Q/s1600-h/solid-air-460-100-460-70.jpg)  
+[![](/hfs40k/images/9b2ec4cab6a80ac01145ea0937924245.webp)](https://web.archive.org/web/20111010082248/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6jEA8azfZI/AAAAAAAAAGU/HK2nowNVL4Q/s1600-h/solid-air-460-100-460-70.jpg)  
   
   
   

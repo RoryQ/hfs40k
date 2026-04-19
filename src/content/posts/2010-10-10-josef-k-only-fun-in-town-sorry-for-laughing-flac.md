@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Josef%20K%20Only%20Fun
 
 
 
-[![](/holyfuckingshit40000/images/eaa5adbe52b37836aa9b35ce9c7e92eb.webp)](https://web.archive.org/web/20111010112733/http://3.bp.blogspot.com/_mTQyK3r0bG0/TLIqKh6YelI/AAAAAAAAAL0/OAxtNCZC3SA/s1600/51oyt83%2BHXL.jpg)  
+[![](/hfs40k/images/eaa5adbe52b37836aa9b35ce9c7e92eb.webp)](https://web.archive.org/web/20111010112733/http://3.bp.blogspot.com/_mTQyK3r0bG0/TLIqKh6YelI/AAAAAAAAAL0/OAxtNCZC3SA/s1600/51oyt83%2BHXL.jpg)  
  \* Musically, like a cross between Magazine, XTC, Joy Division and Television; Josef K were gone as soon as they had arrived. Just one album was released.  
   
  \* Josef K amazed me with a very personal and powerful noise. Nobody played guitars that way and the production was pretty dirt. Noise is the word, a real post punk experience that can be heard nowadays with a certain surprise. Songs like "Crazy to exist" or "Sorry for laughing", or the dark "It's kinda funny", are an unforgettable reminder of the best era of pop music.  

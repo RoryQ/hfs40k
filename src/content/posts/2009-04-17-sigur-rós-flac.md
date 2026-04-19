@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20%28
 
 
 
-[![](/holyfuckingshit40000/images/468f979a45f4b1694338b3b403b2a7f8.webp)](/holyfuckingshit40000/images/468f979a45f4b1694338b3b403b2a7f8.webp)*Scene: interior of Sigur Ros' management offices on a cold day in Iceland. All exchanges will be in English to make it easier for the reader.*  
+[![](/hfs40k/images/468f979a45f4b1694338b3b403b2a7f8.webp)](/hfs40k/images/468f979a45f4b1694338b3b403b2a7f8.webp)*Scene: interior of Sigur Ros' management offices on a cold day in Iceland. All exchanges will be in English to make it easier for the reader.*  
   
 **Manager:** Alright lads!! How's it going? How's the new album? Come in, come in, give us the lowdown. You got a name for it yet?  
   

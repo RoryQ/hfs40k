@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hoenig%20And%20Gottsch
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-08-hoenig-and-gottsching-early-water.webp)](/holyfuckingshit40000/images/covers/2011-09-08-hoenig-and-gottsching-early-water.webp)  
+[![](/hfs40k/images/covers/2011-09-08-hoenig-and-gottsching-early-water.webp)](/hfs40k/images/covers/2011-09-08-hoenig-and-gottsching-early-water.webp)  
 Both Michael Hoenig and Manuel Gottsching were active in the 'Berlin' school of electronic music in the mid 1970s. If my memory serves me well, I believe Hoenig replaced Peter Baumann temporarily for some tour dates with Tangerine Dream as well as releasing his own album ("Departure From The Northern Wasteland") while Gottsching released a string of albums of variable quality under the 'Ashra' pseudonym, most notably the lush and dreamy "New Age Of Earth" - a classic that every self-respecting 70s electro fan should own.  
   
 This album, naturally, retains all the synthesiser proficiency you would expect from these names. It is, however, quite heavily reliant on sequencers to carry it along; much more so than "New Age Of Earth". The sequencer dominates at first, then fades out slightly for a short period before coming back quite strongly to 'duet' with the guitar around the 30-minute mark.  

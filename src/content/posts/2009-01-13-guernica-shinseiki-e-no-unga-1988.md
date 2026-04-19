@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Guernica%20Shinseiki%2
 
 
 
-[![](/holyfuckingshit40000/images/2876132204475f2f5c740db04ae612ac.webp)](/holyfuckingshit40000/images/d9f942ec56f537eab305143598e496c0.webp)  
+[![](/hfs40k/images/2876132204475f2f5c740db04ae612ac.webp)](/hfs40k/images/d9f942ec56f537eab305143598e496c0.webp)  
   
 And now I've just come to the realization that almost half of the music I post is japanese, feel free to bookmark this as "shitty weeaboo blog"  
   

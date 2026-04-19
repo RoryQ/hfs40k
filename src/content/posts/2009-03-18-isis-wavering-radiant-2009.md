@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Isis%20Wavering%20Radi
 
 
 
-[![](/holyfuckingshit40000/images/10b806baeea81d449b8edb52425ec2e0.webp)](/holyfuckingshit40000/images/10b806baeea81d449b8edb52425ec2e0.webp)  
+[![](/hfs40k/images/10b806baeea81d449b8edb52425ec2e0.webp)](/hfs40k/images/10b806baeea81d449b8edb52425ec2e0.webp)  
 City of Echoes  
  [Download](https://web.archive.org/web/20111010164719/http://www.mediafire.com/?woyjnoem0dn) [v2]

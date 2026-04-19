@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Alice%20Coltrane%20Jou
 
 
 
-[![](/holyfuckingshit40000/images/68ff2fe230c1c0ff34268c06a5331ac2.webp)](https://web.archive.org/web/20111010050014/http://1.bp.blogspot.com/_t6lWjgwMoxw/S9b4PHsEYzI/AAAAAAAAALU/MJK_e02x9RY/s1600/f0048302_195317.jpg)  
+[![](/hfs40k/images/68ff2fe230c1c0ff34268c06a5331ac2.webp)](https://web.archive.org/web/20111010050014/http://1.bp.blogspot.com/_t6lWjgwMoxw/S9b4PHsEYzI/AAAAAAAAALU/MJK_e02x9RY/s1600/f0048302_195317.jpg)  
   
   
   

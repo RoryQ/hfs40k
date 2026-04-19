@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Northwinds%20Masters%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-02-northwinds-masters-of-magic-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-02-northwinds-masters-of-magic-flac.webp)No matter how hard I looked I couldn't find this anywhere in over 128 bitrate mp3. Pretty sad eh? So I bought this great album and ripped it myself. These guys are basically what Black Sabbath would have sounded like had they been a progressive rock band.  
+[![](/hfs40k/images/covers/2010-03-02-northwinds-masters-of-magic-flac.webp)](/hfs40k/images/covers/2010-03-02-northwinds-masters-of-magic-flac.webp)No matter how hard I looked I couldn't find this anywhere in over 128 bitrate mp3. Pretty sad eh? So I bought this great album and ripped it myself. These guys are basically what Black Sabbath would have sounded like had they been a progressive rock band.  
   
 [Get it in FLAC](https://web.archive.org/web/20101203170427/http://lix.in/-71bee0)

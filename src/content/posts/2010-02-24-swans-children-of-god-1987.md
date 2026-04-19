@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Children%20of%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-24-swans-children-of-god-1987.webp)](/holyfuckingshit40000/images/covers/2010-02-24-swans-children-of-god-1987.webp)  
+[![](/hfs40k/images/covers/2010-02-24-swans-children-of-god-1987.webp)](/hfs40k/images/covers/2010-02-24-swans-children-of-god-1987.webp)  
 
 aka Swans' third best album (after *Soundtracks* and *Filth*)
 

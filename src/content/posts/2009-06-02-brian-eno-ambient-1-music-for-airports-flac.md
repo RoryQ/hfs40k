@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Ambient%
 
 
 
-[![](/holyfuckingshit40000/images/ee7c16b8c7c0938a5e3ac96d40140106.webp)](/holyfuckingshit40000/images/e8860dd6e5b6df908ee071d1c58ced5d.webp)  
+[![](/hfs40k/images/ee7c16b8c7c0938a5e3ac96d40140106.webp)](/hfs40k/images/e8860dd6e5b6df908ee071d1c58ced5d.webp)  
 Brian Eno is a master of sound, simply put. In "Music for Airports" (Ambient 1) he has crafted the soundtrack of inner peace.
 
 This sound sculpture was originally meant as a background setting for an airport terminal. It is easy to close your eyes and imagine hearing "1/1" tinkling mutedly like an electronica wind chime being stirred by the flow of travelers going to and fro. It could provide a calming center about which all the fracas and hurriedness revolves. I also imagine hearing it as the last traveler to leave the airport at night, as the final weary travelers stumble from the last flight of the night through the emptied terminal toward their cars.

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Igorrr%20Nostril
 
 
 
-[![](/holyfuckingshit40000/images/98cd4ecb275a85008a2b1a4fe946b630.webp)](https://web.archive.org/web/20111010135558/http://3.bp.blogspot.com/-RvtxobmCBas/TilrlFYXCLI/AAAAAAAAAEU/SItgCOV99Jc/s1600/Igorrr-Nostril1.jpg)
+[![](/hfs40k/images/98cd4ecb275a85008a2b1a4fe946b630.webp)](https://web.archive.org/web/20111010135558/http://3.bp.blogspot.com/-RvtxobmCBas/TilrlFYXCLI/AAAAAAAAAEU/SItgCOV99Jc/s1600/Igorrr-Nostril1.jpg)
 
   
 My latest musical obsession. Eccentric breakcore blending pleasantly obnoxious and glitchy drum programming with various genres, the focus being on baroque music and death metal influences. The result is something where choirs are as welcome as screams, harpsichords can team up with blast beats, and no tempo is wrong.  

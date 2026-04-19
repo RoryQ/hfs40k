@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gas%20K%C3%B6nigsforst
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-13-gas-königsforst-2496-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-13-gas-königsforst-2496-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-13-gas-königsforst-2496-flac.webp)](/hfs40k/images/covers/2010-06-13-gas-königsforst-2496-flac.webp)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Muffins%20Manna/
 
 
 
-[![](/holyfuckingshit40000/images/c1a6de4d8eef94909e552d5adb61c23e.webp)](https://web.archive.org/web/20111010164601/http://2.bp.blogspot.com/_5cVyPU93ihM/Sb2Sy5_7sbI/AAAAAAAAACQ/yVIa3QdUqCI/s1600-h/tM-MM.jpg)  
+[![](/hfs40k/images/c1a6de4d8eef94909e552d5adb61c23e.webp)](https://web.archive.org/web/20111010164601/http://2.bp.blogspot.com/_5cVyPU93ihM/Sb2Sy5_7sbI/AAAAAAAAACQ/yVIa3QdUqCI/s1600-h/tM-MM.jpg)  
 Amerikkans take on mixing Avant-Prog with the more laid back Canterbury Jazzy sound.  
   
 [Download](https://web.archive.org/web/20111010164601/http://lix.in/-527f21) (@256)  

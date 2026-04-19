@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Agalloch%20Ashes%20Aga
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-16-agalloch-ashes-against-the-grain-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-16-agalloch-ashes-against-the-grain-vinyl-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-16-agalloch-ashes-against-the-grain-vinyl-flac.webp)](/hfs40k/images/covers/2009-07-16-agalloch-ashes-against-the-grain-vinyl-flac.webp)  
  10806's request  
   
 PROTIP: The Vinyl version has the best bonus track ever. Now the real question is why the fuck was it cut off from the original album?  

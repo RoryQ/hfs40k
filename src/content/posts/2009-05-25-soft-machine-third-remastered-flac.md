@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Soft%20Machine%20Third
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-25-soft-machine-third-remastered-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-25-soft-machine-third-remastered-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-25-soft-machine-third-remastered-flac.webp)](/hfs40k/images/covers/2009-05-25-soft-machine-third-remastered-flac.webp)  
 
 Third is a landmark album in the Softs'canon. The full fledged sonic jazz attack was unlike anything ever done before- and it WORKED!
 

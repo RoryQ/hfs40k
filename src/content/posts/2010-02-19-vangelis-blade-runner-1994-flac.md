@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Vangelis%20Blade%20Run
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-19-vangelis-blade-runner-1994-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-19-vangelis-blade-runner-1994-flac.webp)
+[![](/hfs40k/images/covers/2010-02-19-vangelis-blade-runner-1994-flac.webp)](/hfs40k/images/covers/2010-02-19-vangelis-blade-runner-1994-flac.webp)
 
   
 The perfect sci-fi soundtrack for the perfect sci-fi movie. It's a bit cheesy sometimes but that doesn't stop this from being fucking amazing.  

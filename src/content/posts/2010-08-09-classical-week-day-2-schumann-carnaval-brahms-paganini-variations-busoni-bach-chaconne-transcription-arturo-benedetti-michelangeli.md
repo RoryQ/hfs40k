@@ -20,7 +20,7 @@ youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-08-09-classical-week-day-2-schumann-carnaval-brahms-paganini-variations-busoni-bach-chaconne-transcription-arturo-benedetti-michelangeli.webp)](/holyfuckingshit40000/images/covers/2010-08-09-classical-week-day-2-schumann-carnaval-brahms-paganini-variations-busoni-bach-chaconne-transcription-arturo-benedetti-michelangeli.webp)  
+[![](/hfs40k/images/covers/2010-08-09-classical-week-day-2-schumann-carnaval-brahms-paganini-variations-busoni-bach-chaconne-transcription-arturo-benedetti-michelangeli.webp)](/hfs40k/images/covers/2010-08-09-classical-week-day-2-schumann-carnaval-brahms-paganini-variations-busoni-bach-chaconne-transcription-arturo-benedetti-michelangeli.webp)  
 
 Arturo Benedetti Michelangeli felt an obssesive fascination by these three piano works.  
 This Chaconne performing maintains the perfect balance between the mistery and the elusiveness, in fact Benedetti gradually increases the tension level to unexpected heights. I got the Busoni version with this piece and Michelangeli gets very very close in idiomatic expresiveness.  

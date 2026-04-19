@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20The%20Eye%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-26-neurosis-the-eye-of-every-storm-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-26-neurosis-the-eye-of-every-storm-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-26-neurosis-the-eye-of-every-storm-flac.webp)](/hfs40k/images/covers/2009-03-26-neurosis-the-eye-of-every-storm-flac.webp)  
 "The Eye of Every Storm is a minimalist approach to grand, overwrought classical arrangements. A diseased corpse lies in the desert, the bones of this beast are visible through it's skin. This monster barely makes it to eye of the storm without crumbling, brick by brick, and stone by stone. When describing the songs on The Eye of Evey Storm even words like desolate and barren don't have enough power to describe the portraits painted. The Eye of Evey Storm is a piece of modernist architecture, no space is wasted, nothing added. It exists this way because it couldn't exist any other way."  
   
 I like Neurosis reviews in RYM. Pretty much amazing album.  

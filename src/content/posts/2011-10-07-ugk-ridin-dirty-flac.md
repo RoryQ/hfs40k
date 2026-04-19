@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=UGK%20Ridin%27%20Dirty
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-10-07-ugk-ridin-dirty-flac.webp)](/holyfuckingshit40000/images/covers/2011-10-07-ugk-ridin-dirty-flac.webp)  
+[![](/hfs40k/images/covers/2011-10-07-ugk-ridin-dirty-flac.webp)](/hfs40k/images/covers/2011-10-07-ugk-ridin-dirty-flac.webp)  
 Long before Chamillionaire was "Ridin' Dirty"(which was questionably changed to simply "Ridin'" when it made radio waves) on the charts, the Underground Kingz were ridin' dirtier than anyone else in the game; and to this day, this is still one of the rawest records to come from the Dirty South.  
   
 Some people new to the game probably think that Bun B, who makes a guest appearance on seemingly every Southern rapper's album, is some new cat who's trying to make waves in the underground. While I can see why they'd think this(Bun B is always hungry when he raps, leading one to believe he's trying to make an impact on the industry - despite the fact he already has made a significant one), Bun B has been in the biz for well over a decade, alongside his partner in rhyme(although, 'in crime' maybe more appropriate for Pimp C than it is for most), Pimp C. Together, they're the Underground Kingz, who identify themselves by the acronym of UGK. When they first came into the game, the South was obscure; now that it's blown up(especially their native land of Texas), one would think that UGK would get better publicity. Unfortunately the Kingz' publicity still doesn't compare to their skills, and only true heads have been able to check out their undeniably dope music.  

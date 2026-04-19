@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20Harvey
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-21-harvey-milk-harvey-milk-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-21-harvey-milk-harvey-milk-flac.webp) [Forgot who requested this, but enjoy.](https://web.archive.org/web/20111010175324/http://lix.in/-8dec35)  
+[![](/hfs40k/images/covers/2010-09-21-harvey-milk-harvey-milk-flac.webp)](/hfs40k/images/covers/2010-09-21-harvey-milk-harvey-milk-flac.webp) [Forgot who requested this, but enjoy.](https://web.archive.org/web/20111010175324/http://lix.in/-8dec35)  
   
 Password: haveanicelife

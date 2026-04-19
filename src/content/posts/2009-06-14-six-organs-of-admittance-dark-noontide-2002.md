@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Six%20Organs%20of%20Ad
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-14-six-organs-of-admittance-dark-noontide-2002.webp)](/holyfuckingshit40000/images/covers/2009-06-14-six-organs-of-admittance-dark-noontide-2002.webp)"...acoustic guitars blend with tablas and Eastern drones, as well as distorted electric guitar feedback to create a relaxing, exotic blend. The rhythms are generally downbeat, and the chords minor, and the overall feeling is warm but chaotic, with slightly nervous overtones. This could be good meditation music, though it is meditating on apocalypse."  
+[![](/hfs40k/images/covers/2009-06-14-six-organs-of-admittance-dark-noontide-2002.webp)](/hfs40k/images/covers/2009-06-14-six-organs-of-admittance-dark-noontide-2002.webp)"...acoustic guitars blend with tablas and Eastern drones, as well as distorted electric guitar feedback to create a relaxing, exotic blend. The rhythms are generally downbeat, and the chords minor, and the overall feeling is warm but chaotic, with slightly nervous overtones. This could be good meditation music, though it is meditating on apocalypse."  
   
 [Download](https://web.archive.org/web/20111010090934/http://lix.in/-4f06b9) (320)

@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Nektar%20A%20Tab%20in%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-12-nektar-a-tab-in-the-ocean.webp)](/holyfuckingshit40000/images/covers/2010-01-12-nektar-a-tab-in-the-ocean.webp)Great psychedelic prog rock here. I really dig the spacey sounding keys and the guitar playing on this. Thanks to tolkkii for recommending me this on rateyourmusic about a year ago. <3  
+[![](/hfs40k/images/covers/2010-01-12-nektar-a-tab-in-the-ocean.webp)](/hfs40k/images/covers/2010-01-12-nektar-a-tab-in-the-ocean.webp)Great psychedelic prog rock here. I really dig the spacey sounding keys and the guitar playing on this. Thanks to tolkkii for recommending me this on rateyourmusic about a year ago. <3  
 [Download @ 256 (MU)](https://web.archive.org/web/20111010124045/http://lix.in/-6f6cc0)

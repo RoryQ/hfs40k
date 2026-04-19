@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20Escap
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-14-65daysofstatic-escape-from-new-york-2009.webp)](/holyfuckingshit40000/images/covers/2009-04-14-65daysofstatic-escape-from-new-york-2009.webp)  
+[![](/hfs40k/images/covers/2009-04-14-65daysofstatic-escape-from-new-york-2009.webp)](/hfs40k/images/covers/2009-04-14-65daysofstatic-escape-from-new-york-2009.webp)  
 ~LIVE FROM NEW YORK~  
   
 [Download](https://web.archive.org/web/20111010131413/http://www.mediafire.com/?yjvjjtnlitd)

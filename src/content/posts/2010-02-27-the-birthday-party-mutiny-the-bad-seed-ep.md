@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Birthday%20Party
 
 
 
-[![](/holyfuckingshit40000/images/c454776238bdcab79e30bcc836cc16e6.webp)](https://web.archive.org/web/20111010155941/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4nNk1haiQI/AAAAAAAAAX8/YajIaUW7H_g/s1600-h/mutiny.jpg)
+[![](/hfs40k/images/c454776238bdcab79e30bcc836cc16e6.webp)](https://web.archive.org/web/20111010155941/http://1.bp.blogspot.com/_bIgHZQu-UEA/S4nNk1haiQI/AAAAAAAAAX8/YajIaUW7H_g/s1600-h/mutiny.jpg)
 
 A collection of the two 1983 releases *The Bad Seed EP* and *The Mutiny Sessions*, which are the final two releases for the band before Cave went off and made *From Her to Eternity*. If you're a fan of Nick Cave and haven't heard his pre-Bad Seeds career you're in for a treat. Especially if you're into difficult post-punk/no-wave/noise-rock. Notable fans of the band include members of My Bloody Valentine, Coil, the Jesus and Mary Chain, Scratch Acid, Melt-Banana, Dinosaur Jr, etc..
 

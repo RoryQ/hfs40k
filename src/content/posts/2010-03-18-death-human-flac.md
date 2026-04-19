@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Death%20Human
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-18-death-human-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-18-death-human-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-18-death-human-flac.webp)](/hfs40k/images/covers/2010-03-18-death-human-flac.webp)  
   
   
 Too much ambient being posted lately, so I am going to counter this by posting metal.  

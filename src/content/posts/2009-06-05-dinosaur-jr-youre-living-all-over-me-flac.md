@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20You%2
 
 
 
-[![](/holyfuckingshit40000/images/2c209eed213a1a80e199da381f8881fb.webp)](https://web.archive.org/web/20111010091435/http://2.bp.blogspot.com/_cLI19EXK2oU/Sik_UCG6C4I/AAAAAAAAAII/QX9oU7QMCpc/s1600-h/living.png)  
+[![](/hfs40k/images/2c209eed213a1a80e199da381f8881fb.webp)](https://web.archive.org/web/20111010091435/http://2.bp.blogspot.com/_cLI19EXK2oU/Sik_UCG6C4I/AAAAAAAAAII/QX9oU7QMCpc/s1600-h/living.png)  
 lol grunge noise rock  
   
 [FLAC](https://web.archive.org/web/20111010091435/http://lix.in/-473790)  

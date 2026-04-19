@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Bitche
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-06-miles-davis-bitches-brew-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-06-miles-davis-bitches-brew-flac.webp)  
+[![](/hfs40k/images/covers/2009-12-06-miles-davis-bitches-brew-flac.webp)](/hfs40k/images/covers/2009-12-06-miles-davis-bitches-brew-flac.webp)  
 Needs no introduction.  
   
 [Enjoy](https://web.archive.org/web/20111010154826/http://lix.in/-62874a)

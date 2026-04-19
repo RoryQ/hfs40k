@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robbie%20Basho%20Venus
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-03-robbie-basho-venus-in-cancer-1969-256.webp)](/holyfuckingshit40000/images/covers/2009-07-03-robbie-basho-venus-in-cancer-1969-256.webp)  
+[![](/hfs40k/images/covers/2009-07-03-robbie-basho-venus-in-cancer-1969-256.webp)](/hfs40k/images/covers/2009-07-03-robbie-basho-venus-in-cancer-1969-256.webp)  
 For fans of: Sir Richard Bishop, John Fahey, Jack Rose  
   
 [Download (MF)](https://web.archive.org/web/20111010142505/http://lix.in/-49b3ee)

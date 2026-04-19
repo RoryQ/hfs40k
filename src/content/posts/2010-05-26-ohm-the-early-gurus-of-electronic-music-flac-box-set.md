@@ -17,7 +17,7 @@ youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20OH
 
 
 
-[![](/holyfuckingshit40000/images/7d3cc4350ca35ec3da67a5c8ccb07042.webp)](https://web.archive.org/web/20111010095928/http://1.bp.blogspot.com/_cLI19EXK2oU/S_1GTtoXMuI/AAAAAAAAAqc/vhvfGpaunns/s1600/jkwe3.jpg)  
+[![](/hfs40k/images/7d3cc4350ca35ec3da67a5c8ccb07042.webp)](https://web.archive.org/web/20111010095928/http://1.bp.blogspot.com/_cLI19EXK2oU/S_1GTtoXMuI/AAAAAAAAAqc/vhvfGpaunns/s1600/jkwe3.jpg)  
 OHM makes a very lofty ambition to cover the entire history of electronic music in one set of 3 CDs. While three CDs may offer considerably more time than the standard 1 or 2 disc compilation, it is hardly enough space to really cover much in detail for one decade of music, let alone four. "OHM" is refreshing in its honesty, admitting these flaws and then getting on with what really matters: the music.
 
 Many of the pieces included on this set have been severely shortened for variety's sake. Rather than include the full hour or so of Terry Riley's "Poppy Nogood," for instance, we are treated to a seven minute excerpt. In many instances, this does what the set is meant to do on the whole: it gives a good overview of the history and growth of electronic music as its own experimental genre.

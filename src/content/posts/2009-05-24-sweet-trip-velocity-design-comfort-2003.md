@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sweet%20Trip%20Velocit
 
 
 
-[![](/holyfuckingshit40000/images/5393b2f8b7ed600c36a9ef32e63ec5ab.webp)](https://web.archive.org/web/20111008155837/http://2.bp.blogspot.com/_cLI19EXK2oU/ShlUflNAneI/AAAAAAAAAGI/siZqJQUWe64/s1600-h/sweettrip.jpg)  
+[![](/hfs40k/images/5393b2f8b7ed600c36a9ef32e63ec5ab.webp)](https://web.archive.org/web/20111008155837/http://2.bp.blogspot.com/_cLI19EXK2oU/ShlUflNAneI/AAAAAAAAAGI/siZqJQUWe64/s1600-h/sweettrip.jpg)  
 Venetian Snares + My Bloody Valentine = Velocity : Design : Comfort  
   
 I shit you not.  

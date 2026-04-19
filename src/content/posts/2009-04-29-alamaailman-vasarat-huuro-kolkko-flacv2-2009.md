@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Alamaailman%20Vasarat%
 
 
 
-[![](/holyfuckingshit40000/images/47c5df4c0e1eadaa4a50c98c87468d89.webp)](/holyfuckingshit40000/images/47c5df4c0e1eadaa4a50c98c87468d89.webp)  
+[![](/hfs40k/images/47c5df4c0e1eadaa4a50c98c87468d89.webp)](/hfs40k/images/47c5df4c0e1eadaa4a50c98c87468d89.webp)  
 New Alamaailman Vasarat album. Less metal, more folky (and million other genres) this time. Jews playing prog that's what this is.  
   
 [Download (FLAC)](https://web.archive.org/web/20111010131316/http://www.megaupload.com/?d=Y37V61UM)  

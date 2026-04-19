@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Max%20Roach%20We%20Ins
 
 
 
-[![](/holyfuckingshit40000/images/d1935abbaf1717c5e0bcdbdedb1c6bf0.webp)](https://web.archive.org/web/20111008155701/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sh81NTFZeJI/AAAAAAAAABc/-r2Ectlbwa0/s1600-h/folder.jpg)This is a classic jazz record, but to me it's also an extremely strange one. First of all, there are vocals (provided by Abbey Lincoln), which is somewhat out of the ordinary for a jazz album. Second, Coleman Hawkins is present. This being an avant-garde leaning album, it's strange to see a "relic" of the bop/swing age on board. Third, it created it's own genre: "avant-garde-sit-in-protestcore." Fourth, it's amazingly good.  
+[![](/hfs40k/images/d1935abbaf1717c5e0bcdbdedb1c6bf0.webp)](https://web.archive.org/web/20111008155701/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sh81NTFZeJI/AAAAAAAAABc/-r2Ectlbwa0/s1600-h/folder.jpg)This is a classic jazz record, but to me it's also an extremely strange one. First of all, there are vocals (provided by Abbey Lincoln), which is somewhat out of the ordinary for a jazz album. Second, Coleman Hawkins is present. This being an avant-garde leaning album, it's strange to see a "relic" of the bop/swing age on board. Third, it created it's own genre: "avant-garde-sit-in-protestcore." Fourth, it's amazingly good.  
   
 Oh yeah. Booker Little is on it too.  
   

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20My%2
 
 
 
-[![](/holyfuckingshit40000/images/8e81164b432dcea83d86fac8fe4ec36d.webp)](https://web.archive.org/web/20111010100552/http://2.bp.blogspot.com/_9vpegXTmIbs/S9xFZ2AsoRI/AAAAAAAAABE/AjYBB-tomGs/s1600/My+Favorite+Things.jpg)  
+[![](/hfs40k/images/8e81164b432dcea83d86fac8fe4ec36d.webp)](https://web.archive.org/web/20111010100552/http://2.bp.blogspot.com/_9vpegXTmIbs/S9xFZ2AsoRI/AAAAAAAAABE/AjYBB-tomGs/s1600/My+Favorite+Things.jpg)  
   
 [Get it in FLAC](https://web.archive.org/web/20111010100552/http://lix.in/-7959ab)

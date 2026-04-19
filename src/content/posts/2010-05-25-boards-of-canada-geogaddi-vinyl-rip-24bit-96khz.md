@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/756f782892062315dcd8e6dc61d05962.webp)](https://web.archive.org/web/20111010100746/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_u0dfMb_4I/AAAAAAAAAPo/e0J-nGZiOq0/s1600/20060724233151%21Geogaddi.jpg)  
+[![](/hfs40k/images/756f782892062315dcd8e6dc61d05962.webp)](https://web.archive.org/web/20111010100746/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_u0dfMb_4I/AAAAAAAAAPo/e0J-nGZiOq0/s1600/20060724233151%21Geogaddi.jpg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Komeda%20Quintet%20Ast
 
 
 
-[[![](/holyfuckingshit40000/images/covers/2010-05-15-komeda-quintet-astigmatic-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-15-komeda-quintet-astigmatic-flac.webp)  
+[[![](/hfs40k/images/covers/2010-05-15-komeda-quintet-astigmatic-flac.webp)](/hfs40k/images/covers/2010-05-15-komeda-quintet-astigmatic-flac.webp)  
 Quite possibly the most quintessential european jazz album of all time.  
   
 Innovator with a complex of tradition, romanticist expressing himself in the contemporary idiom, poet of piano - this is KRZYSZTOF KOMEDA, one of those musicians who have widened the very essence of jazz.  

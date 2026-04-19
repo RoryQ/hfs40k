@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Santana%20Caravanserei
 
 
 
-[![](/holyfuckingshit40000/images/a269132f6b6ac7aed06d3eb23fe189f2.webp)](https://web.archive.org/web/20111010094810/http://3.bp.blogspot.com/_5cVyPU93ihM/SqAoZ5fhscI/AAAAAAAAALc/keD5cmGqlvA/s1600-h/Santana_-_Caravanserai_-_Front.jpg)  
+[![](/hfs40k/images/a269132f6b6ac7aed06d3eb23fe189f2.webp)](https://web.archive.org/web/20111010094810/http://3.bp.blogspot.com/_5cVyPU93ihM/SqAoZ5fhscI/AAAAAAAAALc/keD5cmGqlvA/s1600-h/Santana_-_Caravanserai_-_Front.jpg)  
 Fuck yeah I love camel  
   
 [Download](https://web.archive.org/web/20111010094810/http://lix.in/-53deac)

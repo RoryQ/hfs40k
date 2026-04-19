@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Massive%20Attack%20Mez
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-22-massive-attack-mezzanine-1998-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-22-massive-attack-mezzanine-1998-flac.webp)As per request of an irl friend.
+[![](/hfs40k/images/covers/2009-06-22-massive-attack-mezzanine-1998-flac.webp)](/hfs40k/images/covers/2009-06-22-massive-attack-mezzanine-1998-flac.webp)As per request of an irl friend.
 
 [Download FLAC](https://web.archive.org/web/20111012144611/http://lix.in/-4caeac)

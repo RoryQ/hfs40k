@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ketil%20Bj%C3%B8rnstad
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-11-ketil-bjørnstad-david-darling-jon-christensen-terje-rypdal-the-sea-ii-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-11-ketil-bjørnstad-david-darling-jon-christensen-terje-rypdal-the-sea-ii-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-11-ketil-bjørnstad-david-darling-jon-christensen-terje-rypdal-the-sea-ii-flac.webp)](/hfs40k/images/covers/2010-06-11-ketil-bjørnstad-david-darling-jon-christensen-terje-rypdal-the-sea-ii-flac.webp)  
   
   
   

@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Windy%20%26%20Carl%20C
 
 
 
-[![](https://web.archive.org/web/20111010044933im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/S7qNrt6nvqI/AAAAAAAAAFg/Uoyl0vxab-Y/s400/o39592.jpg)](/holyfuckingshit40000/images/0b2da604b3d8e45bcaf6d63e8cdb93d0.webp)  
+[![](https://web.archive.org/web/20111010044933im_/http://2.bp.blogspot.com/_mTQyK3r0bG0/S7qNrt6nvqI/AAAAAAAAAFg/Uoyl0vxab-Y/s400/o39592.jpg)](/hfs40k/images/0b2da604b3d8e45bcaf6d63e8cdb93d0.webp)  
 [Download FLAC](https://web.archive.org/web/20111010044933/http://lix.in/-7ba9b7)

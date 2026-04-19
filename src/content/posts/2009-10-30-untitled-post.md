@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20Farm
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-30-untitled-post.webp)](/holyfuckingshit40000/images/covers/2009-10-30-untitled-post.webp)  
+[![](/hfs40k/images/covers/2009-10-30-untitled-post.webp)](/hfs40k/images/covers/2009-10-30-untitled-post.webp)  
 
 Get it quick. The label takes it down when they catch on..
 

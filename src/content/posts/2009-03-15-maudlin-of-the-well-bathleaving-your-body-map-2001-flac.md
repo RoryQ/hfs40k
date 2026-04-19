@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=maudlin%20of%20the%20W
 
 
 
-[![](/holyfuckingshit40000/images/ee998016bd64cf397e28d4f6adbd643b.webp)](https://web.archive.org/web/20111010164045/http://3.bp.blogspot.com/_z8rLjrFVzbo/SbzS32qNN1I/AAAAAAAAAEM/WlFS9_VLBhE/s1600-h/35217.jpg)[![](/holyfuckingshit40000/images/53c4c595cee1ece9bbf72c3cc2b93d41.webp)](https://web.archive.org/web/20111010164045/http://2.bp.blogspot.com/_z8rLjrFVzbo/SbzU3U1epUI/AAAAAAAAAEc/GwihJkdn1PU/s1600-h/68050.jpg)Bath is the album with no bath, Leaving your body map is the bath album.  
+[![](/hfs40k/images/ee998016bd64cf397e28d4f6adbd643b.webp)](https://web.archive.org/web/20111010164045/http://3.bp.blogspot.com/_z8rLjrFVzbo/SbzS32qNN1I/AAAAAAAAAEM/WlFS9_VLBhE/s1600-h/35217.jpg)[![](/hfs40k/images/53c4c595cee1ece9bbf72c3cc2b93d41.webp)](https://web.archive.org/web/20111010164045/http://2.bp.blogspot.com/_z8rLjrFVzbo/SbzU3U1epUI/AAAAAAAAAEc/GwihJkdn1PU/s1600-h/68050.jpg)Bath is the album with no bath, Leaving your body map is the bath album.  
   
 Probably one of the few reasons why people should dig into metal.  
   

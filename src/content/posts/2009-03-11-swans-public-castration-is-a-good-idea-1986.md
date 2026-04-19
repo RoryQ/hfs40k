@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Public%20Castr
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-11-swans-public-castration-is-a-good-idea-1986.webp)](/holyfuckingshit40000/images/covers/2009-03-11-swans-public-castration-is-a-good-idea-1986.webp)  
+[![](/hfs40k/images/covers/2009-03-11-swans-public-castration-is-a-good-idea-1986.webp)](/hfs40k/images/covers/2009-03-11-swans-public-castration-is-a-good-idea-1986.webp)  
 Public Castration Is a Good Idea is a live release by the New York No Wave band Swans. It was recorded from shows in London and Nottingham on the Greed/Holy Money tour in 1986, the first six songs taken from a show at London's I.C.U. *Public Castration* is often regarded as the band's most brutal extant live album, the song performances here musically quite different from their studio versions, in particular the lengthy, minimal version of "A Screw".  
   
 Download (320)  

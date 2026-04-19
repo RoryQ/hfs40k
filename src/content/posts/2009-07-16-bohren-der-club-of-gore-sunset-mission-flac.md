@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bohren%20%26%20der%20C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-16-bohren-der-club-of-gore-sunset-mission-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-16-bohren-der-club-of-gore-sunset-mission-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-16-bohren-der-club-of-gore-sunset-mission-flac.webp)](/hfs40k/images/covers/2009-07-16-bohren-der-club-of-gore-sunset-mission-flac.webp)  
 Oh god give me more DOOM JAZZ.  
   
 [DOWNLOAD [FLAC]](https://web.archive.org/web/20111010141440/http://lix.in/-55aa57)

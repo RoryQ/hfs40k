@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Current%2093%20Anok%20
 
 
 
-[![](/holyfuckingshit40000/images/7086fdad1aaefee9ed9d9204721b546e.webp)](/holyfuckingshit40000/images/7086fdad1aaefee9ed9d9204721b546e.webp)  
+[![](/hfs40k/images/7086fdad1aaefee9ed9d9204721b546e.webp)](/hfs40k/images/7086fdad1aaefee9ed9d9204721b546e.webp)  
 New Current 93.  
   
 [Download (v2)](https://web.archive.org/web/20111010130842/http://www.megaupload.com/?d=FRUMF3BV)

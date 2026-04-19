@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Black%20Tambourine%20C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-06-15-black-tambourine-complete-recordings-flac.webp)](/holyfuckingshit40000/images/covers/2011-06-15-black-tambourine-complete-recordings-flac.webp)  
+[![](/hfs40k/images/covers/2011-06-15-black-tambourine-complete-recordings-flac.webp)](/hfs40k/images/covers/2011-06-15-black-tambourine-complete-recordings-flac.webp)  
   
 Ever thought about recording the sound of jamming a blueberry into an electric socket? LOL THAT'D BE SOME JOHN CAGE TYPE SHIT RIGHT THERE XD!  
   

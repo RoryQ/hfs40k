@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Shufferi
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-01-fela-kuti-shuffering-and-shmilingno-agreement-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-01-fela-kuti-shuffering-and-shmilingno-agreement-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-01-fela-kuti-shuffering-and-shmilingno-agreement-flac.webp)](/hfs40k/images/covers/2010-10-01-fela-kuti-shuffering-and-shmilingno-agreement-flac.webp)  
   
 
 **IT'S MOTHERFUCKING NIGERIAN INDEPENDENCE DAY. LISTEN TO THIS AND DANCE YOUR ASS OFF IN CELEBRATION OF FIFTY YEARS OF FREEDOM FROM THOSE DAMN BRITISH COLONIALIST PIGS. HELL. YEAH.**

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ground%20Zero%20Consum
 
 
 
-[![](/holyfuckingshit40000/images/662ad2fd99cb5daeee4986c6f9348c0f.webp)](https://web.archive.org/web/20111010100703/http://4.bp.blogspot.com/_pqcGUSDUhi4/S-6mWQPiIdI/AAAAAAAAAEk/MkVvTUOZXMw/s1600/folder.jpg)  
+[![](/hfs40k/images/662ad2fd99cb5daeee4986c6f9348c0f.webp)](https://web.archive.org/web/20111010100703/http://4.bp.blogspot.com/_pqcGUSDUhi4/S-6mWQPiIdI/AAAAAAAAAEk/MkVvTUOZXMw/s1600/folder.jpg)  
   
   
   

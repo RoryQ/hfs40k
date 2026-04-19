@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/09b96b9ad1342bb381032a5da1299035.webp)](https://web.archive.org/web/20111010100149/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_uuLEji6OI/AAAAAAAAAPg/bOKuAd6FThU/s1600/Boards+Of+Canada+-+2005+-+The+Campfire+Headphase.jpg)  
+[![](/hfs40k/images/09b96b9ad1342bb381032a5da1299035.webp)](https://web.archive.org/web/20111010100149/http://4.bp.blogspot.com/_t6lWjgwMoxw/S_uuLEji6OI/AAAAAAAAAPg/bOKuAd6FThU/s1600/Boards+Of+Canada+-+2005+-+The+Campfire+Headphase.jpg)  
   
   
   

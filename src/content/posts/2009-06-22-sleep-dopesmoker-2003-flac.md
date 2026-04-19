@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sleep%20Dopesmoker
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-22-sleep-dopesmoker-2003-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-22-sleep-dopesmoker-2003-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-22-sleep-dopesmoker-2003-flac.webp)](/hfs40k/images/covers/2009-06-22-sleep-dopesmoker-2003-flac.webp)  
 HOLY FUCKING SHIT THIS IS HEAVY  
   
 [FLAC](https://web.archive.org/web/20111010085255/http://lix.in/-54a1f8)

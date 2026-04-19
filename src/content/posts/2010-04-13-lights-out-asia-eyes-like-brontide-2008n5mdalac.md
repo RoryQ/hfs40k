@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Lights%20Out%20Asia%20
 
 
 
-[![](/holyfuckingshit40000/images/9166487f9d4b47bde52384637a31d3cd.webp)](/holyfuckingshit40000/images/9166487f9d4b47bde52384637a31d3cd.webp)  
+[![](/hfs40k/images/9166487f9d4b47bde52384637a31d3cd.webp)](/hfs40k/images/9166487f9d4b47bde52384637a31d3cd.webp)  
 If you don't like this album then gtfo.  
 [ALAC](https://web.archive.org/web/20111010045547/http://lix.in/-7cfa51)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Sight%20Below%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-16-the-sight-below-it-all-falls-apart-2010ghostly-international320.webp)](/holyfuckingshit40000/images/covers/2010-04-16-the-sight-below-it-all-falls-apart-2010ghostly-international320.webp)  
+[![](/hfs40k/images/covers/2010-04-16-the-sight-below-it-all-falls-apart-2010ghostly-international320.webp)](/hfs40k/images/covers/2010-04-16-the-sight-below-it-all-falls-apart-2010ghostly-international320.webp)  
 Collaboration between Seattle ambient producer The Sight Below and former Slowdive drummer Simon Scott.  
 [320](https://web.archive.org/web/20111010045551/http://lix.in/-7bedb8)  
 Feel free to trump w/ flac.

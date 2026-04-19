@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Horace%20Silver%20Song
 
 
 
-[![](/holyfuckingshit40000/images/0fb64006bb3aad6bd5b5e5846839b87d.webp)](/holyfuckingshit40000/images/6426cfeb05980946ce01cf9522c2327b.webp)  
+[![](/hfs40k/images/0fb64006bb3aad6bd5b5e5846839b87d.webp)](/hfs40k/images/6426cfeb05980946ce01cf9522c2327b.webp)  
 Long-time jazz pianist Horace Silver released this gem in 1964 on Blue Note. It is an unusual session as it is a split one. Part of the album contains Silver's classic quintet of Blue Mitchell on trumpet, Junior Cook on tenor sax, Gene Taylor on bass, Roy Brooks on drums, and of course, Silver on piano. The other part has Silver on piano, Carmell Jones on trumpet, Joe Henderson on tenor sax, Teddy Smith on bass, and Roger Humphries on drums. It is a "cut and paste" effort, but once you listen to the music, you can't tell a difference in their personnel. That is how flawless this album is.  
 
 The title track is obviously one of jazz's all-time great pieces, but "Calcutta Cutie", "Que Pasa?", "The Natives Are Restless Tonight", and "Lonely Woman" are all outstanding, heck the whole album is great. Henderson, in particular, is at the top of his game and he absolutely gives one of the best tenor sax solos of all-time in the title track.

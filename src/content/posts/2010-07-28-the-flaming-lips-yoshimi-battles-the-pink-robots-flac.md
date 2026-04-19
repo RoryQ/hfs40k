@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-28-the-flaming-lips-yoshimi-battles-the-pink-robots-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-28-the-flaming-lips-yoshimi-battles-the-pink-robots-flac.webp)  
+[![](/hfs40k/images/covers/2010-07-28-the-flaming-lips-yoshimi-battles-the-pink-robots-flac.webp)](/hfs40k/images/covers/2010-07-28-the-flaming-lips-yoshimi-battles-the-pink-robots-flac.webp)  
 I had never heard of the Flaming Lips before hearing "Do You Realize?" late in 2002. I was instantly captivated by the soaring vocals, lush harmonies and orchestrations, and sterling production. But this song did not prepare me for the rich and varied experience of the entire album.
 
 There are pop singles (the catchy yet wistful "Fight Test," the tongue-in-cheek title track), instrumentals (the aggressive "Part II" of the title track and the smooth & mellow, Grammy-winning "Approaching Pavonis Mons by Balloon") and even a prog rock number ("In the Morning of the Magicians") reminiscent of mid-1970's Yes. The range of music on this record is simply astonishing. The pristine production values help the songs flow together and enhance the overall listening experience.

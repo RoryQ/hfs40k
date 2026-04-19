@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flesh%20Eaters%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-15-the-flesh-eaters-miss-muerte-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-15-the-flesh-eaters-miss-muerte-flac.webp)
+[![](/hfs40k/images/covers/2011-04-15-the-flesh-eaters-miss-muerte-flac.webp)](/hfs40k/images/covers/2011-04-15-the-flesh-eaters-miss-muerte-flac.webp)
 
   
   

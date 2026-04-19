@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Amplifier%20Wo
 
 
 
-[![](/holyfuckingshit40000/images/40bd5835784efce38c39d31f3b1ee455.webp)](https://web.archive.org/web/20111010170406/http://4.bp.blogspot.com/_cLI19EXK2oU/SbxMe_diksI/AAAAAAAAABw/CkqvuKKYCqs/s1600-h/Boris%2Bamplifier%2Bworship.jpg)  
+[![](/hfs40k/images/40bd5835784efce38c39d31f3b1ee455.webp)](https://web.archive.org/web/20111010170406/http://4.bp.blogspot.com/_cLI19EXK2oU/SbxMe_diksI/AAAAAAAAABw/CkqvuKKYCqs/s1600-h/Boris%2Bamplifier%2Bworship.jpg)  
 Boris: All your bass are belong to us.  
   
 [Download1](https://web.archive.org/web/20111010170406/http://www.mediafire.com/?zjvwnedd5vz) [Download2](https://web.archive.org/web/20111010170406/http://www.mediafire.com/?mmvu5n5v4oj) [Download3](https://web.archive.org/web/20111010170406/http://www.mediafire.com/?zhzgm3difm0) [Download4](https://web.archive.org/web/20111010170406/http://www.mediafire.com/?z0nnny4utyg)

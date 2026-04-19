@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20White%20Stripes%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-26-the-white-stripes-elephant-flacv0.webp)](/holyfuckingshit40000/images/covers/2009-12-26-the-white-stripes-elephant-flacv0.webp)I just had this laying around (I have a massive pile of CDs I don't care much for that I got for from my aunt, don't ask) and I listened to Seven Nation Army again after 5 years and I gotta say...it's not that bad. Overall, it's an OK album.  
+[![](/hfs40k/images/covers/2009-12-26-the-white-stripes-elephant-flacv0.webp)](/hfs40k/images/covers/2009-12-26-the-white-stripes-elephant-flacv0.webp)I just had this laying around (I have a massive pile of CDs I don't care much for that I got for from my aunt, don't ask) and I listened to Seven Nation Army again after 5 years and I gotta say...it's not that bad. Overall, it's an OK album.  
   
 [Download FLAC](https://web.archive.org/web/20111010155254/http://lix.in/-616551) // \\ [Download v0](https://web.archive.org/web/20111010155254/http://lix.in/-65f952)

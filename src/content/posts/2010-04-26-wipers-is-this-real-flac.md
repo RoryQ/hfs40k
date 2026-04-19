@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Wipers%20Is%20This%20R
 
 
 
-[![](/holyfuckingshit40000/images/05884c15e30511ad1ac1b8123022d92f.webp)](/holyfuckingshit40000/images/a7d9ebfc8131fa7c2af8b432cbab8dc1.webp)From the Greg Sage's box set that includes remasters of the first three, and greatest, Wipers' albums. Meaning that the sound is a bit better, and the thing is chock full of sweet, completely worthwhile bonus tracks. And please, if you're a Wipers fan, just buy the thing. It's $17 for three remastered albums with EPs and other goodies along with a huge booklet detailing everything you'd ever want to know about these guys. A steal.
+[![](/hfs40k/images/05884c15e30511ad1ac1b8123022d92f.webp)](/hfs40k/images/a7d9ebfc8131fa7c2af8b432cbab8dc1.webp)From the Greg Sage's box set that includes remasters of the first three, and greatest, Wipers' albums. Meaning that the sound is a bit better, and the thing is chock full of sweet, completely worthwhile bonus tracks. And please, if you're a Wipers fan, just buy the thing. It's $17 for three remastered albums with EPs and other goodies along with a huge booklet detailing everything you'd ever want to know about these guys. A steal.
 
 [Enjoy](https://web.archive.org/web/20111010050018/http://lix.in/-78b4e7)

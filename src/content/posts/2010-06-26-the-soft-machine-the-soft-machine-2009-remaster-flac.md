@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Soft%20Machine%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-26-the-soft-machine-the-soft-machine-2009-remaster-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-26-the-soft-machine-the-soft-machine-2009-remaster-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-26-the-soft-machine-the-soft-machine-2009-remaster-flac.webp)](/hfs40k/images/covers/2010-06-26-the-soft-machine-the-soft-machine-2009-remaster-flac.webp)  
 This first Soft Machine album is the prototype for the absolute masterpieces, Soft Machine Volume 2 & Third. That does not mean this debut is not a monster.  
   
 If that rave sounds qualified, it is. The second album is a miricle of fuzz and full sound: the original band in full attack. Here, they employ the same innovations, seuged tracks, self referancial lyrics that are quite modernist--"I like to smoke and drink and ball--but most of all I like to talk about me" says master Wyatt.  

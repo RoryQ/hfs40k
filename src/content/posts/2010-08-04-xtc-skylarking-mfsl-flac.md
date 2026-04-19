@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=XTC%20Skylarking
 
 
 
-[![](/holyfuckingshit40000/images/1ab06af39b87ea7c2ee5306744b1dedb.webp)](/holyfuckingshit40000/images/6a9b4e5b3e9dc90419aa349c6867bfd5.webp)  
+[![](/hfs40k/images/1ab06af39b87ea7c2ee5306744b1dedb.webp)](/hfs40k/images/6a9b4e5b3e9dc90419aa349c6867bfd5.webp)  
 Todd Rundgren managed to infuriate the band during the recording of this LP, but he did a great job helping them to pick and sequence their material, and to frame it sound-wise and mix it into a beautiful record.
 
 The songs are strong. At least one of Partridge's overly wordy and effete clunkers creeps ("Supergirl") and "Season Cycle" is overly derivative (of the Beach Boys). But the rest of the material is well worth a spin. And Todd the Godd retains his ability to knock out wonderful-sounding LPs (file this one next to Patti Smith's "Wave" and the Psychedelic Furs' "Forever Now").

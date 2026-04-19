@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Portishead%20Dummy
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-01-portishead-dummy-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-01-portishead-dummy-flac.webp)  
+[![](/hfs40k/images/covers/2011-03-01-portishead-dummy-flac.webp)](/hfs40k/images/covers/2011-03-01-portishead-dummy-flac.webp)  
 If it wasn't for Portishead's vocalist Beth Gibbons, you could listen to Dummy all of the time. With tight, fresh hip-hop beats and a subtle jazz flavor, most of Dummy is danceable, although the band do have a knack for creating an especially eerie mood with moaning organs and swelling strings. But when Gibbons enters the scene, her clear delicate vibrato casts a shadow of isolation and absolute melancholy over the whole album.
 
 Portishead easily draw you into their lonely world, and their ambient trip-hop entices you to stay. Songs like "Numb" and "Biscuit" are dark trances enduced by the combination of hip-hop, mellow guitars, and a variety of samples coated by Gibbon's desperate pleas for salvation. Hearing her cry, "Nobody loves me, it's true" (from the superhit "Sour Times") is enough to tear at anyone's heart.

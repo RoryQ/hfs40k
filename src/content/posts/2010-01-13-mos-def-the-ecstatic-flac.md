@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mos%20Def%20The%20Ecst
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-13-mos-def-the-ecstatic-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-13-mos-def-the-ecstatic-flac.webp)Saw this posted back in June in pretty crappy quality, so I figured I'd upload the FLAC version I've got. This is my favorite hip hop album of 2009, though that's not really saying much.  
+[![](/hfs40k/images/covers/2010-01-13-mos-def-the-ecstatic-flac.webp)](/hfs40k/images/covers/2010-01-13-mos-def-the-ecstatic-flac.webp)Saw this posted back in June in pretty crappy quality, so I figured I'd upload the FLAC version I've got. This is my favorite hip hop album of 2009, though that's not really saying much.  
   
 [Get it in FLAC.](https://web.archive.org/web/20111010122948/http://www.megaupload.com/?d=WZDB252Q)  
   

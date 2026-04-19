@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Andrew%20Jackson%20Jih
 
 
 
-[![](https://web.archive.org/web/20111010045507im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yCynu4EbI/AAAAAAAAAd0/2leX5AJn1TA/s400/andrew-jackson-jihad-people.jpg)](/holyfuckingshit40000/images/5c5476b1a2bffe76ff0346cebbb56f1f.webp)  
+[![](https://web.archive.org/web/20111010045507im_/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yCynu4EbI/AAAAAAAAAd0/2leX5AJn1TA/s400/andrew-jackson-jihad-people.jpg)](/hfs40k/images/5c5476b1a2bffe76ff0346cebbb56f1f.webp)  
 There are few words to describe things left in the English language. And I don't know any other languages, besides some Spanish. And I do not know if asking where the bathrooms are would really be a complimentary thing to say about this CD.  
   
 Put less cleverly, AJJ is a stripped down, crazy, funny band and this CD offers the most fun per second (FPS) of any record you might purchase. Think They Might Be Giants on steroids. Or, think of a guy furiously strumming a guitar and singing the following lines:  

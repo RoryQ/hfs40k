@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=After%20Dinner%20Parad
 
 
 
-[![](/holyfuckingshit40000/images/cb96a235b8a0e9d6bf1dc1a605fc3a5c.webp)](https://web.archive.org/web/20111010170729/http://4.bp.blogspot.com/_cLI19EXK2oU/ScQX2mjTcFI/AAAAAAAAAB4/kFdtWzfF2xE/s1600-h/afterdinner.jpg)  
+[![](/hfs40k/images/cb96a235b8a0e9d6bf1dc1a605fc3a5c.webp)](https://web.archive.org/web/20111010170729/http://4.bp.blogspot.com/_cLI19EXK2oU/ScQX2mjTcFI/AAAAAAAAAB4/kFdtWzfF2xE/s1600-h/afterdinner.jpg)  
 Japanese Avant-Prog Pop. Highly recommended for fans of [Blueberry Boat](https://web.archive.org/web/20111010170729/http://rateyourmusic.com/release/album/the_fiery_furnaces/blueberry_boat/)  
   
 [Download](https://web.archive.org/web/20111010170729/http://www.mediafire.com/?dtmtzwm2coz)

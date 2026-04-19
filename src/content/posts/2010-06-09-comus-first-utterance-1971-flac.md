@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Comus%20First%20Uttera
 
 
 
-[![](/holyfuckingshit40000/images/d148aefb44cef75599e79afaa1989762.webp)](https://web.archive.org/web/20111010173202/http://4.bp.blogspot.com/_5cVyPU93ihM/TA98UtH0s3I/AAAAAAAAARQ/j7dXABoh4oc/s1600/Full.jpg)  
+[![](/hfs40k/images/d148aefb44cef75599e79afaa1989762.webp)](https://web.archive.org/web/20111010173202/http://4.bp.blogspot.com/_5cVyPU93ihM/TA98UtH0s3I/AAAAAAAAARQ/j7dXABoh4oc/s1600/Full.jpg)  
   
 itseasy2pointfingers' request  
   

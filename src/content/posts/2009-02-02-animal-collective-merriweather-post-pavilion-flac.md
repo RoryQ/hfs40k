@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/5060f32394d04b9811feca6fcd91a77c.gif)](/holyfuckingshit40000/images/92d7d66fb3c7003650069996d8fc7af9.gif)  
+[![](/hfs40k/images/5060f32394d04b9811feca6fcd91a77c.gif)](/hfs40k/images/92d7d66fb3c7003650069996d8fc7af9.gif)  
   
 As requested, this is the CD rip off what, not the poor Vinyl rip.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Luciano%20Cilio%20Dell
 
 
 
-[![](/holyfuckingshit40000/images/b2b0523a56d85fd8afff22671104ddef.webp)](https://web.archive.org/web/20111010173232/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCYflsR2zjI/AAAAAAAAASc/ZXI_7UCRM-g/s1600/ciliocover.jpg)  
+[![](/hfs40k/images/b2b0523a56d85fd8afff22671104ddef.webp)](https://web.archive.org/web/20111010173232/http://1.bp.blogspot.com/_t6lWjgwMoxw/TCYflsR2zjI/AAAAAAAAASc/ZXI_7UCRM-g/s1600/ciliocover.jpg)  
   
   
   

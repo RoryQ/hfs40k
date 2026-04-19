@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jun%20Togawa%3A%20Toga
 
 
 
-[![](/holyfuckingshit40000/images/042daa756d78ee2081b499589532a514.webp)](https://web.archive.org/web/20111010093434/http://1.bp.blogspot.com/-SYdu3VdFrOE/Tb4ppkMC8wI/AAAAAAAAA80/J5rbmH9ULWc/s1600/togawa_legends.jpg)  
+[![](/hfs40k/images/042daa756d78ee2081b499589532a514.webp)](https://web.archive.org/web/20111010093434/http://1.bp.blogspot.com/-SYdu3VdFrOE/Tb4ppkMC8wI/AAAAAAAAA80/J5rbmH9ULWc/s1600/togawa_legends.jpg)  
 [1  
 2  
 3  

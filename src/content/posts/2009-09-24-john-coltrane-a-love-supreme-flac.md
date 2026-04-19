@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20A%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-24-john-coltrane-a-love-supreme-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-24-john-coltrane-a-love-supreme-flac.webp)Reuploaded for a bunch of reasons:  
+[![](/hfs40k/images/covers/2009-09-24-john-coltrane-a-love-supreme-flac.webp)](/hfs40k/images/covers/2009-09-24-john-coltrane-a-love-supreme-flac.webp)Reuploaded for a bunch of reasons:  
 1. tolkkii's has been down for ages.  
 2. the only other FLAC rip on the web is the shitty 90s version which has the sax mixed way too loud.  
 3. it's fucking amazing  

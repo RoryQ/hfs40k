@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=SPK%20Zamia%20Lehmanni
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-16-spk-zamia-lehmanni-songs-of-byzantine-flowers-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-16-spk-zamia-lehmanni-songs-of-byzantine-flowers-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-16-spk-zamia-lehmanni-songs-of-byzantine-flowers-flac.webp)](/hfs40k/images/covers/2010-01-16-spk-zamia-lehmanni-songs-of-byzantine-flowers-flac.webp)  
 Hello, I am Arthur Yanthar. Fellow music/movie/school/video game nerd, computer scientist, and the newest addition to holyfuckingshit40000. Anyways, onto this album!  
   
 Some silly dark ambient/industrial/experimental band butchered a generic modern classical album, which in result, made it more awesome. =D  

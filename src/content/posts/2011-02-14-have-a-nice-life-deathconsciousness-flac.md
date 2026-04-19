@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life
 
 
 
-[![](/holyfuckingshit40000/images/e04110134630d86ddfe03b97edbc3f5f.gif)](https://web.archive.org/web/20111010033506/http://4.bp.blogspot.com/-C52mo5JumLA/TVl3lkkqMvI/AAAAAAAAA38/_L9S0L2rago/s1600/haveanicelife-deathconsciousness1.gif)  
+[![](/hfs40k/images/e04110134630d86ddfe03b97edbc3f5f.gif)](https://web.archive.org/web/20111010033506/http://4.bp.blogspot.com/-C52mo5JumLA/TVl3lkkqMvI/AAAAAAAAA38/_L9S0L2rago/s1600/haveanicelife-deathconsciousness1.gif)  
 [Marcio's request](https://web.archive.org/web/20111010033506/http://lix.in/-99a36d)  
   
 Password: haveanicelife  

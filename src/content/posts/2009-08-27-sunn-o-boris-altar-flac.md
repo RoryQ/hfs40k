@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sunn%20O%29%29%29%20%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-27-sunn-o-boris-altar-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-27-sunn-o-boris-altar-flac.webp)The best thing either band ever did imo
+[![](/hfs40k/images/covers/2009-08-27-sunn-o-boris-altar-flac.webp)](/hfs40k/images/covers/2009-08-27-sunn-o-boris-altar-flac.webp)The best thing either band ever did imo
 
 [Part One](https://web.archive.org/web/20111128130548/http://lix.in/-5a83ab)
 

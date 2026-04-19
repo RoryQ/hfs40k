@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Point%
 
 
 
-[![](/holyfuckingshit40000/images/75f5d08f78449df47ba2835dd4974ee2.webp)](https://web.archive.org/web/20111010032805/http://3.bp.blogspot.com/_nmjS6fd9kfU/SujAoQWHoBI/AAAAAAAAAEE/cyf8_-Ji0o8/s1600-h/folder.jpg)  
+[![](/hfs40k/images/75f5d08f78449df47ba2835dd4974ee2.webp)](https://web.archive.org/web/20111010032805/http://3.bp.blogspot.com/_nmjS6fd9kfU/SujAoQWHoBI/AAAAAAAAAEE/cyf8_-Ji0o8/s1600-h/folder.jpg)  
 Andrew Hill, Joe Henderson, Eric Dolphy and Tony Williams are amongst my favorite players of their respective instruments, and Richard Davis/Kenny Dorham don't slouch either. Absolutely ESSENTIAL record from the 60's Blue Note avant-garde.  
   
 [Enjoy](https://web.archive.org/web/20111010032805/http://lix.in/-591f14)

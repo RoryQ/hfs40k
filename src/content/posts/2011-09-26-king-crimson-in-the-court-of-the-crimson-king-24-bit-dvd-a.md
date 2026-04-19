@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20In%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-26-king-crimson-in-the-court-of-the-crimson-king-24-bit-dvd-a.webp)](/holyfuckingshit40000/images/covers/2011-09-26-king-crimson-in-the-court-of-the-crimson-king-24-bit-dvd-a.webp)  
+[![](/hfs40k/images/covers/2011-09-26-king-crimson-in-the-court-of-the-crimson-king-24-bit-dvd-a.webp)](/hfs40k/images/covers/2011-09-26-king-crimson-in-the-court-of-the-crimson-king-24-bit-dvd-a.webp)  
 
 [1](https://web.archive.org/web/20111004084115/http://lix.in/-9f6f9f)
 

@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/625ef065b86b8027dbb9fa48fc342916.webp)](https://web.archive.org/web/20111010155135/http://4.bp.blogspot.com/_A31Dfz4S5yg/Szt-7iVIEDI/AAAAAAAAAM8/1QW6Afs7t30/s1600-h/merriweather.jpg)  
+[![](/hfs40k/images/625ef065b86b8027dbb9fa48fc342916.webp)](https://web.archive.org/web/20111010155135/http://4.bp.blogspot.com/_A31Dfz4S5yg/Szt-7iVIEDI/AAAAAAAAAM8/1QW6Afs7t30/s1600-h/merriweather.jpg)  
 dmca

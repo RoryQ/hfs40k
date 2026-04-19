@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20Red
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-26-king-crimson-red-24-bit-dvd-a.webp)](/holyfuckingshit40000/images/covers/2011-09-26-king-crimson-red-24-bit-dvd-a.webp)  
+[![](/hfs40k/images/covers/2011-09-26-king-crimson-red-24-bit-dvd-a.webp)](/hfs40k/images/covers/2011-09-26-king-crimson-red-24-bit-dvd-a.webp)  
 
 [1](https://web.archive.org/web/20111004082420/http://lix.in/-aba49d)
 

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bark%20Psychosis%20Cod
 
 
 
-[![](/holyfuckingshit40000/images/d67c394238ce447f2752b1c12762ee8a.webp)](https://web.archive.org/web/20111010173225/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBn8XLuga_I/AAAAAAAAAR4/ZcNWV7QP6-s/s1600/barkpsychosis_dustsucker.jpg)  
+[![](/hfs40k/images/d67c394238ce447f2752b1c12762ee8a.webp)](https://web.archive.org/web/20111010173225/http://4.bp.blogspot.com/_t6lWjgwMoxw/TBn8XLuga_I/AAAAAAAAAR4/ZcNWV7QP6-s/s1600/barkpsychosis_dustsucker.jpg)  
   
   
   

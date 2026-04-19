@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Deaf%20Center%20Pale%2
 
 
 
-[![](/holyfuckingshit40000/images/9accc83942e17d3a72352723dc200cf4.webp)](/holyfuckingshit40000/images/9accc83942e17d3a72352723dc200cf4.webp)  
+[![](/hfs40k/images/9accc83942e17d3a72352723dc200cf4.webp)](/hfs40k/images/9accc83942e17d3a72352723dc200cf4.webp)  
   
 When was the last time I made a post here? This is a gorgeous, atmospheric, emotive record, part ambient drone, part modern classical. Imagine if Matthew Robert Cooper forgot to fill his Xanax prescription, found out his dog died, and then made an album.  
   

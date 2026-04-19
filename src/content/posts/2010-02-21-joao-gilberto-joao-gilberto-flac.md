@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joao%20Gilberto%20Joao
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-21-joao-gilberto-joao-gilberto-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-21-joao-gilberto-joao-gilberto-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-21-joao-gilberto-joao-gilberto-flac.webp)](/hfs40k/images/covers/2010-02-21-joao-gilberto-joao-gilberto-flac.webp)  
   
   
 There is hardly an album that better deserves the description "hypnotic". Gilberto's musicianship and vocals could be seen as ridiculously understated, as they are very quiet and seemingly lacking expression of emotion on anything but a superficial "smile & listen" level. Obviously, there hardly could be a greater misconception; even without understanding Gilberto's poetry it's impossible to fail to notice that this music in all it's minimalism is deeply soulful if you just pay attention. The proud king of bossa nova speaks in a language he & Tom Jobim created in some shoddy apartment in Rio, but which came to take the world over by force - the samba is irresistible even to the most cynical listener. Though the amount of fantastic bossa nova albums is huge, this towers above all of them because it transcends the pop & jazz roots of the genre and speaks to man from somewhere high above his everyday understanding. One of the greatest albums ever released.  

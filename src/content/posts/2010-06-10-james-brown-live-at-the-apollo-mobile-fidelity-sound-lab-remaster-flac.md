@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=James%20Brown%20Live%2
 
 
 
-[![](/holyfuckingshit40000/images/0fbc117781ba07f04a84224ed7fadfc1.webp)](https://web.archive.org/web/20111010172948/http://1.bp.blogspot.com/_cLI19EXK2oU/TBEWGLadcrI/AAAAAAAAAtE/ouFUGRh-ibw/s1600/jbapollo.jpg)  
+[![](/hfs40k/images/0fbc117781ba07f04a84224ed7fadfc1.webp)](https://web.archive.org/web/20111010172948/http://1.bp.blogspot.com/_cLI19EXK2oU/TBEWGLadcrI/AAAAAAAAAtE/ouFUGRh-ibw/s1600/jbapollo.jpg)  
 October 24, 1962 is a date that will live in music infamy. For it was then at the midnight show at Harlem's famed Apollo Theater when James Brown recorded the album that fully introduced soul music to America and gave documented proof that he was indeed the greatest showman alive.
 
 The story behind it is well known. Brown had a few R&B hits dating back to 1956, including the 1959 chart topper "Try Me", but was largely unheard of outside young black America and even with that success his singles career was maddeningly inconsistant in terms of sales and even musical direction. But in person it was a different story, for in front of an audience Brown tore it up night after night on the chitlin' circuit, an act no rival wanted to try and follow. It is safe to assume that anyone who saw his show live was instantly a fan for life.

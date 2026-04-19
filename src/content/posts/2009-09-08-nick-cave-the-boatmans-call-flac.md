@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20The%20Bo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-08-nick-cave-the-boatmans-call-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-08-nick-cave-the-boatmans-call-flac.webp)Tolkkii's request- it's taken months, sorry if you've found it elsewhere
+[![](/hfs40k/images/covers/2009-09-08-nick-cave-the-boatmans-call-flac.webp)](/hfs40k/images/covers/2009-09-08-nick-cave-the-boatmans-call-flac.webp)Tolkkii's request- it's taken months, sorry if you've found it elsewhere
 
 I had a few problems with uploading (fucking mediafire), so tell me if there's an issue when you get it
 

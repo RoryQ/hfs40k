@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20She%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-05-dirty-three-she-has-no-strings-apollo-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-05-dirty-three-she-has-no-strings-apollo-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-05-dirty-three-she-has-no-strings-apollo-flac.webp)](/hfs40k/images/covers/2010-05-05-dirty-three-she-has-no-strings-apollo-flac.webp)  
   
 Sup kids, just adding another dirty three FLAC to the already stellar set of albums Louie posted a while back. You know you want it  
   

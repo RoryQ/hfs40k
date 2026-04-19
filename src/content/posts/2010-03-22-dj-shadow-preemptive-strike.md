@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Preempti
 
 
 
-[![](/holyfuckingshit40000/images/b8c21b8f594985c7a84d38720ce7762f.webp)](/holyfuckingshit40000/images/a7d28529da7f14f059e8ab19e0ce632f.webp)Just as good as *Entroducing.....* in my opinion. A must-have for any Shadow fan. [ALAC](https://web.archive.org/web/20111010081159/http://lix.in/-7cac01)
+[![](/hfs40k/images/b8c21b8f594985c7a84d38720ce7762f.webp)](/hfs40k/images/a7d28529da7f14f059e8ab19e0ce632f.webp)Just as good as *Entroducing.....* in my opinion. A must-have for any Shadow fan. [ALAC](https://web.archive.org/web/20111010081159/http://lix.in/-7cac01)
 
 [FLAC](https://web.archive.org/web/20111010081159/http://lix.in/-73aa97), much love to leakingwater for the up

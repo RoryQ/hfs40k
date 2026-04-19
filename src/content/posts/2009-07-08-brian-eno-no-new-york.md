@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20No%20New
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-08-brian-eno-no-new-york.webp)](/holyfuckingshit40000/images/covers/2009-07-08-brian-eno-no-new-york.webp)  
+[![](/hfs40k/images/covers/2009-07-08-brian-eno-no-new-york.webp)](/hfs40k/images/covers/2009-07-08-brian-eno-no-new-york.webp)  
   
 No New York is the famous compilation produced by endlessly talented Brian Eno which documents the New York post-punk/noise movement known as "No Wave". "No Wave" of course is an artistic rejection of the glam-rock inspired new wave movement at the time. That Eno's early career was considered glam-rock only helps to show how board his artistic appreciation of all music is, it's so different from what he usually works with yet makes perfect sense.  
   

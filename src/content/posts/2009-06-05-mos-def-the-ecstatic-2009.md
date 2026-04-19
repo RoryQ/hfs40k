@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mos%20Def%20The%20Ecst
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-05-mos-def-the-ecstatic-2009.webp)](/holyfuckingshit40000/images/covers/2009-06-05-mos-def-the-ecstatic-2009.webp)  
+[![](/hfs40k/images/covers/2009-06-05-mos-def-the-ecstatic-2009.webp)](/hfs40k/images/covers/2009-06-05-mos-def-the-ecstatic-2009.webp)  
   
   
   

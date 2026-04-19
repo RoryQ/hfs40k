@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Jesus%20and%20Ma
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-04-the-jesus-and-mary-chain-darklands-remastered-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-04-the-jesus-and-mary-chain-darklands-remastered-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-04-the-jesus-and-mary-chain-darklands-remastered-flac.webp)](/hfs40k/images/covers/2010-05-04-the-jesus-and-mary-chain-darklands-remastered-flac.webp)  
 Definitely the most mellow of the j&m chain albums. If you want the feedback, get psychocandy or barbed wire kisses, but just as often, I turn to this album. It's the inbetween for the craziness, say, the soberish album. this what you would want your tuesday to be like, if you were hammered on monday and wednesday.   
   
 [Happy When It Rains](https://web.archive.org/web/20111010100131/http://lix.in/-7ffd4b)  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Deep%20Turtle%20Turkel
 
 
 
-[![](/holyfuckingshit40000/images/794452d54025a69f5be430d53259c44d.webp)](https://web.archive.org/web/20111010145204/http://1.bp.blogspot.com/_7ZAm7Q56iwM/SocrQrXRquI/AAAAAAAAAH0/Wty2AQ0Xw8E/s1600-h/82599.jpg)  
+[![](/hfs40k/images/794452d54025a69f5be430d53259c44d.webp)](https://web.archive.org/web/20111010145204/http://1.bp.blogspot.com/_7ZAm7Q56iwM/SocrQrXRquI/AAAAAAAAAH0/Wty2AQ0Xw8E/s1600-h/82599.jpg)  
 Better than Deep Purple imo. Supa technical and energetic progressive hardcore art punk or something or weirdcore lol. Something like Cardiacs+NoMeansNo. They sing in spanish I guess (they are from Finland tho). Really good!  
 [wikipedia](https://web.archive.org/web/20111010145204/http://en.wikipedia.org/wiki/Deep_Turtle)  
   

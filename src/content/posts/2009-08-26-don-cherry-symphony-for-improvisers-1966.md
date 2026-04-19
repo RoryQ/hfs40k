@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Symphon
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-26-don-cherry-symphony-for-improvisers-1966.webp)](/holyfuckingshit40000/images/covers/2009-08-26-don-cherry-symphony-for-improvisers-1966.webp)A great two-part avant-garde jazz album that has two bassists and a PICCOLO :D. Pharoah Sanders plays the piccolo as well as tenor sax with Barbieri. One of the free-ist Blue Note releases (which isn't saying too much).  
+[![](/hfs40k/images/covers/2009-08-26-don-cherry-symphony-for-improvisers-1966.webp)](/hfs40k/images/covers/2009-08-26-don-cherry-symphony-for-improvisers-1966.webp)A great two-part avant-garde jazz album that has two bassists and a PICCOLO :D. Pharoah Sanders plays the piccolo as well as tenor sax with Barbieri. One of the free-ist Blue Note releases (which isn't saying too much).  
   
 [Download 192](https://web.archive.org/web/20111128142231/http://lix.in/-52d5c0)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Smiths%20The%20Q
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-25-the-smiths-the-queen-is-dead-180g-vinyl-rip-24-96-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-25-the-smiths-the-queen-is-dead-180g-vinyl-rip-24-96-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-25-the-smiths-the-queen-is-dead-180g-vinyl-rip-24-96-flac.webp)](/hfs40k/images/covers/2010-03-25-the-smiths-the-queen-is-dead-180g-vinyl-rip-24-96-flac.webp)  
   
   
   

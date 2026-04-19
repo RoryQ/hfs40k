@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=AIR%20Premiers%20Sympt
 
 
 
-[![](/holyfuckingshit40000/images/2e80d9b420cec1c671c2bdb1b538fbd2.webp)](/holyfuckingshit40000/images/2e80d9b420cec1c671c2bdb1b538fbd2.webp)  
+[![](/hfs40k/images/2e80d9b420cec1c671c2bdb1b538fbd2.webp)](/hfs40k/images/2e80d9b420cec1c671c2bdb1b538fbd2.webp)  
 Remember when AIR were a promising band? Remember Moon Safari? Well this EP predates Moon Safari, spanning a collection of singles recorded between 1995 to 1997. I'd say it's the most consistent release in their discography. Could be as good as Moon Safari if it had a few more cuts. This rip includes the track "Californie" from the 1999 reissue.  
 Take the trip down memory lane, take a breath of fresh AIR.  
 [ALAC](https://web.archive.org/web/20111010081425/http://lix.in/-798992)

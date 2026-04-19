@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=GZA%20/%20Genius%20Liq
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-gza-genius-liquid-swords-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-14-gza-genius-liquid-swords-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-14-gza-genius-liquid-swords-flac.webp)](/hfs40k/images/covers/2009-03-14-gza-genius-liquid-swords-flac.webp)  
 I drop megaton BOMBS more faster than you blink  
   
 [Download1](https://web.archive.org/web/20111010163909/http://www.mediafire.com/?lv0ngqhzmnm) [Download2](https://web.archive.org/web/20111010163909/http://www.mediafire.com/?yk2dnydf4md) [Download3](https://web.archive.org/web/20111010163909/http://www.mediafire.com/?vuioznmq00o) [Download4](https://web.archive.org/web/20111010163909/http://www.mediafire.com/?1zm2jmenzx2)

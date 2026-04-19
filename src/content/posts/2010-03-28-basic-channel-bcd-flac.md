@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Basic%20Channel%20BCD%
 
 
 
-[![](/holyfuckingshit40000/images/4bf24cd472a3d7ee0a25745a63690c06.webp)](https://web.archive.org/web/20111010081918/http://3.bp.blogspot.com/_t6lWjgwMoxw/S68ip7K6MII/AAAAAAAAAHU/dwUwv6hP340/s1600/5b1517773b65bf180c80db0cbef39cb8.jpg)  
+[![](/hfs40k/images/4bf24cd472a3d7ee0a25745a63690c06.webp)](https://web.archive.org/web/20111010081918/http://3.bp.blogspot.com/_t6lWjgwMoxw/S68ip7K6MII/AAAAAAAAAHU/dwUwv6hP340/s1600/5b1517773b65bf180c80db0cbef39cb8.jpg)  
   
   
   

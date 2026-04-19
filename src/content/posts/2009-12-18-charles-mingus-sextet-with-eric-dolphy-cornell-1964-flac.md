@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Sex
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-18-charles-mingus-sextet-with-eric-dolphy-cornell-1964-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-18-charles-mingus-sextet-with-eric-dolphy-cornell-1964-flac.webp)Hey, you! Do you know anything about jazz? You do, do you? Then that takes care of my job of writing out a long review explaining the high points of this recording and why you should click that "Enjoy" link right down there! Because if what you say is true regarding your knowledge of jazz, the names 'Mingus' and 'Dolphy' each are enough to make you rabidly foam at the mouth. Together? That's just madness!  
+[![](/hfs40k/images/covers/2009-12-18-charles-mingus-sextet-with-eric-dolphy-cornell-1964-flac.webp)](/hfs40k/images/covers/2009-12-18-charles-mingus-sextet-with-eric-dolphy-cornell-1964-flac.webp)Hey, you! Do you know anything about jazz? You do, do you? Then that takes care of my job of writing out a long review explaining the high points of this recording and why you should click that "Enjoy" link right down there! Because if what you say is true regarding your knowledge of jazz, the names 'Mingus' and 'Dolphy' each are enough to make you rabidly foam at the mouth. Together? That's just madness!  
   
 [Enjoy](https://web.archive.org/web/20111010155413/http://lix.in/-6aac9e)

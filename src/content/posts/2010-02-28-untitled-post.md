@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pink%20Floyd%20Wish%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-28-untitled-post.webp)](/holyfuckingshit40000/images/covers/2010-02-28-untitled-post.webp)  
+[![](/hfs40k/images/covers/2010-02-28-untitled-post.webp)](/hfs40k/images/covers/2010-02-28-untitled-post.webp)  
 No description needed. You'll have to figure it out by the cover cause I don't want record companies to pwn the link.  
   
 [Get it in FLAC OK SCRATCH THAT IT'S .APE](https://web.archive.org/web/20111010155841/http://lix.in/-718b82)  

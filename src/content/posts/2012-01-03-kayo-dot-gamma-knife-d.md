@@ -10,6 +10,8 @@ apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20Gamma%20Kni
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Gamma%20Knife%20%3AD
 ---
 
+[![](/hfs40k/images/covers/kayo-dot-gamma-knife.webp)](/hfs40k/images/covers/kayo-dot-gamma-knife.webp)
+
 
 
 

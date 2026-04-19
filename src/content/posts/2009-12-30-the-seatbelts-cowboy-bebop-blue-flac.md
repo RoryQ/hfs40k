@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Seatbelts%20Cowb
 
 
 
-[![](/holyfuckingshit40000/images/3bc95ba0da9295fb40b8b1125334ba65.webp)](https://web.archive.org/web/20111010155151/http://4.bp.blogspot.com/_A31Dfz4S5yg/SzttQ8qH1-I/AAAAAAAAALc/1I_L2sgT3JQ/s1600-h/cbb.jpg)[download flac](https://web.archive.org/web/20111010155151/http://www.megaupload.com/?d=UY3SXKPT)  
+[![](/hfs40k/images/3bc95ba0da9295fb40b8b1125334ba65.webp)](https://web.archive.org/web/20111010155151/http://4.bp.blogspot.com/_A31Dfz4S5yg/SzttQ8qH1-I/AAAAAAAAALc/1I_L2sgT3JQ/s1600-h/cbb.jpg)[download flac](https://web.archive.org/web/20111010155151/http://www.megaupload.com/?d=UY3SXKPT)  
   
 [V0](https://web.archive.org/web/20111010155151/http://www.mediafire.com/?myzdzym0zy0)

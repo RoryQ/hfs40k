@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robert%20Johnson%20Kin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-24-robert-johnson-king-of-the-delta-blues-singers-the-1930s.webp)](/holyfuckingshit40000/images/covers/2009-07-24-robert-johnson-king-of-the-delta-blues-singers-the-1930s.webp)  
+[![](/hfs40k/images/covers/2009-07-24-robert-johnson-king-of-the-delta-blues-singers-the-1930s.webp)](/hfs40k/images/covers/2009-07-24-robert-johnson-king-of-the-delta-blues-singers-the-1930s.webp)  
 there is no funny here because i have the blues  
   
 [192](https://web.archive.org/web/20111010141553/http://lix.in/-551c26)

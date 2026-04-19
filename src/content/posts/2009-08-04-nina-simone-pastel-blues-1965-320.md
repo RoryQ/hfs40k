@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nina%20Simone%20Pastel
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-04-nina-simone-pastel-blues-1965-320.webp)](/holyfuckingshit40000/images/covers/2009-08-04-nina-simone-pastel-blues-1965-320.webp)  
+[![](/hfs40k/images/covers/2009-08-04-nina-simone-pastel-blues-1965-320.webp)](/hfs40k/images/covers/2009-08-04-nina-simone-pastel-blues-1965-320.webp)  
 
 One of my favourite albums. Her voice is amazing, and is as scary she looks. Best-of compilations tend to overlook a lot of her brilliant early work, and in my opinion, this is the best of her early work. So there's no going wrong. Every song works well, starting with the humble a cappella *Be My Husband* (which was covered beautifully by Jeff Buckley, whom I don't even like), all leading up to the epic *Sinnerman* (which is used at the end of *Inland Empire*)
 

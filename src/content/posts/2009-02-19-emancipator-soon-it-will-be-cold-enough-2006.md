@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Emancipator%20Soon%20I
 
 
 
-[![](/holyfuckingshit40000/images/e86daf02a168064d54a6255ea8d9101d.webp)](/holyfuckingshit40000/images/e86daf02a168064d54a6255ea8d9101d.webp)  
+[![](/hfs40k/images/e86daf02a168064d54a6255ea8d9101d.webp)](/hfs40k/images/e86daf02a168064d54a6255ea8d9101d.webp)  
   
 Icelandic Trip Hop similar to Saltillo  
   

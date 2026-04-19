@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ektoise%20Ektoise
 
 
 
-[![](/holyfuckingshit40000/images/92153c4a64db2a75d80c5dd489556a0d.webp)](https://web.archive.org/web/20111010071126/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TSkWuCC1cUI/AAAAAAAAAhk/uaW4sOxzQzs/s1600/1763623341-1.jpg)
+[![](/hfs40k/images/92153c4a64db2a75d80c5dd489556a0d.webp)](https://web.archive.org/web/20111010071126/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TSkWuCC1cUI/AAAAAAAAAhk/uaW4sOxzQzs/s1600/1763623341-1.jpg)
 
   
 Here's a rather unique album by a band certainly having its own sound. Describing themselves to be a mashup of acts such as Coil, Throbbing Gristle, My Bloody Valentine, Nine Inch Nails, Autechre and more. I'd say it's somewhere in there, yeah. I don't usually care that much for genrehopping myself, which this album seems to do a few times, but it keeps its shit together and makes all those different styles flow together. Gotta say my personal favorite must be the third song with its heavy shoegazy sound, later towards the end; changing into odd saxophone meeting in the style of Throbbing Gristle's disturbed jazz experimentation. But yeah as an album as layered as this is, and having heard it only once it's hard to come up with words for it just yet. All I can say to sum this one up with is I like what I hear.  

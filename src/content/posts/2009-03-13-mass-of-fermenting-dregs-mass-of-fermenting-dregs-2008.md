@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mass%20of%20Fermenting
 
 
 
-[![](/holyfuckingshit40000/images/00af9a46451c90525b8ff076c3f9e232.webp)](/holyfuckingshit40000/images/00af9a46451c90525b8ff076c3f9e232.webp)  
+[![](/hfs40k/images/00af9a46451c90525b8ff076c3f9e232.webp)](/hfs40k/images/00af9a46451c90525b8ff076c3f9e232.webp)  
 Highly energetic post-hardcore EP played by a couple japanese chicks. Recommended for fans of NUMBER GIRL.  
   
 [Download](https://web.archive.org/web/20111010164456/http://www.mediafire.com/?yyijyoetwyt)

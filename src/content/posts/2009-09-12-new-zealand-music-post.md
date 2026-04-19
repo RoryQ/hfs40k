@@ -15,7 +15,7 @@ youtube_url: null
 
 There will be some stuff on here that I've already posted to make the list seem more monumental. This took me all day, enjoy.
 
-[![](/holyfuckingshit40000/images/covers/2009-09-12-new-zealand-music-post.webp)](/holyfuckingshit40000/images/covers/2009-09-12-new-zealand-music-post.webp)
+[![](/hfs40k/images/covers/2009-09-12-new-zealand-music-post.webp)](/hfs40k/images/covers/2009-09-12-new-zealand-music-post.webp)
 
 **Artist:** Toy Love
 
@@ -31,7 +31,7 @@ There will be some stuff on here that I've already posted to make the list seem 
 
 Toy Love basically sum up everything that happened in New Zealand music during the punk era (not very much). They were lead by Chris Knox who is pretty much a legend here.
 
-[![](/holyfuckingshit40000/images/68ba19d777e6651cc57f5cf9dcb3d358.webp)](/holyfuckingshit40000/images/68ba19d777e6651cc57f5cf9dcb3d358.webp)
+[![](/hfs40k/images/68ba19d777e6651cc57f5cf9dcb3d358.webp)](/hfs40k/images/68ba19d777e6651cc57f5cf9dcb3d358.webp)
 
 **Artist:** Tall Dwarfs
 
@@ -79,7 +79,7 @@ Posted before. Part of the *Dunedin Sound*. The whole jangle-pop Velvet Undergro
 
 The anthology sums up everything you need from the Clean up to Unknown Country. Probably the best introduction to the *Dunedin Sound.* Hugely influential and still playing shows today.
 
-[![](/holyfuckingshit40000/images/31afcecd5dc18cd80a5e474e10066300.webp)](/holyfuckingshit40000/images/31afcecd5dc18cd80a5e474e10066300.webp)
+[![](/hfs40k/images/31afcecd5dc18cd80a5e474e10066300.webp)](/hfs40k/images/31afcecd5dc18cd80a5e474e10066300.webp)
 
 **Artist:** Gordons
 
@@ -95,7 +95,7 @@ The anthology sums up everything you need from the Clean up to Unknown Country. 
 
 On breaking up, formed Bailter Space (probably the best known band here), but far superior imo. Mostly tight post-punk with reverb/treble tinny guitars that are occassionally let loose sounding kinda shoegazey, foreshadowing Bailter Space's sound. The start of the uglier side of the 80s in NZ music.
 
-[![](/holyfuckingshit40000/images/76e4d477ddd64037000191a8ec5c8751.webp)](/holyfuckingshit40000/images/76e4d477ddd64037000191a8ec5c8751.webp)
+[![](/hfs40k/images/76e4d477ddd64037000191a8ec5c8751.webp)](/hfs40k/images/76e4d477ddd64037000191a8ec5c8751.webp)
 
 **Artist:** This Kind of Punishment
 
@@ -111,7 +111,7 @@ On breaking up, formed Bailter Space (probably the best known band here), but fa
 
 Melancholy post-punk with singer-songwriter tendencies. Highly recommended.
 
-[![](/holyfuckingshit40000/images/ed469e90a2b23abfeda73b176d091d49.webp)](/holyfuckingshit40000/images/ed469e90a2b23abfeda73b176d091d49.webp)
+[![](/hfs40k/images/ed469e90a2b23abfeda73b176d091d49.webp)](/hfs40k/images/ed469e90a2b23abfeda73b176d091d49.webp)
 
 **Artist:** Peter Jefferies
 
@@ -127,7 +127,7 @@ Melancholy post-punk with singer-songwriter tendencies. Highly recommended.
 
 Get this if you digg This Kind of Punishment. Peter Jefferies was a member. Pretty unknown cult goodness.
 
-[![](/holyfuckingshit40000/images/f0789ab26033143844b912acfeb1d429.webp)](/holyfuckingshit40000/images/f0789ab26033143844b912acfeb1d429.webp)
+[![](/hfs40k/images/f0789ab26033143844b912acfeb1d429.webp)](/hfs40k/images/f0789ab26033143844b912acfeb1d429.webp)
 
 **Artist:** Alastair Galbraith
 
@@ -143,7 +143,7 @@ Get this if you digg This Kind of Punishment. Peter Jefferies was a member. Pret
 
 Features on other artists albums around the place.
 
-[![](/holyfuckingshit40000/images/baf6ef5ae34279bbe5d020847932739b.webp)](/holyfuckingshit40000/images/baf6ef5ae34279bbe5d020847932739b.webp)
+[![](/hfs40k/images/baf6ef5ae34279bbe5d020847932739b.webp)](/hfs40k/images/baf6ef5ae34279bbe5d020847932739b.webp)
 
 **Artist:** Bailter Space
 
@@ -159,7 +159,7 @@ Features on other artists albums around the place.
 
 Cranking up the distortion but making up for it with melodies and less aggressive vocals. More shoegaze, less post-punk, but still more Big Black than My Bloody Valentine.
 
-[![](/holyfuckingshit40000/images/dca49f1d10e817b630d450d8c6f10059.webp)](/holyfuckingshit40000/images/dca49f1d10e817b630d450d8c6f10059.webp)
+[![](/hfs40k/images/dca49f1d10e817b630d450d8c6f10059.webp)](/hfs40k/images/dca49f1d10e817b630d450d8c6f10059.webp)
 
 **Artist:** The Dead C
 
@@ -175,7 +175,7 @@ Cranking up the distortion but making up for it with melodies and less aggressiv
 
 Casual noise from guys that don't sound like they care. If it's too much, skip the first few tracks and see how it goes.
 
-[![](/holyfuckingshit40000/images/c1cb5fa75363f733a1ed88cfde2694f3.webp)](/holyfuckingshit40000/images/c1cb5fa75363f733a1ed88cfde2694f3.webp)
+[![](/hfs40k/images/c1cb5fa75363f733a1ed88cfde2694f3.webp)](/hfs40k/images/c1cb5fa75363f733a1ed88cfde2694f3.webp)
 
 **Artist:** The Dead C
 
@@ -191,7 +191,7 @@ Casual noise from guys that don't sound like they care. If it's too much, skip t
 
 Harsh 70s Reality's more friendly and psychedlic younger brother. Again, skip the first few tracks if it's all a bit much.
 
-[![](/holyfuckingshit40000/images/3a0738e6ea1c3474dd81fb8141248f40.webp)](/holyfuckingshit40000/images/3a0738e6ea1c3474dd81fb8141248f40.webp)
+[![](/hfs40k/images/3a0738e6ea1c3474dd81fb8141248f40.webp)](/hfs40k/images/3a0738e6ea1c3474dd81fb8141248f40.webp)
 
 **Artist:** Gate
 
@@ -207,7 +207,7 @@ Harsh 70s Reality's more friendly and psychedlic younger brother. Again, skip th
 
 We're moving into more modern New Zealand music now. A lot of it's cool 'cause it references the older stuff so much.
 
-[![](/holyfuckingshit40000/images/87001b85743bc996dab5662b157af392.webp)](/holyfuckingshit40000/images/87001b85743bc996dab5662b157af392.webp)
+[![](/hfs40k/images/87001b85743bc996dab5662b157af392.webp)](/hfs40k/images/87001b85743bc996dab5662b157af392.webp)
 
 **Artist:** Birchville Cat Motel
 
@@ -223,7 +223,7 @@ We're moving into more modern New Zealand music now. A lot of it's cool 'cause i
 
 Just wait for the closing track..
 
-[![](/holyfuckingshit40000/images/8fd474ef9ca53c63198b9ee9d3a4f649.webp)](/holyfuckingshit40000/images/8fd474ef9ca53c63198b9ee9d3a4f649.webp)
+[![](/hfs40k/images/8fd474ef9ca53c63198b9ee9d3a4f649.webp)](/hfs40k/images/8fd474ef9ca53c63198b9ee9d3a4f649.webp)
 
 **Artist:** Birchville Cat Motel
 
@@ -237,7 +237,7 @@ Just wait for the closing track..
 
 **Download:** [Here](https://web.archive.org/web/20111010094702/http://lix.in/-581078)
 
-[![](/holyfuckingshit40000/images/1158a493a502a17ef844537c27a03b19.webp)](/holyfuckingshit40000/images/1158a493a502a17ef844537c27a03b19.webp)
+[![](/hfs40k/images/1158a493a502a17ef844537c27a03b19.webp)](/hfs40k/images/1158a493a502a17ef844537c27a03b19.webp)
 
 **Artist:** Black Boned Angel
 
@@ -253,7 +253,7 @@ Just wait for the closing track..
 
 What happens when Campbell Kneale isn't making transcendent ambient noise in Birchville Cat Motel? Crushing your head into the ground with dooooooom. Wait for the finale.
 
-[![](/holyfuckingshit40000/images/522dd7c7fac57c401106233ea3cc2f89.webp)](/holyfuckingshit40000/images/522dd7c7fac57c401106233ea3cc2f89.webp)
+[![](/hfs40k/images/522dd7c7fac57c401106233ea3cc2f89.webp)](/hfs40k/images/522dd7c7fac57c401106233ea3cc2f89.webp)
 
 **Artist:** The Mint Chicks
 
@@ -265,7 +265,7 @@ What happens when Campbell Kneale isn't making transcendent ambient noise in Bir
 
 **Sounds Like:** The Blood Brothers, Ex Models, At the Drive-In
 
-[![](/holyfuckingshit40000/images/1af45981bf6fff9866f15639f57f83d9.webp)](/holyfuckingshit40000/images/1af45981bf6fff9866f15639f57f83d9.webp)
+[![](/hfs40k/images/1af45981bf6fff9866f15639f57f83d9.webp)](/hfs40k/images/1af45981bf6fff9866f15639f57f83d9.webp)
 
 **Artist:** The Mint Chicks
 
@@ -281,7 +281,7 @@ What happens when Campbell Kneale isn't making transcendent ambient noise in Bir
 
 The greatest live band ever until they went pop. I saw them live with the Blood Brothers and they were crazier. If you're interested in their pop stuff I can upload some of that too.
 
-[![](/holyfuckingshit40000/images/27a4385c0eb863c250a2c19e7d3923c7.webp)](/holyfuckingshit40000/images/27a4385c0eb863c250a2c19e7d3923c7.webp)
+[![](/hfs40k/images/27a4385c0eb863c250a2c19e7d3923c7.webp)](/hfs40k/images/27a4385c0eb863c250a2c19e7d3923c7.webp)
 
 **Artist:** Die! Die! Die!
 
@@ -297,7 +297,7 @@ The greatest live band ever until they went pop. I saw them live with the Blood 
 
 Pure Steve Albini (who recorded the album for them) worship. I read an interview with them and they say the three albums you need are: Joy Division's *Closer*, the Gordons album I posted and Shellac's *Terraform*. The catchiest noise rock you'll ever hear, the vocals grate, but the rhythm section is powerful as hell.
 
-[![](/holyfuckingshit40000/images/c09b82fd46dd3c9eb39cd273b131cceb.webp)](/holyfuckingshit40000/images/c09b82fd46dd3c9eb39cd273b131cceb.webp)
+[![](/hfs40k/images/c09b82fd46dd3c9eb39cd273b131cceb.webp)](/hfs40k/images/c09b82fd46dd3c9eb39cd273b131cceb.webp)
 
 **Artist:** The Brunettes
 
@@ -327,7 +327,7 @@ Crazy good live. Emerged from the underground playing over the top twee, got a b
 
 **Download:** [Here](https://web.archive.org/web/20111010094702/http://lix.in/-537df3)
 
-[![](/holyfuckingshit40000/images/cdde740f99848ff9ab7b788437100340.webp)](/holyfuckingshit40000/images/cdde740f99848ff9ab7b788437100340.webp)
+[![](/hfs40k/images/cdde740f99848ff9ab7b788437100340.webp)](/hfs40k/images/cdde740f99848ff9ab7b788437100340.webp)
 
 **Artist:** David Kilgour
 

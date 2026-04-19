@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Manic%20Street%20Preac
 
 
 
-[![](/holyfuckingshit40000/images/8f4d216cf6b463b40dc6f633d02a0759.webp)](/holyfuckingshit40000/images/8f4d216cf6b463b40dc6f633d02a0759.webp)Resurrected the other day from the bottom of my record collection. Catchy britpop/post-punk with enough suicidal angst and preachy left-wing politics to keep any 14 year old, well, angsty and left-wing. Still maintains a lot of its power today.  
+[![](/hfs40k/images/8f4d216cf6b463b40dc6f633d02a0759.webp)](/hfs40k/images/8f4d216cf6b463b40dc6f633d02a0759.webp)Resurrected the other day from the bottom of my record collection. Catchy britpop/post-punk with enough suicidal angst and preachy left-wing politics to keep any 14 year old, well, angsty and left-wing. Still maintains a lot of its power today.  
 
 Download
 

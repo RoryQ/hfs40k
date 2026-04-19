@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Harry%20Partch%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-23-harry-partch-the-harry-partch-collection-vol-2-flacv0.webp)](/holyfuckingshit40000/images/covers/2010-06-23-harry-partch-the-harry-partch-collection-vol-2-flacv0.webp)Ever wonder where Tom Waits got his inspiration for infusing clanky percussion into his music? Well here ya go. Mixes folk, blues, Partch's famous microtonal percussion, and some interesting spoken word.  
+[![](/hfs40k/images/covers/2010-06-23-harry-partch-the-harry-partch-collection-vol-2-flacv0.webp)](/hfs40k/images/covers/2010-06-23-harry-partch-the-harry-partch-collection-vol-2-flacv0.webp)Ever wonder where Tom Waits got his inspiration for infusing clanky percussion into his music? Well here ya go. Mixes folk, blues, Partch's famous microtonal percussion, and some interesting spoken word.  
   
 [Download FLAC](https://web.archive.org/web/20111010173414/http://lix.in/-858f1c) // \\ [Download v0](https://web.archive.org/web/20111010173414/http://lix.in/-80fb43)

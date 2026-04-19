@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Radio%20Dept.%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-21-the-radio-dept-clinging-to-a-scheme-2010.webp)](/holyfuckingshit40000/images/covers/2010-02-21-the-radio-dept-clinging-to-a-scheme-2010.webp)aac 256  
+[![](/hfs40k/images/covers/2010-02-21-the-radio-dept-clinging-to-a-scheme-2010.webp)](/hfs40k/images/covers/2010-02-21-the-radio-dept-clinging-to-a-scheme-2010.webp)aac 256  
   
 [download](https://web.archive.org/web/20111010161909/http://lix.in/-77505c)

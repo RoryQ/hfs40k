@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Various%20Fail
 
 
 
-[![](/holyfuckingshit40000/images/13e79a16ac026bec8bea5df361d96dbd.webp)](https://web.archive.org/web/20111010145200/http://4.bp.blogspot.com/_cLI19EXK2oU/SodJh1p_ZII/AAAAAAAAASA/xfYiUzeULvI/s1600-h/swansvf.jpg)  
+[![](/hfs40k/images/13e79a16ac026bec8bea5df361d96dbd.webp)](https://web.archive.org/web/20111010145200/http://4.bp.blogspot.com/_cLI19EXK2oU/SodJh1p_ZII/AAAAAAAAASA/xfYiUzeULvI/s1600-h/swansvf.jpg)  
 **You can bank your hard earned money on Failure**  
   
 If you're new to Swans: These are the songs Johnny Cash would sing after killing his children in their sleep. These are the songs Mrs. Cash would sing after deciding he did the right thing. They'd sit in the dark, and wait for God's judgment. Melodramatic? Sure, but I'm tellin' you...

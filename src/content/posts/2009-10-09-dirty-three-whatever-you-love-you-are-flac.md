@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20Whatev
 
 
 
-[![](/holyfuckingshit40000/images/dcfc190244c6012505f59aae7c90fc0f.webp)](https://web.archive.org/web/20111010033043/http://4.bp.blogspot.com/_A31Dfz4S5yg/Ss8FNdU5J4I/AAAAAAAAAJE/aKzWabqhOyg/s1600-h/wewaea.jpg)8.9/10. Whatever you love, you are eh?  
+[![](/hfs40k/images/dcfc190244c6012505f59aae7c90fc0f.webp)](https://web.archive.org/web/20111010033043/http://4.bp.blogspot.com/_A31Dfz4S5yg/Ss8FNdU5J4I/AAAAAAAAAJE/aKzWabqhOyg/s1600-h/wewaea.jpg)8.9/10. Whatever you love, you are eh?  
   
 [FLAC](https://web.archive.org/web/20111010033043/http://lix.in/-614c63) ---- [V0](https://web.archive.org/web/20111010033043/http://www.mediafire.com/?yqdjbugxyfh)

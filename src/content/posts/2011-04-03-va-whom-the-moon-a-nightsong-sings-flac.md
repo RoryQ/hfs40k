@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=V/A%20Whom%20The%20Moo
 
 
 
-[![](/holyfuckingshit40000/images/11d7b9091d6d3c3485bf4bea6ab67f1c.webp)](https://web.archive.org/web/20111010145948/http://1.bp.blogspot.com/-dRk3cooM0R0/TZkN6Fxd91I/AAAAAAAAAII/QHxN5jPUld4/s1600/Cover.jpg)Thank you, tolkkii. Since early 2009 I've been visiting this site of yours. This blog has been hugely involved in the discovery of many of what are now my favorite bands, so I really appreciate the chance I've been given.
+[![](/hfs40k/images/11d7b9091d6d3c3485bf4bea6ab67f1c.webp)](https://web.archive.org/web/20111010145948/http://1.bp.blogspot.com/-dRk3cooM0R0/TZkN6Fxd91I/AAAAAAAAAII/QHxN5jPUld4/s1600/Cover.jpg)Thank you, tolkkii. Since early 2009 I've been visiting this site of yours. This blog has been hugely involved in the discovery of many of what are now my favorite bands, so I really appreciate the chance I've been given.
 
 For my first post, here's my favorite compilation album. It's a 2CD collection of neofolk/dark folk music from mostly Finnish bands and others from Europe. All of the bands on this album I believe have other works worth listening to(of course that’s subjective) and I’ll be posting various things from their discographies in the coming days.
 

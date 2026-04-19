@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20At%20Last%20Fe
 
 
 
-[![](/holyfuckingshit40000/images/a8dd006a4a818764bfed2f3ff3ceb5e6.webp)](https://web.archive.org/web/20111010082540/http://3.bp.blogspot.com/_cLI19EXK2oU/S5-8Qf_8I8I/AAAAAAAAAbQ/Jdahw50N5iM/s1600-h/Boris_feedbacker.jpg)  
+[![](/hfs40k/images/a8dd006a4a818764bfed2f3ff3ceb5e6.webp)](https://web.archive.org/web/20111010082540/http://3.bp.blogspot.com/_cLI19EXK2oU/S5-8Qf_8I8I/AAAAAAAAAbQ/Jdahw50N5iM/s1600-h/Boris_feedbacker.jpg)  
   
 Just as a forewarning, this album does take patience to fully digest, as it's essentially ONE, 43 minute long song. It's definitely not for people who are looking for more song-oriented material, who may skip certain songs if they dislike them on first or second play-through. Feedbacker must be heard in it's entirety, otherwise the album won't make any sense and you'll belittle the experience you get when the album's closer tunes you out. It is split into 5 parts, although the five parts are strongly woven together.  
   

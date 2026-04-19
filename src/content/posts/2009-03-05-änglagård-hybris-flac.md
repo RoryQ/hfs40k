@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%C3%84nglag%C3%A5rd%20
 
 
 
-[![](/holyfuckingshit40000/images/2e5a0ff5e56c8c6b5287fab319dcafb5.webp)](https://web.archive.org/web/20111010164025/http://4.bp.blogspot.com/_5cVyPU93ihM/Sa_5JpNchpI/AAAAAAAAABQ/wpj61crX9zQ/s1600-h/Anglagard+-+Hybris+Cover.jpg)  
+[![](/hfs40k/images/2e5a0ff5e56c8c6b5287fab319dcafb5.webp)](https://web.archive.org/web/20111010164025/http://4.bp.blogspot.com/_5cVyPU93ihM/Sa_5JpNchpI/AAAAAAAAABQ/wpj61crX9zQ/s1600-h/Anglagard+-+Hybris+Cover.jpg)  
 I'm starting to see a pattern with good neo-prog and an absence of vocals.  
   
 [Download](https://web.archive.org/web/20111010164025/http://lix.in/-4c647f)  

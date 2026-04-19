@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Shous
 
 
 
-[![](/holyfuckingshit40000/images/eeb83ade9b77da7f5ebcd3f712d5b623.webp)](https://web.archive.org/web/20111010145454/http://1.bp.blogspot.com/_A31Dfz4S5yg/Soif2zZHPiI/AAAAAAAAAGc/C9UH3SYeSqE/s1600-h/Shouso_strip.jpg)Can't go wrong with Shiina. She is so cute and JAPANESE!  
+[![](/hfs40k/images/eeb83ade9b77da7f5ebcd3f712d5b623.webp)](https://web.archive.org/web/20111010145454/http://1.bp.blogspot.com/_A31Dfz4S5yg/Soif2zZHPiI/AAAAAAAAAGc/C9UH3SYeSqE/s1600-h/Shouso_strip.jpg)Can't go wrong with Shiina. She is so cute and JAPANESE!  
 Don't download if you are not a bro.  
   
 [FLAC](https://web.archive.org/web/20111010145454/http://lix.in/-5026fd) /// [V0](https://web.archive.org/web/20111010145454/http://www.mediafire.com/?ljzo5zmnjid)

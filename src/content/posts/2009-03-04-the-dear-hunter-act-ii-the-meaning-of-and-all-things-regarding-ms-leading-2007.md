@@ -19,6 +19,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Dear%20Hunter%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-04-the-dear-hunter-act-ii-the-meaning-of-and-all-things-regarding-ms-leading-2007.webp)](/holyfuckingshit40000/images/covers/2009-03-04-the-dear-hunter-act-ii-the-meaning-of-and-all-things-regarding-ms-leading-2007.webp)  
+[![](/hfs40k/images/covers/2009-03-04-the-dear-hunter-act-ii-the-meaning-of-and-all-things-regarding-ms-leading-2007.webp)](/hfs40k/images/covers/2009-03-04-the-dear-hunter-act-ii-the-meaning-of-and-all-things-regarding-ms-leading-2007.webp)  
 Progressive punk-pop? Shit idk, but it sure feels good.  
  [Download](https://web.archive.org/web/20111010164037/http://www.megaupload.com/?d=0iwb2fu3)

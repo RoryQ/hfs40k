@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Loop%20Heaven%27s%20En
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-04-loop-heavens-end-2008-remastered.webp)](/holyfuckingshit40000/images/covers/2009-06-04-loop-heavens-end-2008-remastered.webp)  
+[![](/hfs40k/images/covers/2009-06-04-loop-heavens-end-2008-remastered.webp)](/hfs40k/images/covers/2009-06-04-loop-heavens-end-2008-remastered.webp)  
   
 The pinnacle of TRUE space shoegaze. Why? It has sound clips from 2001: A Space Odyssey, can't get any more space than that.  
   

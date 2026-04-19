@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Vladislav%20Delay%20Mu
 
 
 
-[![](/holyfuckingshit40000/images/835309683907a303d6541a0fe43bd915.webp)](https://web.archive.org/web/20111010173039/http://4.bp.blogspot.com/_t6lWjgwMoxw/TAZyWt7JyhI/AAAAAAAAAQQ/Jf4oL5mrslk/s1600/f_coverm_82126ea.jpg)  
+[![](/hfs40k/images/835309683907a303d6541a0fe43bd915.webp)](https://web.archive.org/web/20111010173039/http://4.bp.blogspot.com/_t6lWjgwMoxw/TAZyWt7JyhI/AAAAAAAAAQQ/Jf4oL5mrslk/s1600/f_coverm_82126ea.jpg)  
   
   
   

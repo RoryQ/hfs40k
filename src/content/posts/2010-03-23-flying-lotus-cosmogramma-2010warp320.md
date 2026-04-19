@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmo
 
 
 
-[![](/holyfuckingshit40000/images/ed54b6cbf4b68288a8eacaed3e466097.webp)](/holyfuckingshit40000/images/ed54b6cbf4b68288a8eacaed3e466097.webp)  
+[![](/hfs40k/images/ed54b6cbf4b68288a8eacaed3e466097.webp)](/hfs40k/images/ed54b6cbf4b68288a8eacaed3e466097.webp)  
   
 [Link down](https://web.archive.org/web/20100327095058/http://twitter.com/flyinglotus/statuses/11012975881)  
   

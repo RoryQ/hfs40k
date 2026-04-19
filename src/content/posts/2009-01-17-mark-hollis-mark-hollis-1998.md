@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mark%20Hollis%20Mark%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-01-17-mark-hollis-mark-hollis-1998.webp)](/holyfuckingshit40000/images/covers/2009-01-17-mark-hollis-mark-hollis-1998.webp)  
+[![](/hfs40k/images/covers/2009-01-17-mark-hollis-mark-hollis-1998.webp)](/hfs40k/images/covers/2009-01-17-mark-hollis-mark-hollis-1998.webp)  
   
 Genre: Post-Rock / Ambient Rock  
 Country: U.K.  

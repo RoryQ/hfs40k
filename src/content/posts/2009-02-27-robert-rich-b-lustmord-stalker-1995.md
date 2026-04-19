@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robert%20Rich%20%26%20
 
 
 
-[![](/holyfuckingshit40000/images/98a5ea40bad91ffce3f7f085af93de24.webp)](/holyfuckingshit40000/images/98a5ea40bad91ffce3f7f085af93de24.webp)  
+[![](/hfs40k/images/98a5ea40bad91ffce3f7f085af93de24.webp)](/hfs40k/images/98a5ea40bad91ffce3f7f085af93de24.webp)  
 More delicious GRIMbient from 2 brilliant musicians. Easily rivals Black Earth.  
   
 [Download](https://web.archive.org/web/20101203183934/http://www.megaupload.com/?d=S6IDY3A9) [v0]

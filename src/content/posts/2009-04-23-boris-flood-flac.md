@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Flood
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-23-boris-flood-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-23-boris-flood-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-23-boris-flood-flac.webp)](/hfs40k/images/covers/2009-04-23-boris-flood-flac.webp)  
 Reuploaded  
   
 [Download](https://web.archive.org/web/20111010130628/http://www.megaupload.com/?d=C1HYK4VM)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20
 
 
 
-[![](/holyfuckingshit40000/images/80a0a8c20bccaa9adb3defec3f3fcfc6.webp)](https://web.archive.org/web/20111010123459/http://3.bp.blogspot.com/_JdyrURA7JYI/Sz5QfYZRHQI/AAAAAAAAANA/EA1rpGZaxYQ/s1600-h/artenssophie.PNG)Let's kick off 2010 with the best soundtrack ever. (gtfo all you wolf's rain weeaboos)  
+[![](/hfs40k/images/80a0a8c20bccaa9adb3defec3f3fcfc6.webp)](https://web.archive.org/web/20111010123459/http://3.bp.blogspot.com/_JdyrURA7JYI/Sz5QfYZRHQI/AAAAAAAAANA/EA1rpGZaxYQ/s1600-h/artenssophie.PNG)Let's kick off 2010 with the best soundtrack ever. (gtfo all you wolf's rain weeaboos)  
   
 [Download FLAC](https://web.archive.org/web/20111010123459/http://lix.in/-67234a) // \\ [Download v0](https://web.archive.org/web/20111010123459/http://lix.in/-628f67)

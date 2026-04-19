@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=YODAKA%20YODAKA
 
 
 
-[![](/holyfuckingshit40000/images/59dad291785aa451eaf095dc89793675.webp)](https://web.archive.org/web/20111010085003/http://4.bp.blogspot.com/_cLI19EXK2oU/SkizzchYZOI/AAAAAAAAANY/-at0z9fbR14/s1600-h/yodaka%2B11930755.jpg)  
+[![](/hfs40k/images/59dad291785aa451eaf095dc89793675.webp)](https://web.archive.org/web/20111010085003/http://4.bp.blogspot.com/_cLI19EXK2oU/SkizzchYZOI/AAAAAAAAANY/-at0z9fbR14/s1600-h/yodaka%2B11930755.jpg)  
 よだか Yodaka were a Japanese Post-Rock band consisting of Kashiwa Daisuke (Guitar/Programming), Nema Takeshi (Guitar/Synth), Takimoto Nozomu (Bass) and Yamamoto Hironobu (Drums). A fine starting point of Kashiwa Daisuke's career, you probably won't find this anywhere else.  
   
   

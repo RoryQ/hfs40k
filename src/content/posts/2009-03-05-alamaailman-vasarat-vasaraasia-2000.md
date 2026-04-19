@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Alamaailman%20Vasarat%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-05-alamaailman-vasarat-vasaraasia-2000.webp)](/holyfuckingshit40000/images/covers/2009-03-05-alamaailman-vasarat-vasaraasia-2000.webp)  
+[![](/hfs40k/images/covers/2009-03-05-alamaailman-vasarat-vasaraasia-2000.webp)](/hfs40k/images/covers/2009-03-05-alamaailman-vasarat-vasaraasia-2000.webp)  
 Avant-Prog from Finland. Crazy stuff  
  [Download](https://web.archive.org/web/20111010130905/http://www.mediafire.com/download.php?y1xgke0kmn1)  
 [Last.fm](https://web.archive.org/web/20111010130905/http://www.last.fm/music/Alamaailman+Vasarat)

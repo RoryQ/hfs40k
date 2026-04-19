@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Anthony%20Braxton%20Sa
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)](/holyfuckingshit40000/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)I'd post the ghetto ass face shot of him on the original vinyl but I can't find one any bigger than 150x150.  
+[![](/hfs40k/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)](/hfs40k/images/covers/2010-01-26-anthony-braxton-saxophone-improvisations-series-f-v0.webp)I'd post the ghetto ass face shot of him on the original vinyl but I can't find one any bigger than 150x150.  
   
 Anyway  
   

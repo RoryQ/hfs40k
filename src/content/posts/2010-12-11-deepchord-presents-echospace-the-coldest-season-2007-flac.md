@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Deepchord%20presents%2
 
 
 
-[![](/holyfuckingshit40000/images/415171e2390fa7c37a3a8d27c66ab003.webp)](https://web.archive.org/web/20110306160257/http://3.bp.blogspot.com/_8OQrKaBbb98/TP62LPIEHDI/AAAAAAAAACg/O38xaEf5lwA/s1600/the+coldest+season.jpg)
+[![](/hfs40k/images/415171e2390fa7c37a3a8d27c66ab003.webp)](https://web.archive.org/web/20110306160257/http://3.bp.blogspot.com/_8OQrKaBbb98/TP62LPIEHDI/AAAAAAAAACg/O38xaEf5lwA/s1600/the+coldest+season.jpg)
 
 Forget your annual radio jingles, this right here is the final boss of Christmas music. Deep analogue noise blizzards and echoing dub chords form a thick amorphous atmosphere unlike anywhere else, steadily storming over the northern fells and frozen lakes even with less backing from pounding rhythms and bass than usually in dub techno.  
   

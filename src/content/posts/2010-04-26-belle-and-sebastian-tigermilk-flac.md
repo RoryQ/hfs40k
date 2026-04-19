@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastia
 
 
 
-[![](/holyfuckingshit40000/images/26588286d15f14308259899f84f998ee.webp)](/holyfuckingshit40000/images/4f588de3ab58f76c292c065c2f05576d.webp)  
+[![](/hfs40k/images/26588286d15f14308259899f84f998ee.webp)](/hfs40k/images/4f588de3ab58f76c292c065c2f05576d.webp)  
 The story of B&S is the story of a band without the intention of selling music, who still became one of the most influential indie-bands. Deriving their name from a French childrens book named "Belle et Sebastién", Belle and Sebastian is by all measures a band quite outside the ordinary.  
   
 "Tigermilk", their debut album, was originally released on Electric Honey Records - a small label run as a part-time project by students of the Glasgow School of Art. Originally the label only had capacity to release one EP a year, but when Stuart Murdoch turned up with ten songs and eight band members, they decided to make this one a full-length LP. As the belles had to cover most of the costs themselves, the original vinyl LP was only printed in 1,000 copies, and even so the band still had problems finding buyers for them all.  

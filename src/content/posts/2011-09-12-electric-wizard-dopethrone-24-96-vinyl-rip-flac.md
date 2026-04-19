@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Do
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-12-electric-wizard-dopethrone-24-96-vinyl-rip-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-12-electric-wizard-dopethrone-24-96-vinyl-rip-flac.webp)  
+[![](/hfs40k/images/covers/2011-09-12-electric-wizard-dopethrone-24-96-vinyl-rip-flac.webp)](/hfs40k/images/covers/2011-09-12-electric-wizard-dopethrone-24-96-vinyl-rip-flac.webp)  
 2011 double LP reissue with a 15 minutes additional reprisal track "Mind Transferral". Hell yeah.  
   
 Ripping equipment (by woodenhead):  

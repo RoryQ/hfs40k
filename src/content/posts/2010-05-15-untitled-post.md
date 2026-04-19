@@ -17,7 +17,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jimi%20Hendrix%20Valle
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-15-untitled-post.webp)](/holyfuckingshit40000/images/covers/2010-05-15-untitled-post.webp)  
+[![](/hfs40k/images/covers/2010-05-15-untitled-post.webp)](/hfs40k/images/covers/2010-05-15-untitled-post.webp)  
   
   
   

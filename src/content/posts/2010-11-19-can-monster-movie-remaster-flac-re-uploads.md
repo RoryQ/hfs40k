@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Can%20Monster%20Movie
 
 
 
-[![](/holyfuckingshit40000/images/226aaf6d7895add4b377084b1c846fb1.webp)](https://web.archive.org/web/20111010042405/http://4.bp.blogspot.com/_mTQyK3r0bG0/TObMUrLVYVI/AAAAAAAAAMs/3y_nwfSkyjM/s1600/514Z3P%252BQ8ML._SS500_.jpg)  
+[![](/hfs40k/images/226aaf6d7895add4b377084b1c846fb1.webp)](https://web.archive.org/web/20111010042405/http://4.bp.blogspot.com/_mTQyK3r0bG0/TObMUrLVYVI/AAAAAAAAAMs/3y_nwfSkyjM/s1600/514Z3P%252BQ8ML._SS500_.jpg)  
 The thing that impresses me most about Can is that while their sound changed dramatically over the years, there was an amazing consistency to their classic run of albums. Monster Movie was their debut, and the only full-length album they released with Malcolm Mooney on vocals (Delay 1968 didn't see the light of day for many years afterward.) On Monster Movie, one can point out many similarities with other acts, such as the acid-drenched Velvet Underground guitar tones, the funky extended beats a la James Brown and the beat-poetry-as-vocals approach of the Doors. But Can sounds nothing less than completely original in the way they blend these elements with their own unique perspectives.  
   
 Mooney shared the same offbeat concept of lead vocals as his successor, Damo Suzuki. The big difference is that Mooney was an expatriate American and spoke English as a first language, meaning you can actually make out what he's "singing" (reciting might be more apt!) Don't get me wrong, I absolutely love Damo Suzuki's work with the band, but it's cool to hear the vocals so upfront and lyrically discernable on a Can CD. Mooney tosses off terrific little poetic non-sequiters like the one I used in my review title all over this album.  

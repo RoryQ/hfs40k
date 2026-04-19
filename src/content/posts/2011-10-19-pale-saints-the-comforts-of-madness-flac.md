@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pale%20Saints%20The%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-10-19-pale-saints-the-comforts-of-madness-flac.webp)](/holyfuckingshit40000/images/covers/2011-10-19-pale-saints-the-comforts-of-madness-flac.webp)  
+[![](/hfs40k/images/covers/2011-10-19-pale-saints-the-comforts-of-madness-flac.webp)](/hfs40k/images/covers/2011-10-19-pale-saints-the-comforts-of-madness-flac.webp)  
 In January 1990 I took over the job of music director at a college radio station and received this stunner of an album from 4AD. It still sounds great 13 years later. Though later dwarfed by the magnaminity of My Bloody Valentine's Loveless LP, The Comforts of Madness is an brilliant early document of what came to be called the "shoegazer" sound. Pale Saints were the first to pioneer the formula: crisp pop songwriting merged with experiments in Sonic Youth style noise and feedback. But whereas MBV's pop draws heavily on the romantic swoon of the Beach Boys, Pale Saints' pop is very jangly and much less dense.  
   
 At the time, there was no band that sounded like Pale Saints. Other, lesser bands such as Ride, Slowdive, and Chapterhouse would later borrow heavily from this pioneering album. But Pale Saints eschewed the repetitive drones that characterized these bands' sounds, focusing instead on concise songwriting with occasional dissonant chord progressions and time changes. It is something of an injustice that this album has not recieved its due, but as David Bowie has said, "It's not who does it first, it's who does it second."  

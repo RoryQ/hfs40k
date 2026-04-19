@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20%C3
 
 
 
-[![](/holyfuckingshit40000/images/b80f0459db658c62cd585c2f92551a8b.webp)](/holyfuckingshit40000/images/b80f0459db658c62cd585c2f92551a8b.webp)  
+[![](/hfs40k/images/b80f0459db658c62cd585c2f92551a8b.webp)](/hfs40k/images/b80f0459db658c62cd585c2f92551a8b.webp)  
 Ágætis byrjun (Icelandic for "A good beginning") is the second album by the Icelandic post-rock band Sigur Rós, which was released in 1999.  
   
 [Download (FLAC)](https://web.archive.org/web/20111010131326/http://www.megaupload.com/?d=8RXXZQ3A)

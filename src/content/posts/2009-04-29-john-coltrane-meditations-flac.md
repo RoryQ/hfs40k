@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Medi
 
 
 
-[![](/holyfuckingshit40000/images/89ec39863c1d7b3c993ada9dd78db1ed.webp)](/holyfuckingshit40000/images/89ec39863c1d7b3c993ada9dd78db1ed.webp)  
+[![](/hfs40k/images/89ec39863c1d7b3c993ada9dd78db1ed.webp)](/hfs40k/images/89ec39863c1d7b3c993ada9dd78db1ed.webp)  
   
 This is where "Jazz Composition" becomes gorgeously abrasive. A more than fitting pre-cursor to Ascension.  
   

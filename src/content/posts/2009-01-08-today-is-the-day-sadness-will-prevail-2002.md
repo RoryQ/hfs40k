@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Today%20Is%20The%20Day
 
 
 
-[![](/holyfuckingshit40000/images/03a639a1fe51859e0bc881349836530f.webp)](/holyfuckingshit40000/images/03a639a1fe51859e0bc881349836530f.webp)  
+[![](/hfs40k/images/03a639a1fe51859e0bc881349836530f.webp)](/hfs40k/images/03a639a1fe51859e0bc881349836530f.webp)  
 Genre: Experimental Metal  
 Country: U.S.  
   

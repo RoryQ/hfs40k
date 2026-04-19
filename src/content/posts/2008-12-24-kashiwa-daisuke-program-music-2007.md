@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20Pr
 
 
 
-[![](/holyfuckingshit40000/images/ed3700cbcc6cb4790c09d2a6e1f9d18f.webp)](/holyfuckingshit40000/images/ed3700cbcc6cb4790c09d2a6e1f9d18f.webp)  
+[![](/hfs40k/images/ed3700cbcc6cb4790c09d2a6e1f9d18f.webp)](/hfs40k/images/ed3700cbcc6cb4790c09d2a6e1f9d18f.webp)  
 Genre: Experimental /Glitch / Post-rock  
 Country: Japan  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Rock%
 
 
 
-[![](/holyfuckingshit40000/images/b9ce1555a63fbe122ed8187b84b50940.webp)](https://web.archive.org/web/20111010145252/http://4.bp.blogspot.com/_cLI19EXK2oU/Sn5X3kW9t6I/AAAAAAAAAR4/NPGlW2-xZso/s1600-h/rockbottom.jpg)  
+[![](/hfs40k/images/b9ce1555a63fbe122ed8187b84b50940.webp)](https://web.archive.org/web/20111010145252/http://4.bp.blogspot.com/_cLI19EXK2oU/Sn5X3kW9t6I/AAAAAAAAAR4/NPGlW2-xZso/s1600-h/rockbottom.jpg)  
 I'm hesitant to write anything about this album. It is too good and things that are too good typically transcend language.
 
 So, for what it's worth, I have harbored a theory for many years which consists of the following. If a capable artist is able to allow his or her work to become completely subjective that artist will touch upon something completely objective. That is to say, the artist will come to terms with something that is true to almost every human being.

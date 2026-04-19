@@ -22,9 +22,9 @@ youtube_url: https://www.youtube.com/results?search_query=Labradford%20Prazision
 This band, alongside with many other 90s post-rock forerunners, always reminds me why I couldn't care less about all the guitar melodramas these days.  
   
 Prazision LP (1993)  
-[![](/holyfuckingshit40000/images/covers/2010-03-17-labradford.webp)](/holyfuckingshit40000/images/covers/2010-03-17-labradford.webp)[FLAC](https://web.archive.org/web/20111010081942/http://lix.in/-742e1e)  
+[![](/hfs40k/images/covers/2010-03-17-labradford.webp)](/hfs40k/images/covers/2010-03-17-labradford.webp)[FLAC](https://web.archive.org/web/20111010081942/http://lix.in/-742e1e)  
   
 A Stable Reference (1995)  
-[![](/holyfuckingshit40000/images/85d80bf3a5370bfc06e4ef832113e261.webp)](https://web.archive.org/web/20111010081942/http://1.bp.blogspot.com/_mTQyK3r0bG0/S6E1l9iG-cI/AAAAAAAAAEA/1qRUI29tmOU/s1600-h/d0d641118bba796f49b55f9b5d4.jpg)[FLAC](https://web.archive.org/web/20111010081942/http://lix.in/-6f9a6d)  
+[![](/hfs40k/images/85d80bf3a5370bfc06e4ef832113e261.webp)](https://web.archive.org/web/20111010081942/http://1.bp.blogspot.com/_mTQyK3r0bG0/S6E1l9iG-cI/AAAAAAAAAEA/1qRUI29tmOU/s1600-h/d0d641118bba796f49b55f9b5d4.jpg)[FLAC](https://web.archive.org/web/20111010081942/http://lix.in/-6f9a6d)  
   
 To be continued...

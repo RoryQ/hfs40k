@@ -19,6 +19,6 @@ youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20Fear
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-06-talking-heads-fear-of-music-1979.webp)](/holyfuckingshit40000/images/covers/2009-07-06-talking-heads-fear-of-music-1979.webp)Do I smell? I smell home cooking. It's only the river...IT'S ONLY THE RIVER.  
+[![](/hfs40k/images/covers/2009-07-06-talking-heads-fear-of-music-1979.webp)](/hfs40k/images/covers/2009-07-06-talking-heads-fear-of-music-1979.webp)Do I smell? I smell home cooking. It's only the river...IT'S ONLY THE RIVER.  
   
 [Download 320](https://web.archive.org/web/20120117071409/http://lix.in/-519f73)

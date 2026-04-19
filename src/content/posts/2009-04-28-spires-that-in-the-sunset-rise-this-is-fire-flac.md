@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Spires%20That%20in%20t
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-28-spires-that-in-the-sunset-rise-this-is-fire-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-28-spires-that-in-the-sunset-rise-this-is-fire-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-28-spires-that-in-the-sunset-rise-this-is-fire-flac.webp)](/hfs40k/images/covers/2009-04-28-spires-that-in-the-sunset-rise-this-is-fire-flac.webp)  
 Weirdo folk. Take care, you may end up loving them. Anyone that likes Comus or Natural Snow Buildings or just wackyness should try this.  
   
 Reuploaded  

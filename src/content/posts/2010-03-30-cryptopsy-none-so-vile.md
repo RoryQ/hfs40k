@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cryptopsy%20None%20So%
 
 
 
-[![](/holyfuckingshit40000/images/a07f80a731908685862b71f10396b5b9.webp)](https://web.archive.org/web/20111010081551/http://4.bp.blogspot.com/_pqcGUSDUhi4/S7JsSOBjUjI/AAAAAAAAABE/lLckQl950yQ/s1600/None+So+Vile.jpg)  
+[![](/hfs40k/images/a07f80a731908685862b71f10396b5b9.webp)](https://web.archive.org/web/20111010081551/http://4.bp.blogspot.com/_pqcGUSDUhi4/S7JsSOBjUjI/AAAAAAAAABE/lLckQl950yQ/s1600/None+So+Vile.jpg)  
   
   
   

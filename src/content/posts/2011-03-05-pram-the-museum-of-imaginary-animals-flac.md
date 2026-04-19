@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pram%20The%20Museum%20
 
 
 
-[![](/holyfuckingshit40000/images/cb2a102fb69b3ec738214aa0a819db66.webp)](https://web.archive.org/web/20111010111543/http://4.bp.blogspot.com/-mt9ObhFgi40/TXLs05jo8MI/AAAAAAAAAPE/qHh6Kh4ZMmA/s1600/Pram%2BMoIA.jpg)  
+[![](/hfs40k/images/cb2a102fb69b3ec738214aa0a819db66.webp)](https://web.archive.org/web/20111010111543/http://4.bp.blogspot.com/-mt9ObhFgi40/TXLs05jo8MI/AAAAAAAAAPE/qHh6Kh4ZMmA/s1600/Pram%2BMoIA.jpg)  
 It's all there in the title. Like the (real) exhibit which Pram's fifth studio LP pays tribute to - a collection of zoological Frankensteins with body parts from several different species - the Birmingham seven-piece make no anatomical sense. And while their appeal remains utterly baffling to some (their 'Sargasso Sea' LP scored a resounding zero out of ten in NME some years back), half their charm lies in their dismissal of normal musical logic.  
   
 'Museum Of Imaginary Animals' is fractured and spindly, plundering post-rock and jazz and dub, without really sounding like any of them. Put it on as accompaniment to some mundane household task and the analogue doodling and hopscotch rhythms will probably send you insane. Listen while staring intently at a bright light, and you'll be warbling 'Mother Of Pearl''s infectious refrain all day.  

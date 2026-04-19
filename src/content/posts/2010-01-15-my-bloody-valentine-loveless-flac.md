@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-15-my-bloody-valentine-loveless-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-15-my-bloody-valentine-loveless-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-15-my-bloody-valentine-loveless-flac.webp)](/hfs40k/images/covers/2010-01-15-my-bloody-valentine-loveless-flac.webp)  
   
 Greatest non-Black Saint and The Sinner Lady album reuploaded by request.  
   

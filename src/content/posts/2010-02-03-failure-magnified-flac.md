@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Failure%20Magnified
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-03-failure-magnified-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-03-failure-magnified-flac.webp)Alternative rock/Post-grunge. One of the very few good albums in it's genre. I'll have Fantastic Planet up in FLAC as well tomorrow.  
+[![](/hfs40k/images/covers/2010-02-03-failure-magnified-flac.webp)](/hfs40k/images/covers/2010-02-03-failure-magnified-flac.webp)Alternative rock/Post-grunge. One of the very few good albums in it's genre. I'll have Fantastic Planet up in FLAC as well tomorrow.  
   
 [Get it in FLAC](https://web.archive.org/web/20111010161856/http://lix.in/-754ea7)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Karma%20to%20Burn%20Ka
 
 
 
-[![](/holyfuckingshit40000/images/2923179e1127281fdd1a375e8803d35f.webp)](/holyfuckingshit40000/images/2923179e1127281fdd1a375e8803d35f.webp)  
+[![](/hfs40k/images/2923179e1127281fdd1a375e8803d35f.webp)](/hfs40k/images/2923179e1127281fdd1a375e8803d35f.webp)  
 3D pig disgusting etc.  
   
 This is the instrumental equivalent of Welcome To Sky Valley.  

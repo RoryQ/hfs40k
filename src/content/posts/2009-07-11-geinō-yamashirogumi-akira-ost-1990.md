@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Gein%C5%8D%20Yamashiro
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-11-geinō-yamashirogumi-akira-ost-1990.webp)](/holyfuckingshit40000/images/covers/2009-07-11-geinō-yamashirogumi-akira-ost-1990.webp)Music for the movie Akira based on Katsuhiro Otomo's hit manga of the same name. Basically, it's a bunch of ambient/classical/tribal stuff that Boredoms fans and Koh Ohtani fans can both like. Composed and conducted by Shoji Yamashiro and performed by Geinō Yamashirogumi, a large collective of Japanese people that perform ethnic folk music of many different countries.  
+[![](/hfs40k/images/covers/2009-07-11-geinō-yamashirogumi-akira-ost-1990.webp)](/hfs40k/images/covers/2009-07-11-geinō-yamashirogumi-akira-ost-1990.webp)Music for the movie Akira based on Katsuhiro Otomo's hit manga of the same name. Basically, it's a bunch of ambient/classical/tribal stuff that Boredoms fans and Koh Ohtani fans can both like. Composed and conducted by Shoji Yamashiro and performed by Geinō Yamashirogumi, a large collective of Japanese people that perform ethnic folk music of many different countries.  
   
 Download 256: [1](https://web.archive.org/web/20111010141041/http://lix.in/-4d98a8) / [2](https://web.archive.org/web/20111010141041/http://lix.in/-4a8b70)

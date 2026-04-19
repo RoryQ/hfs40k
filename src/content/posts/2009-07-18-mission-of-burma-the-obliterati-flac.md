@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mission%20of%20Burma%2
 
 
 
-[![](/holyfuckingshit40000/images/db123ce811c49f3aa6a38d05f1db88b0.webp)](https://web.archive.org/web/20111010142606/http://4.bp.blogspot.com/_nmjS6fd9kfU/SmJtVRuCBJI/AAAAAAAAADs/T_jMhX2TSUU/s1600-h/folder.jpg)  
+[![](/hfs40k/images/db123ce811c49f3aa6a38d05f1db88b0.webp)](https://web.archive.org/web/20111010142606/http://4.bp.blogspot.com/_nmjS6fd9kfU/SmJtVRuCBJI/AAAAAAAAADs/T_jMhX2TSUU/s1600-h/folder.jpg)  
 This album has been growing on me since I picked it up. It's been said and it's been said again about Mission of Burma, but damn if it isn't practically unheard of for a band to be gone for so long and come back this strong. They barrel out of the gate with Peter Prescott's deafening initial drum assault, and follow up with their typical brand of witty and razor-sharp post-punk. To prove that they haven't lost an ounce of humor in their old age, check out some of the lyrics to Spider's Web, which mention "Eating dinner on Matador's dime."  
   
 [Enjoy](https://web.archive.org/web/20111010142606/http://lix.in/-55f2d7)

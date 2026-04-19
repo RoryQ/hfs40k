@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%20T
 
 
 
-[![](/holyfuckingshit40000/images/e184cf6e43938ccf27121707c765aa85.webp)](https://web.archive.org/web/20111010155242/http://1.bp.blogspot.com/_A31Dfz4S5yg/SzuNfj3dk9I/AAAAAAAAANE/1H9b5iFLoa0/s1600-h/tdl3.jpg)Fucking loops man.  
+[![](/hfs40k/images/e184cf6e43938ccf27121707c765aa85.webp)](https://web.archive.org/web/20111010155242/http://1.bp.blogspot.com/_A31Dfz4S5yg/SzuNfj3dk9I/AAAAAAAAANE/1H9b5iFLoa0/s1600-h/tdl3.jpg)Fucking loops man.  
   
 [download flac](https://web.archive.org/web/20111010155242/http://lix.in/-6e5651)

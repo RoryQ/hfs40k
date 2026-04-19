@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20In%20A
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-24-miles-davis-in-a-silent-way-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2011-09-24-miles-davis-in-a-silent-way-24-bit96khz-vinyl.webp)
+[![](/hfs40k/images/covers/2011-09-24-miles-davis-in-a-silent-way-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2011-09-24-miles-davis-in-a-silent-way-24-bit96khz-vinyl.webp)
 
 SOURCE: Columbia Records 88697269471 180 Gram vinyl cleaned with distilled water and carbon fibre brush -> Rega Planar 2 turntable -> Grado GT cartridge -> Cambridge Audio Azur 540p preamp -> E-MU 0404 USB (32-bit/96khz) -> Audacity (32-bit/96khz).
 

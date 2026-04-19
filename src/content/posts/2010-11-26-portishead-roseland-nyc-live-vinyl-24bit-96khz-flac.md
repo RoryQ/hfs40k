@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Portishead%20Roseland%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-11-26-portishead-roseland-nyc-live-vinyl-24bit-96khz-flac.webp)](/holyfuckingshit40000/images/covers/2010-11-26-portishead-roseland-nyc-live-vinyl-24bit-96khz-flac.webp)  
+[![](/hfs40k/images/covers/2010-11-26-portishead-roseland-nyc-live-vinyl-24bit-96khz-flac.webp)](/hfs40k/images/covers/2010-11-26-portishead-roseland-nyc-live-vinyl-24bit-96khz-flac.webp)  
 Ripping equipment:  
 MINT LP  
 Thorens TD 810 + Shure M24H  

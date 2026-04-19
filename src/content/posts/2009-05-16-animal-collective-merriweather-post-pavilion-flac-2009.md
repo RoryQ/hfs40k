@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/273407bac00de36c75657742ce4d9cbf.webp)](/holyfuckingshit40000/images/41ce4211dd11f9687d8a0e60db61f7d5.webp)  
+[![](/hfs40k/images/273407bac00de36c75657742ce4d9cbf.webp)](/hfs40k/images/41ce4211dd11f9687d8a0e60db61f7d5.webp)  
 Reuploaded as requested.  
   
 Fuck yesh album of the year!!  

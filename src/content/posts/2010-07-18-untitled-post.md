@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20Apr
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-18-untitled-post.webp)](/holyfuckingshit40000/images/covers/2010-07-18-untitled-post.webp)[Ryan](https://web.archive.org/web/20111010053246/http://www.blogger.com/profile/14113594495387448783) posted this link the other day, but I hesitated to post it because I couldn't find album art for it. Oh well, here it is, the new album by SKM.
+[![](/hfs40k/images/covers/2010-07-18-untitled-post.webp)](/hfs40k/images/covers/2010-07-18-untitled-post.webp)[Ryan](https://web.archive.org/web/20111010053246/http://www.blogger.com/profile/14113594495387448783) posted this link the other day, but I hesitated to post it because I couldn't find album art for it. Oh well, here it is, the new album by SKM.
 
 [Enjoy](https://web.archive.org/web/20111010053246/http://lix.in/-819a20)
 

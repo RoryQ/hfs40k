@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sabrepulse%20Turbo%20C
 
 
 
-[![](/holyfuckingshit40000/images/8c75389ae440f84b16da394b3dbb8174.webp)](https://web.archive.org/web/20111010164357/http://2.bp.blogspot.com/_z8rLjrFVzbo/Sa-mOqMubqI/AAAAAAAAACk/Kjf2ZWcgpO4/s1600-h/1623099.jpg)  
+[![](/hfs40k/images/8c75389ae440f84b16da394b3dbb8174.webp)](https://web.archive.org/web/20111010164357/http://2.bp.blogspot.com/_z8rLjrFVzbo/Sa-mOqMubqI/AAAAAAAAACk/Kjf2ZWcgpO4/s1600-h/1623099.jpg)  
 There's nothing more fun to listen to than Chiptune.  
  [Download MP3](https://web.archive.org/web/20111010164357/http://www.mediafire.com/?djdnzbwmozo)

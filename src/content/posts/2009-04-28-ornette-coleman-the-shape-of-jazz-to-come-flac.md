@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ornette%20Coleman%20Th
 
 
 
-[![](/holyfuckingshit40000/images/95ea2e5953ddc525bb2a163bf59b3a4e.webp)](https://web.archive.org/web/20111010130806/http://3.bp.blogspot.com/_cLI19EXK2oU/SfdfweSgatI/AAAAAAAAAEA/XEZbV-nSDOM/s1600-h/shapeofjazztocome.jpg)  
+[![](/hfs40k/images/95ea2e5953ddc525bb2a163bf59b3a4e.webp)](https://web.archive.org/web/20111010130806/http://3.bp.blogspot.com/_cLI19EXK2oU/SfdfweSgatI/AAAAAAAAAEA/XEZbV-nSDOM/s1600-h/shapeofjazztocome.jpg)  
   
 Refused tribute album.  
  [Download](https://web.archive.org/web/20111010130806/http://www.megaupload.com/?d=GU3IZMQ3) FLAC

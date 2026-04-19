@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rahsaan%20Roland%20Kir
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-03-rahsaan-roland-kirk-the-inflated-tear-1968.webp)](/holyfuckingshit40000/images/covers/2009-04-03-rahsaan-roland-kirk-the-inflated-tear-1968.webp)  
+[![](/hfs40k/images/covers/2009-04-03-rahsaan-roland-kirk-the-inflated-tear-1968.webp)](/hfs40k/images/covers/2009-04-03-rahsaan-roland-kirk-the-inflated-tear-1968.webp)  
 That's quite a lot of saxophones in his mouth.  
   
 [Download (v0)](https://web.archive.org/web/20111010130932/http://www.mediafire.com/?hmdwnowojmz)  

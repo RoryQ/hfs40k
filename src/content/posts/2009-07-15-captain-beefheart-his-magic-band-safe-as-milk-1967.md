@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20
 
 
 
-[![](/holyfuckingshit40000/images/15fde80e470cfa7867e03674e294e097.webp)](https://web.archive.org/web/20111010141359/http://4.bp.blogspot.com/_JdyrURA7JYI/Sl7DLcI2rEI/AAAAAAAAAEg/iBQ47tJT-78/s1600-h/safebeef.PNG)YOU CAN ZIG, YOU CAN ZAG  
+[![](/hfs40k/images/15fde80e470cfa7867e03674e294e097.webp)](https://web.archive.org/web/20111010141359/http://4.bp.blogspot.com/_JdyrURA7JYI/Sl7DLcI2rEI/AAAAAAAAAEg/iBQ47tJT-78/s1600-h/safebeef.PNG)YOU CAN ZIG, YOU CAN ZAG  
   
 [Download 320](https://web.archive.org/web/20111010141359/http://lix.in/-4e04b4)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20%26%20Jarbo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-04-neurosis-jarboe-neurosis-jarboe-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-04-neurosis-jarboe-neurosis-jarboe-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-04-neurosis-jarboe-neurosis-jarboe-flac.webp)](/hfs40k/images/covers/2009-04-04-neurosis-jarboe-neurosis-jarboe-flac.webp)  
 Neurosis & Jarboe is the self-titled debut album from the collaboration of Californian band Neurosis and ex-Swans keyboardist/vocalist and solo artist Jarboe.  
   
 Neurosis + Swans. Awesome by default huh?  

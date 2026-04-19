@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Moody%20Blues%20
 
 
 
-[![](/holyfuckingshit40000/images/6ea8ce8a5830e1e622e61a92398aad89.webp)](https://web.archive.org/web/20111010085139/http://4.bp.blogspot.com/_5cVyPU93ihM/SkZD0TbWTgI/AAAAAAAAAI8/m7liBi4gKV0/s1600-h/Picture+1.png)  
+[![](/hfs40k/images/6ea8ce8a5830e1e622e61a92398aad89.webp)](https://web.archive.org/web/20111010085139/http://4.bp.blogspot.com/_5cVyPU93ihM/SkZD0TbWTgI/AAAAAAAAAI8/m7liBi4gKV0/s1600-h/Picture+1.png)  
 "Hey guys, lets try playing our rock music with classical and symphonic arrangements!"  
   
 ...And thus, progressive rock was born.  

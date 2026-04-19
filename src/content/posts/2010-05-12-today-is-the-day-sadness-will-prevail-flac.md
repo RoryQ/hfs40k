@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Today%20Is%20The%20Day
 
 
 
-[![](/holyfuckingshit40000/images/f9c00d3d73b8b41666772d2c8a5b7d91.webp)](https://web.archive.org/web/20111010100739/http://2.bp.blogspot.com/_A31Dfz4S5yg/S-qQN8hiB_I/AAAAAAAAASI/H36IoaBcdEI/s1600/swp.jpg)[（・Ａ・）](https://web.archive.org/web/20111010100739/http://lix.in/-7c6e6c)
+[![](/hfs40k/images/f9c00d3d73b8b41666772d2c8a5b7d91.webp)](https://web.archive.org/web/20111010100739/http://2.bp.blogspot.com/_A31Dfz4S5yg/S-qQN8hiB_I/AAAAAAAAASI/H36IoaBcdEI/s1600/swp.jpg)[（・Ａ・）](https://web.archive.org/web/20111010100739/http://lix.in/-7c6e6c)

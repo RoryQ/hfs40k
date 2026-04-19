@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Blamstrain%20Disfold%2
 
 
 
-[![](/holyfuckingshit40000/images/fad571638a16171d707dd25f6bf88546.webp)](https://web.archive.org/web/20111010081059/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6ctCixZiWI/AAAAAAAAAGM/Avi6ju3Lqmg/s1600-h/707.jpg)  
+[![](/hfs40k/images/fad571638a16171d707dd25f6bf88546.webp)](https://web.archive.org/web/20111010081059/http://1.bp.blogspot.com/_t6lWjgwMoxw/S6ctCixZiWI/AAAAAAAAAGM/Avi6ju3Lqmg/s1600-h/707.jpg)  
   
   
   

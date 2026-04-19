@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charlie%20Mingus%20Tij
 
 
 
-[![](/holyfuckingshit40000/images/e3928d4c873d036a473a8f6823c91e1a.webp)](https://web.archive.org/web/20111010153004/http://3.bp.blogspot.com/_nmjS6fd9kfU/Sywglfr3raI/AAAAAAAAAGc/i1XAyHe1LVc/s1600-h/folder.jpg)  
+[![](/hfs40k/images/e3928d4c873d036a473a8f6823c91e1a.webp)](https://web.archive.org/web/20111010153004/http://3.bp.blogspot.com/_nmjS6fd9kfU/Sywglfr3raI/AAAAAAAAAGc/i1XAyHe1LVc/s1600-h/folder.jpg)  
 More Mingus music. This time with flamenco flavorings. Mariachi musings. Tijuana trumpets, even! Exit, stage Mingus!  
   
 [Enjoy](https://web.archive.org/web/20111010153004/http://lix.in/-618be0)

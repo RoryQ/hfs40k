@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ken%20By%20Request%20O
 
 
 
-[![](/holyfuckingshit40000/images/35faf28995064ae141e54f17ed92fe6d.webp)](https://web.archive.org/web/20111010122540/http://3.bp.blogspot.com/_JdyrURA7JYI/SvzVVunKLMI/AAAAAAAAAKQ/0AVzlDyrJfQ/s1600-h/kenrequest.PNG)It's here...it's finally here....<3  
+[![](/hfs40k/images/35faf28995064ae141e54f17ed92fe6d.webp)](https://web.archive.org/web/20111010122540/http://3.bp.blogspot.com/_JdyrURA7JYI/SvzVVunKLMI/AAAAAAAAAKQ/0AVzlDyrJfQ/s1600-h/kenrequest.PNG)It's here...it's finally here....<3  
   
 [Download v0](https://web.archive.org/web/20111010122540/http://lix.in/-5ea18e)  
   

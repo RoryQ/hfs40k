@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Unkno
 
 
 
-[![](/holyfuckingshit40000/images/19da75478490bc584feaf60fc72295da.webp)](https://web.archive.org/web/20111004080824/http://3.bp.blogspot.com/-pLv_XRvGoSA/TnBEov46XLI/AAAAAAAABE4/bD9STVkPxEc/s1600/13zuxyh.jpg)  
+[![](/hfs40k/images/19da75478490bc584feaf60fc72295da.webp)](https://web.archive.org/web/20111004080824/http://3.bp.blogspot.com/-pLv_XRvGoSA/TnBEov46XLI/AAAAAAAABE4/bD9STVkPxEc/s1600/13zuxyh.jpg)  
 Original pressing on Factory UK from 1979  
   
 NOTE: This is far superior sounding than either of the Rhino reissues!  

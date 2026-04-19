@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boud%20Deun%20The%20St
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-09-boud-deun-the-stolen-bicycle-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-09-boud-deun-the-stolen-bicycle-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-09-boud-deun-the-stolen-bicycle-flac.webp)](/hfs40k/images/covers/2009-03-09-boud-deun-the-stolen-bicycle-flac.webp)  
 If you thought I was done with King Crimson influenced music (they invented it after all), then you are sorely mistaken! Only this time, we have a neat fusion of prog, with fiery Jazz-rock reminiscent of the Mahavishnu Orchestra.  
   
 [Download](https://web.archive.org/web/20111010164749/http://lix.in/-464a19)  

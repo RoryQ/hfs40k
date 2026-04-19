@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tricky%20Maxinquaye
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-30-tricky-maxinquaye-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-30-tricky-maxinquaye-flac.webp)  
+[![](/hfs40k/images/covers/2010-07-30-tricky-maxinquaye-flac.webp)](/hfs40k/images/covers/2010-07-30-tricky-maxinquaye-flac.webp)  
 When you first look at the album, you're struck by it's cover; is it a suitcase or a door or something burned? What the hell is this? It begins a mystery. You put the album on, expecting something, and almost immediately, the dark resonating beats of the first track "Overcome" hit you in a face. It sonically rolls over you hypnotically, sexual yet the heavy bass and dismembered flutes and samples give it an all too deep, heavy apocalytic feel. And that's only the beginning.
 
 Here comes Tricky, former Massive Attack and Wild Bunch collaborator, straight from the hip-hop hedonism of "Blue Lines" and the soncially diverse "Protection." Armed with samples, ideas, angst and crooner Martine's whispy soulful voice, he gives you an album that refuses to leave you at the end.

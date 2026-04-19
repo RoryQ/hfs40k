@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=FSOL%20Dead%20Cities
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-11-fsol-dead-cities-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-11-fsol-dead-cities-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-11-fsol-dead-cities-flac.webp)](/hfs40k/images/covers/2010-04-11-fsol-dead-cities-flac.webp)  
 
 [The Future Sound Of London - 1996 - Dead Cities [FLAC]](https://web.archive.org/web/20100421012331/http://lix.in/-799bf7) .
 

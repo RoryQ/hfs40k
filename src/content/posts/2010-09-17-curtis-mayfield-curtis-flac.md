@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Curtis%20Mayfield%20Cu
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-17-curtis-mayfield-curtis-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-17-curtis-mayfield-curtis-flac.webp)  
+[![](/hfs40k/images/covers/2010-09-17-curtis-mayfield-curtis-flac.webp)](/hfs40k/images/covers/2010-09-17-curtis-mayfield-curtis-flac.webp)  
 Curtis Mayfield was one of the first black artists to openly sing about the inequities facing his race as well as sing with Afrocentricity. He wrote songs for his group, The Impressions, such as "Choice of Colors", "We're A Winner" and "Keep On Pushin'" that provided the soundtrack for the civil rights movement. On his first solo album, Curtis, he takes on a harder stance and his songs are most critical and scathing than the uplifting one he performed with The Impressions. The album's opener "(Don't Worry) If There's A Hell Below, We're All Gonna Go" breaks down stereotypes and lays blame for the nation's situation on everyone. The album's best track is the misty "We The People Who Are Darker Than Blue" that has a mystical vibe to it. Mr. Mayfield was never afraid of speaking his mind and his debut solo album has a whole lot to say.   
   
 [Give It Up](https://web.archive.org/web/20111010175445/http://lix.in/-8dbc5b)  

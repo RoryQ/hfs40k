@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20FLAC%20reuploa
 
 
 
-[![](/holyfuckingshit40000/images/3e8e55c0fa9c29a4104cc54760d694b1.webp)](https://web.archive.org/web/20111010094306/http://1.bp.blogspot.com/_z8rLjrFVzbo/Sqo5-N-gkHI/AAAAAAAAAJU/xjo0xC0hbDU/s1600-h/Boris%2B%2B2009.jpg)  
+[![](/hfs40k/images/3e8e55c0fa9c29a4104cc54760d694b1.webp)](https://web.archive.org/web/20111010094306/http://1.bp.blogspot.com/_z8rLjrFVzbo/Sqo5-N-gkHI/AAAAAAAAAJU/xjo0xC0hbDU/s1600-h/Boris%2B%2B2009.jpg)  
 Because it was about time for it.  
   
 If someone has more boris in FLAC uploaded post in comments and I'll edit the post.  

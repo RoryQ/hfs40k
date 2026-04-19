@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%2
 
 
 
-[![](/holyfuckingshit40000/images/2371ba7b81622d9c81d70e185d03b27d.webp)](https://web.archive.org/web/20111010053048/http://2.bp.blogspot.com/_cLI19EXK2oU/TEsWTOykLGI/AAAAAAAAAv0/y0HZCWoHT-Y/s1600/Hot_Rats.jpg)  
+[![](/hfs40k/images/2371ba7b81622d9c81d70e185d03b27d.webp)](https://web.archive.org/web/20111010053048/http://2.bp.blogspot.com/_cLI19EXK2oU/TEsWTOykLGI/AAAAAAAAAv0/y0HZCWoHT-Y/s1600/Hot_Rats.jpg)  
 'the present day composer refuses to die' was the quotation from Edgar Varese which graced each of the Mothers albums as I remember from the vinyl releases in England.
 
 This particular album made such an impression on a group of young people in Sunderland that they renamed their "disco" in the Londonderry Hotel on Saturday evenings after it. Played some pretty neat music there too.

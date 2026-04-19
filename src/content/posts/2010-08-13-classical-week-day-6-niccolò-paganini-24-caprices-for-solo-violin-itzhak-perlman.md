@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day
 
 
 
-[![](/holyfuckingshit40000/images/76c1992971461460957126b03d688449.webp)](https://web.archive.org/web/20111010065326/http://4.bp.blogspot.com/_cLI19EXK2oU/TGUCFx-B6hI/AAAAAAAAAyE/DO1Mw73SpYA/s1600/51iCRktqB3L._SS500_.jpg)  
+[![](/hfs40k/images/76c1992971461460957126b03d688449.webp)](https://web.archive.org/web/20111010065326/http://4.bp.blogspot.com/_cLI19EXK2oU/TGUCFx-B6hI/AAAAAAAAAyE/DO1Mw73SpYA/s1600/51iCRktqB3L._SS500_.jpg)  
 
 Perlman does indeed play with the most musicality of any violinist I have yet heard, and in my mind this is FAR more important than absolute technical perfection. There are a few technical flubs in the disc - mostly intonation. This, however, does not stop me from listening to these tracks - I enjoy them every bit as much as the "flawless caprices" because of Perlman's innate understanding of what music should sound like. He does not treat the first caprice like another etude - in the veritable overload of notes he finds musical meaning, just as he does in the beginning of the seventh.
 

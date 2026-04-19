@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Envy%20Abyssal
 
 
 
-[![](/holyfuckingshit40000/images/64d180fef9a2898f4143eefdb29ab1a9.webp)](/holyfuckingshit40000/images/64d180fef9a2898f4143eefdb29ab1a9.webp)  
+[![](/hfs40k/images/64d180fef9a2898f4143eefdb29ab1a9.webp)](/hfs40k/images/64d180fef9a2898f4143eefdb29ab1a9.webp)  
   
 yep.  
 [download](https://web.archive.org/web/20111010123440/http://www.megaupload.com/?d=O7K0L4Z3)

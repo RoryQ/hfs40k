@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Fucked
 
 
 
-[![](/holyfuckingshit40000/images/d49314a17552f223e358638fad0b6460.webp)](https://web.archive.org/web/20120117193259/http://1.bp.blogspot.com/-OvpNZEZhFDs/TwZapIcYD8I/AAAAAAAAFdc/d6oiAyCCPN4/s1600/Fucked%2BUp%2BInside.png)
+[![](/hfs40k/images/d49314a17552f223e358638fad0b6460.webp)](https://web.archive.org/web/20120117193259/http://1.bp.blogspot.com/-OvpNZEZhFDs/TwZapIcYD8I/AAAAAAAAFdc/d6oiAyCCPN4/s1600/Fucked%2BUp%2BInside.png)
 
 **Dedicated ~ 1993**
 

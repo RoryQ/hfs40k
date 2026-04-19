@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Acid%20Mothers%20Templ
 
 
 
-[![](/holyfuckingshit40000/images/640be14547ce1d45d34cb1180e175ccf.webp)](/holyfuckingshit40000/images/217e7b616d1f74e86dcfef1865631652.webp)[Pink Lady Lemonade](https://web.archive.org/web/20111009073701/http://lix.in/-aaead6)
+[![](/hfs40k/images/640be14547ce1d45d34cb1180e175ccf.webp)](/hfs40k/images/217e7b616d1f74e86dcfef1865631652.webp)[Pink Lady Lemonade](https://web.archive.org/web/20111009073701/http://lix.in/-aaead6)
   
   
 password haveanicelife

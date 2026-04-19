@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Art%20Bears%20Winter%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-20-art-bears-winter-songs-1979-the-world-as-it-is-today-1981-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-20-art-bears-winter-songs-1979-the-world-as-it-is-today-1981-flac.webp)
+[![](/hfs40k/images/covers/2009-12-20-art-bears-winter-songs-1979-the-world-as-it-is-today-1981-flac.webp)](/hfs40k/images/covers/2009-12-20-art-bears-winter-songs-1979-the-world-as-it-is-today-1981-flac.webp)
 
 Henry Cow died and left an amazing, avant-corpse.
 

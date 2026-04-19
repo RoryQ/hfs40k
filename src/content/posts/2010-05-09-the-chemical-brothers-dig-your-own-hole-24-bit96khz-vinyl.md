@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Chemical%20Broth
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-09-the-chemical-brothers-dig-your-own-hole-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2010-05-09-the-chemical-brothers-dig-your-own-hole-24-bit96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2010-05-09-the-chemical-brothers-dig-your-own-hole-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2010-05-09-the-chemical-brothers-dig-your-own-hole-24-bit96khz-vinyl.webp)  
 Much has been written about this album in the past 8 years since its release and it has been appraised by many people - they were right. However, this is not your kind of music, if you're not into experimental music or you turn away from unusual patterns. Anyway, this album is Chemical Brothers and techno music at their best.  
   
 The album's first part manages to mix big beat techno music with rock and it blows down your head. Tracks 1 to 5 are as exhasuting a trip as they can be. Most people know "Block Rockin' Beats" which was a hit single in the UK and in the US as well. The song really rocks and is a perfect starter. However, as we move towards "Setting Sun" the threshold is pushed forward (especially with "Elektrobank") and the album reaches its first climax in "Setting Sun", in which Oasis' Noel Gallagher sings with a electric-guitar-vocoded voice and the track rocks like nothing I've ever heard before or eversince.  

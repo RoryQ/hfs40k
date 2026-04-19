@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Soundtracks%20
 
 
 
-[![](/holyfuckingshit40000/images/e6e7df9b38c56c67c36cace6d8d6d3c7.webp)](https://web.archive.org/web/20111010140338/http://3.bp.blogspot.com/_cLI19EXK2oU/SmJ9L-1zVHI/AAAAAAAAAP4/4jmn0UQp910/s1600-h/ps_r_soundtracks_d.jpg)  
+[![](/hfs40k/images/e6e7df9b38c56c67c36cace6d8d6d3c7.webp)](https://web.archive.org/web/20111010140338/http://3.bp.blogspot.com/_cLI19EXK2oU/SmJ9L-1zVHI/AAAAAAAAAP4/4jmn0UQp910/s1600-h/ps_r_soundtracks_d.jpg)  
 As the old reviewers' cliché goes, Soundtracks for the Blind is a "sprawling masterpiece." Over more than 120 minutes, Swans give up the ghost in a most magnificent series of sobs. If you can bear it, Soundtracks is best appreciated in one listening session, however masochistic that may seem.  
   
 The two CDs contain a vast orchestral piece built around the eerie sound of the drone, interspersed with beautiful songs and recorded voices held together by cinematic fragments and interludes. The sound moves from the Wagnerian symphonic to the most overwhelming heavy rock, as on the live track YRP, with many interweaving textures in between. Of course, this music can be emotionally overpowering in its relentless despair, but it also contains beautiful moments of resignation and transcendence.  

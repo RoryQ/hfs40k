@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Renaissance%20Self%20T
 
 
 
-[![](/holyfuckingshit40000/images/f6cb6cb48f3e1c73c8cd13d751252553.webp)](https://web.archive.org/web/20111010164333/http://3.bp.blogspot.com/_5cVyPU93ihM/ScGM14S03rI/AAAAAAAAACY/ytrJsP5_NDM/s1600-h/renaiss.jpg)  
+[![](/hfs40k/images/f6cb6cb48f3e1c73c8cd13d751252553.webp)](https://web.archive.org/web/20111010164333/http://3.bp.blogspot.com/_5cVyPU93ihM/ScGM14S03rI/AAAAAAAAACY/ytrJsP5_NDM/s1600-h/renaiss.jpg)  
 One of the very earliest prog albums in the...oh hey, what's that falling from the sky?... Icarus, nooooooo !  
   
 [Download](https://web.archive.org/web/20111010164333/http://lix.in/-47d0c4)  

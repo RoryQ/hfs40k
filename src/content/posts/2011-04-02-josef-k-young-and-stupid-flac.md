@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Josef%20K%20Young%20an
 
 
 
-[![](/holyfuckingshit40000/images/f3ea1181f91270b62de7266d98eaa068.webp)](https://web.archive.org/web/20111010145826/http://3.bp.blogspot.com/-NnUDjRRQhCM/TZe9SX-E15I/AAAAAAAAAQM/sJQBTfn7ck8/s1600/51heYvgX1WL._SS400_.jpg)  
+[![](/hfs40k/images/f3ea1181f91270b62de7266d98eaa068.webp)](https://web.archive.org/web/20111010145826/http://3.bp.blogspot.com/-NnUDjRRQhCM/TZe9SX-E15I/AAAAAAAAAQM/sJQBTfn7ck8/s1600/51heYvgX1WL._SS400_.jpg)  
 I forget who requested this long ago but well here it is. Another essential comp for this essential post-punk band.  
 "The 21 featured tracks include the timeless 'Postcard' and 'Crepuscule' singles, as well as flipsides, demos and all eight tracks broadcast on the BBC John Peel program"  
   

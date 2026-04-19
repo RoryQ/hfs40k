@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Japandroids%20Post-Not
 
 
 
-[![](/holyfuckingshit40000/images/2d1981b7b50cc7dac9ea8185c129c34e.webp)](https://web.archive.org/web/20111010175703/http://1.bp.blogspot.com/_cLI19EXK2oU/TJinVI9OO3I/AAAAAAAAA08/QYL8qbskWQk/s1600/Post-nothing-by-Japandroids_s-ofQjxLaPcx_full.jpg)  
+[![](/hfs40k/images/2d1981b7b50cc7dac9ea8185c129c34e.webp)](https://web.archive.org/web/20111010175703/http://1.bp.blogspot.com/_cLI19EXK2oU/TJinVI9OO3I/AAAAAAAAA08/QYL8qbskWQk/s1600/Post-nothing-by-Japandroids_s-ofQjxLaPcx_full.jpg)  
 [lol p4k](https://web.archive.org/web/20111010175703/http://lix.in/-8dec49)  
   
 Password: haveanicelife

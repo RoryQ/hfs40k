@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Smog%20A%20River%20Ain
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-15-smog-a-river-aint-too-much-to-love-2005-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-15-smog-a-river-aint-too-much-to-love-2005-flac.webp)The Joanna Newsom post a few days ago reminded me to post this. I saw Smog and Joanna Newsom play a show a few years back that was just fantastic.
+[![](/hfs40k/images/covers/2009-08-15-smog-a-river-aint-too-much-to-love-2005-flac.webp)](/hfs40k/images/covers/2009-08-15-smog-a-river-aint-too-much-to-love-2005-flac.webp)The Joanna Newsom post a few days ago reminded me to post this. I saw Smog and Joanna Newsom play a show a few years back that was just fantastic.
 
 If you aren't into lyrics, you probably won't like this. Despite some lovely arrangements, it's Bill Callahan's gravelly voice and sad lyrics that keep the listener for the 50 minute duration of the album. If you aren't listening to his stories, the whole thing is a bit long and repetitive. I know this because I personally can't get enough of Smog, whereas my sister sat at the show waiting for him to get off stage so she could see Joanna.
 

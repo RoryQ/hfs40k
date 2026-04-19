@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Only%20a%20Mother%20Fe
 
 
 
-[![](/holyfuckingshit40000/images/014cf18554e626fcca4a982820086631.webp)](https://web.archive.org/web/20111010140155/http://1.bp.blogspot.com/_z8rLjrFVzbo/SmohWfKjKmI/AAAAAAAAAH8/vQP37ng3PTc/s1600-h/o894169.jpg)  
+[![](/hfs40k/images/014cf18554e626fcca4a982820086631.webp)](https://web.archive.org/web/20111010140155/http://1.bp.blogspot.com/_z8rLjrFVzbo/SmohWfKjKmI/AAAAAAAAAH8/vQP37ng3PTc/s1600-h/o894169.jpg)  
 One of the coolest avant-folk albums I've heard. They use a lot of unexpected instruments. Prayermad recommends it.  
   
 [Download FLAC](https://web.archive.org/web/20111010140155/http://lix.in/-4bfb5e)

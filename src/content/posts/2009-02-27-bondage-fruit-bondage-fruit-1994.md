@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bondage%20Fruit%20Bond
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-27-bondage-fruit-bondage-fruit-1994.webp)](/holyfuckingshit40000/images/covers/2009-02-27-bondage-fruit-bondage-fruit-1994.webp)  
+[![](/hfs40k/images/covers/2009-02-27-bondage-fruit-bondage-fruit-1994.webp)](/hfs40k/images/covers/2009-02-27-bondage-fruit-bondage-fruit-1994.webp)  
 Brutal Weeaboo Zeuhl  
   
 [Download](https://web.archive.org/web/20101203184331/http://www.mediafire.com/?ywztn4jyrmj) (192)

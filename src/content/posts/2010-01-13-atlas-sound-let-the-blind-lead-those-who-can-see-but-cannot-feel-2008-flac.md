@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Atlas%20Sound%20Let%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-13-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel-2008-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-13-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel-2008-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-13-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel-2008-flac.webp)](/hfs40k/images/covers/2010-01-13-atlas-sound-let-the-blind-lead-those-who-can-see-but-cannot-feel-2008-flac.webp)  
 If you like shoegaze/bradfordcox/deerhunter/lotus plaza/kranky/music you should probably...  
   
 [FLAC](https://web.archive.org/web/20111010123403/http://lix.in/-6e0965)

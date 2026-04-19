@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Information%20Biomekan
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-29-information-biomekano-2002-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-29-information-biomekano-2002-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-29-information-biomekano-2002-flac.webp)](/hfs40k/images/covers/2010-06-29-information-biomekano-2002-flac.webp)  
   
   
   

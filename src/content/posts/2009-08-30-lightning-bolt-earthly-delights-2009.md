@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Lightning%20Bolt%20Ear
 
 
 
-[![](/holyfuckingshit40000/images/74391d2f72ec02cff79a7bef854c6d02.webp)](https://web.archive.org/web/20111010145620/http://4.bp.blogspot.com/_cLI19EXK2oU/SpqyFKHPpSI/AAAAAAAAASw/jhPB2IPp3ts/s1600-h/lightingbolt.jpg)  
+[![](/hfs40k/images/74391d2f72ec02cff79a7bef854c6d02.webp)](https://web.archive.org/web/20111010145620/http://4.bp.blogspot.com/_cLI19EXK2oU/SpqyFKHPpSI/AAAAAAAAASw/jhPB2IPp3ts/s1600-h/lightingbolt.jpg)  
 This video sums everything up perfectly: [http://www.youtube.com/watch?v=j\_ekugPKqFw](https://web.archive.org/web/20111010145620/http://www.youtube.com/watch?v=j_ekugPKqFw)  
   
  [Download 320](https://web.archive.org/web/20111010145620/http://lix.in/-57ed51)

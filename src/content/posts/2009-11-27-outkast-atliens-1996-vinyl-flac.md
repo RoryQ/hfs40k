@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=OutKast%20ATLiens
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-27-outkast-atliens-1996-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-27-outkast-atliens-1996-vinyl-flac.webp)I'll be uploading a bunch of shit tonight to make up for my lack of posting recently.
+[![](/hfs40k/images/covers/2009-11-27-outkast-atliens-1996-vinyl-flac.webp)](/hfs40k/images/covers/2009-11-27-outkast-atliens-1996-vinyl-flac.webp)I'll be uploading a bunch of shit tonight to make up for my lack of posting recently.
 
 I'm starting off with some gangster shit.
 

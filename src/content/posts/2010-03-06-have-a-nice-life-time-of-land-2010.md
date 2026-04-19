@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life
 
 
 
-[![](/holyfuckingshit40000/images/bca06d4e5d62f30cdccb96aa496e9f9d.webp)](https://web.archive.org/web/20111010083259/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KUEkSce9I/AAAAAAAAAag/xqoXWzlgbQc/s1600-h/timeofland_big_cover.jpg)  
+[![](/hfs40k/images/bca06d4e5d62f30cdccb96aa496e9f9d.webp)](https://web.archive.org/web/20111010083259/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KUEkSce9I/AAAAAAAAAag/xqoXWzlgbQc/s1600-h/timeofland_big_cover.jpg)  
 "Time of Land is the name of an E.P. we kind of fell into while working on our next full-length album. It was sold in physical form only once: at our first show ever, at The Stone in NYC. About 50 tapes were sold that night.  
   
 Now, the E.P. is available for free to everyone who couldn't make it to the show, in digital form. Thank you very much, to everyone, for your continued and completely overwhelming support for us, our label, and our music. It is deeply, deeply appreciated.  

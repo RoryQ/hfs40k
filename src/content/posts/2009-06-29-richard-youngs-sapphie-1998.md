@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Richard%20Youngs%20Sap
 
 
 
-[![](/holyfuckingshit40000/images/859108051ff3f5ae38c42b47475ba23a.webp)](https://web.archive.org/web/20111010091011/http://2.bp.blogspot.com/_JdyrURA7JYI/SkjzpHufXLI/AAAAAAAAACg/E2JS6_7PkoM/s1600-h/sapphie.PNG)Think Galaxie 500 meets Nick Drake?  
+[![](/hfs40k/images/859108051ff3f5ae38c42b47475ba23a.webp)](https://web.archive.org/web/20111010091011/http://2.bp.blogspot.com/_JdyrURA7JYI/SkjzpHufXLI/AAAAAAAAACg/E2JS6_7PkoM/s1600-h/sapphie.PNG)Think Galaxie 500 meets Nick Drake?  
   
 [Download](https://web.archive.org/web/20111010091011/http://lix.in/-493a22) (157-180ish, still sounds fine you audiophiles :P)

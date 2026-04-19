@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20National%20Galle
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-15-the-national-gallery-performing-musical-interpretations-of-the-paintings-of-paul-klee-1968-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-15-the-national-gallery-performing-musical-interpretations-of-the-paintings-of-paul-klee-1968-flac.webp)As requested.  
+[![](/hfs40k/images/covers/2010-01-15-the-national-gallery-performing-musical-interpretations-of-the-paintings-of-paul-klee-1968-flac.webp)](/hfs40k/images/covers/2010-01-15-the-national-gallery-performing-musical-interpretations-of-the-paintings-of-paul-klee-1968-flac.webp)As requested.  
   
 'This Superbly Melodic and Strange Distillation of Pop, Folk, Psych and Jazz was Inspired by the Paintings of Paul Klee, and First Appeared in 1968. Despite Being Credited to a Proper Band, it was in Fact a Studio Recording Overseen by the Cleveland-based Team of Jazz Composer Chuck Mangione and Local Producerarranger Roger Karshner, who Called the Songs 'electronic Paintings'. The Album is Presented Here for the First Time on CD, Complete with Liner Notes and Two Rare Bonus Tracks from a PRE-LP 45 Credited to Bhagavad-gita"  
   

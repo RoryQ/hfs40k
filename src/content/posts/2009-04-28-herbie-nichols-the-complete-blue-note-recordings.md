@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Herbie%20Nichols%20The
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-28-herbie-nichols-the-complete-blue-note-recordings.webp)](/holyfuckingshit40000/images/covers/2009-04-28-herbie-nichols-the-complete-blue-note-recordings.webp)  
+[![](/hfs40k/images/covers/2009-04-28-herbie-nichols-the-complete-blue-note-recordings.webp)](/hfs40k/images/covers/2009-04-28-herbie-nichols-the-complete-blue-note-recordings.webp)  
 "Nobody out there has ever sounded like him, either before or after his death from leukemia in 1963. That is a tribute in itself. He has a completely original approach to composition and playing the piano that is unduplicatable.  
 I know that others have compared him to Monk, but this is superficial, in my mind. Herbie's tunes all have a classical feeling to them, even when he is playing "out of the box." The notes flow together like a classical piece, but most of his tunes are played with at least 2 or 3 notes out of the scale. Don't get me wrong, all of this music is distinctly recognizable as jazz, and great jazz! It feels to me like the compositions float above the key he is playing in, but at the same time there is a definable melody to each piece. The tunes all swing, many of them are catchy melodies, and I find myself smiling often while listening. It's just amazing!  
 It's very difficult to describe the feel of his stuff, it's like eating an exotic fruit that only exists on one small island in the whole world, then trying to describe the taste.  

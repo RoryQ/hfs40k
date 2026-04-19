@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Masta%20Killa%20No%20S
 
 
 
-[![](/holyfuckingshit40000/images/fb055e017d8816d21809a1dae6d91771.webp)](https://web.archive.org/web/20101203161855/http://4.bp.blogspot.com/_pqcGUSDUhi4/S6e2JBo2cbI/AAAAAAAAAA0/fl3uwicfyg8/s1600-h/cover.jpg)  
+[![](/hfs40k/images/fb055e017d8816d21809a1dae6d91771.webp)](https://web.archive.org/web/20101203161855/http://4.bp.blogspot.com/_pqcGUSDUhi4/S6e2JBo2cbI/AAAAAAAAAA0/fl3uwicfyg8/s1600-h/cover.jpg)  
   
   
   

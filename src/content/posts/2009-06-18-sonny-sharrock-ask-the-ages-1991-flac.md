@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonny%20Sharrock%20Ask
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-18-sonny-sharrock-ask-the-ages-1991-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-18-sonny-sharrock-ask-the-ages-1991-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-18-sonny-sharrock-ask-the-ages-1991-flac.webp)](/hfs40k/images/covers/2009-06-18-sonny-sharrock-ask-the-ages-1991-flac.webp)  
 Re-uploaded from the dead...this time in FLAC baby!  
   
 [Download](https://web.archive.org/web/20111010085353/http://lix.in/-50f7e0) (MU)  

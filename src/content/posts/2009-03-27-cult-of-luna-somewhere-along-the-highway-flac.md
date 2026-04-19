@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cult%20of%20Luna%20Som
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-27-cult-of-luna-somewhere-along-the-highway-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-27-cult-of-luna-somewhere-along-the-highway-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-27-cult-of-luna-somewhere-along-the-highway-flac.webp)](/hfs40k/images/covers/2009-03-27-cult-of-luna-somewhere-along-the-highway-flac.webp)  
 Post-metal is not a genre.  
 Great album though.  
   

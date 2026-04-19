@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Zombies%20Odesse
 
 
 
-[![](/holyfuckingshit40000/images/ebca56c66ea9849abf4d67a322ddfa95.webp)](/holyfuckingshit40000/images/ebca56c66ea9849abf4d67a322ddfa95.webp)  
+[![](/hfs40k/images/ebca56c66ea9849abf4d67a322ddfa95.webp)](/hfs40k/images/ebca56c66ea9849abf4d67a322ddfa95.webp)  
 "the only beatles album you'll ever need."  
   
 [FLAC](https://web.archive.org/web/20111008154910/http://lix.in/-4edca7)

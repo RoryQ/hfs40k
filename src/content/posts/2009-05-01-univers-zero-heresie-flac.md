@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Heres
 
 
 
-[![](/holyfuckingshit40000/images/ca9b03b838b007527fd2e74accbde639.webp)](https://web.archive.org/web/20111008154936/http://3.bp.blogspot.com/_z8rLjrFVzbo/SfrROvrk69I/AAAAAAAAAHE/EzsgaQti_xw/s1600-h/Univers+Zero+-+Heresie.jpg)  
+[![](/hfs40k/images/ca9b03b838b007527fd2e74accbde639.webp)](https://web.archive.org/web/20111008154936/http://3.bp.blogspot.com/_z8rLjrFVzbo/SfrROvrk69I/AAAAAAAAAHE/EzsgaQti_xw/s1600-h/Univers+Zero+-+Heresie.jpg)  
 *"Heresie* continues Univers Zero's unkempt iteration of Rock: taking the secular implications long-held in rock, applying the arsonists touch -- explosions. Shattered squealing crescendos, chunks of mistrewn ambiguous melodies, ritualistic chanting; prevelant evil expressed as sound.  
   
 Such an idea has been heard before: Romantic exploration, beyond the Classical consensus, brought us destructive force, each instrument drafted in the conspicuous compositional conspiracy; a war against order, the aftermath of vanquished calm; yes, ideas expressed before. Eventually "good" intentions were long forgotten. Composers began spouting elegies of destruction, woshipping Vile and her Wistfully Cruel Cohorts. Composers could no longer ignore it; Schoenberg declared it music; all the rest affirmed, and continue to affirm, their music as "a return", disguising the pathetic procrastinatory reaction of their motives.  

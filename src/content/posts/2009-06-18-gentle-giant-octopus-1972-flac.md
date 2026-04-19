@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Octop
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-18-gentle-giant-octopus-1972-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-18-gentle-giant-octopus-1972-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-18-gentle-giant-octopus-1972-flac.webp)](/hfs40k/images/covers/2009-06-18-gentle-giant-octopus-1972-flac.webp)  
 A challenging, but very rewarding listen. Gentle Giant's Magnum opus.  
   
 [Download](https://web.archive.org/web/20111010091411/http://lix.in/-541242) (MU)  

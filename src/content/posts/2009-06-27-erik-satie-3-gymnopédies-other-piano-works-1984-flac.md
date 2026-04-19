@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Erik%20Satie%203%20Gym
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-27-erik-satie-3-gymnopédies-other-piano-works-1984-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-27-erik-satie-3-gymnopédies-other-piano-works-1984-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-27-erik-satie-3-gymnopédies-other-piano-works-1984-flac.webp)](/hfs40k/images/covers/2009-06-27-erik-satie-3-gymnopédies-other-piano-works-1984-flac.webp)  
 Ambient? HAHA, that shit's for kids man. Furniture music, now that's REAL background music.  
  [Download](https://web.archive.org/web/20111123021352/http://lix.in/-4f2b8e) (MU)  
 [Download](https://web.archive.org/web/20111123021352/http://lix.in/-50b22f) (MF)

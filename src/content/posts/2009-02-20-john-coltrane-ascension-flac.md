@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Asce
 
 
 
-[![](/holyfuckingshit40000/images/dd384b8a74b578d127875516f93cbdd6.webp)](/holyfuckingshit40000/images/dd384b8a74b578d127875516f93cbdd6.webp)  
+[![](/hfs40k/images/dd384b8a74b578d127875516f93cbdd6.webp)](/hfs40k/images/dd384b8a74b578d127875516f93cbdd6.webp)  
   
   
 And another FLAC request filled! Expect many more within the next few days.  

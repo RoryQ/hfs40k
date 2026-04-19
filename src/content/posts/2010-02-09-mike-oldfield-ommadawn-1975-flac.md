@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mike%20Oldfield%20Omma
 
 
 
-[![](/holyfuckingshit40000/images/bac5f920123dfcf7fc5153fb917fc1fb.webp)](https://web.archive.org/web/20111010155831/http://1.bp.blogspot.com/_5cVyPU93ihM/S3EqwSCMRYI/AAAAAAAAAOo/hPNJiQ6tNAo/s1600-h/00+-+Ommadawn-Front.jpg)  
+[![](/hfs40k/images/bac5f920123dfcf7fc5153fb917fc1fb.webp)](https://web.archive.org/web/20111010155831/http://1.bp.blogspot.com/_5cVyPU93ihM/S3EqwSCMRYI/AAAAAAAAAOo/hPNJiQ6tNAo/s1600-h/00+-+Ommadawn-Front.jpg)  
 Re-upped since old link died ages ago.  
   
 "While the sophomore jinx hit Oldfield with "Hergest Ridge", he effectively banished all demons with "Ommadawn", a hauntingly varied effort in which he scales back both quantity (to a normal LP length) and his own insistence on utter domination of every aspect of the sonic spectrum. As a result, it is a far more compelling and dynamic work than "Hergest" while more focused than TB. It is in a large sense an amalgamation of the best of both releases.

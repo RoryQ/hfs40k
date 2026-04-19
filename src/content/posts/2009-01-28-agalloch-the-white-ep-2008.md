@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Agalloch%20The%20White
 
 
 
-[![](/holyfuckingshit40000/images/802af15b9a7eca9fcdecb3866812b8b4.webp)](/holyfuckingshit40000/images/802af15b9a7eca9fcdecb3866812b8b4.webp)  
+[![](/hfs40k/images/802af15b9a7eca9fcdecb3866812b8b4.webp)](/hfs40k/images/802af15b9a7eca9fcdecb3866812b8b4.webp)  
 Genre: Hipster Neofolk  
 Country: U.S.  
   

@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Caspian%20Tertia
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-31-caspian-tertia-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-31-caspian-tertia-flac.webp)[download flac](https://web.archive.org/web/20111010154933/http://lix.in/-6264ab)
+[![](/hfs40k/images/covers/2009-12-31-caspian-tertia-flac.webp)](/hfs40k/images/covers/2009-12-31-caspian-tertia-flac.webp)[download flac](https://web.archive.org/web/20111010154933/http://lix.in/-6264ab)

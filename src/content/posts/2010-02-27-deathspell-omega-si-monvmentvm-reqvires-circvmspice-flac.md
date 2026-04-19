@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Deathspell%20Omega%20S
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-27-deathspell-omega-si-monvmentvm-reqvires-circvmspice-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-27-deathspell-omega-si-monvmentvm-reqvires-circvmspice-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-27-deathspell-omega-si-monvmentvm-reqvires-circvmspice-flac.webp)](/hfs40k/images/covers/2010-02-27-deathspell-omega-si-monvmentvm-reqvires-circvmspice-flac.webp)  
   
 In a genre torn between elitists and innovators that so often alienate each other, "Si Monumentum Requires, Circumspice" is an immense breath of fresh air that unites the two. This is underground and minimalist enough to appease the traditional fans, yet it's also creative and unique enough to make you re-think what potential black metal really can have. Deathspell Omega carries a message of theistic Satanism that is marvelously translated into their music as well as their lyrics. Their subject matter is among the most intelligent in black metal, writing in a philosophical manner that uses, twists and perverts Christianity in a brilliantly ironic way. Their music is also very fitting and complementary to their message, sounding as if it is being played "through" them as vessels for an unseen force. You have never heard anything like this before, I am quite certain.  
   

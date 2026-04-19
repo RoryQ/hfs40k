@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Carbon%20Based%20Lifef
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-13-carbon-based-lifeforms-hydroponic-garden-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-13-carbon-based-lifeforms-hydroponic-garden-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-13-carbon-based-lifeforms-hydroponic-garden-flac.webp)](/hfs40k/images/covers/2010-04-13-carbon-based-lifeforms-hydroponic-garden-flac.webp)  
 [link](https://web.archive.org/web/20100421012641/http://lix.in/-73d35d) / password: hfs.

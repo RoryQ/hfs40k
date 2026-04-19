@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yoko%20Kanno%20Wolf%27
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-30-yoko-kanno-wolfs-rain-ost-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-30-yoko-kanno-wolfs-rain-ost-flac.webp)  
+[![](/hfs40k/images/covers/2009-12-30-yoko-kanno-wolfs-rain-ost-flac.webp)](/hfs40k/images/covers/2009-12-30-yoko-kanno-wolfs-rain-ost-flac.webp)  
 download flac: [disc 1](https://web.archive.org/web/20111010153221/http://lix.in/-6b4ef5) / [disc 2](https://web.archive.org/web/20111010153221/http://lix.in/-66bbe4)  
   
 v0: [disc 1](https://web.archive.org/web/20111010153221/http://www.mediafire.com/?mjlgtgggddk) / [disc 2](https://web.archive.org/web/20111010153221/http://www.mediafire.com/?34jhkjobwmm)

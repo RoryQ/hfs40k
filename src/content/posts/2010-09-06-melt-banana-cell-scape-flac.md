@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Melt%20Banana%20-%20%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-06-melt-banana-cell-scape-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-06-melt-banana-cell-scape-flac.webp)  
+[![](/hfs40k/images/covers/2010-09-06-melt-banana-cell-scape-flac.webp)](/hfs40k/images/covers/2010-09-06-melt-banana-cell-scape-flac.webp)  
   
 MELT - FUCKING - BANANA  
  [Reuploaded by request](https://web.archive.org/web/20111010175519/http://lix.in/-8e55cc)  

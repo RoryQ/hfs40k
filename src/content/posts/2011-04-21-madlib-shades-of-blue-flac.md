@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Madlib%20Shades%20of%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-21-madlib-shades-of-blue-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-21-madlib-shades-of-blue-flac.webp)
+[![](/hfs40k/images/covers/2011-04-21-madlib-shades-of-blue-flac.webp)](/hfs40k/images/covers/2011-04-21-madlib-shades-of-blue-flac.webp)
 
 2003/Blue Note Records
 
@@ -26,7 +26,7 @@ Madlib remixes various Blue Note artists for an amazing hip-hop/jazz fusion albu
 
 **The Last Electro-Acoustic Space Jazz & Percussion Ensemble - Summer Suite**
 
-![](/holyfuckingshit40000/images/8864df9ab9c44faa30285f2e4c52193d.webp)
+![](/hfs40k/images/8864df9ab9c44faa30285f2e4c52193d.webp)
 
 2007/Stones Throw
 

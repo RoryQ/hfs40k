@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=...And%20You%20Will%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-25-and-you-will-know-us-by-the-trail-of-dead-source-tags-codes-flacv0.webp)](/holyfuckingshit40000/images/covers/2009-12-25-and-you-will-know-us-by-the-trail-of-dead-source-tags-codes-flacv0.webp)Somehow mashes interwoven guitar melodies (common in post-rock) hardcore breakdowns, and really aggressive and original songwriting. If you want to dive into modern prog or more engaging post-hardcore, this is worth a shot.  
+[![](/hfs40k/images/covers/2009-12-25-and-you-will-know-us-by-the-trail-of-dead-source-tags-codes-flacv0.webp)](/hfs40k/images/covers/2009-12-25-and-you-will-know-us-by-the-trail-of-dead-source-tags-codes-flacv0.webp)Somehow mashes interwoven guitar melodies (common in post-rock) hardcore breakdowns, and really aggressive and original songwriting. If you want to dive into modern prog or more engaging post-hardcore, this is worth a shot.  
   
 [Download FLAC](https://web.archive.org/web/20111010155353/http://lix.in/-65ccde) // \\ [Download v0](https://web.archive.org/web/20111010155353/http://lix.in/-67537f)

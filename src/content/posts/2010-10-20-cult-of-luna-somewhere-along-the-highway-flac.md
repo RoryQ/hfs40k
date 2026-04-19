@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cult%20Of%20Luna%20Som
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-20-cult-of-luna-somewhere-along-the-highway-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-20-cult-of-luna-somewhere-along-the-highway-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-20-cult-of-luna-somewhere-along-the-highway-flac.webp)](/hfs40k/images/covers/2010-10-20-cult-of-luna-somewhere-along-the-highway-flac.webp)  
 [iPaet's request](https://web.archive.org/web/20111010112333/http://www.megaupload.com/?d=5M83N2VC)  
   
 Password: haveanicelife

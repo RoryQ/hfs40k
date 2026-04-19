@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wolves%20In%20The%20Th
 
 
 
-[![](/holyfuckingshit40000/images/498bfb4afa54ad41a96baddc6f18b601.webp)](/holyfuckingshit40000/images/498bfb4afa54ad41a96baddc6f18b601.webp)  
+[![](/hfs40k/images/498bfb4afa54ad41a96baddc6f18b601.webp)](/hfs40k/images/498bfb4afa54ad41a96baddc6f18b601.webp)  
 Genre: Hipster Black Metal  
 Country: U.S.  
   

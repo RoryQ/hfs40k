@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Autechre%20Incunabula
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-10-autechre-incunabula-1993-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-10-autechre-incunabula-1993-flac.webp)
+[![](/hfs40k/images/covers/2009-06-10-autechre-incunabula-1993-flac.webp)](/hfs40k/images/covers/2009-06-10-autechre-incunabula-1993-flac.webp)
 
 Autechre before they discovered whirring noises.
 

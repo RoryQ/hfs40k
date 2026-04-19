@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Divine%20Comedy%
 
 
 
-[![](/holyfuckingshit40000/images/534fbed566380ef419eb1b6701be36b7.webp)](/holyfuckingshit40000/images/534fbed566380ef419eb1b6701be36b7.webp)
+[![](/hfs40k/images/534fbed566380ef419eb1b6701be36b7.webp)](/hfs40k/images/534fbed566380ef419eb1b6701be36b7.webp)
 
 1. In Pursuit of Happiness
 

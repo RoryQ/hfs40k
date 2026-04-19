@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Lightning%20Bolt%20Won
 
 
 
-[![](/holyfuckingshit40000/images/74f33b7f348b5ad9939039e0d8b40212.webp)](https://web.archive.org/web/20111010050049/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WlDf5p90I/AAAAAAAAAf0/_ccObDIWuGw/s1600/wonderful-rainbow.jpg)  
+[![](/hfs40k/images/74f33b7f348b5ad9939039e0d8b40212.webp)](https://web.archive.org/web/20111010050049/http://2.bp.blogspot.com/_cLI19EXK2oU/S9WlDf5p90I/AAAAAAAAAf0/_ccObDIWuGw/s1600/wonderful-rainbow.jpg)  
 Oh Jeebus, this is one intense album. For those unfamiliar with Lightning Bolt, the loud, hard-pounding Wonderful Rainbow should serve as a suitable introduction to this manic drum-and-bass duo. There may only be two instruments being played, and a few wordless vocals scattered throughout, but Wonderful Rainbow is anything but minimal. This is one busy album, filled with dense, complex, and occasionally playful pieces of noise rock that will have you banging your head in no time at all.   
   
 If you ever thought a bass couldn't be used as a lead instrument, this album will provide you with a resounding rebuttal, as Brian Gibson finds more uses for the instrument than you might think possible. His work here ranges from big fuzzed-out riffs to screeching bouts of feedback and everything in between, while Brian Chippendale contributes some drumbeats that you'd have to send away to NASA to calculate. Go ahead, try to sit still while listening to the crazed intro to 30000 Monkeys. I dare you.   

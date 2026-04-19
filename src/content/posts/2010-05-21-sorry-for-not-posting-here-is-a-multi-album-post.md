@@ -18,11 +18,11 @@ youtube_url: https://www.youtube.com/results?search_query=sorry%20for%20not%20po
 
 
 
-[![](/holyfuckingshit40000/images/29d3984ae5f165bf7403a9efef7dc699.webp)](https://web.archive.org/web/20111010095206/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-Hj176BvrI/AAAAAAAAAkI/DIsOIyJcanQ/s1600/23Dream_Letter_Live_In_London_Front_Cover.jpg)
+[![](/hfs40k/images/29d3984ae5f165bf7403a9efef7dc699.webp)](https://web.archive.org/web/20111010095206/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-Hj176BvrI/AAAAAAAAAkI/DIsOIyJcanQ/s1600/23Dream_Letter_Live_In_London_Front_Cover.jpg)
 
 Gonna upload it in FLAC but for now, [get it here v0](https://web.archive.org/web/20111010095206/http://lix.in/-7d1363)
 
-[![](/holyfuckingshit40000/images/ded842d80f459c2f98ff54e2da9c0430.webp)](https://web.archive.org/web/20111010095206/http://1.bp.blogspot.com/_bIgHZQu-UEA/S8pAlXL3I4I/AAAAAAAAAgA/XdZGlQ0peLI/s1600/PhilipGlass-SoloPiano-front.jpg)
+[![](/hfs40k/images/ded842d80f459c2f98ff54e2da9c0430.webp)](https://web.archive.org/web/20111010095206/http://1.bp.blogspot.com/_bIgHZQu-UEA/S8pAlXL3I4I/AAAAAAAAAgA/XdZGlQ0peLI/s1600/PhilipGlass-SoloPiano-front.jpg)
 
 I wouldn't listen to Philip Glass very often if it weren't for his *Solo Piano*. Everything people criticise minimalism for is accentuated here by his use of a solo piano; the repetition, the soullessness.... but the great irony for me is that in stripping down the already soulless landscape of Glass' signature sound, he creates some of the most melancholic and yet exciting 'modern classical' music I'm yet to hear, without committing any of the sentimental modern classical clichés of I dunno Max Richter, Library Tapes or another name that will offend people so I won't mention.
 
@@ -30,7 +30,7 @@ I wouldn't listen to Philip Glass very often if it weren't for his *Solo Piano*.
 
 [v0](https://web.archive.org/web/20111010095206/http://lix.in/-7f2c28)
 
-[![](/holyfuckingshit40000/images/9a82ebc47ef6124dad39a97fb8f1ffad.webp)](/holyfuckingshit40000/images/bdab54c163712d7ca68ff38246330aab.webp)
+[![](/hfs40k/images/9a82ebc47ef6124dad39a97fb8f1ffad.webp)](/hfs40k/images/bdab54c163712d7ca68ff38246330aab.webp)
 
 Metallic Falcons
 
@@ -45,7 +45,7 @@ This is where Metallic Falcons come in. Gone is the Bjork sister! What remains i
 [v0](https://web.archive.org/web/20111010095206/http://lix.in/-848e71)
 
   
-[![](/holyfuckingshit40000/images/e034d4afcbb57bdd098d3ce58643af50.webp)](/holyfuckingshit40000/images/95318eb0a68359c0a0cac2878ae0c475.webp)  
+[![](/hfs40k/images/e034d4afcbb57bdd098d3ce58643af50.webp)](/hfs40k/images/95318eb0a68359c0a0cac2878ae0c475.webp)  
 
 When I first heard this, it kinda reminded me of Smog.
 
@@ -58,7 +58,7 @@ I don't like any of his other albums, this one is the most *indie rock*. The oth
 [v0](https://web.archive.org/web/20111010095206/http://lix.in/-7e72e9)
 
   
-[![](/holyfuckingshit40000/images/864d0a5c446625e6fb4e7dd3ff1d7c11.webp)](https://web.archive.org/web/20111010095206/http://3.bp.blogspot.com/_bIgHZQu-UEA/S-XZbD7vPzI/AAAAAAAAAkw/_FyCsjN28Ao/s1600/ranblake-jeannelee450.jpg)
+[![](/hfs40k/images/864d0a5c446625e6fb4e7dd3ff1d7c11.webp)](https://web.archive.org/web/20111010095206/http://3.bp.blogspot.com/_bIgHZQu-UEA/S-XZbD7vPzI/AAAAAAAAAkw/_FyCsjN28Ao/s1600/ranblake-jeannelee450.jpg)
 
 Jeanne Lee & Ran Blake
 
@@ -69,7 +69,7 @@ Jeanne Lee & Ran Blake
 [Hurrr](https://web.archive.org/web/20111010095206/http://lix.in/-7f1394)
 
   
-[![](/holyfuckingshit40000/images/b2ccb1aafcfdb1387a622a4cfba3ff0a.webp)](https://web.archive.org/web/20111010095206/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-zleS30s5I/AAAAAAAAAm0/0hG5jY3aN4o/s1600/31BTNS2X82L._SL600_.jpg)
+[![](/hfs40k/images/b2ccb1aafcfdb1387a622a4cfba3ff0a.webp)](https://web.archive.org/web/20111010095206/http://4.bp.blogspot.com/_bIgHZQu-UEA/S-zleS30s5I/AAAAAAAAAm0/0hG5jY3aN4o/s1600/31BTNS2X82L._SL600_.jpg)
 
 *Banquo: It will be rain tonight.*
 

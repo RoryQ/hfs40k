@@ -13,4 +13,4 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/27886914268df2dc04d55fe893da610e.webp)](https://web.archive.org/web/20111010081834/http://4.bp.blogspot.com/_JdyrURA7JYI/S6KpYJ8T7ZI/AAAAAAAAAPI/kGzuBbbDCrg/s1600-h/nujabes.PNG)NEVER FORGET
+[![](/hfs40k/images/27886914268df2dc04d55fe893da610e.webp)](https://web.archive.org/web/20111010081834/http://4.bp.blogspot.com/_JdyrURA7JYI/S6KpYJ8T7ZI/AAAAAAAAAPI/kGzuBbbDCrg/s1600-h/nujabes.PNG)NEVER FORGET

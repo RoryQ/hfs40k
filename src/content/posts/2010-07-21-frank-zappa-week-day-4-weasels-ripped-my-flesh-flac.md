@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-21-frank-zappa-week-day-4-weasels-ripped-my-flesh-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-21-frank-zappa-week-day-4-weasels-ripped-my-flesh-flac.webp)  
+[![](/hfs40k/images/covers/2010-07-21-frank-zappa-week-day-4-weasels-ripped-my-flesh-flac.webp)](/hfs40k/images/covers/2010-07-21-frank-zappa-week-day-4-weasels-ripped-my-flesh-flac.webp)  
 \_Weasels Ripped My Flesh\_ is a Frank Zappa & The Mothers Of Invention disc that combines both live and studio material recorded between 1967-1969. This material I believe is not found on their studio albums that came before this one. The combination of loose jazz improvisation, relentless experimentation and musical adventurousness will irritate and baffle many listeners who are accustomed to easy pop/rock or the like. However, amongst all the chaos, there are a few tracks that can be considered accessible. These tracks would be:   
   
 "Directly From My Heart To You"--A bluesy cover of a Little Richard track.  

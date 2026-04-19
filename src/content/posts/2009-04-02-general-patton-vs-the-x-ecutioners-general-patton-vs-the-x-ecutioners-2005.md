@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=General%20Patton%20vs.
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-02-general-patton-vs-the-x-ecutioners-general-patton-vs-the-x-ecutioners-2005.webp)](/holyfuckingshit40000/images/covers/2009-04-02-general-patton-vs-the-x-ecutioners-general-patton-vs-the-x-ecutioners-2005.webp)  
+[![](/hfs40k/images/covers/2009-04-02-general-patton-vs-the-x-ecutioners-general-patton-vs-the-x-ecutioners-2005.webp)](/hfs40k/images/covers/2009-04-02-general-patton-vs-the-x-ecutioners-general-patton-vs-the-x-ecutioners-2005.webp)  
 Mike Patton.  
   
 [Download (v0)](https://web.archive.org/web/20111010130800/http://www.mediafire.com/?kzjml5mzhjz)  

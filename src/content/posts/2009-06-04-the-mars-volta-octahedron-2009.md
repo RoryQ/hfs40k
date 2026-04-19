@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Mars%20Volta%20O
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-04-the-mars-volta-octahedron-2009.webp)](/holyfuckingshit40000/images/covers/2009-06-04-the-mars-volta-octahedron-2009.webp)Nonsensical lyrics where are you???  
+[![](/hfs40k/images/covers/2009-06-04-the-mars-volta-octahedron-2009.webp)](/hfs40k/images/covers/2009-06-04-the-mars-volta-octahedron-2009.webp)Nonsensical lyrics where are you???  
   
 [v2](https://web.archive.org/web/20111010085405/http://www.mediafire.com/?im2zkm22j4k)

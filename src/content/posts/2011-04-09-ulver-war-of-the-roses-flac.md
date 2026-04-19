@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ulver%20War%20of%20the
 
 
 
-[![](/holyfuckingshit40000/images/5b7c2f2494b9d7d831d441eab83f1c7d.webp)](https://web.archive.org/web/20111010145957/http://1.bp.blogspot.com/-NZ1uOOGQR0w/TaEePDP9W8I/AAAAAAAAAIw/9TMqJHERVqo/s1600/Cover.jpg)
+[![](/hfs40k/images/5b7c2f2494b9d7d831d441eab83f1c7d.webp)](https://web.archive.org/web/20111010145957/http://1.bp.blogspot.com/-NZ1uOOGQR0w/TaEePDP9W8I/AAAAAAAAAIw/9TMqJHERVqo/s1600/Cover.jpg)
 
 Assuming those who appeciated the MP3 rip Karppaky posted a few days ago would like this.
 

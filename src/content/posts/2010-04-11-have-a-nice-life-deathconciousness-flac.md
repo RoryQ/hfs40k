@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life
 
 
 
-[![](/holyfuckingshit40000/images/77a593ba34f05e478e9450cf7326827c.webp)](https://web.archive.org/web/20111010045041/http://1.bp.blogspot.com/_cLI19EXK2oU/SilemqnLLZI/AAAAAAAAAIw/eaa6vQd6eiU/s1600-h/deathconciousnessig9.jpg)  
+[![](/hfs40k/images/77a593ba34f05e478e9450cf7326827c.webp)](https://web.archive.org/web/20111010045041/http://1.bp.blogspot.com/_cLI19EXK2oU/SilemqnLLZI/AAAAAAAAAIw/eaa6vQd6eiU/s1600-h/deathconciousnessig9.jpg)  
 Reup'd by HalfAwake's request  
   
 [FLAC](https://web.archive.org/web/20111010045041/http://lix.in/-8145aa)  

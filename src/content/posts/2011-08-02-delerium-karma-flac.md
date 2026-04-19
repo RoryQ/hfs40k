@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Delerium%20Karma
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-08-02-delerium-karma-flac.webp)](/holyfuckingshit40000/images/covers/2011-08-02-delerium-karma-flac.webp)  
+[![](/hfs40k/images/covers/2011-08-02-delerium-karma-flac.webp)](/hfs40k/images/covers/2011-08-02-delerium-karma-flac.webp)  
 [Silence](https://web.archive.org/web/20111008170603/http://lix.in/-a3d404)  
   
 Password haveanicelife

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Karuk
 
 
 
-[![](/holyfuckingshit40000/images/79cbfd81736fe54651607e0b57ee1b3d.webp)](/holyfuckingshit40000/images/79cbfd81736fe54651607e0b57ee1b3d.webp)  
+[![](/hfs40k/images/79cbfd81736fe54651607e0b57ee1b3d.webp)](/hfs40k/images/79cbfd81736fe54651607e0b57ee1b3d.webp)  
 Her name is Shiina Ringo, and she sings about DEEP subject matter. Just listen for a second.  
   
 Note: Track 11 is corrupt, so use the second link for it.  

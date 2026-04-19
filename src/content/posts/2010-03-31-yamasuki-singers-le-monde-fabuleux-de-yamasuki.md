@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yamasuki%20Singers%20L
 
 
 
-[![](/holyfuckingshit40000/images/797e846a636018d35f3a631fa98c2445.webp)](https://web.archive.org/web/20111010083403/http://2.bp.blogspot.com/_cLI19EXK2oU/S7QfsWKitlI/AAAAAAAAAc0/bitmYUT850o/s1600/286535.jpg)  
+[![](/hfs40k/images/797e846a636018d35f3a631fa98c2445.webp)](https://web.archive.org/web/20111010083403/http://2.bp.blogspot.com/_cLI19EXK2oU/S7QfsWKitlI/AAAAAAAAAc0/bitmYUT850o/s1600/286535.jpg)  
   
 This album sounds like Serge Gainsbourg conducting the Langley Schools Music Project through a rendition of the Mikado. While such a pairing may sound like a supremely bad idea (especially if there were any cute girls at the Langley School and Gainsbourg just broke up with Jane Birkin), the sound on this album is really diggable.  
   

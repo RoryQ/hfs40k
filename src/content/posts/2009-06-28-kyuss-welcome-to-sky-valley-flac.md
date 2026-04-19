@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kyuss%20Welcome%20To%2
 
 
 
-[![](/holyfuckingshit40000/images/f47199a3182fec89a7bfe4440e17ca45.webp)](https://web.archive.org/web/20111010091553/http://3.bp.blogspot.com/_cLI19EXK2oU/SkeOGew8mEI/AAAAAAAAAM4/7TZsiQN7qQo/s1600-h/kyuss.jpg)  
+[![](/hfs40k/images/f47199a3182fec89a7bfe4440e17ca45.webp)](https://web.archive.org/web/20111010091553/http://3.bp.blogspot.com/_cLI19EXK2oU/SkeOGew8mEI/AAAAAAAAAM4/7TZsiQN7qQo/s1600-h/kyuss.jpg)  
 Thanks to [Stotch](https://web.archive.org/web/20111010091553/http://rateyourmusic.com/%7Estotch326) for the upload! Blues for the Red Sun coming later tonight.  
   
   

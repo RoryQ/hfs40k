@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tegan%20and%20Sara%20T
 
 
 
-[![](/holyfuckingshit40000/images/17c5a6ad8d3c7465abe66fb166cd1445.webp)](https://web.archive.org/web/20111010045704/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WofN_r6cI/AAAAAAAAAgU/AxjbzJda5S4/s1600/The_Con.jpg)  
+[![](/hfs40k/images/17c5a6ad8d3c7465abe66fb166cd1445.webp)](https://web.archive.org/web/20111010045704/http://3.bp.blogspot.com/_cLI19EXK2oU/S9WofN_r6cI/AAAAAAAAAgU/AxjbzJda5S4/s1600/The_Con.jpg)  
 How do you follow an album like "So Jealous," an album that not only helped solidify Tegan and Sara's place as one of the decade's most notable indie pop/rock acts, but also helped define their career? How do you follow the sheer, raw enjoyment that was found over every second of such a fantastic record? For the Quin sisters, the answer is "The Con," their newest and, in my opinion, best album.  
   
 On "The Con," Tegan and Sara show that they've matured a lot since their last outing, not only musically, but lyrically as well. Whereas "So Jealous" was largely a fast-paced rock album, this one is much more balanced. There are clearly songs that sound like classic Tegan and Sara, but at the same time there are also some beautifully composed and executed songs. Almost every track on the album features multiple layers of guitars and synthesizers. "Relief Next To Me" showcases this addition quite nicely, as does "Knife Going In" and the absolutely awesome title track. "Are You Ten Years Ago" forgoes the typical drum set for an electronic drum track, and the end result is a more effective song than it would've been otherwise.  

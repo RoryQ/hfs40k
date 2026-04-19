@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Riverside%20Second%20L
 
 
 
-[![](/holyfuckingshit40000/images/229dca791bde40a29574011f9ad7bbe8.webp)](/holyfuckingshit40000/images/229dca791bde40a29574011f9ad7bbe8.webp)  
+[![](/hfs40k/images/229dca791bde40a29574011f9ad7bbe8.webp)](/hfs40k/images/229dca791bde40a29574011f9ad7bbe8.webp)  
 Second Life Syndrome is the second full length album by progressive rock band Riverside, released on November 8, 2005. This second release garnered quite as much praise as Out of Myself and was released on the large prog rock Label InsideOut. Second Life Syndrome has a noticeably more raw and heavy feel than Out of Myself which in general was much more laid back and mellow. The title track has been said in one radio interview to be one of the best songs to sum up Riverside's sound. The song contains three parts: A slightly aggressive first part, a mellow and quiet second part, and an instrumental third part. This album is the second part of the Reality Dream trilogy which would explain the first and last track's titles; Second Life Syndrome comes after Out of Myself but before Rapid Eye Movement.  
   
 [FLAC](https://web.archive.org/web/20111008154920/http://lix.in/-53708a)  

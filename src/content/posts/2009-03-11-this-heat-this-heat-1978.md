@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=This%20Heat%20This%20H
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-11-this-heat-this-heat-1978.webp)](/holyfuckingshit40000/images/covers/2009-03-11-this-heat-this-heat-1978.webp)  
+[![](/hfs40k/images/covers/2009-03-11-this-heat-this-heat-1978.webp)](/hfs40k/images/covers/2009-03-11-this-heat-this-heat-1978.webp)  
 "If you take some of the stellar moments from Faust, drop them onto a factory floor and infuse it with a fierce kind of intelligence, you get one of the best recordings ever made. Not that This Heat compares with anything before or since. Mad and stunningly beautiful, hoarse and smooth, sparse and lush, this stuff can only be the concious recognition of an utterly unconcious music: close your eyes and see the order within the chaos."  
   
 [Download](https://web.archive.org/web/20111010170706/http://www.mediafire.com/?zolyzzyjxtn)

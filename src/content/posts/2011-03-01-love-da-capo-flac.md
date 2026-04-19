@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Love%20Da%20Capo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-01-love-da-capo-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-01-love-da-capo-flac.webp)  
+[![](/hfs40k/images/covers/2011-03-01-love-da-capo-flac.webp)](/hfs40k/images/covers/2011-03-01-love-da-capo-flac.webp)  
 After the excellent, self-titled debut, it was hard to imagine that Arthur Lee and LOVE could top their pro-punkish selves on their second effort. While "Da Capo" is not as hard-edged and raw as "Love" was, it still packs plenty of punch.  
   
 This album is worth buying just for the over-the-top rampage of "7 And 7 Is." This track alone is so far ahead of its time (an influential to boot) it became a true blueprint for what the punks of the 70's were trying to build on. The Sex Pistols, Ramones, Television and Clash all owed a lot of their material and sound to this song and this band. (Their have been many excellent covers of this song; the best being from Alice Cooper on 1981's "Special Forces.")  

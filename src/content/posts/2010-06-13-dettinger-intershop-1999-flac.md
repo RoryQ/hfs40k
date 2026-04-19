@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dettinger%20Intershop
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-13-dettinger-intershop-1999-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-13-dettinger-intershop-1999-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-13-dettinger-intershop-1999-flac.webp)](/hfs40k/images/covers/2010-06-13-dettinger-intershop-1999-flac.webp)  
   
   
   

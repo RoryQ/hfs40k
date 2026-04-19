@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Carl%20Craig%20More%20
 
 
 
-[![](/holyfuckingshit40000/images/bd413fd13d297fd717bd7ca8ba6913b1.webp)](/holyfuckingshit40000/images/bd413fd13d297fd717bd7ca8ba6913b1.webp)  
+[![](/hfs40k/images/bd413fd13d297fd717bd7ca8ba6913b1.webp)](/hfs40k/images/bd413fd13d297fd717bd7ca8ba6913b1.webp)  
   
   
   

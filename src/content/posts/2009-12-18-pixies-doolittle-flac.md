@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Pixies%20Doolittle
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-18-pixies-doolittle-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-18-pixies-doolittle-flac.webp)No description needed.  
+[![](/hfs40k/images/covers/2009-12-18-pixies-doolittle-flac.webp)](/hfs40k/images/covers/2009-12-18-pixies-doolittle-flac.webp)No description needed.  
  [Enjoy](https://web.archive.org/web/20111010155405/http://lix.in/-6604ed)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Moby%20Play
 
 
 
-[![](/holyfuckingshit40000/images/8bd9db9b1d05d64339683aa890ac54c6.webp)](https://web.archive.org/web/20111010121308/http://1.bp.blogspot.com/_cLI19EXK2oU/SvyKWb9dFjI/AAAAAAAAAVo/c9Pt5bzGyTk/s1600-h/Moby_play.JPG)  
+[![](/hfs40k/images/8bd9db9b1d05d64339683aa890ac54c6.webp)](https://web.archive.org/web/20111010121308/http://1.bp.blogspot.com/_cLI19EXK2oU/SvyKWb9dFjI/AAAAAAAAAVo/c9Pt5bzGyTk/s1600-h/Moby_play.JPG)  
   
 Moby has a long history of being one of the more popular DJ acts on the club scene. His ability to mix all manner of sounds to create some of the most infectiously catchy electronica music earned him an ardent, albeit small, cult following. The electronica/techno genre doesn't generally lend itself to widespread, mainstream acceptance. In an attempt to attract a much larger audience, Moby executed a unique strategy for promoting his multi-platinum breakout album "Play". As most of the tracks on "Play" aren't necessarily what the typical radio program director would consider to be 'radio-friendly', Moby got a large number of "Play"'s tracks to be attached to television commercials. TV commercials are a medium that does not need to conform to any specific musical format. As a result, these songs were made accessible to the general public, which developed a fervent interest in the songs and the artist. This ingenious marketing campaign led to "Play" selling a ridiculously high number of albums. One of the most notable commercials was for Tiger Woods and Nike Golf where Tiger is playing golf all across downtown Manhattan to tune "Find My Baby", track #2 on "Play".  
   

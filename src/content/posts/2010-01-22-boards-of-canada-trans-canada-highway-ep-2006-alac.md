@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-22-boards-of-canada-trans-canada-highway-ep-2006-alac.webp)](/holyfuckingshit40000/images/covers/2010-01-22-boards-of-canada-trans-canada-highway-ep-2006-alac.webp)  
+[![](/hfs40k/images/covers/2010-01-22-boards-of-canada-trans-canada-highway-ep-2006-alac.webp)](/hfs40k/images/covers/2010-01-22-boards-of-canada-trans-canada-highway-ep-2006-alac.webp)  
 as requested by general\_tso  
 [ALAC](https://web.archive.org/web/20111010123743/http://lix.in/-6fffa9)

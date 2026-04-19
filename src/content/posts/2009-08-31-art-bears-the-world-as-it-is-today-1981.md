@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Art%20Bears%20The%20Wo
 
 
 
-[![](/holyfuckingshit40000/images/b413546f5d8fa5523fb2813b7e953cf7.webp)](https://web.archive.org/web/20111010145111/http://3.bp.blogspot.com/_JdyrURA7JYI/SpxL-yj5euI/AAAAAAAAAHA/S8uokn98f9M/s1600-h/artbearsworld.PNG)Art Bears are a trio formed in the ashes of Henry Cow's breakup in 1978 with members Fred Firth, Chris Cutler and vocalist Dagmar Krause. Firth and Cutler wrote the music and play all instruments except Krause whose vocals are what make the album so great, particularly on "Freedom".  
+[![](/hfs40k/images/b413546f5d8fa5523fb2813b7e953cf7.webp)](https://web.archive.org/web/20111010145111/http://3.bp.blogspot.com/_JdyrURA7JYI/SpxL-yj5euI/AAAAAAAAAHA/S8uokn98f9M/s1600-h/artbearsworld.PNG)Art Bears are a trio formed in the ashes of Henry Cow's breakup in 1978 with members Fred Firth, Chris Cutler and vocalist Dagmar Krause. Firth and Cutler wrote the music and play all instruments except Krause whose vocals are what make the album so great, particularly on "Freedom".  
   
 [Download 320](https://web.archive.org/web/20111010145111/http://lix.in/-51f2df) (courtesy of [music-share.blogspot.com](https://web.archive.org/web/20111010145111/http://music-share.blogspot.com/))

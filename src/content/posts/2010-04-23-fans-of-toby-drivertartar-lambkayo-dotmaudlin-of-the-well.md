@@ -13,7 +13,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-23-fans-of-toby-drivertartar-lambkayo-dotmaudlin-of-the-well.webp)](/holyfuckingshit40000/images/covers/2010-04-23-fans-of-toby-drivertartar-lambkayo-dotmaudlin-of-the-well.webp)SAD TRUTH: These guys basically pull cash out of their own pockets for these side projects, because Kayo Dot is the only band they have that gains some sort of revenue from touring. If you want Tartar Lamb 2 to exist, then please pledge some sort of donation (the minimum is $7.) Any amount of cash helps them, and I'm sure a lot of you people who come to our blog like Kayo Dot and all their side projects! So if you want more good music to happen, please PLEDGE.  
+[![](/hfs40k/images/covers/2010-04-23-fans-of-toby-drivertartar-lambkayo-dotmaudlin-of-the-well.webp)](/hfs40k/images/covers/2010-04-23-fans-of-toby-drivertartar-lambkayo-dotmaudlin-of-the-well.webp)SAD TRUTH: These guys basically pull cash out of their own pockets for these side projects, because Kayo Dot is the only band they have that gains some sort of revenue from touring. If you want Tartar Lamb 2 to exist, then please pledge some sort of donation (the minimum is $7.) Any amount of cash helps them, and I'm sure a lot of you people who come to our blog like Kayo Dot and all their side projects! So if you want more good music to happen, please PLEDGE.  
   
 [CLICK HERE TO PLEDGE](https://web.archive.org/web/20111010045413/http://www.kickstarter.com/projects/tdriver/tartar-lamb-2)  
   

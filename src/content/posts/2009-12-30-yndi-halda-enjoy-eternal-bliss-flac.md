@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Yndi%20Halda%20Enjoy%2
 
 
 
-[![](/holyfuckingshit40000/images/2c8c1e02c347b443ea27a831a9392a78.webp)](https://web.archive.org/web/20111010153102/http://2.bp.blogspot.com/_A31Dfz4S5yg/SztSvDW4d0I/AAAAAAAAALE/PxxD0nWk_sg/s1600-h/enjoyeternalbliss.JPG)[download flac](https://web.archive.org/web/20111010153102/http://lix.in/-651fa9)  
+[![](/hfs40k/images/2c8c1e02c347b443ea27a831a9392a78.webp)](https://web.archive.org/web/20111010153102/http://2.bp.blogspot.com/_A31Dfz4S5yg/SztSvDW4d0I/AAAAAAAAALE/PxxD0nWk_sg/s1600-h/enjoyeternalbliss.JPG)[download flac](https://web.archive.org/web/20111010153102/http://lix.in/-651fa9)  
   
 [v0](https://web.archive.org/web/20111010153102/http://www.mediafire.com/?emddnoamdw2)

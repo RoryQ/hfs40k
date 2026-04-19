@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%238%20Talk%20Talk%20L
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-03-8-talk-talk-laughing-stock-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-03-8-talk-talk-laughing-stock-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-03-8-talk-talk-laughing-stock-flac.webp)](/hfs40k/images/covers/2010-05-03-8-talk-talk-laughing-stock-flac.webp)  
 
 I will never tire of Talk Talk's final album Laughing Stock. From their first album until The Colour of Spring (1986) Talk Talk very definitely held my attention. The Colour of Spring is one of the best albums of the 8o's, no questions asked. And then they released 1988's Spirit of Eden. Amazing. Absolutely amazing. A total departure from where 'Life's What You Make it' seemed to say they were heading. I love Colour of Spring, but Spirit of Eden is something else. The first three songs from that album are worth the price alone.
 

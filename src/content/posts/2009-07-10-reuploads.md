@@ -13,7 +13,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/048cd580bbcc94849b230c3ef0ebe91f.webp)](https://web.archive.org/web/20111010140702/http://4.bp.blogspot.com/_cLI19EXK2oU/SlSdT1wqIiI/AAAAAAAAAPY/R0p9QNPvkRg/s1600-h/heaven+or+hell.jpg)  
+[![](/hfs40k/images/048cd580bbcc94849b230c3ef0ebe91f.webp)](https://web.archive.org/web/20111010140702/http://4.bp.blogspot.com/_cLI19EXK2oU/SlSdT1wqIiI/AAAAAAAAAPY/R0p9QNPvkRg/s1600-h/heaven+or+hell.jpg)  
   
 The following albums have been reuploaded  
   

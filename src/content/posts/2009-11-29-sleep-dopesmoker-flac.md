@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sleep%20DOPESMOKER
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-29-sleep-dopesmoker-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-29-sleep-dopesmoker-flac.webp)REUPLOADED  
+[![](/hfs40k/images/covers/2009-11-29-sleep-dopesmoker-flac.webp)](/hfs40k/images/covers/2009-11-29-sleep-dopesmoker-flac.webp)REUPLOADED  
   
 [DOWNLOAD FLAC](https://web.archive.org/web/20111010121603/http://lix.in/-6a6f6a)  
   

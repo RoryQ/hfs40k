@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nightingale%20The%20Cl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-05-nightingale-the-closing-chronicles.webp)](/holyfuckingshit40000/images/covers/2010-04-05-nightingale-the-closing-chronicles.webp)  
+[![](/hfs40k/images/covers/2010-04-05-nightingale-the-closing-chronicles.webp)](/hfs40k/images/covers/2010-04-05-nightingale-the-closing-chronicles.webp)  
   
   
   

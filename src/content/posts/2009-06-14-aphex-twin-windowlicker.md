@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Windowl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-14-aphex-twin-windowlicker.webp)](/holyfuckingshit40000/images/covers/2009-06-14-aphex-twin-windowlicker.webp)  
+[![](/hfs40k/images/covers/2009-06-14-aphex-twin-windowlicker.webp)](/hfs40k/images/covers/2009-06-14-aphex-twin-windowlicker.webp)  
 Greatest single of all time.  
   
 [Download v0](https://web.archive.org/web/20090629170420/http://lix.in/-5204a1)

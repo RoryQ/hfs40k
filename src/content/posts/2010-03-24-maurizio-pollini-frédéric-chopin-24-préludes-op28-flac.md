@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Maurizio%20Pollini%20F
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-24-maurizio-pollini-frédéric-chopin-24-préludes-op28-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-24-maurizio-pollini-frédéric-chopin-24-préludes-op28-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-24-maurizio-pollini-frédéric-chopin-24-préludes-op28-flac.webp)](/hfs40k/images/covers/2010-03-24-maurizio-pollini-frédéric-chopin-24-préludes-op28-flac.webp)  
   
 This recording won a Grand Prix du Disc in the original vinyl version. The preludes are miracles in miniature, revealing Chopin at his most subtle and masterful. Pollini movingly brings to life the many voices of these amazing short pieces.  
   

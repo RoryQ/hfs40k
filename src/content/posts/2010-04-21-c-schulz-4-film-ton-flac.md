@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=C%20Schulz%20-%204.%20
 
 
 
-[![](/holyfuckingshit40000/images/344419fb8055c8d5f12339a83de73ad7.webp)](https://web.archive.org/web/20111010045739/http://3.bp.blogspot.com/_t6lWjgwMoxw/S87B6QtpYzI/AAAAAAAAAJU/gc7iVegzl00/s1600/front.jpg)  
+[![](/hfs40k/images/344419fb8055c8d5f12339a83de73ad7.webp)](https://web.archive.org/web/20111010045739/http://3.bp.blogspot.com/_t6lWjgwMoxw/S87B6QtpYzI/AAAAAAAAAJU/gc7iVegzl00/s1600/front.jpg)  
   
   
   

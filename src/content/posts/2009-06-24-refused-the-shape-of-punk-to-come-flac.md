@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%
 
 
 
-[![](/holyfuckingshit40000/images/fbdd72620b65678e60ffde0722481b59.webp)](https://web.archive.org/web/20111010085129/http://1.bp.blogspot.com/_cLI19EXK2oU/SkJPPjES0yI/AAAAAAAAAMI/4wzhK_sBRLo/s1600-h/Shape.jpg)  
+[![](/hfs40k/images/fbdd72620b65678e60ffde0722481b59.webp)](https://web.archive.org/web/20111010085129/http://1.bp.blogspot.com/_cLI19EXK2oU/SkJPPjES0yI/AAAAAAAAAMI/4wzhK_sBRLo/s1600-h/Shape.jpg)  
   
 SAW THIS IN A SHOP WITH "THIS FUCKING ROCKS" STICKER ON IT SO TOOK IT TO COUNTER AND SLAMMED IT DOWN AND SHOUTED AT DUDE WORKING THERE "HOW MUCH?" WHEN HE ANSWERED I SAID "NOT THE PRICE DILLWEED, HOW MUCH DOES IT ROCK?" DILWEED'S ANSWER IS LIKE SHRUG, "I dunno, a lot?" WHICH WINDS ME UP 'COS HE'S BEING A PUSSY ABOUT IT AND I SAY "I WANT IT TO ROCK MY SOCKS CLEAN OFF MY FEET, IS IT GONNA DO THAT?" AND HE'S ALL LIKE, "Yeah it will." SO I'M LIKE, "YEAH I'LL TAKE IT."  
   

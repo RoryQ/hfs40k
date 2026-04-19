@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ground%20Zero%20Revolu
 
 
 
-[![](/holyfuckingshit40000/images/20c90416111d81990bab5d9d381cf8f7.webp)](/holyfuckingshit40000/images/20c90416111d81990bab5d9d381cf8f7.webp)  
+[![](/hfs40k/images/20c90416111d81990bab5d9d381cf8f7.webp)](/hfs40k/images/20c90416111d81990bab5d9d381cf8f7.webp)  
 More experimental weeaboo shit. Recommended if you like Naked City and Ruins.  
   
 [Download](https://web.archive.org/web/20101203181528/http://www.mediafire.com/?1dzkhdxye0h)  

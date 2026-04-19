@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shels%20Sea%20of%20the
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-24-shels-sea-of-the-dying-dhow-2007.webp)](/holyfuckingshit40000/images/covers/2009-04-24-shels-sea-of-the-dying-dhow-2007.webp)  
+[![](/hfs40k/images/covers/2009-04-24-shels-sea-of-the-dying-dhow-2007.webp)](/hfs40k/images/covers/2009-04-24-shels-sea-of-the-dying-dhow-2007.webp)  
 xgodot's recommendation  
   
 SLUDE = GOOD  

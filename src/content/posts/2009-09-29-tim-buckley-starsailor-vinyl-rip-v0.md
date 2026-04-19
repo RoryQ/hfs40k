@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Starsa
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-29-tim-buckley-starsailor-vinyl-rip-v0.webp)](/holyfuckingshit40000/images/covers/2009-09-29-tim-buckley-starsailor-vinyl-rip-v0.webp)Yeah, it's one of my favorite albums ever. Minimalist folk rock that uses Tim's amazingly unique voice as the lead instrument. Lots of good texture as well as memorable guitar riffs. The title track is mostly samples of Tim's voice as the background music. Also includes a nice touch of jazz (the trumpet solo on Down by the Borderline in particular is fucking flawless.)  
+[![](/hfs40k/images/covers/2009-09-29-tim-buckley-starsailor-vinyl-rip-v0.webp)](/hfs40k/images/covers/2009-09-29-tim-buckley-starsailor-vinyl-rip-v0.webp)Yeah, it's one of my favorite albums ever. Minimalist folk rock that uses Tim's amazingly unique voice as the lead instrument. Lots of good texture as well as memorable guitar riffs. The title track is mostly samples of Tim's voice as the background music. Also includes a nice touch of jazz (the trumpet solo on Down by the Borderline in particular is fucking flawless.)  
   
 [v0 (vinyl rip)](https://web.archive.org/web/20111010094829/http://lix.in/-5d04fd)

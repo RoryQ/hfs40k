@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-31-electric-wizard-black-masses-2010.webp)](/holyfuckingshit40000/images/covers/2010-10-31-electric-wizard-black-masses-2010.webp)  
+[![](/hfs40k/images/covers/2010-10-31-electric-wizard-black-masses-2010.webp)](/hfs40k/images/covers/2010-10-31-electric-wizard-black-masses-2010.webp)  
 Have a fun Halloween shitbros  
   
 [320](https://web.archive.org/web/20111010112209/http://lix.in/-9096dc)

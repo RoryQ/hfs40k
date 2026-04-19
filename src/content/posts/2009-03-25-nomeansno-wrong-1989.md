@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=NoMeansNo%20Wrong
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-25-nomeansno-wrong-1989.webp)](/holyfuckingshit40000/images/covers/2009-03-25-nomeansno-wrong-1989.webp)  
+[![](/hfs40k/images/covers/2009-03-25-nomeansno-wrong-1989.webp)](/hfs40k/images/covers/2009-03-25-nomeansno-wrong-1989.webp)  
 Fuck yeah, I love cowheads.  
   
 Expect a FLAC rip within the next week.  

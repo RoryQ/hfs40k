@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Minor%20Threat%20Compl
 
 
 
-[![](/holyfuckingshit40000/images/e30590b2868daee92820a7e8b647aef2.webp)](https://web.archive.org/web/20111010164656/http://1.bp.blogspot.com/_z8rLjrFVzbo/SbBmRvREYYI/AAAAAAAAAC0/IjynWbYU2pE/s1600-h/18131.jpg)  
+[![](/hfs40k/images/e30590b2868daee92820a7e8b647aef2.webp)](https://web.archive.org/web/20111010164656/http://1.bp.blogspot.com/_z8rLjrFVzbo/SbBmRvREYYI/AAAAAAAAAC0/IjynWbYU2pE/s1600-h/18131.jpg)  
 The essential hardcore punk release. Playlists are recommended if you want to listen to their releases individually.  
   
 [Download mp3](https://web.archive.org/web/20111010164656/http://www.mediafire.com/?nyvjz1mzmwt)

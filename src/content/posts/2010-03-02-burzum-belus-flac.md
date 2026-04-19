@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Burzum%20Belus
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-02-burzum-belus-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-02-burzum-belus-flac.webp)Trust me when I say you can hear the difference between this and the mp3 one posted by karppaky. :)  
+[![](/hfs40k/images/covers/2010-03-02-burzum-belus-flac.webp)](/hfs40k/images/covers/2010-03-02-burzum-belus-flac.webp)Trust me when I say you can hear the difference between this and the mp3 one posted by karppaky. :)  
   
 [Get it in FLAC](https://web.archive.org/web/20101203180842/http://lix.in/-7963a7)  
   

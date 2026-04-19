@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-25-boards-of-canada-hi-scores-2002-re-press-vinyl-rip-24bit-48khz.webp)](/holyfuckingshit40000/images/covers/2010-05-25-boards-of-canada-hi-scores-2002-re-press-vinyl-rip-24bit-48khz.webp)  
+[![](/hfs40k/images/covers/2010-05-25-boards-of-canada-hi-scores-2002-re-press-vinyl-rip-24bit-48khz.webp)](/hfs40k/images/covers/2010-05-25-boards-of-canada-hi-scores-2002-re-press-vinyl-rip-24bit-48khz.webp)  
   
   
   

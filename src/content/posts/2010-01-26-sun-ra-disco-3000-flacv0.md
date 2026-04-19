@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20Disco%20300
 
 
 
-[![](/holyfuckingshit40000/images/337a4f05b86b1e3f0d804ec8933529fb.webp)](https://web.archive.org/web/20111010124143/http://3.bp.blogspot.com/_JdyrURA7JYI/S1_Md-O-bEI/AAAAAAAAAN4/-FnQZ0iVtck/s1600-h/sunradisco.PNG)Electric jazz = Miles Davis in the 70s, right? Heh.  
+[![](/hfs40k/images/337a4f05b86b1e3f0d804ec8933529fb.webp)](https://web.archive.org/web/20111010124143/http://3.bp.blogspot.com/_JdyrURA7JYI/S1_Md-O-bEI/AAAAAAAAAN4/-FnQZ0iVtck/s1600-h/sunradisco.PNG)Electric jazz = Miles Davis in the 70s, right? Heh.  
   
 WRONG  
   

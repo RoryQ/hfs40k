@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20Space%20Rit
 
 
 
-[![](/holyfuckingshit40000/images/fea12c12d42a2c2993d04f4b70f51333.webp)](/holyfuckingshit40000/images/575e0b36cacfbef1e482d678b3a6d3f8.webp)
+[![](/hfs40k/images/fea12c12d42a2c2993d04f4b70f51333.webp)](/hfs40k/images/575e0b36cacfbef1e482d678b3a6d3f8.webp)
   
 
 Hawkwind, at their peak, as on '73's live "Space Ritual" double LP, were an air-tight rock'n'roll demolition unit who combined the best of trancey psychedelia and buttocks-scorching rock'n'roll. If you have the remotist interest in Krautrock or the pre-Punk school of high-energy rock a la MC5/Stooges/Pink Fairies/Deviants, then you need this in your collection.

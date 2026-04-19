@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Eternal
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-14-don-cherry-eternal-rhythm-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-14-don-cherry-eternal-rhythm-flac.webp)Finally got this Japanese remaster in FLAC. 320kbps mp3 is in an older post, use search for "Don Cherry".  
+[![](/hfs40k/images/covers/2009-09-14-don-cherry-eternal-rhythm-flac.webp)](/hfs40k/images/covers/2009-09-14-don-cherry-eternal-rhythm-flac.webp)Finally got this Japanese remaster in FLAC. 320kbps mp3 is in an older post, use search for "Don Cherry".  
   
 [Download FLAC](https://web.archive.org/web/20111010094848/http://lix.in/-5c3be6)

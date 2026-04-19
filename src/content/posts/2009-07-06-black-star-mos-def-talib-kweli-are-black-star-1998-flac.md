@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Black%20Star%20Mos%20D
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-06-black-star-mos-def-talib-kweli-are-black-star-1998-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-06-black-star-mos-def-talib-kweli-are-black-star-1998-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-06-black-star-mos-def-talib-kweli-are-black-star-1998-flac.webp)](/hfs40k/images/covers/2009-07-06-black-star-mos-def-talib-kweli-are-black-star-1998-flac.webp)  
 BLACKSTAR SHININ' SHININ' DEY IN DA HOUSE !!GREAT 1ST CD FROM THESE CATS AND WE STILL WAITIN FOR #2.NEXT BEST THING NEXT TO SOME CLASSIC BDP, IS \*BLACKSTAR\* CLASSIC ASS SOUND.MOS @KWELI KILL IT ON THIS ONE. VERY COOL POSITIVE HIP HOP  
   
 [Download](https://web.archive.org/web/20111010140312/http://lix.in/-532bd2) (MU)  

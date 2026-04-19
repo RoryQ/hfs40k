@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Hal
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-01-jim-orourke-halfway-to-a-threeway-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-01-jim-orourke-halfway-to-a-threeway-flac.webp)Jesus Christ it's a cute frog get in the car!
+[![](/hfs40k/images/covers/2010-09-01-jim-orourke-halfway-to-a-threeway-flac.webp)](/hfs40k/images/covers/2010-09-01-jim-orourke-halfway-to-a-threeway-flac.webp)Jesus Christ it's a cute frog get in the car!
 
 Yes indeed, MO'Rourke. As in, more O'Rourke! On his *Halfway to a Threeway* EP, O'Rourke melds the American Primitivist guitar stylings of *Bad Timing* with the avant-pop flourishes of *Eureka*. This, along with the biting (really, he gets downright vicious) yet serenely delivered lyrics further fleshed out on his next album, *Insignificance*, The Cute Frog Album finds O'Rourke in a sort of wonderful transitional period. Short and sweetly bitter, this serves as a good introduction to his solo work but is also best placed in context within his discography.
 

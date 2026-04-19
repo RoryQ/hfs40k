@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Catherine%20Ribeiro%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-05-catherine-ribeiro-alpes-paix-1972.webp)](/holyfuckingshit40000/images/covers/2009-12-05-catherine-ribeiro-alpes-paix-1972.webp)Hypnotic, mind expanding Avant-folk.  
+[![](/hfs40k/images/covers/2009-12-05-catherine-ribeiro-alpes-paix-1972.webp)](/hfs40k/images/covers/2009-12-05-catherine-ribeiro-alpes-paix-1972.webp)Hypnotic, mind expanding Avant-folk.  
   
 [Download (320)](https://web.archive.org/web/20111010153046/http://lix.in/-6032cc)

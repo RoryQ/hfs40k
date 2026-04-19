@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Cro
 
 
 
-[![](/holyfuckingshit40000/images/91ce9686f8dc2ea9fb297cfe4d91317c.webp)](https://web.archive.org/web/20111010111637/http://2.bp.blogspot.com/-sIvmiMQVjmY/TW56HEB9OXI/AAAAAAAAA5M/ZG2Z5wLb490/s1600/cover_29322014122009.jpg)  
+[![](/hfs40k/images/91ce9686f8dc2ea9fb297cfe4d91317c.webp)](https://web.archive.org/web/20111010111637/http://2.bp.blogspot.com/-sIvmiMQVjmY/TW56HEB9OXI/AAAAAAAAA5M/ZG2Z5wLb490/s1600/cover_29322014122009.jpg)  
 
 "Mwandishi" from 1971(the first incredible recording by this line-up), was just the beginning. Hancock refined that compositional style to the greatest imagineable heights with this groundbreaking 1972 release, "Crossings". He took his Miles` influences & surpassed the master himself. Miles rarely wrote such evolved, complex compositions like this.
 

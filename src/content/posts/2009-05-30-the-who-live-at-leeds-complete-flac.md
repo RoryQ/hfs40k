@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Who%20Live%20at%
 
 
 
-[![](/holyfuckingshit40000/images/0e6c784d4122b8038c4ce60d78a93698.webp)](https://web.archive.org/web/20111008160016/http://4.bp.blogspot.com/_cLI19EXK2oU/SiGVeD_IR2I/AAAAAAAAAHA/nLdktkSpx9E/s1600-h/liveatleeds.jpg)  
+[![](/hfs40k/images/0e6c784d4122b8038c4ce60d78a93698.webp)](https://web.archive.org/web/20111008160016/http://4.bp.blogspot.com/_cLI19EXK2oU/SiGVeD_IR2I/AAAAAAAAAHA/nLdktkSpx9E/s1600-h/liveatleeds.jpg)  
 Dad rock  
   
 [Disc1](https://web.archive.org/web/20111008160016/http://www.megaupload.com/?d=EX2YL940)  

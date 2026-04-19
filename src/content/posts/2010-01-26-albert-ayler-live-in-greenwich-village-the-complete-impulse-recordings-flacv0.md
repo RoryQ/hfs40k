@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Albert%20Ayler%20Live%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-26-albert-ayler-live-in-greenwich-village-the-complete-impulse-recordings-flacv0.webp)](/holyfuckingshit40000/images/covers/2010-01-26-albert-ayler-live-in-greenwich-village-the-complete-impulse-recordings-flacv0.webp)Re-uploaded in v0 and FLAC by request.  
+[![](/hfs40k/images/covers/2010-01-26-albert-ayler-live-in-greenwich-village-the-complete-impulse-recordings-flacv0.webp)](/hfs40k/images/covers/2010-01-26-albert-ayler-live-in-greenwich-village-the-complete-impulse-recordings-flacv0.webp)Re-uploaded in v0 and FLAC by request.  
   
 Think jaunty marching band meets really chaotic jazz. Features brothers Albert and Don on tenor saxophone and trumpet respectively. There is also violin and cello which is different and cool. Most of these performances were recorded in 1966/1967 and Coltrane was in the audience for the track "For John Coltrane" which is a quartet of cello, violin, string bass, and Albert's only performance on alto saxophone.  
   

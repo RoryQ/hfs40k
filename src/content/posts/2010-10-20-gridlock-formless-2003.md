@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gridlock%20Formless
 
 
 
-[![](/holyfuckingshit40000/images/7f66250728c010b9a1ee8ba019b527df.webp)](https://web.archive.org/web/20111010112637/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TL8AU469NUI/AAAAAAAAAg0/M9tVizRQfX4/s1600/formless.jpg)
+[![](/hfs40k/images/7f66250728c010b9a1ee8ba019b527df.webp)](https://web.archive.org/web/20111010112637/http://1.bp.blogspot.com/_7ZAm7Q56iwM/TL8AU469NUI/AAAAAAAAAg0/M9tVizRQfX4/s1600/formless.jpg)
 
 Futuristic soundscapes, harsh beats, electronic textures that will fill your mind. Formless is one big experience. To this day it keeps as a very unique album for me as there isn't anything quite like it and no other electronic group or project has managed to impress me like this album. Uploaded here as requested by iPaet, but I highly recommend checking this out if you haven't yet.  
   

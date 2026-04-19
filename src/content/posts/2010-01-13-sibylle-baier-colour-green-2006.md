@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sibylle%20Baier%20Colo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-13-sibylle-baier-colour-green-2006.webp)](/holyfuckingshit40000/images/covers/2010-01-13-sibylle-baier-colour-green-2006.webp)Posted by Wayfaerer ages ago, here's some FLAC  
+[![](/hfs40k/images/covers/2010-01-13-sibylle-baier-colour-green-2006.webp)](/hfs40k/images/covers/2010-01-13-sibylle-baier-colour-green-2006.webp)Posted by Wayfaerer ages ago, here's some FLAC  
 
 [FLAC](https://web.archive.org/web/20111010123654/http://lix.in/-698cd4)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%
 
 
 
-[![](/holyfuckingshit40000/images/18dfac11f2709f2a5f4c2de2e4976bff.webp)](https://web.archive.org/web/20111010173453/http://3.bp.blogspot.com/_t6lWjgwMoxw/TATshsOauOI/AAAAAAAAAQA/1LkY1-xEYlM/s1600/anotherdayonearth.jpg)  
+[![](/hfs40k/images/18dfac11f2709f2a5f4c2de2e4976bff.webp)](https://web.archive.org/web/20111010173453/http://3.bp.blogspot.com/_t6lWjgwMoxw/TATshsOauOI/AAAAAAAAAQA/1LkY1-xEYlM/s1600/anotherdayonearth.jpg)  
   
   
   

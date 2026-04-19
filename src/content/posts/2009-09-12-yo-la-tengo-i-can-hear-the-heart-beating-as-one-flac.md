@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20I%20
 
 
 
-[![](/holyfuckingshit40000/images/d1f1a3c2d8156b43f1e5faad15a590c3.webp)](https://web.archive.org/web/20111010094614/http://2.bp.blogspot.com/_JdyrURA7JYI/SqvpZ1xdPxI/AAAAAAAAAHg/2N4FBu3d7HY/s1600-h/latengoone.PNG)I see a beach...the waves pounding against the shore. A beautiful girl, her heart beating against her breast. I see a tall, handsome man. Now I see it! Now I see it! I can hear the roar of the Ocean. And finally I can hear the Music of  love. I CAN HEAR THE HEART BEATING AS ONE.  
+[![](/hfs40k/images/d1f1a3c2d8156b43f1e5faad15a590c3.webp)](https://web.archive.org/web/20111010094614/http://2.bp.blogspot.com/_JdyrURA7JYI/SqvpZ1xdPxI/AAAAAAAAAHg/2N4FBu3d7HY/s1600-h/latengoone.PNG)I see a beach...the waves pounding against the shore. A beautiful girl, her heart beating against her breast. I see a tall, handsome man. Now I see it! Now I see it! I can hear the roar of the Ocean. And finally I can hear the Music of  love. I CAN HEAR THE HEART BEATING AS ONE.  
   
 [Download FLAC](https://web.archive.org/web/20111010094614/http://lix.in/-5e1daa)

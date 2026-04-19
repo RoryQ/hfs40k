@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charlie%20Haden%20Libe
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-31-charlie-haden-liberation-music-orchestra.webp)](/holyfuckingshit40000/images/covers/2010-03-31-charlie-haden-liberation-music-orchestra.webp)  
+[![](/hfs40k/images/covers/2010-03-31-charlie-haden-liberation-music-orchestra.webp)](/hfs40k/images/covers/2010-03-31-charlie-haden-liberation-music-orchestra.webp)  
   
   
   

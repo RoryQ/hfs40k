@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Katamari%20Damacy%20Fo
 
 
 
-[![](/holyfuckingshit40000/images/cf5f9e958583dca00924f8a269c678f7.webp)](https://web.archive.org/web/20111010123452/http://4.bp.blogspot.com/_A31Dfz4S5yg/S1eaoe4tyQI/AAAAAAAAAPE/8Z6y5zwwL2I/s1600-h/katamarifd.jpg)LONELY ROLLING STAR  
+[![](/hfs40k/images/cf5f9e958583dca00924f8a269c678f7.webp)](https://web.archive.org/web/20111010123452/http://4.bp.blogspot.com/_A31Dfz4S5yg/S1eaoe4tyQI/AAAAAAAAAPE/8Z6y5zwwL2I/s1600-h/katamarifd.jpg)LONELY ROLLING STAR  
   
 [flac](https://web.archive.org/web/20111010123452/http://lix.in/-66664b)  
 [v0](https://web.archive.org/web/20111010123452/http://www.mediafire.com/?amkznywzjz0)

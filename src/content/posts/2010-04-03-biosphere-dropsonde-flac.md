@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Dropsonde%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-03-biosphere-dropsonde-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-03-biosphere-dropsonde-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-03-biosphere-dropsonde-flac.webp)](/hfs40k/images/covers/2010-04-03-biosphere-dropsonde-flac.webp)  
   
   
   

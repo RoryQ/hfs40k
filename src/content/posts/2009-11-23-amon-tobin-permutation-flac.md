@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Amon%20Tobin%20Permuta
 
 
 
-[![](/holyfuckingshit40000/images/6d32759ca68e0ea8bcf9a2c29ec3558d.webp)](/holyfuckingshit40000/images/ff4f06dc3d470a467180050ef397b42b.webp)  
+[![](/hfs40k/images/6d32759ca68e0ea8bcf9a2c29ec3558d.webp)](/hfs40k/images/ff4f06dc3d470a467180050ef397b42b.webp)  
   
 I really haven't been much impressed by what I'd heard of Amon Tobin. I hadn't heard much, but to me, it didn't justify the hype I'd heard about the guy. (I think it was in the Xen Cuts set I have lying around somewhere). But, out of the blue, I picked up Permutation out of sheer boredom. I probably shouldn't have.  
 This is the kind of album that makes me want to punch the creator in the face. In an entirely good way, to be sure. This album shouldn't be possible, it's unnaturally good. Amon Tobin must have signed a deal with the devil. Insane (...).  

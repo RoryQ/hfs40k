@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=eX%20Girl%20-%20Endang
 
 
 
-[![](/holyfuckingshit40000/images/4fe1dffc9b830c9598788a607867d1c1.webp)](/holyfuckingshit40000/images/3444068850848412b48eaff28853715c.webp)  
+[![](/hfs40k/images/4fe1dffc9b830c9598788a607867d1c1.webp)](/hfs40k/images/3444068850848412b48eaff28853715c.webp)  
 Genre: Experimental Rock  
 Country: Japan  
   

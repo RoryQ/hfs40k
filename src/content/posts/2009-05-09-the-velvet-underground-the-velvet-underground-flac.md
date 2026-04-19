@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Undergr
 
 
 
-[![](/holyfuckingshit40000/images/ff0607c1f5321b2e48d9adad4f8985f7.webp)](/holyfuckingshit40000/images/ff0607c1f5321b2e48d9adad4f8985f7.webp)  
+[![](/hfs40k/images/ff0607c1f5321b2e48d9adad4f8985f7.webp)](/hfs40k/images/ff0607c1f5321b2e48d9adad4f8985f7.webp)  
 Man Lou Reed really is the original hipster.  
   
 Michael's request. Will upload Loaded as well if there's enough demand, but there won't be enough demand because everyone hates Loaded.  

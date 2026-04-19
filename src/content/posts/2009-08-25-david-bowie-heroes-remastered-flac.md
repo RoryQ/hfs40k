@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Heroes
 
 
 
-[![](/holyfuckingshit40000/images/2d82ec958338717ded540604748777e6.webp)](https://web.archive.org/web/20111010145141/http://4.bp.blogspot.com/_cLI19EXK2oU/SpRMKjwrhYI/AAAAAAAAASo/xsrzOj1QdPI/s1600-h/The%2BDuke.jpg)  
+[![](/hfs40k/images/2d82ec958338717ded540604748777e6.webp)](https://web.archive.org/web/20111010145141/http://4.bp.blogspot.com/_cLI19EXK2oU/SpRMKjwrhYI/AAAAAAAAASo/xsrzOj1QdPI/s1600-h/The%2BDuke.jpg)  
 The Duke + King Crimson + Brian Eno = One of the greatest albums of the late 70's  
   
 Bowie's catalogue is very diverse in terms of styles and personas he's adopted over the years. Most people familiar with his work are likely to name 'Ziggy Stardust" and "Low" as milestone albums. But when someone mentions "Heroes," one immediately thinks of the monolithic title track, which to this day retains a place in David's live shows. 'Heroes,' the album, has always been rather overlooked; the spotlight being stolen by it's sister, 'Low.' And while 'Low' is most definitely a masterpiece, 'Heroes' is an excellent work in it's own right and deserves re-evaluation.

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pleiadians%20I.F.O.
 
 
 
-[![](/holyfuckingshit40000/images/be8963c1511eb38d463105483ea3d8b4.gif)](/holyfuckingshit40000/images/905c57decb59a3828d305a215129fd70.gif)
+[![](/hfs40k/images/be8963c1511eb38d463105483ea3d8b4.gif)](/hfs40k/images/905c57decb59a3828d305a215129fd70.gif)
 
   
 Now, I know from experience that even the slightest mention of trance usually turns everyone's text green. I've been quite antagonistic toward it myself. But it's silly to dismiss an entire umbrella term covering various, sometimes contrasting styles. Goa trance happens to be one the most rewarding ones to listen to, dare I say the IDM of trance? I daren't, but it offers you no vocals, no buzzing saw leads, no self-parodying levels of indulgence. Throwing those out of the window leaves more room for heavy psychedelia and varying blends of sci-fi and mysticism, always oozing with style and composed confidence.   

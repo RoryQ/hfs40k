@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Gian
 
 
 
-[![](/holyfuckingshit40000/images/1f78ec3a254dd672b57fd4fea45e1515.webp)](https://web.archive.org/web/20111008155442/http://2.bp.blogspot.com/_cLI19EXK2oU/Sg2HXZB5s7I/AAAAAAAAAFQ/wSzlRDnXtSc/s1600-h/coltrane.bmp)  
+[![](/hfs40k/images/1f78ec3a254dd672b57fd4fea45e1515.webp)](https://web.archive.org/web/20111008155442/http://2.bp.blogspot.com/_cLI19EXK2oU/Sg2HXZB5s7I/AAAAAAAAAFQ/wSzlRDnXtSc/s1600-h/coltrane.bmp)  
 1998 remaster with bonus tracks  
   
   

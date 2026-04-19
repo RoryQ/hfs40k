@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20In%20Search
 
 
 
-[![](/holyfuckingshit40000/images/06fc807fbdee3621e0964d019bed0fa5.webp)](https://web.archive.org/web/20111010034807/http://2.bp.blogspot.com/-eGdjQWJ7ruc/Tkl9adyNc0I/AAAAAAAABBQ/W5c7tQvTv1g/s1600/cover_22381617102008.jpg)
+[![](/hfs40k/images/06fc807fbdee3621e0964d019bed0fa5.webp)](https://web.archive.org/web/20111010034807/http://2.bp.blogspot.com/-eGdjQWJ7ruc/Tkl9adyNc0I/AAAAAAAABBQ/W5c7tQvTv1g/s1600/cover_22381617102008.jpg)
   
 I came to Hawkwind through their live cd "Space Ritual", which is one of the outstanding live albums of all time. This studio recording is from about the same time period, and is the only album that replicates the power of Hawkwind's live performances.
   

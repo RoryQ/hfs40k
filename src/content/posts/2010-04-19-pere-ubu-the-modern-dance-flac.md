@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pere%20Ubu%20The%20Mod
 
 
 
-[![](/holyfuckingshit40000/images/0373f24160be8800882e7f7dc58ee5d9.webp)](https://web.archive.org/web/20111010045804/http://3.bp.blogspot.com/_cLI19EXK2oU/S8yDu4ItNmI/AAAAAAAAAd8/wZHMAe1UOVQ/s1600/523284539_64d09a832d.jpg)  
+[![](/hfs40k/images/0373f24160be8800882e7f7dc58ee5d9.webp)](https://web.archive.org/web/20111010045804/http://3.bp.blogspot.com/_cLI19EXK2oU/S8yDu4ItNmI/AAAAAAAAAd8/wZHMAe1UOVQ/s1600/523284539_64d09a832d.jpg)  
 The sound of the real american 1970's underground. It's an awesome record, one that has inspired a fair degree of bands but been criminally underheard.  
 
 Influences range from garage rock to the most avant of the avant-garde rock groups. Ubu on this record move from beautifully powerful guitar-driven grunge to abstract fractured art. The whole thing has such a strength and brilliance behind it that it remains cohesive. These are 5 very talented people working together in the service of something greater (art in music).

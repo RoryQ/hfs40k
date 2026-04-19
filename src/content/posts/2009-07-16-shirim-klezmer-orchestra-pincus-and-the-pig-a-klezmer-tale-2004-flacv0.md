@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shirim%20Klezmer%20Orc
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-16-shirim-klezmer-orchestra-pincus-and-the-pig-a-klezmer-tale-2004-flacv0.webp)](/holyfuckingshit40000/images/covers/2009-07-16-shirim-klezmer-orchestra-pincus-and-the-pig-a-klezmer-tale-2004-flacv0.webp)  
+[![](/hfs40k/images/covers/2009-07-16-shirim-klezmer-orchestra-pincus-and-the-pig-a-klezmer-tale-2004-flacv0.webp)](/hfs40k/images/covers/2009-07-16-shirim-klezmer-orchestra-pincus-and-the-pig-a-klezmer-tale-2004-flacv0.webp)  
 [Do you like jews?](https://web.archive.org/web/20111010142119/http://www.teachingbooks.net/slideshows/previews/pincus/PincusPigSlideshow/PincusandthePig.html)  
   
 [FLAC](https://web.archive.org/web/20111010142119/http://lix.in/-55b489)  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20In%20A
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-01-27-miles-davis-in-a-silent-way-flac.webp)](/holyfuckingshit40000/images/covers/2011-01-27-miles-davis-in-a-silent-way-flac.webp)  
+[![](/hfs40k/images/covers/2011-01-27-miles-davis-in-a-silent-way-flac.webp)](/hfs40k/images/covers/2011-01-27-miles-davis-in-a-silent-way-flac.webp)  
 This isn't the "first fusion album". This wasn't Miles Davis's first recording with electric keyboards or, for that matter, the electric guitar. He'd been experimenting with rock, soul and pop rhythms for over a year. And yet In a Silent Way really is a first. It's the first Davis album in a new, undefined style -- informed heavily by jazz, but already heading somewhere else.  
   
 It's also the last Tony Williams appearance on a Davis album. Supposedly Williams, who was starting Lifetime with organist Larry Young and guitarist John McLaughlin, was angry and paranoid at the thought of Miles poaching his star guitarist. So for most of the CD, he plays a very repetitive rhythm -- hi hat on the first half, snare on the second - except for one brief moment, which I'll get back to shortly.  

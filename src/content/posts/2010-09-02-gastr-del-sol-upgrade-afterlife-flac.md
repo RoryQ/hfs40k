@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Gastr%20del%20Sol%20Up
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-02-gastr-del-sol-upgrade-afterlife-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-02-gastr-del-sol-upgrade-afterlife-flac.webp)More Jim O'Rourke, but this time as part of Gastr del Sol with David Grubbs. A seriously wide-ranging work. I mean, just look at the tags for this! From the droney beginnings to off-kilter chamber pop songs laced with piano that sounds like the ghost of Thelonious Monk with lyrics read straight from *Finnegan's Wake*, this is Gastr del Sol's most experimental album and, in my opinion, their best.
+[![](/hfs40k/images/covers/2010-09-02-gastr-del-sol-upgrade-afterlife-flac.webp)](/hfs40k/images/covers/2010-09-02-gastr-del-sol-upgrade-afterlife-flac.webp)More Jim O'Rourke, but this time as part of Gastr del Sol with David Grubbs. A seriously wide-ranging work. I mean, just look at the tags for this! From the droney beginnings to off-kilter chamber pop songs laced with piano that sounds like the ghost of Thelonious Monk with lyrics read straight from *Finnegan's Wake*, this is Gastr del Sol's most experimental album and, in my opinion, their best.
 
 [Enjoy](https://web.archive.org/web/20111010175510/http://lix.in/-836bbf)

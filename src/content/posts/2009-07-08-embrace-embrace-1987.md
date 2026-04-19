@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Embrace%20Embrace
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-08-embrace-embrace-1987.webp)](/holyfuckingshit40000/images/covers/2009-07-08-embrace-embrace-1987.webp)StrangeRanger's request. Embrace is basically the POST-EMØCØRE band that [Ian MacKaye](https://web.archive.org/web/20111010140431/http://en.wikipedia.org/wiki/Ian_MacKaye "Ian MacKaye") was in between Minor Threat and Fugazi.  
+[![](/hfs40k/images/covers/2009-07-08-embrace-embrace-1987.webp)](/hfs40k/images/covers/2009-07-08-embrace-embrace-1987.webp)StrangeRanger's request. Embrace is basically the POST-EMØCØRE band that [Ian MacKaye](https://web.archive.org/web/20111010140431/http://en.wikipedia.org/wiki/Ian_MacKaye "Ian MacKaye") was in between Minor Threat and Fugazi.  
   
 [Download 320](https://web.archive.org/web/20111010140431/http://lix.in/-4bbdbb)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sigh%20Imaginary%20Son
 
 
 
-[![](/holyfuckingshit40000/images/33f6676e9a1b983b55014a0d1a2b75a9.webp)](/holyfuckingshit40000/images/33f6676e9a1b983b55014a0d1a2b75a9.webp)  
+[![](/hfs40k/images/33f6676e9a1b983b55014a0d1a2b75a9.webp)](/hfs40k/images/33f6676e9a1b983b55014a0d1a2b75a9.webp)  
 Genre: Avant-Garde Black Metal  
 Country: Japan  
   

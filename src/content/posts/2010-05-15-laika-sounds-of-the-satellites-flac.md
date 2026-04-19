@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Laika%20Sounds%20of%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-15-laika-sounds-of-the-satellites-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-15-laika-sounds-of-the-satellites-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-15-laika-sounds-of-the-satellites-flac.webp)](/hfs40k/images/covers/2010-05-15-laika-sounds-of-the-satellites-flac.webp)  
 After the busy, dizzy soundscapes of "Silver Apples of the Moon," Laika return two years later with the cooler, spacier sonic drifts of "Sounds of the Satellites." There are still clanks, quirks and rattles a'plenty, but with larger spaces in between. "Prarie Dog" lopes and glistens, like stars twinkling over a grassy hill. "Spooky Rhodes" and "Breather" pillow you on lush drifts of gentle electronica. "Bedbugs" and "Poor Gal" stir up the mix with car alarms, clanks, inner city groove and outerspace noise. "Blood and Bones" hits a happy medium, tempo, noise and space.
 
 Lyrically, Margaret Fiedler is still mining the same vein she hit on "Silver Apples"--domestic violence ("Shut Off/Curl Up"), feminism ("Bedbugs"), and characters from the edge of society ("Poor Gal"). This album also contains some of Margaret's darkest lyrics ever: "Dead dreams dropping off the heart like leaves in a dry season" ("Breather"); "There are things I can't explain; why tornadoes love the plains; why my dreams have lost their wings..." ("Spooky Rhodes").

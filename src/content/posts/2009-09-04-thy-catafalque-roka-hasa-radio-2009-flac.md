@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Thy%20Catafalque%20Ro%
 
 
 
-[![](/holyfuckingshit40000/images/7507cd990f9843d02ef8394885269f63.webp)](https://web.archive.org/web/20111010094143/http://1.bp.blogspot.com/_5cVyPU93ihM/SqGA80XGwKI/AAAAAAAAALk/8CyiQwsSUEs/s1600-h/o1967262.jpg)  
+[![](/hfs40k/images/7507cd990f9843d02ef8394885269f63.webp)](https://web.archive.org/web/20111010094143/http://1.bp.blogspot.com/_5cVyPU93ihM/SqGA80XGwKI/AAAAAAAAALk/8CyiQwsSUEs/s1600-h/o1967262.jpg)  
 Hungarian-Pedo-Avant-Prog-Post-Black-Electro-Metal-Experimental-Rock-GENRES-GENRES-GENRES  
   
 [Download](https://web.archive.org/web/20111010094143/http://lix.in/-4f6e55)

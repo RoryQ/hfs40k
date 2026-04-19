@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Baroness%20Red%20Album
 
 
 
-[![](/holyfuckingshit40000/images/2124fdb80d3943425751b88005e7979c.webp)](https://web.archive.org/web/20111010145431/http://1.bp.blogspot.com/_TSxXUm0_hPM/Spbz_RjD0_I/AAAAAAAABkk/v6egZvTjwbg/s1600-h/front.jpg)  
+[![](/hfs40k/images/2124fdb80d3943425751b88005e7979c.webp)](https://web.archive.org/web/20111010145431/http://1.bp.blogspot.com/_TSxXUm0_hPM/Spbz_RjD0_I/AAAAAAAABkk/v6egZvTjwbg/s1600-h/front.jpg)  
 A mixture of Sludge, Stoner and Progressive Metal.  
 Good Metal album.  
   

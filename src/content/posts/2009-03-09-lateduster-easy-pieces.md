@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Lateduster%20Easy%20Pi
 
 
 
-[![](/holyfuckingshit40000/images/a890a012aacac034965238dfc1c826ed.webp)](/holyfuckingshit40000/images/a890a012aacac034965238dfc1c826ed.webp)  
+[![](/hfs40k/images/a890a012aacac034965238dfc1c826ed.webp)](/hfs40k/images/a890a012aacac034965238dfc1c826ed.webp)  
 Jazzy post-rock. Highly recommended if you like Tortoise & Dosh.  
   
 Thanks to [obi](https://web.archive.org/web/20111010164557/http://www.last.fm/user/hollabackitsobi) for the recommendation.  

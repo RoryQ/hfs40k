@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20A%20Sun%20T
 
 
 
-[![](/holyfuckingshit40000/images/c9f0f57b2daec9274acf651fd65badc8.webp)](/holyfuckingshit40000/images/c9f0f57b2daec9274acf651fd65badc8.webp)"A sun that never sets. Solitary star scorching skeletons strewn sleepless save simple, sanguine stirrings. Half of the planet scalded into submission beneath an unrelenting, untouchable force. The other half eternally oppressed in a frozen wasteland devoid of hope or meaning. Neurosis chooses to illustrate the former.  
+[![](/hfs40k/images/c9f0f57b2daec9274acf651fd65badc8.webp)](/hfs40k/images/c9f0f57b2daec9274acf651fd65badc8.webp)"A sun that never sets. Solitary star scorching skeletons strewn sleepless save simple, sanguine stirrings. Half of the planet scalded into submission beneath an unrelenting, untouchable force. The other half eternally oppressed in a frozen wasteland devoid of hope or meaning. Neurosis chooses to illustrate the former.  
   
 Huge periods of repetitive guitar ambience 'n' lack of terrifying samples hold it back in this instance. Flaming sphere stylized art/title/lyrics 'n' the potent, skull-grinding assault of "Falling Unknown" & "Stones From the Sky" thrusts it forward above the horizon into its permanent residence at the apex of a lifeless sky"  
   

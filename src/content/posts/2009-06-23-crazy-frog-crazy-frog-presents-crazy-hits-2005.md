@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Crazy%20Frog%20Crazy%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-23-crazy-frog-crazy-frog-presents-crazy-hits-2005.webp)](/holyfuckingshit40000/images/covers/2009-06-23-crazy-frog-crazy-frog-presents-crazy-hits-2005.webp)  
+[![](/hfs40k/images/covers/2009-06-23-crazy-frog-crazy-frog-presents-crazy-hits-2005.webp)](/hfs40k/images/covers/2009-06-23-crazy-frog-crazy-frog-presents-crazy-hits-2005.webp)  
 
 Quite polarizing, you probably won't like it on first listen but persevere with it and you will be at its knees and ready to take a bullet for it.  
  [varied bit rate (from 181 to 223)](https://web.archive.org/web/20111010090920/http://www.mediafire.com/download.php?m2iwmvyyzzi)

@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Elliott%20Smith%20From
 
 
 
-[![](/holyfuckingshit40000/images/2d8fb162ec4626d33b805e729fced7c3.webp)](https://web.archive.org/web/20111010093937/http://2.bp.blogspot.com/_A31Dfz4S5yg/SqJLc1-WazI/AAAAAAAAAG8/Gn0BiRmSRVA/s1600-h/folder.jpg)[flac](https://web.archive.org/web/20111010093937/http://lix.in/-58a8f9) /// [v0](https://web.archive.org/web/20111010093937/http://www.mediafire.com/?ly2zyiigtqo)
+[![](/hfs40k/images/2d8fb162ec4626d33b805e729fced7c3.webp)](https://web.archive.org/web/20111010093937/http://2.bp.blogspot.com/_A31Dfz4S5yg/SqJLc1-WazI/AAAAAAAAAG8/Gn0BiRmSRVA/s1600-h/folder.jpg)[flac](https://web.archive.org/web/20111010093937/http://lix.in/-58a8f9) /// [v0](https://web.archive.org/web/20111010093937/http://www.mediafire.com/?ly2zyiigtqo)

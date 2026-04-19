@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Okinawa%20Lifestyle%20
 
 
 
-[![](/holyfuckingshit40000/images/7dcf7cf749a64b32fd48bc080341c245.webp)](/holyfuckingshit40000/images/7dcf7cf749a64b32fd48bc080341c245.webp)  
+[![](/hfs40k/images/7dcf7cf749a64b32fd48bc080341c245.webp)](/hfs40k/images/7dcf7cf749a64b32fd48bc080341c245.webp)  
   
   
   

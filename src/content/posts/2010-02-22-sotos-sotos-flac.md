@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sotos%20Sotos
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-22-sotos-sotos-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-22-sotos-sotos-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-22-sotos-sotos-flac.webp)](/hfs40k/images/covers/2010-02-22-sotos-sotos-flac.webp)  
 Instrumental Avant-prog with long songs. Not for everyone but if you're in to that kind of thing check it out.  
   
 [Get it in FLAC](https://web.archive.org/web/20111010160105/http://lix.in/-768b9a)

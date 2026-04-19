@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hammock%20Kenotic
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-14-hammock-kenotic-2005-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-14-hammock-kenotic-2005-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-14-hammock-kenotic-2005-flac.webp)](/hfs40k/images/covers/2010-01-14-hammock-kenotic-2005-flac.webp)  
 Ambient/post-rock fusion. Kinda like Lights Out Asia without vocals. Similar to July Skies with lots of reverb-drenched guitars that make you feel like you're floating. Albums like this don't need much of an introduction, they speak for themselves.   
   
 [FLAC](https://web.archive.org/web/20111010123103/http://lix.in/-6b2bfd)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Guided%20by%20Voices%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-13-guided-by-voices-alien-lanes.webp)](/holyfuckingshit40000/images/covers/2009-05-13-guided-by-voices-alien-lanes.webp)Qualo-fi follow-up.  
+[![](/hfs40k/images/covers/2009-05-13-guided-by-voices-alien-lanes.webp)](/hfs40k/images/covers/2009-05-13-guided-by-voices-alien-lanes.webp)Qualo-fi follow-up.  
   
 Download [FLAC](https://web.archive.org/web/20111008155511/http://www.megaupload.com/?d=I2G4J7CC) /// [v0](https://web.archive.org/web/20111008155511/http://www.mediafire.com/?m2ziwtjzkzj)

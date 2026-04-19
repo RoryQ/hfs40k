@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Skip%20James%20The%20C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-12-skip-james-the-complete-early-recordings-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-12-skip-james-the-complete-early-recordings-flac.webp)If you (are white and) listen to American music made in the 20th or 21st centuries, and have never listened to blues, then you're a racist (!!!) who is content to steal the innovations of subjugated and marginalized minority groups without actually honoring the influences that their musical style has had on all of the music you love and cherish. And no, Stevie Ray Vaughn doesn't count.
+[![](/hfs40k/images/covers/2010-10-12-skip-james-the-complete-early-recordings-flac.webp)](/hfs40k/images/covers/2010-10-12-skip-james-the-complete-early-recordings-flac.webp)If you (are white and) listen to American music made in the 20th or 21st centuries, and have never listened to blues, then you're a racist (!!!) who is content to steal the innovations of subjugated and marginalized minority groups without actually honoring the influences that their musical style has had on all of the music you love and cherish. And no, Stevie Ray Vaughn doesn't count.
 
 Hohoho, good thing I'm black. Anyway...
 

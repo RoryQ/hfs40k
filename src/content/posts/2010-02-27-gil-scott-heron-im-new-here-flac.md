@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gil%20Scott%20Heron%20
 
 
 
-[![](/holyfuckingshit40000/images/a4e22982e680f722542c213fca07d0e8.webp)](https://web.archive.org/web/20111010160233/http://2.bp.blogspot.com/_t6lWjgwMoxw/S4oT6-4mZcI/AAAAAAAAAAM/X6JeDnm6YJo/s1600-h/gil-scot-heron-im-new-here.jpg)  
+[![](/hfs40k/images/a4e22982e680f722542c213fca07d0e8.webp)](https://web.archive.org/web/20111010160233/http://2.bp.blogspot.com/_t6lWjgwMoxw/S4oT6-4mZcI/AAAAAAAAAAM/X6JeDnm6YJo/s1600-h/gil-scot-heron-im-new-here.jpg)  
 It is only 28 minutes, only four real songs of which two are covers, but still it is one of the bestest this year.  
   
 Mediafire  

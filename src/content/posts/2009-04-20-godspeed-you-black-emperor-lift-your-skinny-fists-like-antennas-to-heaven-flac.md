@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/79c06a4d03466b8e37e90ba7fe5e9310.webp)](https://web.archive.org/web/20111010131250/http://1.bp.blogspot.com/_cLI19EXK2oU/SeyjQBYe65I/AAAAAAAAADY/ATWv6Pydt1c/s1600-h/o2602.jpg)  
+[![](/hfs40k/images/79c06a4d03466b8e37e90ba7fe5e9310.webp)](https://web.archive.org/web/20111010131250/http://1.bp.blogspot.com/_cLI19EXK2oU/SeyjQBYe65I/AAAAAAAAADY/ATWv6Pydt1c/s1600-h/o2602.jpg)  
 Demisouls' request  
   
 DEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEP  

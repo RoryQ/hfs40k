@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Slint%20Spiderland
 
 
 
-[![](/holyfuckingshit40000/images/f88af662275a05ea62f105cfcc8bf9a1.webp)](/holyfuckingshit40000/images/91b6164bd6744811516287a54a4e9e81.webp)  
+[![](/hfs40k/images/f88af662275a05ea62f105cfcc8bf9a1.webp)](/hfs40k/images/91b6164bd6744811516287a54a4e9e81.webp)  
 Are you ready to jizz all over your headphones? Listen to this delicious Vinyl rip. If you are even a modest fan of Spiderland I guarantee this rip will make you garner a new appreciation for the album.  
   
 Equipment  

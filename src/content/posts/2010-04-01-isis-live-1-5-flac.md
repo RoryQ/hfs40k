@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Isis%20Live%201-5
 
 
 
-[![](/holyfuckingshit40000/images/53d4f3174540ef6d4fd21f5aadfca337.webp)](https://web.archive.org/web/20111010050203/http://4.bp.blogspot.com/_JdyrURA7JYI/S7Uwbiu6fSI/AAAAAAAAAQA/okd912VbjZk/s1600/isisband.PNG)Hi we're Isis and we like to play post-metul.  
+[![](/hfs40k/images/53d4f3174540ef6d4fd21f5aadfca337.webp)](https://web.archive.org/web/20111010050203/http://4.bp.blogspot.com/_JdyrURA7JYI/S7Uwbiu6fSI/AAAAAAAAAQA/okd912VbjZk/s1600/isisband.PNG)Hi we're Isis and we like to play post-metul.  
   
 5 different live albums, wowzer! and all in FLAC now!  
   

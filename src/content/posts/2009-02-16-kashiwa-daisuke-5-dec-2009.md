@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%205%
 
 
 
-[![](/holyfuckingshit40000/images/b2ba85b45640f36df7ecc56cc45a4b3f.webp)](/holyfuckingshit40000/images/b2ba85b45640f36df7ecc56cc45a4b3f.webp)  
+[![](/hfs40k/images/b2ba85b45640f36df7ecc56cc45a4b3f.webp)](/hfs40k/images/b2ba85b45640f36df7ecc56cc45a4b3f.webp)  
   
 JDBNSAD HJABSDHJSABHDAVBGHVAS IT LEAKED!  
   

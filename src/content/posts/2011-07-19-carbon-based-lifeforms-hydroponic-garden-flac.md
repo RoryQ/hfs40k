@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Carbon%20Based%20Lifef
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-07-19-carbon-based-lifeforms-hydroponic-garden-flac.webp)](/holyfuckingshit40000/images/covers/2011-07-19-carbon-based-lifeforms-hydroponic-garden-flac.webp) [Exosphere](https://web.archive.org/web/20111010135545/http://lix.in/-a5e6e2)  
+[![](/hfs40k/images/covers/2011-07-19-carbon-based-lifeforms-hydroponic-garden-flac.webp)](/hfs40k/images/covers/2011-07-19-carbon-based-lifeforms-hydroponic-garden-flac.webp) [Exosphere](https://web.archive.org/web/20111010135545/http://lix.in/-a5e6e2)  
   
 Password haveanicelife

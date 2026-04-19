@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Silkie%20City%20Limits
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-26-silkie-city-limits-volume-1.webp)](/holyfuckingshit40000/images/covers/2010-03-26-silkie-city-limits-volume-1.webp)It's probably criminal for me to be living in London and not posting dubstep of some sort, so here you go. One of my favourite albums of last year, Pitchfork seemed to like it too for you indiefags. If there's demand I can post some more dubstep or grime. [ALAC](https://web.archive.org/web/20111010083237/http://lix.in/-7287ec)
+[![](/hfs40k/images/covers/2010-03-26-silkie-city-limits-volume-1.webp)](/hfs40k/images/covers/2010-03-26-silkie-city-limits-volume-1.webp)It's probably criminal for me to be living in London and not posting dubstep of some sort, so here you go. One of my favourite albums of last year, Pitchfork seemed to like it too for you indiefags. If there's demand I can post some more dubstep or grime. [ALAC](https://web.archive.org/web/20111010083237/http://lix.in/-7287ec)

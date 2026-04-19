@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Are
 
 
 
-[![](/holyfuckingshit40000/images/5507394afc410a8e577be8ec6f527396.webp)](https://web.archive.org/web/20111010084537/http://4.bp.blogspot.com/_cLI19EXK2oU/Sj6Dg9jcB4I/AAAAAAAAALg/0K4NOJirYH8/s1600-h/1062085945_a90168ea14.jpg)  
+[![](/hfs40k/images/5507394afc410a8e577be8ec6f527396.webp)](https://web.archive.org/web/20111010084537/http://4.bp.blogspot.com/_cLI19EXK2oU/Sj6Dg9jcB4I/AAAAAAAAALg/0K4NOJirYH8/s1600-h/1062085945_a90168ea14.jpg)  
 Boredoms conceive music in a blender. Ingredients are thrown in by a blind chef, who has the fortune of often producing something digestible, but only for the courageous consumer.  
   
 If listening to a cauldron of interrupted tempos and cut-and-paste melodies sounds like an excusable way to spend an hour, then Super æ is the record for you.  

@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Avey%20Tare%20and%20Pa
 
 
 
-[![](/holyfuckingshit40000/images/97bb772a8dd615ce6c7fa4dfdfbfe090.webp)](https://web.archive.org/web/20111010130633/http://1.bp.blogspot.com/_z8rLjrFVzbo/Se8DBY0y0jI/AAAAAAAAAF8/rBIC7QsIBFw/s1600-h/28325.jpg)  
+[![](/hfs40k/images/97bb772a8dd615ce6c7fa4dfdfbfe090.webp)](https://web.archive.org/web/20111010130633/http://1.bp.blogspot.com/_z8rLjrFVzbo/Se8DBY0y0jI/AAAAAAAAAF8/rBIC7QsIBFw/s1600-h/28325.jpg)  
 What? Animal Collective had good albums before 2009?  
   
 PD: I don't care if you tag this as Avey Tare and Panda Bear or Animal Collective, since it was later rereleased as AC.  

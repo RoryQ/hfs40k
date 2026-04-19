@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Envy%20A%20Dead%20Sink
 
 
 
-[![](/holyfuckingshit40000/images/2a4d6d4af0fea8ced6c89e39df1988bb.webp)](/holyfuckingshit40000/images/1ca69a61ccbd96d618de41cbb5bd74f9.webp)  
+[![](/hfs40k/images/2a4d6d4af0fea8ced6c89e39df1988bb.webp)](/hfs40k/images/1ca69a61ccbd96d618de41cbb5bd74f9.webp)  
 Genre: Post-Rock  
 Country: Japan  
   

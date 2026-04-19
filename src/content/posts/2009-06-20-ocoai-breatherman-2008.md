@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ocoai%20Breatherman
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-20-ocoai-breatherman-2008.webp)](/holyfuckingshit40000/images/covers/2009-06-20-ocoai-breatherman-2008.webp)  
+[![](/hfs40k/images/covers/2009-06-20-ocoai-breatherman-2008.webp)](/hfs40k/images/covers/2009-06-20-ocoai-breatherman-2008.webp)  
 Instrumental post-metal with obvious influences, features a cello (used very nicely in "Manifestant"). Good release.  
   
 [Download](https://web.archive.org/web/20111010085227/http://lix.in/-4fc847) (320)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Miasma%20%26%20the%20C
 
 
 
-[![](/holyfuckingshit40000/images/51a8ed6b943015ba84d5faa73fc41613.webp)](https://web.archive.org/web/20111010091323/http://1.bp.blogspot.com/_JdyrURA7JYI/SkKy30GZtSI/AAAAAAAAACI/N91bV0mKZwg/s1600-h/perils.PNG)Underrated instrumental prog by goths from Britain. The musicianship is flawless.  
+[![](/hfs40k/images/51a8ed6b943015ba84d5faa73fc41613.webp)](https://web.archive.org/web/20111010091323/http://1.bp.blogspot.com/_JdyrURA7JYI/SkKy30GZtSI/AAAAAAAAACI/N91bV0mKZwg/s1600-h/perils.PNG)Underrated instrumental prog by goths from Britain. The musicianship is flawless.  
   
 [Download 320](https://web.archive.org/web/20111010091323/http://lix.in/-4bb48e)

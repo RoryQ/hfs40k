@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Crotchduster%20Big%20F
 
 
 
-[![](/holyfuckingshit40000/images/9cdf98728187935269f2f3201d1d763c.webp)](https://web.archive.org/web/20111010085311/http://2.bp.blogspot.com/_5cVyPU93ihM/Sj_f6IYg21I/AAAAAAAAAIM/aG16oAOfqf0/s1600-h/folder.jpg)  
+[![](/hfs40k/images/9cdf98728187935269f2f3201d1d763c.webp)](https://web.archive.org/web/20111010085311/http://2.bp.blogspot.com/_5cVyPU93ihM/Sj_f6IYg21I/AAAAAAAAAIM/aG16oAOfqf0/s1600-h/folder.jpg)  
 Music: Serious business.  
   
 [Download](https://web.archive.org/web/20111010085311/http://lix.in/-53194f) (MU)  

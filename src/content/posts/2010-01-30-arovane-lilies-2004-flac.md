@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Arovane%20Lilies
 
 
 
-[![](/holyfuckingshit40000/images/85fff1ff6a4f753cf5a38dd9a8b3ff63.webp)](/holyfuckingshit40000/images/85fff1ff6a4f753cf5a38dd9a8b3ff63.webp)  
+[![](/hfs40k/images/85fff1ff6a4f753cf5a38dd9a8b3ff63.webp)](/hfs40k/images/85fff1ff6a4f753cf5a38dd9a8b3ff63.webp)  
   
 [FLAC](https://web.archive.org/web/20111010123005/http://lix.in/-7639c6)

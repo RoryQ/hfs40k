@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Alcest%20%C3%89cailles
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-30-alcest-écailles-de-lune-2010-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-30-alcest-écailles-de-lune-2010-flac.webp)
+[![](/hfs40k/images/covers/2010-03-30-alcest-écailles-de-lune-2010-flac.webp)](/hfs40k/images/covers/2010-03-30-alcest-écailles-de-lune-2010-flac.webp)
 
 So yeah I promised so here it is in lossless. Enjoy.  
   

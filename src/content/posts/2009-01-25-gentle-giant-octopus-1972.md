@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Octop
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-01-25-gentle-giant-octopus-1972.webp)](/holyfuckingshit40000/images/covers/2009-01-25-gentle-giant-octopus-1972.webp)  
+[![](/hfs40k/images/covers/2009-01-25-gentle-giant-octopus-1972.webp)](/hfs40k/images/covers/2009-01-25-gentle-giant-octopus-1972.webp)  
 Genre: Progressive Rock  
 Country: U.K.  
   

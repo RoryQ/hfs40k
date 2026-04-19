@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Disillusion%20Back%20T
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-27-disillusion-back-to-times-of-splendor-flac.webp)](/holyfuckingshit40000/images/covers/2009-02-27-disillusion-back-to-times-of-splendor-flac.webp)  
+[![](/hfs40k/images/covers/2009-02-27-disillusion-back-to-times-of-splendor-flac.webp)](/hfs40k/images/covers/2009-02-27-disillusion-back-to-times-of-splendor-flac.webp)  
 Opeth cover band  
   
 [Download](https://web.archive.org/web/20101203184707/http://www.megaupload.com/?d=M9L5ZLKC)

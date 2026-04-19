@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=LCD%20Soundsystem%20Th
 
 
 
-[![](/holyfuckingshit40000/images/d273b166e0edc68f1aec2332a2b8795a.webp)](https://web.archive.org/web/20111010175732/http://2.bp.blogspot.com/_cLI19EXK2oU/TJ5bIarEuCI/AAAAAAAAA1U/l6rj_aw-h7E/s1600/lcd-soundsystem-this-is-happening-cover-art.jpg)  
+[![](/hfs40k/images/d273b166e0edc68f1aec2332a2b8795a.webp)](https://web.archive.org/web/20111010175732/http://2.bp.blogspot.com/_cLI19EXK2oU/TJ5bIarEuCI/AAAAAAAAA1U/l6rj_aw-h7E/s1600/lcd-soundsystem-this-is-happening-cover-art.jpg)  
 LCD is certainly mining the past on his third effort, the deliberately dense "This is Happening." James Murphy has never been shy about proclaiming his influences and touting his musical heroes, but previous lp's always seemed more a mis-mash of otherwise incoherent styles, rather than the clear homages that mark this, the newest LCD album.  
   
 Not that I'm complaining; far from it. But let there be a warning to those who don't find late 70's Bowie or Iggy to their taste: a full three songs on the sprawling nine track lp are, beyond a reasonable doubt, directly inspired by Bowie & Co.  

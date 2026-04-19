@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Black%20Cobra%20Bestia
 
 
 
-[![](/holyfuckingshit40000/images/84fa547a3285779bbd06292df14baea6.webp)](/holyfuckingshit40000/images/84fa547a3285779bbd06292df14baea6.webp)  
+[![](/hfs40k/images/84fa547a3285779bbd06292df14baea6.webp)](/hfs40k/images/84fa547a3285779bbd06292df14baea6.webp)  
 Genre: Sludge  
 Country: U.S.  
   

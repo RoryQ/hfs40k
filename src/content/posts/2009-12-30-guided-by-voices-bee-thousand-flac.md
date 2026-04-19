@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Guided%20by%20Voices%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-30-guided-by-voices-bee-thousand-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-30-guided-by-voices-bee-thousand-flac.webp)reuploaded  
+[![](/hfs40k/images/covers/2009-12-30-guided-by-voices-bee-thousand-flac.webp)](/hfs40k/images/covers/2009-12-30-guided-by-voices-bee-thousand-flac.webp)reuploaded  
   
 [download flac](https://web.archive.org/web/20111010155309/http://lix.in/-651d3d)

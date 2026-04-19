@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Broken%20Social%20Scen
 
 
 
-[![](/holyfuckingshit40000/images/73274e9e78b5541f8048ceef0c47dbae.webp)](https://web.archive.org/web/20111008154856/http://1.bp.blogspot.com/_cLI19EXK2oU/Sg-EynP5ldI/AAAAAAAAAFo/G6nh-PG7bjk/s1600-h/You_Forgot_It_In_People-Broken_Social_Scene_480.jpg)  
+[![](/hfs40k/images/73274e9e78b5541f8048ceef0c47dbae.webp)](https://web.archive.org/web/20111008154856/http://1.bp.blogspot.com/_cLI19EXK2oU/Sg-EynP5ldI/AAAAAAAAAFo/G6nh-PG7bjk/s1600-h/You_Forgot_It_In_People-Broken_Social_Scene_480.jpg)  
 Park that car, drop that phone, sleep on the floor, dream about me.  
 Park that car, drop that phone, sleep on the floor, dream about me.  
 Park that car, drop that phone, sleep on the floor, dream about me.  

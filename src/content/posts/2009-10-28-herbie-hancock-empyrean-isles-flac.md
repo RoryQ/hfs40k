@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Emp
 
 
 
-[![](/holyfuckingshit40000/images/e600cd69f5d6984663d9061f76908710.webp)](https://web.archive.org/web/20111010032918/http://1.bp.blogspot.com/_nmjS6fd9kfU/SujBURHlF-I/AAAAAAAAAEM/Utpai3f6Hek/s1600-h/folder.jpg)Another obvious classic that really needs no introduction, I must say that I've always loved the artwork to this record. It captures the mysteriousness of the contained music so well with its clear but rather nondescript foreground (leafless branches?) and out-of-focus background that could contain anything...  
+[![](/hfs40k/images/e600cd69f5d6984663d9061f76908710.webp)](https://web.archive.org/web/20111010032918/http://1.bp.blogspot.com/_nmjS6fd9kfU/SujBURHlF-I/AAAAAAAAAEM/Utpai3f6Hek/s1600-h/folder.jpg)Another obvious classic that really needs no introduction, I must say that I've always loved the artwork to this record. It captures the mysteriousness of the contained music so well with its clear but rather nondescript foreground (leafless branches?) and out-of-focus background that could contain anything...  
   
 [Enjoy](https://web.archive.org/web/20111010032918/http://lix.in/-579887)

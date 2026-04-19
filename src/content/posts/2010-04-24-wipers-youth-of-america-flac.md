@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wipers%20Youth%20of%20
 
 
 
-[![](/holyfuckingshit40000/images/34fb1e5cfc67a5d8d7e1b0e709c8e3e7.webp)](https://web.archive.org/web/20111010050028/http://4.bp.blogspot.com/_pqcGUSDUhi4/S9NDaaKJhrI/AAAAAAAAADU/JchJD3fmFhA/s1600/f_folderm_b833889.jpg)  
+[![](/hfs40k/images/34fb1e5cfc67a5d8d7e1b0e709c8e3e7.webp)](https://web.archive.org/web/20111010050028/http://4.bp.blogspot.com/_pqcGUSDUhi4/S9NDaaKJhrI/AAAAAAAAADU/JchJD3fmFhA/s1600/f_folderm_b833889.jpg)  
   
   
   

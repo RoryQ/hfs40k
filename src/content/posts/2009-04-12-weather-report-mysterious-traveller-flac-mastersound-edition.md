@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Mys
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-12-weather-report-mysterious-traveller-flac-mastersound-edition.webp)](/holyfuckingshit40000/images/covers/2009-04-12-weather-report-mysterious-traveller-flac-mastersound-edition.webp)Weather Report's most dynamic and progressive release. Hell, even Jazz Purists may like it!  
+[![](/hfs40k/images/covers/2009-04-12-weather-report-mysterious-traveller-flac-mastersound-edition.webp)](/hfs40k/images/covers/2009-04-12-weather-report-mysterious-traveller-flac-mastersound-edition.webp)Weather Report's most dynamic and progressive release. Hell, even Jazz Purists may like it!  
 [Download](https://web.archive.org/web/20111010130612/http://lix.in/-4deca6)  
 [Last.fm](https://web.archive.org/web/20111010130612/http://www.last.fm/music/Weather+Report)

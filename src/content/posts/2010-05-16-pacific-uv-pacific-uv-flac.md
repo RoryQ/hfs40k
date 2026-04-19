@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pacific%20UV%20Pacific
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-16-pacific-uv-pacific-uv-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-16-pacific-uv-pacific-uv-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-16-pacific-uv-pacific-uv-flac.webp)](/hfs40k/images/covers/2010-05-16-pacific-uv-pacific-uv-flac.webp)  
 70% Slowdive + 20% Mazzy Star + 10% Spiritualized. Pretty lame description but you get the idea. This is one of those "breaks-no-new-ground-but-truly-awesome" records if you're into those aforementioned bands.  
   
 [Static waves](https://web.archive.org/web/20111010095701/http://lix.in/-8004e8)

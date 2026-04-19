@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Flying%20Saucer%20Atta
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-09-flying-saucer-attack-new-lands-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-09-flying-saucer-attack-new-lands-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-09-flying-saucer-attack-new-lands-flac.webp)](/hfs40k/images/covers/2010-05-09-flying-saucer-attack-new-lands-flac.webp)  
 FSA phase II triumph.  
   
 [Download FLAC](https://web.archive.org/web/20111010100419/http://lix.in/-7c2218)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Geomatic%20Blue%20Beam
 
 
 
-[![](/holyfuckingshit40000/images/bfeac3ede527067f8d92504e277737a3.webp)](https://web.archive.org/web/20111010071718/http://1.bp.blogspot.com/_8OQrKaBbb98/TQj2d2Oqi6I/AAAAAAAAADU/28OZEnuLj_A/s1600/Geomatic+-+Blue+Beam.jpg)
+[![](/hfs40k/images/bfeac3ede527067f8d92504e277737a3.webp)](https://web.archive.org/web/20111010071718/http://1.bp.blogspot.com/_8OQrKaBbb98/TQj2d2Oqi6I/AAAAAAAAADU/28OZEnuLj_A/s1600/Geomatic+-+Blue+Beam.jpg)
 
 When the first group of explorers was dispatched to investigate the remains of a large city on the desolate planet, one thing in particular caught their attention. For an isolated, ancient and supposedly long extinct society, they seemed to have been surprisingly advanced. It was unknown what had happened to the inhabitants, but all the towering, interconnected architecture was preserved as if in a time capsule. Even the ubiquitous yet identical table-sized machines were not only operational but also tediously processing something. Research of their design and functions is still inconclusive.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Air%20Moon%20Safari
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-07-09-air-moon-safari-flac.webp)](/holyfuckingshit40000/images/covers/2011-07-09-air-moon-safari-flac.webp)By request. I'm not dead yet, more to come.  
+[![](/hfs40k/images/covers/2011-07-09-air-moon-safari-flac.webp)](/hfs40k/images/covers/2011-07-09-air-moon-safari-flac.webp)By request. I'm not dead yet, more to come.  
   
 [You Make It Easy](https://web.archive.org/web/20111010135027/http://lix.in/-9a9f65)  
   

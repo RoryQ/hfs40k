@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Elliott%20Smith%20XO
 
 
 
-[![](/holyfuckingshit40000/images/bccd170be53aa6a76bbf7712f2a76cf5.webp)](https://web.archive.org/web/20111010153217/http://3.bp.blogspot.com/_A31Dfz4S5yg/SztxZQ3UEfI/AAAAAAAAAL0/uH3kEX6aS_w/s1600-h/xo.jpg)downloa[d flac](https://web.archive.org/web/20111010153217/http://lix.in/-621e83)  
+[![](/hfs40k/images/bccd170be53aa6a76bbf7712f2a76cf5.webp)](https://web.archive.org/web/20111010153217/http://3.bp.blogspot.com/_A31Dfz4S5yg/SztxZQ3UEfI/AAAAAAAAAL0/uH3kEX6aS_w/s1600-h/xo.jpg)downloa[d flac](https://web.archive.org/web/20111010153217/http://lix.in/-621e83)  
   
 [v0](https://web.archive.org/web/20111010153217/http://www.mediafire.com/?jwjijzqdiim)

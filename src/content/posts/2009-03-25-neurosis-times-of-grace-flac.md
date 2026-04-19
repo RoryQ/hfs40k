@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Times%20of%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-25-neurosis-times-of-grace-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-25-neurosis-times-of-grace-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-25-neurosis-times-of-grace-flac.webp)](/hfs40k/images/covers/2009-03-25-neurosis-times-of-grace-flac.webp)  
 
 "Times of Grace is a staggering achievement, offering indescribable amounts of musical and emotional depth. It's a full-fledged sonic experience that will not only assault your ears but burrow its way into your soul. Neurosis plumb the depths of the human psyche with their music, and if you can withstand the onslaught you'll emerge a stronger person for it. Simultaneously gut-wrenching, virtuosic, challenging, and ultimately uplifting. For all its bluster and fury, this album offers the redemption that can only come from such a harrowing journey."
 

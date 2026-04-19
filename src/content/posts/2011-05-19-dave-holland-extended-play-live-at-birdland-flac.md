@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dave%20Holland%20Exten
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-19-dave-holland-extended-play-live-at-birdland-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-19-dave-holland-extended-play-live-at-birdland-flac.webp)
+[![](/hfs40k/images/covers/2011-05-19-dave-holland-extended-play-live-at-birdland-flac.webp)](/hfs40k/images/covers/2011-05-19-dave-holland-extended-play-live-at-birdland-flac.webp)
 
 I love this album. Dave Holland is just about the only artist ever associated with ECM that I can stand. They put out the worst, watered down, borderline smooth jazz drivel (but damn is it well recorded!) this side of Kenny G. But that's beside the point. Dave here, on the other hand, is *nothing* like that. His pedigree is extensive. A member of Miles' early 70's fusion bands (*Bitches Brew, In A Silent Way* type stuff), he's also played with Anthony Braxton, Sam Rivers, and other members of the jazz vanguard. So yeah, this guy knows his shit.
 

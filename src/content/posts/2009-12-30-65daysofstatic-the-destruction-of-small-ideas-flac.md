@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/9b4ae2b2c0297ab87acddf8641c7d18c.webp)](https://web.archive.org/web/20111010153126/http://4.bp.blogspot.com/_A31Dfz4S5yg/SztxErd4YeI/AAAAAAAAALs/VCwvbeKWP2U/s1600-h/tdosi.jpg)download: [flac](https://web.archive.org/web/20111010153126/http://lix.in/-69be7c) ||| [v0](https://web.archive.org/web/20111010153126/http://www.mediafire.com/?anmzj2minry)
+[![](/hfs40k/images/9b4ae2b2c0297ab87acddf8641c7d18c.webp)](https://web.archive.org/web/20111010153126/http://4.bp.blogspot.com/_A31Dfz4S5yg/SztxErd4YeI/AAAAAAAAALs/VCwvbeKWP2U/s1600-h/tdosi.jpg)download: [flac](https://web.archive.org/web/20111010153126/http://lix.in/-69be7c) ||| [v0](https://web.archive.org/web/20111010153126/http://www.mediafire.com/?anmzj2minry)

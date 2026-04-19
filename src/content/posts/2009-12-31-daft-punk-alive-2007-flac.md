@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Daft%20Punk%20Alive%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-31-daft-punk-alive-2007-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-31-daft-punk-alive-2007-flac.webp)oh yeah.  
+[![](/hfs40k/images/covers/2009-12-31-daft-punk-alive-2007-flac.webp)](/hfs40k/images/covers/2009-12-31-daft-punk-alive-2007-flac.webp)oh yeah.  
   
 [FLAC HERE](https://web.archive.org/web/20111127022140/http://lix.in/-671120)  
   

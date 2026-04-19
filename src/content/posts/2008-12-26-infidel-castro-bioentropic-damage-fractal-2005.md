@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Infidel%3F%20/%20Castr
 
 
 
-[![](/holyfuckingshit40000/images/e3bffa120140cb08e92c4764d7786efe.webp)](/holyfuckingshit40000/images/e3bffa120140cb08e92c4764d7786efe.webp)  
+[![](/hfs40k/images/e3bffa120140cb08e92c4764d7786efe.webp)](/hfs40k/images/e3bffa120140cb08e92c4764d7786efe.webp)  
 Genre: Experimental  
 Country: U.S.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Modest%20Petrovich%20M
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-29-modest-petrovich-mussorgsky-pictures-at-an-exhibition-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-29-modest-petrovich-mussorgsky-pictures-at-an-exhibition-flac.webp)Emerson, Lake & Palmer cover band.  
+[![](/hfs40k/images/covers/2009-05-29-modest-petrovich-mussorgsky-pictures-at-an-exhibition-flac.webp)](/hfs40k/images/covers/2009-05-29-modest-petrovich-mussorgsky-pictures-at-an-exhibition-flac.webp)Emerson, Lake & Palmer cover band.  
   
 [Download](https://web.archive.org/web/20111008154843/http://lix.in/-4aadfa) (MU)  
 [Download](https://web.archive.org/web/20111008154843/http://lix.in/-4dbb3c) (MF)

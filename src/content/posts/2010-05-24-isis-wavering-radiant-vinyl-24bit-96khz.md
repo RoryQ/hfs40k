@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Isis%20Wavering%20Radi
 
 
 
-[![](/holyfuckingshit40000/images/3a4068f16d35550be34c6fb096747a79.webp)](https://web.archive.org/web/20111010095859/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_pOmXywcFI/AAAAAAAAAPI/edQK2xje1gc/s1600/113mini.jpg)  
+[![](/hfs40k/images/3a4068f16d35550be34c6fb096747a79.webp)](https://web.archive.org/web/20111010095859/http://2.bp.blogspot.com/_t6lWjgwMoxw/S_pOmXywcFI/AAAAAAAAAPI/edQK2xje1gc/s1600/113mini.jpg)  
   
   
   

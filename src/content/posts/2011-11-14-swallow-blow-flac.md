@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swallow%20Blow
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-11-14-swallow-blow-flac.webp)](/holyfuckingshit40000/images/covers/2011-11-14-swallow-blow-flac.webp)  
+[![](/hfs40k/images/covers/2011-11-14-swallow-blow-flac.webp)](/hfs40k/images/covers/2011-11-14-swallow-blow-flac.webp)  
   
 
 My CD purchases for August of '92 netted me His Name is Alive's re-issued "Livonia", Pale Saints' "In Ribbons", and Swallow's only full-length release. For the next several weeks they seemd to be the only discs I listened to, "Blow" no less than the others.  

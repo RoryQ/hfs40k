@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Maurizio%20M-Series
 
 
 
-[![](/holyfuckingshit40000/images/4704155e4cfa995a00c990e49b976868.webp)](https://web.archive.org/web/20111010081857/http://1.bp.blogspot.com/_t6lWjgwMoxw/S7HXlG-B8mI/AAAAAAAAAH0/235In8ZNUjA/s1600/333%282%29.jpg)  
+[![](/hfs40k/images/4704155e4cfa995a00c990e49b976868.webp)](https://web.archive.org/web/20111010081857/http://1.bp.blogspot.com/_t6lWjgwMoxw/S7HXlG-B8mI/AAAAAAAAAH0/235In8ZNUjA/s1600/333%282%29.jpg)  
   
   
   

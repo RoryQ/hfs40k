@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Massimo%20Volume%20Lun
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-23-massimo-volume-lungo-i-bordi-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-23-massimo-volume-lungo-i-bordi-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-23-massimo-volume-lungo-i-bordi-flac.webp)](/hfs40k/images/covers/2010-05-23-massimo-volume-lungo-i-bordi-flac.webp)  
 This Bologna-based rock band is now a classic of Italian music  
 and their second release "Lungo I Bordi" is an Italian rock masterpiece and really says something new about rock music in Europe. With the previous MV's recording ("Stanze", that's impossible to be found in the States or in the rest of Europe), this recording signs the beginning of a music genre completely new in Italy, the so called "spoken-rock". Tracks like "Ravenna", "Lungo I Bordi", "Per Farcela", "Da Qui" give emotions and they make grow such fine feelings inside you that you can barely hardly hint at. To define MV's style, in Italy we talk about "sonic expressionism" and "vocal neorealism", but if you've never listened to a MV album you need to ASAP.  
   

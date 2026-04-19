@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Slowdive%20Souvlaki
 
 
 
-[![](/holyfuckingshit40000/images/9ba6d71916acfe8dc64542ab3033f14d.webp)](/holyfuckingshit40000/images/9ba6d71916acfe8dc64542ab3033f14d.webp)  
+[![](/hfs40k/images/9ba6d71916acfe8dc64542ab3033f14d.webp)](/hfs40k/images/9ba6d71916acfe8dc64542ab3033f14d.webp)  
 This album is complete shit  
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-12-16-the-flaming-lips-zaireeka-superior-5-in-1-stereo-mix-flac.webp)](/holyfuckingshit40000/images/covers/2011-12-16-the-flaming-lips-zaireeka-superior-5-in-1-stereo-mix-flac.webp)  
+[![](/hfs40k/images/covers/2011-12-16-the-flaming-lips-zaireeka-superior-5-in-1-stereo-mix-flac.webp)](/hfs40k/images/covers/2011-12-16-the-flaming-lips-zaireeka-superior-5-in-1-stereo-mix-flac.webp)  
   
 When a band is already one of the most unique, and among the most innovative in the music biz, what can they do to get even more innovative? The Flaming Lips answer that question in a unique and surreal way in "Zaireeka," which may be the most unique album ever recorded. Whether it's genius depends on how you view music.  
   

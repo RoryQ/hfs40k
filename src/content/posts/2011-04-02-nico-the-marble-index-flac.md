@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nico%20The%20Marble%20
 
 
 
-[![](/holyfuckingshit40000/images/013b8c48ab3da5ea550b880dd65fb6f4.webp)](https://web.archive.org/web/20111010145746/http://3.bp.blogspot.com/-LTbN4Y3CEys/TZe5c602z5I/AAAAAAAAAP8/-S0-hmDrDgk/s1600/o1912153.jpg)  
+[![](/hfs40k/images/013b8c48ab3da5ea550b880dd65fb6f4.webp)](https://web.archive.org/web/20111010145746/http://3.bp.blogspot.com/-LTbN4Y3CEys/TZe5c602z5I/AAAAAAAAAP8/-S0-hmDrDgk/s1600/o1912153.jpg)  
 The life of Velvet Underground chanteuse/model Nico was a life of tragedy that fame couldn't soothe and drugs couldn't blot out. And beautiful "The Marble Index" is much like Nico herself was -- beautiful, vaguely gothic and laced with sadness and darkness.  
   
 The tinkly melody of "Prelude" leads up to the haunting chant of "Lawns of Dawns" and the string-led grandeur of "No One Is There." Things take a stumble with "Ari's Song," which is backed by painful whistling. But Nico got back on track with the majestic "Julius Caesar (Memento Hodie)," the frosty "Frozen Warnings," and the scintillating "Evening of Light." Two previously unreleased tracks finish it off: the melancholy "Roses in the Snow" and the a capella "Nibelungen."  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Urfaust%20Drei%20Ritua
 
 
 
-[![](/holyfuckingshit40000/images/3cee122ff86c50ad956f3b1c479dce68.webp)](/holyfuckingshit40000/images/3cee122ff86c50ad956f3b1c479dce68.webp)  
+[![](/hfs40k/images/3cee122ff86c50ad956f3b1c479dce68.webp)](/hfs40k/images/3cee122ff86c50ad956f3b1c479dce68.webp)  
 Ambient Black Metal  
   
 Yep.  

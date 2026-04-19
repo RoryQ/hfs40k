@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Toe%20For%20Long%20Tom
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-11-toe-for-long-tomorrow-2009-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-11-toe-for-long-tomorrow-2009-flac.webp)  
+[![](/hfs40k/images/covers/2009-12-11-toe-for-long-tomorrow-2009-flac.webp)](/hfs40k/images/covers/2009-12-11-toe-for-long-tomorrow-2009-flac.webp)  
 More FUCK YEAH DRUMMIN' from Kashikura Takashi and co.  
   
 [Download](https://web.archive.org/web/20111010153235/http://lix.in/-61b96d)

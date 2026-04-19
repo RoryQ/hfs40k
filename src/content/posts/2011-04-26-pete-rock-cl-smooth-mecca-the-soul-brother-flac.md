@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pete%20Rock%20%26%20C.
 
 
 
-[![](/holyfuckingshit40000/images/461af5836189a3511c9ab32c399dc5b2.webp)](/holyfuckingshit40000/images/71dfa9a3f9ed8ea2f0512ac8aafdd403.webp)  
+[![](/hfs40k/images/461af5836189a3511c9ab32c399dc5b2.webp)](/hfs40k/images/71dfa9a3f9ed8ea2f0512ac8aafdd403.webp)  
   
 From the opening moments of the album, there is a sense that what you're about it hear is going to be different. When the sounds of Return of the Mecca hits your ears, your are flooded with multiple layers of sampled horns, drums, and scratches. CL's flow just couldn't fit any better with this beat, and that goes for every song. I've said this before but it literally sounds like CL's voice is an instrument hand crafted to become another layer of Pete Rock's production.  
   

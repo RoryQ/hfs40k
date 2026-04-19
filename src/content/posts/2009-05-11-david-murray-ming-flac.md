@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Murray%20Ming
 
 
 
-[![](/holyfuckingshit40000/images/92e1c6cd2bb3e66a9c674f8532322a4b.webp)](https://web.archive.org/web/20111008155643/http://4.bp.blogspot.com/_cLI19EXK2oU/SgjCs-z2PEI/AAAAAAAAAFI/3cSJD9xAsLw/s1600-h/david+murray+ming.jpeg)  
+[![](/hfs40k/images/92e1c6cd2bb3e66a9c674f8532322a4b.webp)](https://web.archive.org/web/20111008155643/http://4.bp.blogspot.com/_cLI19EXK2oU/SgjCs-z2PEI/AAAAAAAAAFI/3cSJD9xAsLw/s1600-h/david+murray+ming.jpeg)  
 "David Murray's "Ming" is simply one of the best jazz albums of all time; a contemporary and progressive album that is also rooted in jazz traditions. It remains the perfect introduction to a gifted musician who is sadly unappreciated today.
 
 The Oakland-born Murray arrived in New York City in 1975 at age 20 and quickly established himself as a force on the "Loft Jazz" scene, a brief but important jazz movement. Rather than seek their fortune with the jazz fusion that was popular at the time, Murray and his loft co-horts sought to consolidate the ideas of the avant garde and free jazz movements of the Sixties and Seventies while adding their own ideas. It was an exciting period, and David Murray soon emerged as a rising star.

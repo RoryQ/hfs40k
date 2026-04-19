@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wolfgang%20Amadeus%20M
 
 
 
-[![](/holyfuckingshit40000/images/21b58d88a021425aeedb262065c00fc4.webp)](https://web.archive.org/web/20111008142519/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sh3noIrcITI/AAAAAAAAABE/ERdirLm9chI/s1600-h/folder.jpg)Pianist: Evgeny Kissin; Conductor: Vladimir Spivakov; Orchestra: Moscow Virtuosi  
+[![](/hfs40k/images/21b58d88a021425aeedb262065c00fc4.webp)](https://web.archive.org/web/20111008142519/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sh3noIrcITI/AAAAAAAAABE/ERdirLm9chI/s1600-h/folder.jpg)Pianist: Evgeny Kissin; Conductor: Vladimir Spivakov; Orchestra: Moscow Virtuosi  
   
 Picked this up at a local record store this past weekend and I've listened to it at least two or three times through already. Kissin has the technical chops needed to handle any Mozart piano piece, but he also has the sensitivity required to bring the most out of them. Dynamic contrast (especially with the loudness wars going on) is something that most aren't used to these days, but Kissin knows how to employ dynamics to amazing effect. He definitely isn't a key-banger type like, say, Argerich. Since it's Mozart, I don't think I really have to say more than that.  
   

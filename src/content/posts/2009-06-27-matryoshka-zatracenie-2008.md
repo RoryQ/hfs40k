@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Matryoshka%20Zatraceni
 
 
 
-[![](/holyfuckingshit40000/images/f46ab4b0f1ed599b809d8ec8e70d30c9.webp)](https://web.archive.org/web/20111010091642/http://1.bp.blogspot.com/_cLI19EXK2oU/SkaMmr9yktI/AAAAAAAAAMw/CVhwqDE9FC0/s1600-h/zatracenie_jacket_m.jpg)  
+[![](/hfs40k/images/f46ab4b0f1ed599b809d8ec8e70d30c9.webp)](https://web.archive.org/web/20111010091642/http://1.bp.blogspot.com/_cLI19EXK2oU/SkaMmr9yktI/AAAAAAAAAMw/CVhwqDE9FC0/s1600-h/zatracenie_jacket_m.jpg)  
 More japanese post-rock, recommended for fans of World's End Girlfriend  
   
  [Download](https://web.archive.org/web/20111010091642/http://www.mediafire.com/?cnym4wkzmk4)

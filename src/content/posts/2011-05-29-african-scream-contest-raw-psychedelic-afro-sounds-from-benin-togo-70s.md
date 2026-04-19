@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=African%20Scream%20Con
 
 
 
-[![](/holyfuckingshit40000/images/5175d54dc02de56bd05f187dfbcb1f36.webp)](https://web.archive.org/web/20111010093559/http://3.bp.blogspot.com/-TMqpZmGpRz0/TeMVTYm8OUI/AAAAAAAAAVg/dcYMIU8VmOY/s1600/africanscream1.PNG)The title of this compilation pretty much says it all. This thing is loaded with lost gems from Africa in the 70s. And even better, it touches on nearly all realms of contemporary African music. There's a lot of funk-riff inspired traditional African rhythms, but there's also vocalists that rock as hard as James Brown. Also included are two lengthier songs which very much resemble Fela Kuti's jazz ensembles he had during the era.
+[![](/hfs40k/images/5175d54dc02de56bd05f187dfbcb1f36.webp)](https://web.archive.org/web/20111010093559/http://3.bp.blogspot.com/-TMqpZmGpRz0/TeMVTYm8OUI/AAAAAAAAAVg/dcYMIU8VmOY/s1600/africanscream1.PNG)The title of this compilation pretty much says it all. This thing is loaded with lost gems from Africa in the 70s. And even better, it touches on nearly all realms of contemporary African music. There's a lot of funk-riff inspired traditional African rhythms, but there's also vocalists that rock as hard as James Brown. Also included are two lengthier songs which very much resemble Fela Kuti's jazz ensembles he had during the era.
 
 [Download v0](https://web.archive.org/web/20111010093559/http://lix.in/-a0fbdb) // \\ [Download FLAC](https://web.archive.org/web/20111010093559/http://lix.in/-a0fc0d)

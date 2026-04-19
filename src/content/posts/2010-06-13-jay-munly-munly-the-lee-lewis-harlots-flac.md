@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jay%20Munly%20Munly%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-13-jay-munly-munly-the-lee-lewis-harlots-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-13-jay-munly-munly-the-lee-lewis-harlots-flac.webp)
+[![](/hfs40k/images/covers/2010-06-13-jay-munly-munly-the-lee-lewis-harlots-flac.webp)](/hfs40k/images/covers/2010-06-13-jay-munly-munly-the-lee-lewis-harlots-flac.webp)
 
 First post here.
 

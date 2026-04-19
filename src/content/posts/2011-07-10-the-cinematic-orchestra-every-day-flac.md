@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Cinematic%20Orch
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-07-10-the-cinematic-orchestra-every-day-flac.webp)](/holyfuckingshit40000/images/covers/2011-07-10-the-cinematic-orchestra-every-day-flac.webp)  
+[![](/hfs40k/images/covers/2011-07-10-the-cinematic-orchestra-every-day-flac.webp)](/hfs40k/images/covers/2011-07-10-the-cinematic-orchestra-every-day-flac.webp)  
 Cinematic Orchestra's "Everyday" is a journey into soul and jazz of the 'cinematic' variety. Often, the music is dark and conspiratorial. Previous output by this band has verged on abstract and moody -- for those dark thriller-type films.
 
 However, three tracks on this album feature the deep, soulful vocals of Fontella Bass and one track: "All Things to all Men", features rapper Roots Manuva. That leaves only three tracks without vocals. So, it is not too abstract this time; the 'cinematic sweeps' are more restrained. Necessarily, because of the human vocals, there is a slightly more tangible emotional connection. Fontella Bass's voice imparts a certain rugged majesty to things.

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Camel%20Mirage
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-31-camel-mirage-1974-flac-bonus-tracks.webp)](/holyfuckingshit40000/images/covers/2010-01-31-camel-mirage-1974-flac-bonus-tracks.webp)  
+[![](/hfs40k/images/covers/2010-01-31-camel-mirage-1974-flac-bonus-tracks.webp)](/hfs40k/images/covers/2010-01-31-camel-mirage-1974-flac-bonus-tracks.webp)  
 The best of Camel.  
   
 Snow Goose, Moonmadness and Rajaz coming up next.  

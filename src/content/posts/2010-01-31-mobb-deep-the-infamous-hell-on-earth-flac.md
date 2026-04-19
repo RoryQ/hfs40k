@@ -22,7 +22,7 @@ Real gangster rap here. Nothing really tops the dark gritty beats on these two a
   
 
 The Infamous  
-[![](/holyfuckingshit40000/images/covers/2010-01-31-mobb-deep-the-infamous-hell-on-earth-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-31-mobb-deep-the-infamous-hell-on-earth-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-31-mobb-deep-the-infamous-hell-on-earth-flac.webp)](/hfs40k/images/covers/2010-01-31-mobb-deep-the-infamous-hell-on-earth-flac.webp)  
 
 [Get it in FLAC.](https://web.archive.org/web/20111010123838/http://lix.in/-734e08)  
 

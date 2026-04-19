@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Ocean%20Precambr
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-22-the-ocean-precambrian-2007-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-22-the-ocean-precambrian-2007-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-22-the-ocean-precambrian-2007-flac.webp)](/hfs40k/images/covers/2010-04-22-the-ocean-precambrian-2007-flac.webp)  
 HOLY FUCKING SHIT: GEOLOGY METAL  
   
 [Download](https://web.archive.org/web/20111010045154/http://lix.in/-7cca58)

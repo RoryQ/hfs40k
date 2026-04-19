@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=M83%20Before%20The%20D
 
 
 
-[![](/holyfuckingshit40000/images/e220febd8b81b203c7b68fe60e2cf199.webp)](/holyfuckingshit40000/images/e220febd8b81b203c7b68fe60e2cf199.webp)  
+[![](/hfs40k/images/e220febd8b81b203c7b68fe60e2cf199.webp)](/hfs40k/images/e220febd8b81b203c7b68fe60e2cf199.webp)  
 First post here, let me know if the link is dead, I'll upload it again.  
 [FLAC](https://web.archive.org/web/20111010123016/http://www.megaupload.com/?d=T9CTWA98)

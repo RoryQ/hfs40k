@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=This%20Heat%20Deceit
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-01-28-this-heat-deceit-1981.webp)](/holyfuckingshit40000/images/covers/2009-01-28-this-heat-deceit-1981.webp)  
+[![](/hfs40k/images/covers/2009-01-28-this-heat-deceit-1981.webp)](/hfs40k/images/covers/2009-01-28-this-heat-deceit-1981.webp)  
 Genre: Experimental Rock  
 Country: U.K.  
   

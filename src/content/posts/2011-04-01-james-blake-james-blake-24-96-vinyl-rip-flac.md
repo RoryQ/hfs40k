@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=James%20Blake%20James%
 
 
 
-[![](/holyfuckingshit40000/images/19300161104801671caeba79aa698c0f.webp)](/holyfuckingshit40000/images/f9f01b7f54a297e6f98bf90a602c57fd.webp)  
+[![](/hfs40k/images/19300161104801671caeba79aa698c0f.webp)](/hfs40k/images/f9f01b7f54a297e6f98bf90a602c57fd.webp)  
 Contains two bonus tracks that are NOT on CD release.  
   
 Ripping line: Project Debut III + Ortofon 2M Red -> Cambridge 640P Preamp -> Sony Soundforge / ClickRepair  

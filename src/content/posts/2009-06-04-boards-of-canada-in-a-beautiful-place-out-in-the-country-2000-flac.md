@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-04-boards-of-canada-in-a-beautiful-place-out-in-the-country-2000-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-04-boards-of-canada-in-a-beautiful-place-out-in-the-country-2000-flac.webp)
+[![](/hfs40k/images/covers/2009-06-04-boards-of-canada-in-a-beautiful-place-out-in-the-country-2000-flac.webp)](/hfs40k/images/covers/2009-06-04-boards-of-canada-in-a-beautiful-place-out-in-the-country-2000-flac.webp)
 
 Boards of Canada converts their childhood memories to musical form, and this EP emphasizes the landscapes they saw when they were young.
 

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wes%20Montgomery%20The
 
 
 
-[![](/holyfuckingshit40000/images/c5f8a8ea92900f09fe614622d0c7bdd9.webp)](https://web.archive.org/web/20111010064938/http://3.bp.blogspot.com/_cLI19EXK2oU/TFrmHu2ABpI/AAAAAAAAAxE/gf8-sh-oWhI/s1600/99_g-2008-10-19-111545.jpg)  
+[![](/hfs40k/images/c5f8a8ea92900f09fe614622d0c7bdd9.webp)](https://web.archive.org/web/20111010064938/http://3.bp.blogspot.com/_cLI19EXK2oU/TFrmHu2ABpI/AAAAAAAAAxE/gf8-sh-oWhI/s1600/99_g-2008-10-19-111545.jpg)  
 As the very useful liner notes to this release point out, this 1960 recording was a bit of a coming-out party for Montgomery, arguably the most influential jazz guitarist of the last half century. The title is not hyperbole; the guitar playing here is indeed incredible, although Wes sets aside mere flash for meaningful swing.
 
 The guitarist benefits from a crack band behind him: Al and Percy Heath on drums and bass, respectively, and the flawless Tommy Flanagan on piano. Flanagan had shortly before this date contributed mightily to Coltrane's "Giant Steps," and his ability to seamlessly slip in behind Montgomery on a date that couldn't be more different than Coltrane's is testimony to his taste and his chops.

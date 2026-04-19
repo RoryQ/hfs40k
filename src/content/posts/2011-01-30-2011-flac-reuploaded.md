@@ -16,5 +16,5 @@ youtube_url: https://www.youtube.com/results?search_query=Mogwai%20Hardcore%20Wi
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-01-30-2011-flac-reuploaded.webp)](/holyfuckingshit40000/images/covers/2011-01-30-2011-flac-reuploaded.webp)  
+[![](/hfs40k/images/covers/2011-01-30-2011-flac-reuploaded.webp)](/hfs40k/images/covers/2011-01-30-2011-flac-reuploaded.webp)  
 [If you don't download this you will die](https://web.archive.org/web/20111010071158/http://lix.in/-9ce990)

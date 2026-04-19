@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Eluvium%20Similes
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-27-eluvium-similes-2010-v0.webp)](/holyfuckingshit40000/images/covers/2010-01-27-eluvium-similes-2010-v0.webp)  
+[![](/hfs40k/images/covers/2010-01-27-eluvium-similes-2010-v0.webp)](/hfs40k/images/covers/2010-01-27-eluvium-similes-2010-v0.webp)  
   
 I hear a lot of Brian Eno. Still, my least favorite release from Eluvium to date. Decide for yourself..  
   

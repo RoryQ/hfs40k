@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ride%20Nowhere
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-11-13-ride-nowhere-20th-anniversary-edition-flac.webp)](/holyfuckingshit40000/images/covers/2011-11-13-ride-nowhere-20th-anniversary-edition-flac.webp)  
+[![](/hfs40k/images/covers/2011-11-13-ride-nowhere-20th-anniversary-edition-flac.webp)](/hfs40k/images/covers/2011-11-13-ride-nowhere-20th-anniversary-edition-flac.webp)  
 
 [Vaportrail](https://web.archive.org/web/20111203230229/http://lix.in/-b06d26)
 

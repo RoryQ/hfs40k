@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robe.%20Complete%20Dis
 
 
 
-[![](/holyfuckingshit40000/images/a13b7cd8e7a34c42ca2753787f761aae.webp)](/holyfuckingshit40000/images/a13b7cd8e7a34c42ca2753787f761aae.webp) [Download](https://web.archive.org/web/20111010164417/http://www.mediafire.com/?sharekey=67caaafa094ef9e78c9e7c56ba37815f62ad269a9b0e4115)  
+[![](/hfs40k/images/a13b7cd8e7a34c42ca2753787f761aae.webp)](/hfs40k/images/a13b7cd8e7a34c42ca2753787f761aae.webp) [Download](https://web.archive.org/web/20111010164417/http://www.mediafire.com/?sharekey=67caaafa094ef9e78c9e7c56ba37815f62ad269a9b0e4115)  
   
 A growing fixture of the underground experimental drone scene, Robe. is a ghost sludge act.  
   

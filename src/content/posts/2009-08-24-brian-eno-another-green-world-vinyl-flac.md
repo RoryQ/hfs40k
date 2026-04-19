@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-24-brian-eno-another-green-world-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-24-brian-eno-another-green-world-vinyl-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-24-brian-eno-another-green-world-vinyl-flac.webp)](/hfs40k/images/covers/2009-08-24-brian-eno-another-green-world-vinyl-flac.webp)  
   
 In an interview ten years after the release of his acknowledged 1975 masterpiece ANOTHER GREEN WORLD, Brian Eno said, "I want the music to be as much as possible a continuous condition of the environment...in the same way as a painting is." This goes a long way toward explaining Eno's approach to music, where tone and texture take precedence over lyrics and melody. These are not so much songs as they are ambient sound paintings. Even on songs like "I'll Come Running", which seems to follow a conventional song structure, there is an ethereal beauty about it.  
   

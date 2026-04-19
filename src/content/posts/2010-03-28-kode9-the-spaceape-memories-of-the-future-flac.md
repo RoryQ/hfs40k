@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Kode9%20%26%20The%20Sp
 
 
 
-[![](/holyfuckingshit40000/images/80862e0ceedf827439a751fb4986dcaf.gif)](https://web.archive.org/web/20111010080920/http://1.bp.blogspot.com/_t6lWjgwMoxw/S68X9JQ7nzI/AAAAAAAAAHE/cCdrW0HbNuA/s1600/webmemory-747616.gif)  
+[![](/hfs40k/images/80862e0ceedf827439a751fb4986dcaf.gif)](https://web.archive.org/web/20111010080920/http://1.bp.blogspot.com/_t6lWjgwMoxw/S68X9JQ7nzI/AAAAAAAAAHE/cCdrW0HbNuA/s1600/webmemory-747616.gif)  
   
   
   

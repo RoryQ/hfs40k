@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Cut%20Copy%20Zonoscope
 
 
 
-[![](/holyfuckingshit40000/images/e7970acb324b1f40f0eb4bcbbf32ef65.webp)](https://web.archive.org/web/20111010033828/http://1.bp.blogspot.com/-yFJhmrt8Wg8/TVYlm9bJKUI/AAAAAAAAAVA/15yxYUWKt-0/s1600/cutcopyzono.png)Cut Copy is a fun and enjoyable electronic outfit who don't really aspire to create anything more than just upbeat synthpop. This album is no different radiates a whole lot of fun dance punk vibes.
+[![](/hfs40k/images/e7970acb324b1f40f0eb4bcbbf32ef65.webp)](https://web.archive.org/web/20111010033828/http://1.bp.blogspot.com/-yFJhmrt8Wg8/TVYlm9bJKUI/AAAAAAAAAVA/15yxYUWKt-0/s1600/cutcopyzono.png)Cut Copy is a fun and enjoyable electronic outfit who don't really aspire to create anything more than just upbeat synthpop. This album is no different radiates a whole lot of fun dance punk vibes.
 
 [Download v0](https://web.archive.org/web/20111010033828/http://lix.in/-9c8f5d)

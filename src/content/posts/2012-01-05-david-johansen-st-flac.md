@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Johansen%20S/T
 
 
 
-[![](/holyfuckingshit40000/images/covers/2012-01-05-david-johansen-st-flac.webp)](/holyfuckingshit40000/images/covers/2012-01-05-david-johansen-st-flac.webp)
+[![](/hfs40k/images/covers/2012-01-05-david-johansen-st-flac.webp)](/hfs40k/images/covers/2012-01-05-david-johansen-st-flac.webp)
 
 **Razor & Tie ~ 1994/1978**  
   

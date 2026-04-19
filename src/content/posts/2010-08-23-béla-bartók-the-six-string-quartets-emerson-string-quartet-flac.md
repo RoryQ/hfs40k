@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3
 
 
 
-[![](/holyfuckingshit40000/images/1d4df090097fa7f1900fe13996a6225e.webp)](https://web.archive.org/web/20111010064751/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNK5_OqOPI/AAAAAAAAANQ/Z_p7tM7tSqY/s1600/folder.jpg)Once again, oh so very lazy...
+[![](/hfs40k/images/1d4df090097fa7f1900fe13996a6225e.webp)](https://web.archive.org/web/20111010064751/http://3.bp.blogspot.com/_nmjS6fd9kfU/THNK5_OqOPI/AAAAAAAAANQ/Z_p7tM7tSqY/s1600/folder.jpg)Once again, oh so very lazy...
 
 "A new cycle of quartets Bartok quartets has to be pretty special if it is to stand out in such select company as the above. The Emerson Quartet's is, and it does. Their nearest counterparts are the Alban Berg on EMI, in that both ensembles are powerful and refined, pay close attention to the letter of the score, and excel in virtuoso teamwork. The differences are that the Emerson are better recorded, are accommodated on two CDs (the Berg are on three), do not suffer from embarrassing mis-readings, show more imagination in countless details and, perhaps surprisingly, outshine their rivals on their 'home territory', namely the virtuosic 'middle' quartets.
 

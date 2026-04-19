@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Coil%20Musick%20to%20P
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-24-coil-musick-to-play-in-the-dark-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-24-coil-musick-to-play-in-the-dark-flac.webp)What is Coil? Imagine, when you take a shit on the ground, the shape of the pile of shit looks exactly like Coil.  
+[![](/hfs40k/images/covers/2009-11-24-coil-musick-to-play-in-the-dark-flac.webp)](/hfs40k/images/covers/2009-11-24-coil-musick-to-play-in-the-dark-flac.webp)What is Coil? Imagine, when you take a shit on the ground, the shape of the pile of shit looks exactly like Coil.  
   
 Yes, Coil is basically shit. The lyrics are pretentious shit, but who cares about their lyrics in the first place?  
   

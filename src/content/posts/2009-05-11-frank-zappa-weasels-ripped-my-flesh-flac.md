@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Weasel
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-11-frank-zappa-weasels-ripped-my-flesh-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-11-frank-zappa-weasels-ripped-my-flesh-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-11-frank-zappa-weasels-ripped-my-flesh-flac.webp)](/hfs40k/images/covers/2009-05-11-frank-zappa-weasels-ripped-my-flesh-flac.webp)  
 Feels good man.  
  [Download](https://web.archive.org/web/20111008142846/http://www.megaupload.com/?d=IC4I8IJ0) FLAC

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Emancipator%20Safe%20I
 
 
 
-[![](/holyfuckingshit40000/images/bd93b94fb72e68ea09590f0022f3619c.webp)](https://web.archive.org/web/20111010123344/http://2.bp.blogspot.com/_5cVyPU93ihM/S1Y6M-F6EqI/AAAAAAAAAM4/39Np3MRrZdw/s1600-h/cover.jpg)  
+[![](/hfs40k/images/bd93b94fb72e68ea09590f0022f3619c.webp)](https://web.archive.org/web/20111010123344/http://2.bp.blogspot.com/_5cVyPU93ihM/S1Y6M-F6EqI/AAAAAAAAAM4/39Np3MRrZdw/s1600-h/cover.jpg)  
 'Safe In The Steep Cliffs' is a set of finely-crafted, epic instrumentals from Portland-based electronica/hip hop/downtempo producer Emancipator, featuring tight, syncopated percussion, organic melodies and eclectic samples.  
   
 To some, it must seem like this young electronic producer came out of nowhere this year. Emancipator played his first live show in July 2009, opening for Bonobo at the Roseland Theater (cap. 1500). Since then, he’s toured with Bassnectar, drawn crowds at festivals like Trinumeral and Symbiosis, and closed out Sound Tribe Sector 9’s late night parties in Denver at the request of the band.  

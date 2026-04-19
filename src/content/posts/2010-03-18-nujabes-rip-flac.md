@@ -23,7 +23,7 @@ Damn! The year 2010 is not really treating music very well, is it?
   
 Metaphorical Music  
   
-[![](/holyfuckingshit40000/images/covers/2010-03-18-nujabes-rip-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-18-nujabes-rip-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-18-nujabes-rip-flac.webp)](/hfs40k/images/covers/2010-03-18-nujabes-rip-flac.webp)  
 [FLAC](https://web.archive.org/web/20101203165259/http://lix.in/-7a71f6)  
   
 Modal Soul  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Fahey%20Fare%20
 
 
 
-[![](/holyfuckingshit40000/images/d3db03f706c459b7a514d1b268fb12b2.webp)](https://web.archive.org/web/20111010155120/http://3.bp.blogspot.com/_A31Dfz4S5yg/Sz19g8TQpxI/AAAAAAAAAOk/efXY4zknQGk/s1600-h/soldierschoice.jpg)  
+[![](/hfs40k/images/d3db03f706c459b7a514d1b268fb12b2.webp)](https://web.archive.org/web/20111010155120/http://3.bp.blogspot.com/_A31Dfz4S5yg/Sz19g8TQpxI/AAAAAAAAAOk/efXY4zknQGk/s1600-h/soldierschoice.jpg)  
 everything for bros  
   
 [download flac](https://web.archive.org/web/20111010155120/http://lix.in/-640244)

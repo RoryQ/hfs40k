@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Weezer%20Pinkerton
 
 
 
-[![](/holyfuckingshit40000/images/afa04226b873be93fac6f0a36bc57327.webp)](https://web.archive.org/web/20111010065223/http://2.bp.blogspot.com/_cLI19EXK2oU/TGrIjuUbIXI/AAAAAAAAAyk/9TKXQ90SW_c/s1600/Weezer-Pinkerton-Frontal.jpg)  
+[![](/hfs40k/images/afa04226b873be93fac6f0a36bc57327.webp)](https://web.archive.org/web/20111010065223/http://2.bp.blogspot.com/_cLI19EXK2oU/TGrIjuUbIXI/AAAAAAAAAyk/9TKXQ90SW_c/s1600/Weezer-Pinkerton-Frontal.jpg)  
 Pinkerton... where to begin? Most Weezer fans favor either this album or the Blue Album as Weezer's best (the Green Album is generally accepted as inferior to these two). The majority of them favor Pinkerton. But why? Pinkerton was a commercial failure, at least compared to the Blue Album. When it was first released, no one liked it. Not even me.
 
 But time changes everything. When I first heard Pinkerton, I thought, "Whoa, Rivers, what do you think you're doing?" On the surface, Pinkerton sounds like a desperate, overly emotional and possibly even annoying this-is-my-life-story kind of album. With time, it evolves into one of the most mind-blowingly awesome rock albums of the nineties.

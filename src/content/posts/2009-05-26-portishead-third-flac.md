@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Portishead%20Third
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-26-portishead-third-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-26-portishead-third-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-26-portishead-third-flac.webp)](/hfs40k/images/covers/2009-05-26-portishead-third-flac.webp)  
   
 Reuploaded since karppy is tsundere for good music.  
   

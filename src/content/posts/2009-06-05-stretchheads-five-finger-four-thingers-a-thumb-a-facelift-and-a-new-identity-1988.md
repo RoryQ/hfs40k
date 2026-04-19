@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Stretchheads%20Five%20
 
 
 
-[![](/holyfuckingshit40000/images/937ba5dae3348011f6cc9de6a1e1096b.webp)](https://web.archive.org/web/20111010091349/http://1.bp.blogspot.com/_U_-AMxSHIOo/SimhAM6FCLI/AAAAAAAAAAc/bggNKCTxN18/s1600-h/92758.jpg)  
+[![](/hfs40k/images/937ba5dae3348011f6cc9de6a1e1096b.webp)](https://web.archive.org/web/20111010091349/http://1.bp.blogspot.com/_U_-AMxSHIOo/SimhAM6FCLI/AAAAAAAAAAc/bggNKCTxN18/s1600-h/92758.jpg)  
   
   
   

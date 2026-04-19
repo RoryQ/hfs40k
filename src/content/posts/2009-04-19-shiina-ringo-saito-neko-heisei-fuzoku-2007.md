@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20%26%2
 
 
 
-[![](/holyfuckingshit40000/images/e01cd366d4f566077c353315dada80eb.webp)](/holyfuckingshit40000/images/e01cd366d4f566077c353315dada80eb.webp)  
+[![](/hfs40k/images/e01cd366d4f566077c353315dada80eb.webp)](/hfs40k/images/e01cd366d4f566077c353315dada80eb.webp)  
 平成風俗 (Heisei Fuuzoku ,Japanese Manners), the literal translation is "Heisei manners and customs", is the albums which Shiina Ringo put on the market in the name of the " Shina Ringo x Saito Neko" with Saito Neko on February 21, 2007. Since this album is a joint signature with Saito Neko, to be exact, it isn’t her solo work.  
   
 [Download (v0)](https://web.archive.org/web/20111010131119/http://www.megaupload.com/?d=QX4LO2TW)

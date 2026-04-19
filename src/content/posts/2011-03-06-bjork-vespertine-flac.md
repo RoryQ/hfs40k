@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bjork%20Vespertine
 
 
 
-[![](/holyfuckingshit40000/images/935d4e15c3770ad2e5c39a1f6b46916e.webp)](https://web.archive.org/web/20111010111655/http://4.bp.blogspot.com/-ZvQuqLPH6j4/TXPYares78I/AAAAAAAAA6k/8GFmB1MwFvo/s1600/bjork-vespertine.jpg)  
+[![](/hfs40k/images/935d4e15c3770ad2e5c39a1f6b46916e.webp)](https://web.archive.org/web/20111010111655/http://4.bp.blogspot.com/-ZvQuqLPH6j4/TXPYares78I/AAAAAAAAA6k/8GFmB1MwFvo/s1600/bjork-vespertine.jpg)  
 It's always been challenging to classify the work of Icelandic super-star BJork, as she's always come up with something that escapes any previously conceived category tags: if you think of her as a techno artist, maybe you're right for a few songs; but then she morphs altogether, and comes back reborn playing songs such as 'It's oh, so quiet' or 'All neon like.' At that point you stop trying to find a tag for her music, and just take it at face value: as one of the greatest samples of music (and even visual) art that can be found these days.
 
 With "Vespertine," her newest album, the former lead voice of The Sugarcubes, Bjork takes her music to a new level. With five very successful, and progressively more experimental -yet more mature- albums under her belt, and an immersion into the acting terrain with her outstanding performance in 2000 as Selma, in Lars Von Trier's film "Dancer In The Dark" (the film for which her own album "Selmasongs" served as soundtrack), she comes back with a production that is far more peaceful, adult and introspective than her any of her past work.

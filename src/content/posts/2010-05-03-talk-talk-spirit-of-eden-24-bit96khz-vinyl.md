@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20Spirit%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-03-talk-talk-spirit-of-eden-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2010-05-03-talk-talk-spirit-of-eden-24-bit96khz-vinyl.webp)Mark Hollis, like David Sylvian of Japan, Bjork of The Sugarcubes and David Byrne of the Talking Heads, always seemed to be peeking over the horizon and onto the next thing even while his band was appearing on 'Top of the Pops' or pandering to record label execs.  
+[![](/hfs40k/images/covers/2010-05-03-talk-talk-spirit-of-eden-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2010-05-03-talk-talk-spirit-of-eden-24-bit96khz-vinyl.webp)Mark Hollis, like David Sylvian of Japan, Bjork of The Sugarcubes and David Byrne of the Talking Heads, always seemed to be peeking over the horizon and onto the next thing even while his band was appearing on 'Top of the Pops' or pandering to record label execs.  
   
 SPIRIT OF EDEN is that moment when he finally realized that walking away from the safety of the pop charts was far more satisfying than making an album full of compromises.  
   

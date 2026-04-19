@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%237%20Sonic%20Youth%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-04-7-sonic-youth-daydream-nation-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-04-7-sonic-youth-daydream-nation-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-04-7-sonic-youth-daydream-nation-flac.webp)](/hfs40k/images/covers/2010-05-04-7-sonic-youth-daydream-nation-flac.webp)  
 Daydream Nation is clearly Sonic Youth's breakthrough album. A two lp set that focused all their previous ideas into one cohesive and brilliant album. The songs are stretched out giving more of an idea of what they sounded like live. The sprawling, though in no way self indulgent quality of the album took Sonic Youth into a new direction.  
   
 [161 points](https://web.archive.org/web/20111209005344/http://lix.in/-79e277)  
@@ -32,7 +32,7 @@ Below is a comparison of the 2 releases. Former is the 1988 Blast First release 
   
 Blast First  
   
-[![](/holyfuckingshit40000/images/c60838e9e895a340d944ab06234280a2.gif)](https://web.archive.org/web/20111209005344/http://3.bp.blogspot.com/_cLI19EXK2oU/S-CI-IqoedI/AAAAAAAAAiU/Iyu0aZiOTPw/s1600/Blast-First-CD.gif)  
+[![](/hfs40k/images/c60838e9e895a340d944ab06234280a2.gif)](https://web.archive.org/web/20111209005344/http://3.bp.blogspot.com/_cLI19EXK2oU/S-CI-IqoedI/AAAAAAAAAiU/Iyu0aZiOTPw/s1600/Blast-First-CD.gif)  
 GDC/Deluxe Edition  
   
-[![](/holyfuckingshit40000/images/17cbd59d9ffab1a0a8dd8e3fa72d0a09.gif)](https://web.archive.org/web/20111209005344/http://1.bp.blogspot.com/_cLI19EXK2oU/S-CJQgYQK9I/AAAAAAAAAik/g6NyDb3Iue4/s1600/DGC-CD.gif)
+[![](/hfs40k/images/17cbd59d9ffab1a0a8dd8e3fa72d0a09.gif)](https://web.archive.org/web/20111209005344/http://1.bp.blogspot.com/_cLI19EXK2oU/S-CJQgYQK9I/AAAAAAAAAik/g6NyDb3Iue4/s1600/DGC-CD.gif)

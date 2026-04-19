@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Saltillo%20Ganglion
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-22-saltillo-ganglion-2006-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-22-saltillo-ganglion-2006-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-22-saltillo-ganglion-2006-flac.webp)](/hfs40k/images/covers/2009-07-22-saltillo-ganglion-2006-flac.webp)  
 Old link is long dead...so I raise you a FLAC.  
   
 Anyone who ever wondered what Trippity hops and Modern Classical/Chamber music would sound like together, here's my answer.  

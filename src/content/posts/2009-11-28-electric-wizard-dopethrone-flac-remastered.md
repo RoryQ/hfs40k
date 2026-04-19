@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20DO
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-28-electric-wizard-dopethrone-flac-remastered.webp)](/holyfuckingshit40000/images/covers/2009-11-28-electric-wizard-dopethrone-flac-remastered.webp)  
+[![](/hfs40k/images/covers/2009-11-28-electric-wizard-dopethrone-flac-remastered.webp)](/hfs40k/images/covers/2009-11-28-electric-wizard-dopethrone-flac-remastered.webp)  
 It's one of my favourite albums, but honestly it sounds like the following events occurred.  
 Hey man, let's jam!  
 Ok, let's play some Black Sabbath, some Master of Reality stuff.  

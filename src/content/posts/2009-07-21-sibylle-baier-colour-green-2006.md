@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sibylle%20Baier%20Colo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-21-sibylle-baier-colour-green-2006.webp)](/holyfuckingshit40000/images/covers/2009-07-21-sibylle-baier-colour-green-2006.webp)Kind of like the female Nick Drake, without the VOLKSFAGEN popularity. This album is basically a compilation of her songs she recorded from 1970-1973 and was released on an actual label in 2006.  
+[![](/hfs40k/images/covers/2009-07-21-sibylle-baier-colour-green-2006.webp)](/hfs40k/images/covers/2009-07-21-sibylle-baier-colour-green-2006.webp)Kind of like the female Nick Drake, without the VOLKSFAGEN popularity. This album is basically a compilation of her songs she recorded from 1970-1973 and was released on an actual label in 2006.  
   
 [Download AAC (192)](https://web.archive.org/web/20111010140852/http://lix.in/-51b9a8)

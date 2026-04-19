@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=JG%20Thirlwell%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-11-jg-thirlwell-the-venture-bros-score-volume-1-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-11-jg-thirlwell-the-venture-bros-score-volume-1-flac.webp)Officially this is named *The Venture Bros.: The Music of JG Thirlwell*. It is the 1st of an undeclared amount of volumes. It's a lot like his work with Foetus. Obviously you'll recognize a lot of this music if you're a fan of The Venture Bros.
+[![](/hfs40k/images/covers/2011-04-11-jg-thirlwell-the-venture-bros-score-volume-1-flac.webp)](/hfs40k/images/covers/2011-04-11-jg-thirlwell-the-venture-bros-score-volume-1-flac.webp)Officially this is named *The Venture Bros.: The Music of JG Thirlwell*. It is the 1st of an undeclared amount of volumes. It's a lot like his work with Foetus. Obviously you'll recognize a lot of this music if you're a fan of The Venture Bros.
 
 **Tracklist:**
 

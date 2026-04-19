@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Rain%20D
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-21-tom-waits-rain-dogs-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-21-tom-waits-rain-dogs-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-21-tom-waits-rain-dogs-flac.webp)](/hfs40k/images/covers/2010-02-21-tom-waits-rain-dogs-flac.webp)  
   
 It's 1:30 AM. You're alone and it's hot, and ALL your sheets are firmly to the wind. Rain Dogs [and another drink] is all you need.
 

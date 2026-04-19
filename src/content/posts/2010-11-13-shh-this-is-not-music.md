@@ -16,7 +16,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Microphones%20Th
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-11-13-shh-this-is-not-music.webp)](/holyfuckingshit40000/images/covers/2010-11-13-shh-this-is-not-music.webp)  
+[![](/hfs40k/images/covers/2010-11-13-shh-this-is-not-music.webp)](/hfs40k/images/covers/2010-11-13-shh-this-is-not-music.webp)  
 Might not be going to see their ouput in quite some time so this one is a real pleasant treat, an improvement over their last album, although they are "leftovers" from the same recording session.  
   
 [Download FLAC](https://web.archive.org/web/20111010042348/http://lix.in/-89f589)

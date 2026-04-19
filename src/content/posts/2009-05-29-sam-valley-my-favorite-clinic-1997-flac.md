@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sam%20%26%20Valley%20M
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-29-sam-valley-my-favorite-clinic-1997-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-29-sam-valley-my-favorite-clinic-1997-flac.webp)
+[![](/hfs40k/images/covers/2009-05-29-sam-valley-my-favorite-clinic-1997-flac.webp)](/hfs40k/images/covers/2009-05-29-sam-valley-my-favorite-clinic-1997-flac.webp)
 
 This is one of those obscure gems I mentioned yesterday. Look at the cover. Can you tell what's going on? Neither can I. Further inspection of the packaging suggests that someone didn't go to design school. The disc is labeled as "Side B" with track numbers ranging from 22 to 52. The back cover is littered with barcodes of all different sizes.
 

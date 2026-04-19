@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Stars%20of%20the%20Lid
 
 
 
-[![](/holyfuckingshit40000/images/38c16f36118ee5381f6017acd07c2a24.webp)](/holyfuckingshit40000/images/38c16f36118ee5381f6017acd07c2a24.webp)
+[![](/hfs40k/images/38c16f36118ee5381f6017acd07c2a24.webp)](/hfs40k/images/38c16f36118ee5381f6017acd07c2a24.webp)
 
 Had to take this down, sorry bros
 

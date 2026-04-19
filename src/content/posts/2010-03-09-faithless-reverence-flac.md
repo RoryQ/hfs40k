@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Faithless%20Reverence%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-09-faithless-reverence-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-09-faithless-reverence-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-09-faithless-reverence-flac.webp)](/hfs40k/images/covers/2010-03-09-faithless-reverence-flac.webp)  
   
   
   

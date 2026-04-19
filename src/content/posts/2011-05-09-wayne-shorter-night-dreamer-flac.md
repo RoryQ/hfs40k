@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Nigh
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-09-wayne-shorter-night-dreamer-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-09-wayne-shorter-night-dreamer-flac.webp)  
+[![](/hfs40k/images/covers/2011-05-09-wayne-shorter-night-dreamer-flac.webp)](/hfs40k/images/covers/2011-05-09-wayne-shorter-night-dreamer-flac.webp)  
 This album is Wayne's first in a long series of classic recordings for the Blue Note label. In trying to put this session in perspective with his other mid-sixties recordings as a leader, I find that Wayne has not yet fully developed and presented his compositional skills. While "Night Dreamer" exhibits some fine performances by all, his second Blue Note, "JuJu", combines equally fine performances as well as some of Wayne's most notable compositions. His third Blue Note offering, "Speak No Evil" is very strong compositionally, yet lacks the vigor in the individual performances found here.
 
 Recorded in April, 1964, this session features Lee Morgan (trumpet), McCoy Tyner (piano), Reggie Workman (bass) and the incomparable Elvin Jones on drums. The rhythm section of McCoy, Reggie and Elvin had worked extensively together in John Coltrane's quartet, and Wayne and Lee as front men for Art Blakey's Jazz Messengers. Besides the long-standing relationships, these five jazz giants recorded many sessions in various combinations throughout the early sixties. That is not to say that the communication skills they must have developed are too obvious in this recording. They don't always seem to weave the same color and texture of fabric as we might expect.

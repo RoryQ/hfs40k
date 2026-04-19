@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Cirque%20F
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-04-biosphere-cirque-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-04-biosphere-cirque-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-04-biosphere-cirque-flac.webp)](/hfs40k/images/covers/2010-04-04-biosphere-cirque-flac.webp)  
   
   
   

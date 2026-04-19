@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20B
 
 
 
-[![](/holyfuckingshit40000/images/097e2ebaf72f84ef78d9992e8c9fd783.webp)](https://web.archive.org/web/20111010112507/http://4.bp.blogspot.com/_nmjS6fd9kfU/TLRhzHRlbWI/AAAAAAAAAPg/Gw0Cm20p-q8/s1600/folder.jpg)"There are so many recordings of Bach; I choose this one by Szeryng.
+[![](/hfs40k/images/097e2ebaf72f84ef78d9992e8c9fd783.webp)](https://web.archive.org/web/20111010112507/http://4.bp.blogspot.com/_nmjS6fd9kfU/TLRhzHRlbWI/AAAAAAAAAPg/Gw0Cm20p-q8/s1600/folder.jpg)"There are so many recordings of Bach; I choose this one by Szeryng.
 
 No other performance or recording of the Unaccompanied Sonatas and Partitas for violin has pleased me more than this recording by Szeryng. The playing is effortless, the lines are intact, and every idea is presented in a compelling and developed way. This is Bach that has been eaten for breakfast, lunch, and dinner for years.
 

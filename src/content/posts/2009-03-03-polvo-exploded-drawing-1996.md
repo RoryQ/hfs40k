@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Polvo%20Exploded%20Dra
 
 
 
-[![](/holyfuckingshit40000/images/316657bd600aa6d6cab5ef23d75ce0e8.webp)](/holyfuckingshit40000/images/d6657c0d19d9429860f9dac3062a74fe.webp)  
+[![](/hfs40k/images/316657bd600aa6d6cab5ef23d75ce0e8.webp)](/hfs40k/images/d6657c0d19d9429860f9dac3062a74fe.webp)  
 Genre: Experimental Rock / Math Rock  
 Country: U.S.  
   

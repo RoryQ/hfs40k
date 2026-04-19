@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Gastr%20del%20Sol%20Ca
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-02-gastr-del-sol-camoufleur-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-02-gastr-del-sol-camoufleur-flac.webp)And with this we come to the end of our spotlight on Jim O'Rourke in general. *Camoufleur* is slightly poppier than its successor, *Upgrade & Afterlife,* but it still exhibits the fractured approach to songwriting that Grubbs and O'Rourke possess(ed) between themselves. Fahey, backwards tape loops, drones, summery pop, joy.
+[![](/hfs40k/images/covers/2010-09-02-gastr-del-sol-camoufleur-flac.webp)](/hfs40k/images/covers/2010-09-02-gastr-del-sol-camoufleur-flac.webp)And with this we come to the end of our spotlight on Jim O'Rourke in general. *Camoufleur* is slightly poppier than its successor, *Upgrade & Afterlife,* but it still exhibits the fractured approach to songwriting that Grubbs and O'Rourke possess(ed) between themselves. Fahey, backwards tape loops, drones, summery pop, joy.
 
 [Enjoy](https://web.archive.org/web/20111219083938/http://lix.in/-867901)

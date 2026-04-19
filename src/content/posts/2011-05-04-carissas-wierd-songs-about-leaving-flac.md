@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Carissa%27s%20Wierd%20
 
 
 
-[![](/holyfuckingshit40000/images/935a8b7314db99d1564f9ce86183342b.webp)](/holyfuckingshit40000/images/ef0ca0a249f53bc22909274d891e7601.webp)Strings. Dual vocal melodies. Perfect-for-the-music lyrics. I can't type a review much longer than this because my tears are going to fuck up my keyboard. Very beautiful, though.
+[![](/hfs40k/images/935a8b7314db99d1564f9ce86183342b.webp)](/hfs40k/images/ef0ca0a249f53bc22909274d891e7601.webp)Strings. Dual vocal melodies. Perfect-for-the-music lyrics. I can't type a review much longer than this because my tears are going to fuck up my keyboard. Very beautiful, though.
 
 [Enjoy](https://web.archive.org/web/20111010093826/http://lix.in/-95d917)

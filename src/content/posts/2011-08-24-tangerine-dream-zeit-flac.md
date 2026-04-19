@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tangerine%20Dream%20Ze
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-08-24-tangerine-dream-zeit-flac.webp)](/holyfuckingshit40000/images/covers/2011-08-24-tangerine-dream-zeit-flac.webp)
+[![](/hfs40k/images/covers/2011-08-24-tangerine-dream-zeit-flac.webp)](/hfs40k/images/covers/2011-08-24-tangerine-dream-zeit-flac.webp)
   
 Zeit" was only Tangerine Dream's third album release and a more courageous popular music release would be difficult to imagine. I mean, what group nowadays would be likely to use an instrumental line-up of four cellos, organ, vibraphone and gliss guitar for its opening number? Or dare attempt a work of almost 80 minutes duration with not a single drumbeat, tune or melody, or even variation in pace from the deathly slow? No record company would surely release anything like this today! "Zeit" dates from 1972, but for many, this music remains completely outside of time and stands forever timeless (German speakers will note the pun!) [Ohr's faith in Tangerine Dream must have been enormous, given that this was a double album when released on black vinyl! I remember my (imported) copy, bought in my student days, cost almost a whole term's rent!]
 

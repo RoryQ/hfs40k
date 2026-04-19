@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yusef%20Lateef%20Easte
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-yusef-lateef-eastern-sounds-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-14-yusef-lateef-eastern-sounds-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-14-yusef-lateef-eastern-sounds-flac.webp)](/hfs40k/images/covers/2009-03-14-yusef-lateef-eastern-sounds-flac.webp)  
 Some bald guy plays jazz in Pakistan.  
   
 [Download1](https://web.archive.org/web/20111010164700/http://www.mediafire.com/?zjm4tuizzjz) [Download2](https://web.archive.org/web/20111010164700/http://www.mediafire.com/?qdyyzzzufmj) [Download3](https://web.archive.org/web/20111010164700/http://www.mediafire.com/?jdbtyzwrzej)

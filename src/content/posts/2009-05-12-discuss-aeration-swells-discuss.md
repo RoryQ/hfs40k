@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Discuss%20Aeration%20S
 
 
 
-[![](/holyfuckingshit40000/images/3fcc1af6369d1729c5d359dcc0984471.webp)](/holyfuckingshit40000/images/01c29ca0f8e6691cc8689e63038ccade.webp)  
+[![](/hfs40k/images/3fcc1af6369d1729c5d359dcc0984471.webp)](/hfs40k/images/01c29ca0f8e6691cc8689e63038ccade.webp)  
 Melodic IDM similar to Kettel.  
   
 Thanks to obi for the upload/recommendation.  

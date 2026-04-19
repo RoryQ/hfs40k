@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Time%20to%20Burn%20Is.
 
 
 
-[![](/holyfuckingshit40000/images/d43af6930ed7c5ae818604b9cc39f04a.webp)](/holyfuckingshit40000/images/d43af6930ed7c5ae818604b9cc39f04a.webp)Genre: Experimental Sludge  
+[![](/hfs40k/images/d43af6930ed7c5ae818604b9cc39f04a.webp)](/hfs40k/images/d43af6930ed7c5ae818604b9cc39f04a.webp)Genre: Experimental Sludge  
 Country: France  
   
 Why are frenchies just so fucking good at blending genres together? I'll never know, but I will continue to listen to their great music and share it with you.  

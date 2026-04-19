@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20Hva
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-26-sigur-rós-hvarfheim.webp)](/holyfuckingshit40000/images/covers/2009-07-26-sigur-rós-hvarfheim.webp)artsy-and-obscure-9th-grade-girl music. just plain awful.  
+[![](/hfs40k/images/covers/2009-07-26-sigur-rós-hvarfheim.webp)](/hfs40k/images/covers/2009-07-26-sigur-rós-hvarfheim.webp)artsy-and-obscure-9th-grade-girl music. just plain awful.  
   
 [dl flac](https://web.archive.org/web/20111010141722/http://lix.in/-56ccd9)

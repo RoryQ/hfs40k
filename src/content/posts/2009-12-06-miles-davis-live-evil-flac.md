@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Live-E
 
 
 
-[![](/holyfuckingshit40000/images/4bc49b1beeccb768a93f624f7a9a8ddd.webp)](https://web.archive.org/web/20111010155330/http://2.bp.blogspot.com/_nmjS6fd9kfU/Sxw6wY5auPI/AAAAAAAAAFM/YWhNM6Ynnio/s1600-h/folder.jpg)The companion album to the seminal Bitches Brew, Live-Evil provides an even funkier and more sinister atmosphere than its predecessor. Listen to it.  
+[![](/hfs40k/images/4bc49b1beeccb768a93f624f7a9a8ddd.webp)](https://web.archive.org/web/20111010155330/http://2.bp.blogspot.com/_nmjS6fd9kfU/Sxw6wY5auPI/AAAAAAAAAFM/YWhNM6Ynnio/s1600-h/folder.jpg)The companion album to the seminal Bitches Brew, Live-Evil provides an even funkier and more sinister atmosphere than its predecessor. Listen to it.  
  [Enjoy](https://web.archive.org/web/20111010155330/http://lix.in/-5f7a12)

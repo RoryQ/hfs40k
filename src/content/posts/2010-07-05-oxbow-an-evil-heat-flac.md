@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Oxbow%20An%20Evil%20He
 
 
 
-[![](/holyfuckingshit40000/images/3693903a60f4bccf941881ec2dc0eb83.webp)](/holyfuckingshit40000/images/bdf270f87d1919b8e22b92322027922c.webp)  
+[![](/hfs40k/images/3693903a60f4bccf941881ec2dc0eb83.webp)](/hfs40k/images/bdf270f87d1919b8e22b92322027922c.webp)  
 Sounds like Neurosis going noise-rock with a psychopathic frontman that's extremely angry and tortured, and sometimes reminds me of Naked City. The 30 minute sludgy dronefest at the end will definitely send some shiver down your spine.  
   
 [Why do all the song titles start with "s"?](https://web.archive.org/web/20111010053230/http://lix.in/-887043)

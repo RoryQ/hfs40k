@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Neutral%20Milk%20Hotel
 
 
 
-[![](/holyfuckingshit40000/images/bdb4e70125ce5fd92d9bc375482af217.webp)](https://web.archive.org/web/20111010094949/http://1.bp.blogspot.com/_cLI19EXK2oU/S-gXmVjNyFI/AAAAAAAAAlE/u3e29gZH1hU/s1600/yaranaiko+over+the+sea.jpg)  
+[![](/hfs40k/images/bdb4e70125ce5fd92d9bc375482af217.webp)](https://web.archive.org/web/20111010094949/http://1.bp.blogspot.com/_cLI19EXK2oU/S-gXmVjNyFI/AAAAAAAAAlE/u3e29gZH1hU/s1600/yaranaiko+over+the+sea.jpg)  
 [SEAMAN STAINS THE MOUNTAIN TOPS](https://web.archive.org/web/20111010094949/http://lix.in/-7dbc7d)

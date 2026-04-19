@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joanna%20Newsom%20Ys
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-08-joanna-newsom-ys-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-08-joanna-newsom-ys-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-08-joanna-newsom-ys-flac.webp)](/hfs40k/images/covers/2009-08-08-joanna-newsom-ys-flac.webp)  
 A woman and her harp.  
   
 Strum me away to fantasy land you magniloquent minstrel. My boner increases in girth with each wheat-fingered fleck of your yew-stringed lullaby maker.  

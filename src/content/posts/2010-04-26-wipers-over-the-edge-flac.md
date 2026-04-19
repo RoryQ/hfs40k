@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Wipers%20Over%20the%20
 
 
 
-[![](/holyfuckingshit40000/images/bff43db266446d42e8dd21b6c631d613.webp)](https://web.archive.org/web/20111010045007/http://2.bp.blogspot.com/_nmjS6fd9kfU/S9WhKoKMFpI/AAAAAAAAAIo/GBoqpN2xnHM/s1600/folder.jpg)My favorite Wipers album as a whole. While Youth of America has Youth of America, this has Over the Edge, Doom Town, Generation Gap, Romeo...
+[![](/hfs40k/images/bff43db266446d42e8dd21b6c631d613.webp)](https://web.archive.org/web/20111010045007/http://2.bp.blogspot.com/_nmjS6fd9kfU/S9WhKoKMFpI/AAAAAAAAAIo/GBoqpN2xnHM/s1600/folder.jpg)My favorite Wipers album as a whole. While Youth of America has Youth of America, this has Over the Edge, Doom Town, Generation Gap, Romeo...
 
 [Enjoy](https://web.archive.org/web/20111010045007/http://lix.in/-78b541)

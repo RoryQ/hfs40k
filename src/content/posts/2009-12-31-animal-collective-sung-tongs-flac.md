@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-31-animal-collective-sung-tongs-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-31-animal-collective-sung-tongs-flac.webp)dmca
+[![](/hfs40k/images/covers/2009-12-31-animal-collective-sung-tongs-flac.webp)](/hfs40k/images/covers/2009-12-31-animal-collective-sung-tongs-flac.webp)dmca

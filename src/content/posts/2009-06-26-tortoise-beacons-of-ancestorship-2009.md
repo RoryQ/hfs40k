@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Tortoise%20Beacons%20o
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-26-tortoise-beacons-of-ancestorship-2009.webp)](/holyfuckingshit40000/images/covers/2009-06-26-tortoise-beacons-of-ancestorship-2009.webp)Uploaded on mediafire because rapidshare sucks.  
+[![](/hfs40k/images/covers/2009-06-26-tortoise-beacons-of-ancestorship-2009.webp)](/hfs40k/images/covers/2009-06-26-tortoise-beacons-of-ancestorship-2009.webp)Uploaded on mediafire because rapidshare sucks.  
   
 [Download 320](https://web.archive.org/web/20111010084717/http://lix.in/-55216e)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Matthew%20Dear%20Black
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-26-matthew-dear-black-city-2010-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-26-matthew-dear-black-city-2010-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-26-matthew-dear-black-city-2010-flac.webp)](/hfs40k/images/covers/2010-10-26-matthew-dear-black-city-2010-flac.webp)  
   
   
   

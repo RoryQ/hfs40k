@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Genesis%20Nursery%20Cr
 
 
 
-[![](/holyfuckingshit40000/images/58ce3c5b6630c1cc400b6dcbd427f193.webp)](https://web.archive.org/web/20111010045617/http://3.bp.blogspot.com/_cLI19EXK2oU/S9Wmz20UByI/AAAAAAAAAgE/7jWo49PgoME/s1600/03nursery.jpg)  
+[![](/hfs40k/images/58ce3c5b6630c1cc400b6dcbd427f193.webp)](https://web.archive.org/web/20111010045617/http://3.bp.blogspot.com/_cLI19EXK2oU/S9Wmz20UByI/AAAAAAAAAgE/7jWo49PgoME/s1600/03nursery.jpg)  
 Released in 1971, this is the first album with the "classic" Genesis lineup and the first to feature the distinctive ensemble sound that would characterize their work up to late 1976.   
   
 What is particularly noticeable about some of the longer pieces on this album including "The Musical Box" and "Return of the Giant Hogweed" is an aggressive and harsh sound that is largely reflected in Steve Hackett's guitar work. Although I do not know this for certain, I suspect that this heaviness may have resulted from exposure to the music of fellow Charisma label band Van der graaf Generator while on "package" tours in Britain.   

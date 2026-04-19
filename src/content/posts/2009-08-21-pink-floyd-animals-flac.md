@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Pink%20Floyd%20Animals
 
 
 
-[![](/holyfuckingshit40000/images/816c8e2307f44d7ddc76475a9c560be8.webp)](https://web.archive.org/web/20111010145536/http://2.bp.blogspot.com/_TSxXUm0_hPM/So6vpFDJTTI/AAAAAAAABjE/2Lruou72yCY/s1600-h/floydffuu.png)  
+[![](/hfs40k/images/816c8e2307f44d7ddc76475a9c560be8.webp)](https://web.archive.org/web/20111010145536/http://2.bp.blogspot.com/_TSxXUm0_hPM/So6vpFDJTTI/AAAAAAAABjE/2Lruou72yCY/s1600-h/floydffuu.png)  
 [DOWNLOAD [FLAC]](https://web.archive.org/web/20111010145536/http://lix.in/-584c0c)

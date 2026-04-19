@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Cybo
 
 
 
-[![](/holyfuckingshit40000/images/ee267a2b70f04d7abce09323fc770bf7.webp)](/holyfuckingshit40000/images/c80ab60c8557d5bc88010263dc88dc41.webp)  
+[![](/hfs40k/images/ee267a2b70f04d7abce09323fc770bf7.webp)](/hfs40k/images/c80ab60c8557d5bc88010263dc88dc41.webp)  
 "Cyborg" is Klaus Schulze's second solo album and is an epic piece of avant-garde mastery. The original album consisted of four long tracks taking up one side each on vinyl. Musically, it picks up where his debut "Irrlicht" left off and includes many innovative and orchestral music experiments.  
 For the latest CD reissue, the music has been remastered from superior tape copies and removes a lot of the hiss and hum heard in the original CD version (which didn't sound too bad at the time either). Also, the track titles and their running order are presented on CD for the first time in their correct order as they appeared on the very first LP issue. Therefore, what most fans thought was "Synphara" in later years was actually "Chromengel". The track titles now correspond to the correct music. Also, the reissue includes an excellent 51-minute bonus track which will be discussed below.  
 "Cyborg" opens with the beautiful "Synphara". Klaus's Farfisa organ dominates this piece accompanied by a percussive rhythm from his newly acquired VCS3 synthesizer. The mood of this piece is extremely dark and funeral-like. At the same time, it reminded me of walking into a giant cathedral with a large pipe organ playing consistently. There is very little change throughout this piece but it's themes and variations along with it's synthetic rhythms are superb.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20Courte
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-23-harvey-milk-courtesy-and-good-will-towards-men.webp)](/holyfuckingshit40000/images/covers/2010-02-23-harvey-milk-courtesy-and-good-will-towards-men.webp)  
+[![](/hfs40k/images/covers/2010-02-23-harvey-milk-courtesy-and-good-will-towards-men.webp)](/hfs40k/images/covers/2010-02-23-harvey-milk-courtesy-and-good-will-towards-men.webp)  
 
 I'm pretty sure nobody else has bought the album and ripped it [lossless](https://web.archive.org/web/20111010155814/http://lix.in/-6f3b70), everywhere else it remains [lossy](https://web.archive.org/web/20111010155814/http://lix.in/-7248b2), although not at [320kbps](https://web.archive.org/web/20111010155814/http://lix.in/-73cf53). The album includes a [bonus disc](https://web.archive.org/web/20111010155814/http://lix.in/-76dc95).
 

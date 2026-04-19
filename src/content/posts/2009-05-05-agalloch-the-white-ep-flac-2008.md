@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Agalloch%20The%20White
 
 
 
-[![](/holyfuckingshit40000/images/efb9d0b1648b4e4c5f5888ec628d3662.webp)](/holyfuckingshit40000/images/efb9d0b1648b4e4c5f5888ec628d3662.webp)  
+[![](/hfs40k/images/efb9d0b1648b4e4c5f5888ec628d3662.webp)](/hfs40k/images/efb9d0b1648b4e4c5f5888ec628d3662.webp)  
 Hipster neofolk  
   
 [Download (FLAC)](https://web.archive.org/web/20111008155647/http://www.megaupload.com/?d=5FH1NLN7)  

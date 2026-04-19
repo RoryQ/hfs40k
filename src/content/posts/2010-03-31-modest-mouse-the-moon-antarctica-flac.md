@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/2a70db1ff7c40be90c850e1d19d083e9.webp)](/holyfuckingshit40000/images/dc1709c5727f9a78d8a275f7f135aa50.webp)  
+[![](/hfs40k/images/2a70db1ff7c40be90c850e1d19d083e9.webp)](/hfs40k/images/dc1709c5727f9a78d8a275f7f135aa50.webp)  
   
 The year two-thousand reminds me a lot of 1990. Various dance pop groups and a style of mainstream that has completely stangnated. Most of the hype in rock music has been waiting for the next Radiohead album. In spite of this I try to keeb tabs on the "indie-rock" culture, and pick up an occassional album I really enjoy. After seeing a couple of really favorable reviews of The Moon and Anarctica I decided to pick it up when released. My first impression was that it was very good but now it has become one of very few rock albums in the past five years which have earned near non-stop rotation in my CD player.
 

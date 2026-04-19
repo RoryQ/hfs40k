@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Morton%20Feldman%20Rot
 
 
 
-[![](/holyfuckingshit40000/images/462e13ab9e451e147e1f6099baeb925a.webp)](/holyfuckingshit40000/images/462e13ab9e451e147e1f6099baeb925a.webp)Ethereal, creepy and beautiful. Recommended for fans of ambient music, minimalism, and of course the works of Mark Rothko.
+[![](/hfs40k/images/462e13ab9e451e147e1f6099baeb925a.webp)](/hfs40k/images/462e13ab9e451e147e1f6099baeb925a.webp)Ethereal, creepy and beautiful. Recommended for fans of ambient music, minimalism, and of course the works of Mark Rothko.
 
 [Download (Mediafire)](https://web.archive.org/web/20111010142401/http://lix.in/-52c245)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=William%20S.%20Burroug
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-17-william-s-burroughs-dead-city-radio-1990-248-257kbps.webp)](/holyfuckingshit40000/images/covers/2009-07-17-william-s-burroughs-dead-city-radio-1990-248-257kbps.webp)  
+[![](/hfs40k/images/covers/2009-07-17-william-s-burroughs-dead-city-radio-1990-248-257kbps.webp)](/hfs40k/images/covers/2009-07-17-william-s-burroughs-dead-city-radio-1990-248-257kbps.webp)  
 
 [![](https://web.archive.org/web/20111010141558im_/http://www.student.kuleuven.be/~s0110944/burroughs%20corbijn.jpg)](https://web.archive.org/web/20111010141558/http://www.student.kuleuven.be/~s0110944/burroughs%20corbijn.jpg)Because everybody loves William S. Burroughs! And Sonic Youth, John Cale and guest-spots by Allen Ginsberg. I'd up this in FLAC but it's just spoken-word so 256kbps sound quality is fine. I found it for $5 and I doubt it'll be much more expensive than that if you really want a copy. If you haven't read Burroughs yet, you will want to after this. Naked Lunch and The Soft Machine are particularly hard to read.
 

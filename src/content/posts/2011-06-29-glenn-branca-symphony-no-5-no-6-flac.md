@@ -18,8 +18,8 @@ youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20Symph
 
 
 
-[![](/holyfuckingshit40000/images/51002309af95b4ce2619054b5f67c068.webp)](/holyfuckingshit40000/images/bef23f49d55c81aaf74d367a29771af6.webp)  
-[![](/holyfuckingshit40000/images/97ee4cce1039a56749e689dfe6ad8d05.webp)](/holyfuckingshit40000/images/26b710f26d2ba0825ee1ed494f2c9279.webp)  
+[![](/hfs40k/images/51002309af95b4ce2619054b5f67c068.webp)](/hfs40k/images/bef23f49d55c81aaf74d367a29771af6.webp)  
+[![](/hfs40k/images/97ee4cce1039a56749e689dfe6ad8d05.webp)](/hfs40k/images/26b710f26d2ba0825ee1ed494f2c9279.webp)  
   
   
 Having listened to almost all of the Branca symphonies as well as the "lessons", this is the one I keep returning to. The Lessons are interesting as germinal ideas, but this is the fulfillment. The opening sequence has the herky-jerky rhythms that can only be achieved by multiple electric guitars striking chords on different offbeats. The sheer complexity of the rhythm and harmonic structure occuring in the first movement kept me listening to it over and over before moving on to the rest of the CD. It is best listened to LOUD. This music has power and force. You have to suspend a desire to hear a straight up melody, but that does not mean this is uninteresting or "minimal" music. As you listen it is as if the layers of your first perception are being stripped away and you are then able to hear into the music. On each listen, I hear some new thing I did not perceive before. This is angular and aggressive. If you want to hear more stunningly beautiful works, go for Symphony 3 or even 2 (although 2 has a lot of loud percussion against the clouds of sound). Why Glenn Branca has not been included in the canon of modern compositional giants alongside Philip Glass, Steve Reich, and John Zorn, I do not know. Probably because he is so intense and unpolite. But, this is intelligent music that demands a listen. Also, check out Jonathan Kane's "February" if you like this. Try to find some Rhys Chatham, too. Although it is difficult.  

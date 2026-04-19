@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20Disci
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-11-king-crimson-discipline-24-bit96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2011-09-11-king-crimson-discipline-24-bit96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2011-09-11-king-crimson-discipline-24-bit96khz-vinyl.webp)](/hfs40k/images/covers/2011-09-11-king-crimson-discipline-24-bit96khz-vinyl.webp)  
 Technical Informations  
   
 Hannl"limited" Record Cleaning Machine with Rotating Brush  

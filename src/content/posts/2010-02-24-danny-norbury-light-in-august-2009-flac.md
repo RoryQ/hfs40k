@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Danny%20Norbury%20Ligh
 
 
 
-[![](/holyfuckingshit40000/images/b2b138b9a9837c27f69cca2b0faa40a5.webp)](/holyfuckingshit40000/images/b2b138b9a9837c27f69cca2b0faa40a5.webp)  
+[![](/hfs40k/images/b2b138b9a9837c27f69cca2b0faa40a5.webp)](/hfs40k/images/b2b138b9a9837c27f69cca2b0faa40a5.webp)  
   
 "In addition to his work as a solo artist, cellist Danny Norbury has contributed to music by Library Tapes, The Boats, Nancy Elizabeth and Rafael Anton Irisarri of The Sight Below. This incredible full-length, Light In August, finds Norbury assuming the role of a one-man ensemble, spinning a collection of understated string and piano elegies harnessing an incredibly intimate cinematic quality. Norbury's music taps into the neo-classicisms of Rachel's or Hildur Gudnadottir, with gentle, harmonised cello figures and minimal keystrokes leading the way. A maudlin grasp on romanticism takes hold of pieces like 'The Morning Star' and 'Small Field', setting the tone for what's to come: a set that wrings every drop of emotion from Norbury's instrumental palette. Fans of Peter Broderick's Float album, or the aforementioned Hildur Guđnadottir's Without Sinking will fall in love at first listen, but Norbury manages to map out his very own niche within the current crop of modern classical musicians on outstanding entries such as the quietly devastating 'This Night Is For You And For Me' and final track 'The Evening Star', whose extreme cello glissandos mimic pedal steel tones, arcing across the horizon in the most heart-rending of fashions. Utterly sublime." - Boomkat  
   

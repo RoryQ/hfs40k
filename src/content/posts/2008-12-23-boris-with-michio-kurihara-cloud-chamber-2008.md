@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20With%20Michio%
 
 
 
-[![](/holyfuckingshit40000/images/d81b31a16717d0dfd75845d8df272692.webp)](/holyfuckingshit40000/images/d81b31a16717d0dfd75845d8df272692.webp)  
+[![](/hfs40k/images/d81b31a16717d0dfd75845d8df272692.webp)](/hfs40k/images/d81b31a16717d0dfd75845d8df272692.webp)  
 Genre: Drone / Experimental  
 Country: Japan  
   

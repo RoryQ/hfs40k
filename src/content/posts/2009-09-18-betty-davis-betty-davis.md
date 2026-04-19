@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Betty%20Davis%20Betty%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-18-betty-davis-betty-davis.webp)](/holyfuckingshit40000/images/covers/2009-09-18-betty-davis-betty-davis.webp)  
+[![](/hfs40k/images/covers/2009-09-18-betty-davis-betty-davis.webp)](/hfs40k/images/covers/2009-09-18-betty-davis-betty-davis.webp)  
   
 nostalghia's request  
   

@@ -25,10 +25,10 @@ Their music is very distinct and difficult to pin-point, mostly lo-fi dub-influe
 
 Untitled (2010)
 
-![](/holyfuckingshit40000/images/b2b16116e8cabae0902e693ce1554aa6.webp)
+![](/hfs40k/images/b2b16116e8cabae0902e693ce1554aa6.webp)
 
 [Download v0](https://web.archive.org/web/20120117070146/http://lix.in/-b41c64) / Download FLAC (lossy master, so they probably won't sound much different)O
 
 One Nation (2011)
 
-[![](/holyfuckingshit40000/images/9e70187e897323ae444dd4b4d794344d.webp)](/holyfuckingshit40000/images/261ed39abe1c12b0095cd36488d08dd0.webp)[Download v0](https://web.archive.org/web/20120117070146/http://lix.in/-a7e770) / [Download FLAC](https://web.archive.org/web/20120117070146/http://lix.in/-af7d2c) (tis a lossy master so they probably won't sound much different)
+[![](/hfs40k/images/9e70187e897323ae444dd4b4d794344d.webp)](/hfs40k/images/261ed39abe1c12b0095cd36488d08dd0.webp)[Download v0](https://web.archive.org/web/20120117070146/http://lix.in/-a7e770) / [Download FLAC](https://web.archive.org/web/20120117070146/http://lix.in/-af7d2c) (tis a lossy master so they probably won't sound much different)

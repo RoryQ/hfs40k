@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-30-boards-of-canada-music-has-the-right-to-children-1998-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-30-boards-of-canada-music-has-the-right-to-children-1998-flac.webp)
+[![](/hfs40k/images/covers/2009-05-30-boards-of-canada-music-has-the-right-to-children-1998-flac.webp)](/hfs40k/images/covers/2009-05-30-boards-of-canada-music-has-the-right-to-children-1998-flac.webp)
 
 One of those classic IDM albums. Boards of Canada is praised widely for making electronic music that conveys emotion. The chords they use paired with the samples themed around their childhood create a nostalgic atmosphere. The emotional hype set aside, this album has particularly good progression and song structures. I highly recommend it.
 

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Ge
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-28-thelonious-monk-genius-of-modern-music-vol-2-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-28-thelonious-monk-genius-of-modern-music-vol-2-flac.webp)A Blue Note compilation which, when combined with its sister volume, sheds light on Monk's early and inspired work as a premier bop stylist. Accompanied by such recognizable names as Max Roach, Art Blakey, Milt Jackson, and Kenny Dorham, this is a set that will help fill out any jazz collection.  
+[![](/hfs40k/images/covers/2009-10-28-thelonious-monk-genius-of-modern-music-vol-2-flac.webp)](/hfs40k/images/covers/2009-10-28-thelonious-monk-genius-of-modern-music-vol-2-flac.webp)A Blue Note compilation which, when combined with its sister volume, sheds light on Monk's early and inspired work as a premier bop stylist. Accompanied by such recognizable names as Max Roach, Art Blakey, Milt Jackson, and Kenny Dorham, this is a set that will help fill out any jazz collection.  
   
 [Enjoy](https://web.archive.org/web/20111216215730/http://lix.in/-5c2ecc)

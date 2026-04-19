@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Scott%20Walker%20Scott
 
 
 
-[![](/holyfuckingshit40000/images/covers/2012-01-04-scott-walker-scott-flac.webp)](/holyfuckingshit40000/images/covers/2012-01-04-scott-walker-scott-flac.webp)
+[![](/hfs40k/images/covers/2012-01-04-scott-walker-scott-flac.webp)](/hfs40k/images/covers/2012-01-04-scott-walker-scott-flac.webp)
 
 **Fontana ~ 2000/1967**
 

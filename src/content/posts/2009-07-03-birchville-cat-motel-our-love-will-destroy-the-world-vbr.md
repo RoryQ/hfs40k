@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Birchville%20Cat%20Mot
 
 
 
-[![](/holyfuckingshit40000/images/a6c538a9c3a7e41352341b64222e0f34.webp)](/holyfuckingshit40000/images/a6c538a9c3a7e41352341b64222e0f34.webp)Drone with drums!  
+[![](/hfs40k/images/a6c538a9c3a7e41352341b64222e0f34.webp)](/hfs40k/images/a6c538a9c3a7e41352341b64222e0f34.webp)Drone with drums!  
   
 [Download (MF)](https://web.archive.org/web/20111010141129/http://lix.in/-52dbaa)

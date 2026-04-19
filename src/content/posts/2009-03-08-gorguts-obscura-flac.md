@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gorguts%20Obscura
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-08-gorguts-obscura-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-08-gorguts-obscura-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-08-gorguts-obscura-flac.webp)](/hfs40k/images/covers/2009-03-08-gorguts-obscura-flac.webp)  
 death metal should be banned!!!!!!!!!!!!  
   
 Download  

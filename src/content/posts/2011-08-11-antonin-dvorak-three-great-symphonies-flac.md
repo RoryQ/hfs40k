@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Antonin%20Dvorak%20Thr
 
 
 
-[![](/holyfuckingshit40000/images/0ef9bca39dd19ec8753cce7fcaa57969.webp)](https://web.archive.org/web/20111010035125/http://4.bp.blogspot.com/-aitth0R5ci8/TkQ9P9C-XgI/AAAAAAAABAo/AerOjIhrCDw/s1600/41SN1ZTCGFL._SL500_AA300_.jpg)
+[![](/hfs40k/images/0ef9bca39dd19ec8753cce7fcaa57969.webp)](https://web.archive.org/web/20111010035125/http://4.bp.blogspot.com/-aitth0R5ci8/TkQ9P9C-XgI/AAAAAAAABAo/AerOjIhrCDw/s1600/41SN1ZTCGFL._SL500_AA300_.jpg)
   
 [Ok How About Now](https://web.archive.org/web/20111010035125/http://lix.in/-aa580a)
   

@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Vi
 
 
 
-[![](/holyfuckingshit40000/images/67a2cab00e504bcd3f2e9635fcce78f1.webp)](https://web.archive.org/web/20111008154758/http://3.bp.blogspot.com/_nmjS6fd9kfU/Sg8u91ImS3I/AAAAAAAAAAM/gcEeoo4Uv-E/s1600-h/folder.jpg)  
+[![](/hfs40k/images/67a2cab00e504bcd3f2e9635fcce78f1.webp)](https://web.archive.org/web/20111008154758/http://3.bp.blogspot.com/_nmjS6fd9kfU/Sg8u91ImS3I/AAAAAAAAAAM/gcEeoo4Uv-E/s1600-h/folder.jpg)  
 Absolutely amazing recording of these works by two modern masters of their instruments. Brahms has superseded Schumann (Brahms' friend and mentor) as my favorite composer, due in large part to these pieces and his excellent symphonies and German Requiem, among other works. The harmonic and melodic interplay of the violin and piano here remind me of the interaction between Scott LaFaro and Bill Evans at the Village Vanguard, one of my other favorite recordings, which will have to be posted here as well soon.  
   
 [Enjoy](https://web.archive.org/web/20111008154758/http://www.megaupload.com/?d=Y0UMCDUH)

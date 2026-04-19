@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Alan%20Stivell%20Renai
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-11-alan-stivell-renaissance-de-la-harpe-celtique-1971.webp)](/holyfuckingshit40000/images/covers/2009-03-11-alan-stivell-renaissance-de-la-harpe-celtique-1971.webp)  
+[![](/hfs40k/images/covers/2009-03-11-alan-stivell-renaissance-de-la-harpe-celtique-1971.webp)](/hfs40k/images/covers/2009-03-11-alan-stivell-renaissance-de-la-harpe-celtique-1971.webp)  
 How was that harp player called? Joanna Newsom? An amateur, that's what she is.  
 [Download mp3](https://web.archive.org/web/20111010170558/http://www.mediafire.com/download.php?zeko2dmmnma)

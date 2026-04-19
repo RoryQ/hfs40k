@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20Ocean%
 
 
 
-[![](/holyfuckingshit40000/images/c06367f4150f7bfc1fc13720061a3d49.webp)](/holyfuckingshit40000/images/c06367f4150f7bfc1fc13720061a3d49.webp)  
+[![](/hfs40k/images/c06367f4150f7bfc1fc13720061a3d49.webp)](/hfs40k/images/c06367f4150f7bfc1fc13720061a3d49.webp)  
 Fuck yeah, I love mermaids.  
   
 [Download](https://web.archive.org/web/20101203184356/http://www.megaupload.com/?d=JFNYC4S2) 192

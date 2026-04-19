@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Min
 
 
 
-[![](/holyfuckingshit40000/images/64605b78d8fb0825fbe602b016a48300.webp)](https://web.archive.org/web/20111010155233/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sxxu7p2fGGI/AAAAAAAAAFU/Fp8Ls27Gmf8/s1600-h/folder.jpg)  
+[![](/hfs40k/images/64605b78d8fb0825fbe602b016a48300.webp)](https://web.archive.org/web/20111010155233/http://4.bp.blogspot.com/_nmjS6fd9kfU/Sxxu7p2fGGI/AAAAAAAAAFU/Fp8Ls27Gmf8/s1600-h/folder.jpg)  
 Mingus in the vein of Ah Um, this record is often overshadowed by the latter, even though I think it's every much as good. "Slop" is the jam of a lifetime.  
   
 [Enjoy](https://web.archive.org/web/20111010155233/http://lix.in/-610559)

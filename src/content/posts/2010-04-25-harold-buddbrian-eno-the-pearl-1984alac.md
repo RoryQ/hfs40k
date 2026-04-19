@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Harold%20Budd/Brian%20
 
 
 
-[![](/holyfuckingshit40000/images/420ec66a8194e9f508ef3cffccc6561c.webp)](/holyfuckingshit40000/images/420ec66a8194e9f508ef3cffccc6561c.webp)  
+[![](/hfs40k/images/420ec66a8194e9f508ef3cffccc6561c.webp)](/hfs40k/images/420ec66a8194e9f508ef3cffccc6561c.webp)  
 This album is similar to Budd and Eno’s previous collaboration Ambient 2/The Plateaux of Mirror, consisting mostly of subtly treated piano textures, but this time with more pronounced electronic treatments and nature recordings.   
 [ALAC](https://web.archive.org/web/20111010044817/http://lix.in/-7d30e2)  
   

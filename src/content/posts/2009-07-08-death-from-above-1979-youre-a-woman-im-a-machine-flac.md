@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Death%20From%20Above%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-08-death-from-above-1979-youre-a-woman-im-a-machine-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-08-death-from-above-1979-youre-a-woman-im-a-machine-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-08-death-from-above-1979-youre-a-woman-im-a-machine-flac.webp)](/hfs40k/images/covers/2009-07-08-death-from-above-1979-youre-a-woman-im-a-machine-flac.webp)  
   
 Here's a quick look at You're a Woman, I'm a Machine by the numbers:  
   

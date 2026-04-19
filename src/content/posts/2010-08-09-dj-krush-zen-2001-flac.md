@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Krush%20Zen
 
 
 
-[![](/holyfuckingshit40000/images/2bd44ea49b3c93bb879aae8ed306fe98.webp)](/holyfuckingshit40000/images/544289872e4c7f1b39e5758a46417a88.webp)DJ Krush is known for his atmospheric instrumental production which incorporates sound elements from nature and extensive use of jazz and soul samples. -Zen- Is often regarded as his best work.  
+[![](/hfs40k/images/2bd44ea49b3c93bb879aae8ed306fe98.webp)](/hfs40k/images/544289872e4c7f1b39e5758a46417a88.webp)DJ Krush is known for his atmospheric instrumental production which incorporates sound elements from nature and extensive use of jazz and soul samples. -Zen- Is often regarded as his best work.  
   
 [Download](https://web.archive.org/web/20111010065032/http://lix.in/-84f3bf)

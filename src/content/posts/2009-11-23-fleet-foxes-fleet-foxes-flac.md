@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fleet%20Foxes%20Fleet%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-23-fleet-foxes-fleet-foxes-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-23-fleet-foxes-fleet-foxes-flac.webp)  
+[![](/hfs40k/images/covers/2009-11-23-fleet-foxes-fleet-foxes-flac.webp)](/hfs40k/images/covers/2009-11-23-fleet-foxes-fleet-foxes-flac.webp)  
   
 These guys are the indie darlings of the blogosphere right now, and truth be told, they deserve just about every damn bit of the praise being heaped upon them.  
   

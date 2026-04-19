@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Jesus%20Lizard%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-20-the-jesus-lizard-goat-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-20-the-jesus-lizard-goat-flac.webp)  
+[![](/hfs40k/images/covers/2009-09-20-the-jesus-lizard-goat-flac.webp)](/hfs40k/images/covers/2009-09-20-the-jesus-lizard-goat-flac.webp)  
 
 [FLAC](https://web.archive.org/web/20111010094501/http://lix.in/-55b1ef) |||| [V0](https://web.archive.org/web/20111010094501/http://www.mediafire.com/?tey4zwxj4zd)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Current%2093%20I%20Hav
 
 
 
-[![](/holyfuckingshit40000/images/380cff5f9053e0451f7266d1f45517c1.webp)](https://web.archive.org/web/20111010033214/http://1.bp.blogspot.com/_cLI19EXK2oU/Sui2Wp34BFI/AAAAAAAAAVg/Vj9al5lJj1A/s1600-h/plan.jpg)  
+[![](/hfs40k/images/380cff5f9053e0451f7266d1f45517c1.webp)](https://web.archive.org/web/20111010033214/http://1.bp.blogspot.com/_cLI19EXK2oU/Sui2Wp34BFI/AAAAAAAAAVg/Vj9al5lJj1A/s1600-h/plan.jpg)  
 Once more we are mangled by a great grinding fear.  
   
  [Download FLAC](https://web.archive.org/web/20111010033214/http://www.megaupload.com/?d=8BHJAWWJ)  

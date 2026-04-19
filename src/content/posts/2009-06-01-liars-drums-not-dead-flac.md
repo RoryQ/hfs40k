@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Liars%20Drum%27s%20Not
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-01-liars-drums-not-dead-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-01-liars-drums-not-dead-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-01-liars-drums-not-dead-flac.webp)](/hfs40k/images/covers/2009-06-01-liars-drums-not-dead-flac.webp)  
 Vision Creation Newsun's younger brother.  
   
 [FLAC](https://web.archive.org/web/20111010091629/http://lix.in/-4d5228)

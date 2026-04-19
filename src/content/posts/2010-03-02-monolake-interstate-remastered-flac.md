@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Monolake%20Interstate
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-02-monolake-interstate-remastered-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-02-monolake-interstate-remastered-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-02-monolake-interstate-remastered-flac.webp)](/hfs40k/images/covers/2010-03-02-monolake-interstate-remastered-flac.webp)  
   
   
   

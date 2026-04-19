@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Flipper%20Generic%20Fl
 
 
 
-[![](/holyfuckingshit40000/images/2d31024d377006eaddcb96d750a371ee.webp)](/holyfuckingshit40000/images/2d31024d377006eaddcb96d750a371ee.webp)  
+[![](/hfs40k/images/2d31024d377006eaddcb96d750a371ee.webp)](/hfs40k/images/2d31024d377006eaddcb96d750a371ee.webp)  
 Have no musical or creative talent whatsoever? No problem, just take drugs!  
  [Download](https://web.archive.org/web/20101203181653/http://www.mediafire.com/?zytzngzzw4z) [v0]

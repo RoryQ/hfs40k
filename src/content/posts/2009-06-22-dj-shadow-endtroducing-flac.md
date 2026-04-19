@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Endtrodu
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-22-dj-shadow-endtroducing-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-22-dj-shadow-endtroducing-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-22-dj-shadow-endtroducing-flac.webp)](/hfs40k/images/covers/2009-06-22-dj-shadow-endtroducing-flac.webp)  
 [Heard somebody wanted it...](https://web.archive.org/web/20111010084823/http://lix.in/-46e631)

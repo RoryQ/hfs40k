@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Torn%20Prezens
 
 
 
-[![](/holyfuckingshit40000/images/189eb0f95952de39e241d2dc28140668.webp)](https://web.archive.org/web/20111010045812/http://4.bp.blogspot.com/_t6lWjgwMoxw/S871Z-ucbdI/AAAAAAAAAJk/tcnfje7SsZs/s1600/Presenz.jpg)  
+[![](/hfs40k/images/189eb0f95952de39e241d2dc28140668.webp)](https://web.archive.org/web/20111010045812/http://4.bp.blogspot.com/_t6lWjgwMoxw/S871Z-ucbdI/AAAAAAAAAJk/tcnfje7SsZs/s1600/Presenz.jpg)  
   
   
   

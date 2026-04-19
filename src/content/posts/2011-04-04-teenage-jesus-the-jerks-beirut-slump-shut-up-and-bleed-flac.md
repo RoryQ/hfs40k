@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Teenage%20Jesus%20%26%
 
 
 
-[![](/holyfuckingshit40000/images/c896c0b388fc54d5b0289536b967e276.webp)](https://web.archive.org/web/20111010145832/http://1.bp.blogspot.com/-y7Ym3dg0LTA/TZoz5mFuz2I/AAAAAAAABbw/yljxhASLpZA/s1600/TEENAGEJESUS.jpg)
+[![](/hfs40k/images/c896c0b388fc54d5b0289536b967e276.webp)](https://web.archive.org/web/20111010145832/http://1.bp.blogspot.com/-y7Ym3dg0LTA/TZoz5mFuz2I/AAAAAAAABbw/yljxhASLpZA/s1600/TEENAGEJESUS.jpg)
 
   
   

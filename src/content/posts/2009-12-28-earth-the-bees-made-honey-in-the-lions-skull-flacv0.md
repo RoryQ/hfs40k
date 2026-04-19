@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Earth%20The%20Bees%20M
 
 
 
-[![](/holyfuckingshit40000/images/5aab8cd45c8300a960848527dfe9c467.webp)](https://web.archive.org/web/20111010153304/http://2.bp.blogspot.com/_JdyrURA7JYI/SzmdQ-MDGmI/AAAAAAAAAMo/jgXojvYJIig/s1600-h/earthhoney.PNG)Just 1-upping tolkkii's post. (StrangeRanger's other request also I believe.)  
+[![](/hfs40k/images/5aab8cd45c8300a960848527dfe9c467.webp)](https://web.archive.org/web/20111010153304/http://2.bp.blogspot.com/_JdyrURA7JYI/SzmdQ-MDGmI/AAAAAAAAAMo/jgXojvYJIig/s1600-h/earthhoney.PNG)Just 1-upping tolkkii's post. (StrangeRanger's other request also I believe.)  
   
 [Download FLAC](https://web.archive.org/web/20111010153304/http://lix.in/-6c8956) // \\ [Download v0](https://web.archive.org/web/20111010153304/http://lix.in/-6b02b5)

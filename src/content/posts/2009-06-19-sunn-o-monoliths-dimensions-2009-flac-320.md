@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sunn%20O%29%29%29%20Mo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-19-sunn-o-monoliths-dimensions-2009-flac-320.webp)](/holyfuckingshit40000/images/covers/2009-06-19-sunn-o-monoliths-dimensions-2009-flac-320.webp)  
+[![](/hfs40k/images/covers/2009-06-19-sunn-o-monoliths-dimensions-2009-flac-320.webp)](/hfs40k/images/covers/2009-06-19-sunn-o-monoliths-dimensions-2009-flac-320.webp)  
 Drone for hipsters.™  
   
 Download 320: [1](https://web.archive.org/web/20111010091502/http://lix.in/-4b160a) / [2](https://web.archive.org/web/20111010091502/http://lix.in/-4c9cab)  

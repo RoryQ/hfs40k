@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=J%C3%B3hann%20J%C3%B3h
 
 
 
-[![](/holyfuckingshit40000/images/e5b0b443e2e199103fdb4b30039849f7.webp)](https://web.archive.org/web/20111010145921/http://1.bp.blogspot.com/-VNoSJoA72Xw/TaCEUYDt69I/AAAAAAAAA8E/btZLTQ9ZASM/s1600/2d8l3ps.jpg)  
+[![](/hfs40k/images/e5b0b443e2e199103fdb4b30039849f7.webp)](https://web.archive.org/web/20111010145921/http://1.bp.blogspot.com/-VNoSJoA72Xw/TaCEUYDt69I/AAAAAAAAA8E/btZLTQ9ZASM/s1600/2d8l3ps.jpg)  
 The story behind the release is interesting, and definitely worth retelling, as Jóhannsson's father worked for IBM in Iceland roughly 40 years back when they got their first 1401 Data Processing System. Also a musician, his father managed to program the machine so that it emitted electromagnetic waves in patterns that could be picked up by radio receivers. When the machine was put out of commission and replaced roughly five years later, his dad gave it a little ceremony that included playing some of the music he'd written for it.  
   
 Those tracks were recorded, and Jóhann Jóhannsson discovered them a couple years back and using them as starting points which then developed into dance pieces in collaboration with choreographer Erna Ómarsdóttir. Eventually, Jóhannsson. developed the pieces even further, filling them out with a full orchestra, and the result is this recorded album. "Part 1/IBM 1401 Processing Unit" opens the release very slowly, with a somewhat gritty sounding eight note melody from the IBM before an elegant string movement both accents the melody and fades away at times to leave it playing by itself. About halfway through, a ripple of cold electronics brings the piece to a high point before it closes in the same manner it began.  

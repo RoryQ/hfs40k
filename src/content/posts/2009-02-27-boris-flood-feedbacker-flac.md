@@ -18,10 +18,10 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Flood%20%26%20
 
 
 
-[![](/holyfuckingshit40000/images/0e7eeb7ee04fe9a7f744855d4b443bb5.webp)](/holyfuckingshit40000/images/0e7eeb7ee04fe9a7f744855d4b443bb5.webp)  
+[![](/hfs40k/images/0e7eeb7ee04fe9a7f744855d4b443bb5.webp)](/hfs40k/images/0e7eeb7ee04fe9a7f744855d4b443bb5.webp)  
   
 [Download](https://web.archive.org/web/20101203183443/http://www.megaupload.com/?d=NHIU3I46) FLAC  
   
   
-[![](/holyfuckingshit40000/images/e117d9f7c1f6e449b2ab09dec044dee1.webp)](/holyfuckingshit40000/images/e117d9f7c1f6e449b2ab09dec044dee1.webp)  
+[![](/hfs40k/images/e117d9f7c1f6e449b2ab09dec044dee1.webp)](/hfs40k/images/e117d9f7c1f6e449b2ab09dec044dee1.webp)  
 [Download1](https://web.archive.org/web/20101203183443/http://www.mediafire.com/?meoj2tctjal) [Download2](https://web.archive.org/web/20101203183443/http://www.mediafire.com/?mmx3yijw24t) [Download3](https://web.archive.org/web/20101203183443/http://www.mediafire.com/?z42i21ijmjn) -FLAC Thanks to [A Special Plan For This World](https://web.archive.org/web/20101203183443/http://a-special-plan-for-this-world.blogspot.com/2009/01/boris-at-last-feedbacker-2003-flac.html)

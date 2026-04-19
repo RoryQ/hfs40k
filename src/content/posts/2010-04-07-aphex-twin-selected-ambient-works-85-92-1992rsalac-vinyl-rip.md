@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Selecte
 
 
 
-[![](/holyfuckingshit40000/images/1a24107aaf9c92e2e1f38963bf0669df.webp)](/holyfuckingshit40000/images/1a24107aaf9c92e2e1f38963bf0669df.webp)  
+[![](/hfs40k/images/1a24107aaf9c92e2e1f38963bf0669df.webp)](/hfs40k/images/1a24107aaf9c92e2e1f38963bf0669df.webp)  
 Allmusic claims that while "the sound quality is relatively poor," the album is "a watershed of ambient music." Warp Records has billed this as "the birthplace and the benchmark of modern electronic music" and has stated that "every home should have a copy."  
 [It's all about the hiss.](https://web.archive.org/web/20111010045652/http://lix.in/-745c5c)

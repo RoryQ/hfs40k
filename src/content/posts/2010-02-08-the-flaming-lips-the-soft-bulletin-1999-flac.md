@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-08-the-flaming-lips-the-soft-bulletin-1999-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-08-the-flaming-lips-the-soft-bulletin-1999-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-08-the-flaming-lips-the-soft-bulletin-1999-flac.webp)](/hfs40k/images/covers/2010-02-08-the-flaming-lips-the-soft-bulletin-1999-flac.webp)  
 "It seems to me that depression sells. There's a strange comfort in sadness. It's like, there's no point to life, so why should I have to do anything? Why live my life? It would follow that the music industry would latch onto this. Bands and artists such as Linkin Park, Evanescence, Elliott Smith, etc. make music designed for the depressed. It's become pervasive. If you listen to the radio for five minutes, you'll be struck by the amount of negative energy that comes from it.  
   
 As a result of the success of hopelessness, it's a rare thing that you find a truly happy record. As rare as they are, they're certainly a breath of fresh air when you come across them. The Soft Bulletin is one of these records. It's a celebration of love, hope, and innocence, in an increasingly cynical world. And while it doesn't deny that the world is a dark place, it tries desperately to keeps hope alive.  

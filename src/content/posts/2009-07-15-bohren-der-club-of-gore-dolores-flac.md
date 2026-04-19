@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bohren%20%26%20der%20C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-15-bohren-der-club-of-gore-dolores-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-15-bohren-der-club-of-gore-dolores-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-15-bohren-der-club-of-gore-dolores-flac.webp)](/hfs40k/images/covers/2009-07-15-bohren-der-club-of-gore-dolores-flac.webp)  
 Doom Jazz I LOVE YOU.  
 Black Earth is better, but this one is great too.  
   

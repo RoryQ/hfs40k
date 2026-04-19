@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pan%20American%20Quiet
 
 
 
-[![](/holyfuckingshit40000/images/ab051de9e4bb778fcc90e44afb865bbb.webp)](https://web.archive.org/web/20111010111512/http://4.bp.blogspot.com/-D4eGXqjowK0/TXFukzGJokI/AAAAAAAAA6E/ZmTattekfKA/s1600/6133-quiet-city.jpg)  
+[![](/hfs40k/images/ab051de9e4bb778fcc90e44afb865bbb.webp)](https://web.archive.org/web/20111010111512/http://4.bp.blogspot.com/-D4eGXqjowK0/TXFukzGJokI/AAAAAAAAA6E/ZmTattekfKA/s1600/6133-quiet-city.jpg)  
 Pan American is the solo project of Labradfor guitarist Mark Nelson. He's quite the prolific artist, with somewhere around ten albums to his name. This album is one of the best to be released by Kranky this year, and that's saying a lot. 2004 has been the best year the chicago label has ever had, even though one of their better artists, Low, left for Sub Pop.  
   
 Quiet City settles somewhere comfortably between Labradford's later albums and Stars of the Lid's later albums. The music much more sparse than most people are used to, but with repeated listens, Quiet City reveals a plethora of interesting sounds and textures.  

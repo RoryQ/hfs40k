@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%20Capcom%20Street%20F
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-05-street-fighter-iii-3rd-strike-ost-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-05-street-fighter-iii-3rd-strike-ost-flac.webp)  
+[![](/hfs40k/images/covers/2010-09-05-street-fighter-iii-3rd-strike-ost-flac.webp)](/hfs40k/images/covers/2010-09-05-street-fighter-iii-3rd-strike-ost-flac.webp)  
   
 
 I know I haven't posted anything in literally over a year, but if I give you the best fighting game soundtrack of the best fighting game in FLAC, will you forgive me?

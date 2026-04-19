@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Spirogyra%20A%20Canter
 
 
 
-[![](/holyfuckingshit40000/images/105bcb427f1649ad0c174705ec1d2461.webp)](https://web.archive.org/web/20111010091531/http://4.bp.blogspot.com/_5cVyPU93ihM/SklJX3lJGxI/AAAAAAAAAJc/xvd3zNY7yQU/s1600-h/SG_CT_Front.jpg)**"This is a superb collection. If you like the Incredible String Band, Comus, or indeed psychedelic material like early Floyd, then you will love these rediscovered gems, another triumph for Sanctuary". - Albion Magazine Online**  
+[![](/hfs40k/images/105bcb427f1649ad0c174705ec1d2461.webp)](https://web.archive.org/web/20111010091531/http://4.bp.blogspot.com/_5cVyPU93ihM/SklJX3lJGxI/AAAAAAAAAJc/xvd3zNY7yQU/s1600-h/SG_CT_Front.jpg)**"This is a superb collection. If you like the Incredible String Band, Comus, or indeed psychedelic material like early Floyd, then you will love these rediscovered gems, another triumph for Sanctuary". - Albion Magazine Online**  
   
 This is a 2-disc retrospective that covers all 3 of Spirogyra's albums remastered:  
   

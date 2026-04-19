@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Vision%20Cr
 
 
 
-[![](/holyfuckingshit40000/images/69f1ff76a38a812d360560d18790192b.webp)](/holyfuckingshit40000/images/8126e5f95a3eef151ad2e9c4092992a7.webp)  
+[![](/hfs40k/images/69f1ff76a38a812d360560d18790192b.webp)](/hfs40k/images/8126e5f95a3eef151ad2e9c4092992a7.webp)  
 **VISION!**  
   
 Instigate yourselves into the final frontier of dance! The last stop on Pyschedelia! Music with no purpose other than to rock out to: Vision Creation Newsun. Listen to the only album which will make you sweat sitting down! Yes, "make you sweat"! You! Well maybe not you: Are you Noise-Impotent? Do you have a problem with messy music? Do you have trouble with the pointless dance hits of the summer? Let me rephrase that last one: Do you find dancing pointless? Do you find that dancing, sweating, jumping around, bobbing your hand, all that "activity" stuff is ultimately just one aspect of living? The part that no intellectual person should constantly engage themselves in? Congratulations! You fail (Fail at what?) at being an interesting person!! (Kinda harsh...) Guess what! (What?) I love this album! (...) Now if only they played this at clubs all over the city (Hypocrite).  

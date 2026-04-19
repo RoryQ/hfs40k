@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Music%
 
 
 
-[![](/holyfuckingshit40000/images/df0ea40b79a1029920ad5da8cff035f9.webp)](https://web.archive.org/web/20111010140512/http://4.bp.blogspot.com/_cLI19EXK2oU/SnMGnp54QgI/AAAAAAAAAQ4/v-nQJOCqoEg/s1600-h/covercustomok1.jpg)  
+[![](/hfs40k/images/df0ea40b79a1029920ad5da8cff035f9.webp)](https://web.archive.org/web/20111010140512/http://4.bp.blogspot.com/_cLI19EXK2oU/SnMGnp54QgI/AAAAAAAAAQ4/v-nQJOCqoEg/s1600-h/covercustomok1.jpg)  
   
 This album can either send you into a deep trance or a screaming fit, depending on your tolerance for repetitive minimalist music. Music for 18 Musicians is Reich's great transition work from the small ensemble pieces of the 70's to his large scale work of the 80's and 90's. It's densely layered repeating patterns gradually shift in and out of phase with each other, creating a kaleidoscope of timbres, and endlessly varied crossrhythms. To listen to this piece with an open mind is to enter an entrancing world of color light and imagination. Reich proves why he is the most imitated and inimitable of all of the minimalists.
 

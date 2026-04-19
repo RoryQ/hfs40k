@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Scott%20Walker%20%27Ti
 
 
 
-[![](/holyfuckingshit40000/images/covers/2012-01-09-scott-walker-til-the-band-comes-in-flac.webp)](/holyfuckingshit40000/images/covers/2012-01-09-scott-walker-til-the-band-comes-in-flac.webp)
+[![](/hfs40k/images/covers/2012-01-09-scott-walker-til-the-band-comes-in-flac.webp)](/hfs40k/images/covers/2012-01-09-scott-walker-til-the-band-comes-in-flac.webp)
 
 **BGO ~ 1996/1970**
 

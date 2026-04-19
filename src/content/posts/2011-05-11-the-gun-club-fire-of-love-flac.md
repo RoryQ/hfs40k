@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Gun%20Club%20Fir
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-11-the-gun-club-fire-of-love-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-11-the-gun-club-fire-of-love-flac.webp)  
+[![](/hfs40k/images/covers/2011-05-11-the-gun-club-fire-of-love-flac.webp)](/hfs40k/images/covers/2011-05-11-the-gun-club-fire-of-love-flac.webp)  
 "Gonna buy me a graveyard of my own  
 kill everyone who ever done me wrong  
 gonna buy me a gun just as long as my arm  

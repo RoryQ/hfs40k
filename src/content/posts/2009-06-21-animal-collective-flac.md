@@ -17,7 +17,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-21-animal-collective-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-21-animal-collective-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-21-animal-collective-flac.webp)](/hfs40k/images/covers/2009-06-21-animal-collective-flac.webp)  
 Animal Collective is a New York City/Washington, D.C/Lisbon based music collective of avant-garde musicians from Baltimore, Maryland. Animal Collective consists of Avey Tare (David Portner), Panda Bear (Noah Lennox), Deakin (Josh Dibb), and Geologist (Brian Weitz). Records released under the name Animal Collective may include contributions from any or all of these members; the lineup is not uniform.  
   
 Well ya I bet all of you know who they are so I cut the bullshit here. Here's their albums reupped cus ppl are asking for them.  

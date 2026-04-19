@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Jim%20Carroll%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2012-01-03-the-jim-carroll-band-catholic-boy-flac.webp)](/holyfuckingshit40000/images/covers/2012-01-03-the-jim-carroll-band-catholic-boy-flac.webp)
+[![](/hfs40k/images/covers/2012-01-03-the-jim-carroll-band-catholic-boy-flac.webp)](/hfs40k/images/covers/2012-01-03-the-jim-carroll-band-catholic-boy-flac.webp)
 
 **Atco ~ 1989/1980**
 

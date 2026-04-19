@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Fiery%20Furnaces
 
 
 
-[![](/holyfuckingshit40000/images/82577f6c7711cb417b33f0ac764807fa.webp)](/holyfuckingshit40000/images/82577f6c7711cb417b33f0ac764807fa.webp)  
+[![](/hfs40k/images/82577f6c7711cb417b33f0ac764807fa.webp)](/hfs40k/images/82577f6c7711cb417b33f0ac764807fa.webp)  
 I'm glad they found her lost dog.  
   
 Download (FLAC)  

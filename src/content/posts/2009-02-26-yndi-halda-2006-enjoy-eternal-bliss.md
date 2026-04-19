@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yndi%20Halda%202006%20
 
 
 
-[![](/holyfuckingshit40000/images/26916311c843000e2f14b0067b12a56e.webp)](https://web.archive.org/web/20101203184754/http://4.bp.blogspot.com/_5cVyPU93ihM/SacBlQql8kI/AAAAAAAAAA4/NEA_SuWfL5A/s1600-h/o625355.jpg)  
+[![](/hfs40k/images/26916311c843000e2f14b0067b12a56e.webp)](https://web.archive.org/web/20101203184754/http://4.bp.blogspot.com/_5cVyPU93ihM/SacBlQql8kI/AAAAAAAAAA4/NEA_SuWfL5A/s1600-h/o625355.jpg)  
 Explosions! Black Emperor: Best of both worlds.  
   
 [Download](https://web.archive.org/web/20101203184754/http://lix.in/-540590) [v0]  

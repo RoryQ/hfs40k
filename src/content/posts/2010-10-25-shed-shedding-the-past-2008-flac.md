@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Shed%20Shedding%20The%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-25-shed-shedding-the-past-2008-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-25-shed-shedding-the-past-2008-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-25-shed-shedding-the-past-2008-flac.webp)](/hfs40k/images/covers/2010-10-25-shed-shedding-the-past-2008-flac.webp)  
   
   
   

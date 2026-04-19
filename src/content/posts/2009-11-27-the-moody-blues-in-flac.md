@@ -17,6 +17,6 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-27-the-moody-blues-in-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-27-the-moody-blues-in-flac.webp)  
+[![](/hfs40k/images/covers/2009-11-27-the-moody-blues-in-flac.webp)](/hfs40k/images/covers/2009-11-27-the-moody-blues-in-flac.webp)  
   
 Does this interest anyone? While I'm home I'll have access to my dad's huge collection of Moody Blues CDs, and could rip some (probably not all, but you never know) in FLAC. They're solid dad-prog, and I think I saw one of their albums posted here a while back, so I thought I'd see if anyone was interested.

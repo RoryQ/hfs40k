@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ween%20The%20Mollusk
 
 
 
-[![](/holyfuckingshit40000/images/e5d1f0299d7a6d5229eda85ea8dd4b04.webp)](https://web.archive.org/web/20111010052545/http://3.bp.blogspot.com/_cLI19EXK2oU/TFUFu9CQTPI/AAAAAAAAAw0/1INkZ1wc_Nk/s1600/Ween-mollusk-vinyl.JPG)  
+[![](/hfs40k/images/e5d1f0299d7a6d5229eda85ea8dd4b04.webp)](https://web.archive.org/web/20111010052545/http://3.bp.blogspot.com/_cLI19EXK2oU/TFUFu9CQTPI/AAAAAAAAAw0/1INkZ1wc_Nk/s1600/Ween-mollusk-vinyl.JPG)  
 Ween threw everyone a curveball as usual with "The Mollusk". This album is much like it's multi-genre predecessor "Chocolate & Cheese" on the surface. But if you look deeper, you will find that there is a focused nautical concept to the album.  
   
 The title track sweeps you off into a harmonious atmosphere early on in the album. Gene and Dean create a universe of soundscapes that tickle yours ears from that point on. "Polka Dot Tail" paints a vivid picture of a whale splashing around in the water. "The Blarney Stone" displays a bar full of drunkin pirates. You can just imagine the beer mugs being thrown around in a drunken haze; I know it was like that when I saw them live. "Mutilated Lips" is probably my favorite track on here. The chorus itself will get stuck in your head, as it is incredibly catchy and captivating. "It's Gonna Be (Alright)", a slower number, sticks with the nautical theme, throwing in sounds of a submarine under the sea. "Waving My Dick in the Wind" is a very funny pseudo-country style song. "Buckingham Green" is an epic in itself with great lyrics. I can go on and on about every song on this album, they all add to the greatness of The Mollusk.  

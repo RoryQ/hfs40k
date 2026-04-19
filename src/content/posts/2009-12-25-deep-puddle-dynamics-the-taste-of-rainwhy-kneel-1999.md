@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Deep%20Puddle%20Dynami
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-25-deep-puddle-dynamics-the-taste-of-rainwhy-kneel-1999.webp)](/holyfuckingshit40000/images/covers/2009-12-25-deep-puddle-dynamics-the-taste-of-rainwhy-kneel-1999.webp)anticon's one and only worthwhile release (some people may disagree if they like Why?'s albums). For a bunch of white guys, this is a really consistent and good hip hop album. I'd like to add that Doseone is to DPD as Flavor Flav is to Public Enemy. I only uploaded the album in v0 because honestly the recording quality is pretty shitty, so FLAC isn't any better (sorry purists :P)  
+[![](/hfs40k/images/covers/2009-12-25-deep-puddle-dynamics-the-taste-of-rainwhy-kneel-1999.webp)](/hfs40k/images/covers/2009-12-25-deep-puddle-dynamics-the-taste-of-rainwhy-kneel-1999.webp)anticon's one and only worthwhile release (some people may disagree if they like Why?'s albums). For a bunch of white guys, this is a really consistent and good hip hop album. I'd like to add that Doseone is to DPD as Flavor Flav is to Public Enemy. I only uploaded the album in v0 because honestly the recording quality is pretty shitty, so FLAC isn't any better (sorry purists :P)  
  [Download v0](https://web.archive.org/web/20100102202402/http://lix.in/-6d6abb)

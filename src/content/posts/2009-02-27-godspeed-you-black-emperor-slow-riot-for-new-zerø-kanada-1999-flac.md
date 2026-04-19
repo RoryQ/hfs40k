@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/5fc0c1c7a99d1f186bae7dcb84c6753d.webp)](https://web.archive.org/web/20101203181621/http://4.bp.blogspot.com/_z8rLjrFVzbo/SagEipkTzdI/AAAAAAAAABs/GwstZGN7rMU/s1600-h/2601.jpg)  
+[![](/hfs40k/images/5fc0c1c7a99d1f186bae7dcb84c6753d.webp)](https://web.archive.org/web/20101203181621/http://4.bp.blogspot.com/_z8rLjrFVzbo/SagEipkTzdI/AAAAAAAAABs/GwstZGN7rMU/s1600-h/2601.jpg)  
 Best EP ever  
   
 [Download FLAC](https://web.archive.org/web/20101203181621/http://www.megaupload.com/?d=FJW2KRFA)

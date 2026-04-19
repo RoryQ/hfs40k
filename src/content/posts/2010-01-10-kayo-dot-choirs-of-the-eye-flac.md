@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Choirs%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-10-kayo-dot-choirs-of-the-eye-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-10-kayo-dot-choirs-of-the-eye-flac.webp)AOTD re-uploaded.  
+[![](/hfs40k/images/covers/kayo-dot-choirs-of-the-eye.webp)](/hfs40k/images/covers/kayo-dot-choirs-of-the-eye.webp)AOTD re-uploaded.  
   
 [Download FLAC](https://web.archive.org/web/20111010123226/http://lix.in/-721418)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ulrich%20Schnauss%20A%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-08-07-ulrich-schnauss-a-strangely-isolated-place-flac.webp)](/holyfuckingshit40000/images/covers/2011-08-07-ulrich-schnauss-a-strangely-isolated-place-flac.webp)  
+[![](/hfs40k/images/covers/2011-08-07-ulrich-schnauss-a-strangely-isolated-place-flac.webp)](/hfs40k/images/covers/2011-08-07-ulrich-schnauss-a-strangely-isolated-place-flac.webp)  
 In the past (before I listened to this record) whenever I heard someone describe an album or artist as "lush" (see M83) or "noise driven" (see The Birthday party) or "ethereal" (see Boards of Canada), I usually just hummed and nodded in half-acknowledged understanding. Those are pretty ambiguous adjectives, I used to think.  
   
 Now I get it.  

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Agalloch%20Pale%20Folk
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-01-agalloch-pale-folklore-1999-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-01-agalloch-pale-folklore-1999-flac.webp)Highly recommended to anyone who's even heard of Agalloch.
+[![](/hfs40k/images/covers/2009-07-01-agalloch-pale-folklore-1999-flac.webp)](/hfs40k/images/covers/2009-07-01-agalloch-pale-folklore-1999-flac.webp)Highly recommended to anyone who's even heard of Agalloch.
 
 [Download FLAC](https://web.archive.org/web/20111010142139/http://lix.in/-4e171b)

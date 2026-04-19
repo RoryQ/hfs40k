@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Thy%20Catafalque%20T%C
 
 
 
-[![](/holyfuckingshit40000/images/cbcdb876fe0ce0b711cdc6539ed1fd01.webp)](https://web.archive.org/web/20111010170649/http://1.bp.blogspot.com/_z8rLjrFVzbo/ScfDhoWRa5I/AAAAAAAAAE0/NZ2Ejk4TrWw/s1600-h/298565.jpg)  
+[![](/hfs40k/images/cbcdb876fe0ce0b711cdc6539ed1fd01.webp)](https://web.archive.org/web/20111010170649/http://1.bp.blogspot.com/_z8rLjrFVzbo/ScfDhoWRa5I/AAAAAAAAAE0/NZ2Ejk4TrWw/s1600-h/298565.jpg)  
 Uploaded by request. Some weird black metal with electronic/techno elements and some sections that remind of RPG battle scenes lol. You'll understand once you listen to it.  
   
 [Download 192](https://web.archive.org/web/20111010170649/http://www.mediafire.com/?y3tem2wvmzl)

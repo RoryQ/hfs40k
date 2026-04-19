@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jean%20Michel%20Jarre%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-20-jean-michel-jarre-oxygene-1976-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-20-jean-michel-jarre-oxygene-1976-flac.webp)
+[![](/hfs40k/images/covers/2011-03-20-jean-michel-jarre-oxygene-1976-flac.webp)](/hfs40k/images/covers/2011-03-20-jean-michel-jarre-oxygene-1976-flac.webp)
 
  If you haven't heard this album, you don't know shit about electronic music.  
   

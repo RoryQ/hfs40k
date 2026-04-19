@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Homogenic
 
 
 
-[![](/holyfuckingshit40000/images/e24dd068809a9fc2adede1334063d977.webp)](https://web.archive.org/web/20120106042704/http://1.bp.blogspot.com/-760Z88tH3GA/TZfpYoPPpqI/AAAAAAAAAAU/jXgnqu-7Bxg/s1600/front.jpg)
+[![](/hfs40k/images/e24dd068809a9fc2adede1334063d977.webp)](https://web.archive.org/web/20120106042704/http://1.bp.blogspot.com/-760Z88tH3GA/TZfpYoPPpqI/AAAAAAAAAAU/jXgnqu-7Bxg/s1600/front.jpg)
 
   
 As brilliant as Post in its way. All is Full of Love doesn't live up to the hype imo, but Hunter and Bachelorette are both brilliant.  

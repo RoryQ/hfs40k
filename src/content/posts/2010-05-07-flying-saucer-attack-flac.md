@@ -25,7 +25,7 @@ youtube_url: null
   
 1994 - Distance  
   
-[![](/holyfuckingshit40000/images/covers/2010-05-07-flying-saucer-attack-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-07-flying-saucer-attack-flac.webp)[Download FLAC](https://web.archive.org/web/20111010095009/http://lix.in/-7ee2b6)  
+[![](/hfs40k/images/covers/2010-05-07-flying-saucer-attack-flac.webp)](/hfs40k/images/covers/2010-05-07-flying-saucer-attack-flac.webp)[Download FLAC](https://web.archive.org/web/20111010095009/http://lix.in/-7ee2b6)  
   
 1995 - Further  
   

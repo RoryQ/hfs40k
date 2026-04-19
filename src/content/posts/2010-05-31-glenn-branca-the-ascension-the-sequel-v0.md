@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/c2cf2c6ee673a72a44d5d7a5fd0ace94.webp)](/holyfuckingshit40000/images/c2cf2c6ee673a72a44d5d7a5fd0ace94.webp)  
+[![](/hfs40k/images/c2cf2c6ee673a72a44d5d7a5fd0ace94.webp)](/hfs40k/images/c2cf2c6ee673a72a44d5d7a5fd0ace94.webp)  
   
 Four electric guitars. One electric bass. One set of drums. One Glenn Branca.  
   

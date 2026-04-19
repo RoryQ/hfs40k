@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Organized%20Konfusion%
 
 
 
-[![](/holyfuckingshit40000/images/ff752b138941281a9cc8b46e2d6b88ff.webp)](/holyfuckingshit40000/images/ff752b138941281a9cc8b46e2d6b88ff.webp)  
+[![](/hfs40k/images/ff752b138941281a9cc8b46e2d6b88ff.webp)](/hfs40k/images/ff752b138941281a9cc8b46e2d6b88ff.webp)  
   
 Back in business bitches.  
   

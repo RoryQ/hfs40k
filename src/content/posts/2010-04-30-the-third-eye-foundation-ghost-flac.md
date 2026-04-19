@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Third%20Eye%20Fo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-30-the-third-eye-foundation-ghost-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-30-the-third-eye-foundation-ghost-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-30-the-third-eye-foundation-ghost-flac.webp)](/hfs40k/images/covers/2010-04-30-the-third-eye-foundation-ghost-flac.webp)  
   
   
   

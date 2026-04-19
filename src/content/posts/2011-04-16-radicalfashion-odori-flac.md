@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Radicalfashion%20Odori
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-16-radicalfashion-odori-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-16-radicalfashion-odori-flac.webp)  
+[![](/hfs40k/images/covers/2011-04-16-radicalfashion-odori-flac.webp)](/hfs40k/images/covers/2011-04-16-radicalfashion-odori-flac.webp)  
   
 
 2006/Hefty

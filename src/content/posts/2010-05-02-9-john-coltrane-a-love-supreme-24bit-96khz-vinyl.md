@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=%239%20John%20Coltrane
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-02-9-john-coltrane-a-love-supreme-24bit-96khz-vinyl.webp)](/holyfuckingshit40000/images/covers/2010-05-02-9-john-coltrane-a-love-supreme-24bit-96khz-vinyl.webp)  
+[![](/hfs40k/images/covers/2010-05-02-9-john-coltrane-a-love-supreme-24bit-96khz-vinyl.webp)](/hfs40k/images/covers/2010-05-02-9-john-coltrane-a-love-supreme-24bit-96khz-vinyl.webp)  
 John Coltrane affected every corner of the jazz world when he released this album. The sheer power and beauty of the music breathed new life into jazz and streched the imaginations of many. To this day, A Love Supreme is an album that can be an inspiration to all people around the globe. The music is so extraordinarily powerful - it can make one laugh, cry, get angry, beam in utter rapture, and love and fear God.
 
 On this album John Coltrane not only grabs at every human emotion, but manages to become that emotion. That's what the album really is - it is raw human emotion, pulsating out of every drum beat, every bass hit, every chord, and every saxophone note. When John Coltrane created this album with his quartet, it almost sounds as if he were possessed by a higher being and became everything the human soul embodies.

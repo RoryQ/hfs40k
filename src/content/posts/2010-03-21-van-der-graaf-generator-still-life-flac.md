@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Ge
 
 
 
-[![](/holyfuckingshit40000/images/fd22f08b0ba988b49df69aec63fac5a8.webp)](https://web.archive.org/web/20111010080801/http://2.bp.blogspot.com/_pqcGUSDUhi4/S6bC1dCcwkI/AAAAAAAAAAs/GLlvyZz5S10/s1600-h/thumbnail.jpg)  
+[![](/hfs40k/images/fd22f08b0ba988b49df69aec63fac5a8.webp)](https://web.archive.org/web/20111010080801/http://2.bp.blogspot.com/_pqcGUSDUhi4/S6bC1dCcwkI/AAAAAAAAAAs/GLlvyZz5S10/s1600-h/thumbnail.jpg)  
   
   
   

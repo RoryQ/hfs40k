@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Last%20Exit%20Iron%20P
 
 
 
-[![](/holyfuckingshit40000/images/9105c9aefcf464102a9f22b733d924e3.webp)](/holyfuckingshit40000/images/158a8f836af80aa55fbec699386de010.webp)  
+[![](/hfs40k/images/9105c9aefcf464102a9f22b733d924e3.webp)](/hfs40k/images/158a8f836af80aa55fbec699386de010.webp)  
 Peter Brötzmann + Bill Laswell + Sonny Sharrock + Ronald Shannon Jackson = metallic free jazz rawk  
   
 [Get this shit](https://web.archive.org/web/20111010145657/http://lix.in/-a15692)

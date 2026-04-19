@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Steve%20Roach%20Struct
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-04-steve-roach-structures-from-silence-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-04-steve-roach-structures-from-silence-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-04-steve-roach-structures-from-silence-flac.webp)](/hfs40k/images/covers/2009-03-04-steve-roach-structures-from-silence-flac.webp)  
 "The more something stays the same, the more it changes"  
   
 Thanks to forlacik for the upload.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Mars%20Volta%20D
 
 
 
-[![](/holyfuckingshit40000/images/c984fe6a42f65e9173406ec93ba0bd33.webp)](https://web.archive.org/web/20111010152959/http://4.bp.blogspot.com/_cLI19EXK2oU/SzmIXjRiMZI/AAAAAAAAAV4/QSjbsOowXNI/s1600-h/themarsmotherfuckingvolt.png)  
+[![](/hfs40k/images/c984fe6a42f65e9173406ec93ba0bd33.webp)](https://web.archive.org/web/20111010152959/http://4.bp.blogspot.com/_cLI19EXK2oU/SzmIXjRiMZI/AAAAAAAAAV4/QSjbsOowXNI/s1600-h/themarsmotherfuckingvolt.png)  
  [Download FLAC](https://web.archive.org/web/20111010152959/http://lix.in/-6360aa)  
   
 Password: haveanicelife

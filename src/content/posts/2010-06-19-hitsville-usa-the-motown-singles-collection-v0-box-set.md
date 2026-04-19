@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hitsville%20USA%20The%
 
 
 
-[![](/holyfuckingshit40000/images/0008747805de1300a3a2df29a8d0c48b.webp)](https://web.archive.org/web/20111010175156/http://2.bp.blogspot.com/_cLI19EXK2oU/TBz9O_gs-KI/AAAAAAAAAuE/4BIFLKymq60/s1600/46091.jpg)  
+[![](/hfs40k/images/0008747805de1300a3a2df29a8d0c48b.webp)](https://web.archive.org/web/20111010175156/http://2.bp.blogspot.com/_cLI19EXK2oU/TBz9O_gs-KI/AAAAAAAAAuE/4BIFLKymq60/s1600/46091.jpg)  
 The first box set dealt with Motown's Golden Era (1959 - 1971) when they were a hit factory in Detroit. This set captures highlights from the next 20 years, after Motown had relocated in Los Angeles and the hits weren't so automatic. Because of the large number of great recordings found here that aren't readily available elsewhere, this set for me - a Motown collector - was far more enjoyable.
 
 Disc one covers 1972 - 1975 and includes The Four Tops' dramatic "A Simple Game" (written and produced by members of the Moody Blues). A huge hit in England, it undeservedly stiffed here, and wasn't available on disc until this set (it is now also available domestically on the Four Tops box set FOUREVER). There's also the irresistible Valerie Simpson solo gem "Silly, Wasn't I" and the nostalgic "Shoe Shoe Shine" by the flamboyant Dynamic Superiors (try finding any of the Superiors' recordings on disc elsewhere!) Another rarity is G.C. Cameron's "It's So Hard To Say Goodbye To Yesterday" - a far superior recording to the Boyz II Men hit remake.

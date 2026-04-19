@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Roy%20Montgomery%20Tem
 
 
 
-[![](/holyfuckingshit40000/images/cbef0093b2139bfbcfc8218dbe5b4658.webp)](/holyfuckingshit40000/images/cbef0093b2139bfbcfc8218dbe5b4658.webp)For fans of the Durutti Column, Flying Saucer Attack, et al
+[![](/hfs40k/images/cbef0093b2139bfbcfc8218dbe5b4658.webp)](/hfs40k/images/cbef0093b2139bfbcfc8218dbe5b4658.webp)For fans of the Durutti Column, Flying Saucer Attack, et al
 
 [Download](https://web.archive.org/web/20111010121449/http://lix.in/-69c038)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Shiny%20Diamonds
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-19-the-shiny-diamonds-a-histriony-of-violence-2010-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-19-the-shiny-diamonds-a-histriony-of-violence-2010-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-19-the-shiny-diamonds-a-histriony-of-violence-2010-flac.webp)](/hfs40k/images/covers/2010-10-19-the-shiny-diamonds-a-histriony-of-violence-2010-flac.webp)  
 From a Canadian band one of whose members is a fellow reader of this blog. Some good indie rock produced by Xiu Xiu's frontman Jamie Stewart.  
   
 [Enjoy (MU link)](https://web.archive.org/web/20111010112757/http://lix.in/-954e88)

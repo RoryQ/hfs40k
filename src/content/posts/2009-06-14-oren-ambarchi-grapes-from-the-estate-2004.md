@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Oren%20Ambarchi%20Grap
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-14-oren-ambarchi-grapes-from-the-estate-2004.webp)](/holyfuckingshit40000/images/covers/2009-06-14-oren-ambarchi-grapes-from-the-estate-2004.webp)One of my all-time favorite ambient albums. When I think of ambient drone this is the first album that comes to mind. Warm tones wrap you up and take you on a soothing jazzy aural experience. The use of space is superb.  
+[![](/hfs40k/images/covers/2009-06-14-oren-ambarchi-grapes-from-the-estate-2004.webp)](/hfs40k/images/covers/2009-06-14-oren-ambarchi-grapes-from-the-estate-2004.webp)One of my all-time favorite ambient albums. When I think of ambient drone this is the first album that comes to mind. Warm tones wrap you up and take you on a soothing jazzy aural experience. The use of space is superb.  
   
 "Lovely guitar tones given topography by dronus interruptus as if an old telecom switch is being thrown; similar tones fleshed out with brushed drums and lightly echoing/contrasting guitar and muted organ; busier tones dancing through space(s), varying upon an intelligent whim, and then are joined by musing strings, bells, acoustic guitar, piano, and jazzy drums; back to metronomic tones slowly growing out to near-tunefulness. Full circle."  
   

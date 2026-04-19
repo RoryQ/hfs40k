@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wire%20Chairs%20Missin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-04-wire-chairs-missing-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-04-wire-chairs-missing-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-04-wire-chairs-missing-flac.webp)](/hfs40k/images/covers/2010-05-04-wire-chairs-missing-flac.webp)  
 If Kafka played guitar..  
   
 CHAIRS MISSING is surely one of Wire's best. The title suggests a bunch of people, assembled for a meeting, looking around for somewhere to comfortably sit and proceed with their business. But the chairs are missing, and so things, like Wire's music, are surreal, comical and sometimes uncomfortable, and they will require a bit of adjustment.

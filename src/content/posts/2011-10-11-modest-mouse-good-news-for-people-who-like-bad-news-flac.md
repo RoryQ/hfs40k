@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20Good%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-10-11-modest-mouse-good-news-for-people-who-like-bad-news-flac.webp)](/holyfuckingshit40000/images/covers/2011-10-11-modest-mouse-good-news-for-people-who-like-bad-news-flac.webp) [The Good Times Are Killing Me](https://web.archive.org/web/20120101002339/http://lix.in/-a36c69)  
+[![](/hfs40k/images/covers/2011-10-11-modest-mouse-good-news-for-people-who-like-bad-news-flac.webp)](/hfs40k/images/covers/2011-10-11-modest-mouse-good-news-for-people-who-like-bad-news-flac.webp) [The Good Times Are Killing Me](https://web.archive.org/web/20120101002339/http://lix.in/-a36c69)  
   
 Password haveanicelife

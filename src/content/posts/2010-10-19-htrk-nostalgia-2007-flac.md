@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=HTRK%20Nostalgia
 
 
 
-[![](/holyfuckingshit40000/images/b773a422aebd5b92f2a43644d754cf33.webp)](https://web.archive.org/web/20111010112545/http://3.bp.blogspot.com/_t6lWjgwMoxw/TL4QA5539YI/AAAAAAAAAao/o0RbYE9ex3k/s1600/nostalgia_vinyl_400.jpg)  
+[![](/hfs40k/images/b773a422aebd5b92f2a43644d754cf33.webp)](https://web.archive.org/web/20111010112545/http://3.bp.blogspot.com/_t6lWjgwMoxw/TL4QA5539YI/AAAAAAAAAao/o0RbYE9ex3k/s1600/nostalgia_vinyl_400.jpg)  
   
   
   

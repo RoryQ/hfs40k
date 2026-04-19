@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Clean%20Antholog
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-03-02-the-clean-anthology-flac.webp)](/holyfuckingshit40000/images/covers/2011-03-02-the-clean-anthology-flac.webp)  
+[![](/hfs40k/images/covers/2011-03-02-the-clean-anthology-flac.webp)](/hfs40k/images/covers/2011-03-02-the-clean-anthology-flac.webp)  
 The Clean is a powerful but nebulous presence in the world of indie rock -- the New Zealand band is known to music critics and die-hard indie fans, but sadly not to the masses. The fact that they are still little-known after two and a half decades is just proof that fame doesn't always come to those who deserve it.  
   
 The simply-named two-disc "Anthology" gives a suitably good retrospective of the Clean's career, in pretty much chronological order. One disc is devoted to their early work: the fun organ-laced garage-rock "Tally Ho," which was the song that propelled them to New Zealand's musical top, as well as the rough "Billy Two."   

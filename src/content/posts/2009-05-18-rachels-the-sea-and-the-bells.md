@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Rachel%27s%20The%20Sea
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-18-rachels-the-sea-and-the-bells.webp)](/holyfuckingshit40000/images/covers/2009-05-18-rachels-the-sea-and-the-bells.webp)post-rockers playing classical muzik? Ooohhhhh, okay.  
+[![](/hfs40k/images/covers/2009-05-18-rachels-the-sea-and-the-bells.webp)](/hfs40k/images/covers/2009-05-18-rachels-the-sea-and-the-bells.webp)post-rockers playing classical muzik? Ooohhhhh, okay.  
 Arguably, better than Systems/Layers which was uploaded here before.  
   
 [FLAC](https://web.archive.org/web/20111008142637/http://www.megaupload.com/?d=QZPD675K) /// [v0](https://web.archive.org/web/20111008142637/http://www.mediafire.com/?tmmwdvk4520)

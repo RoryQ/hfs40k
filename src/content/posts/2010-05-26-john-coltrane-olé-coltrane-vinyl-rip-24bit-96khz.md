@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Ol%C
 
 
 
-[![](/holyfuckingshit40000/images/77112467fcc75d97949de5d68c62931b.webp)](https://web.archive.org/web/20111010100921/http://3.bp.blogspot.com/_t6lWjgwMoxw/S_zum45JNrI/AAAAAAAAAPw/NwZ-TsTcD_E/s1600/Front.jpg)  
+[![](/hfs40k/images/77112467fcc75d97949de5d68c62931b.webp)](https://web.archive.org/web/20111010100921/http://3.bp.blogspot.com/_t6lWjgwMoxw/S_zum45JNrI/AAAAAAAAAPw/NwZ-TsTcD_E/s1600/Front.jpg)  
   
   
   

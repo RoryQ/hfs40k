@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sam%20Rivers%20Contour
 
 
 
-[![](/holyfuckingshit40000/images/382f159e54f684c78390683adfc3e153.webp)](https://web.archive.org/web/20111010142011/http://2.bp.blogspot.com/_JdyrURA7JYI/Smu5t7SV-5I/AAAAAAAAAFg/7TccnDXRdNM/s1600-h/samcontours.PNG)Sam Rivers is basically the tenor sax-playing equivalent of Andrew Hill for many reasons. #1 Underrated in pretty much every way. #2 Was (Rivers is still) alive and making great jazz even in the 21st century. #3 Both made kick ass avant-garde jazz for Blue Note.  
+[![](/hfs40k/images/382f159e54f684c78390683adfc3e153.webp)](https://web.archive.org/web/20111010142011/http://2.bp.blogspot.com/_JdyrURA7JYI/Smu5t7SV-5I/AAAAAAAAAFg/7TccnDXRdNM/s1600-h/samcontours.PNG)Sam Rivers is basically the tenor sax-playing equivalent of Andrew Hill for many reasons. #1 Underrated in pretty much every way. #2 Was (Rivers is still) alive and making great jazz even in the 21st century. #3 Both made kick ass avant-garde jazz for Blue Note.  
   
 Freddie Hubbard - Trumpet; Herbie Hancock - Piano; Ron Carter - Bass; Joe Chambers - Drums.  
   

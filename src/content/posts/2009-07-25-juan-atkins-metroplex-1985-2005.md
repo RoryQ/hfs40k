@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Juan%20Atkins%20Metrop
 
 
 
-[![](/holyfuckingshit40000/images/8b38dbaf05f496242ec3d2bba98fb526.webp)](https://web.archive.org/web/20111010140841/http://3.bp.blogspot.com/_U_-AMxSHIOo/SmuWfoDTivI/AAAAAAAAACE/fTpJ23QZJhk/s1600-h/R-441574-1119117890.jpg)im drunk  
+[![](/hfs40k/images/8b38dbaf05f496242ec3d2bba98fb526.webp)](https://web.archive.org/web/20111010140841/http://3.bp.blogspot.com/_U_-AMxSHIOo/SmuWfoDTivI/AAAAAAAAACE/fTpJ23QZJhk/s1600-h/R-441574-1119117890.jpg)im drunk  
  [the album](https://web.archive.org/web/20111010140841/http://lix.in/-5849e8)

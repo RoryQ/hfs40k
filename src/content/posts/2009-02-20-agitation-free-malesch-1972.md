@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Agitation%20Free%20Mal
 
 
 
-[![](/holyfuckingshit40000/images/105f91edbf55ae765ff648c5884acb0c.webp)](/holyfuckingshit40000/images/3a2886a919033bfdba6ee37a664a5a64.webp)  
+[![](/hfs40k/images/105f91edbf55ae765ff648c5884acb0c.webp)](/hfs40k/images/3a2886a919033bfdba6ee37a664a5a64.webp)  
   
   
 Prime kraut with a middle eastern theme, recommended if you like Ash Ra Tempel.  

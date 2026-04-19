@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sufjan%20Stevens%20Ill
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-01-sufjan-stevens-illinois-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-01-sufjan-stevens-illinois-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-01-sufjan-stevens-illinois-flac.webp)](/hfs40k/images/covers/2010-10-01-sufjan-stevens-illinois-flac.webp)  
 Sufjan Stevens is a puzzling character; sometimes naive, sometimes sophisticated, somewhat rustic and yet essentially urban in outlook. But there a few things he never seems to exhibit: crassness, boredom, or jaded irony. Instead he appears defenseless and in full flower on "Illinois", an album of remarkable breadth, depth and ambition.  
   
 It is precisely his lack of sneering superiority that makes "Illinois" such a treat. These lengthy, wordy poem/songs, these complex instrumental arrangements and daunting pop structures could all be so much ego run amok, like a bad progressive rock album. But that doesn't happen. Instead, we are treated to a song cycle so fresh and honest I hardly know where to start.  

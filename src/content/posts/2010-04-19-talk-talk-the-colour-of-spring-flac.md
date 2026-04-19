@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20The%20Co
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-19-talk-talk-the-colour-of-spring-flac.webp)](/holyfuckingshit40000/images/covers/2010-04-19-talk-talk-the-colour-of-spring-flac.webp)  
+[![](/hfs40k/images/covers/2010-04-19-talk-talk-the-colour-of-spring-flac.webp)](/hfs40k/images/covers/2010-04-19-talk-talk-the-colour-of-spring-flac.webp)  
 "Colour of Spring" is joyous and yet introspective at the same time, it would be one of my "desert island" discs. (If you were stranded on a desert island, what records would you want to have with you?)
 
 One of the fascinating things about this album is the engineering/production. If you have a good pair of headphones, or better still, a really nice sound system, this album will bring you lots of pleasure. For example, on "Happiness is Easy" there's a beautful children's chorus who's stereo image is about 100 feet wide. At the same time, there's a very closely miked accoustic bass, you can almost feel the pluck and bowing of the strings. In "Living in Another World", which really rocks out, there's a great blues-y acoustic piano. The piano sounds like you're right inside the damn thing, listening to the hammers hit the strings. Right along side it is the beautiful thunk thunk thunk of an acoustic drum.

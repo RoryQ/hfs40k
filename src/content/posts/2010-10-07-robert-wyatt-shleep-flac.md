@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Shlee
 
 
 
-[![](/holyfuckingshit40000/images/b9d5f2742ae43ff994d96ed52b8c55bc.webp)](/holyfuckingshit40000/images/6615a2d094c63142bfa8e938cde28987.webp)  
+[![](/hfs40k/images/b9d5f2742ae43ff994d96ed52b8c55bc.webp)](/hfs40k/images/6615a2d094c63142bfa8e938cde28987.webp)  
 For an album that's as cerebral as it is emotional, Shleep is amazingly enjoyable the first time you hear it, unlike the brittle dreck of self-avowed alternative music that must be listened to countless times to be appreciated. Yet unlike pleasant pop, Shleep reveals new meanings and perspectives each time you listen to it.
 
 Two examples of Wyatt's lyrical brilliance:  

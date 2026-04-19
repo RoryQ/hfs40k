@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Young%20Marble%20Giant
 
 
 
-[![](/holyfuckingshit40000/images/318c9c645b4c710f518de2cf672d89ef.webp)](/holyfuckingshit40000/images/318c9c645b4c710f518de2cf672d89ef.webp)  
+[![](/hfs40k/images/318c9c645b4c710f518de2cf672d89ef.webp)](/hfs40k/images/318c9c645b4c710f518de2cf672d89ef.webp)  
 Genre: Post-Punk  
 Country: U.K.  
   

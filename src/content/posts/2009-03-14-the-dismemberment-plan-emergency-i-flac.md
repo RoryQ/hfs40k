@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Dismemberment%20
 
 
 
-[![](/holyfuckingshit40000/images/48556ce8ba7027fafa131254c9f7c9b0.webp)](/holyfuckingshit40000/images/48556ce8ba7027fafa131254c9f7c9b0.webp)  
+[![](/hfs40k/images/48556ce8ba7027fafa131254c9f7c9b0.webp)](/hfs40k/images/48556ce8ba7027fafa131254c9f7c9b0.webp)  
 I only got this because of the awesome album cover.  
  [Download1](https://web.archive.org/web/20111010163810/http://www.mediafire.com/?t5zyztyyzzt) [Download2](https://web.archive.org/web/20111010163810/http://www.mediafire.com/?amoe51jdjtd) [Download3](https://web.archive.org/web/20111010163810/http://www.mediafire.com/?3wzknv3e1ti) [Download4](https://web.archive.org/web/20111010163810/http://www.mediafire.com/?dwaybqjnzyj)

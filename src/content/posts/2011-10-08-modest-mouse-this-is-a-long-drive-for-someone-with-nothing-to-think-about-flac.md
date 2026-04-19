@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20This%
 
 
 
-[![](/holyfuckingshit40000/images/3530079eaa9d80ee9c051f3f4da58d4c.webp)](https://web.archive.org/web/20111113202943/http://4.bp.blogspot.com/-gsY5BodtYuI/TpCK5KalnpI/AAAAAAAABHI/AroC36uXJgU/s1600/Modest%2BMouse1996.jpg)  
+[![](/hfs40k/images/3530079eaa9d80ee9c051f3f4da58d4c.webp)](https://web.archive.org/web/20111113202943/http://4.bp.blogspot.com/-gsY5BodtYuI/TpCK5KalnpI/AAAAAAAABHI/AroC36uXJgU/s1600/Modest%2BMouse1996.jpg)  
 [Beach Side Property](https://web.archive.org/web/20111113202943/http://lix.in/-a3433d)  
   
 Password haveanicelife

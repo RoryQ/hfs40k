@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Hazel%20Nuts%20Chocola
 
 
 
-[![](/holyfuckingshit40000/images/7bd1c1d7352d2cc9737fcfd45a76e1cf.webp)](https://web.archive.org/web/20111010145403/http://2.bp.blogspot.com/_lrGz9SY2_jE/SntdwC-sxoI/AAAAAAAAAE8/ExqVpdru85E/s1600-h/563651.jpg)  
+[![](/hfs40k/images/7bd1c1d7352d2cc9737fcfd45a76e1cf.webp)](https://web.archive.org/web/20111010145403/http://2.bp.blogspot.com/_lrGz9SY2_jE/SntdwC-sxoI/AAAAAAAAAE8/ExqVpdru85E/s1600-h/563651.jpg)  
   
 Prepare yourself for the cutest & catchiest music ever. Addictive as hell, too.  
 [Here](https://web.archive.org/web/20111010145403/http://www.mediafire.com/download.php?wo22xqrzchm)

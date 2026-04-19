@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-01-10-my-bloody-valentine-loveless-remastered-2009.webp)](/holyfuckingshit40000/images/covers/2009-01-10-my-bloody-valentine-loveless-remastered-2009.webp)  
+[![](/hfs40k/images/covers/2009-01-10-my-bloody-valentine-loveless-remastered-2009.webp)](/hfs40k/images/covers/2009-01-10-my-bloody-valentine-loveless-remastered-2009.webp)  
   
 FUCK YEAR, YOU ARE THE BEST REMASTER EVER  
   

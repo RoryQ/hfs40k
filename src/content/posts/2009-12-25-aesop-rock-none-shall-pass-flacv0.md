@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Aesop%20Rock%20None%20
 
 
 
-[![](/holyfuckingshit40000/images/d07eb911164cdc6fd9de56381023a3b3.webp)](https://web.archive.org/web/20111010153130/http://4.bp.blogspot.com/_JdyrURA7JYI/SzV257MFAJI/AAAAAAAAALo/YOrg3qCRlAo/s1600-h/aesoppass.PNG)Every hipsters favorite white rapper. The beats are fucking ace (courtesy of either Blockhead of Aesop himself.)  
+[![](/hfs40k/images/d07eb911164cdc6fd9de56381023a3b3.webp)](https://web.archive.org/web/20111010153130/http://4.bp.blogspot.com/_JdyrURA7JYI/SzV257MFAJI/AAAAAAAAALo/YOrg3qCRlAo/s1600-h/aesoppass.PNG)Every hipsters favorite white rapper. The beats are fucking ace (courtesy of either Blockhead of Aesop himself.)  
   
 [Download FLAC](https://web.archive.org/web/20111010153130/http://lix.in/-6d6da9) // \\ [Download v0](https://web.archive.org/web/20111010153130/http://lix.in/-6ef44a)

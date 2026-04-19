@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=L%C3%BAnasa%20Otherwor
 
 
 
-[![](/holyfuckingshit40000/images/e5ece04417d19305f868cafb1dc32a2c.webp)](https://web.archive.org/web/20111010164247/http://2.bp.blogspot.com/_z8rLjrFVzbo/Sc7uodzQgRI/AAAAAAAAAFU/Do5efOJQXDM/s1600-h/62715.jpg)  
+[![](/hfs40k/images/e5ece04417d19305f868cafb1dc32a2c.webp)](https://web.archive.org/web/20111010164247/http://2.bp.blogspot.com/_z8rLjrFVzbo/Sc7uodzQgRI/AAAAAAAAAFU/Do5efOJQXDM/s1600-h/62715.jpg)  
 Uploaded as requested. More awesome drumless instrumental celtic folk.  
  [Download mp3](https://web.archive.org/web/20111010164247/http://www.mediafire.com/?2n2imnjddoz)

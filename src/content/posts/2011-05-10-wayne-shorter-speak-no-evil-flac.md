@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Spea
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-10-wayne-shorter-speak-no-evil-flac.webp)](/holyfuckingshit40000/images/covers/2011-05-10-wayne-shorter-speak-no-evil-flac.webp)Re-uploaded.
+[![](/hfs40k/images/covers/2011-05-10-wayne-shorter-speak-no-evil-flac.webp)](/hfs40k/images/covers/2011-05-10-wayne-shorter-speak-no-evil-flac.webp)Re-uploaded.
 
 [Enjoy](https://web.archive.org/web/20111010093613/http://lix.in/-9f65b9)

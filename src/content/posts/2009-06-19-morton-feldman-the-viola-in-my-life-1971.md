@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Morton%20Feldman%20The
 
 
 
-[![](/holyfuckingshit40000/images/ea2656ecd8c266a9b7055ec9d71d980b.webp)](https://web.archive.org/web/20111010091419/http://4.bp.blogspot.com/_JdyrURA7JYI/Sjv6U20PgaI/AAAAAAAAABg/XtEjlZTkaMw/s1600-h/feldman.PNG)  
+[![](/hfs40k/images/ea2656ecd8c266a9b7055ec9d71d980b.webp)](https://web.archive.org/web/20111010091419/http://4.bp.blogspot.com/_JdyrURA7JYI/Sjv6U20PgaI/AAAAAAAAABg/XtEjlZTkaMw/s1600-h/feldman.PNG)  
 "My wife is being raped and you write celesta music???"  
   
 [Download (320)](https://web.archive.org/web/20111010091419/http://lix.in/-52b2e3)

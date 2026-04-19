@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Agalloch%20Of%20Stone%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-01-agalloch-of-stone-wind-and-pillor-2001-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-01-agalloch-of-stone-wind-and-pillor-2001-flac.webp)I've heard that this is rare.
+[![](/hfs40k/images/covers/2009-07-01-agalloch-of-stone-wind-and-pillor-2001-flac.webp)](/hfs40k/images/covers/2009-07-01-agalloch-of-stone-wind-and-pillor-2001-flac.webp)I've heard that this is rare.
 
 [Download FLAC](https://web.archive.org/web/20111010142436/http://lix.in/-54300f)

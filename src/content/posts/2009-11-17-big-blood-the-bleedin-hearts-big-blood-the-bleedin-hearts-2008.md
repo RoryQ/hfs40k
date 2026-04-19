@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Big%20Blood%20%26%20Th
 
 
 
-[![](/holyfuckingshit40000/images/a421bc61ac222c750880c8c67f95f1f2.webp)](/holyfuckingshit40000/images/a421bc61ac222c750880c8c67f95f1f2.webp)
+[![](/hfs40k/images/a421bc61ac222c750880c8c67f95f1f2.webp)](/hfs40k/images/a421bc61ac222c750880c8c67f95f1f2.webp)
 
 1. Bah-mum
 

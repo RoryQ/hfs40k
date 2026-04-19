@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Given%20to%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-04-neurosis-given-to-the-rising-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-04-neurosis-given-to-the-rising-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-04-neurosis-given-to-the-rising-flac.webp)](/hfs40k/images/covers/2009-04-04-neurosis-given-to-the-rising-flac.webp)  
 "*Given To The Rising* is a smoldering piece of ancient inner conflict, forged in isolation."  
   
 Download (FLAC)  

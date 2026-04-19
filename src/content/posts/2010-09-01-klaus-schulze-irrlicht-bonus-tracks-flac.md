@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Irrl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)  
+[![](/hfs40k/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)](/hfs40k/images/covers/2010-09-01-klaus-schulze-irrlicht-bonus-tracks-flac.webp)  
 The year was 1972 when former Tangerine Dream and Ash Ra Tempel member Klaus Schulze embarked on his lengthy solo career which continues to this day.  
 Although it is considered to be a pioneering classic in Electronic music today, Schulze's solo debut "Irrlicht" was not well received when it was first released 34 years ago. Many listeners (as well as members of the orchestra which Klaus used on the album) didn't quite know what to think at the time. However, the listening public finally caught up with Klaus's crazy ideas and the album has since become a blueprint for the ambient/drone genre.  
 Although Klaus Schulze has long been regarded as a pioneer of synthesizers, "Irrlicht" was actually created without any synths whatsoever as Klaus did not own one yet. The instruments and tools that were used were the above-mentioned orchestra as well as a primitive electric organ, a broken guitar amplifier, echo and effect devices as well as other miscellaneous objects.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yezda%20Urfa%20Boris
 
 
 
-[![](/holyfuckingshit40000/images/29a101c5af1e39e263415e2140bb362d.webp)](https://web.archive.org/web/20111010091354/http://3.bp.blogspot.com/_5cVyPU93ihM/SkhjfrD2d4I/AAAAAAAAAJU/_OksRStlAWs/s1600-h/Picture+2.png)  
+[![](/hfs40k/images/29a101c5af1e39e263415e2140bb362d.webp)](https://web.archive.org/web/20111010091354/http://3.bp.blogspot.com/_5cVyPU93ihM/SkhjfrD2d4I/AAAAAAAAAJU/_OksRStlAWs/s1600-h/Picture+2.png)  
 A wild beast of an album that has clear influences from Gentle Giant and Yes. If you like either of those bands, you'd do well to check it out.  
  [Download](https://web.archive.org/web/20111010091354/http://lix.in/-53db91) (MU)  
 [Download](https://web.archive.org/web/20111010091354/http://lix.in/-556232) (MF)

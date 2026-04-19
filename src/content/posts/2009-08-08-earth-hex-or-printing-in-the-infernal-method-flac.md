@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Earth%20Hex%3B%20Or%20
 
 
 
-[![](/holyfuckingshit40000/images/1aa270a98984bbff46177738109bad77.webp)](/holyfuckingshit40000/images/1aa270a98984bbff46177738109bad77.webp)shit dogg is that earth's (second) best album in flac?  
+[![](/hfs40k/images/1aa270a98984bbff46177738109bad77.webp)](/hfs40k/images/1aa270a98984bbff46177738109bad77.webp)shit dogg is that earth's (second) best album in flac?  
   
 Download (Mediafire)
 

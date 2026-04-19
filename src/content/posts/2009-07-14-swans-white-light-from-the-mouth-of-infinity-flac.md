@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20White%20Light%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-14-swans-white-light-from-the-mouth-of-infinity-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-14-swans-white-light-from-the-mouth-of-infinity-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-14-swans-white-light-from-the-mouth-of-infinity-flac.webp)](/hfs40k/images/covers/2009-07-14-swans-white-light-from-the-mouth-of-infinity-flac.webp)  
 It's the first time I listen to this band, but I liked it a lot.  
   
 [DOWNLOAD [FLAC]](https://web.archive.org/web/20111010141729/http://lix.in/-53eec8)

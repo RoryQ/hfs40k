@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sunn%20O%29%29%29%20Mo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-17-sunn-o-monoliths-dimensions-2009-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-17-sunn-o-monoliths-dimensions-2009-flac.webp)Reuploaded for Talvi.  
+[![](/hfs40k/images/covers/2009-08-17-sunn-o-monoliths-dimensions-2009-flac.webp)](/hfs40k/images/covers/2009-08-17-sunn-o-monoliths-dimensions-2009-flac.webp)Reuploaded for Talvi.  
   
 Download FLAC: [1](https://web.archive.org/web/20111010145236/http://lix.in/-51c8ce) / [2](https://web.archive.org/web/20111010145236/http://lix.in/-54d610) / [3](https://web.archive.org/web/20111010145236/http://lix.in/-565cb1) / [4](https://web.archive.org/web/20111010145236/http://lix.in/-57e352)

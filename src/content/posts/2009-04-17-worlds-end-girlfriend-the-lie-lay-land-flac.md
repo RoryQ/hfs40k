@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girl
 
 
 
-[![](/holyfuckingshit40000/images/965de6072eba4f05855e8980e8a5f499.webp)](https://web.archive.org/web/20111010130740/http://2.bp.blogspot.com/_5cVyPU93ihM/SeikRcKCFSI/AAAAAAAAADo/IlKE7P6nhhU/s1600-h/World%27s+End+Girlfriend+-+The+Lie+Lay+Land.jpg)"The soundtrack for your dreams"  
+[![](/hfs40k/images/965de6072eba4f05855e8980e8a5f499.webp)](https://web.archive.org/web/20111010130740/http://2.bp.blogspot.com/_5cVyPU93ihM/SeikRcKCFSI/AAAAAAAAADo/IlKE7P6nhhU/s1600-h/World%27s+End+Girlfriend+-+The+Lie+Lay+Land.jpg)"The soundtrack for your dreams"  
 [Download](https://web.archive.org/web/20111010130740/http://lix.in/-4c6623)  
 [Last.fm](https://web.archive.org/web/20111010130740/http://www.last.fm/music/World%27s+End+Girlfriend)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Washed%20Out%20Life%20
 
 
 
-[![](/holyfuckingshit40000/images/787778afd151d9d25a556a80c528dec1.webp)](/holyfuckingshit40000/images/787778afd151d9d25a556a80c528dec1.webp)  
+[![](/hfs40k/images/787778afd151d9d25a556a80c528dec1.webp)](/hfs40k/images/787778afd151d9d25a556a80c528dec1.webp)  
 Nobody is to use the term "chill wave" in reference to this music.   
 [320](https://web.archive.org/web/20111010080830/http://lix.in/-780265)  
 Feel free to trump with FLAC.

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Emeralds%20Does%20It%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-15-emeralds-does-it-look-like-im-here-2010-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-15-emeralds-does-it-look-like-im-here-2010-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-15-emeralds-does-it-look-like-im-here-2010-flac.webp)](/hfs40k/images/covers/2010-06-15-emeralds-does-it-look-like-im-here-2010-flac.webp)  
   
   
   

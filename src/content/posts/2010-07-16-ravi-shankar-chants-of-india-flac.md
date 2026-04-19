@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20Chant
 
 
 
-[![](/holyfuckingshit40000/images/2e8b1181407cb0989d2a2968c96d5d18.webp)](https://web.archive.org/web/20111010053635/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEE2sM4PgaI/AAAAAAAAAJY/O7FxIx1DrrA/s1600/o49701.jpg)  
+[![](/hfs40k/images/2e8b1181407cb0989d2a2968c96d5d18.webp)](https://web.archive.org/web/20111010053635/http://3.bp.blogspot.com/_mTQyK3r0bG0/TEE2sM4PgaI/AAAAAAAAAJY/O7FxIx1DrrA/s1600/o49701.jpg)  
 On CHANTS OF INDIA, Ravi Shankar's music mixes both Western and Eastern styles to evoke the beauty of the collective human experience. We hear an Indian chorus of singers and a western chorus of singers working in synergy, and stringed instruments (violins, cellos, etc.) mixed in with Indian instruments such as the sitar, tanpura, and others.  
   
 George Harrison plays a little guitar and percussion as well as producing the album. One of Shankar's most experimental and daring projects, CHANTS OF INDIA is an impressive effort. The use of mantras adds power and passion to the already hypnotic compositions.  

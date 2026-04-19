@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Leo%C5%A1%20Jan%C3%A1%
 
 
 
-[![](/holyfuckingshit40000/images/5d92ea60fa0b8dde9aff0af03db64867.webp)](https://web.archive.org/web/20111010093555/http://2.bp.blogspot.com/-F7vGM5sexsg/TcHA6tyYARI/AAAAAAAAAR4/Zh2YVQJrIdM/s1600/folder.jpg)More excellence. I don't feel like writing a review really because what I said about the previous quartet holds true here. Skip this at your own risk.
+[![](/hfs40k/images/5d92ea60fa0b8dde9aff0af03db64867.webp)](https://web.archive.org/web/20111010093555/http://2.bp.blogspot.com/-F7vGM5sexsg/TcHA6tyYARI/AAAAAAAAAR4/Zh2YVQJrIdM/s1600/folder.jpg)More excellence. I don't feel like writing a review really because what I said about the previous quartet holds true here. Skip this at your own risk.
 
 [Enjoy](https://web.archive.org/web/20111010093555/http://lix.in/-a088be)

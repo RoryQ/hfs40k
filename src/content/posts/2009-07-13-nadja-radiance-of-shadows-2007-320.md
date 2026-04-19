@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nadja%20Radiance%20of%
 
 
 
-[![](/holyfuckingshit40000/images/3cd4a3a5be8642ef3e230b2a03b3cd24.webp)](/holyfuckingshit40000/images/3cd4a3a5be8642ef3e230b2a03b3cd24.webp)So you probably have this already.. But here it is just in case. 'I Have Tasted The Fire Inside Your Mouth' might be their best song. The album is essentially three tracks, each filled with over 20 minutes of oppressive, droning distortion. It's the best Nadja album that I've heard yet, although I haven't actually listened to very many..  
+[![](/hfs40k/images/3cd4a3a5be8642ef3e230b2a03b3cd24.webp)](/hfs40k/images/3cd4a3a5be8642ef3e230b2a03b3cd24.webp)So you probably have this already.. But here it is just in case. 'I Have Tasted The Fire Inside Your Mouth' might be their best song. The album is essentially three tracks, each filled with over 20 minutes of oppressive, droning distortion. It's the best Nadja album that I've heard yet, although I haven't actually listened to very many..  
   
 FLAC COMING SOON  
   

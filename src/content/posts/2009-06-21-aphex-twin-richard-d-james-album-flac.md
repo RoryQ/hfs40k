@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Richard
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-21-aphex-twin-richard-d-james-album-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-21-aphex-twin-richard-d-james-album-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-21-aphex-twin-richard-d-james-album-flac.webp)](/hfs40k/images/covers/2009-06-21-aphex-twin-richard-d-james-album-flac.webp)  
 Have you ever wondered what it was like to be spinning inside the head of an insane genius at the peak of his insanity and creativity? Well, probably not, but if you find yourself wondering what the soundtrack to such an event would sound like, then you should check this album out. The tracks move along at such dizzying paces that you don't have time to catch your breath throughout the 45 minutes that he has a hold of your throat. Each song has its own, unique cheesy melody to accompany often non-rhythmic beats that would be utterly impossible to dance to. That's why this album is the anthem of the sanity-free: the music grabs ahold of you, and you want to do something like dance to it, but you can't. You have to sit there while he's rummaging through your brain breaking everything he can find, rendering you helpless to breathe, think or move for 3/4 of an hour. The only downfall of this album is that it's not longer.  
   
   

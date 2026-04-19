@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Giant%20Squid%20The%20
 
 
 
-[![](/holyfuckingshit40000/images/92b51d8e22db953d5c547f04d91e0180.webp)](/holyfuckingshit40000/images/03d34a1f4c924a12f6ea8e3bfb0fc4b0.webp)  
+[![](/hfs40k/images/92b51d8e22db953d5c547f04d91e0180.webp)](/hfs40k/images/03d34a1f4c924a12f6ea8e3bfb0fc4b0.webp)  
 For the squidcore fans.  
   
  [Download](https://web.archive.org/web/20101203181234/http://www.mediafire.com/?kgzvwnamiyk)  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Frank%20Sinatra%20Come
 
 
 
-[![](/holyfuckingshit40000/images/bf2fef55c7da889f2e1bebb9cf01daec.webp)](https://web.archive.org/web/20111010052255/http://3.bp.blogspot.com/_pqcGUSDUhi4/TFPpygTj-mI/AAAAAAAAAPQ/nY6OEESya8M/s1600/mini_cover.jpg)  
+[![](/hfs40k/images/bf2fef55c7da889f2e1bebb9cf01daec.webp)](https://web.archive.org/web/20111010052255/http://3.bp.blogspot.com/_pqcGUSDUhi4/TFPpygTj-mI/AAAAAAAAAPQ/nY6OEESya8M/s1600/mini_cover.jpg)  
   
   
   

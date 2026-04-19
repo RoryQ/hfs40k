@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gate%20The%20Dew%20Lin
 
 
 
-[![](/holyfuckingshit40000/images/dc3a6bfbd3a4d3da4afc900c7950f7b7.webp)](/holyfuckingshit40000/images/dc3a6bfbd3a4d3da4afc900c7950f7b7.webp)This will be the most polarizing thing I post here. I listen to it and I get into it, fuzzed out, droney and all that, cool stuff made by cool junkie guy (he probably isn't a junkie). Then I decide to get out of the fuzzed out drones and listen to it objectively and realize that it's kind of boring and long and the guy probably isn't trying very hard. I get into it again though, and it's really good.
+[![](/hfs40k/images/dc3a6bfbd3a4d3da4afc900c7950f7b7.webp)](/hfs40k/images/dc3a6bfbd3a4d3da4afc900c7950f7b7.webp)This will be the most polarizing thing I post here. I listen to it and I get into it, fuzzed out, droney and all that, cool stuff made by cool junkie guy (he probably isn't a junkie). Then I decide to get out of the fuzzed out drones and listen to it objectively and realize that it's kind of boring and long and the guy probably isn't trying very hard. I get into it again though, and it's really good.
 
 It's Michael Morley (from [the Dead C](https://web.archive.org/web/20111010145625/http://holyfuckingshit40000.blogspot.com/2009/07/dead-c-white-house-1995vbr.html) ) doing drone/folk kind of stuff.
 

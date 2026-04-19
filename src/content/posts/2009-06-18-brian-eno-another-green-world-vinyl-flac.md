@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-18-brian-eno-another-green-world-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-18-brian-eno-another-green-world-vinyl-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-18-brian-eno-another-green-world-vinyl-flac.webp)](/hfs40k/images/covers/2009-06-18-brian-eno-another-green-world-vinyl-flac.webp)  
 In an interview ten years after the release of his acknowledged 1975 masterpiece ANOTHER GREEN WORLD, Brian Eno said, "I want the music to be as much as possible a continuous condition of the environment...in the same way as a painting is." This goes a long way toward explaining Eno's approach to music, where tone and texture take precedence over lyrics and melody. These are not so much songs as they are ambient sound paintings. Even on songs like "I'll Come Running", which seems to follow a conventional song structure, there is an ethereal beauty about it.  
   
 Even on the songs where Eno includes lyrics, they seem to be there not so much for meaning, but for the images they conjure. Consider these lines from "St. Elmo's Fire": "Then we rested in the desert/ Where the bones were white as teeth, sir/ And we saw St. Elmo's Fire / Splitting ions in the ether." In fact, in the Lyrics to "Sky Saw," Eno seems to be saying the words really aren't that important since most people don't pay any attention to them: " All the clouds turn to words / All the words float in sequence / No one knows what they mean / Everyone just ignores them." Besides, only five of the tracks include vocals; the remainder are instrumentals.  

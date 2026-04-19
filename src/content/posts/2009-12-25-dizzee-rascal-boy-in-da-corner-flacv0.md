@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Dizzee%20Rascal%20Boy%
 
 
 
-[![](/holyfuckingshit40000/images/e2d9a4dfa142982499c69b13eda82759.webp)](https://web.archive.org/web/20111010153226/http://1.bp.blogspot.com/_JdyrURA7JYI/SzWOFfC8SmI/AAAAAAAAAL4/pZjWUV6rgCE/s1600-h/dizzeeboy.PNG)Boy in da Corner is most famous for being the quintessential "grime" album. Grime being a subgenre of hip hop most common in UK for its dance-y, raw synth beats and fast rapping. This is the US version of the album meaning there is an added bonus track titled "Vexed".  
+[![](/hfs40k/images/e2d9a4dfa142982499c69b13eda82759.webp)](https://web.archive.org/web/20111010153226/http://1.bp.blogspot.com/_JdyrURA7JYI/SzWOFfC8SmI/AAAAAAAAAL4/pZjWUV6rgCE/s1600-h/dizzeeboy.PNG)Boy in da Corner is most famous for being the quintessential "grime" album. Grime being a subgenre of hip hop most common in UK for its dance-y, raw synth beats and fast rapping. This is the US version of the album meaning there is an added bonus track titled "Vexed".  
   
 [Download FLAC](https://web.archive.org/web/20111010153226/http://lix.in/-61390f) // \\ [Download v0](https://web.archive.org/web/20111010153226/http://lix.in/-62bfb0)

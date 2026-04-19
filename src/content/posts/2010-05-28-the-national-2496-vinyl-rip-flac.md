@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20National%2024/96
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-28-the-national-2496-vinyl-rip-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-28-the-national-2496-vinyl-rip-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-28-the-national-2496-vinyl-rip-flac.webp)](/hfs40k/images/covers/2010-05-28-the-national-2496-vinyl-rip-flac.webp)  
   
   
 [Yeah this is some hipster and pretentious stuff but I kinda like it and it sounds so much better than the CD version](https://web.archive.org/web/20111010100123/http://lix.in/-7dd70b)

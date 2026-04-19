@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bibio%20Ambivalence%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-06-bibio-ambivalence-avenue-2009-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-06-bibio-ambivalence-avenue-2009-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-06-bibio-ambivalence-avenue-2009-flac.webp)](/hfs40k/images/covers/2009-07-06-bibio-ambivalence-avenue-2009-flac.webp)  
 By Request.  
   
 [Download](https://web.archive.org/web/20111010141528/http://lix.in/-4e8f57) (MU)  

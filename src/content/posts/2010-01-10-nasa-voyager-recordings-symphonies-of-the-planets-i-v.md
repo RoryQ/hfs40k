@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nasa%20Voyager%20Recor
 
 
 
-[![](/holyfuckingshit40000/images/96d3d37ef03e855dae6963957c8c447c.webp)](/holyfuckingshit40000/images/96d3d37ef03e855dae6963957c8c447c.webp)  
+[![](/hfs40k/images/96d3d37ef03e855dae6963957c8c447c.webp)](/hfs40k/images/96d3d37ef03e855dae6963957c8c447c.webp)  
   
 "Share the journey of a 5 billion mile trek to the outer limits of our solar system. Hear the beautiful songs of the planets. The complex interactions of the cosmic plasma of the universe, charged electromagnetic particles from the solar wind, planetary magnetosphere, rings and moons create vibration soundscapes which are at once utterly alien and deeply familiar to the ear. Some of these sounds are hauntingly like human voices singing, giant Tibetan bowls, wind waves, birds and dolphins. Many are familiar in a way unique for each listener."  
   

@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Works%
 
 
 
-[![](/holyfuckingshit40000/images/ee88626c9e75effca5d5ec3930107f25.webp)](https://web.archive.org/web/20111010145506/http://3.bp.blogspot.com/_A31Dfz4S5yg/SoW8DUlun_I/AAAAAAAAAGU/FQMw3uj3AdQ/s1600-h/Steve_Reich2.jpg)dmca
+[![](/hfs40k/images/ee88626c9e75effca5d5ec3930107f25.webp)](https://web.archive.org/web/20111010145506/http://3.bp.blogspot.com/_A31Dfz4S5yg/SoW8DUlun_I/AAAAAAAAAGU/FQMw3uj3AdQ/s1600-h/Steve_Reich2.jpg)dmca

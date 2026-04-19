@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Godflesh%20Streetclean
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-20-godflesh-streetcleaner-flac.webp)](/holyfuckingshit40000/images/covers/2009-02-20-godflesh-streetcleaner-flac.webp)  
+[![](/hfs40k/images/covers/2009-02-20-godflesh-streetcleaner-flac.webp)](/hfs40k/images/covers/2009-02-20-godflesh-streetcleaner-flac.webp)  
 "The ultimate soundtrack of industrial decay**"**[Download](https://web.archive.org/web/20101203184021/http://www.megaupload.com/?d=ATJFQ3LV)FLAC

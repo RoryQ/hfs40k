@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Windowl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-18-aphex-twin-windowlicker-1999-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-18-aphex-twin-windowlicker-1999-flac.webp)The greatest single of all time in FLAC.
+[![](/hfs40k/images/covers/2009-06-18-aphex-twin-windowlicker-1999-flac.webp)](/hfs40k/images/covers/2009-06-18-aphex-twin-windowlicker-1999-flac.webp)The greatest single of all time in FLAC.
 
 [Download FLAC](https://web.archive.org/web/20111010085204/http://lix.in/-4b2789)

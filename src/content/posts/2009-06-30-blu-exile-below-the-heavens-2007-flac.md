@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Blu%20%26%20Exile%20Be
 
 
 
-[![](/holyfuckingshit40000/images/c0de8aad323a78db67ca1e5d4caa1c34.webp)](https://web.archive.org/web/20111010091151/http://1.bp.blogspot.com/_5cVyPU93ihM/Skon25QF5FI/AAAAAAAAAJk/RAMzhZ6k2Zo/s1600-h/folder.jpg)  
+[![](/hfs40k/images/c0de8aad323a78db67ca1e5d4caa1c34.webp)](https://web.archive.org/web/20111010091151/http://1.bp.blogspot.com/_5cVyPU93ihM/Skon25QF5FI/AAAAAAAAAJk/RAMzhZ6k2Zo/s1600-h/folder.jpg)  
 Backpackin' Hippity Hops.  
   
 [Download](https://web.archive.org/web/20111010091151/http://lix.in/-4adbf3) (MU)  

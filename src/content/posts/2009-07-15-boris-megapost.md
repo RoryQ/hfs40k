@@ -17,7 +17,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-15-boris-megapost.webp)](/holyfuckingshit40000/images/covers/2009-07-15-boris-megapost.webp)[Absolutego+ [320 mp3]](https://web.archive.org/web/20111010142533/http://lix.in/-4f86f5)  
+[![](/hfs40k/images/covers/2009-07-15-boris-megapost.webp)](/hfs40k/images/covers/2009-07-15-boris-megapost.webp)[Absolutego+ [320 mp3]](https://web.archive.org/web/20111010142533/http://lix.in/-4f86f5)  
 
 [Amplifier Worship [FLAC]](https://web.archive.org/web/20111010142533/http://lix.in/-510d96)
 

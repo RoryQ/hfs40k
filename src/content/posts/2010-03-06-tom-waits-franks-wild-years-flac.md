@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Franks%2
 
 
 
-[![](/holyfuckingshit40000/images/f813592f6a24eb030ae2105334acd7d5.webp)](https://web.archive.org/web/20111010081407/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KRtLYyDJI/AAAAAAAAAaY/xO1-Xd5Blrw/s1600-h/album-franks-wild-years.jpg)  
+[![](/hfs40k/images/f813592f6a24eb030ae2105334acd7d5.webp)](https://web.archive.org/web/20111010081407/http://3.bp.blogspot.com/_cLI19EXK2oU/S5KRtLYyDJI/AAAAAAAAAaY/xO1-Xd5Blrw/s1600-h/album-franks-wild-years.jpg)  
 
 Waits' songwriting has already been rightfully praised by other reviews. What I want to talk about is the music and arrangements that create the atmosphere that sustains this album. The accordion on "Blow Wind Blow" that sounds like it was lifted straight from a 1930's era Popeye cartoon. The clanking, squawking, grinding guitars and the eerie wobble of the Optigan, a toy organ that Waits uses in ways its makers never intended. (The rooster on "I'll Be Gone" is actually from the Optigan.)
 

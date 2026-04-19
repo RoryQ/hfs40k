@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aphrodite%27s%20Child%
 
 
 
-[![](/holyfuckingshit40000/images/a8dd5bb80eee0a50389b85c876fcbc89.webp)](https://web.archive.org/web/20111010123414/http://4.bp.blogspot.com/_5cVyPU93ihM/S1qKTPITFTI/AAAAAAAAANA/eqdXj6hsAkc/s1600-h/666.jpg)  
+[![](/hfs40k/images/a8dd5bb80eee0a50389b85c876fcbc89.webp)](https://web.archive.org/web/20111010123414/http://4.bp.blogspot.com/_5cVyPU93ihM/S1qKTPITFTI/AAAAAAAAANA/eqdXj6hsAkc/s1600-h/666.jpg)  
 "Classic collaboration between Satan and Vangelis (same man behind the Blade Runner soundtrack). Less a record album than it is the soundtrack to an imaginary apocalyptic art film."  
   
 [Download](https://web.archive.org/web/20111010123414/http://lix.in/-731105)

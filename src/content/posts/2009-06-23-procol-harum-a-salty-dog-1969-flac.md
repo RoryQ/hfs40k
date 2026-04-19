@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Procol%20Harum%20A%20S
 
 
 
-[![](/holyfuckingshit40000/images/5fd3cf33a258300059c80230eb8044cb.webp)](https://web.archive.org/web/20111010091509/http://4.bp.blogspot.com/_5cVyPU93ihM/SkDUdj17nfI/AAAAAAAAAIU/8OvdMyiz5uI/s1600-h/o12119.jpg)  
+[![](/hfs40k/images/5fd3cf33a258300059c80230eb8044cb.webp)](https://web.archive.org/web/20111010091509/http://4.bp.blogspot.com/_5cVyPU93ihM/SkDUdj17nfI/AAAAAAAAAIU/8OvdMyiz5uI/s1600-h/o12119.jpg)  
 All aboard sailors... for some classic late 60s proto-prog.  
  [Download](https://web.archive.org/web/20111010091509/http://lix.in/-4b89dc) (MU)  
 [Download](https://web.archive.org/web/20111010091509/http://lix.in/-4e9728) (MF)

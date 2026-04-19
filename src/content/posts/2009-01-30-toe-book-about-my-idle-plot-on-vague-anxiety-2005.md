@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Toe%20Book%20About%20M
 
 
 
-[![](/holyfuckingshit40000/images/46e2fbf43c8459c587a4b00ed1918a89.webp)](/holyfuckingshit40000/images/46e2fbf43c8459c587a4b00ed1918a89.webp)  
+[![](/hfs40k/images/46e2fbf43c8459c587a4b00ed1918a89.webp)](/hfs40k/images/46e2fbf43c8459c587a4b00ed1918a89.webp)  
 Genre: Post-Rock / Math Rock  
 Country: Japan  
   

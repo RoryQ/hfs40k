@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Deirdres%20Why%2
 
 
 
-[![](/holyfuckingshit40000/images/50da033a6887f05b54a432241eed2f9d.webp)](/holyfuckingshit40000/images/50da033a6887f05b54a432241eed2f9d.webp)  
+[![](/hfs40k/images/50da033a6887f05b54a432241eed2f9d.webp)](/hfs40k/images/50da033a6887f05b54a432241eed2f9d.webp)  
   
 weirdo indie pop for weirdo holyfuckers alike   
   

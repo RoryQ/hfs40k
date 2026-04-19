@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Susumu%20Yokota%20Moth
 
 
 
-[![](/holyfuckingshit40000/images/ef933d887d549bb3d35e702435e55cb6.webp)](https://web.archive.org/web/20111010145650/http://3.bp.blogspot.com/_z8rLjrFVzbo/SoQbiP2o_JI/AAAAAAAAAIk/4FfgjC-tiCk/s1600-h/333.jpg)  
+[![](/hfs40k/images/ef933d887d549bb3d35e702435e55cb6.webp)](https://web.archive.org/web/20111010145650/http://3.bp.blogspot.com/_z8rLjrFVzbo/SoQbiP2o_JI/AAAAAAAAAIk/4FfgjC-tiCk/s1600-h/333.jpg)  
 Saw some bro had it on wishlist so here it is. Ambient with pop/shoegaze vocals from japan. Nice chill out music.  
   
 [Download @ 320](https://web.archive.org/web/20111010145650/http://lix.in/-5a68f4)

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Harold%20Budd/Brian%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-05-harold-buddbrian-eno-ambient-2the-plateaux-of-mirror-1980egalac.webp)](/holyfuckingshit40000/images/covers/2010-04-05-harold-buddbrian-eno-ambient-2the-plateaux-of-mirror-1980egalac.webp)  
+[![](/hfs40k/images/covers/2010-04-05-harold-buddbrian-eno-ambient-2the-plateaux-of-mirror-1980egalac.webp)](/hfs40k/images/covers/2010-04-05-harold-buddbrian-eno-ambient-2the-plateaux-of-mirror-1980egalac.webp)  
 Because the album was recorded on analog equipment, the listener can hear the hiss of the tapes Eno used for his treated sounds in several of the tracks.  
 [ALAC](https://web.archive.org/web/20111010045138/http://lix.in/-73fdfc)

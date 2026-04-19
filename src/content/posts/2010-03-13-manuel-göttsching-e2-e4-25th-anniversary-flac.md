@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Manuel%20G%C3%B6ttschi
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-13-manuel-göttsching-e2-e4-25th-anniversary-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-13-manuel-göttsching-e2-e4-25th-anniversary-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-13-manuel-göttsching-e2-e4-25th-anniversary-flac.webp)](/hfs40k/images/covers/2010-03-13-manuel-göttsching-e2-e4-25th-anniversary-flac.webp)  
   
   
   

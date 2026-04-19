@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mission%20of%20Burma%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-14-mission-of-burma-signals-calls-and-marches-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-14-mission-of-burma-signals-calls-and-marches-flac.webp)1997 issue.  
+[![](/hfs40k/images/covers/2009-11-14-mission-of-burma-signals-calls-and-marches-flac.webp)](/hfs40k/images/covers/2009-11-14-mission-of-burma-signals-calls-and-marches-flac.webp)1997 issue.  
   
 [Download flac.](https://web.archive.org/web/20111010122000/http://lix.in/-6689d5)  
   

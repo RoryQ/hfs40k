@@ -18,8 +18,8 @@ youtube_url: https://www.youtube.com/results?search_query=Edge%20Of%20Sanity%20C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-02-edge-of-sanity-crimson-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-02-edge-of-sanity-crimson-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-02-edge-of-sanity-crimson-flac.webp)](/hfs40k/images/covers/2009-03-02-edge-of-sanity-crimson-flac.webp)  
 BEST PROGRESSIVE MELODIC BRUTAL DEATH METAL CONCEPT ALBUM EVAH  
   
 [Download](https://web.archive.org/web/20111010170414/http://lix.in/-50f858)   
-[Last.fm](https://web.archive.org/web/20111010170414/http://www.last.fm/music/Edge+of+Sanity)![Text Colour](/holyfuckingshit40000/images/2cafef5bc8ecc96b81e57177dbeb824e.gif)
+[Last.fm](https://web.archive.org/web/20111010170414/http://www.last.fm/music/Edge+of+Sanity)![Text Colour](/hfs40k/images/2cafef5bc8ecc96b81e57177dbeb824e.gif)

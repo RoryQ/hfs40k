@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Terry%20Scott%20Taylor
 
 
 
-[![](/holyfuckingshit40000/images/68d0b44e348bf7b3f00e37a7666810fa.webp)](https://web.archive.org/web/20111010155807/http://4.bp.blogspot.com/_y2txNHnxZGg/S4FeKNgIRYI/AAAAAAAAAEo/Ki7JVL_5ULE/s1600-h/390796.jpg)  
+[![](/hfs40k/images/68d0b44e348bf7b3f00e37a7666810fa.webp)](https://web.archive.org/web/20111010155807/http://4.bp.blogspot.com/_y2txNHnxZGg/S4FeKNgIRYI/AAAAAAAAAEo/Ki7JVL_5ULE/s1600-h/390796.jpg)  
 Pretty much the only video game soundtrack you need to listen to.  
   
 [Load it down: Flac Edition](https://web.archive.org/web/20111010155807/http://www.megaupload.com/?d=POHUDD7J)

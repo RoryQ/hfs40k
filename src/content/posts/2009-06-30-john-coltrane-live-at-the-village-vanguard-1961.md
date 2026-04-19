@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Live
 
 
 
-[![](/holyfuckingshit40000/images/ea0a6c633dc69648bbd8bbf6c1ef2b56.webp)](https://web.archive.org/web/20111010091440/http://3.bp.blogspot.com/_JdyrURA7JYI/SkqJRFuOS0I/AAAAAAAAACo/NXQfyRxUn3Q/s1600-h/coltranelive.PNG)The original LP + 2 tracks from the "Master Takes" version.  
+[![](/hfs40k/images/ea0a6c633dc69648bbd8bbf6c1ef2b56.webp)](https://web.archive.org/web/20111010091440/http://3.bp.blogspot.com/_JdyrURA7JYI/SkqJRFuOS0I/AAAAAAAAACo/NXQfyRxUn3Q/s1600-h/coltranelive.PNG)The original LP + 2 tracks from the "Master Takes" version.  
   
 [Download 320 (1)](https://web.archive.org/web/20111010091440/http://lix.in/-510261) / [Download 320 (2)](https://web.archive.org/web/20111010091440/http://lix.in/-540fa3)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Ladies
 
 
 
-[![](/holyfuckingshit40000/images/3cc09f2c9864b0c7f348a0e8a5ef85ab.webp)](/holyfuckingshit40000/images/3cc09f2c9864b0c7f348a0e8a5ef85ab.webp)  
+[![](/hfs40k/images/3cc09f2c9864b0c7f348a0e8a5ef85ab.webp)](/hfs40k/images/3cc09f2c9864b0c7f348a0e8a5ef85ab.webp)  
   
 Took down the shitty autoplaying songlist streamer as requested. I forgot why I even put it there in the first place.  
   

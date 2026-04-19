@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Andrew%20Douglas%20Rot
 
 
 
-[![](/holyfuckingshit40000/images/aa14d56a6b601f5a64255ccb33b2ef3a.webp)](https://web.archive.org/web/20111010142411/http://2.bp.blogspot.com/_X0HDv9LMCK8/SldO9eb3xuI/AAAAAAAAAEE/5Gtpgsa92sY/s1600-h/707071.jpg)"what if john fahey was from outer space?" -Prayermad  
+[![](/hfs40k/images/aa14d56a6b601f5a64255ccb33b2ef3a.webp)](https://web.archive.org/web/20111010142411/http://2.bp.blogspot.com/_X0HDv9LMCK8/SldO9eb3xuI/AAAAAAAAAEE/5Gtpgsa92sY/s1600-h/707071.jpg)"what if john fahey was from outer space?" -Prayermad  
   
 \*Requested to be removed\*

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Decemberists%20P
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-27-the-decemberists-picaresque-flac.webp)](/holyfuckingshit40000/images/covers/2011-04-27-the-decemberists-picaresque-flac.webp)  
+[![](/hfs40k/images/covers/2011-04-27-the-decemberists-picaresque-flac.webp)](/hfs40k/images/covers/2011-04-27-the-decemberists-picaresque-flac.webp)  
 The obscure word "Picaresque" is an accurate title for the third full-length album by the Decemberists. If you want to get technical, the word refers to humorous adventure stories, starring roguish antiheroes. Considering the folky pirate sound of the Decemberists' latest -- and best -- album, this seems an appropriate title.   
    
 Not that folky-pirate is a NEW sound for them; it's characterized their past music, except for the richly mythic "Tain EP." But the Decemberists amp up their instruments in "Picaresque," making the melodies bigger and louder than before. A few songs like "Espionage" harken back to their previous stripped-down sound, with mainly Colin Meloy and his acoustic guitar. But these are actually the minority here.   

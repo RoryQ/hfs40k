@@ -19,6 +19,6 @@ youtube_url: https://www.youtube.com/results?search_query=Broadcast%20and%20the%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-18-broadcast-and-the-focus-group-broadcast-and-the-focus-group-investigate-witch-cults-of-the-radio-age-2009.webp)](/holyfuckingshit40000/images/covers/2009-12-18-broadcast-and-the-focus-group-broadcast-and-the-focus-group-investigate-witch-cults-of-the-radio-age-2009.webp)Broadcast take a left turn on this collaborative effort with The Focus Group. The album is 23 songs, most of which are short, 1-2 minute suites of musique concrète mixed with trip-hop and psychedelic drones. There are occasional bits of pop, but for the most part, this is an excellent homage to psychedelic music. Not recommended for fans of Broadcast.  
+[![](/hfs40k/images/covers/2009-12-18-broadcast-and-the-focus-group-broadcast-and-the-focus-group-investigate-witch-cults-of-the-radio-age-2009.webp)](/hfs40k/images/covers/2009-12-18-broadcast-and-the-focus-group-broadcast-and-the-focus-group-investigate-witch-cults-of-the-radio-age-2009.webp)Broadcast take a left turn on this collaborative effort with The Focus Group. The album is 23 songs, most of which are short, 1-2 minute suites of musique concrète mixed with trip-hop and psychedelic drones. There are occasional bits of pop, but for the most part, this is an excellent homage to psychedelic music. Not recommended for fans of Broadcast.  
   
 [Download 320](https://web.archive.org/web/20111010153029/http://lix.in/-679692)

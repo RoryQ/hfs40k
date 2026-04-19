@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=London%20Elektricity%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-24-london-elektricity-billion-dollar-gravy-2003.webp)](/holyfuckingshit40000/images/covers/2009-06-24-london-elektricity-billion-dollar-gravy-2003.webp)  
+[![](/hfs40k/images/covers/2009-06-24-london-elektricity-billion-dollar-gravy-2003.webp)](/hfs40k/images/covers/2009-06-24-london-elektricity-billion-dollar-gravy-2003.webp)  
 some pretty breathtaking drum n bass, SNAP THIS SHIT UP  
   
 [320 (happy now, fuckaz?)](https://web.archive.org/web/20111010091415/http://www.megaupload.com/?d=I12FJU87)

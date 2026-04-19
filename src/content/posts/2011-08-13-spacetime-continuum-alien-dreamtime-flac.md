@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Spacetime%20Continuum%
 
 
 
-[![](/holyfuckingshit40000/images/a9422d6d93dac3d0fb17f868bccf82cf.webp)](https://web.archive.org/web/20111004084314/http://4.bp.blogspot.com/-i7x9jAowG_8/Tka_iMGb5AI/AAAAAAAABBA/JXg27shKbcs/s1600/Spacetime%2BContinuum%2B%2526%2BTerence%2BMcKenna%2B-%2BAlien%2BDreamtime.jpg)
+[![](/hfs40k/images/a9422d6d93dac3d0fb17f868bccf82cf.webp)](https://web.archive.org/web/20111004084314/http://4.bp.blogspot.com/-i7x9jAowG_8/Tka_iMGb5AI/AAAAAAAABBA/JXg27shKbcs/s1600/Spacetime%2BContinuum%2B%2526%2BTerence%2BMcKenna%2B-%2BAlien%2BDreamtime.jpg)
   
 Terence lays it out, an overview of his ideas. He talks up so much in symbiotic overview of prehistory and how what's happening in this modern Archaic Revival and where that's leading us. All of this is told to some of the most totally tripped out jazzed rocking trance and it all just combines into something you can groove to.
   

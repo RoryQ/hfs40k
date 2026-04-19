@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Monolake%20Silence
 
 
 
-[![](/holyfuckingshit40000/images/d18c72ec05f9cbe17e9f71fae1616e14.webp)](https://web.archive.org/web/20111010100219/http://2.bp.blogspot.com/_t6lWjgwMoxw/TAOUHN4ElGI/AAAAAAAAAP4/64G8Inzv0v4/s1600/cover.jpeg)  
+[![](/hfs40k/images/d18c72ec05f9cbe17e9f71fae1616e14.webp)](https://web.archive.org/web/20111010100219/http://2.bp.blogspot.com/_t6lWjgwMoxw/TAOUHN4ElGI/AAAAAAAAAP4/64G8Inzv0v4/s1600/cover.jpeg)  
   
   
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=In%20The%20Woods...%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-23-in-the-woods-heart-of-the-ages-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-23-in-the-woods-heart-of-the-ages-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-23-in-the-woods-heart-of-the-ages-flac.webp)](/hfs40k/images/covers/2009-07-23-in-the-woods-heart-of-the-ages-flac.webp)  
 Good Black Metal album.  
 People has told me Omnio is very good, but I've only heard this one.  
   

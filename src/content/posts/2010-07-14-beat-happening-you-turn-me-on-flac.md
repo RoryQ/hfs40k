@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Beat%20Happening%20You
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-14-beat-happening-you-turn-me-on-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-14-beat-happening-you-turn-me-on-flac.webp)Since the response to the other twee posts was good, this album seems like a logical follow-up. A cornerstone album of the twee genre, it's got everything: jangly guitars, a sharp pop sensibility, fey lyrics, and...a baritone vocalist who could have filled in for Ian Curtis? I can dig it.
+[![](/hfs40k/images/covers/2010-07-14-beat-happening-you-turn-me-on-flac.webp)](/hfs40k/images/covers/2010-07-14-beat-happening-you-turn-me-on-flac.webp)Since the response to the other twee posts was good, this album seems like a logical follow-up. A cornerstone album of the twee genre, it's got everything: jangly guitars, a sharp pop sensibility, fey lyrics, and...a baritone vocalist who could have filled in for Ian Curtis? I can dig it.
 
 [Enjoy](https://web.archive.org/web/20111010052611/http://lix.in/-814b38)

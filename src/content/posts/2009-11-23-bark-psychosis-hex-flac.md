@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bark%20Psychosis%20Hex
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-23-bark-psychosis-hex-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-23-bark-psychosis-hex-flac.webp)  
+[![](/hfs40k/images/covers/2009-11-23-bark-psychosis-hex-flac.webp)](/hfs40k/images/covers/2009-11-23-bark-psychosis-hex-flac.webp)  
   
 Some of the most beautiful, ethereal music you'll ever hear. This album led Simon Reynolds to coin the term "post rock", so you know it's good. If absent friend doesn't make you jizz your pants, maybe you should get your sperm count checked or something.  
   

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Coil%20The%20Ape%20of%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-04-coil-the-ape-of-naples-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-04-coil-the-ape-of-naples-flac.webp)  
+[![](/hfs40k/images/covers/2009-10-04-coil-the-ape-of-naples-flac.webp)](/hfs40k/images/covers/2009-10-04-coil-the-ape-of-naples-flac.webp)  
 S-stupid Coil! It's not like I wanted you in FLAC!  
   
 [Download FLAC](https://web.archive.org/web/20111010033153/http://www.megaupload.com/?d=887A1CS4)  

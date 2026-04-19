@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Swans%20Swans%20Are%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-23-swans-swans-are-dead-1998-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-23-swans-swans-are-dead-1998-flac.webp)  
+[![](/hfs40k/images/covers/2010-02-23-swans-swans-are-dead-1998-flac.webp)](/hfs40k/images/covers/2010-02-23-swans-swans-are-dead-1998-flac.webp)  
 
 Huge double live album compiled from the band's final 1995-97 tours. I often find live albums interesting, especially by bands who sound as perfect in the studio as Swans did on *Soundtracks For the Blind*. See how it all ended after their masterpiece (1996)
 

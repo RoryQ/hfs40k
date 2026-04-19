@@ -16,5 +16,5 @@ youtube_url: https://www.youtube.com/results?search_query=LCD%20Soundsystem%20Th
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-04-12-untitled-post.webp)](/holyfuckingshit40000/images/covers/2010-04-12-untitled-post.webp)(this is a legit 320 rip, no FLAC is out yet though)  
+[![](/hfs40k/images/covers/2010-04-12-untitled-post.webp)](/hfs40k/images/covers/2010-04-12-untitled-post.webp)(this is a legit 320 rip, no FLAC is out yet though)  
  [DRUNK GIRLS](https://web.archive.org/web/20111010050151/http://lix.in/-76c49d)

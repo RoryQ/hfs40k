@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Avalanches%20Sin
 
 
 
-[![](/holyfuckingshit40000/images/355ad470e645bc40f674c5d4dc2c5d2a.webp)](https://web.archive.org/web/20111010032945/http://1.bp.blogspot.com/_cLI19EXK2oU/SskdhgDjM_I/AAAAAAAAAUg/MaArqsmq7cY/s1600-h/since-i-left-you1.jpg)  
+[![](/hfs40k/images/355ad470e645bc40f674c5d4dc2c5d2a.webp)](https://web.archive.org/web/20111010032945/http://1.bp.blogspot.com/_cLI19EXK2oU/SskdhgDjM_I/AAAAAAAAAUg/MaArqsmq7cY/s1600-h/since-i-left-you1.jpg)  
 **Note on versions**  
 All of the versions contain samples not included on the other versions but **the 2000 Australian issue is the proper version**. When it was released in the US and UK, there were some issues clearing various samples so they had to be replaced with imitations.  
   

@@ -18,5 +18,5 @@ youtube_url: https://www.youtube.com/results?search_query=Warsaw%20Village%20Ban
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-17-warsaw-village-band-peoples-spring.webp)](/holyfuckingshit40000/images/covers/2009-11-17-warsaw-village-band-peoples-spring.webp)  
+[![](/hfs40k/images/covers/2009-11-17-warsaw-village-band-peoples-spring.webp)](/hfs40k/images/covers/2009-11-17-warsaw-village-band-peoples-spring.webp)  
 [Download v0.](https://web.archive.org/web/20111010121538/http://lix.in/-5f814e)

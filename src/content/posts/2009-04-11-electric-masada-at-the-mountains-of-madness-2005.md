@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Masada%20At
 
 
 
-[![](/holyfuckingshit40000/images/af6c22f4405d8d7fa71c934f45fe75aa.webp)](/holyfuckingshit40000/images/af6c22f4405d8d7fa71c934f45fe75aa.webp)  
+[![](/hfs40k/images/af6c22f4405d8d7fa71c934f45fe75aa.webp)](/hfs40k/images/af6c22f4405d8d7fa71c934f45fe75aa.webp)  
 Better than the book.  
   
 [Download](https://web.archive.org/web/20111010130900/http://www.mediafire.com/?ynmttogyjnn) v0

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-13-boards-of-canada-music-has-the-right-to-children-24bit-vinyl-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-13-boards-of-canada-music-has-the-right-to-children-24bit-vinyl-flac.webp)  
+[![](/hfs40k/images/covers/2009-10-13-boards-of-canada-music-has-the-right-to-children-24bit-vinyl-flac.webp)](/hfs40k/images/covers/2009-10-13-boards-of-canada-music-has-the-right-to-children-24bit-vinyl-flac.webp)  
 As requested  
   
 [Download 24bit Vinyl FLAC](https://web.archive.org/web/20111014070716/http://lix.in/-5bd351)  

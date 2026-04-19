@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day
 
 
 
-[![](/holyfuckingshit40000/images/297393c9cd59421bf5659d0f63d6607a.webp)](https://web.archive.org/web/20111010064943/http://3.bp.blogspot.com/_cLI19EXK2oU/TGEQv6MMsUI/AAAAAAAAAxk/0b_UG1B4hNw/s1600/600x600.jpg)  
+[![](/hfs40k/images/297393c9cd59421bf5659d0f63d6607a.webp)](https://web.archive.org/web/20111010064943/http://3.bp.blogspot.com/_cLI19EXK2oU/TGEQv6MMsUI/AAAAAAAAAxk/0b_UG1B4hNw/s1600/600x600.jpg)  
 
 Most conservative organizations still vote for Josef Suk's version of the Dvorak concerto as the best and this is the most recent packaging of that concerto. I've owned it on LP, cassette an now CD and continue to hear more in the Suk version, with wonderful accompaniment by Ancerl and the Czech Philharmonic, than in other recordings I've heard.  
 The reproduction here is stalwart but hardly state of the art by today's standards. Some of this is the 1960ish engineering and some of it is the darkness and mammoth dimensions of the Czech Philharmonic hall in Prague. Whatever, it produces a sound that is nice but clouds details and misses some instruments in the orchestra.  

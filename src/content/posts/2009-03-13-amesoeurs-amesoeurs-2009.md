@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Amesoeurs%20Amesoeurs
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-13-amesoeurs-amesoeurs-2009.webp)](/holyfuckingshit40000/images/covers/2009-03-13-amesoeurs-amesoeurs-2009.webp)  
+[![](/hfs40k/images/covers/2009-03-13-amesoeurs-amesoeurs-2009.webp)](/hfs40k/images/covers/2009-03-13-amesoeurs-amesoeurs-2009.webp)  
 The first and last Amesoeurs full-length album. Have fun  
   
 [Download (v2)](https://web.archive.org/web/20111010164743/http://www.mediafire.com/?w4myjtlzjg4) (Mediafire)  

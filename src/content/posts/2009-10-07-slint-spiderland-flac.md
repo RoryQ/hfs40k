@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Slint%20Spiderland
 
 
 
-[![](/holyfuckingshit40000/images/6a3b5ee8abf4052569005fe9d3df84a5.webp)](/holyfuckingshit40000/images/6a3b5ee8abf4052569005fe9d3df84a5.webp)  
+[![](/hfs40k/images/6a3b5ee8abf4052569005fe9d3df84a5.webp)](/hfs40k/images/6a3b5ee8abf4052569005fe9d3df84a5.webp)  
 WINNER'S GUIDE TO FORMING A MATH/POST-ROCK BAND  
   
 I. Preparation  

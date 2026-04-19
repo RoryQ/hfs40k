@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Syd%20Barrett%20The%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-03-syd-barrett-the-madcap-laughs-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-03-syd-barrett-the-madcap-laughs-flac.webp)
+[![](/hfs40k/images/covers/2011-09-03-syd-barrett-the-madcap-laughs-flac.webp)](/hfs40k/images/covers/2011-09-03-syd-barrett-the-madcap-laughs-flac.webp)
   
 There is no question that Syd cuts a fascinating figure, full of loss and mystery. But, set the personality stuff aside - something you should do with everything you listen to - and pay attention to the music.
   

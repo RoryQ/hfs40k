@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yoshida%20Tatsuya%20an
 
 
 
-[![](/holyfuckingshit40000/images/e75260cd1184bbc14845c31d1cab8ed9.webp)](/holyfuckingshit40000/images/e75260cd1184bbc14845c31d1cab8ed9.webp)  
+[![](/hfs40k/images/e75260cd1184bbc14845c31d1cab8ed9.webp)](/hfs40k/images/e75260cd1184bbc14845c31d1cab8ed9.webp)  
 Genre: Zeuhl  
 Country: Japan  
   

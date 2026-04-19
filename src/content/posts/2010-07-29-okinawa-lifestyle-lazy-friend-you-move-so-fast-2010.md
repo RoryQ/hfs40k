@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Okinawa%20Lifestyle%20
 
 
 
-[![](/holyfuckingshit40000/images/3d3884b204c15a95ecc8301e06528307.webp)](https://web.archive.org/web/20111010053512/http://4.bp.blogspot.com/_t6lWjgwMoxw/TFFo4hd66HI/AAAAAAAAAU4/TSD6m907X-A/s1600/Lazy+Friend+You+Move+So+Fast.png)  
+[![](/hfs40k/images/3d3884b204c15a95ecc8301e06528307.webp)](https://web.archive.org/web/20111010053512/http://4.bp.blogspot.com/_t6lWjgwMoxw/TFFo4hd66HI/AAAAAAAAAU4/TSD6m907X-A/s1600/Lazy+Friend+You+Move+So+Fast.png)  
   
   
   

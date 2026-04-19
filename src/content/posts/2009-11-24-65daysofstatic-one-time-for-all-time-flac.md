@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20One%2
 
 
 
-[![](/holyfuckingshit40000/images/d35386f5ebd8da5724b1a2d23af8e551.webp)](https://web.archive.org/web/20111010121622/http://1.bp.blogspot.com/_A31Dfz4S5yg/SwukyaeuWOI/AAAAAAAAAKM/26GQzbN2-os/s1600/otfat.jpg)Anyone remembers 65dos? No? That's too bad.  
+[![](/hfs40k/images/d35386f5ebd8da5724b1a2d23af8e551.webp)](https://web.archive.org/web/20111010121622/http://1.bp.blogspot.com/_A31Dfz4S5yg/SwukyaeuWOI/AAAAAAAAAKM/26GQzbN2-os/s1600/otfat.jpg)Anyone remembers 65dos? No? That's too bad.  
   
 [download flac.](https://web.archive.org/web/20111010121622/http://lix.in/-5d6f42)  
   

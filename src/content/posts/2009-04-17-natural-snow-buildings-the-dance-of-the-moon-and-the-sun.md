@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Build
 
 
 
-[![](/holyfuckingshit40000/images/62108d36ef8122f77e4ba6fd4dd9768b.webp)](https://web.archive.org/web/20111010130938/http://4.bp.blogspot.com/_z8rLjrFVzbo/SehnCoHLygI/AAAAAAAAAFs/LWLvUWykStY/s1600-h/694802.jpg)  
+[![](/hfs40k/images/62108d36ef8122f77e4ba6fd4dd9768b.webp)](https://web.archive.org/web/20111010130938/http://4.bp.blogspot.com/_z8rLjrFVzbo/SehnCoHLygI/AAAAAAAAAFs/LWLvUWykStY/s1600-h/694802.jpg)  
 The album everyone loves but not everyone know that they love. You just can't spend 157 minutes the best possible way without listening to this.  
  [Download (v0)](https://web.archive.org/web/20111010130938/http://www.mediafire.com/?sharekey=f5348ce7d42ff6b28c9e7c56ba37815fbc7ad11ac3f29080)

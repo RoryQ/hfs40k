@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Confus
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-16-sonic-youth-confusion-is-sex-flac.webp)](/holyfuckingshit40000/images/covers/2009-02-16-sonic-youth-confusion-is-sex-flac.webp)  
+[![](/hfs40k/images/covers/2009-02-16-sonic-youth-confusion-is-sex-flac.webp)](/hfs40k/images/covers/2009-02-16-sonic-youth-confusion-is-sex-flac.webp)  
 As requested by karppaky. This is in my opinion SY's greatest work, they drop the Post-Punk sound from the debut and go all out No Wave.  
   
  [Download](https://web.archive.org/web/20101203182600/http://www.megaupload.com/?d=0RWM4KDZ) FLAC

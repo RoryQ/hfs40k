@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20In%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-16-king-crimson-in-the-court-of-the-crimson-king-40th-anniversary-re-issue-remastered-stereo-mix-2009-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-16-king-crimson-in-the-court-of-the-crimson-king-40th-anniversary-re-issue-remastered-stereo-mix-2009-flac.webp)
+[![](/hfs40k/images/covers/2009-10-16-king-crimson-in-the-court-of-the-crimson-king-40th-anniversary-re-issue-remastered-stereo-mix-2009-flac.webp)](/hfs40k/images/covers/2009-10-16-king-crimson-in-the-court-of-the-crimson-king-40th-anniversary-re-issue-remastered-stereo-mix-2009-flac.webp)
 
   
 [**Download [FLAC]**](https://web.archive.org/web/20111010033030/http://lix.in/-577ee8)   

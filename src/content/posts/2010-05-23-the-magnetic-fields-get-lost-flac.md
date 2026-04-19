@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Field
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-23-the-magnetic-fields-get-lost-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-23-the-magnetic-fields-get-lost-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-23-the-magnetic-fields-get-lost-flac.webp)](/hfs40k/images/covers/2010-05-23-the-magnetic-fields-get-lost-flac.webp)  
 Stephin Merritt refines the Magnetic Fields sound on Get Lost. Where on previous albums, nearly all the sounds were produced by synthesizers with the occasional cello or guitar. Here, many songs use things like drums, a ukulele and banjo to flesh things out further. This flirting with traditional instruments lead eventually to 69 Love Songs.
 
 Again, the songs are perfect pop songs, catchy as anything, but still sounding unpolished and scratchy. And once again, they're all love songs, with Merritt using what seemed to be his favorite love song gimmick, the moon, in not one, not two, but three song titles! There's "You and Me and The Moon," "Save a Secret for the Moon," and "The Dreaming Moon." Merritt's songwriting is also typically smart and ironic, with the usual assortment of bitter characters in the songs themselves.

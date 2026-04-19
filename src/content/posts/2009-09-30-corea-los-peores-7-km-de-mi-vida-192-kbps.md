@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Corea%20Los%20Peores%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-30-corea-los-peores-7-km-de-mi-vida-192-kbps.webp)](/holyfuckingshit40000/images/covers/2009-09-30-corea-los-peores-7-km-de-mi-vida-192-kbps.webp)  
+[![](/hfs40k/images/covers/2009-09-30-corea-los-peores-7-km-de-mi-vida-192-kbps.webp)](/hfs40k/images/covers/2009-09-30-corea-los-peores-7-km-de-mi-vida-192-kbps.webp)  
 Sorry for the small picture, was really all I could find for this.  
   
 "The music playing is very tight, especially considering the style of music. Each song has its hook or definite moment and every climax is built up for optimum poignancy. The screams are unlike any of the dozens I've heard before, and are more than effective in conveying *Los Peores 7*'s overall feeling of outrage and devastation. Each use of noise and abrasion is precise and ineffably augments said feeling in ways music rarely can. That's my take on the aural aspect of this album, and I really have to hold myself back there because I could honestly go on and end up writing a paragraph for each minute of the one-hour duration. At the end of it all, though, as with all music, it's all about what this album evokes within the listener. Unfortunately, and again, as with all music, some people don't have the proper wiring for it, and it's a shame to me personally.  

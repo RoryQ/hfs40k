@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Min
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-11-charles-mingus-mingus-at-antibes-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-11-charles-mingus-mingus-at-antibes-flac.webp)My review for this is as follows:
+[![](/hfs40k/images/covers/2010-10-11-charles-mingus-mingus-at-antibes-flac.webp)](/hfs40k/images/covers/2010-10-11-charles-mingus-mingus-at-antibes-flac.webp)My review for this is as follows:
 
 Eric Dolphy
 

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-01-red-house-painters-songs-for-a-blue-guitar.webp)](/holyfuckingshit40000/images/covers/2010-03-01-red-house-painters-songs-for-a-blue-guitar.webp)  
+[![](/hfs40k/images/covers/2010-03-01-red-house-painters-songs-for-a-blue-guitar.webp)](/hfs40k/images/covers/2010-03-01-red-house-painters-songs-for-a-blue-guitar.webp)  
   
   
 [download 320](https://web.archive.org/web/20111010082517/http://www.mediafire.com/?ghfyzzldzti)

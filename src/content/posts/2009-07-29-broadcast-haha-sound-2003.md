@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Broadcast%20HaHa%20Sou
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-29-broadcast-haha-sound-2003.webp)](/holyfuckingshit40000/images/covers/2009-07-29-broadcast-haha-sound-2003.webp)I don't know how the hell to describe this. Use the tags given but don't think you've got it figured out until you hear it.  
+[![](/hfs40k/images/covers/2009-07-29-broadcast-haha-sound-2003.webp)](/hfs40k/images/covers/2009-07-29-broadcast-haha-sound-2003.webp)I don't know how the hell to describe this. Use the tags given but don't think you've got it figured out until you hear it.  
   
 [Download (320)](https://web.archive.org/web/20111010141607/http://lix.in/-4c7b10)

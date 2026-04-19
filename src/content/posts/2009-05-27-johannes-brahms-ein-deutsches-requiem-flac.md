@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Ei
 
 
 
-[![](/holyfuckingshit40000/images/6843e9e08ce3dcc19143c986c27fd8c2.webp)](https://web.archive.org/web/20111008143207/http://2.bp.blogspot.com/_nmjS6fd9kfU/Sh3GomdsjWI/AAAAAAAAAA8/Tx9l0JdThuA/s1600-h/folder.jpg)Translated into English as "A German Requiem," this is simply another one of Brahms' impeccable masterworks. Inspired by many things, among them the death of his mentor and friend Robert Schumann, this work was Brahms' way of giving solace to those who remain after their dead have passed. Don't let the title nor the typically Christian nature of requiems deceive you, though, as Brahms intended this work as a celebration of all of humanity, even in the face of inevitable death.  
+[![](/hfs40k/images/6843e9e08ce3dcc19143c986c27fd8c2.webp)](https://web.archive.org/web/20111008143207/http://2.bp.blogspot.com/_nmjS6fd9kfU/Sh3GomdsjWI/AAAAAAAAAA8/Tx9l0JdThuA/s1600-h/folder.jpg)Translated into English as "A German Requiem," this is simply another one of Brahms' impeccable masterworks. Inspired by many things, among them the death of his mentor and friend Robert Schumann, this work was Brahms' way of giving solace to those who remain after their dead have passed. Don't let the title nor the typically Christian nature of requiems deceive you, though, as Brahms intended this work as a celebration of all of humanity, even in the face of inevitable death.  
   
 It may sound cheesy when written up, but the music certainly isn't. With Otto Klemperer as conductor, and the Philharmonia Orchestra and Chorus with soloists Elizabeth Schwarzkopf and Dietrich Fischer-Dieskau under his baton, things really can't go wrong. And, well, they don't.  
   

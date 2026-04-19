@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=AUKCYON%20%D0%91%D0%BE
 
 
 
-[![](/holyfuckingshit40000/images/56a5ae2e757bc579181d7d54a42c715c.webp)](/holyfuckingshit40000/images/56a5ae2e757bc579181d7d54a42c715c.webp)  
+[![](/hfs40k/images/56a5ae2e757bc579181d7d54a42c715c.webp)](/hfs40k/images/56a5ae2e757bc579181d7d54a42c715c.webp)  
 Genre: Experimental Rock  
 Country: Russia  
   

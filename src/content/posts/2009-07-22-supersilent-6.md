@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Supersilent%206
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-22-supersilent-6.webp)](/holyfuckingshit40000/images/covers/2009-07-22-supersilent-6.webp)SUPERSILENT  
+[![](/hfs40k/images/covers/2009-07-22-supersilent-6.webp)](/hfs40k/images/covers/2009-07-22-supersilent-6.webp)SUPERSILENT  
   
 [FLAC](https://web.archive.org/web/20111010141646/http://lix.in/-51da28)  
   

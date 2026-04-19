@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=June%20of%2044%20Four%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-01-28-june-of-44-four-great-points-1998.webp)](/holyfuckingshit40000/images/covers/2009-01-28-june-of-44-four-great-points-1998.webp)  
+[![](/hfs40k/images/covers/2009-01-28-june-of-44-four-great-points-1998.webp)](/hfs40k/images/covers/2009-01-28-june-of-44-four-great-points-1998.webp)  
 Some math hipster garbage that kupaziom requested  
   
   

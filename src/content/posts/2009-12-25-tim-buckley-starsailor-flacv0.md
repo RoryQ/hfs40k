@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Starsa
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-25-tim-buckley-starsailor-flacv0.webp)](/holyfuckingshit40000/images/covers/2009-12-25-tim-buckley-starsailor-flacv0.webp)Finally got a hard copy of one of my favorite albums of all motherfucking time. :'D (I'm a nerdy collector so it matters to me) This is the 1989 remastered edition ripped in FLAC and v0. Unlike the last one I posted, the title track and "The Healing Festival" aren't merged.  
+[![](/hfs40k/images/covers/2009-12-25-tim-buckley-starsailor-flacv0.webp)](/hfs40k/images/covers/2009-12-25-tim-buckley-starsailor-flacv0.webp)Finally got a hard copy of one of my favorite albums of all motherfucking time. :'D (I'm a nerdy collector so it matters to me) This is the 1989 remastered edition ripped in FLAC and v0. Unlike the last one I posted, the title track and "The Healing Festival" aren't merged.  
   
 [Download FLAC](https://web.archive.org/web/20111010152952/http://lix.in/-64406b) // \\ [Download v0](https://web.archive.org/web/20111010152952/http://lix.in/-613329)  
   

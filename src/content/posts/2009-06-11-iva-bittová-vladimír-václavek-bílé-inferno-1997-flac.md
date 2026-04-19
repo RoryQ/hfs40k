@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Iva%20Bittov%C3%A1%20%
 
 
 
-[![](/holyfuckingshit40000/images/57c0f06501b3112b335e16f6259536e7.webp)](https://web.archive.org/web/20111010085043/http://1.bp.blogspot.com/_5cVyPU93ihM/SjFeThW_5LI/AAAAAAAAAFs/PyQah5g_wVg/s1600-h/front.jpg)  
+[![](/hfs40k/images/57c0f06501b3112b335e16f6259536e7.webp)](https://web.archive.org/web/20111010085043/http://1.bp.blogspot.com/_5cVyPU93ihM/SjFeThW_5LI/AAAAAAAAAFs/PyQah5g_wVg/s1600-h/front.jpg)  
 Reminds me of "First Utterance" but with far less rape and more world muzak.  
   
 lol-wikipedia review:  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Min
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-29-charles-mingus-mingus-ah-um-legacy-edition-2009-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-29-charles-mingus-mingus-ah-um-legacy-edition-2009-flac.webp)This two disc set includes remastered versions of Mingus Ah Um and Mingus Dynasty. The albums included are the full recordings, not the truncated versions found on the original releases. Also included are alternate takes from Mingus Ah Um and bonus tracks from both albums.
+[![](/hfs40k/images/covers/2010-03-29-charles-mingus-mingus-ah-um-legacy-edition-2009-flac.webp)](/hfs40k/images/covers/2010-03-29-charles-mingus-mingus-ah-um-legacy-edition-2009-flac.webp)This two disc set includes remastered versions of Mingus Ah Um and Mingus Dynasty. The albums included are the full recordings, not the truncated versions found on the original releases. Also included are alternate takes from Mingus Ah Um and bonus tracks from both albums.
 
 [Download Part 1](https://web.archive.org/web/20111010081903/http://lix.in/-7f380a)
 

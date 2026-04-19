@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Dawn%20Slaughtersun
 
 
 
-[![](/holyfuckingshit40000/images/8246807e9e7c021c52ba2fbf48fffe12.webp)](https://web.archive.org/web/20111008155833/http://1.bp.blogspot.com/_X0HDv9LMCK8/ShXi0fDY6XI/AAAAAAAAAC0/NhQMXhbOArc/s1600-h/110153.jpg)  
+[![](/hfs40k/images/8246807e9e7c021c52ba2fbf48fffe12.webp)](https://web.archive.org/web/20111008155833/http://1.bp.blogspot.com/_X0HDv9LMCK8/ShXi0fDY6XI/AAAAAAAAAC0/NhQMXhbOArc/s1600-h/110153.jpg)  
 Swedish black metal that seems to have flown under the radar over the years. Absolutely worth your time to listen to, and full of awesome riffs.  
  [Download](https://web.archive.org/web/20111008155833/http://www.mediafire.com/download.php?1nwgggnmdjt) (320)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tiger%20Trap%20Tiger%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-05-05-tiger-trap-tiger-trap-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-05-tiger-trap-tiger-trap-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-05-tiger-trap-tiger-trap-flac.webp)](/hfs40k/images/covers/2010-05-05-tiger-trap-tiger-trap-flac.webp)  
 Even though Tiger Trap were short lived and didn't make much of a mark on music, their debut album will always be something that I can listen to at all times. From beginning to end the album is basically perfect in that every song has a great hook to it and it never sounds boring. It always has an energy to it while never sacrificing melody. Good luck finding a record as filler free as this, it won't be easy.   
   
 [Puzzle Pieces](https://web.archive.org/web/20111010100345/http://lix.in/-7e9d92)  

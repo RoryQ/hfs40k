@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Amon%20Tobin%20Supermo
 
 
 
-[![](/holyfuckingshit40000/images/e1357c0dbcdf13e19b376a0e0e63047f.webp)](/holyfuckingshit40000/images/e1357c0dbcdf13e19b376a0e0e63047f.webp)  
+[![](/hfs40k/images/e1357c0dbcdf13e19b376a0e0e63047f.webp)](/hfs40k/images/e1357c0dbcdf13e19b376a0e0e63047f.webp)  
   
 Amon Tobin has been an artist to watch for quite some time now, but now he has completely outdone himself on SuperModified. When I first stuck this record on turntable, I think a few minutes into it I completely stopped doing whatever it was in the interim, awestruck by how well put together these sounds were. I tend to be a very critical first time listener of recordings, usually leaning to the "oh well" emotional let down, but wasn't left behind on this one. The textures are so dense, combining orchestral string and brass sounds with his signature jazzy bass and drum elements. It's all electronically interwoven like a fine quilt with no room for error (and there is none..). This album is a graduation effort beyond his Permutation or Bricolage, which both had great music on them. The brazilian percussion influences are well intact, heavy hitting, and so eloquently put together that you hardly notice how immense the syncopations are amidst the sometimes tender melodies that accompany them. A very "acoustic" sounding effort, Supermodified is highly recommended, very groovy, and a sometimes loungy, if you will, album.  
   

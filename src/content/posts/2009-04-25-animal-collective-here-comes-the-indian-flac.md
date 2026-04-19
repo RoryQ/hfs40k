@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-25-animal-collective-here-comes-the-indian-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-25-animal-collective-here-comes-the-indian-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-25-animal-collective-here-comes-the-indian-flac.webp)](/hfs40k/images/covers/2009-04-25-animal-collective-here-comes-the-indian-flac.webp)  
 Here Comes the Indian was recorded live in three days. Avey Tare played his guitar through an Ibanez delay rack and Boss pitch shifter/delay pedal to create a doubled, fuller sound, since he was the only one playing guitar at the time. The group also took turns processing sounds through various effects, such as a Roland SH-2 synthesizer and a vocoder. Avey and Panda Bear later recorded the vocals at Avey's house onto MiniDisc, then added them in like electronic sounds along with piano loops that Avey had made.  
   
 "In a word: experiment. In two words: MIND. FUCK."  

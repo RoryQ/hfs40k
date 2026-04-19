@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Grouper/Roy%20Montgome
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-08-grouperroy-montgomery-split-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-08-grouperroy-montgomery-split-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-08-grouperroy-montgomery-split-flac.webp)](/hfs40k/images/covers/2010-01-08-grouperroy-montgomery-split-flac.webp)  
   
 The Grouper side is pretty minimal and incorporates some found sound in interesting ways. The Roy Montgomery side is one 18-minute epic raga-style song. Definitely worth checking out.  
   

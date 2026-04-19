@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girl
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-17-worlds-end-girlfriend-hurtbreak-wonderland-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-17-worlds-end-girlfriend-hurtbreak-wonderland-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-17-worlds-end-girlfriend-hurtbreak-wonderland-flac.webp)](/hfs40k/images/covers/2009-04-17-worlds-end-girlfriend-hurtbreak-wonderland-flac.webp)  
 And that concludes our spotlight on World's End Girlfriend!  
   
 Note: Track 3 is corrupt, so use second link for it. Sorry about that!  

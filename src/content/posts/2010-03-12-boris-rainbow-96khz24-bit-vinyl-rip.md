@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boris%20Rainbow
 
 
 
-[![](/holyfuckingshit40000/images/caf6b3c0c8bcebc67faef3d94c8bf7fa.webp)](https://web.archive.org/web/20111010081600/http://3.bp.blogspot.com/_cLI19EXK2oU/S5r_l_gH2pI/AAAAAAAAAa4/rO0oRzwBd8o/s1600-h/rainbow.jpg)  
+[![](/hfs40k/images/caf6b3c0c8bcebc67faef3d94c8bf7fa.webp)](https://web.archive.org/web/20111010081600/http://3.bp.blogspot.com/_cLI19EXK2oU/S5r_l_gH2pI/AAAAAAAAAa4/rO0oRzwBd8o/s1600-h/rainbow.jpg)  
 This album is definitely a highlight in Boris' discography in my view. The typical drone and noise aesthetic is abandoned in favor of a psychedelic blend of intricate, slow, and meandering songs with piercing guitar solos layered on top. This is truly a melding of two musical entities. Do not expect much of the "harsh" Boris or the "weak" Kurihara (a la Sunset nights). This is a masterpiece of distorted psychedelia, chugging in the right places, mellow in others.  
   
   

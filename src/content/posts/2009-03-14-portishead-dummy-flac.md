@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Portishead%20Dummy
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-14-portishead-dummy-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-14-portishead-dummy-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-14-portishead-dummy-flac.webp)](/hfs40k/images/covers/2009-03-14-portishead-dummy-flac.webp)  
 I'd put my glory in her box if you know what I mean.  
   
 [Download1](https://web.archive.org/web/20111010164321/http://www.mediafire.com/?fyndqm3cw2w) [Download2](https://web.archive.org/web/20111010164321/http://www.mediafire.com/?zjymncmymnm) [Download3](https://web.archive.org/web/20111010164321/http://www.mediafire.com/?2yzg3y3tezj)

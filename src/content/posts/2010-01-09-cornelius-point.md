@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cornelius%20Point
 
 
 
-[![](/holyfuckingshit40000/images/e8afd8a836e751b2081ba10a04399548.webp)](https://web.archive.org/web/20111010123217/http://2.bp.blogspot.com/_bIgHZQu-UEA/S0ExgxWjH4I/AAAAAAAAAN8/3AXB0iGr6Gs/s1600-h/cornelius+point.jpg)  
+[![](/hfs40k/images/e8afd8a836e751b2081ba10a04399548.webp)](https://web.archive.org/web/20111010123217/http://2.bp.blogspot.com/_bIgHZQu-UEA/S0ExgxWjH4I/AAAAAAAAAN8/3AXB0iGr6Gs/s1600-h/cornelius+point.jpg)  
 
 My favourite Cornelius album. A huge departure from Fantasma's schizophrenic poppiness, while still maintaining some of the earlier Shibuya-kei sound and not quite making it into Sensuous' more free-form abstract style.
 

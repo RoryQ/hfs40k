@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Lee%20Morgan%20Search%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-02-lee-morgan-search-for-the-new-land-1964.webp)](/holyfuckingshit40000/images/covers/2009-08-02-lee-morgan-search-for-the-new-land-1964.webp)Just another great hard bop album by Lee and the gang. All songs are composed by him.  
+[![](/hfs40k/images/covers/2009-08-02-lee-morgan-search-for-the-new-land-1964.webp)](/hfs40k/images/covers/2009-08-02-lee-morgan-search-for-the-new-land-1964.webp)Just another great hard bop album by Lee and the gang. All songs are composed by him.  
   
 [Download 320](https://web.archive.org/web/20111010145209/http://lix.in/-592fb6)

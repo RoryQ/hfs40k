@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ludwig%20van%20Beethov
 
 
 
-[![](/holyfuckingshit40000/images/ec3a872665aadfe2fb2798f63d022844.webp)](https://web.archive.org/web/20111010164821/http://3.bp.blogspot.com/_5cVyPU93ihM/SbF633Q4bBI/AAAAAAAAABo/xz6OicM4HUU/s1600-h/410TY7V7VFL._SS500_.jpg)Basically the Classical equivalent of Charles Mingus' The Black Saint and Sinner lady.  
+[![](/hfs40k/images/ec3a872665aadfe2fb2798f63d022844.webp)](https://web.archive.org/web/20111010164821/http://3.bp.blogspot.com/_5cVyPU93ihM/SbF633Q4bBI/AAAAAAAAABo/xz6OicM4HUU/s1600-h/410TY7V7VFL._SS500_.jpg)Basically the Classical equivalent of Charles Mingus' The Black Saint and Sinner lady.  
   
 oh wait  
   

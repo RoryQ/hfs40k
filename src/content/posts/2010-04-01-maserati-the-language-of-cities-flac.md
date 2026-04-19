@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Maserati%20The%20Langu
 
 
 
-[![](/holyfuckingshit40000/images/990dfb1d93e61fdf05d9fadd1e0e9e36.webp)](https://web.archive.org/web/20111010045611/http://1.bp.blogspot.com/_JdyrURA7JYI/S7T-QYLFfzI/AAAAAAAAAP4/dLz6B1sVmEY/s1600/maseraticities.PNG)Post-rawk by request.  
+[![](/hfs40k/images/990dfb1d93e61fdf05d9fadd1e0e9e36.webp)](https://web.archive.org/web/20111010045611/http://1.bp.blogspot.com/_JdyrURA7JYI/S7T-QYLFfzI/AAAAAAAAAP4/dLz6B1sVmEY/s1600/maseraticities.PNG)Post-rawk by request.  
   
 [Download FLAC](https://web.archive.org/web/20111010045611/http://lix.in/-7b287f)

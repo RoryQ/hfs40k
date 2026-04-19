@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Drive%20Like%20Jehu%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-17-drive-like-jehu-yank-crime-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-17-drive-like-jehu-yank-crime-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-17-drive-like-jehu-yank-crime-flac.webp)](/hfs40k/images/covers/2009-04-17-drive-like-jehu-yank-crime-flac.webp)  
 If there's enough demand I'll upload the FLAC.  
   
 EDIT: FLAC uploaded, enjoy.  

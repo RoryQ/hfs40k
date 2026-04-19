@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joni%20Mitchell%20Heji
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-19-joni-mitchell-hejira-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-19-joni-mitchell-hejira-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-19-joni-mitchell-hejira-flac.webp)](/hfs40k/images/covers/2009-06-19-joni-mitchell-hejira-flac.webp)  
 Perhaps her last essential (although Mingus is certainly worth a listen) album, Hejira finds Joni joined by Jaco. Yes, Jaco Pastorius (and Neil Young on harmonica for one track). The interplay between Joni's guitar and Jaco's bass is the foundation of the instrumental arrangements, and Joni's lyrics are still as 'Nobel Prize in Literature'-worthy as ever. Excellent.  
   
 [Enjoy](https://web.archive.org/web/20111010090954/http://lix.in/-4c81df)  

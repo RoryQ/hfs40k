@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Neutral%20Milk%20Hotel
 
 
 
-[![](/holyfuckingshit40000/images/67c07ec422e478162608d0ffae4f5a4d.webp)](/holyfuckingshit40000/images/9fd9c6407f2cc6b5acd6ea7918e168ce.webp)  
+[![](/hfs40k/images/67c07ec422e478162608d0ffae4f5a4d.webp)](/hfs40k/images/9fd9c6407f2cc6b5acd6ea7918e168ce.webp)  
 Too many folks are requesting a re-up of this one so here it is...  
   
 [Eat the vinyl](https://web.archive.org/web/20111008165937/http://lix.in/-9e8a75)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Harry%20Pussy%20First%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-10-harry-pussy-first-album-192-and-what-was-music-compilation-256.webp)](/holyfuckingshit40000/images/covers/2009-07-10-harry-pussy-first-album-192-and-what-was-music-compilation-256.webp)  
+[![](/hfs40k/images/covers/2009-07-10-harry-pussy-first-album-192-and-what-was-music-compilation-256.webp)](/hfs40k/images/covers/2009-07-10-harry-pussy-first-album-192-and-what-was-music-compilation-256.webp)  
 Garage punk/noise/no-wave for everyone! Their first album is one of my favourites at the moment, the compilation is kind of interesting. A few tracks are missing from it, but those can all be found on the album also uploaded.  
   
   

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20We
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-11-27-electric-wizard-we-live-2004-flac.webp)](/holyfuckingshit40000/images/covers/2009-11-27-electric-wizard-we-live-2004-flac.webp)This is the remastered edition from 2006. It's got a bonus track.
+[![](/hfs40k/images/covers/2009-11-27-electric-wizard-we-live-2004-flac.webp)](/hfs40k/images/covers/2009-11-27-electric-wizard-we-live-2004-flac.webp)This is the remastered edition from 2006. It's got a bonus track.
 
 [Download FLAC](https://web.archive.org/web/20111010121917/http://lix.in/-68aa49)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Roy%20Harper%20Stormco
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-29-roy-harper-stormcock-2007-remaster-flac.webp)](/holyfuckingshit40000/images/covers/2009-03-29-roy-harper-stormcock-2007-remaster-flac.webp)  
+[![](/hfs40k/images/covers/2009-03-29-roy-harper-stormcock-2007-remaster-flac.webp)](/hfs40k/images/covers/2009-03-29-roy-harper-stormcock-2007-remaster-flac.webp)  
 What's there to say except...HATS OFF TO ROY HARPER!  
   
 [Download](https://web.archive.org/web/20111010164816/http://lix.in/-4958af)  

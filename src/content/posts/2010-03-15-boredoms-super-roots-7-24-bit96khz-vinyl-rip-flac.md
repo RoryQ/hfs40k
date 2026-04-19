@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roo
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-15-boredoms-super-roots-7-24-bit96khz-vinyl-rip-flac.webp)](/holyfuckingshit40000/images/covers/2010-03-15-boredoms-super-roots-7-24-bit96khz-vinyl-rip-flac.webp)  
+[![](/hfs40k/images/covers/2010-03-15-boredoms-super-roots-7-24-bit96khz-vinyl-rip-flac.webp)](/hfs40k/images/covers/2010-03-15-boredoms-super-roots-7-24-bit96khz-vinyl-rip-flac.webp)  
   
   
   

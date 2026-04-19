@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20The
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-15-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-15-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-15-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)](/hfs40k/images/covers/2010-01-15-charles-mingus-the-black-saint-and-the-sinner-lady-flac.webp)  
 Greatest non-Loveless album reuploaded by request  
   
 [Download FLAC](https://web.archive.org/web/20111010123808/http://lix.in/-70069e)  

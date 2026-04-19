@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Roy%20Eldridge%20Monte
 
 
 
-[![](/holyfuckingshit40000/images/f763eec805a7c3509a06d6d53771cc05.webp)](https://web.archive.org/web/20111010142911/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s1600-h/roy17.jpg)I CAN SEE YOU!! HWEH HWEH.  
+[![](/hfs40k/images/f763eec805a7c3509a06d6d53771cc05.webp)](https://web.archive.org/web/20111010142911/http://4.bp.blogspot.com/_A31Dfz4S5yg/SmfX6NTGGpI/AAAAAAAAAFM/Fo5D7HTmjV0/s1600-h/roy17.jpg)I CAN SEE YOU!! HWEH HWEH.  
 IS THIS ANY GOOD?  
 MAYBE IT IS MAYBE IT IS NOT, WHO AM I TO JUDGE?  
   

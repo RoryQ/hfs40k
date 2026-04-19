@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tortoise%20Millions%20
 
 
 
-[![](/holyfuckingshit40000/images/29aa58f4bf74eab7ebe007de55b6f436.webp)](https://web.archive.org/web/20111008155009/http://4.bp.blogspot.com/_cLI19EXK2oU/Sh4Iy7NkX-I/AAAAAAAAAG4/tz4HvAMQvwI/s1600-h/millions_now_living.jpg)  
+[![](/hfs40k/images/29aa58f4bf74eab7ebe007de55b6f436.webp)](https://web.archive.org/web/20111008155009/http://4.bp.blogspot.com/_cLI19EXK2oU/Sh4Iy7NkX-I/AAAAAAAAAG4/tz4HvAMQvwI/s1600-h/millions_now_living.jpg)  
   
 Fuck yeah, I love tortoises.  
 [FLAC](https://web.archive.org/web/20111008155009/http://lix.in/-45b135)  

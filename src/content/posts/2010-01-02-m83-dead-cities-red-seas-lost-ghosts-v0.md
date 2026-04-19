@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=M83%20Dead%20Cities%2C
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-02-m83-dead-cities-red-seas-lost-ghosts-v0.webp)](/holyfuckingshit40000/images/covers/2010-01-02-m83-dead-cities-red-seas-lost-ghosts-v0.webp)
+[![](/hfs40k/images/covers/2010-01-02-m83-dead-cities-red-seas-lost-ghosts-v0.webp)](/hfs40k/images/covers/2010-01-02-m83-dead-cities-red-seas-lost-ghosts-v0.webp)
 
 M83's best album, without a doubt.  
   

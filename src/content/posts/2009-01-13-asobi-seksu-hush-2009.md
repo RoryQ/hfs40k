@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Asobi%20Seksu%20Hush
 
 
 
-[![](/holyfuckingshit40000/images/63d0755164170ba145267075b4984b90.webp)](/holyfuckingshit40000/images/02cacc19830bb44d763ae88967ecc6ea.webp)  
+[![](/hfs40k/images/63d0755164170ba145267075b4984b90.webp)](/hfs40k/images/02cacc19830bb44d763ae88967ecc6ea.webp)  
 Genre: Shoegaze  
 Country: U.S.  
   

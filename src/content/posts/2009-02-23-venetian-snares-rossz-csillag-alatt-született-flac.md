@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Ro
 
 
 
-[![](/holyfuckingshit40000/images/39f5419c34f7c63d62e7668ab1adf779.webp)](/holyfuckingshit40000/images/39f5419c34f7c63d62e7668ab1adf779.webp)  
+[![](/hfs40k/images/39f5419c34f7c63d62e7668ab1adf779.webp)](/hfs40k/images/39f5419c34f7c63d62e7668ab1adf779.webp)  
 Reuploaded as requested  
   
 [Download](https://web.archive.org/web/20101203182409/http://www.megaupload.com/?d=EPICOJ91) FLAC

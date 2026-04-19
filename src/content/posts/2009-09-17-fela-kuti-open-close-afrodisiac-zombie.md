@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Open%20%
 
 
 
-[![](/holyfuckingshit40000/images/5d51725049ad8757dac03626c7e948b1.webp)](https://web.archive.org/web/20111010094542/http://2.bp.blogspot.com/_A31Dfz4S5yg/SrKTRy8-zwI/AAAAAAAAAH0/TbpSMyR_yPk/s1600-h/Fela%2BKuti%2Bfelakuti.jpg)Finally listened to Expensive Shit / He Miss Road and I liked it enough to instantly acquire more Fela from which I definitely liked Afrodisiac the most. Zombie would be great if it was only 1 track album because the rest isn't really on a par with Zombie. ALTHOUGH Mistake is good stuff, too.  
+[![](/hfs40k/images/5d51725049ad8757dac03626c7e948b1.webp)](https://web.archive.org/web/20111010094542/http://2.bp.blogspot.com/_A31Dfz4S5yg/SrKTRy8-zwI/AAAAAAAAAH0/TbpSMyR_yPk/s1600-h/Fela%2BKuti%2Bfelakuti.jpg)Finally listened to Expensive Shit / He Miss Road and I liked it enough to instantly acquire more Fela from which I definitely liked Afrodisiac the most. Zombie would be great if it was only 1 track album because the rest isn't really on a par with Zombie. ALTHOUGH Mistake is good stuff, too.  
   
 [Open & Close / Afrodisiac v0](https://web.archive.org/web/20111010094542/http://www.mediafire.com/?ozykqkxmuum)  
   

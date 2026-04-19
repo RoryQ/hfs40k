@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ulver%20Wars%20of%20th
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-04-01-ulver-wars-of-the-roses-2011.webp)](/holyfuckingshit40000/images/covers/2011-04-01-ulver-wars-of-the-roses-2011.webp)
+[![](/hfs40k/images/covers/2011-04-01-ulver-wars-of-the-roses-2011.webp)](/hfs40k/images/covers/2011-04-01-ulver-wars-of-the-roses-2011.webp)
 
   
 Ulver's trying out Art Rock and Post-rockish style on their new album called Wars of the Roses. I don't have much of any first impressions for this album yet, so I won't call it necessarely disappointing yet. But I'll share it anyway, give it a try yourself. enjoy  

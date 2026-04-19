@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=God%20Is%20My%20Co%20P
 
 
 
-[![](/holyfuckingshit40000/images/6ecce8f9a14a56f73bdf6f952723918f.webp)](/holyfuckingshit40000/images/412ce3683a5b14ed516f399d87762418.webp)  
+[![](/hfs40k/images/6ecce8f9a14a56f73bdf6f952723918f.webp)](/hfs40k/images/412ce3683a5b14ed516f399d87762418.webp)  
   
 Little over six minutes of absoulte angsty gay no wave delight.   
   

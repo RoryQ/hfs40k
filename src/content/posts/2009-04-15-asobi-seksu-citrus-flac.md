@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Asobi%20Seksu%20Citrus
 
 
 
-[![](/holyfuckingshit40000/images/c6b2aba2ddbaf558913c8cd8ff090ec6.webp)](/holyfuckingshit40000/images/c6b2aba2ddbaf558913c8cd8ff090ec6.webp)Citrus is the second studio album by New York-based shoegazing band Asobi Seksu.  
+[![](/hfs40k/images/c6b2aba2ddbaf558913c8cd8ff090ec6.webp)](/hfs40k/images/c6b2aba2ddbaf558913c8cd8ff090ec6.webp)Citrus is the second studio album by New York-based shoegazing band Asobi Seksu.  
   
 [Download (FLAC)](https://web.archive.org/web/20111010131004/http://www.megaupload.com/?d=96UIXUJC)

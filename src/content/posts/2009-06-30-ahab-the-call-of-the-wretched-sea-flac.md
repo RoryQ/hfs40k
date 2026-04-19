@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ahab%20The%20Call%20Of
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-30-ahab-the-call-of-the-wretched-sea-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-30-ahab-the-call-of-the-wretched-sea-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-30-ahab-the-call-of-the-wretched-sea-flac.webp)](/hfs40k/images/covers/2009-06-30-ahab-the-call-of-the-wretched-sea-flac.webp)  
 FUCK YEAH MORE WHALECORE!  
   
 Also welcome [nostalghia](https://web.archive.org/web/20111010091136/http://rateyourmusic.com/%7Enostalghia) as our 12th poster. Please look forward to the wide variety (MEAT PUPPETS!!) of hipster garabe he will be posting.  

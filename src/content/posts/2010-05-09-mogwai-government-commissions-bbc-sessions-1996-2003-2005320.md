@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mogwai%20Government%20
 
 
 
-[![](/holyfuckingshit40000/images/19cfe6a35f664b63f098886496046b1c.webp)](/holyfuckingshit40000/images/19cfe6a35f664b63f098886496046b1c.webp)  
+[![](/hfs40k/images/19cfe6a35f664b63f098886496046b1c.webp)](/hfs40k/images/19cfe6a35f664b63f098886496046b1c.webp)  
 Live Mogwai is good Mogwai.   
 [320](https://web.archive.org/web/20111010095741/http://lix.in/-83b63b)  
 Feel free to trump w/ flac.

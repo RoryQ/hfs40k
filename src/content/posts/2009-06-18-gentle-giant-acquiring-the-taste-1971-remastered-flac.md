@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Acqui
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-18-gentle-giant-acquiring-the-taste-1971-remastered-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-18-gentle-giant-acquiring-the-taste-1971-remastered-flac.webp)"This was a departure from the blues and soul styles found on their self titled debut. It was more experimental, more discordant, and with more varied instrumentation."  
+[![](/hfs40k/images/covers/2009-06-18-gentle-giant-acquiring-the-taste-1971-remastered-flac.webp)](/hfs40k/images/covers/2009-06-18-gentle-giant-acquiring-the-taste-1971-remastered-flac.webp)"This was a departure from the blues and soul styles found on their self titled debut. It was more experimental, more discordant, and with more varied instrumentation."  
   
 [Download](https://web.archive.org/web/20111010091536/http://lix.in/-47d7c2) (MU)  
 [Download](https://web.archive.org/web/20111010091536/http://lix.in/-50ff88) (MF)

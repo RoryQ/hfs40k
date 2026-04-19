@@ -16,6 +16,6 @@ youtube_url: https://www.youtube.com/results?search_query=Goblin%20Deluxe
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-05-13-the-new-stuff-in-deluxe.webp)](/holyfuckingshit40000/images/covers/2011-05-13-the-new-stuff-in-deluxe.webp)gobwang
+[![](/hfs40k/images/covers/2011-05-13-the-new-stuff-in-deluxe.webp)](/hfs40k/images/covers/2011-05-13-the-new-stuff-in-deluxe.webp)gobwang
 
 [Download v0](https://web.archive.org/web/20111010093930/http://lix.in/-9b287a) // \\ [Download FLAC](https://web.archive.org/web/20111010093930/http://lix.in/-9fbc5d)

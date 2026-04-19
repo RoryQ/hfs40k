@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Ins
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-09-01-jim-orourke-insignificance-flac.webp)](/holyfuckingshit40000/images/covers/2010-09-01-jim-orourke-insignificance-flac.webp)And...yet more weird cover art!
+[![](/hfs40k/images/covers/2010-09-01-jim-orourke-insignificance-flac.webp)](/hfs40k/images/covers/2010-09-01-jim-orourke-insignificance-flac.webp)And...yet more weird cover art!
 
 As mentioned previously in my blurb about *Halfway to a Threeway*, O'Rourke got *nasty* here. Someone pissed him off. And so, we have O'Rourke's hard-rockin'-est album, filled with tunes that would seem happy were it not for the ironically venomous lyrics.
 

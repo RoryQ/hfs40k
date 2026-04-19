@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cluster%20Zuckerzeit
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-05-cluster-zuckerzeit-1974.webp)](/holyfuckingshit40000/images/covers/2009-07-05-cluster-zuckerzeit-1974.webp)Think ambient field recordings combined with electronic synths and Neu!-esque rhythms.  
+[![](/hfs40k/images/covers/2009-07-05-cluster-zuckerzeit-1974.webp)](/hfs40k/images/covers/2009-07-05-cluster-zuckerzeit-1974.webp)Think ambient field recordings combined with electronic synths and Neu!-esque rhythms.  
   
 Yeah, it's that special. Eno likes it, you should too.  
   

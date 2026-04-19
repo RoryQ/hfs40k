@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let
 
 
 
-[![](/holyfuckingshit40000/images/a73b098838ebf47d1e7e4cfa9de8351e.webp)](/holyfuckingshit40000/images/a73b098838ebf47d1e7e4cfa9de8351e.webp)  
+[![](/hfs40k/images/a73b098838ebf47d1e7e4cfa9de8351e.webp)](/hfs40k/images/a73b098838ebf47d1e7e4cfa9de8351e.webp)  
 "Mingus just continues to wow me. Everytime I hear one of his albums I am left believing that music can never end, there is still so much yet to be composed...
 
 Mingus has bridged the gap between jazz and classical music in this album, the two are pieced so well together that a symbiotic relationship is formed. To me, he has created a new kind of music all together. I have never heard anything like this album. So many elements are included; the master workings of the brilliant avante garde jazz and classical artists play a part in the arrangements. One can hear John Cage and John Coltrane but this does not mean that they do not hear Mingus. Everything is Mingus! Who can ever claim to be as expansive a musician or composer as Mingus? When Willie Dixon boldly said "I Am The Blues," no one doubted him. Mingus could say something similar, he is the prodigal son of jazz and classical, he always returns to his roots triumphantly while going far out and above and beyond.

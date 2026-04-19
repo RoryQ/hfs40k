@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Big%20Black%20Songs%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-24-big-black-songs-about-fucking-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-24-big-black-songs-about-fucking-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-24-big-black-songs-about-fucking-flac.webp)](/hfs40k/images/covers/2009-06-24-big-black-songs-about-fucking-flac.webp)  
 Sounds like a suicide caught on tape  
   
 [Download FLAC](https://web.archive.org/web/20111010091248/http://lix.in/-4bafab)

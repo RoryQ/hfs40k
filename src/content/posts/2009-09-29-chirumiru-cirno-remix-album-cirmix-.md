@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Chirumiru%20Cirno%20Re
 
 
 
-[![](/holyfuckingshit40000/images/134318707ce75e2697cd0624c0a674f5.webp)](https://web.archive.org/web/20111010094312/http://3.bp.blogspot.com/_A31Dfz4S5yg/SsKmoCDaNlI/AAAAAAAAAI8/mUSj4-dC1ig/s1600-h/643s64s6.jpg)(ﾟ∀ﾟ)
+[![](/hfs40k/images/134318707ce75e2697cd0624c0a674f5.webp)](https://web.archive.org/web/20111010094312/http://3.bp.blogspot.com/_A31Dfz4S5yg/SsKmoCDaNlI/AAAAAAAAAI8/mUSj4-dC1ig/s1600-h/643s64s6.jpg)(ﾟ∀ﾟ)
 
 [Quick!](https://web.archive.org/web/20111010094312/http://lix.in/-556770) {FLAC}

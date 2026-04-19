@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Endtrodu
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-08-31-dj-shadow-endtroducing-flac.webp)](/holyfuckingshit40000/images/covers/2009-08-31-dj-shadow-endtroducing-flac.webp)  
+[![](/hfs40k/images/covers/2009-08-31-dj-shadow-endtroducing-flac.webp)](/hfs40k/images/covers/2009-08-31-dj-shadow-endtroducing-flac.webp)  
   
 From the opening sample of "Building Steam With a Grain of Salt" where a voice is heard saying "Producing..." you know you are listening to an outstanding piece of work. In order to better understand this, you have to position yourself at the time this album came out.
 

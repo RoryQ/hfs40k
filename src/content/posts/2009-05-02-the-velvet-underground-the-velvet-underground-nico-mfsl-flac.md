@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Undergr
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-02-the-velvet-underground-the-velvet-underground-nico-mfsl-flac.webp)](/holyfuckingshit40000/images/covers/2009-05-02-the-velvet-underground-the-velvet-underground-nico-mfsl-flac.webp)  
+[![](/hfs40k/images/covers/2009-05-02-the-velvet-underground-the-velvet-underground-nico-mfsl-flac.webp)](/hfs40k/images/covers/2009-05-02-the-velvet-underground-the-velvet-underground-nico-mfsl-flac.webp)  
   
 Almost as good as Metal Machine Music.  
   

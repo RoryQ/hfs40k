@@ -18,9 +18,9 @@ youtube_url: https://www.youtube.com/results?search_query=Galaxie%20500%20Today%
 
 
 
-[![](/holyfuckingshit40000/images/e572600358ddb7302910888c4db47ac4.webp)](https://web.archive.org/web/20111122022622/http://2.bp.blogspot.com/-_k3t76v6DP4/TlqHySls1BI/AAAAAAAABCw/ibEw5YAvNSs/s1600/3381-uncollected.jpg)
+[![](/hfs40k/images/e572600358ddb7302910888c4db47ac4.webp)](https://web.archive.org/web/20111122022622/http://2.bp.blogspot.com/-_k3t76v6DP4/TlqHySls1BI/AAAAAAAABCw/ibEw5YAvNSs/s1600/3381-uncollected.jpg)
   
-[![](/holyfuckingshit40000/images/c48b35045730849c0c25f87e5b2599ac.webp)](https://web.archive.org/web/20111122022622/http://2.bp.blogspot.com/-mkthsLSqqzo/TlqHvBSZRSI/AAAAAAAABCo/yOly73Po6f0/s1600/today.jpg)
+[![](/hfs40k/images/c48b35045730849c0c25f87e5b2599ac.webp)](https://web.archive.org/web/20111122022622/http://2.bp.blogspot.com/-mkthsLSqqzo/TlqHvBSZRSI/AAAAAAAABCo/yOly73Po6f0/s1600/today.jpg)
   
 While this album has many merits, I think it's greatest is that it was recorded in 1988. Admist the hair bands, Reaganomics, and Members Only jackets, Galaxie 500 managed to create a near-perfect album of warm, fuzzy psych-pop.
 

@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Steady%20Diet
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-11-fugazi-steady-diet-of-nothing-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-11-fugazi-steady-diet-of-nothing-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-11-fugazi-steady-diet-of-nothing-flac.webp)](/hfs40k/images/covers/2009-07-11-fugazi-steady-diet-of-nothing-flac.webp)  
 Now the only major work missing is The Argument.  
  [Enjoy](https://web.archive.org/web/20111010142518/http://lix.in/-4a8b84)

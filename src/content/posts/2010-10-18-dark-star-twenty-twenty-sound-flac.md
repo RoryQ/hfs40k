@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dark%20Star%20Twenty%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-10-18-dark-star-twenty-twenty-sound-flac.webp)](/holyfuckingshit40000/images/covers/2010-10-18-dark-star-twenty-twenty-sound-flac.webp)  
+[![](/hfs40k/images/covers/2010-10-18-dark-star-twenty-twenty-sound-flac.webp)](/hfs40k/images/covers/2010-10-18-dark-star-twenty-twenty-sound-flac.webp)  
   
   
   

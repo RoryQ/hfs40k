@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=alyosha%20Foreign%20Un
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-11-15-alyosha-foreign-universe-2011-320kbps.webp)](/holyfuckingshit40000/images/covers/2011-11-15-alyosha-foreign-universe-2011-320kbps.webp)
+[![](/hfs40k/images/covers/2011-11-15-alyosha-foreign-universe-2011-320kbps.webp)](/hfs40k/images/covers/2011-11-15-alyosha-foreign-universe-2011-320kbps.webp)
 
   
 new album. no samples. unusual. honest. out of left field. a foreign universe of beats.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Roberts%20Glass
 
 
 
-[![](/holyfuckingshit40000/images/c531f9e0254304aab07a49a68ead6919.webp)](https://web.archive.org/web/20111010112710/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGEjpu-8lI/AAAAAAAAAbY/ysqq0qKLj8c/s1600/880319482823_1556384.jpg)  
+[![](/hfs40k/images/c531f9e0254304aab07a49a68ead6919.webp)](https://web.archive.org/web/20111010112710/http://4.bp.blogspot.com/_t6lWjgwMoxw/TMGEjpu-8lI/AAAAAAAAAbY/ysqq0qKLj8c/s1600/880319482823_1556384.jpg)  
   
   
   

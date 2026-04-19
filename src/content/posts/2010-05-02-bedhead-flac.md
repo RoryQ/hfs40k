@@ -22,7 +22,7 @@ Just as brilliant as your slowcore heroes like Galaxie 500, Low, or Codeine.
   
 1994 - What Fun Life Was  
   
-[![](/holyfuckingshit40000/images/covers/2010-05-02-bedhead-flac.webp)](/holyfuckingshit40000/images/covers/2010-05-02-bedhead-flac.webp)  
+[![](/hfs40k/images/covers/2010-05-02-bedhead-flac.webp)](/hfs40k/images/covers/2010-05-02-bedhead-flac.webp)  
 [Download FLAC](https://web.archive.org/web/20111010100022/http://lix.in/-82c22b)  
   
 1996 - Beheaded  

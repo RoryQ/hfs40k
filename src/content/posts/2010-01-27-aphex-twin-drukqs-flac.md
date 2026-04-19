@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20DrukQs
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-27-aphex-twin-drukqs-flac.webp)](/holyfuckingshit40000/images/covers/2010-01-27-aphex-twin-drukqs-flac.webp)  
+[![](/hfs40k/images/covers/2010-01-27-aphex-twin-drukqs-flac.webp)](/hfs40k/images/covers/2010-01-27-aphex-twin-drukqs-flac.webp)  
 Richard D. James has been around the electronic music scene for quite a while now. Under the guise of Aphex Twin, he basically founded the genre of idm, and released critically acclaimed works such as "Selected Ambient Works", "Richard D James Album", and "Windowlicker" EP. His compositions are so musically diverse, so surreal and schizophrenic, that many people have seemingly forgotten that Richard D. James is a human being.
 
 In "Drukqs"--which is said to be Aphex Twin's final commercial release by many--James embarks on a journey of self re-discovery through his old sound mediums. "Drukqs" is filled with his classic signature sounds: the broken twitter box, dizzy drum n' bass, and distorted sound effects. The only difference this time, is that all the songs sound much calmer. James seems to be at a point of reflection in his career, and it is as if he was trying to find peace and solace with himself. Even his drum n' bass tracks seemed to lack the usual jubilancy and driven cynicism that we are so accustomed to.

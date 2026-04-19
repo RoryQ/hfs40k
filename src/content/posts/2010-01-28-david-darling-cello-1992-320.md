@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=David%20Darling%20Cell
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-28-david-darling-cello-1992-320.webp)](/holyfuckingshit40000/images/covers/2010-01-28-david-darling-cello-1992-320.webp)  
+[![](/hfs40k/images/covers/2010-01-28-david-darling-cello-1992-320.webp)](/hfs40k/images/covers/2010-01-28-david-darling-cello-1992-320.webp)  
   
 spare cello melodies  
 [320](https://web.archive.org/web/20111010123700/http://lix.in/-744a6b)

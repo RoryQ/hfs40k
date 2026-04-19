@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Birchville%20Cat%20Mot
 
 
 
-[![](/holyfuckingshit40000/images/0016f3ce48c92fb77aedbbb0b71811a5.webp)](/holyfuckingshit40000/images/0016f3ce48c92fb77aedbbb0b71811a5.webp)After the success of my 'Our Love Will Destroy the World' (68 downloads, oh my), I've decided to upload 'Beautiful Speck Triumph'. I debated posting it for a while because of the quality (192, most of what is posted here is FLAC), but here it is. I've also seen it around since I posted it on another blog, but I'm confident I uploaded it first.. Anyway, it's considerably different to 'Our Love..', being more ambient, and so more similar to the rest of his work.  
+[![](/hfs40k/images/0016f3ce48c92fb77aedbbb0b71811a5.webp)](/hfs40k/images/0016f3ce48c92fb77aedbbb0b71811a5.webp)After the success of my 'Our Love Will Destroy the World' (68 downloads, oh my), I've decided to upload 'Beautiful Speck Triumph'. I debated posting it for a while because of the quality (192, most of what is posted here is FLAC), but here it is. I've also seen it around since I posted it on another blog, but I'm confident I uploaded it first.. Anyway, it's considerably different to 'Our Love..', being more ambient, and so more similar to the rest of his work.  
   
 The last track on here is one of the greatest and most epic closing tracks I've ever heard, being a 36 minute build up and collision of sounds and noises  
   

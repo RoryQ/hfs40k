@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day
 
 
 
-[![](/holyfuckingshit40000/images/6f84db757580000cbe65dbdd42a73bef.webp)](https://web.archive.org/web/20111010065154/http://1.bp.blogspot.com/_cLI19EXK2oU/TGOLrkOpkfI/AAAAAAAAAx0/HCXB0PsQciU/s1600/61Rl6Y8ITIL+(1).jpg)  
+[![](/hfs40k/images/6f84db757580000cbe65dbdd42a73bef.webp)](https://web.archive.org/web/20111010065154/http://1.bp.blogspot.com/_cLI19EXK2oU/TGOLrkOpkfI/AAAAAAAAAx0/HCXB0PsQciU/s1600/61Rl6Y8ITIL+(1).jpg)  
 
 I have been listening to Brahms's German Requiem to commemorate the death of a parent of a dear friend. This beloved work received its first performances in 1868 and 1869. Its immediate inspiration was the death of Brahms's mother and, probably, the death of Robert Schumann as well. Although many view Brahms as a conservative composer, the spiritual message of this work is distinctly modern. In writing his Requiem, Brahms eschewed traditional religous doctrines, creeds, and texts. Instead, he chose passages from the Bible (Old and New Testaments and Apocrypha) that emphasized a sense of the mystery of life, the fragility of life and inevitability of death, the hope for the future, and the value of patience and endurance. The German Requiem gives a sense of spirituality in a secular age. Brahms himself saw his work as a "human" rather than as merely a German requiem. Malcolm Macdonald, in his 1990 book, "Brahms", has aptly captured much of the spirit of this music when he describes it as showing "human love as the equivalent of God's love of the cosmos" (p. 22). Human love encompasses the love of a parent, friend, child, sweetheart, and much else.  
   

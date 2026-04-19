@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Monolake%20Momentum
 
 
 
-[![](/holyfuckingshit40000/images/covers/2011-09-30-monolake-momentum-2003-flac.webp)](/holyfuckingshit40000/images/covers/2011-09-30-monolake-momentum-2003-flac.webp)
+[![](/hfs40k/images/covers/2011-09-30-monolake-momentum-2003-flac.webp)](/hfs40k/images/covers/2011-09-30-monolake-momentum-2003-flac.webp)
 
   
 Robert Henke took Techno as hostage, keeping him under strict discipline for months. Techno lived malnourished in a dark basement with uncle Henke experimenting on his circuits. He was only allowed to leave the basement for training after each of their daily sessions. Henke would make him go through tests, timing Techno's results and rating his precision. Henke didn't settle for anything less than perfection, cutting his next battery ration for each mistake.  

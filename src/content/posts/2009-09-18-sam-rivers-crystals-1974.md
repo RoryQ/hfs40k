@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Sam%20Rivers%20Crystal
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-18-sam-rivers-crystals-1974.webp)](/holyfuckingshit40000/images/covers/2009-09-18-sam-rivers-crystals-1974.webp)Rivers' response to Coltrane's Ascension.  
+[![](/hfs40k/images/covers/2009-09-18-sam-rivers-crystals-1974.webp)](/hfs40k/images/covers/2009-09-18-sam-rivers-crystals-1974.webp)Rivers' response to Coltrane's Ascension.  
   
 (PS: Non-free jazz fans go to track #2 if you don't like the first one, I guarantee you will enjoy it much more.)  
   

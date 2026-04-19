@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Harmonium%20Si%20On%20
 
 
 
-[![](/holyfuckingshit40000/images/f40d7e70b82776e9bca375d86e5ddbe6.webp)](https://web.archive.org/web/20111010085214/http://4.bp.blogspot.com/_5cVyPU93ihM/SkJPwqQVGbI/AAAAAAAAAIk/FsB8-QfacKo/s1600-h/o33920.jpg)  
+[![](/hfs40k/images/f40d7e70b82776e9bca375d86e5ddbe6.webp)](https://web.archive.org/web/20111010085214/http://4.bp.blogspot.com/_5cVyPU93ihM/SkJPwqQVGbI/AAAAAAAAAIk/FsB8-QfacKo/s1600-h/o33920.jpg)  
 The album title translates to "If we needed a fifth season".  
 The songs themselves represent seasons:  
 

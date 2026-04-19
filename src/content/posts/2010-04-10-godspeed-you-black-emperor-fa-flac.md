@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Bl
 
 
 
-[![](/holyfuckingshit40000/images/abd73480c8127bf6ced54b6f7d44c5b0.webp)](/holyfuckingshit40000/images/abd73480c8127bf6ced54b6f7d44c5b0.webp)  
+[![](/hfs40k/images/abd73480c8127bf6ced54b6f7d44c5b0.webp)](/hfs40k/images/abd73480c8127bf6ced54b6f7d44c5b0.webp)  
   
 I listen to Godspeed You! Black Emperor in my car so people think there's no driver at the wheel.  
   

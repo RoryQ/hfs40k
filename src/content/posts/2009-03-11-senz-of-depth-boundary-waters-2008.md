@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Senz%20Of%20Depth%20Bo
 
 
 
-[![](/holyfuckingshit40000/images/7d65a8de52c65e8b74de6098bb4308bf.webp)](/holyfuckingshit40000/images/c8b1e14d624df7a513eaac8c8921dd2e.webp)  
+[![](/hfs40k/images/7d65a8de52c65e8b74de6098bb4308bf.webp)](/hfs40k/images/c8b1e14d624df7a513eaac8c8921dd2e.webp)  
 “…Senz takes the basics of hip hop, shatters any presupposed definition of what he should be doing, and just runs with what feels right. It’ll keep you guessing, and it’s guaranteed to keep you coming back to make sure you caught it all.”  
   
 Thanks once again to [obi](https://web.archive.org/web/20111010164316/http://www.last.fm/user/hollabackitsobi) for the recommendation.  

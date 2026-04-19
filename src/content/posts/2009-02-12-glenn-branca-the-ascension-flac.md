@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20The%2
 
 
 
-[![](/holyfuckingshit40000/images/63a9d3cd2aadc1ca59ab7a1fe2d9ebb4.webp)](/holyfuckingshit40000/images/63a9d3cd2aadc1ca59ab7a1fe2d9ebb4.webp)  
+[![](/hfs40k/images/63a9d3cd2aadc1ca59ab7a1fe2d9ebb4.webp)](/hfs40k/images/63a9d3cd2aadc1ca59ab7a1fe2d9ebb4.webp)  
 Genre: No Wave / Noise Rock  
 Country: U.S.  
   

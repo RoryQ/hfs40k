@@ -18,8 +18,8 @@ youtube_url: https://www.youtube.com/results?search_query=Guitar%20Wolf%20%26%20
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-22-guitar-wolf-lightning-bolt-ultra-closs-vol-1-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-22-guitar-wolf-lightning-bolt-ultra-closs-vol-1-flac.webp)  
-[![](/holyfuckingshit40000/images/f50518bf124f05be97dc1b62d07ea6f3.webp)](https://web.archive.org/web/20111010085339/http://3.bp.blogspot.com/_cLI19EXK2oU/SkAwuL4stXI/AAAAAAAAALo/gsvDeNDIfFM/s1600-h/Guitar%2BWolf.jpg)  
+[![](/hfs40k/images/covers/2009-06-22-guitar-wolf-lightning-bolt-ultra-closs-vol-1-flac.webp)](/hfs40k/images/covers/2009-06-22-guitar-wolf-lightning-bolt-ultra-closs-vol-1-flac.webp)  
+[![](/hfs40k/images/f50518bf124f05be97dc1b62d07ea6f3.webp)](https://web.archive.org/web/20111010085339/http://3.bp.blogspot.com/_cLI19EXK2oU/SkAwuL4stXI/AAAAAAAAALo/gsvDeNDIfFM/s1600-h/Guitar%2BWolf.jpg)  
   
 AOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!  
   

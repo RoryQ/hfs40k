@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cibo%20Matto%20VIVA%21
 
 
 
-[![](/holyfuckingshit40000/images/6d5c92f1aca3d70f7d0522b6b76200b2.webp)](https://web.archive.org/web/20111010145932/http://3.bp.blogspot.com/_Wg7BDLpkG9U/TDkT_0SM7nI/AAAAAAAAAa8/S79dk0ZZwsA/s1600/Cibo+Matto+-+VIVA%21+La+Woman+-+front+cover+%28800x800%29.jpg)
+[![](/hfs40k/images/6d5c92f1aca3d70f7d0522b6b76200b2.webp)](https://web.archive.org/web/20111010145932/http://3.bp.blogspot.com/_Wg7BDLpkG9U/TDkT_0SM7nI/AAAAAAAAAa8/S79dk0ZZwsA/s1600/Cibo+Matto+-+VIVA%21+La+Woman+-+front+cover+%28800x800%29.jpg)
 
 Hey everyone, this is the first of what I hope to be many posts on here.  Been following this site religiously for about a year, and I've been wanting to share for a while. Uh, a little bit about me, I'm a college student, trying to get out of the state of Alabama as soon as possible. Pianist, majoring in Jazz, looking to have a career in Jazz, Hip/Trip-hop, Electronic Music or something similar.   
   

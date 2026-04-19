@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Autechre%20Confield
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-19-autechre-confield-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-19-autechre-confield-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-19-autechre-confield-flac.webp)](/hfs40k/images/covers/2009-06-19-autechre-confield-flac.webp)  
   
 All I really knew about Autechre was that they made some mental electronic music that RYM users love to jizz over, but I wasn't so sure - I love lots of types of electronic music but I'd dabbled in a few "glitch" albums and I found them to be dull and in many cases utterly lazy, so maybe the more out there electronic albums just weren't for me. So I stuck with ambient techno and the likes until I had finally had enough of the jizzing, I had to know the big deal. So after getting blazed one night, I decided on a whim to put it on, expecting to give around 3 stars. As usual with electronic music, it's common sense to play it loud so when I got the sound of a bole bearing rattling semi-rhythmically in a hollow plastic ball I was stunned. Who'd've ever thought it would be so engaging? It just sits there subtly creaking and squeaking and I am left in awe. Of course the rest of the album does not aim for metal ball powered ambience, the rest of the bone smashing IDM is like sticking your head out of an airplane window - just an attack of scattered rhythms. If you're ever in a situation where teens on a bus are blasting a most unpleasant racket through their tinny phones, crank up 'VI Scose Poise' to the maximum - see the reactions.  
   

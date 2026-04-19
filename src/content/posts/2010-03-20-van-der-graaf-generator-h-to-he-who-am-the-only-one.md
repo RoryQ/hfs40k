@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Ge
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-03-20-van-der-graaf-generator-h-to-he-who-am-the-only-one.webp)](/holyfuckingshit40000/images/covers/2010-03-20-van-der-graaf-generator-h-to-he-who-am-the-only-one.webp)  
+[![](/hfs40k/images/covers/2010-03-20-van-der-graaf-generator-h-to-he-who-am-the-only-one.webp)](/hfs40k/images/covers/2010-03-20-van-der-graaf-generator-h-to-he-who-am-the-only-one.webp)  
   
   
   

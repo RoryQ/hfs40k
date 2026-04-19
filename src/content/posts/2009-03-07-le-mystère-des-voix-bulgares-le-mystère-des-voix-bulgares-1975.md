@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Le%20Myst%C3%A8re%20de
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-07-le-mystère-des-voix-bulgares-le-mystère-des-voix-bulgares-1975.webp)](/holyfuckingshit40000/images/covers/2009-03-07-le-mystère-des-voix-bulgares-le-mystère-des-voix-bulgares-1975.webp)  
+[![](/hfs40k/images/covers/2009-03-07-le-mystère-des-voix-bulgares-le-mystère-des-voix-bulgares-1975.webp)](/hfs40k/images/covers/2009-03-07-le-mystère-des-voix-bulgares-le-mystère-des-voix-bulgares-1975.webp)  
 "Simultaneously foreign and familiar. Like a hug from someone else's Mother."  
   
 Thanks to [no\_wire\_hangers](https://web.archive.org/web/20111213000522/http://rateyourmusic.com/%7Eno_wire_hangers) for the upload.  

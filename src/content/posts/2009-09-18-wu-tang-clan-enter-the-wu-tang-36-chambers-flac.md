@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wu%20Tang%20Clan%20-%2
 
 
 
-[![](/holyfuckingshit40000/images/877564f9f9251999b9d8d2165b351334.webp)](https://web.archive.org/web/20111010094234/http://4.bp.blogspot.com/_cLI19EXK2oU/SgWGRT43ezI/AAAAAAAAAEg/rWzn0mOkG00/s1600-h/36chambers.jpg)  
+[![](/hfs40k/images/877564f9f9251999b9d8d2165b351334.webp)](https://web.archive.org/web/20111010094234/http://4.bp.blogspot.com/_cLI19EXK2oU/SgWGRT43ezI/AAAAAAAAAEg/rWzn0mOkG00/s1600-h/36chambers.jpg)  
 Without wishing to sound like a Dream Theater fan or something, this is something I’ve been thinking about for quite a while now: on a purely technical level, I believe “Protect Ya Neck” by the Wu Tang Clan to be the peak, the pinnacle, the unadulterated high point of music composition, and something that will never be topped by future generations. And I know it’s catchy and destructive as fuck, I’d never doubt that, but let’s give this a bit of analysis:  
   
 - The detail! Take that short, scratchy two note sample in the background when Inspectah Deck’s verse begins, for instance.  

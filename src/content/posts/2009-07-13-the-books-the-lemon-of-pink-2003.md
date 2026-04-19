@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Books%20The%20Le
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-13-the-books-the-lemon-of-pink-2003.webp)](/holyfuckingshit40000/images/covers/2009-07-13-the-books-the-lemon-of-pink-2003.webp)Honestly, I don't know why I like this album as much as I do. It's very unique and I know how a lot of you like unique things... maybe you'll dig it as well.  
+[![](/hfs40k/images/covers/2009-07-13-the-books-the-lemon-of-pink-2003.webp)](/hfs40k/images/covers/2009-07-13-the-books-the-lemon-of-pink-2003.webp)Honestly, I don't know why I like this album as much as I do. It's very unique and I know how a lot of you like unique things... maybe you'll dig it as well.  
   
 [Download (320)](https://web.archive.org/web/20111010140117/http://lix.in/-493e09)

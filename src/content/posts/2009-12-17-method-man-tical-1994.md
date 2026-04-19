@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Method%20Man%20Tical
 
 
 
-[![](/holyfuckingshit40000/images/f0118183d38a8c0072d4f450b4722990.webp)](/holyfuckingshit40000/images/40ea6485ad17422d15a03aedb8f4cd9d.webp)
+[![](/hfs40k/images/f0118183d38a8c0072d4f450b4722990.webp)](/hfs40k/images/40ea6485ad17422d15a03aedb8f4cd9d.webp)
 
 1. Tical
 

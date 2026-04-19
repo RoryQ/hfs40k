@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=DNA%20DNA%20on%20DNA
 
 
 
-[![](/holyfuckingshit40000/images/ad0233bef09456499c59962a8667cf15.webp)](https://web.archive.org/web/20111010141536/http://4.bp.blogspot.com/_cLI19EXK2oU/SmSdHdg0KyI/AAAAAAAAAQA/wX-4uvGYOQw/s1600-h/dna-on-dna.jpg)Namfoodle's request  
+[![](/hfs40k/images/ad0233bef09456499c59962a8667cf15.webp)](https://web.archive.org/web/20111010141536/http://4.bp.blogspot.com/_cLI19EXK2oU/SmSdHdg0KyI/AAAAAAAAAQA/wX-4uvGYOQw/s1600-h/dna-on-dna.jpg)Namfoodle's request  
   
 DNA, along with the other bands at the forefront of the late-70's no-wave movement, were less about structure and songs than the execution of punishing noise. While Mars took the mini-movement to the peaks of almost unlistenable chaos, making James Chance and Lydia Lunch seem almost conventional by comparison, DNA were still perhaps the most challenging. Arto Lindsey wails in something that's beyond singing. It's release, and his voice moves all over the place along with his sporadic guitar playing which never actually comes to play an actual note. On this record, all of DNA's recorded comes together for a very intriguing, yet hard-to-digest listen. It deserves 5 stars for the studio material along (their first 7", the No New York compilation tracks, and their EP), but even the poorly recorded demos and live tracks have their charms. For music recorded years ago that will never lose its edge, look no further.  
   

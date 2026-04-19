@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ulver%20Perdition%20Ci
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-01-ulver-perdition-city-2000-flac.webp)](/holyfuckingshit40000/images/covers/2010-02-01-ulver-perdition-city-2000-flac.webp)
+[![](/hfs40k/images/covers/2010-02-01-ulver-perdition-city-2000-flac.webp)](/hfs40k/images/covers/2010-02-01-ulver-perdition-city-2000-flac.webp)
 
   
 Ulver's best. Reupped. Trippy Hops, classy electronic and saxophones.  

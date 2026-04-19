@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20The%20Ea
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-02-22-tom-waits-the-early-years-volume-one-320.webp)](/holyfuckingshit40000/images/covers/2010-02-22-tom-waits-the-early-years-volume-one-320.webp)  
+[![](/hfs40k/images/covers/2010-02-22-tom-waits-the-early-years-volume-one-320.webp)](/hfs40k/images/covers/2010-02-22-tom-waits-the-early-years-volume-one-320.webp)  
 
 I don't know how much people actually want this so I've just ripped it at 320kbps to conserve my limited monthly bandwidth. If you particularly want it in FLAC, leave a comment.
 

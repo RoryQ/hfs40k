@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Suicide%20First%20Albu
 
 
 
-[![](/holyfuckingshit40000/images/6d7095f6a6498c518538f0e8334afe1d.webp)](/holyfuckingshit40000/images/8b1d98cf99c585f639076a278bc5e5cf.webp)  
+[![](/hfs40k/images/6d7095f6a6498c518538f0e8334afe1d.webp)](/hfs40k/images/8b1d98cf99c585f639076a278bc5e5cf.webp)  
 What an incredible piece of work this is: absolutely unique, unprecendented and terrifying, without any pretensions or sense of compromise. For a band merely consisting of a singer and a guy with a beat-up old keyboard plugged into a few distortion pedals, Suicide in 1977 truly made one of rock'n'roll's all-time essential albums.  
   
 Released at the height of the NYC punk explosion of the late '70s (though the band - Alan Vega and Martin Rev - pre-dated it by a good 5 years), "Suicide" made many stroke their heads in confusion, though won over just as many with its bizarre, minimalist take on punk rock'n'roll, seemingly a mixture of whiter-than-white Velvets/Stooges rock churn, Taylor/Monk avant-garde jazz and the two-note repetitive glory of LaMonte Young and Terry Riley.  

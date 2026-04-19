@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Hot%20Snakes%20Suicida
 
 
 
-[![](/holyfuckingshit40000/images/a6563bf374e78c36af4806ddb108ca12.webp)](https://web.archive.org/web/20111008172453/http://3.bp.blogspot.com/-BP1mLl34aXo/Tjus3IPNuuI/AAAAAAAABAA/6350dlT5KZs/s1600/resize.jpg)[Gar Forgets His Insulin](https://web.archive.org/web/20111008172453/http://lix.in/-9dd32a)  
+[![](/hfs40k/images/a6563bf374e78c36af4806ddb108ca12.webp)](https://web.archive.org/web/20111008172453/http://3.bp.blogspot.com/-BP1mLl34aXo/Tjus3IPNuuI/AAAAAAAABAA/6350dlT5KZs/s1600/resize.jpg)[Gar Forgets His Insulin](https://web.archive.org/web/20111008172453/http://lix.in/-9dd32a)  
   
 Password haveanicelife

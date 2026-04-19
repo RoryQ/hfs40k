@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=John%20Fahey%20Yes%21%
 
 
 
-[![](/holyfuckingshit40000/images/fa67085809e93f55260f5ef22b462dd1.webp)](https://web.archive.org/web/20111010155423/http://3.bp.blogspot.com/_A31Dfz4S5yg/Sz197Bw__wI/AAAAAAAAAOs/pX5gkwiYUsA/s1600-h/Yes_Jesus_Loves_Me_ll.jpg)What would Ken say?  
+[![](/hfs40k/images/fa67085809e93f55260f5ef22b462dd1.webp)](https://web.archive.org/web/20111010155423/http://3.bp.blogspot.com/_A31Dfz4S5yg/Sz197Bw__wI/AAAAAAAAAOs/pX5gkwiYUsA/s1600-h/Yes_Jesus_Loves_Me_ll.jpg)What would Ken say?  
   
 [FFLLAACC](https://web.archive.org/web/20111010155423/http://www.megaupload.com/?d=XEBYSTIE)

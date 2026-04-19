@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Close
 
 
 
-[![](/holyfuckingshit40000/images/e96c82a5e2e17939f48bd1b7417b54dd.webp)](https://web.archive.org/web/20111004080633/http://4.bp.blogspot.com/-z79KUhc04_I/TnrnHQDu8cI/AAAAAAAABF4/Uh1KB_n86Qc/s1600/Booklet%2B01.png)  
+[![](/hfs40k/images/e96c82a5e2e17939f48bd1b7417b54dd.webp)](https://web.archive.org/web/20111004080633/http://4.bp.blogspot.com/-z79KUhc04_I/TnrnHQDu8cI/AAAAAAAABF4/Uh1KB_n86Qc/s1600/Booklet%2B01.png)  
 
 Includes all liner notes.
 

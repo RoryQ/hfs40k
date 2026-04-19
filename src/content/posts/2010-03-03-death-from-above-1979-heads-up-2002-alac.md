@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Death%20From%20Above%2
 
 
 
-[![](/holyfuckingshit40000/images/2967d92b51f2b939369c96a162ade975.webp)](/holyfuckingshit40000/images/2967d92b51f2b939369c96a162ade975.webp)  
+[![](/hfs40k/images/2967d92b51f2b939369c96a162ade975.webp)](/hfs40k/images/2967d92b51f2b939369c96a162ade975.webp)  
 PiphanyRambler's request  
   
 [ALAC](https://web.archive.org/web/20111010083137/http://lix.in/-7682e3)

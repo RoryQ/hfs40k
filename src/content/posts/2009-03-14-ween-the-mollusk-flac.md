@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Ween%20The%20Mollusk
 
 
 
-[![](/holyfuckingshit40000/images/9533f7c64cb9e284684c4e911c61bf93.webp)](/holyfuckingshit40000/images/9533f7c64cb9e284684c4e911c61bf93.webp)  
+[![](/hfs40k/images/9533f7c64cb9e284684c4e911c61bf93.webp)](/hfs40k/images/9533f7c64cb9e284684c4e911c61bf93.webp)  
 Waving My Dick In The Wind is the greatest song about waving dicks in the wind ever, if you disagree you're pretty much wrong.  
 [Download1](https://web.archive.org/web/20111010164606/http://www.mediafire.com/?w5zzdon2ujh) [Download2](https://web.archive.org/web/20111010164606/http://www.mediafire.com/?xn1fgyjimgq) [Download3](https://web.archive.org/web/20111010164606/http://www.mediafire.com/?q2nmjuvz0tm)

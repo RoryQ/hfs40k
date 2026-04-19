@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=National%20Health%20Of
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-08-national-health-of-queues-and-cures-1978.webp)](/holyfuckingshit40000/images/covers/2009-04-08-national-health-of-queues-and-cures-1978.webp)Fuck yeah, I love free healthcare.  
+[![](/hfs40k/images/covers/2009-04-08-national-health-of-queues-and-cures-1978.webp)](/hfs40k/images/covers/2009-04-08-national-health-of-queues-and-cures-1978.webp)Fuck yeah, I love free healthcare.  
   
 [Download](https://web.archive.org/web/20111010130621/http://lix.in/-464b77) (320)  
 [Last.fm](https://web.archive.org/web/20111010130621/http://www.last.fm/music/National+Health)

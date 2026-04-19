@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Moses%20u
 
 
 
-[![](/holyfuckingshit40000/images/3a798b11c63b8af46e3104f8b7427ab0.webp)](https://web.archive.org/web/20111010065206/http://1.bp.blogspot.com/_jrASt-yq9g4/THsW0SyuQ0I/AAAAAAAAAA4/4hIjc2wXsFE/s1600/moses.jpg)  
+[![](/hfs40k/images/3a798b11c63b8af46e3104f8b7427ab0.webp)](https://web.archive.org/web/20111010065206/http://1.bp.blogspot.com/_jrASt-yq9g4/THsW0SyuQ0I/AAAAAAAAAA4/4hIjc2wXsFE/s1600/moses.jpg)  
 
 Herbert Kegel / Werner Haseleu / Reiner Goldberg / Rundfunk-Sinfonie-Orchester Leipzig / Rundfunkchor Leipzig
 

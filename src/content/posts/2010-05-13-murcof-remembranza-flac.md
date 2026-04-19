@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Murcof%20Remembranza%2
 
 
 
-[![](/holyfuckingshit40000/images/8e5f5621649303a4e1b9b64c8f2b7430.webp)](https://web.archive.org/web/20111010100511/http://1.bp.blogspot.com/_t6lWjgwMoxw/S-vHowzUuxI/AAAAAAAAANs/yJLKpLYMkLA/s1600/2806454884_99300a6a81.jpg)  
+[![](/hfs40k/images/8e5f5621649303a4e1b9b64c8f2b7430.webp)](https://web.archive.org/web/20111010100511/http://1.bp.blogspot.com/_t6lWjgwMoxw/S-vHowzUuxI/AAAAAAAAANs/yJLKpLYMkLA/s1600/2806454884_99300a6a81.jpg)  
   
   
   

@@ -15,7 +15,7 @@ youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20Lo
 
 
 
-[![](/holyfuckingshit40000/images/6b692db072be75bd6b97231a792cfa09.webp)](https://web.archive.org/web/20111010100303/http://2.bp.blogspot.com/_cLI19EXK2oU/S_wWOw74RjI/AAAAAAAAAqE/DPz4TpKsJOE/s1600/lf_ooc.jpg)  
+[![](/hfs40k/images/6b692db072be75bd6b97231a792cfa09.webp)](https://web.archive.org/web/20111010100303/http://2.bp.blogspot.com/_cLI19EXK2oU/S_wWOw74RjI/AAAAAAAAAqE/DPz4TpKsJOE/s1600/lf_ooc.jpg)  
 The intent of the compilers is to give the 50's music the credibility and relevance it deserves. It is true that 60's and 70's music is filed in stores by artist, and with the excetion of Elvis Presley, Buddy Holly, or Jerry Lee Lewis, 50's music is relegated to oldies bins.
 
 In addition, this decade has been associated with Doo Wop, slow ballads (Earth Angel, for example) and Sock Hops. The box presents the music as it was intended: dangerous, rebellious music.

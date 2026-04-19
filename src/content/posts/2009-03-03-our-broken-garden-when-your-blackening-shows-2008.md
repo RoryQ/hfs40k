@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Our%20Broken%20Garden%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-03-our-broken-garden-when-your-blackening-shows-2008.webp)](/holyfuckingshit40000/images/covers/2009-03-03-our-broken-garden-when-your-blackening-shows-2008.webp)  
+[![](/hfs40k/images/covers/2009-03-03-our-broken-garden-when-your-blackening-shows-2008.webp)](/hfs40k/images/covers/2009-03-03-our-broken-garden-when-your-blackening-shows-2008.webp)  
   
 Country: Denmark  
 Genre: Dream Pop  

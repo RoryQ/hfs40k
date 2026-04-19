@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wire%20Pink%20Flag
 
 
 
-[![](/holyfuckingshit40000/images/837554dd2aa7df5ff6951dd35e0d89a2.webp)](https://web.archive.org/web/20111008155419/http://1.bp.blogspot.com/_cLI19EXK2oU/ShLPUrJ6pWI/AAAAAAAAAF4/Zg7xJO-p-ik/s1600-h/wire.jpg)  
+[![](/hfs40k/images/837554dd2aa7df5ff6951dd35e0d89a2.webp)](https://web.archive.org/web/20111008155419/http://1.bp.blogspot.com/_cLI19EXK2oU/ShLPUrJ6pWI/AAAAAAAAAF4/Zg7xJO-p-ik/s1600-h/wire.jpg)  
 Original release, bonus tracks are for losers.  
   
 [FLAC](https://web.archive.org/web/20111008155419/http://www.megaupload.com/?d=S8S8MYO0)

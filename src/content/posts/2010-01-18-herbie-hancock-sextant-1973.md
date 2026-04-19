@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Sex
 
 
 
-[![](/holyfuckingshit40000/images/4e2bc6a4685a2dc0d042c16511068702.webp)](https://web.archive.org/web/20111010124053/http://4.bp.blogspot.com/_JdyrURA7JYI/S1UoUgJCDGI/AAAAAAAAANo/tELS7nM3pWQ/s1600-h/herbiesextant.PNG)When most people hear the name "Herbie Hancock" they either think "oh yeah, he made Head Hunters, what a good album" or "didn't that guy win a grammy a few years back? I thought he was dead."  
+[![](/hfs40k/images/4e2bc6a4685a2dc0d042c16511068702.webp)](https://web.archive.org/web/20111010124053/http://4.bp.blogspot.com/_JdyrURA7JYI/S1UoUgJCDGI/AAAAAAAAANo/tELS7nM3pWQ/s1600-h/herbiesextant.PNG)When most people hear the name "Herbie Hancock" they either think "oh yeah, he made Head Hunters, what a good album" or "didn't that guy win a grammy a few years back? I thought he was dead."  
   
 Yeah, well fuck you.  
   

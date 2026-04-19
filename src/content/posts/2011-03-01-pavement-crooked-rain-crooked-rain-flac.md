@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Pavement%20Crooked%20R
 
 
 
-[![](/holyfuckingshit40000/images/bd685809b20eda605ae560691181232f.webp)](/holyfuckingshit40000/images/99944c2026aff123e30194f4991733eb.webp)  
+[![](/hfs40k/images/bd685809b20eda605ae560691181232f.webp)](/hfs40k/images/99944c2026aff123e30194f4991733eb.webp)  
 Ah, Crooked Rain, Crooked Rain - a modern rock album so stuffed to the gills with effortlessly accomplished, highly melodic songwriting that it throws away its best riff in the first 90 seconds. If that act of glorious waste isn't what Pavement was about, then I don't know what qualifies.  
   
 Yes, that's right: a lot of other bands would have conceptually organized an entire album around the opening chord progresson of "Silence Kit" had they been clever enough to write it. As it is, the band never returns to it after 1m30s: it's only one of THREE separate hooks in the very first song. Elsewhere, Pavement explores power-pop ("Cut My Hair," "Elevate Me Later"), prog influences ("Stop Breathin"), lo-fi jazz ("5-4=Unity"), and even country ("Range Life").   

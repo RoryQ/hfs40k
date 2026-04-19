@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gustav%20Mahler%20Symp
 
 
 
-[![](/holyfuckingshit40000/images/2303ca00755e90bc297dd46da0623a51.webp)](/holyfuckingshit40000/images/2303ca00755e90bc297dd46da0623a51.webp)Stars of the Lid coming soon.. Uploading took longer than I thought it would
+[![](/hfs40k/images/2303ca00755e90bc297dd46da0623a51.webp)](/hfs40k/images/2303ca00755e90bc297dd46da0623a51.webp)Stars of the Lid coming soon.. Uploading took longer than I thought it would
 
 Download
 

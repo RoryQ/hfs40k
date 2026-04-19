@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Worrytrain%20Fog%20Dan
 
 
 
-[![](/holyfuckingshit40000/images/9b9c43625dbec6a2a8b9c0ea353ff48c.webp)](/holyfuckingshit40000/images/9b9c43625dbec6a2a8b9c0ea353ff48c.webp)  
+[![](/hfs40k/images/9b9c43625dbec6a2a8b9c0ea353ff48c.webp)](/hfs40k/images/9b9c43625dbec6a2a8b9c0ea353ff48c.webp)  
   
   
 Genre: Neo Classical / Noise  

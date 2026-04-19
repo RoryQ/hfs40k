@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Murder%20by%20Death%20
 
 
 
-[![](/holyfuckingshit40000/images/4f174a60672adf98f277f4ac8c13b3d8.webp)](https://web.archive.org/web/20111010112213/http://3.bp.blogspot.com/_cLI19EXK2oU/TKo0RNBaKZI/AAAAAAAAA2M/Icz-POVrqdo/s1600/B00006EXGZ.01._SS500_SCLZZZZZZZ_V1116343047_.jpg)  
+[![](/hfs40k/images/4f174a60672adf98f277f4ac8c13b3d8.webp)](https://web.archive.org/web/20111010112213/http://3.bp.blogspot.com/_cLI19EXK2oU/TKo0RNBaKZI/AAAAAAAAA2M/Icz-POVrqdo/s1600/B00006EXGZ.01._SS500_SCLZZZZZZZ_V1116343047_.jpg)  
 Take the best parts of the atmospheric soundscapes by the likes of Sigur Ros, Godspeed You Black Emperor, or any other post-rock ensemble, and add a thrashing, angry guitar and an angst filled Robert Smith/Morrissey type voice, and you've almost got something like Murder By Death.
 
 I like this album a lot. Except for the few instances where the singer sounds like he might be accidentally faking an english accent, in its entirety it is nearly flawless. Fine music, with a spark of originality and creative energy which moves this novice band light-years ahead of most major label acts. The truly moving tracks on this album are the instrumentals. It's all about wild, near-symphonic power, starting with an sombre theme and building up slowly a wall of sound that threatens to become a great volcanic monster intent on ripping the skin from your body and devouring your circulatory system. Do not let the humorous song titles fool you: This is some deep, dark, angst-ridden material, gloriously bled forth from the culturally inept landscape of middle America.

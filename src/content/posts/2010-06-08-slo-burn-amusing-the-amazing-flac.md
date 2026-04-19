@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Slo%20Burn%20Amusing%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-06-08-slo-burn-amusing-the-amazing-flac.webp)](/holyfuckingshit40000/images/covers/2010-06-08-slo-burn-amusing-the-amazing-flac.webp)  
+[![](/hfs40k/images/covers/2010-06-08-slo-burn-amusing-the-amazing-flac.webp)](/hfs40k/images/covers/2010-06-08-slo-burn-amusing-the-amazing-flac.webp)  
 I'm not sure of this but I do believe that this is the first band that ex-Kyuss vocalist John Garcia played in (after Kyuss disbanded.) This has become a good thing for all the former band members particularly for this man here. The music is heavy rocking but serves more as an accompaniment for Garcia's vocals. Garcia's singing is far better on this EP than any of the Kyuss albums except for maybe Sky Valley. This guy's voice is aging well sounds more dramatic and is going beyond the semi-restrained yelling of older days. "Pilot the Dune" by itself should make you a believer as it did with me and "July" is another awesome number.  
  [Pilot the Dune](https://web.archive.org/web/20111010173026/http://lix.in/-854dcd)  
   

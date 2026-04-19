@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Ike%20Reiko%20Kokotsu%
 
 
 
-[![](/holyfuckingshit40000/images/924bdfaa58f1c434d6696de9906716d7.webp)](https://web.archive.org/web/20111010050111/http://4.bp.blogspot.com/_t6lWjgwMoxw/S870DOjPURI/AAAAAAAAAJc/5dnyNzsNnI0/s1600/Cover.jpg)  
+[![](/hfs40k/images/924bdfaa58f1c434d6696de9906716d7.webp)](https://web.archive.org/web/20111010050111/http://4.bp.blogspot.com/_t6lWjgwMoxw/S870DOjPURI/AAAAAAAAAJc/5dnyNzsNnI0/s1600/Cover.jpg)  
   
   
   

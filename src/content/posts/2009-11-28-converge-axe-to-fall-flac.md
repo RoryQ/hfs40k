@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Converge%20Axe%20to%20
 
 
 
-[![](/holyfuckingshit40000/images/68bb116a8711ccde1f703590d2501e36.webp)](https://web.archive.org/web/20111010121830/http://4.bp.blogspot.com/_A31Dfz4S5yg/SxHi2la2JKI/AAAAAAAAAKs/HiJ1ynHmers/s1600/axe_to_fall.jpg)( ･\_･)  
+[![](/hfs40k/images/68bb116a8711ccde1f703590d2501e36.webp)](https://web.archive.org/web/20111010121830/http://4.bp.blogspot.com/_A31Dfz4S5yg/SxHi2la2JKI/AAAAAAAAAKs/HiJ1ynHmers/s1600/axe_to_fall.jpg)( ･\_･)  
   
 [download flac](https://web.archive.org/web/20111010121830/http://lix.in/-5fa3f3)  
   

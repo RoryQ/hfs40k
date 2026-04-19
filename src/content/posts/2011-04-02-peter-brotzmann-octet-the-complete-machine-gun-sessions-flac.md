@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Peter%20Brotzmann%20Oc
 
 
 
-[![](/holyfuckingshit40000/images/3e2467e2cb83be1879af34d130184dc2.webp)](/holyfuckingshit40000/images/091299ad97c7266b5767dbcff783621b.webp)  
+[![](/hfs40k/images/3e2467e2cb83be1879af34d130184dc2.webp)](/hfs40k/images/091299ad97c7266b5767dbcff783621b.webp)  
 The Unheard Music series and Atavisitc Records have done well by releasing Peter Brotzmann's MACHINE GUN, a landmark in European Improv. Originally released in 1968, it was until now only available on CD as a pricey German import on FMP Records.  
   
 Titled after Don Cherry's nickname for Brotzmann, the title track was inspired by Lionel Hampton's horn section on "Flying Home." This phenomenal wall of noisecraft now comes with new liner notes by Brotzmann and Down Beat Magazine staff writer and free jazz enthusiast John Corbett. Included are the original 1968 BRO Records tracks ("Machine Gun," "Responsible /For Jan Van De Ven," "Music For Han Bennink"), followed by alternate takes on "Machine Gun" and "Responsible..." and the only live version of "Machine Gun" ever recorded (from the 1968 Frankfurt Jazz Festival).   

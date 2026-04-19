@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Curve%20Doppelg%C3%A4n
 
 
 
-[![](/holyfuckingshit40000/images/0db575d5233aa523a4a7d53498a69932.webp)](/holyfuckingshit40000/images/0db575d5233aa523a4a7d53498a69932.webp)  
+[![](/hfs40k/images/0db575d5233aa523a4a7d53498a69932.webp)](/hfs40k/images/0db575d5233aa523a4a7d53498a69932.webp)  
 Roaming the same sonic landscape as My Bloody Valentine, Doppelganger features the breathy, dreamy vocals of Halliday over top layers of throbbing guitar, dense keyboards, and sledgehammer drumming to create formidable aural textures. At times meandering and unrelenting, tracks like "Already Yours" and "Wish You Dead" are stellar workouts full of rhythm and attitude. The few slower numbers are a nice change of pace with the best results on "Fait Accompli" and the quiet, almost dirge-like "Sandpit," where the less dense instrumentation allows Halliday's vocals to become the focal point. At times menacing and dark and other times more playful, Doppelganger is a bracing listening experience that earned Curve well-deserved attention on both sides of the Atlantic. - AMG  
   
 [FLAC](https://web.archive.org/web/20111010161939/http://lix.in/-6de66c)

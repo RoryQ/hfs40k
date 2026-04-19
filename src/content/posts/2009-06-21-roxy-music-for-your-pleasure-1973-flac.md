@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Roxy%20Music%20For%20Y
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-21-roxy-music-for-your-pleasure-1973-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-21-roxy-music-for-your-pleasure-1973-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-21-roxy-music-for-your-pleasure-1973-flac.webp)](/hfs40k/images/covers/2009-06-21-roxy-music-for-your-pleasure-1973-flac.webp)  
 Roxy Music's proggiest and most experimental album.  
   
 [Download](https://web.archive.org/web/20111010091116/http://lix.in/-46a7bb) (MU)  

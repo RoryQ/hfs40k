@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Red%20Medicin
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-06-fugazi-red-medicine-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-06-fugazi-red-medicine-flac.webp)Possibly their best album aside from Repeater + 3 Songs and The Argument (and that's saying a huge amount for a band like Fugazi), this album finds them progressing even more, combining noise experimentation, quiet yet tense instrumental interludes, and electronic doodling to produce an amazingly diverse album. Do you like it? You better.  
+[![](/hfs40k/images/covers/2009-07-06-fugazi-red-medicine-flac.webp)](/hfs40k/images/covers/2009-07-06-fugazi-red-medicine-flac.webp)Possibly their best album aside from Repeater + 3 Songs and The Argument (and that's saying a huge amount for a band like Fugazi), this album finds them progressing even more, combining noise experimentation, quiet yet tense instrumental interludes, and electronic doodling to produce an amazingly diverse album. Do you like it? You better.  
   
 [Enjoy](https://web.archive.org/web/20111010141521/http://lix.in/-562d70)

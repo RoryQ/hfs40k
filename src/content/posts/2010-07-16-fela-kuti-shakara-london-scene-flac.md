@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Shakara%
 
 
 
-[![](/holyfuckingshit40000/images/41cc7f849a47072eb2899be294b1eaa5.webp)](https://web.archive.org/web/20111010053448/http://3.bp.blogspot.com/_nmjS6fd9kfU/TED7JkWiIYI/AAAAAAAAALY/5CQ9VXrson0/s1600/folder.jpg)Oh lawd is dat some more orgasmic Felamusic? Some more funky afrobeat tunes? Sign yourselves up! Lady and Shakara are the highlights of this pair of albums, with Lady being a searing indictment (those words always sound better together) of the modern Nigerian woman and her reticence with regards to undertaking basic womanly duties, such as cooking and cleaning. Pro-tip: listen to Fela while ordering the closest female at hand to make you a sandwich. Best of both worlds.
+[![](/hfs40k/images/41cc7f849a47072eb2899be294b1eaa5.webp)](https://web.archive.org/web/20111010053448/http://3.bp.blogspot.com/_nmjS6fd9kfU/TED7JkWiIYI/AAAAAAAAALY/5CQ9VXrson0/s1600/folder.jpg)Oh lawd is dat some more orgasmic Felamusic? Some more funky afrobeat tunes? Sign yourselves up! Lady and Shakara are the highlights of this pair of albums, with Lady being a searing indictment (those words always sound better together) of the modern Nigerian woman and her reticence with regards to undertaking basic womanly duties, such as cooking and cleaning. Pro-tip: listen to Fela while ordering the closest female at hand to make you a sandwich. Best of both worlds.
 
 [Enjoy](https://web.archive.org/web/20111010053448/http://lix.in/-817414)
 

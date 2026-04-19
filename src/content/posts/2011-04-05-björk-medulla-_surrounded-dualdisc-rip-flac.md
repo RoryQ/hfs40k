@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Medulla%2
 
 
 
-[![](/holyfuckingshit40000/images/0d6779178f9e16a03df8009876a3e363.webp)](https://web.archive.org/web/20111010145721/http://1.bp.blogspot.com/-C2FM9scns4E/TZsncsmitsI/AAAAAAAAAAg/Zkdeymn0dpg/s1600/front.jpg)
+[![](/hfs40k/images/0d6779178f9e16a03df8009876a3e363.webp)](https://web.archive.org/web/20111010145721/http://1.bp.blogspot.com/-C2FM9scns4E/TZsncsmitsI/AAAAAAAAAAg/Zkdeymn0dpg/s1600/front.jpg)
 
   
 Definitely her most experimental album, and probably my favorite of her 21st-Century records. Who Is It? was on the radio once here in shitsville (aka, Alabama.) I nearly had a heart attack. Triumph of the Heart is pretty good too. Overall though, this album is more interesting to me as a proof of concept than as good music to listen to.  

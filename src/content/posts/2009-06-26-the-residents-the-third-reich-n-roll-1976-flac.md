@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Residents%20The%
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-26-the-residents-the-third-reich-n-roll-1976-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-26-the-residents-the-third-reich-n-roll-1976-flac.webp)THIS. IS. AWESOME.
+[![](/hfs40k/images/covers/2009-06-26-the-residents-the-third-reich-n-roll-1976-flac.webp)](/hfs40k/images/covers/2009-06-26-the-residents-the-third-reich-n-roll-1976-flac.webp)THIS. IS. AWESOME.
 
 The Residents are in their prime form here. There are two tracks, both the length of a side of vinyl. Each consists of covers and samples of '60s pop songs interwoven with hilarious allusions to Nazi Germany. A twisted snapshot of pop music.
 

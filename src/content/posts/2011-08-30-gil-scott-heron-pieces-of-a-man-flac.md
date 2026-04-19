@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Gil%20Scott%20Heron%20
 
 
 
-[![](/holyfuckingshit40000/images/c1460fd882a2ab5210808d1b94bf5b70.webp)](https://web.archive.org/web/20111010035022/http://4.bp.blogspot.com/-ku6tpuyltwI/Tl0xK4-No2I/AAAAAAAABDA/nAiaUByi8MY/s1600/pieces.jpg)
+[![](/hfs40k/images/c1460fd882a2ab5210808d1b94bf5b70.webp)](https://web.archive.org/web/20111010035022/http://4.bp.blogspot.com/-ku6tpuyltwI/Tl0xK4-No2I/AAAAAAAABDA/nAiaUByi8MY/s1600/pieces.jpg)
   
 This is a superb recording that has only improved with age. Backed by a truly stellar ensemble including Brian Jackson, Ron Carter, "Pretty" Purdie, Burt Jones, and Hubert Laws - poet, composer, and singer Gil Scott-Heron showcases all his talents - in a diverse array of settings. If you're not sold after the first four songs - well - perhaps you'll enjoy Pat Boone's new box set, "A Musical Tribute To Turn-Of-The-Century Plantation Life."
   

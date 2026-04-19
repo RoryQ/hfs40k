@@ -17,7 +17,7 @@ youtube_url: null
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-28-time-for-everyone-to-get-into-nick-cave-320.webp)](/holyfuckingshit40000/images/covers/2009-07-28-time-for-everyone-to-get-into-nick-cave-320.webp)My girlfriend recently uploaded all of his studio albums to our blog, so get them all [here](https://web.archive.org/web/20111010141906/http://idontcareaboutsleep.blogspot.com/2009/07/whole-lot-of-nick-cave-bad-seeds-at-320.html)
+[![](/hfs40k/images/covers/2009-07-28-time-for-everyone-to-get-into-nick-cave-320.webp)](/hfs40k/images/covers/2009-07-28-time-for-everyone-to-get-into-nick-cave-320.webp)My girlfriend recently uploaded all of his studio albums to our blog, so get them all [here](https://web.archive.org/web/20111010141906/http://idontcareaboutsleep.blogspot.com/2009/07/whole-lot-of-nick-cave-bad-seeds-at-320.html)
 
 Because I didn't have to do any work uploading or posting, I'll at least write a commentary.. maybe it'll help if you don't know where to start or something.
 

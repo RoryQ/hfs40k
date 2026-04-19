@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmo
 
 
 
-[![](/holyfuckingshit40000/images/8890699f6d836281eed8f210fd954c23.webp)](https://web.archive.org/web/20111010044959/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9aejUt8wrI/AAAAAAAAAKc/ZBeBiLWpvOw/s1600/WARPCD192+Packshot_1000.jpg)  
+[![](/hfs40k/images/8890699f6d836281eed8f210fd954c23.webp)](https://web.archive.org/web/20111010044959/http://2.bp.blogspot.com/_t6lWjgwMoxw/S9aejUt8wrI/AAAAAAAAAKc/ZBeBiLWpvOw/s1600/WARPCD192+Packshot_1000.jpg)  
   
   
   

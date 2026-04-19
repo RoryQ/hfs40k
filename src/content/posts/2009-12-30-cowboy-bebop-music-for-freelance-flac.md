@@ -18,4 +18,4 @@ youtube_url: https://www.youtube.com/results?search_query=Cowboy%20Bebop%20Music
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-12-30-cowboy-bebop-music-for-freelance-flac.webp)](/holyfuckingshit40000/images/covers/2009-12-30-cowboy-bebop-music-for-freelance-flac.webp)[download flac](https://web.archive.org/web/20111010155248/http://www.megaupload.com/?d=E96J9EDJ)
+[![](/hfs40k/images/covers/2009-12-30-cowboy-bebop-music-for-freelance-flac.webp)](/hfs40k/images/covers/2009-12-30-cowboy-bebop-music-for-freelance-flac.webp)[download flac](https://web.archive.org/web/20111010155248/http://www.megaupload.com/?d=E96J9EDJ)

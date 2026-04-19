@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let
 
 
 
-[![](/holyfuckingshit40000/images/621740939869c549dbf29eb251db4853.webp)](https://web.archive.org/web/20111010032815/http://1.bp.blogspot.com/_JdyrURA7JYI/SuN5c-xcfZI/AAAAAAAAAJ4/WVBjUpQU5tc/s1600-h/mingusmusic.PNG)Hirohissun's request.  
+[![](/hfs40k/images/621740939869c549dbf29eb251db4853.webp)](https://web.archive.org/web/20111010032815/http://1.bp.blogspot.com/_JdyrURA7JYI/SuN5c-xcfZI/AAAAAAAAAJ4/WVBjUpQU5tc/s1600-h/mingusmusic.PNG)Hirohissun's request.  
   
 [Download FLAC](https://web.archive.org/web/20111010032815/http://lix.in/-64cc2c) // \\ [Download v0](https://web.archive.org/web/20111010032815/http://lix.in/-5eb054)

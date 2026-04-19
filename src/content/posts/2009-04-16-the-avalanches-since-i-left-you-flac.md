@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Avalanches%20Sin
 
 
 
-[![](/holyfuckingshit40000/images/c5fab6001d1f918dcdfb887d46fb7d78.webp)](https://web.archive.org/web/20111010130718/http://4.bp.blogspot.com/_5cVyPU93ihM/SeeeKJNaEaI/AAAAAAAAADY/uvg72hNb8KI/s1600-h/6a00c114132e97c40800e398b90aac0004-500pi.jpg)"I was in another world, a world of 20.000 girls And milk!  
+[![](/hfs40k/images/c5fab6001d1f918dcdfb887d46fb7d78.webp)](https://web.archive.org/web/20111010130718/http://4.bp.blogspot.com/_5cVyPU93ihM/SeeeKJNaEaI/AAAAAAAAADY/uvg72hNb8KI/s1600-h/6a00c114132e97c40800e398b90aac0004-500pi.jpg)"I was in another world, a world of 20.000 girls And milk!  
 rectangles, to an optometrist, the man with the golden eyeball  
 And tighten your buttocks, pour juice on your chin  
 I promise my girlfriend id... the violin, violin, violin ..."  

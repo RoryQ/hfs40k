@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Legendary%20Pink
 
 
 
-[![](/holyfuckingshit40000/images/3031e06bd4c2992109b870eecdd49789.webp)](https://web.archive.org/web/20111010164145/http://4.bp.blogspot.com/_z8rLjrFVzbo/SbXWQ3jBdHI/AAAAAAAAADc/QaTILRH_Yok/s1600-h/15272.jpg)  
+[![](/hfs40k/images/3031e06bd4c2992109b870eecdd49789.webp)](https://web.archive.org/web/20111010164145/http://4.bp.blogspot.com/_z8rLjrFVzbo/SbXWQ3jBdHI/AAAAAAAAADc/QaTILRH_Yok/s1600-h/15272.jpg)  
 lol what a sick dimension  
   
 [Download FLAC](https://web.archive.org/web/20111010164145/http://www.megaupload.com/?d=6OFVV7J0)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%2
 
 
 
-[![](/holyfuckingshit40000/images/96ea068c21190c350c12117b474eb745.webp)](https://web.archive.org/web/20111010045715/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yIuZZVbtI/AAAAAAAAAec/Vos5sCAQyj4/s1600/metallic.jpg)  
+[![](/hfs40k/images/96ea068c21190c350c12117b474eb745.webp)](https://web.archive.org/web/20111010045715/http://1.bp.blogspot.com/_cLI19EXK2oU/S8yIuZZVbtI/AAAAAAAAAec/Vos5sCAQyj4/s1600/metallic.jpg)  
 It's hard not to like the Flaming Lips. These alt-rockers take such elaborate pleasure in being over-the-top weird that's impossible not to be sucked in. Wonderfully weird titles, complex music laced with unusual instruments, and a can't-be-copied sense of wonder make this one of the best albums to come out of the 90s.
 
 From the hypnotic crackle of "Abandoned Hospital Ship," we soar into the lower-key "Psychiatric Explorations of the Fetus With Needles," the insanely lovely "Placebo Headwound" ("Where does outer space end/ it's sort of hard to imagine"), the charmingly catchy "This Here Giraffe," the harder-edged "Guy Who Got a Headache and Accidentally Saves the World" (isn't that the best title?), the more haunting "When You Smile," the delicious space-rock "They Punctured My Yolk," sizzling (no pun intended) "Lightning Strikes the Postman," and the thought-provoking, catchy "Christmas at the Zoo" ("Their wasn't any snow on Christmas eve/and I knew what I should do/I thought I'd free the animals all locked up at the zoo...")

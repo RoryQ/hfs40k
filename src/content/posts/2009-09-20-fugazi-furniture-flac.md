@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Furniture
 
 
 
-[![](/holyfuckingshit40000/images/a86c4b09a60d93a3939920b32032bb9c.webp)](https://web.archive.org/web/20111010093947/http://3.bp.blogspot.com/_nmjS6fd9kfU/SrZOAOiSBgI/AAAAAAAAAD0/m0YhhqdTN8Y/s1600-h/folder.jpg)  
+[![](/hfs40k/images/a86c4b09a60d93a3939920b32032bb9c.webp)](https://web.archive.org/web/20111010093947/http://3.bp.blogspot.com/_nmjS6fd9kfU/SrZOAOiSBgI/AAAAAAAAAD0/m0YhhqdTN8Y/s1600-h/folder.jpg)  
 Yep, the Furniture EP/single. The last bit of both my now complete Fugazi discography, as well as our beloved hfs40,000's. As of now, we have everything (and I really hope that changes, meaning Fugazi decides to release something new!).  
   
 [Enjoy](https://web.archive.org/web/20111010093947/http://lix.in/-5a4438)

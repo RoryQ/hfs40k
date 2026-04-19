@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=The%20Congos%20Heart%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-07-17-the-congos-heart-of-the-congos-flac.webp)](/holyfuckingshit40000/images/covers/2010-07-17-the-congos-heart-of-the-congos-flac.webp)Part 2 of Obi's autobiographical musical journey. Even though I'm Nigerian (Fela), I was born in Jamaica. So...just listen to this. A certified classic of reggae/dub. Wonderful riddims, and delicious rasta jams.
+[![](/hfs40k/images/covers/2010-07-17-the-congos-heart-of-the-congos-flac.webp)](/hfs40k/images/covers/2010-07-17-the-congos-heart-of-the-congos-flac.webp)Part 2 of Obi's autobiographical musical journey. Even though I'm Nigerian (Fela), I was born in Jamaica. So...just listen to this. A certified classic of reggae/dub. Wonderful riddims, and delicious rasta jams.
 
 [Enjoy](https://web.archive.org/web/20111010053043/http://lix.in/-891e17)

@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Wolfgang%20Amadeus%20M
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-09-20-wolfgang-amadeus-mozart-symphony-no-41-frans-bruggen-the-orchestra-of-the-18th-century-flac.webp)](/holyfuckingshit40000/images/covers/2009-09-20-wolfgang-amadeus-mozart-symphony-no-41-frans-bruggen-the-orchestra-of-the-18th-century-flac.webp)  
+[![](/hfs40k/images/covers/2009-09-20-wolfgang-amadeus-mozart-symphony-no-41-frans-bruggen-the-orchestra-of-the-18th-century-flac.webp)](/hfs40k/images/covers/2009-09-20-wolfgang-amadeus-mozart-symphony-no-41-frans-bruggen-the-orchestra-of-the-18th-century-flac.webp)  
 An excellent performance of Mozart's most famous symphony on period instruments. Not much more to say, really, other than Bruggen handels (doho) everything quite well.  
   
 [Enjoy](https://web.archive.org/web/20111010094552/http://lix.in/-58bdf1)

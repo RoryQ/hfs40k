@@ -19,7 +19,7 @@ youtube_url: https://www.youtube.com/results?search_query=Nikolai%20Rimsky%20Kor
 
 
 
-[![](/holyfuckingshit40000/images/6396ae9cb4b1d0b942c996c20c7d5787.webp)](https://web.archive.org/web/20111010155338/http://4.bp.blogspot.com/_nmjS6fd9kfU/SyMJGPJCTEI/AAAAAAAAAFk/irL-PrsMm8E/s1600-h/folder.jpg)  
+[![](/hfs40k/images/6396ae9cb4b1d0b942c996c20c7d5787.webp)](https://web.archive.org/web/20111010155338/http://4.bp.blogspot.com/_nmjS6fd9kfU/SyMJGPJCTEI/AAAAAAAAAFk/irL-PrsMm8E/s1600-h/folder.jpg)  
 Goodness. What can I say about this recording, and Rimsky-Korsakov's Scheherezade in general? The tonal colours that are packed into this magical orchestral suite about the legendary tales told by the titular woman in the "1001 Arabian Nights" put a rainbow to shame. The playing by the premier orchestra in the world, the Vienna Philharmonic, is obviously top-notch. The sound quality of the recording is excellent, the sound of a string bass has hardly sounded as full and rich to me. Every facet of this extraordinary recording deserves the highest praise, which is probably the reason that I find myself listening to it again and again...and again and again.  
   
 [Enjoy](https://web.archive.org/web/20111010155338/http://lix.in/-67e0c1)

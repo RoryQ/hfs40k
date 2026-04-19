@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Yusef%20Lateef%20Easte
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-07-16-yusef-lateef-eastern-sounds-1961-flac.webp)](/holyfuckingshit40000/images/covers/2009-07-16-yusef-lateef-eastern-sounds-1961-flac.webp)  
+[![](/hfs40k/images/covers/2009-07-16-yusef-lateef-eastern-sounds-1961-flac.webp)](/hfs40k/images/covers/2009-07-16-yusef-lateef-eastern-sounds-1961-flac.webp)  
 Bald guy plays jazz. Toby Driver likes it. You should too.  
   
 [FLAC](https://web.archive.org/web/20111010140438/http://lix.in/-4b0406)

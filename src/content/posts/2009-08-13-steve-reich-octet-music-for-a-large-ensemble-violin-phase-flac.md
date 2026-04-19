@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Octet%
 
 
 
-[![](/holyfuckingshit40000/images/f847dd37c44ceea359148a77c0a02111.webp)](https://web.archive.org/web/20111010145612/http://3.bp.blogspot.com/_A31Dfz4S5yg/SoPrjtlPMyI/AAAAAAAAAGE/D20O6W1XQLo/s1600-h/octet.jpg)I thought it was [excellent](https://web.archive.org/web/20111010145612/http://holyfuckingshit40000.blogspot.com/2009/03/steve-reich-octet-music-for-large.html). btw, what about this flac collection somebody mentioned?  
+[![](/hfs40k/images/f847dd37c44ceea359148a77c0a02111.webp)](https://web.archive.org/web/20111010145612/http://3.bp.blogspot.com/_A31Dfz4S5yg/SoPrjtlPMyI/AAAAAAAAAGE/D20O6W1XQLo/s1600-h/octet.jpg)I thought it was [excellent](https://web.archive.org/web/20111010145612/http://holyfuckingshit40000.blogspot.com/2009/03/steve-reich-octet-music-for-large.html). btw, what about this flac collection somebody mentioned?  
   
 links: [f l a c](https://web.archive.org/web/20111010145612/http://lix.in/-5a670a) ヽ(´ー｀)ﾉ [v 0](https://web.archive.org/web/20111010145612/http://www.mediafire.com/?hm1nxdmwntl)

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Ge
 
 
 
-[![](/holyfuckingshit40000/images/9f4c7c22cf59a9255b6f72073d8c43a7.webp)](/holyfuckingshit40000/images/9f4c7c22cf59a9255b6f72073d8c43a7.webp)  
+[![](/hfs40k/images/9f4c7c22cf59a9255b6f72073d8c43a7.webp)](/hfs40k/images/9f4c7c22cf59a9255b6f72073d8c43a7.webp)  
 Classic Super Progressive Rock album remastered.  
   
 Download  

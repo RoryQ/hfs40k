@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Massive%20Attack%20Hel
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-07-massive-attack-heligoland-2010.webp)](/holyfuckingshit40000/images/covers/2010-01-07-massive-attack-heligoland-2010.webp)  
+[![](/hfs40k/images/covers/2010-01-07-massive-attack-heligoland-2010.webp)](/hfs40k/images/covers/2010-01-07-massive-attack-heligoland-2010.webp)  
   
 I HAVEN'T LISTENED TO THIS YET SO DON'T SPOIL THE ENDING FOR ME  
   

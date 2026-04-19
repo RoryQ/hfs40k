@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Bowery%20Electric%20Be
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-05-18-bowery-electric-beat-1996.webp)](/holyfuckingshit40000/images/covers/2009-05-18-bowery-electric-beat-1996.webp)Much better than Lushlife. Downcast shoegaze with a few elements of trip-hop (not as much as the aforementioned). Strikingly unique given the plethora of bands that play similar styles.  
+[![](/hfs40k/images/covers/2009-05-18-bowery-electric-beat-1996.webp)](/hfs40k/images/covers/2009-05-18-bowery-electric-beat-1996.webp)Much better than Lushlife. Downcast shoegaze with a few elements of trip-hop (not as much as the aforementioned). Strikingly unique given the plethora of bands that play similar styles.  
   
 "The album is an amazingly coherent mass, thick as a wrathful wave, throwing itself out of the speakers, consisting of layer upon layer of distorted guitars, looped drumtracks, white noise, and darkblack basslines, with whisperings subtle vocals shining through."  
   

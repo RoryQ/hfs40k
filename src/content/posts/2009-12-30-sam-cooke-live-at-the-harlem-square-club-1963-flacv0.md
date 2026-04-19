@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Sam%20Cooke%20Live%20a
 
 
 
-[![](/holyfuckingshit40000/images/d65253faf4bd0410931ca92265d099b2.webp)](https://web.archive.org/web/20111010153107/http://2.bp.blogspot.com/_JdyrURA7JYI/SzwV-aimlmI/AAAAAAAAAMw/p3x_Rn9w6KI/s1600-h/samcookelive.PNG)Sam Cooke's famous live album from 1963. Raw soul/blues and Cooke seems to keep the crowd pumped (there's a lot of cheering.) Covers a good amount of his best songs.  
+[![](/hfs40k/images/d65253faf4bd0410931ca92265d099b2.webp)](https://web.archive.org/web/20111010153107/http://2.bp.blogspot.com/_JdyrURA7JYI/SzwV-aimlmI/AAAAAAAAAMw/p3x_Rn9w6KI/s1600-h/samcookelive.PNG)Sam Cooke's famous live album from 1963. Raw soul/blues and Cooke seems to keep the crowd pumped (there's a lot of cheering.) Covers a good amount of his best songs.  
   
 [Download FLAC](https://web.archive.org/web/20111010153107/http://lix.in/-69d786) // \\ [Download v0](https://web.archive.org/web/20111010153107/http://lix.in/-6b5e27)

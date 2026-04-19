@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Closing%
 
 
 
-[![](/holyfuckingshit40000/images/0fa665e8fd02a676c020db3661d4ff13.webp)](https://web.archive.org/web/20111010160212/http://2.bp.blogspot.com/_bIgHZQu-UEA/S4OHk7FR4XI/AAAAAAAAAXE/I7JTFMmx4iQ/s1600-h/closing_time.jpg)  
+[![](/hfs40k/images/0fa665e8fd02a676c020db3661d4ff13.webp)](https://web.archive.org/web/20111010160212/http://2.bp.blogspot.com/_bIgHZQu-UEA/S4OHk7FR4XI/AAAAAAAAAXE/I7JTFMmx4iQ/s1600-h/closing_time.jpg)  
 
 Tom Waits' first album sounds nothing like anything else he ever did. His voice is even nice.
 

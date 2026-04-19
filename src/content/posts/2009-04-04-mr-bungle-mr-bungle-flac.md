@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Mr.%20Bungle%20Mr.%20B
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-04-04-mr-bungle-mr-bungle-flac.webp)](/holyfuckingshit40000/images/covers/2009-04-04-mr-bungle-mr-bungle-flac.webp)  
+[![](/hfs40k/images/covers/2009-04-04-mr-bungle-mr-bungle-flac.webp)](/hfs40k/images/covers/2009-04-04-mr-bungle-mr-bungle-flac.webp)  
 My Ass Is on Fire  
   
 [Download](https://web.archive.org/web/20111010131110/http://www.megaupload.com/?d=bfgluthv)

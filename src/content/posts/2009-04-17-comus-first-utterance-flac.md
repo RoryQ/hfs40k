@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Comus%20First%20Uttera
 
 
 
-[![](/holyfuckingshit40000/images/e88daed56289399b0d45063d0b7548fc.webp)](https://web.archive.org/web/20111010130651/http://3.bp.blogspot.com/_5cVyPU93ihM/SejkRBzEszI/AAAAAAAAAD4/Ba3hr4fJemE/s1600-h/Front.jpg)  
+[![](/hfs40k/images/e88daed56289399b0d45063d0b7548fc.webp)](https://web.archive.org/web/20111010130651/http://3.bp.blogspot.com/_5cVyPU93ihM/SejkRBzEszI/AAAAAAAAAD4/Ba3hr4fJemE/s1600-h/Front.jpg)  
 Music that is fun for all the family. Too bad they never made a second album.  
   
 [Download](https://web.archive.org/web/20111010130651/http://lix.in/-4958eb)  

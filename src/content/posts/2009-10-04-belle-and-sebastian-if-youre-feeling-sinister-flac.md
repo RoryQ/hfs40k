@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastia
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-10-04-belle-and-sebastian-if-youre-feeling-sinister-flac.webp)](/holyfuckingshit40000/images/covers/2009-10-04-belle-and-sebastian-if-youre-feeling-sinister-flac.webp)  
+[![](/hfs40k/images/covers/2009-10-04-belle-and-sebastian-if-youre-feeling-sinister-flac.webp)](/hfs40k/images/covers/2009-10-04-belle-and-sebastian-if-youre-feeling-sinister-flac.webp)  
 Fuck yeah Kafka  
   
 [Download](https://web.archive.org/web/20111201230011/http://www.megaupload.com/?d=UIC0HPTP) [FLAC](https://web.archive.org/web/20111201230011/http://www.megaupload.com/?d=UIC0HPTP)  

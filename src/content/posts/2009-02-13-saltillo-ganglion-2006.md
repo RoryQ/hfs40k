@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Saltillo%20Ganglion
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-13-saltillo-ganglion-2006.webp)](/holyfuckingshit40000/images/covers/2009-02-13-saltillo-ganglion-2006.webp)  
+[![](/hfs40k/images/covers/2009-02-13-saltillo-ganglion-2006.webp)](/hfs40k/images/covers/2009-02-13-saltillo-ganglion-2006.webp)  
 Genre: Trip Hop / Modern Classical  
 Country: U.S.  
   

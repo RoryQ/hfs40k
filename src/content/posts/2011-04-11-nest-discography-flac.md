@@ -19,13 +19,13 @@ youtube_url: https://www.youtube.com/results?search_query=Nest%20Fabled%20Lore%2
 
 
 
-[![](/holyfuckingshit40000/images/597df0d56cc60bfafaa779d59933924d.webp)](https://web.archive.org/web/20111010150057/http://3.bp.blogspot.com/-veSwGjpuLsY/TaKz3OvKk6I/AAAAAAAAAJA/9B28ioLMQVQ/s1600/Clipboard-3.jpg)  
+[![](/hfs40k/images/597df0d56cc60bfafaa779d59933924d.webp)](https://web.archive.org/web/20111010150057/http://3.bp.blogspot.com/-veSwGjpuLsY/TaKz3OvKk6I/AAAAAAAAAJA/9B28ioLMQVQ/s1600/Clipboard-3.jpg)  
 
 Next from *[Whom The Moon A Nightsong Sings](https://web.archive.org/web/20111010150057/http://holyfuckingshit40000.blogspot.com/2011/04/thank-you-tolkkii.html)*(HFS:40000 Post) is Finland's Nest. What really defines this band is the use of a Kantele, a traditional Finnish instrument. The drumming is simplistic, but still varied and well integrated into the music. There is a lot of atmosphere added to the music using various instruments fit for doing so on a keyboard. Often there is a guitar and bass, being acoustic or electric. With the Kantele being the focus most often, the music is driven by melody almost all of the time. I wish I had Nest's split with Agalloch, but I am was thinking of buying the 10" soon and I could make a rip then. I'll see what happens...
 
 ***2000 - Fabled Lore (Demo/EP)***
 
-**![](/holyfuckingshit40000/images/586aef5cab32b247cdef5192556058ab.webp)**
+**![](/hfs40k/images/586aef5cab32b247cdef5192556058ab.webp)**
 
 - From a Metal Archives Review by *Pale\_Pilgrim*:
 
@@ -51,7 +51,7 @@ Over time, these four simple tracks have grown on me quite a lot, and "An Oaken 
 
 ***2003 - Woodsmoke (Studio Album)***
 
-**![](/holyfuckingshit40000/images/86bb94f67bfd82cd963d072b41d57571.webp)**
+**![](/hfs40k/images/86bb94f67bfd82cd963d072b41d57571.webp)**
 
 - From a Metal-Archives review by *oneyoudontknow*
 
@@ -86,7 +86,7 @@ Accordingly is the impression not entirely positive, but it is very easy to enjo
 
 ***2007 - Trail of the Unwary (Studio Album)***
 
-[![](/holyfuckingshit40000/images/97c83cb2385a42941e10acfb021108e1.webp)](https://web.archive.org/web/20111010150057/http://3.bp.blogspot.com/-qrmyCwyyFvU/TaK-u-KH0JI/AAAAAAAAAJY/L-kGsqqaams/s1600/Cover.jpg)
+[![](/hfs40k/images/97c83cb2385a42941e10acfb021108e1.webp)](https://web.archive.org/web/20111010150057/http://3.bp.blogspot.com/-qrmyCwyyFvU/TaK-u-KH0JI/AAAAAAAAAJY/L-kGsqqaams/s1600/Cover.jpg)
 
   
 - From a Metal-Archives review by *oneyoudontknow* about track 4:

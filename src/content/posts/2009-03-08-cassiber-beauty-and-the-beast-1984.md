@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Cassiber%20Beauty%20an
 
 
 
-[![](/holyfuckingshit40000/images/3a4850e880f942cefe6d0769b3e90733.webp)](https://web.archive.org/web/20111010164136/http://4.bp.blogspot.com/_5cVyPU93ihM/SbQ_CZuY2UI/AAAAAAAAAB4/5os1mdiUYFg/s1600-h/o220434.jpg)  
+[![](/hfs40k/images/3a4850e880f942cefe6d0769b3e90733.webp)](https://web.archive.org/web/20111010164136/http://4.bp.blogspot.com/_5cVyPU93ihM/SbQ_CZuY2UI/AAAAAAAAAB4/5os1mdiUYFg/s1600-h/o220434.jpg)  
  “Cassiber play as if they only have a minute left to live.”  
   
 [Download](https://web.archive.org/web/20111010164136/http://lix.in/-50f86c) (224)  

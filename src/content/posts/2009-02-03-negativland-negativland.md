@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Negativland%20Negativl
 
 
 
-[![](/holyfuckingshit40000/images/60f53eaea140bdbf84cc375f86ebc755.webp)](/holyfuckingshit40000/images/60f53eaea140bdbf84cc375f86ebc755.webp)  
+[![](/hfs40k/images/60f53eaea140bdbf84cc375f86ebc755.webp)](/hfs40k/images/60f53eaea140bdbf84cc375f86ebc755.webp)  
   
   
 Genre: Experimental / Plunderphonics  

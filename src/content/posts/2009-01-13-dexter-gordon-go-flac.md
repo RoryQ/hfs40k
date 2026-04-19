@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Dexter%20Gordon%20Go
 
 
 
-[![](/holyfuckingshit40000/images/c50427aa3fd9d2c5528b76d90b391728.webp)](/holyfuckingshit40000/images/c50427aa3fd9d2c5528b76d90b391728.webp)  
+[![](/hfs40k/images/c50427aa3fd9d2c5528b76d90b391728.webp)](/hfs40k/images/c50427aa3fd9d2c5528b76d90b391728.webp)  
   
 DIS HERE BE A FINE JAZZ REKKAD  
   

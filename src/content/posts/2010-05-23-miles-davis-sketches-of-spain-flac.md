@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Sketch
 
 
 
-[![](/holyfuckingshit40000/images/8bb4d6d9a40ce3b987e08997c2d4ed26.webp)](/holyfuckingshit40000/images/c67cefdf8e0f6fce0019af85689b778b.webp)  
+[![](/hfs40k/images/8bb4d6d9a40ce3b987e08997c2d4ed26.webp)](/hfs40k/images/c67cefdf8e0f6fce0019af85689b778b.webp)  
 This is a favorite of many Miles fans, and for good reason, it's an impressionistic yet accessible introduction to the Miles canon. It features what some might call "classical" orchestrations, though this is misleading: The term is too broad. It's probably more precise to trace the album to impressionist composers such as Ravel and Debussy.
 
 The long, "classical" piece, "Concierto de Aranjuez (16 minutes, 14 seconds)," is the one most often criticized. To call it "elevator music" is ridiculous, but the composition is heavy on orchestration and much too light on improvisation. Although there's a nice tempo break at one point, it doesn't demand much of us-this may appeal to some listeners, but I found it somewhat dry and ascetic. Still, it sometimes conveys a poignant delicacy. The "long form" in jazz has always been problematic; I don't think this piece is wholly successful, but will probably be enjoyed by most. The last cut, "Solea" (see below) is a better long piece, with more tension and texture.

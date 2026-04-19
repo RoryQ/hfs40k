@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zio
 
 
 
-[![](/holyfuckingshit40000/images/covers/2010-01-07-a-silver-mt-zion-kollaps-tradixionales-2010.webp)](/holyfuckingshit40000/images/covers/2010-01-07-a-silver-mt-zion-kollaps-tradixionales-2010.webp)  
+[![](/hfs40k/images/covers/2010-01-07-a-silver-mt-zion-kollaps-tradixionales-2010.webp)](/hfs40k/images/covers/2010-01-07-a-silver-mt-zion-kollaps-tradixionales-2010.webp)  
   
 What a good start to 2010!  
   

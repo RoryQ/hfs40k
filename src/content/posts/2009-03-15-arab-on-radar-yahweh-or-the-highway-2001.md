@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Arab%20on%20Radar%20Ya
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-03-15-arab-on-radar-yahweh-or-the-highway-2001.webp)](/holyfuckingshit40000/images/covers/2009-03-15-arab-on-radar-yahweh-or-the-highway-2001.webp)  
+[![](/hfs40k/images/covers/2009-03-15-arab-on-radar-yahweh-or-the-highway-2001.webp)](/hfs40k/images/covers/2009-03-15-arab-on-radar-yahweh-or-the-highway-2001.webp)  
 What's that, you thought that Sonic Youth's 'Confusion is Sex' was abrasive? Pfffft. Probably one of the single most dissonant albums ever created. Not for the faint of heart.  
   
 224 was the best I could find, bleh.  

@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Les%2
 
 
 
-[![](/holyfuckingshit40000/images/4e58f1b8dcef3ae2b983fe0fa6619feb.webp)](/holyfuckingshit40000/images/4e58f1b8dcef3ae2b983fe0fa6619feb.webp)  
+[![](/hfs40k/images/4e58f1b8dcef3ae2b983fe0fa6619feb.webp)](/hfs40k/images/4e58f1b8dcef3ae2b983fe0fa6619feb.webp)  
 Far superior to their studio albums in every way possible. This live album is raw and bursting with indescribable energy that cannot be found on either studio albums.  
   
 [Download1](https://web.archive.org/web/20101203183700/http://www.mediafire.com/?kzw4yyg1tdh) [Download2](https://web.archive.org/web/20101203183700/http://www.mediafire.com/?woxydymckmy) [v0]

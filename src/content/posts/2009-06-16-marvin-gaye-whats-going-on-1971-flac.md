@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Marvin%20Gaye%20What%2
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-16-marvin-gaye-whats-going-on-1971-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-16-marvin-gaye-whats-going-on-1971-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-16-marvin-gaye-whats-going-on-1971-flac.webp)](/hfs40k/images/covers/2009-06-16-marvin-gaye-whats-going-on-1971-flac.webp)  
 Talvi's favourite rekkad.  
   
 ...GOTTA SAVE DEM BABIES!  

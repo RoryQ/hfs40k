@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Led%20Zeppelin%20House
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-06-16-led-zeppelin-houses-of-the-holy-1973-flac.webp)](/holyfuckingshit40000/images/covers/2009-06-16-led-zeppelin-houses-of-the-holy-1973-flac.webp)  
+[![](/hfs40k/images/covers/2009-06-16-led-zeppelin-houses-of-the-holy-1973-flac.webp)](/hfs40k/images/covers/2009-06-16-led-zeppelin-houses-of-the-holy-1973-flac.webp)  
 Dad rock.  
   
 Just a reminder, I added the missing FLAC Bílé Inferno link on my last post as I didn't realise only the 320 one was posted. Apologies to all the audiophiles missing that!  

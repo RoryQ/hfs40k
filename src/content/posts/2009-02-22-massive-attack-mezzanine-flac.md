@@ -18,7 +18,7 @@ youtube_url: https://www.youtube.com/results?search_query=Massive%20Attack%20Mez
 
 
 
-[![](/holyfuckingshit40000/images/covers/2009-02-22-massive-attack-mezzanine-flac.webp)](/holyfuckingshit40000/images/covers/2009-02-22-massive-attack-mezzanine-flac.webp)  
+[![](/hfs40k/images/covers/2009-02-22-massive-attack-mezzanine-flac.webp)](/hfs40k/images/covers/2009-02-22-massive-attack-mezzanine-flac.webp)  
 Fuck yeah, I love beatles.  
   
 [Download](https://web.archive.org/web/20101203184544/http://www.megaupload.com/?d=7MSNUT8F) FLAC

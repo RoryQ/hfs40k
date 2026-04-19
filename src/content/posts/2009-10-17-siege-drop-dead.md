@@ -18,6 +18,6 @@ youtube_url: https://www.youtube.com/results?search_query=Siege%20Drop%20Dead
 
 
 
-[![](/holyfuckingshit40000/images/1eb3d3844bb1eea505c3d9fee44a3513.webp)](https://web.archive.org/web/20111010033223/http://3.bp.blogspot.com/_A31Dfz4S5yg/StqPs1dHHyI/AAAAAAAAAJM/eE9p-t4223Q/s1600-h/s_vtrvutv.jpg)"Siege is the birth and death of hardcore punk on one record." Maybe it is, maybe it is not...  
+[![](/hfs40k/images/1eb3d3844bb1eea505c3d9fee44a3513.webp)](https://web.archive.org/web/20111010033223/http://3.bp.blogspot.com/_A31Dfz4S5yg/StqPs1dHHyI/AAAAAAAAAJM/eE9p-t4223Q/s1600-h/s_vtrvutv.jpg)"Siege is the birth and death of hardcore punk on one record." Maybe it is, maybe it is not...  
   
 [Download [320]](https://web.archive.org/web/20111010033223/http://www.mediafire.com/?kto5j42yznw)
