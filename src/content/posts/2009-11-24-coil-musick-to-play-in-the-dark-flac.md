@@ -6,7 +6,7 @@ title: Coil - Musick to Play in the Dark (FLAC)
 artist: Coil
 album: Musick to Play in the Dark
 spotify_url: https://open.spotify.com/search/Coil%20Musick%20to%20Play%20in%20the%20Dark
-apple_music_url: https://geo.music.apple.com/au/album/_/1527687152?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1527687152
 youtube_url: https://www.youtube.com/results?search_query=Coil%20Musick%20to%20Play%20in%20the%20Dark
 ---
 

@@ -6,7 +6,7 @@ title: Koenjihyakkei - Hundred Sights of Koenji (1994)
 artist: Koenjihyakkei
 album: Hundred Sights of Koenji
 spotify_url: https://open.spotify.com/search/Koenjihyakkei%20Hundred%20Sights%20of%20Koenji
-apple_music_url: https://music.apple.com/us/search?term=Koenjihyakkei%20Hundred%20Sights%20of%20Koenji
+apple_music_url: https://music.apple.com/search?term=Koenjihyakkei%20Hundred%20Sights%20of%20Koenji
 youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%20Hundred%20Sights%20of%20Koenji
 ---
 

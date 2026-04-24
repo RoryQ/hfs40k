@@ -6,7 +6,7 @@ title: Caravan - In The Land Of Grey And Pink (FLAC)
 artist: Caravan
 album: In The Land Of Grey And Pink
 spotify_url: https://open.spotify.com/search/Caravan%20In%20The%20Land%20Of%20Grey%20And%20Pink
-apple_music_url: https://music.apple.com/us/search?term=Caravan%20In%20The%20Land%20Of%20Grey%20And%20Pink
+apple_music_url: https://music.apple.com/search?term=Caravan%20In%20The%20Land%20Of%20Grey%20And%20Pink
 youtube_url: https://www.youtube.com/results?search_query=Caravan%20In%20The%20Land%20Of%20Grey%20And%20Pink
 ---
 

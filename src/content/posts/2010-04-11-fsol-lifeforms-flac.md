@@ -6,7 +6,7 @@ title: FSOL - Lifeforms [FLAC]
 artist: FSOL
 album: Lifeforms
 spotify_url: https://open.spotify.com/search/FSOL%20Lifeforms
-apple_music_url: https://music.apple.com/us/search?term=FSOL%20Lifeforms
+apple_music_url: https://music.apple.com/search?term=FSOL%20Lifeforms
 youtube_url: https://www.youtube.com/results?search_query=FSOL%20Lifeforms
 ---
 

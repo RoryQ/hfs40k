@@ -6,7 +6,7 @@ title: Joseph Haydn - Symphonies Nos. 96, 102, & 103 (FLAC)
 artist: Joseph Haydn
 album: Symphonies Nos. 96, 102, & 103
 spotify_url: https://open.spotify.com/search/Joseph%20Haydn%20Symphonies%20Nos.%2096%2C%20102%2C%20%26%20103
-apple_music_url: https://music.apple.com/us/search?term=Joseph%20Haydn%20Symphonies%20Nos.%2096%2C%20102%2C%20%26%20103
+apple_music_url: https://music.apple.com/search?term=Joseph%20Haydn%20Symphonies%20Nos.%2096%2C%20102%2C%20%26%20103
 youtube_url: https://www.youtube.com/results?search_query=Joseph%20Haydn%20Symphonies%20Nos.%2096%2C%20102%2C%20%26%20103
 ---
 

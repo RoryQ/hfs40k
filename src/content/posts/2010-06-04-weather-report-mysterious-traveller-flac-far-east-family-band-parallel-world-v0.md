@@ -7,7 +7,7 @@ title: Weather Report - Mysterious Traveller (FLAC) &  Far East Family Band - Pa
 artist: Weather Report
 album: Mysterious Traveller
 spotify_url: https://open.spotify.com/search/Weather%20Report%20Mysterious%20Traveller
-apple_music_url: https://geo.music.apple.com/au/album/_/188263606?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/188263606
 youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Mysterious%20Traveller
 ---
 

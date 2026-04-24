@@ -6,7 +6,7 @@ title: Rahsaan Roland Kirk - The Inflated Tear (1968)
 artist: Rahsaan Roland Kirk
 album: The Inflated Tear
 spotify_url: https://open.spotify.com/search/Rahsaan%20Roland%20Kirk%20The%20Inflated%20Tear
-apple_music_url: https://music.apple.com/us/search?term=Rahsaan%20Roland%20Kirk%20The%20Inflated%20Tear
+apple_music_url: https://music.apple.com/search?term=Rahsaan%20Roland%20Kirk%20The%20Inflated%20Tear
 youtube_url: https://www.youtube.com/results?search_query=Rahsaan%20Roland%20Kirk%20The%20Inflated%20Tear
 ---
 

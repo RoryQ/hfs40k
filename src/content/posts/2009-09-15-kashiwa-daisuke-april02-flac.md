@@ -6,7 +6,7 @@ title: Kashiwa Daisuke - April.#02 (FLAC)
 artist: Kashiwa Daisuke
 album: April.#02
 spotify_url: https://open.spotify.com/search/Kashiwa%20Daisuke%20April.%2302
-apple_music_url: https://music.apple.com/us/search?term=Kashiwa%20Daisuke%20April.%2302
+apple_music_url: https://music.apple.com/search?term=Kashiwa%20Daisuke%20April.%2302
 youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20April.%2302
 ---
 

@@ -6,7 +6,7 @@ title: David Bowie - Aladdin Sane (Remastered FLAC)
 artist: David Bowie
 album: Aladdin Sane
 spotify_url: https://open.spotify.com/search/David%20Bowie%20Aladdin%20Sane
-apple_music_url: https://music.apple.com/us/search?term=David%20Bowie%20Aladdin%20Sane
+apple_music_url: https://music.apple.com/search?term=David%20Bowie%20Aladdin%20Sane
 youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Aladdin%20Sane
 ---
 

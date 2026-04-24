@@ -6,7 +6,7 @@ title: Agalloch - Ashes Against The Grain (Vinyl FLAC)
 artist: Agalloch
 album: Ashes Against The Grain
 spotify_url: https://open.spotify.com/search/Agalloch%20Ashes%20Against%20The%20Grain
-apple_music_url: https://geo.music.apple.com/au/album/_/1675491456?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1675491456
 youtube_url: https://www.youtube.com/results?search_query=Agalloch%20Ashes%20Against%20The%20Grain
 ---
 

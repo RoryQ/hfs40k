@@ -6,7 +6,7 @@ title: Nick Cave & the Bad Seeds - Let Love In [24/96 vinyl rip FLAC]
 artist: Nick Cave & the Bad Seeds
 album: Let Love In
 spotify_url: https://open.spotify.com/search/Nick%20Cave%20%26%20the%20Bad%20Seeds%20Let%20Love%20In
-apple_music_url: https://music.apple.com/us/search?term=Nick%20Cave%20%26%20the%20Bad%20Seeds%20Let%20Love%20In
+apple_music_url: https://music.apple.com/search?term=Nick%20Cave%20%26%20the%20Bad%20Seeds%20Let%20Love%20In
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20%26%20the%20Bad%20Seeds%20Let%20Love%20In
 ---
 

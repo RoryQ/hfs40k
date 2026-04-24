@@ -6,7 +6,7 @@ title: The Orb - Orbus Terrarum (Remastered FLAC)
 artist: The Orb
 album: Orbus Terrarum
 spotify_url: https://open.spotify.com/search/The%20Orb%20Orbus%20Terrarum
-apple_music_url: https://music.apple.com/us/search?term=The%20Orb%20Orbus%20Terrarum
+apple_music_url: https://music.apple.com/search?term=The%20Orb%20Orbus%20Terrarum
 youtube_url: https://www.youtube.com/results?search_query=The%20Orb%20Orbus%20Terrarum
 ---
 

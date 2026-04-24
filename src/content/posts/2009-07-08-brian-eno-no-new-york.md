@@ -6,7 +6,7 @@ title: Brian Eno - No New York
 artist: Brian Eno
 album: No New York
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20No%20New%20York
-apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20No%20New%20York
+apple_music_url: https://music.apple.com/search?term=Brian%20Eno%20No%20New%20York
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20No%20New%20York
 ---
 

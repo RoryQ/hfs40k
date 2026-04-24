@@ -6,7 +6,7 @@ title: Autopoieses - Le vie a Noir (1999, FLAC)
 artist: Autopoieses
 album: Le vie a Noir
 spotify_url: https://open.spotify.com/search/Autopoieses%20Le%20vie%20a%20Noir
-apple_music_url: https://music.apple.com/us/search?term=Autopoieses%20Le%20vie%20a%20Noir
+apple_music_url: https://music.apple.com/search?term=Autopoieses%20Le%20vie%20a%20Noir
 youtube_url: https://www.youtube.com/results?search_query=Autopoieses%20Le%20vie%20a%20Noir
 ---
 

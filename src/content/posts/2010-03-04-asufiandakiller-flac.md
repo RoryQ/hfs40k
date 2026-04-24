@@ -6,7 +6,7 @@ title: ASufiAndAKiller FLAC
 artist: Gonjasufi
 album: A Sufi and a Killer
 spotify_url: https://open.spotify.com/search/Gonjasufi%20A%20Sufi%20and%20a%20Killer
-apple_music_url: https://music.apple.com/us/search?term=Gonjasufi%20A%20Sufi%20and%20a%20Killer
+apple_music_url: https://music.apple.com/search?term=Gonjasufi%20A%20Sufi%20and%20a%20Killer
 youtube_url: https://www.youtube.com/results?search_query=Gonjasufi%20A%20Sufi%20and%20a%20Killer
 ---
 

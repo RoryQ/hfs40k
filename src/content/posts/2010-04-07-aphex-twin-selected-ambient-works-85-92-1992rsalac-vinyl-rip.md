@@ -6,7 +6,7 @@ title: Aphex Twin - Selected Ambient Works 85-92 [1992/R&S/ALAC Vinyl Rip]
 artist: Aphex Twin
 album: Selected Ambient Works 85-92
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20Selected%20Ambient%20Works%2085-92
-apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20Selected%20Ambient%20Works%2085-92
+apple_music_url: https://music.apple.com/search?term=Aphex%20Twin%20Selected%20Ambient%20Works%2085-92
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Selected%20Ambient%20Works%2085-92
 ---
 

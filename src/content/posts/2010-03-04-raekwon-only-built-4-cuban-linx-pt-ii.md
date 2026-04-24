@@ -6,7 +6,7 @@ title: Raekwon - Only Built 4 Cuban Linx... Pt. II
 artist: Raekwon
 album: Only Built 4 Cuban Linx... Pt. II
 spotify_url: https://open.spotify.com/search/Raekwon%20Only%20Built%204%20Cuban%20Linx...%20Pt.%20II
-apple_music_url: https://music.apple.com/us/search?term=Raekwon%20Only%20Built%204%20Cuban%20Linx...%20Pt.%20II
+apple_music_url: https://music.apple.com/search?term=Raekwon%20Only%20Built%204%20Cuban%20Linx...%20Pt.%20II
 youtube_url: https://www.youtube.com/results?search_query=Raekwon%20Only%20Built%204%20Cuban%20Linx...%20Pt.%20II
 ---
 

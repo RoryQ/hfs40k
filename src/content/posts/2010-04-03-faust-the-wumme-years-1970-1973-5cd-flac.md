@@ -6,7 +6,7 @@ title: 'Faust - The Wumme Years: 1970-1973 (5CD) FLAC'
 artist: Faust
 album: 'The Wumme Years: 1970-1973'
 spotify_url: https://open.spotify.com/search/Faust%20The%20Wumme%20Years%3A%201970-1973
-apple_music_url: https://music.apple.com/us/search?term=Faust%20The%20Wumme%20Years%3A%201970-1973
+apple_music_url: https://music.apple.com/search?term=Faust%20The%20Wumme%20Years%3A%201970-1973
 youtube_url: https://www.youtube.com/results?search_query=Faust%20The%20Wumme%20Years%3A%201970-1973
 ---
 

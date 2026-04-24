@@ -6,7 +6,7 @@ title: John Zorn - The Circle Maker (FLAC)
 artist: John Zorn
 album: The Circle Maker
 spotify_url: https://open.spotify.com/search/John%20Zorn%20The%20Circle%20Maker
-apple_music_url: https://music.apple.com/us/search?term=John%20Zorn%20The%20Circle%20Maker
+apple_music_url: https://music.apple.com/search?term=John%20Zorn%20The%20Circle%20Maker
 youtube_url: https://www.youtube.com/results?search_query=John%20Zorn%20The%20Circle%20Maker
 ---
 

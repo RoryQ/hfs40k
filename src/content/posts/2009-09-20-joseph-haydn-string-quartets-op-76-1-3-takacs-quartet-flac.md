@@ -6,7 +6,7 @@ title: Joseph Haydn - String Quartets, Op. 76 1-3 (Takacs Quartet) (FLAC)
 artist: Joseph Haydn
 album: String Quartets, Op. 76 1-3
 spotify_url: https://open.spotify.com/search/Joseph%20Haydn%20String%20Quartets%2C%20Op.%2076%201-3
-apple_music_url: https://geo.music.apple.com/au/album/_/1847847494?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1847847494
 youtube_url: https://www.youtube.com/results?search_query=Joseph%20Haydn%20String%20Quartets%2C%20Op.%2076%201-3
 ---
 

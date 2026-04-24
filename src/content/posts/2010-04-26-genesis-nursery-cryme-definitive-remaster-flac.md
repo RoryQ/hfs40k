@@ -6,7 +6,7 @@ title: Genesis - Nursery Cryme  (Definitive Remaster FLAC)
 artist: Genesis
 album: Nursery Cryme
 spotify_url: https://open.spotify.com/search/Genesis%20Nursery%20Cryme
-apple_music_url: https://music.apple.com/us/search?term=Genesis%20Nursery%20Cryme
+apple_music_url: https://music.apple.com/search?term=Genesis%20Nursery%20Cryme
 youtube_url: https://www.youtube.com/results?search_query=Genesis%20Nursery%20Cryme
 ---
 

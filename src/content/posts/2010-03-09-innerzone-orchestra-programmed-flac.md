@@ -6,7 +6,7 @@ title: Innerzone Orchestra - Programmed FLAC
 artist: Innerzone Orchestra
 album: Programmed FLAC
 spotify_url: https://open.spotify.com/search/Innerzone%20Orchestra%20Programmed%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Innerzone%20Orchestra%20Programmed%20FLAC
+apple_music_url: https://music.apple.com/search?term=Innerzone%20Orchestra%20Programmed%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Innerzone%20Orchestra%20Programmed%20FLAC
 ---
 

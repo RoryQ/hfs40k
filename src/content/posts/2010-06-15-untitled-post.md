@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Autechre
 album: Move of Ten
 spotify_url: https://open.spotify.com/search/Autechre%20Move%20of%20Ten
-apple_music_url: https://music.apple.com/us/search?term=Autechre%20Move%20of%20Ten
+apple_music_url: https://music.apple.com/search?term=Autechre%20Move%20of%20Ten
 youtube_url: https://www.youtube.com/results?search_query=Autechre%20Move%20of%20Ten
 ---
 

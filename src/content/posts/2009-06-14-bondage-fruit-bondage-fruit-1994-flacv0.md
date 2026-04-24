@@ -6,7 +6,7 @@ title: Bondage Fruit - Bondage Fruit (1994) [FLAC&V0]
 artist: Bondage Fruit
 album: Bondage Fruit
 spotify_url: https://open.spotify.com/search/Bondage%20Fruit%20Bondage%20Fruit
-apple_music_url: https://geo.music.apple.com/au/album/_/375243350?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/375243350
 youtube_url: https://www.youtube.com/results?search_query=Bondage%20Fruit%20Bondage%20Fruit
 ---
 

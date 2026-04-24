@@ -6,7 +6,7 @@ title: This Heat - Deceit (1981)
 artist: This Heat
 album: Deceit
 spotify_url: https://open.spotify.com/search/This%20Heat%20Deceit
-apple_music_url: https://music.apple.com/us/search?term=This%20Heat%20Deceit
+apple_music_url: https://music.apple.com/search?term=This%20Heat%20Deceit
 youtube_url: https://www.youtube.com/results?search_query=This%20Heat%20Deceit
 ---
 

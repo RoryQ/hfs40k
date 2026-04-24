@@ -6,7 +6,7 @@ title: "Art Ensemble of Chicago - Les stances \xE0 Sophie (FLAC)"
 artist: Art Ensemble of Chicago
 album: "Les stances \xE0 Sophie"
 spotify_url: https://open.spotify.com/search/Art%20Ensemble%20of%20Chicago%20Les%20stances%20%C3%A0%20Sophie
-apple_music_url: https://music.apple.com/us/search?term=Art%20Ensemble%20of%20Chicago%20Les%20stances%20%C3%A0%20Sophie
+apple_music_url: https://music.apple.com/search?term=Art%20Ensemble%20of%20Chicago%20Les%20stances%20%C3%A0%20Sophie
 youtube_url: https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20Chicago%20Les%20stances%20%C3%A0%20Sophie
 ---
 

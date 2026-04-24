@@ -6,7 +6,7 @@ title: Kyuss - Blues For The Red Sun (FLAC)
 artist: Kyuss
 album: Blues For The Red Sun
 spotify_url: https://open.spotify.com/search/Kyuss%20Blues%20For%20The%20Red%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Kyuss%20Blues%20For%20The%20Red%20Sun
+apple_music_url: https://music.apple.com/search?term=Kyuss%20Blues%20For%20The%20Red%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Kyuss%20Blues%20For%20The%20Red%20Sun
 ---
 

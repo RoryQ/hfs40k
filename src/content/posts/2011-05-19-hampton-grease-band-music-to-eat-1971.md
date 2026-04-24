@@ -6,7 +6,7 @@ title: Hampton Grease Band - Music to Eat [1971]
 artist: Hampton Grease Band
 album: Music to Eat
 spotify_url: https://open.spotify.com/search/Hampton%20Grease%20Band%20Music%20to%20Eat
-apple_music_url: https://music.apple.com/us/search?term=Hampton%20Grease%20Band%20Music%20to%20Eat
+apple_music_url: https://music.apple.com/search?term=Hampton%20Grease%20Band%20Music%20to%20Eat
 youtube_url: https://www.youtube.com/results?search_query=Hampton%20Grease%20Band%20Music%20to%20Eat
 ---
 

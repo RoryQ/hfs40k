@@ -6,7 +6,7 @@ title: "L\xFAnasa - Otherworld (1999)"
 artist: "L\xFAnasa"
 album: Otherworld
 spotify_url: https://open.spotify.com/search/L%C3%BAnasa%20Otherworld
-apple_music_url: https://music.apple.com/us/search?term=L%C3%BAnasa%20Otherworld
+apple_music_url: https://music.apple.com/search?term=L%C3%BAnasa%20Otherworld
 youtube_url: https://www.youtube.com/results?search_query=L%C3%BAnasa%20Otherworld
 ---
 

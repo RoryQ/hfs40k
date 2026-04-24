@@ -6,7 +6,7 @@ title: Carl Craig - More Songs About Food & Revolutionary Art FLAC
 artist: Carl Craig
 album: More Songs About Food & Revolutionary Art FLAC
 spotify_url: https://open.spotify.com/search/Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
+apple_music_url: https://music.apple.com/search?term=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Carl%20Craig%20More%20Songs%20About%20Food%20%26%20Revolutionary%20Art%20FLAC
 ---
 

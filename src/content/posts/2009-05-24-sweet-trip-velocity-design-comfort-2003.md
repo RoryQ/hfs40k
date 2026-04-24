@@ -6,7 +6,7 @@ title: 'Sweet Trip - Velocity : Design : Comfort (2003)'
 artist: Sweet Trip
 album: 'Velocity : Design : Comfort'
 spotify_url: https://open.spotify.com/search/Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
-apple_music_url: https://music.apple.com/us/search?term=Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
+apple_music_url: https://music.apple.com/search?term=Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
 youtube_url: https://www.youtube.com/results?search_query=Sweet%20Trip%20Velocity%20%3A%20Design%20%3A%20Comfort
 ---
 

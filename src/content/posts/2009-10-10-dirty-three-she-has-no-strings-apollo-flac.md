@@ -6,7 +6,7 @@ title: Dirty Three - She Has No Strings Apollo [FLAC]
 artist: Dirty Three
 album: She Has No Strings Apollo
 spotify_url: https://open.spotify.com/search/Dirty%20Three%20She%20Has%20No%20Strings%20Apollo
-apple_music_url: https://music.apple.com/us/search?term=Dirty%20Three%20She%20Has%20No%20Strings%20Apollo
+apple_music_url: https://music.apple.com/search?term=Dirty%20Three%20She%20Has%20No%20Strings%20Apollo
 youtube_url: https://www.youtube.com/results?search_query=Dirty%20Three%20She%20Has%20No%20Strings%20Apollo
 ---
 

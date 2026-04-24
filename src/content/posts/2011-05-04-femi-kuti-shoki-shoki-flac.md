@@ -6,7 +6,7 @@ title: Femi Kuti - Shoki Shoki (FLAC)
 artist: Femi Kuti
 album: Shoki Shoki
 spotify_url: https://open.spotify.com/search/Femi%20Kuti%20Shoki%20Shoki
-apple_music_url: https://geo.music.apple.com/au/album/_/1817151873?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1817151873
 youtube_url: https://www.youtube.com/results?search_query=Femi%20Kuti%20Shoki%20Shoki
 ---
 

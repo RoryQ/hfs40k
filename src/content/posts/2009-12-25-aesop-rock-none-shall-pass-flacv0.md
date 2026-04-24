@@ -6,7 +6,7 @@ title: Aesop Rock - None Shall Pass (FLAC/v0)
 artist: Aesop Rock
 album: None Shall Pass
 spotify_url: https://open.spotify.com/search/Aesop%20Rock%20None%20Shall%20Pass
-apple_music_url: https://music.apple.com/us/search?term=Aesop%20Rock%20None%20Shall%20Pass
+apple_music_url: https://music.apple.com/search?term=Aesop%20Rock%20None%20Shall%20Pass
 youtube_url: https://www.youtube.com/results?search_query=Aesop%20Rock%20None%20Shall%20Pass
 ---
 

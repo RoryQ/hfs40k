@@ -6,7 +6,7 @@ title: Robbie Basho - Venus in Cancer (1969) [256]
 artist: Robbie Basho
 album: Venus in Cancer
 spotify_url: https://open.spotify.com/search/Robbie%20Basho%20Venus%20in%20Cancer
-apple_music_url: https://geo.music.apple.com/au/album/_/1528638050?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1528638050
 youtube_url: https://www.youtube.com/results?search_query=Robbie%20Basho%20Venus%20in%20Cancer
 ---
 

@@ -6,7 +6,7 @@ title: Wayne Shorter - Night Dreamer (FLAC)
 artist: Wayne Shorter
 album: Night Dreamer
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20Night%20Dreamer
-apple_music_url: https://geo.music.apple.com/au/album/_/725818556?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/725818556
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Night%20Dreamer
 ---
 

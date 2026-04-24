@@ -6,7 +6,7 @@ title: Frank Zappa and The Mothers of Invention - Uncle Meat [FLAC/v0]
 artist: Frank Zappa and The Mothers of Invention
 album: Uncle Meat
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20and%20The%20Mothers%20of%20Invention%20Uncle%20Meat
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20and%20The%20Mothers%20of%20Invention%20Uncle%20Meat
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20and%20The%20Mothers%20of%20Invention%20Uncle%20Meat
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20and%20The%20Mothers%20of%20Invention%20Uncle%20Meat
 ---
 

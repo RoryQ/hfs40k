@@ -6,7 +6,7 @@ title: Kate Bush - The Dreaming (1982) [FLAC]
 artist: Kate Bush
 album: The Dreaming
 spotify_url: https://open.spotify.com/search/Kate%20Bush%20The%20Dreaming
-apple_music_url: https://music.apple.com/us/search?term=Kate%20Bush%20The%20Dreaming
+apple_music_url: https://music.apple.com/search?term=Kate%20Bush%20The%20Dreaming
 youtube_url: https://www.youtube.com/results?search_query=Kate%20Bush%20The%20Dreaming
 ---
 

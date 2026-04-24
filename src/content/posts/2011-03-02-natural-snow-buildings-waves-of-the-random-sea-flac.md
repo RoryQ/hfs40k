@@ -6,7 +6,7 @@ title: Natural Snow Buildings - Waves of the Random Sea [FLAC]
 artist: Natural Snow Buildings
 album: Waves of the Random Sea
 spotify_url: https://open.spotify.com/search/Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
-apple_music_url: https://music.apple.com/us/search?term=Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
+apple_music_url: https://music.apple.com/search?term=Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
 youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Buildings%20Waves%20of%20the%20Random%20Sea
 ---
 

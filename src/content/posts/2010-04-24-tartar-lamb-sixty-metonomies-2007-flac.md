@@ -6,7 +6,7 @@ title: Tartar Lamb - Sixty Metonomies (2007) [FLAC]
 artist: Tartar Lamb
 album: Sixty Metonomies
 spotify_url: https://open.spotify.com/search/Tartar%20Lamb%20Sixty%20Metonomies
-apple_music_url: https://music.apple.com/us/search?term=Tartar%20Lamb%20Sixty%20Metonomies
+apple_music_url: https://music.apple.com/search?term=Tartar%20Lamb%20Sixty%20Metonomies
 youtube_url: https://www.youtube.com/results?search_query=Tartar%20Lamb%20Sixty%20Metonomies
 ---
 

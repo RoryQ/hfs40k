@@ -6,7 +6,7 @@ title: Flying Saucer Attack - New Lands [FLAC]
 artist: Flying Saucer Attack
 album: New Lands
 spotify_url: https://open.spotify.com/search/Flying%20Saucer%20Attack%20New%20Lands
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Saucer%20Attack%20New%20Lands
+apple_music_url: https://music.apple.com/search?term=Flying%20Saucer%20Attack%20New%20Lands
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Saucer%20Attack%20New%20Lands
 ---
 

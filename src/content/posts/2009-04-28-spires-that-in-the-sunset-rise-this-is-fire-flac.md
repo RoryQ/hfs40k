@@ -6,7 +6,7 @@ title: Spires That in the Sunset Rise - This is Fire (FLAC)
 artist: Spires That in the Sunset Rise
 album: This is Fire
 spotify_url: https://open.spotify.com/search/Spires%20That%20in%20the%20Sunset%20Rise%20This%20is%20Fire
-apple_music_url: https://geo.music.apple.com/au/album/_/1006691108?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1006691108
 youtube_url: https://www.youtube.com/results?search_query=Spires%20That%20in%20the%20Sunset%20Rise%20This%20is%20Fire
 ---
 

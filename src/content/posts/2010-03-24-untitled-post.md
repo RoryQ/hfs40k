@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Mazzy Star
 album: So Tonight That I Might See
 spotify_url: https://open.spotify.com/search/Mazzy%20Star%20So%20Tonight%20That%20I%20Might%20See
-apple_music_url: https://geo.music.apple.com/au/album/_/1440848808?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440848808
 youtube_url: https://www.youtube.com/results?search_query=Mazzy%20Star%20So%20Tonight%20That%20I%20Might%20See
 ---
 

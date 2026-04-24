@@ -6,7 +6,7 @@ title: Max Romeo and the Upsetters - War ina Babylon (1976)
 artist: Max Romeo and the Upsetters
 album: War ina Babylon
 spotify_url: https://open.spotify.com/search/Max%20Romeo%20and%20the%20Upsetters%20War%20ina%20Babylon
-apple_music_url: https://music.apple.com/us/search?term=Max%20Romeo%20and%20the%20Upsetters%20War%20ina%20Babylon
+apple_music_url: https://music.apple.com/search?term=Max%20Romeo%20and%20the%20Upsetters%20War%20ina%20Babylon
 youtube_url: https://www.youtube.com/results?search_query=Max%20Romeo%20and%20the%20Upsetters%20War%20ina%20Babylon
 ---
 

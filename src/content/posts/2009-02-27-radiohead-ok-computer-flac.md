@@ -6,7 +6,7 @@ title: Radiohead - OK Computer (FLAC)
 artist: Radiohead
 album: OK Computer
 spotify_url: https://open.spotify.com/search/Radiohead%20OK%20Computer
-apple_music_url: https://music.apple.com/us/search?term=Radiohead%20OK%20Computer
+apple_music_url: https://music.apple.com/search?term=Radiohead%20OK%20Computer
 youtube_url: https://www.youtube.com/results?search_query=Radiohead%20OK%20Computer
 ---
 

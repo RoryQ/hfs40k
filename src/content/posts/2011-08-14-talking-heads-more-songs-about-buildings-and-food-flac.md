@@ -6,7 +6,7 @@ title: Talking Heads - More Songs About Buildings and Food (FLAC)
 artist: Talking Heads
 album: More Songs About Buildings and Food
 spotify_url: https://open.spotify.com/search/Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
-apple_music_url: https://music.apple.com/us/search?term=Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
+apple_music_url: https://music.apple.com/search?term=Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
 youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20More%20Songs%20About%20Buildings%20and%20Food
 ---
 

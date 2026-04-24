@@ -6,7 +6,7 @@ title: Pink Floyd - Relics (FLAC)
 artist: Pink Floyd
 album: Relics
 spotify_url: https://open.spotify.com/search/Pink%20Floyd%20Relics
-apple_music_url: https://geo.music.apple.com/au/album/_/1065974496?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1065974496
 youtube_url: https://www.youtube.com/results?search_query=Pink%20Floyd%20Relics
 ---
 

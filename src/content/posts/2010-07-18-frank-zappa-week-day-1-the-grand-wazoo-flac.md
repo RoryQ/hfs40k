@@ -6,7 +6,7 @@ title: 'Frank Zappa Week - Day #1 The Grand Wazoo (FLAC)'
 artist: Frank Zappa Week
 album: 'Day #1 The Grand Wazoo'
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%231%20The%20Grand%20Wazoo
 ---
 

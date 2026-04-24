@@ -6,7 +6,7 @@ title: Cult of Luna - Somewhere Along the Highway (FLAC)
 artist: Cult of Luna
 album: Somewhere Along the Highway
 spotify_url: https://open.spotify.com/search/Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
-apple_music_url: https://music.apple.com/us/search?term=Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
+apple_music_url: https://music.apple.com/search?term=Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
 youtube_url: https://www.youtube.com/results?search_query=Cult%20of%20Luna%20Somewhere%20Along%20the%20Highway
 ---
 

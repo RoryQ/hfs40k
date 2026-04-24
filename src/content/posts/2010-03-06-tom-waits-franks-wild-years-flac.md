@@ -6,7 +6,7 @@ title: Tom Waits - Franks Wild Years (FLAC)
 artist: Tom Waits
 album: Franks Wild Years
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Franks%20Wild%20Years
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Franks%20Wild%20Years
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Franks%20Wild%20Years
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Franks%20Wild%20Years
 ---
 

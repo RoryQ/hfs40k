@@ -6,7 +6,7 @@ title: 'Burial & Four Tet: Moth/Wolf Cub'
 artist: Burial & Four Tet
 album: Moth/Wolf Cub
 spotify_url: https://open.spotify.com/search/Burial%20%26%20Four%20Tet%20Moth/Wolf%20Cub
-apple_music_url: https://geo.music.apple.com/au/album/_/1607167854?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1607167854
 youtube_url: https://www.youtube.com/results?search_query=Burial%20%26%20Four%20Tet%20Moth/Wolf%20Cub
 ---
 

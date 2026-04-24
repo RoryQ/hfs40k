@@ -6,7 +6,7 @@ title: Shed - Soloaction EP (2004, FLAC)
 artist: Shed
 album: Soloaction EP
 spotify_url: https://open.spotify.com/search/Shed%20Soloaction%20EP
-apple_music_url: https://music.apple.com/us/search?term=Shed%20Soloaction%20EP
+apple_music_url: https://music.apple.com/search?term=Shed%20Soloaction%20EP
 youtube_url: https://www.youtube.com/results?search_query=Shed%20Soloaction%20EP
 ---
 

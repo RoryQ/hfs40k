@@ -6,7 +6,7 @@ title: The Velvet Underground - The Velvet Underground & Nico (MFSL FLAC)
 artist: The Velvet Underground
 album: The Velvet Underground & Nico
 spotify_url: https://open.spotify.com/search/The%20Velvet%20Underground%20The%20Velvet%20Underground%20%26%20Nico
-apple_music_url: https://geo.music.apple.com/au/album/_/1440851613?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440851613
 youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Underground%20The%20Velvet%20Underground%20%26%20Nico
 ---
 

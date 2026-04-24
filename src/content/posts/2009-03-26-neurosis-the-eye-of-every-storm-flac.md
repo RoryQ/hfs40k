@@ -6,7 +6,7 @@ title: Neurosis - The Eye of Every Storm (FLAC)
 artist: Neurosis
 album: The Eye of Every Storm
 spotify_url: https://open.spotify.com/search/Neurosis%20The%20Eye%20of%20Every%20Storm
-apple_music_url: https://music.apple.com/us/search?term=Neurosis%20The%20Eye%20of%20Every%20Storm
+apple_music_url: https://music.apple.com/search?term=Neurosis%20The%20Eye%20of%20Every%20Storm
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20The%20Eye%20of%20Every%20Storm
 ---
 

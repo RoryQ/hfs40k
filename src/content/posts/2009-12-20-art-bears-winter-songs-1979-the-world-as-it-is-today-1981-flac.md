@@ -6,7 +6,7 @@ title: Art Bears - Winter Songs (1979) & The World as It Is Today (1981) [FLAC]
 artist: Art Bears
 album: Winter Songs
 spotify_url: https://open.spotify.com/search/Art%20Bears%20Winter%20Songs
-apple_music_url: https://geo.music.apple.com/au/album/_/1585737360?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1585737360
 youtube_url: https://www.youtube.com/results?search_query=Art%20Bears%20Winter%20Songs
 ---
 

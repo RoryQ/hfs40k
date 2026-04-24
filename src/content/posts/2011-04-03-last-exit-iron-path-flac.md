@@ -6,7 +6,7 @@ title: Last Exit - Iron Path [FLAC]
 artist: Last Exit
 album: Iron Path
 spotify_url: https://open.spotify.com/search/Last%20Exit%20Iron%20Path
-apple_music_url: https://music.apple.com/us/search?term=Last%20Exit%20Iron%20Path
+apple_music_url: https://music.apple.com/search?term=Last%20Exit%20Iron%20Path
 youtube_url: https://www.youtube.com/results?search_query=Last%20Exit%20Iron%20Path
 ---
 

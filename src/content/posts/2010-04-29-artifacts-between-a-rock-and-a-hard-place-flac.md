@@ -6,7 +6,7 @@ title: Artifacts - Between a Rock and a Hard Place FLAC
 artist: Artifacts
 album: Between a Rock and a Hard Place FLAC
 spotify_url: https://open.spotify.com/search/Artifacts%20Between%20a%20Rock%20and%20a%20Hard%20Place%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Artifacts%20Between%20a%20Rock%20and%20a%20Hard%20Place%20FLAC
+apple_music_url: https://music.apple.com/search?term=Artifacts%20Between%20a%20Rock%20and%20a%20Hard%20Place%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Artifacts%20Between%20a%20Rock%20and%20a%20Hard%20Place%20FLAC
 ---
 

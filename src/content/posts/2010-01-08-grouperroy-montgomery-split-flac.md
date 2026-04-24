@@ -6,7 +6,7 @@ title: Grouper/Roy Montgomery Split (FLAC)
 artist: Grouper/Roy Montgomery
 album: Split
 spotify_url: https://open.spotify.com/search/Grouper/Roy%20Montgomery%20Split
-apple_music_url: https://geo.music.apple.com/au/album/_/436203371?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/436203371
 youtube_url: https://www.youtube.com/results?search_query=Grouper/Roy%20Montgomery%20Split
 ---
 

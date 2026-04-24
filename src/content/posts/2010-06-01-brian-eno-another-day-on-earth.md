@@ -6,7 +6,7 @@ title: Brian Eno - Another Day On Earth
 artist: Brian Eno
 album: Another Day On Earth
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20Another%20Day%20On%20Earth
-apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20Another%20Day%20On%20Earth
+apple_music_url: https://music.apple.com/search?term=Brian%20Eno%20Another%20Day%20On%20Earth
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Another%20Day%20On%20Earth
 ---
 

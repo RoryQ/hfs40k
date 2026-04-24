@@ -6,7 +6,7 @@ title: Talk Talk - The Colour of Spring (FLAC)
 artist: Talk Talk
 album: The Colour of Spring
 spotify_url: https://open.spotify.com/search/Talk%20Talk%20The%20Colour%20of%20Spring
-apple_music_url: https://music.apple.com/us/search?term=Talk%20Talk%20The%20Colour%20of%20Spring
+apple_music_url: https://music.apple.com/search?term=Talk%20Talk%20The%20Colour%20of%20Spring
 youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20The%20Colour%20of%20Spring
 ---
 

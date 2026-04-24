@@ -6,7 +6,7 @@ title: Captain Beefheart & His Magic Band - Safe as Milk (1967)
 artist: Captain Beefheart & His Magic Band
 album: Safe as Milk
 spotify_url: https://open.spotify.com/search/Captain%20Beefheart%20%26%20His%20Magic%20Band%20Safe%20as%20Milk
-apple_music_url: https://music.apple.com/us/search?term=Captain%20Beefheart%20%26%20His%20Magic%20Band%20Safe%20as%20Milk
+apple_music_url: https://music.apple.com/search?term=Captain%20Beefheart%20%26%20His%20Magic%20Band%20Safe%20as%20Milk
 youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20%26%20His%20Magic%20Band%20Safe%20as%20Milk
 ---
 

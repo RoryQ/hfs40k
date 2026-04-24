@@ -6,7 +6,7 @@ title: Frank Bretschneider - Rhythm [2007/Raster-Noton/320/FLAC]
 artist: Frank Bretschneider
 album: Rhythm
 spotify_url: https://open.spotify.com/search/Frank%20Bretschneider%20Rhythm
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Bretschneider%20Rhythm
+apple_music_url: https://music.apple.com/search?term=Frank%20Bretschneider%20Rhythm
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Bretschneider%20Rhythm
 ---
 

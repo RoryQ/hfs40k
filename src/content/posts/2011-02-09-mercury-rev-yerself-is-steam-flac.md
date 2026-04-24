@@ -6,7 +6,7 @@ title: Mercury Rev - Yerself Is Steam [FLAC]
 artist: Mercury Rev
 album: Yerself Is Steam
 spotify_url: https://open.spotify.com/search/Mercury%20Rev%20Yerself%20Is%20Steam
-apple_music_url: https://music.apple.com/us/search?term=Mercury%20Rev%20Yerself%20Is%20Steam
+apple_music_url: https://music.apple.com/search?term=Mercury%20Rev%20Yerself%20Is%20Steam
 youtube_url: https://www.youtube.com/results?search_query=Mercury%20Rev%20Yerself%20Is%20Steam
 ---
 

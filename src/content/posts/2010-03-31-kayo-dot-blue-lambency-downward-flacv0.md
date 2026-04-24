@@ -6,7 +6,7 @@ title: Kayo Dot - Blue Lambency Downward (FLAC/v0)
 artist: Kayo Dot
 album: Blue Lambency Downward
 spotify_url: https://open.spotify.com/search/Kayo%20Dot%20Blue%20Lambency%20Downward
-apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20Blue%20Lambency%20Downward
+apple_music_url: https://music.apple.com/search?term=Kayo%20Dot%20Blue%20Lambency%20Downward
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Blue%20Lambency%20Downward
 ---
 

@@ -6,7 +6,7 @@ title: Black Tambourine - Complete Recordings [FLAC]
 artist: Black Tambourine
 album: Complete Recordings
 spotify_url: https://open.spotify.com/search/Black%20Tambourine%20Complete%20Recordings
-apple_music_url: https://music.apple.com/us/search?term=Black%20Tambourine%20Complete%20Recordings
+apple_music_url: https://music.apple.com/search?term=Black%20Tambourine%20Complete%20Recordings
 youtube_url: https://www.youtube.com/results?search_query=Black%20Tambourine%20Complete%20Recordings
 ---
 

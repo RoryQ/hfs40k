@@ -6,7 +6,7 @@ title: Red House Painters - Down Colorful Hill (FLAC)
 artist: Red House Painters
 album: Down Colorful Hill
 spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Down%20Colorful%20Hill
-apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Down%20Colorful%20Hill
+apple_music_url: https://music.apple.com/search?term=Red%20House%20Painters%20Down%20Colorful%20Hill
 youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Down%20Colorful%20Hill
 ---
 

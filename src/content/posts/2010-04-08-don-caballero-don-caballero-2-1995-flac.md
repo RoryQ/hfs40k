@@ -6,7 +6,7 @@ title: Don Caballero - Don Caballero 2 (1995) [FLAC]
 artist: Don Caballero
 album: Don Caballero 2
 spotify_url: https://open.spotify.com/search/Don%20Caballero%20Don%20Caballero%202
-apple_music_url: https://music.apple.com/us/search?term=Don%20Caballero%20Don%20Caballero%202
+apple_music_url: https://music.apple.com/search?term=Don%20Caballero%20Don%20Caballero%202
 youtube_url: https://www.youtube.com/results?search_query=Don%20Caballero%20Don%20Caballero%202
 ---
 

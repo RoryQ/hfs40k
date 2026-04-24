@@ -7,7 +7,7 @@ title: Johannes Brahms - Violin Sonatas Nos. 1-3 (Itzhak Perlman - violin; Vladi
 artist: Johannes Brahms
 album: Violin Sonatas Nos. 1-3
 spotify_url: https://open.spotify.com/search/Johannes%20Brahms%20Violin%20Sonatas%20Nos.%201-3
-apple_music_url: https://music.apple.com/us/search?term=Johannes%20Brahms%20Violin%20Sonatas%20Nos.%201-3
+apple_music_url: https://music.apple.com/search?term=Johannes%20Brahms%20Violin%20Sonatas%20Nos.%201-3
 youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Violin%20Sonatas%20Nos.%201-3
 ---
 

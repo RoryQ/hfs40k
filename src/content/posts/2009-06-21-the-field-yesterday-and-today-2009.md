@@ -6,7 +6,7 @@ title: The Field - Yesterday and Today (2009)
 artist: The Field
 album: Yesterday and Today
 spotify_url: https://open.spotify.com/search/The%20Field%20Yesterday%20and%20Today
-apple_music_url: https://music.apple.com/us/search?term=The%20Field%20Yesterday%20and%20Today
+apple_music_url: https://music.apple.com/search?term=The%20Field%20Yesterday%20and%20Today
 youtube_url: https://www.youtube.com/results?search_query=The%20Field%20Yesterday%20and%20Today
 ---
 

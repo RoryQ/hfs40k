@@ -6,7 +6,7 @@ title: Smog - A River Aint Too Much To Love (2005) [FLAC]
 artist: Smog
 album: A River Aint Too Much To Love
 spotify_url: https://open.spotify.com/search/Smog%20A%20River%20Aint%20Too%20Much%20To%20Love
-apple_music_url: https://geo.music.apple.com/au/album/_/57688631?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/57688631
 youtube_url: https://www.youtube.com/results?search_query=Smog%20A%20River%20Aint%20Too%20Much%20To%20Love
 ---
 

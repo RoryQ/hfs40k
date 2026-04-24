@@ -6,7 +6,7 @@ title: Ike Reiko - Kokotsu No Sekai FLAC
 artist: Ike Reiko
 album: Kokotsu No Sekai FLAC
 spotify_url: https://open.spotify.com/search/Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
+apple_music_url: https://music.apple.com/search?term=Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Ike%20Reiko%20Kokotsu%20No%20Sekai%20FLAC
 ---
 

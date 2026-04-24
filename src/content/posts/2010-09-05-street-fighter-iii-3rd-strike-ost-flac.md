@@ -6,7 +6,7 @@ title: 'Street Fighter III: 3rd Strike OST (FLAC)'
 artist: ' Capcom'
 album: 'Street Fighter III: 3rd Strike OST'
 spotify_url: https://open.spotify.com/search/%20Capcom%20Street%20Fighter%20III%3A%203rd%20Strike%20OST
-apple_music_url: https://geo.music.apple.com/au/album/_/1086829691?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1086829691
 youtube_url: https://www.youtube.com/results?search_query=%20Capcom%20Street%20Fighter%20III%3A%203rd%20Strike%20OST
 ---
 

@@ -6,7 +6,7 @@ title: Yo La Tengo - And Then Nothing Turned Itself Inside Out (FLAC)
 artist: Yo La Tengo
 album: And Then Nothing Turned Itself Inside Out
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20And%20Then%20Nothing%20Turned%20Itself%20Inside%20Out
-apple_music_url: https://geo.music.apple.com/au/album/_/1589242414?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1589242414
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20And%20Then%20Nothing%20Turned%20Itself%20Inside%20Out
 ---
 

@@ -6,7 +6,7 @@ title: Corea - Los Peores 7 Km De Mi Vida ( 192 kbps)
 artist: Corea
 album: Los Peores 7 Km De Mi Vida
 spotify_url: https://open.spotify.com/search/Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
-apple_music_url: https://music.apple.com/us/search?term=Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
+apple_music_url: https://music.apple.com/search?term=Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
 youtube_url: https://www.youtube.com/results?search_query=Corea%20Los%20Peores%207%20Km%20De%20Mi%20Vida
 ---
 

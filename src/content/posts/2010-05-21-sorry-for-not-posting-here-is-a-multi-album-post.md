@@ -6,7 +6,7 @@ title: sorry for not posting- here is a multi-album post
 artist: sorry for not posting
 album: here is a multi-album post
 spotify_url: https://open.spotify.com/search/sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
-apple_music_url: https://music.apple.com/us/search?term=sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
+apple_music_url: https://music.apple.com/search?term=sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
 youtube_url: https://www.youtube.com/results?search_query=sorry%20for%20not%20posting%20here%20is%20a%20multi-album%20post
 ---
 

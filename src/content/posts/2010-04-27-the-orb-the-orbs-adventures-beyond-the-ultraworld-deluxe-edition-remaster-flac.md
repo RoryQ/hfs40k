@@ -7,7 +7,7 @@ title: The Orb - The Orb's Adventures Beyond The Ultraworld (Deluxe Edition, Rem
 artist: The Orb
 album: The Orb's Adventures Beyond The Ultraworld
 spotify_url: https://open.spotify.com/search/The%20Orb%20The%20Orb%27s%20Adventures%20Beyond%20The%20Ultraworld
-apple_music_url: https://music.apple.com/us/search?term=The%20Orb%20The%20Orb%27s%20Adventures%20Beyond%20The%20Ultraworld
+apple_music_url: https://music.apple.com/search?term=The%20Orb%20The%20Orb%27s%20Adventures%20Beyond%20The%20Ultraworld
 youtube_url: https://www.youtube.com/results?search_query=The%20Orb%20The%20Orb%27s%20Adventures%20Beyond%20The%20Ultraworld
 ---
 

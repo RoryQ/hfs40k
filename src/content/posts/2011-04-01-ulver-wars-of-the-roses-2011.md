@@ -6,7 +6,7 @@ title: Ulver - Wars of the Roses (2011)
 artist: Ulver
 album: Wars of the Roses
 spotify_url: https://open.spotify.com/search/Ulver%20Wars%20of%20the%20Roses
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20Wars%20of%20the%20Roses
+apple_music_url: https://music.apple.com/search?term=Ulver%20Wars%20of%20the%20Roses
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20Wars%20of%20the%20Roses
 ---
 

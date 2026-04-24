@@ -6,7 +6,7 @@ title: 'William Parker - The Inside Songs of Curtis Mayfield: Live in Rome'
 artist: William Parker
 album: 'The Inside Songs of Curtis Mayfield: Live in Rome'
 spotify_url: https://open.spotify.com/search/William%20Parker%20The%20Inside%20Songs%20of%20Curtis%20Mayfield%3A%20Live%20in%20Rome
-apple_music_url: https://music.apple.com/us/search?term=William%20Parker%20The%20Inside%20Songs%20of%20Curtis%20Mayfield%3A%20Live%20in%20Rome
+apple_music_url: https://music.apple.com/search?term=William%20Parker%20The%20Inside%20Songs%20of%20Curtis%20Mayfield%3A%20Live%20in%20Rome
 youtube_url: https://www.youtube.com/results?search_query=William%20Parker%20The%20Inside%20Songs%20of%20Curtis%20Mayfield%3A%20Live%20in%20Rome
 ---
 

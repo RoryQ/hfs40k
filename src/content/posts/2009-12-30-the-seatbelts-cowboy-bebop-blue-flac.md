@@ -6,7 +6,7 @@ title: 'The Seatbelts - Cowboy Bebop: BLUE (FLAC)'
 artist: The Seatbelts
 album: 'Cowboy Bebop: BLUE'
 spotify_url: https://open.spotify.com/search/The%20Seatbelts%20Cowboy%20Bebop%3A%20BLUE
-apple_music_url: https://music.apple.com/us/search?term=The%20Seatbelts%20Cowboy%20Bebop%3A%20BLUE
+apple_music_url: https://music.apple.com/search?term=The%20Seatbelts%20Cowboy%20Bebop%3A%20BLUE
 youtube_url: https://www.youtube.com/results?search_query=The%20Seatbelts%20Cowboy%20Bebop%3A%20BLUE
 ---
 

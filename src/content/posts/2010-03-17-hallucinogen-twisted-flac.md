@@ -6,7 +6,7 @@ title: Hallucinogen - Twisted FLAC
 artist: Hallucinogen
 album: Twisted FLAC
 spotify_url: https://open.spotify.com/search/Hallucinogen%20Twisted%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Hallucinogen%20Twisted%20FLAC
+apple_music_url: https://music.apple.com/search?term=Hallucinogen%20Twisted%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Hallucinogen%20Twisted%20FLAC
 ---
 

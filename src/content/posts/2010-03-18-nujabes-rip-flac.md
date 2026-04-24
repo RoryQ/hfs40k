@@ -6,7 +6,7 @@ title: Nujabes (R.I.P) FLAC
 artist: Nujabes
 album: Modal Soul
 spotify_url: https://open.spotify.com/search/Nujabes%20Modal%20Soul
-apple_music_url: https://music.apple.com/us/search?term=Nujabes%20Modal%20Soul
+apple_music_url: https://music.apple.com/search?term=Nujabes%20Modal%20Soul
 youtube_url: https://www.youtube.com/results?search_query=Nujabes%20Modal%20Soul
 ---
 

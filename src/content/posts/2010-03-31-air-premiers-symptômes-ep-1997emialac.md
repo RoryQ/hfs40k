@@ -6,7 +6,7 @@ title: "AIR - Premiers Sympt\xF4mes EP [1997/EMI/ALAC]"
 artist: AIR
 album: "Premiers Sympt\xF4mes EP"
 spotify_url: https://open.spotify.com/search/AIR%20Premiers%20Sympt%C3%B4mes%20EP
-apple_music_url: https://music.apple.com/us/search?term=AIR%20Premiers%20Sympt%C3%B4mes%20EP
+apple_music_url: https://music.apple.com/search?term=AIR%20Premiers%20Sympt%C3%B4mes%20EP
 youtube_url: https://www.youtube.com/results?search_query=AIR%20Premiers%20Sympt%C3%B4mes%20EP
 ---
 

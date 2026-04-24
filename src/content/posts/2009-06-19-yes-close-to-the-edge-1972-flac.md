@@ -6,7 +6,7 @@ title: Yes - Close to the Edge (1972) [FLAC]
 artist: 'Yes'
 album: Close to the Edge
 spotify_url: https://open.spotify.com/search/Yes%20Close%20to%20the%20Edge
-apple_music_url: https://music.apple.com/us/search?term=Yes%20Close%20to%20the%20Edge
+apple_music_url: https://music.apple.com/search?term=Yes%20Close%20to%20the%20Edge
 youtube_url: https://www.youtube.com/results?search_query=Yes%20Close%20to%20the%20Edge
 ---
 

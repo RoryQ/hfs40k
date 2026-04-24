@@ -6,7 +6,7 @@ title: Curtis Mayfield - Curtis (FLAC)
 artist: Curtis Mayfield
 album: Curtis
 spotify_url: https://open.spotify.com/search/Curtis%20Mayfield%20Curtis
-apple_music_url: https://geo.music.apple.com/au/album/_/29168201?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/29168201
 youtube_url: https://www.youtube.com/results?search_query=Curtis%20Mayfield%20Curtis
 ---
 

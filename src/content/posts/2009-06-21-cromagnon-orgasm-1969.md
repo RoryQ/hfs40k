@@ -6,7 +6,7 @@ title: Cromagnon - Orgasm (1969)
 artist: Cromagnon
 album: Orgasm
 spotify_url: https://open.spotify.com/search/Cromagnon%20Orgasm
-apple_music_url: https://music.apple.com/us/search?term=Cromagnon%20Orgasm
+apple_music_url: https://music.apple.com/search?term=Cromagnon%20Orgasm
 youtube_url: https://www.youtube.com/results?search_query=Cromagnon%20Orgasm
 ---
 

@@ -7,7 +7,7 @@ title: Antonio Vivaldi - The Four Seasons (Performed by Roland Roberts with City
 artist: Antonio Vivaldi
 album: The Four Seasons
 spotify_url: https://open.spotify.com/search/Antonio%20Vivaldi%20The%20Four%20Seasons
-apple_music_url: https://music.apple.com/us/search?term=Antonio%20Vivaldi%20The%20Four%20Seasons
+apple_music_url: https://music.apple.com/search?term=Antonio%20Vivaldi%20The%20Four%20Seasons
 youtube_url: https://www.youtube.com/results?search_query=Antonio%20Vivaldi%20The%20Four%20Seasons
 ---
 

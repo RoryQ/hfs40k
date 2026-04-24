@@ -6,7 +6,7 @@ title: Silver Apples - Silver Apples (FLAC)
 artist: Silver Apples
 album: Silver Apples
 spotify_url: https://open.spotify.com/search/Silver%20Apples%20Silver%20Apples
-apple_music_url: https://music.apple.com/us/search?term=Silver%20Apples%20Silver%20Apples
+apple_music_url: https://music.apple.com/search?term=Silver%20Apples%20Silver%20Apples
 youtube_url: https://www.youtube.com/results?search_query=Silver%20Apples%20Silver%20Apples
 ---
 

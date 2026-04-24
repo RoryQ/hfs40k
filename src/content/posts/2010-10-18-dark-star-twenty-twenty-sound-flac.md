@@ -6,7 +6,7 @@ title: Dark Star - Twenty Twenty Sound (FLAC)
 artist: Dark Star
 album: Twenty Twenty Sound
 spotify_url: https://open.spotify.com/search/Dark%20Star%20Twenty%20Twenty%20Sound
-apple_music_url: https://geo.music.apple.com/au/album/_/1386790541?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1386790541
 youtube_url: https://www.youtube.com/results?search_query=Dark%20Star%20Twenty%20Twenty%20Sound
 ---
 

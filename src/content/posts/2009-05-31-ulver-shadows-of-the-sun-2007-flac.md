@@ -6,7 +6,7 @@ title: Ulver - Shadows of the Sun (2007) [FLAC]
 artist: Ulver
 album: Shadows of the Sun
 spotify_url: https://open.spotify.com/search/Ulver%20Shadows%20of%20the%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20Shadows%20of%20the%20Sun
+apple_music_url: https://music.apple.com/search?term=Ulver%20Shadows%20of%20the%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20Shadows%20of%20the%20Sun
 ---
 

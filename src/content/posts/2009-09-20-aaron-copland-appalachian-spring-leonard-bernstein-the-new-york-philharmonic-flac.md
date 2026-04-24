@@ -7,7 +7,7 @@ title: Aaron Copland - Appalachian Spring (Leonard Bernstein & the New York Phil
 artist: Aaron Copland
 album: Appalachian Spring
 spotify_url: https://open.spotify.com/search/Aaron%20Copland%20Appalachian%20Spring
-apple_music_url: https://music.apple.com/us/search?term=Aaron%20Copland%20Appalachian%20Spring
+apple_music_url: https://music.apple.com/search?term=Aaron%20Copland%20Appalachian%20Spring
 youtube_url: https://www.youtube.com/results?search_query=Aaron%20Copland%20Appalachian%20Spring
 ---
 

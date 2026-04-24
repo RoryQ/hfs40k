@@ -6,7 +6,7 @@ title: Sunn O))) - Monoliths & Dimensions (2009) [FLAC]
 artist: Sunn O)))
 album: Monoliths & Dimensions
 spotify_url: https://open.spotify.com/search/Sunn%20O%29%29%29%20Monoliths%20%26%20Dimensions
-apple_music_url: https://geo.music.apple.com/au/album/_/455041700?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/455041700
 youtube_url: https://www.youtube.com/results?search_query=Sunn%20O%29%29%29%20Monoliths%20%26%20Dimensions
 ---
 

@@ -6,7 +6,7 @@ title: Joanna Newsom - Walnut Whales EP (FLAC)
 artist: Joanna Newsom
 album: Walnut Whales EP
 spotify_url: https://open.spotify.com/search/Joanna%20Newsom%20Walnut%20Whales%20EP
-apple_music_url: https://music.apple.com/us/search?term=Joanna%20Newsom%20Walnut%20Whales%20EP
+apple_music_url: https://music.apple.com/search?term=Joanna%20Newsom%20Walnut%20Whales%20EP
 youtube_url: https://www.youtube.com/results?search_query=Joanna%20Newsom%20Walnut%20Whales%20EP
 ---
 

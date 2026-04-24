@@ -6,7 +6,7 @@ title: "Tomasz Sta\u0144ko - Music for K (FLAC/v0)"
 artist: "Tomasz Sta\u0144ko"
 album: Music for K
 spotify_url: https://open.spotify.com/search/Tomasz%20Sta%C5%84ko%20Music%20for%20K
-apple_music_url: https://geo.music.apple.com/au/album/_/1439335884?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1439335884
 youtube_url: https://www.youtube.com/results?search_query=Tomasz%20Sta%C5%84ko%20Music%20for%20K
 ---
 

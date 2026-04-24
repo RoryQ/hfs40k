@@ -6,7 +6,7 @@ title: Luciano Cilio - Dell'Universo Assente (FLAC)
 artist: Luciano Cilio
 album: Dell'Universo Assente
 spotify_url: https://open.spotify.com/search/Luciano%20Cilio%20Dell%27Universo%20Assente
-apple_music_url: https://music.apple.com/us/search?term=Luciano%20Cilio%20Dell%27Universo%20Assente
+apple_music_url: https://music.apple.com/search?term=Luciano%20Cilio%20Dell%27Universo%20Assente
 youtube_url: https://www.youtube.com/results?search_query=Luciano%20Cilio%20Dell%27Universo%20Assente
 ---
 

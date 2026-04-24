@@ -6,7 +6,7 @@ title: 'E. Power Biggs - Bach: Organ Works (FLAC)'
 artist: E. Power Biggs
 album: 'Bach: Organ Works'
 spotify_url: https://open.spotify.com/search/E.%20Power%20Biggs%20Bach%3A%20Organ%20Works
-apple_music_url: https://music.apple.com/us/search?term=E.%20Power%20Biggs%20Bach%3A%20Organ%20Works
+apple_music_url: https://music.apple.com/search?term=E.%20Power%20Biggs%20Bach%3A%20Organ%20Works
 youtube_url: https://www.youtube.com/results?search_query=E.%20Power%20Biggs%20Bach%3A%20Organ%20Works
 ---
 

@@ -6,7 +6,7 @@ title: M83 - Before The Dawn Heals Us [FLAC]
 artist: M83
 album: Before The Dawn Heals Us
 spotify_url: https://open.spotify.com/search/M83%20Before%20The%20Dawn%20Heals%20Us
-apple_music_url: https://music.apple.com/us/search?term=M83%20Before%20The%20Dawn%20Heals%20Us
+apple_music_url: https://music.apple.com/search?term=M83%20Before%20The%20Dawn%20Heals%20Us
 youtube_url: https://www.youtube.com/results?search_query=M83%20Before%20The%20Dawn%20Heals%20Us
 ---
 

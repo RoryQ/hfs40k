@@ -6,7 +6,7 @@ title: Albert Ayler - Spiritual Unity (FLAC)
 artist: Albert Ayler
 album: Spiritual Unity
 spotify_url: https://open.spotify.com/search/Albert%20Ayler%20Spiritual%20Unity
-apple_music_url: https://music.apple.com/us/search?term=Albert%20Ayler%20Spiritual%20Unity
+apple_music_url: https://music.apple.com/search?term=Albert%20Ayler%20Spiritual%20Unity
 youtube_url: https://www.youtube.com/results?search_query=Albert%20Ayler%20Spiritual%20Unity
 ---
 

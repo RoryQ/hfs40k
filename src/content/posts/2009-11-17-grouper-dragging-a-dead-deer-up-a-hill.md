@@ -6,7 +6,7 @@ title: Grouper - Dragging A Dead Deer Up A Hill
 artist: Grouper
 album: Dragging A Dead Deer Up A Hill
 spotify_url: https://open.spotify.com/search/Grouper%20Dragging%20A%20Dead%20Deer%20Up%20A%20Hill
-apple_music_url: https://music.apple.com/us/search?term=Grouper%20Dragging%20A%20Dead%20Deer%20Up%20A%20Hill
+apple_music_url: https://music.apple.com/search?term=Grouper%20Dragging%20A%20Dead%20Deer%20Up%20A%20Hill
 youtube_url: https://www.youtube.com/results?search_query=Grouper%20Dragging%20A%20Dead%20Deer%20Up%20A%20Hill
 ---
 

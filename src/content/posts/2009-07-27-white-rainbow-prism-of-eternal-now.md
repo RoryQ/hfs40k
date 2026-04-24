@@ -6,7 +6,7 @@ title: White Rainbow - Prism of Eternal Now
 artist: White Rainbow
 album: Prism of Eternal Now
 spotify_url: https://open.spotify.com/search/White%20Rainbow%20Prism%20of%20Eternal%20Now
-apple_music_url: https://music.apple.com/us/search?term=White%20Rainbow%20Prism%20of%20Eternal%20Now
+apple_music_url: https://music.apple.com/search?term=White%20Rainbow%20Prism%20of%20Eternal%20Now
 youtube_url: https://www.youtube.com/results?search_query=White%20Rainbow%20Prism%20of%20Eternal%20Now
 ---
 

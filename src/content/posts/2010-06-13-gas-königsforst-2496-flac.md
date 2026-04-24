@@ -6,7 +6,7 @@ title: "Gas - K\xF6nigsforst (24/96 FLAC)"
 artist: Gas
 album: "K\xF6nigsforst"
 spotify_url: https://open.spotify.com/search/Gas%20K%C3%B6nigsforst
-apple_music_url: https://geo.music.apple.com/au/album/_/1208640408?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1208640408
 youtube_url: https://www.youtube.com/results?search_query=Gas%20K%C3%B6nigsforst
 ---
 

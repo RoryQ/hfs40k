@@ -6,7 +6,7 @@ title: Loscil - Endless Falls [2010/FLAC]
 artist: Loscil
 album: Endless Falls
 spotify_url: https://open.spotify.com/search/Loscil%20Endless%20Falls
-apple_music_url: https://music.apple.com/us/search?term=Loscil%20Endless%20Falls
+apple_music_url: https://music.apple.com/search?term=Loscil%20Endless%20Falls
 youtube_url: https://www.youtube.com/results?search_query=Loscil%20Endless%20Falls
 ---
 

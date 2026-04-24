@@ -6,7 +6,7 @@ title: The Angelic Process - Weighing Souls With Sand (FLAC)
 artist: The Angelic Process
 album: Weighing Souls With Sand
 spotify_url: https://open.spotify.com/search/The%20Angelic%20Process%20Weighing%20Souls%20With%20Sand
-apple_music_url: https://music.apple.com/us/search?term=The%20Angelic%20Process%20Weighing%20Souls%20With%20Sand
+apple_music_url: https://music.apple.com/search?term=The%20Angelic%20Process%20Weighing%20Souls%20With%20Sand
 youtube_url: https://www.youtube.com/results?search_query=The%20Angelic%20Process%20Weighing%20Souls%20With%20Sand
 ---
 

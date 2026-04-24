@@ -7,7 +7,7 @@ title: 'The Dear Hunter - Act II: The Meaning of, and All Things Regarding Ms. L
 artist: The Dear Hunter
 album: 'Act II: The Meaning of, and All Things Regarding Ms. Leading'
 spotify_url: https://open.spotify.com/search/The%20Dear%20Hunter%20Act%20II%3A%20The%20Meaning%20of%2C%20and%20All%20Things%20Regarding%20Ms.%20Leading
-apple_music_url: https://geo.music.apple.com/au/album/_/1278455549?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1278455549
 youtube_url: https://www.youtube.com/results?search_query=The%20Dear%20Hunter%20Act%20II%3A%20The%20Meaning%20of%2C%20and%20All%20Things%20Regarding%20Ms.%20Leading
 ---
 

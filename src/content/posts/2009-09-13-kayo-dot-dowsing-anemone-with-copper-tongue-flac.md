@@ -6,7 +6,7 @@ title: Kayo Dot - Dowsing Anemone With Copper Tongue [FLAC]
 artist: Kayo Dot
 album: Dowsing Anemone With Copper Tongue
 spotify_url: https://open.spotify.com/search/Kayo%20Dot%20Dowsing%20Anemone%20With%20Copper%20Tongue
-apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20Dowsing%20Anemone%20With%20Copper%20Tongue
+apple_music_url: https://music.apple.com/search?term=Kayo%20Dot%20Dowsing%20Anemone%20With%20Copper%20Tongue
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Dowsing%20Anemone%20With%20Copper%20Tongue
 ---
 

@@ -7,7 +7,7 @@ title: "James Brown \u2013 Live At The Apollo (Mobile Fidelity Sound Lab Remaste
 artist: James Brown
 album: Live At The Apollo
 spotify_url: https://open.spotify.com/search/James%20Brown%20Live%20At%20The%20Apollo
-apple_music_url: https://music.apple.com/us/search?term=James%20Brown%20Live%20At%20The%20Apollo
+apple_music_url: https://music.apple.com/search?term=James%20Brown%20Live%20At%20The%20Apollo
 youtube_url: https://www.youtube.com/results?search_query=James%20Brown%20Live%20At%20The%20Apollo
 ---
 

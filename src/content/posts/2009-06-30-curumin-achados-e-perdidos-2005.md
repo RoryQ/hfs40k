@@ -6,7 +6,7 @@ title: Curumin - Achados e Perdidos (2005)
 artist: Curumin
 album: Achados e Perdidos
 spotify_url: https://open.spotify.com/search/Curumin%20Achados%20e%20Perdidos
-apple_music_url: https://music.apple.com/us/search?term=Curumin%20Achados%20e%20Perdidos
+apple_music_url: https://music.apple.com/search?term=Curumin%20Achados%20e%20Perdidos
 youtube_url: https://www.youtube.com/results?search_query=Curumin%20Achados%20e%20Perdidos
 ---
 

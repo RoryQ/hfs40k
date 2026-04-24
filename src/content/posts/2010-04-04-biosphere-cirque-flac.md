@@ -6,7 +6,7 @@ title: Biosphere - Cirque FLAC
 artist: Biosphere
 album: Cirque FLAC
 spotify_url: https://open.spotify.com/search/Biosphere%20Cirque%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Biosphere%20Cirque%20FLAC
+apple_music_url: https://music.apple.com/search?term=Biosphere%20Cirque%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Cirque%20FLAC
 ---
 

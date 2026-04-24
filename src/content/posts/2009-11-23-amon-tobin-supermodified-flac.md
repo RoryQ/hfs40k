@@ -6,7 +6,7 @@ title: Amon Tobin - Supermodified (FLAC)
 artist: Amon Tobin
 album: Supermodified
 spotify_url: https://open.spotify.com/search/Amon%20Tobin%20Supermodified
-apple_music_url: https://music.apple.com/us/search?term=Amon%20Tobin%20Supermodified
+apple_music_url: https://music.apple.com/search?term=Amon%20Tobin%20Supermodified
 youtube_url: https://www.youtube.com/results?search_query=Amon%20Tobin%20Supermodified
 ---
 

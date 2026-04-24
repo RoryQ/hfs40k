@@ -6,7 +6,7 @@ title: Hallucinogen - In Dub FLAC
 artist: Hallucinogen
 album: In Dub FLAC
 spotify_url: https://open.spotify.com/search/Hallucinogen%20In%20Dub%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Hallucinogen%20In%20Dub%20FLAC
+apple_music_url: https://music.apple.com/search?term=Hallucinogen%20In%20Dub%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Hallucinogen%20In%20Dub%20FLAC
 ---
 

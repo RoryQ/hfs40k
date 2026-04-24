@@ -6,7 +6,7 @@ title: The Sound - From The Lion's Mouth (FLAC)
 artist: The Sound
 album: From The Lion's Mouth
 spotify_url: https://open.spotify.com/search/The%20Sound%20From%20The%20Lion%27s%20Mouth
-apple_music_url: https://music.apple.com/us/search?term=The%20Sound%20From%20The%20Lion%27s%20Mouth
+apple_music_url: https://music.apple.com/search?term=The%20Sound%20From%20The%20Lion%27s%20Mouth
 youtube_url: https://www.youtube.com/results?search_query=The%20Sound%20From%20The%20Lion%27s%20Mouth
 ---
 

@@ -6,7 +6,7 @@ title: Miasma & the Carousel of Headless Horses - Perils (2005)
 artist: Miasma & the Carousel of Headless Horses
 album: Perils
 spotify_url: https://open.spotify.com/search/Miasma%20%26%20the%20Carousel%20of%20Headless%20Horses%20Perils
-apple_music_url: https://music.apple.com/us/search?term=Miasma%20%26%20the%20Carousel%20of%20Headless%20Horses%20Perils
+apple_music_url: https://music.apple.com/search?term=Miasma%20%26%20the%20Carousel%20of%20Headless%20Horses%20Perils
 youtube_url: https://www.youtube.com/results?search_query=Miasma%20%26%20the%20Carousel%20of%20Headless%20Horses%20Perils
 ---
 

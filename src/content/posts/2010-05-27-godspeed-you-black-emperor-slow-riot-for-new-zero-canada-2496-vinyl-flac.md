@@ -6,7 +6,7 @@ title: 'Godspeed You! Black Emperor: Slow Riot for New Zero Canada (24/96 vinyl 
 artist: Godspeed You! Black Emperor
 album: Slow Riot for New Zero Canada
 spotify_url: https://open.spotify.com/search/Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zero%20Canada
-apple_music_url: https://music.apple.com/us/search?term=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zero%20Canada
+apple_music_url: https://music.apple.com/search?term=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zero%20Canada
 youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zero%20Canada
 ---
 

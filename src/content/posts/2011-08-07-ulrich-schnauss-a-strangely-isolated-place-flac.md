@@ -6,7 +6,7 @@ title: Ulrich Schnauss - A Strangely Isolated Place (FLAC)
 artist: Ulrich Schnauss
 album: A Strangely Isolated Place
 spotify_url: https://open.spotify.com/search/Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
-apple_music_url: https://music.apple.com/us/search?term=Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
+apple_music_url: https://music.apple.com/search?term=Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
 youtube_url: https://www.youtube.com/results?search_query=Ulrich%20Schnauss%20A%20Strangely%20Isolated%20Place
 ---
 

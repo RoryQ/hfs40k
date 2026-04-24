@@ -6,7 +6,7 @@ title: Gentle Giant - Free Hand (FLAC)
 artist: Gentle Giant
 album: Free Hand
 spotify_url: https://open.spotify.com/search/Gentle%20Giant%20Free%20Hand
-apple_music_url: https://music.apple.com/us/search?term=Gentle%20Giant%20Free%20Hand
+apple_music_url: https://music.apple.com/search?term=Gentle%20Giant%20Free%20Hand
 youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Free%20Hand
 ---
 

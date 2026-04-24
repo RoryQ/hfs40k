@@ -6,7 +6,7 @@ title: Refused - The Shape Of Punk To Come (5.1 Surround Sound)
 artist: Refused
 album: The Shape Of Punk To Come
 spotify_url: https://open.spotify.com/search/Refused%20The%20Shape%20Of%20Punk%20To%20Come
-apple_music_url: https://music.apple.com/us/search?term=Refused%20The%20Shape%20Of%20Punk%20To%20Come
+apple_music_url: https://music.apple.com/search?term=Refused%20The%20Shape%20Of%20Punk%20To%20Come
 youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%20Of%20Punk%20To%20Come
 ---
 

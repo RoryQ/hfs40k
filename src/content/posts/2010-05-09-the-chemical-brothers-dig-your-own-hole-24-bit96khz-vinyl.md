@@ -6,7 +6,7 @@ title: The Chemical Brothers - Dig Your Own Hole (24-bit/96khz Vinyl)
 artist: The Chemical Brothers
 album: Dig Your Own Hole
 spotify_url: https://open.spotify.com/search/The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole
-apple_music_url: https://geo.music.apple.com/au/album/_/714366008?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/714366008
 youtube_url: https://www.youtube.com/results?search_query=The%20Chemical%20Brothers%20Dig%20Your%20Own%20Hole
 ---
 

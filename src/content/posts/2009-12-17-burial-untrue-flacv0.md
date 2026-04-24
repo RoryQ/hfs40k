@@ -6,7 +6,7 @@ title: Burial - Untrue (FLAC/v0)
 artist: Burial
 album: Untrue
 spotify_url: https://open.spotify.com/search/Burial%20Untrue
-apple_music_url: https://music.apple.com/us/search?term=Burial%20Untrue
+apple_music_url: https://music.apple.com/search?term=Burial%20Untrue
 youtube_url: https://www.youtube.com/results?search_query=Burial%20Untrue
 ---
 

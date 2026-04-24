@@ -6,7 +6,7 @@ title: Nico - The Marble Index [FLAC]
 artist: Nico
 album: The Marble Index
 spotify_url: https://open.spotify.com/search/Nico%20The%20Marble%20Index
-apple_music_url: https://music.apple.com/us/search?term=Nico%20The%20Marble%20Index
+apple_music_url: https://music.apple.com/search?term=Nico%20The%20Marble%20Index
 youtube_url: https://www.youtube.com/results?search_query=Nico%20The%20Marble%20Index
 ---
 

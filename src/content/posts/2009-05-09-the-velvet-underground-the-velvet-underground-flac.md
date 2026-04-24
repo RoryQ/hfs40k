@@ -6,7 +6,7 @@ title: The Velvet Underground - The Velvet Underground (FLAC)
 artist: The Velvet Underground
 album: The Velvet Underground
 spotify_url: https://open.spotify.com/search/The%20Velvet%20Underground%20The%20Velvet%20Underground
-apple_music_url: https://music.apple.com/us/search?term=The%20Velvet%20Underground%20The%20Velvet%20Underground
+apple_music_url: https://music.apple.com/search?term=The%20Velvet%20Underground%20The%20Velvet%20Underground
 youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Underground%20The%20Velvet%20Underground
 ---
 

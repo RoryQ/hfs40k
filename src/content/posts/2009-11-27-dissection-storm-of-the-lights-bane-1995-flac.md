@@ -6,7 +6,7 @@ title: Dissection - Storm of the Light's Bane (1995) [FLAC]
 artist: Dissection
 album: Storm of the Light's Bane
 spotify_url: https://open.spotify.com/search/Dissection%20Storm%20of%20the%20Light%27s%20Bane
-apple_music_url: https://music.apple.com/us/search?term=Dissection%20Storm%20of%20the%20Light%27s%20Bane
+apple_music_url: https://music.apple.com/search?term=Dissection%20Storm%20of%20the%20Light%27s%20Bane
 youtube_url: https://www.youtube.com/results?search_query=Dissection%20Storm%20of%20the%20Light%27s%20Bane
 ---
 

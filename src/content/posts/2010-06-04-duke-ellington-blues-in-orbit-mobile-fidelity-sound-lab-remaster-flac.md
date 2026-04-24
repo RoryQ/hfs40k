@@ -6,7 +6,7 @@ title: Duke Ellington - Blues In Orbit (Mobile Fidelity Sound Lab Remaster FLAC)
 artist: Duke Ellington
 album: Blues In Orbit
 spotify_url: https://open.spotify.com/search/Duke%20Ellington%20Blues%20In%20Orbit
-apple_music_url: https://geo.music.apple.com/au/album/_/206286549?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/206286549
 youtube_url: https://www.youtube.com/results?search_query=Duke%20Ellington%20Blues%20In%20Orbit
 ---
 

@@ -6,7 +6,7 @@ title: Ulver - Perdition City (FLAC)
 artist: Ulver
 album: Perdition City
 spotify_url: https://open.spotify.com/search/Ulver%20Perdition%20City
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20Perdition%20City
+apple_music_url: https://music.apple.com/search?term=Ulver%20Perdition%20City
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20Perdition%20City
 ---
 

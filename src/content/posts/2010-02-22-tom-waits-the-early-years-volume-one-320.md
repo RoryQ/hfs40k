@@ -6,7 +6,7 @@ title: Tom Waits - The Early Years Volume One [320]
 artist: Tom Waits
 album: The Early Years Volume One
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20The%20Early%20Years%20Volume%20One
-apple_music_url: https://geo.music.apple.com/au/album/_/42263629?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/42263629
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20The%20Early%20Years%20Volume%20One
 ---
 

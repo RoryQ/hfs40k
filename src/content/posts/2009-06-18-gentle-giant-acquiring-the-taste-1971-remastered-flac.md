@@ -6,7 +6,7 @@ title: Gentle Giant - Acquiring The Taste (1971) [Remastered FLAC]
 artist: Gentle Giant
 album: Acquiring The Taste
 spotify_url: https://open.spotify.com/search/Gentle%20Giant%20Acquiring%20The%20Taste
-apple_music_url: https://music.apple.com/us/search?term=Gentle%20Giant%20Acquiring%20The%20Taste
+apple_music_url: https://music.apple.com/search?term=Gentle%20Giant%20Acquiring%20The%20Taste
 youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20Acquiring%20The%20Taste
 ---
 

@@ -6,7 +6,7 @@ title: Yndi Halda - Enjoy Eternal Bliss (FLAC)
 artist: Yndi Halda
 album: Enjoy Eternal Bliss
 spotify_url: https://open.spotify.com/search/Yndi%20Halda%20Enjoy%20Eternal%20Bliss
-apple_music_url: https://music.apple.com/us/search?term=Yndi%20Halda%20Enjoy%20Eternal%20Bliss
+apple_music_url: https://music.apple.com/search?term=Yndi%20Halda%20Enjoy%20Eternal%20Bliss
 youtube_url: https://www.youtube.com/results?search_query=Yndi%20Halda%20Enjoy%20Eternal%20Bliss
 ---
 

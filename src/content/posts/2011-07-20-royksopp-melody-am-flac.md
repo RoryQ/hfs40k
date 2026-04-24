@@ -6,7 +6,7 @@ title: "Ro\u0308yksopp - Melody A.M. (FLAC)"
 artist: "Ro\u0308yksopp"
 album: Melody A.M.
 spotify_url: https://open.spotify.com/search/Ro%CC%88yksopp%20Melody%20A.M.
-apple_music_url: https://geo.music.apple.com/au/album/_/1049806381?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1049806381
 youtube_url: https://www.youtube.com/results?search_query=Ro%CC%88yksopp%20Melody%20A.M.
 ---
 

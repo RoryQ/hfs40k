@@ -6,7 +6,7 @@ title: 'Bonnie ''Prince'' Billy: I See a Darkness (FLAC)'
 artist: Bonnie 'Prince' Billy
 album: I See a Darkness
 spotify_url: https://open.spotify.com/search/Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
-apple_music_url: https://music.apple.com/us/search?term=Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
+apple_music_url: https://music.apple.com/search?term=Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
 youtube_url: https://www.youtube.com/results?search_query=Bonnie%20%27Prince%27%20Billy%20I%20See%20a%20Darkness
 ---
 

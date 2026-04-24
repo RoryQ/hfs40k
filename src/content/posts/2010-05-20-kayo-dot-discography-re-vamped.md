@@ -6,7 +6,7 @@ title: Kayo Dot discography (re-vamped)
 artist: Kayo Dot discography (re
 album: vamped)
 spotify_url: https://open.spotify.com/search/Kayo%20Dot%20discography%20%28re%20vamped%29
-apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20discography%20%28re%20vamped%29
+apple_music_url: https://music.apple.com/search?term=Kayo%20Dot%20discography%20%28re%20vamped%29
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20discography%20%28re%20vamped%29
 ---
 

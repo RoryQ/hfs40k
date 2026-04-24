@@ -6,7 +6,7 @@ title: Ochre - Like Dust of the Balance (2009)
 artist: Ochre
 album: Like Dust of the Balance
 spotify_url: https://open.spotify.com/search/Ochre%20Like%20Dust%20of%20the%20Balance
-apple_music_url: https://music.apple.com/us/search?term=Ochre%20Like%20Dust%20of%20the%20Balance
+apple_music_url: https://music.apple.com/search?term=Ochre%20Like%20Dust%20of%20the%20Balance
 youtube_url: https://www.youtube.com/results?search_query=Ochre%20Like%20Dust%20of%20the%20Balance
 ---
 

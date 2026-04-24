@@ -6,7 +6,7 @@ title: Between the Buried and Me - Alaska (FLAC)
 artist: Between the Buried and Me
 album: Alaska
 spotify_url: https://open.spotify.com/search/Between%20the%20Buried%20and%20Me%20Alaska
-apple_music_url: https://geo.music.apple.com/au/album/_/1525468212?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1525468212
 youtube_url: https://www.youtube.com/results?search_query=Between%20the%20Buried%20and%20Me%20Alaska
 ---
 

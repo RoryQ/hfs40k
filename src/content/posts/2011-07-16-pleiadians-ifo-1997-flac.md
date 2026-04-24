@@ -6,7 +6,7 @@ title: Pleiadians - I.F.O. (1997, FLAC)
 artist: Pleiadians
 album: I.F.O.
 spotify_url: https://open.spotify.com/search/Pleiadians%20I.F.O.
-apple_music_url: https://music.apple.com/us/search?term=Pleiadians%20I.F.O.
+apple_music_url: https://music.apple.com/search?term=Pleiadians%20I.F.O.
 youtube_url: https://www.youtube.com/results?search_query=Pleiadians%20I.F.O.
 ---
 

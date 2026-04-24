@@ -6,7 +6,7 @@ title: Boards Of Canada - Geogaddi (Vinyl Rip 24bit-96kHz)
 artist: Boards Of Canada
 album: Geogaddi
 spotify_url: https://open.spotify.com/search/Boards%20Of%20Canada%20Geogaddi
-apple_music_url: https://music.apple.com/us/search?term=Boards%20Of%20Canada%20Geogaddi
+apple_music_url: https://music.apple.com/search?term=Boards%20Of%20Canada%20Geogaddi
 youtube_url: https://www.youtube.com/results?search_query=Boards%20Of%20Canada%20Geogaddi
 ---
 

@@ -6,7 +6,7 @@ title: Vampire Rodents - Premonition
 artist: Vampire Rodents
 album: Premonition
 spotify_url: https://open.spotify.com/search/Vampire%20Rodents%20Premonition
-apple_music_url: https://music.apple.com/us/search?term=Vampire%20Rodents%20Premonition
+apple_music_url: https://music.apple.com/search?term=Vampire%20Rodents%20Premonition
 youtube_url: https://www.youtube.com/results?search_query=Vampire%20Rodents%20Premonition
 ---
 

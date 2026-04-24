@@ -6,7 +6,7 @@ title: 'Songs: Ohia - Songs: Ohia'
 artist: 'Songs: Ohia'
 album: 'Songs: Ohia'
 spotify_url: https://open.spotify.com/search/Songs%3A%20Ohia%20Songs%3A%20Ohia
-apple_music_url: https://music.apple.com/us/search?term=Songs%3A%20Ohia%20Songs%3A%20Ohia
+apple_music_url: https://music.apple.com/search?term=Songs%3A%20Ohia%20Songs%3A%20Ohia
 youtube_url: https://www.youtube.com/results?search_query=Songs%3A%20Ohia%20Songs%3A%20Ohia
 ---
 

@@ -6,7 +6,7 @@ title: 'The House of Love - 1986-88: The Creation Recordings [FLAC]'
 artist: The House of Love
 album: '1986-88: The Creation Recordings'
 spotify_url: https://open.spotify.com/search/The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
-apple_music_url: https://music.apple.com/us/search?term=The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
+apple_music_url: https://music.apple.com/search?term=The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
 youtube_url: https://www.youtube.com/results?search_query=The%20House%20of%20Love%201986-88%3A%20The%20Creation%20Recordings
 ---
 

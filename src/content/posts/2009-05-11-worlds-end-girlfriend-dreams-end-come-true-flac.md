@@ -6,7 +6,7 @@ title: World's End Girlfriend - Dream's End Come True [FLAC]
 artist: World's End Girlfriend
 album: Dream's End Come True
 spotify_url: https://open.spotify.com/search/World%27s%20End%20Girlfriend%20Dream%27s%20End%20Come%20True
-apple_music_url: https://music.apple.com/us/search?term=World%27s%20End%20Girlfriend%20Dream%27s%20End%20Come%20True
+apple_music_url: https://music.apple.com/search?term=World%27s%20End%20Girlfriend%20Dream%27s%20End%20Come%20True
 youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girlfriend%20Dream%27s%20End%20Come%20True
 ---
 

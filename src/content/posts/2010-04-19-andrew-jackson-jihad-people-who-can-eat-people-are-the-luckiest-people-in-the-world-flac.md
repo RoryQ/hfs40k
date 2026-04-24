@@ -7,7 +7,7 @@ title: Andrew Jackson Jihad - People Who Can Eat People Are the Luckiest People 
 artist: Andrew Jackson Jihad
 album: People Who Can Eat People Are the Luckiest People in the World
 spotify_url: https://open.spotify.com/search/Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
+apple_music_url: https://music.apple.com/search?term=Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Jackson%20Jihad%20People%20Who%20Can%20Eat%20People%20Are%20the%20Luckiest%20People%20in%20the%20World
 ---
 

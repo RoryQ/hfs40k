@@ -6,7 +6,7 @@ title: The Magnetic Fields - The Charm Of The Highway Strip (FLAC)
 artist: The Magnetic Fields
 album: The Charm Of The Highway Strip
 spotify_url: https://open.spotify.com/search/The%20Magnetic%20Fields%20The%20Charm%20Of%20The%20Highway%20Strip
-apple_music_url: https://music.apple.com/us/search?term=The%20Magnetic%20Fields%20The%20Charm%20Of%20The%20Highway%20Strip
+apple_music_url: https://music.apple.com/search?term=The%20Magnetic%20Fields%20The%20Charm%20Of%20The%20Highway%20Strip
 youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Fields%20The%20Charm%20Of%20The%20Highway%20Strip
 ---
 

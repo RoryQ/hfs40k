@@ -6,7 +6,7 @@ title: Elliott Smith - XO (FLAC)
 artist: Elliott Smith
 album: XO
 spotify_url: https://open.spotify.com/search/Elliott%20Smith%20XO
-apple_music_url: https://music.apple.com/us/search?term=Elliott%20Smith%20XO
+apple_music_url: https://music.apple.com/search?term=Elliott%20Smith%20XO
 youtube_url: https://www.youtube.com/results?search_query=Elliott%20Smith%20XO
 ---
 

@@ -6,7 +6,7 @@ title: Roxy Music - Roxy Music (1972) [FLAC]
 artist: Roxy Music
 album: Roxy Music
 spotify_url: https://open.spotify.com/search/Roxy%20Music%20Roxy%20Music
-apple_music_url: https://music.apple.com/us/search?term=Roxy%20Music%20Roxy%20Music
+apple_music_url: https://music.apple.com/search?term=Roxy%20Music%20Roxy%20Music
 youtube_url: https://www.youtube.com/results?search_query=Roxy%20Music%20Roxy%20Music
 ---
 

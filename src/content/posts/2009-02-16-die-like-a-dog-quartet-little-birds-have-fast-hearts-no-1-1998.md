@@ -6,7 +6,7 @@ title: Die Like A Dog Quartet - Little Birds Have Fast Hearts No. 1 (1998)
 artist: Die Like A Dog Quartet
 album: Little Birds Have Fast Hearts No. 1
 spotify_url: https://open.spotify.com/search/Die%20Like%20A%20Dog%20Quartet%20Little%20Birds%20Have%20Fast%20Hearts%20No.%201
-apple_music_url: https://music.apple.com/us/search?term=Die%20Like%20A%20Dog%20Quartet%20Little%20Birds%20Have%20Fast%20Hearts%20No.%201
+apple_music_url: https://music.apple.com/search?term=Die%20Like%20A%20Dog%20Quartet%20Little%20Birds%20Have%20Fast%20Hearts%20No.%201
 youtube_url: https://www.youtube.com/results?search_query=Die%20Like%20A%20Dog%20Quartet%20Little%20Birds%20Have%20Fast%20Hearts%20No.%201
 ---
 

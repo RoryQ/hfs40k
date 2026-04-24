@@ -6,7 +6,7 @@ title: Antonin Dvorak - Three Great Symphonies. (FLAC)
 artist: Antonin Dvorak
 album: Three Great Symphonies.
 spotify_url: https://open.spotify.com/search/Antonin%20Dvorak%20Three%20Great%20Symphonies.
-apple_music_url: https://music.apple.com/us/search?term=Antonin%20Dvorak%20Three%20Great%20Symphonies.
+apple_music_url: https://music.apple.com/search?term=Antonin%20Dvorak%20Three%20Great%20Symphonies.
 youtube_url: https://www.youtube.com/results?search_query=Antonin%20Dvorak%20Three%20Great%20Symphonies.
 ---
 

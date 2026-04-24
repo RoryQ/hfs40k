@@ -6,7 +6,7 @@ title: The American Analog Set -   The Golden Band [FLAC]
 artist: The American Analog Set
 album: The Golden Band
 spotify_url: https://open.spotify.com/search/The%20American%20Analog%20Set%20The%20Golden%20Band
-apple_music_url: https://music.apple.com/us/search?term=The%20American%20Analog%20Set%20The%20Golden%20Band
+apple_music_url: https://music.apple.com/search?term=The%20American%20Analog%20Set%20The%20Golden%20Band
 youtube_url: https://www.youtube.com/results?search_query=The%20American%20Analog%20Set%20The%20Golden%20Band
 ---
 

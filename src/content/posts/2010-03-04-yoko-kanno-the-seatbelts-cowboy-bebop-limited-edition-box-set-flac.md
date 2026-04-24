@@ -6,7 +6,7 @@ title: Yoko Kanno & The Seatbelts - Cowboy Bebop Limited Edition Box Set (FLAC)
 artist: Yoko Kanno & The Seatbelts
 album: Cowboy Bebop Limited Edition Box Set
 spotify_url: https://open.spotify.com/search/Yoko%20Kanno%20%26%20The%20Seatbelts%20Cowboy%20Bebop%20Limited%20Edition%20Box%20Set
-apple_music_url: https://music.apple.com/us/search?term=Yoko%20Kanno%20%26%20The%20Seatbelts%20Cowboy%20Bebop%20Limited%20Edition%20Box%20Set
+apple_music_url: https://music.apple.com/search?term=Yoko%20Kanno%20%26%20The%20Seatbelts%20Cowboy%20Bebop%20Limited%20Edition%20Box%20Set
 youtube_url: https://www.youtube.com/results?search_query=Yoko%20Kanno%20%26%20The%20Seatbelts%20Cowboy%20Bebop%20Limited%20Edition%20Box%20Set
 ---
 

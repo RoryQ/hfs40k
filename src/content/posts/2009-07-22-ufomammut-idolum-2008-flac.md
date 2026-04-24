@@ -6,7 +6,7 @@ title: Ufomammut - Idolum (2008) [FLAC]
 artist: Ufomammut
 album: Idolum
 spotify_url: https://open.spotify.com/search/Ufomammut%20Idolum
-apple_music_url: https://music.apple.com/us/search?term=Ufomammut%20Idolum
+apple_music_url: https://music.apple.com/search?term=Ufomammut%20Idolum
 youtube_url: https://www.youtube.com/results?search_query=Ufomammut%20Idolum
 ---
 

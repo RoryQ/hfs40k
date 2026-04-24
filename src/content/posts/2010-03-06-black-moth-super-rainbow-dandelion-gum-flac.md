@@ -6,7 +6,7 @@ title: Black Moth Super Rainbow - Dandelion Gum (FLAC)
 artist: Black Moth Super Rainbow
 album: Dandelion Gum
 spotify_url: https://open.spotify.com/search/Black%20Moth%20Super%20Rainbow%20Dandelion%20Gum
-apple_music_url: https://music.apple.com/us/search?term=Black%20Moth%20Super%20Rainbow%20Dandelion%20Gum
+apple_music_url: https://music.apple.com/search?term=Black%20Moth%20Super%20Rainbow%20Dandelion%20Gum
 youtube_url: https://www.youtube.com/results?search_query=Black%20Moth%20Super%20Rainbow%20Dandelion%20Gum
 ---
 

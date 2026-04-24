@@ -6,7 +6,7 @@ title: "AUKCYON - \u0411\u043E\u0434\u0443\u043D (HANGOVER)"
 artist: AUKCYON
 album: "\u0411\u043E\u0434\u0443\u043D"
 spotify_url: https://open.spotify.com/search/AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
-apple_music_url: https://music.apple.com/us/search?term=AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
+apple_music_url: https://music.apple.com/search?term=AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
 youtube_url: https://www.youtube.com/results?search_query=AUKCYON%20%D0%91%D0%BE%D0%B4%D1%83%D0%BD
 ---
 

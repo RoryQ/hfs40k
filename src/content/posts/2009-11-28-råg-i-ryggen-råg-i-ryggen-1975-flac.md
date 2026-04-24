@@ -6,7 +6,7 @@ title: "R\xE5g i Ryggen - R\xE5g i Ryggen (1975) [FLAC]"
 artist: "R\xE5g i Ryggen"
 album: "R\xE5g i Ryggen"
 spotify_url: https://open.spotify.com/search/R%C3%A5g%20i%20Ryggen%20R%C3%A5g%20i%20Ryggen
-apple_music_url: https://music.apple.com/us/search?term=R%C3%A5g%20i%20Ryggen%20R%C3%A5g%20i%20Ryggen
+apple_music_url: https://music.apple.com/search?term=R%C3%A5g%20i%20Ryggen%20R%C3%A5g%20i%20Ryggen
 youtube_url: https://www.youtube.com/results?search_query=R%C3%A5g%20i%20Ryggen%20R%C3%A5g%20i%20Ryggen
 ---
 

@@ -6,7 +6,7 @@ title: Eric B & Rakim - Paid In Full (FLAC)
 artist: Eric B & Rakim
 album: Paid In Full
 spotify_url: https://open.spotify.com/search/Eric%20B%20%26%20Rakim%20Paid%20In%20Full
-apple_music_url: https://music.apple.com/us/search?term=Eric%20B%20%26%20Rakim%20Paid%20In%20Full
+apple_music_url: https://music.apple.com/search?term=Eric%20B%20%26%20Rakim%20Paid%20In%20Full
 youtube_url: https://www.youtube.com/results?search_query=Eric%20B%20%26%20Rakim%20Paid%20In%20Full
 ---
 

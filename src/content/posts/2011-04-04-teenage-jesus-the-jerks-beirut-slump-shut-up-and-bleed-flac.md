@@ -6,7 +6,7 @@ title: Teenage Jesus & the Jerks / Beirut Slump- Shut Up and Bleed [FLAC]
 artist: Teenage Jesus & the Jerks / Beirut Slump
 album: Shut Up and Bleed
 spotify_url: https://open.spotify.com/search/Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
-apple_music_url: https://music.apple.com/us/search?term=Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
+apple_music_url: https://music.apple.com/search?term=Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
 youtube_url: https://www.youtube.com/results?search_query=Teenage%20Jesus%20%26%20the%20Jerks%20/%20Beirut%20Slump%20Shut%20Up%20and%20Bleed
 ---
 

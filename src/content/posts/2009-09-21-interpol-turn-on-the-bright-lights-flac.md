@@ -6,7 +6,7 @@ title: Interpol - Turn on the Bright Lights (FLAC)
 artist: Interpol
 album: Turn on the Bright Lights
 spotify_url: https://open.spotify.com/search/Interpol%20Turn%20on%20the%20Bright%20Lights
-apple_music_url: https://music.apple.com/us/search?term=Interpol%20Turn%20on%20the%20Bright%20Lights
+apple_music_url: https://music.apple.com/search?term=Interpol%20Turn%20on%20the%20Bright%20Lights
 youtube_url: https://www.youtube.com/results?search_query=Interpol%20Turn%20on%20the%20Bright%20Lights
 ---
 

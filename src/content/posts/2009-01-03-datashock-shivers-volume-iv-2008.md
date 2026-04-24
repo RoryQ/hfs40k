@@ -6,7 +6,7 @@ title: Datashock & Shivers - Volume IV (2008)
 artist: Datashock & Shivers
 album: Volume IV
 spotify_url: https://open.spotify.com/search/Datashock%20%26%20Shivers%20Volume%20IV
-apple_music_url: https://music.apple.com/us/search?term=Datashock%20%26%20Shivers%20Volume%20IV
+apple_music_url: https://music.apple.com/search?term=Datashock%20%26%20Shivers%20Volume%20IV
 youtube_url: https://www.youtube.com/results?search_query=Datashock%20%26%20Shivers%20Volume%20IV
 ---
 

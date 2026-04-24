@@ -6,7 +6,7 @@ title: Sam Cooke - Live at the Harlem Square Club, 1963 (FLAC/v0)
 artist: Sam Cooke
 album: Live at the Harlem Square Club, 1963
 spotify_url: https://open.spotify.com/search/Sam%20Cooke%20Live%20at%20the%20Harlem%20Square%20Club%2C%201963
-apple_music_url: https://music.apple.com/us/search?term=Sam%20Cooke%20Live%20at%20the%20Harlem%20Square%20Club%2C%201963
+apple_music_url: https://music.apple.com/search?term=Sam%20Cooke%20Live%20at%20the%20Harlem%20Square%20Club%2C%201963
 youtube_url: https://www.youtube.com/results?search_query=Sam%20Cooke%20Live%20at%20the%20Harlem%20Square%20Club%2C%201963
 ---
 

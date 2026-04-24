@@ -6,7 +6,7 @@ title: Guided By Voices - Alien Lanes (FLAC)
 artist: Guided By Voices
 album: Alien Lanes
 spotify_url: https://open.spotify.com/search/Guided%20By%20Voices%20Alien%20Lanes
-apple_music_url: https://music.apple.com/us/search?term=Guided%20By%20Voices%20Alien%20Lanes
+apple_music_url: https://music.apple.com/search?term=Guided%20By%20Voices%20Alien%20Lanes
 youtube_url: https://www.youtube.com/results?search_query=Guided%20By%20Voices%20Alien%20Lanes
 ---
 

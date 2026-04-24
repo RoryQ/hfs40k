@@ -6,7 +6,7 @@ title: The Who - Live at Leeds Complete (FLAC)
 artist: The Who
 album: Live at Leeds Complete
 spotify_url: https://open.spotify.com/search/The%20Who%20Live%20at%20Leeds%20Complete
-apple_music_url: https://music.apple.com/us/search?term=The%20Who%20Live%20at%20Leeds%20Complete
+apple_music_url: https://music.apple.com/search?term=The%20Who%20Live%20at%20Leeds%20Complete
 youtube_url: https://www.youtube.com/results?search_query=The%20Who%20Live%20at%20Leeds%20Complete
 ---
 

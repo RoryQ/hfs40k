@@ -6,7 +6,7 @@ title: Gate - The Dew Line (VBR)
 artist: Gate
 album: The Dew Line
 spotify_url: https://open.spotify.com/search/Gate%20The%20Dew%20Line
-apple_music_url: https://music.apple.com/us/search?term=Gate%20The%20Dew%20Line
+apple_music_url: https://music.apple.com/search?term=Gate%20The%20Dew%20Line
 youtube_url: https://www.youtube.com/results?search_query=Gate%20The%20Dew%20Line
 ---
 

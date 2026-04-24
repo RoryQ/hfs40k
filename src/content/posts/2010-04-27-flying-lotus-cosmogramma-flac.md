@@ -6,7 +6,7 @@ title: Flying Lotus - Cosmogramma FLAC
 artist: Flying Lotus
 album: Cosmogramma FLAC
 spotify_url: https://open.spotify.com/search/Flying%20Lotus%20Cosmogramma%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Lotus%20Cosmogramma%20FLAC
+apple_music_url: https://music.apple.com/search?term=Flying%20Lotus%20Cosmogramma%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmogramma%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: Markus Guentner - In Moll (2001, FLAC)
 artist: Markus Guentner
 album: In Moll
 spotify_url: https://open.spotify.com/search/Markus%20Guentner%20In%20Moll
-apple_music_url: https://geo.music.apple.com/au/album/_/282227704?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/282227704
 youtube_url: https://www.youtube.com/results?search_query=Markus%20Guentner%20In%20Moll
 ---
 

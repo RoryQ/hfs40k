@@ -6,7 +6,7 @@ title: Deep Turtle - Turkele!! (2003) [320]
 artist: Deep Turtle
 album: Turkele!!
 spotify_url: https://open.spotify.com/search/Deep%20Turtle%20Turkele%21%21
-apple_music_url: https://music.apple.com/us/search?term=Deep%20Turtle%20Turkele%21%21
+apple_music_url: https://music.apple.com/search?term=Deep%20Turtle%20Turkele%21%21
 youtube_url: https://www.youtube.com/results?search_query=Deep%20Turtle%20Turkele%21%21
 ---
 

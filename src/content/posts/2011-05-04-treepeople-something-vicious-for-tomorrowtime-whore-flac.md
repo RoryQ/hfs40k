@@ -6,7 +6,7 @@ title: Treepeople - Something Vicious for Tomorrow/Time Whore (FLAC)
 artist: Treepeople
 album: Something Vicious for Tomorrow/Time Whore
 spotify_url: https://open.spotify.com/search/Treepeople%20Something%20Vicious%20for%20Tomorrow/Time%20Whore
-apple_music_url: https://music.apple.com/us/search?term=Treepeople%20Something%20Vicious%20for%20Tomorrow/Time%20Whore
+apple_music_url: https://music.apple.com/search?term=Treepeople%20Something%20Vicious%20for%20Tomorrow/Time%20Whore
 youtube_url: https://www.youtube.com/results?search_query=Treepeople%20Something%20Vicious%20for%20Tomorrow/Time%20Whore
 ---
 

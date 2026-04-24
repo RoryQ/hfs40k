@@ -6,7 +6,7 @@ title: Wayne Shorter - The All-Seeing Eye (FLAC)
 artist: Wayne Shorter
 album: The All-Seeing Eye
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20The%20All-Seeing%20Eye
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20The%20All-Seeing%20Eye
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20The%20All-Seeing%20Eye
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20The%20All-Seeing%20Eye
 ---
 

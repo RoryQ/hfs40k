@@ -6,7 +6,7 @@ title: Nick Drake - Family Tree
 artist: Nick Drake
 album: Family Tree
 spotify_url: https://open.spotify.com/search/Nick%20Drake%20Family%20Tree
-apple_music_url: https://music.apple.com/us/search?term=Nick%20Drake%20Family%20Tree
+apple_music_url: https://music.apple.com/search?term=Nick%20Drake%20Family%20Tree
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Drake%20Family%20Tree
 ---
 

@@ -6,7 +6,7 @@ title: 'One Kiss Can Lead to Another: Girl Group Sounds Lost and Found (v0 Box S
 artist: One Kiss Can Lead to Another
 album: Girl Group Sounds Lost and Found
 spotify_url: https://open.spotify.com/search/One%20Kiss%20Can%20Lead%20to%20Another%20Girl%20Group%20Sounds%20Lost%20and%20Found
-apple_music_url: https://geo.music.apple.com/au/album/_/80451918?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/80451918
 youtube_url: https://www.youtube.com/results?search_query=One%20Kiss%20Can%20Lead%20to%20Another%20Girl%20Group%20Sounds%20Lost%20and%20Found
 ---
 

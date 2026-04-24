@@ -6,7 +6,7 @@ title: Earth - Hex; Or Printing In The Infernal Method (FLAC)
 artist: Earth
 album: Hex; Or Printing In The Infernal Method
 spotify_url: https://open.spotify.com/search/Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
-apple_music_url: https://music.apple.com/us/search?term=Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
+apple_music_url: https://music.apple.com/search?term=Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
 youtube_url: https://www.youtube.com/results?search_query=Earth%20Hex%3B%20Or%20Printing%20In%20The%20Infernal%20Method
 ---
 

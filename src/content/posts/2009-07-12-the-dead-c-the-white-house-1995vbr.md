@@ -6,7 +6,7 @@ title: The Dead C - The White House (1995)[VBR]
 artist: The Dead C
 album: The White House
 spotify_url: https://open.spotify.com/search/The%20Dead%20C%20The%20White%20House
-apple_music_url: https://geo.music.apple.com/au/album/_/156918673?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/156918673
 youtube_url: https://www.youtube.com/results?search_query=The%20Dead%20C%20The%20White%20House
 ---
 

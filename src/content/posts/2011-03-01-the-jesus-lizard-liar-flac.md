@@ -6,7 +6,7 @@ title: The Jesus Lizard - Liar (FLAC)
 artist: The Jesus Lizard
 album: Liar
 spotify_url: https://open.spotify.com/search/The%20Jesus%20Lizard%20Liar
-apple_music_url: https://music.apple.com/us/search?term=The%20Jesus%20Lizard%20Liar
+apple_music_url: https://music.apple.com/search?term=The%20Jesus%20Lizard%20Liar
 youtube_url: https://www.youtube.com/results?search_query=The%20Jesus%20Lizard%20Liar
 ---
 

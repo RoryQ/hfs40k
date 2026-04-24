@@ -6,7 +6,7 @@ title: Joris Voorn - Future History FLAC
 artist: Joris Voorn
 album: Future History FLAC
 spotify_url: https://open.spotify.com/search/Joris%20Voorn%20Future%20History%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Joris%20Voorn%20Future%20History%20FLAC
+apple_music_url: https://music.apple.com/search?term=Joris%20Voorn%20Future%20History%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Joris%20Voorn%20Future%20History%20FLAC
 ---
 

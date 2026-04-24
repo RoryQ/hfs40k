@@ -6,7 +6,7 @@ title: Nujabes - Metaphorical Music (FLAC)
 artist: Nujabes
 album: Metaphorical Music
 spotify_url: https://open.spotify.com/search/Nujabes%20Metaphorical%20Music
-apple_music_url: https://music.apple.com/us/search?term=Nujabes%20Metaphorical%20Music
+apple_music_url: https://music.apple.com/search?term=Nujabes%20Metaphorical%20Music
 youtube_url: https://www.youtube.com/results?search_query=Nujabes%20Metaphorical%20Music
 ---
 

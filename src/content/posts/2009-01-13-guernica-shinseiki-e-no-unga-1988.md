@@ -6,7 +6,7 @@ title: Guernica - Shinseiki E No Unga (1988)
 artist: Guernica
 album: Shinseiki E No Unga
 spotify_url: https://open.spotify.com/search/Guernica%20Shinseiki%20E%20No%20Unga
-apple_music_url: https://music.apple.com/us/search?term=Guernica%20Shinseiki%20E%20No%20Unga
+apple_music_url: https://music.apple.com/search?term=Guernica%20Shinseiki%20E%20No%20Unga
 youtube_url: https://www.youtube.com/results?search_query=Guernica%20Shinseiki%20E%20No%20Unga
 ---
 

@@ -6,7 +6,7 @@ title: Area - Arbeit Macht Frei (1973) [FLAC]
 artist: Area
 album: Arbeit Macht Frei
 spotify_url: https://open.spotify.com/search/Area%20Arbeit%20Macht%20Frei
-apple_music_url: https://music.apple.com/us/search?term=Area%20Arbeit%20Macht%20Frei
+apple_music_url: https://music.apple.com/search?term=Area%20Arbeit%20Macht%20Frei
 youtube_url: https://www.youtube.com/results?search_query=Area%20Arbeit%20Macht%20Frei
 ---
 

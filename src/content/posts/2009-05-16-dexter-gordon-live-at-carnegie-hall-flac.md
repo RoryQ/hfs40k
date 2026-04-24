@@ -6,7 +6,7 @@ title: Dexter Gordon - Live at Carnegie Hall (FLAC)
 artist: Dexter Gordon
 album: Live at Carnegie Hall
 spotify_url: https://open.spotify.com/search/Dexter%20Gordon%20Live%20at%20Carnegie%20Hall
-apple_music_url: https://music.apple.com/us/search?term=Dexter%20Gordon%20Live%20at%20Carnegie%20Hall
+apple_music_url: https://music.apple.com/search?term=Dexter%20Gordon%20Live%20at%20Carnegie%20Hall
 youtube_url: https://www.youtube.com/results?search_query=Dexter%20Gordon%20Live%20at%20Carnegie%20Hall
 ---
 

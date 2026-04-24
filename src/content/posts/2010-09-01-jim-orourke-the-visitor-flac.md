@@ -6,7 +6,7 @@ title: Jim O'Rourke - The Visitor (FLAC)
 artist: Jim O'Rourke
 album: The Visitor
 spotify_url: https://open.spotify.com/search/Jim%20O%27Rourke%20The%20Visitor
-apple_music_url: https://geo.music.apple.com/au/album/_/1610295893?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1610295893
 youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20The%20Visitor
 ---
 

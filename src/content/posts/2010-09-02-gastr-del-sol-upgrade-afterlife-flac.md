@@ -6,7 +6,7 @@ title: Gastr del Sol - Upgrade & Afterlife (FLAC)
 artist: Gastr del Sol
 album: Upgrade & Afterlife
 spotify_url: https://open.spotify.com/search/Gastr%20del%20Sol%20Upgrade%20%26%20Afterlife
-apple_music_url: https://geo.music.apple.com/au/album/_/994739466?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/994739466
 youtube_url: https://www.youtube.com/results?search_query=Gastr%20del%20Sol%20Upgrade%20%26%20Afterlife
 ---
 

@@ -6,7 +6,7 @@ title: Joni Mitchell - Court and Spark (FLAC)
 artist: Joni Mitchell
 album: Court and Spark
 spotify_url: https://open.spotify.com/search/Joni%20Mitchell%20Court%20and%20Spark
-apple_music_url: https://music.apple.com/us/search?term=Joni%20Mitchell%20Court%20and%20Spark
+apple_music_url: https://music.apple.com/search?term=Joni%20Mitchell%20Court%20and%20Spark
 youtube_url: https://www.youtube.com/results?search_query=Joni%20Mitchell%20Court%20and%20Spark
 ---
 

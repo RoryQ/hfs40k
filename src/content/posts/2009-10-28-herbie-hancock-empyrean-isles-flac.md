@@ -6,7 +6,7 @@ title: Herbie Hancock - Empyrean Isles (FLAC)
 artist: Herbie Hancock
 album: Empyrean Isles
 spotify_url: https://open.spotify.com/search/Herbie%20Hancock%20Empyrean%20Isles
-apple_music_url: https://music.apple.com/us/search?term=Herbie%20Hancock%20Empyrean%20Isles
+apple_music_url: https://music.apple.com/search?term=Herbie%20Hancock%20Empyrean%20Isles
 youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Empyrean%20Isles
 ---
 

@@ -6,7 +6,7 @@ title: Failure - Fantastic Planet FLAC
 artist: Failure
 album: Fantastic Planet FLAC
 spotify_url: https://open.spotify.com/search/Failure%20Fantastic%20Planet%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Failure%20Fantastic%20Planet%20FLAC
+apple_music_url: https://music.apple.com/search?term=Failure%20Fantastic%20Planet%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Failure%20Fantastic%20Planet%20FLAC
 ---
 

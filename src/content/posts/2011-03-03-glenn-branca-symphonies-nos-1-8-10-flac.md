@@ -6,7 +6,7 @@ title: Glenn Branca - Symphonies Nos. 1, 8, 10 (FLAC)
 artist: Glenn Branca
 album: Symphonies Nos. 1, 8, 10
 spotify_url: https://open.spotify.com/search/Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
-apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
+apple_music_url: https://music.apple.com/search?term=Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
 youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20Symphonies%20Nos.%201%2C%208%2C%2010
 ---
 

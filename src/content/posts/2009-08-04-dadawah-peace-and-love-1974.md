@@ -6,7 +6,7 @@ title: Dadawah - Peace and Love (1974)
 artist: Dadawah
 album: Peace and Love
 spotify_url: https://open.spotify.com/search/Dadawah%20Peace%20and%20Love
-apple_music_url: https://music.apple.com/us/search?term=Dadawah%20Peace%20and%20Love
+apple_music_url: https://music.apple.com/search?term=Dadawah%20Peace%20and%20Love
 youtube_url: https://www.youtube.com/results?search_query=Dadawah%20Peace%20and%20Love
 ---
 

@@ -6,7 +6,7 @@ title: Field Rotation - Licht und Schatten FLAC
 artist: Field Rotation
 album: Licht und Schatten FLAC
 spotify_url: https://open.spotify.com/search/Field%20Rotation%20Licht%20und%20Schatten%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Field%20Rotation%20Licht%20und%20Schatten%20FLAC
+apple_music_url: https://music.apple.com/search?term=Field%20Rotation%20Licht%20und%20Schatten%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Field%20Rotation%20Licht%20und%20Schatten%20FLAC
 ---
 

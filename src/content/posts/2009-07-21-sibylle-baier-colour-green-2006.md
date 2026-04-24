@@ -6,7 +6,7 @@ title: Sibylle Baier - Colour Green (2006)
 artist: Sibylle Baier
 album: Colour Green
 spotify_url: https://open.spotify.com/search/Sibylle%20Baier%20Colour%20Green
-apple_music_url: https://music.apple.com/us/search?term=Sibylle%20Baier%20Colour%20Green
+apple_music_url: https://music.apple.com/search?term=Sibylle%20Baier%20Colour%20Green
 youtube_url: https://www.youtube.com/results?search_query=Sibylle%20Baier%20Colour%20Green
 ---
 

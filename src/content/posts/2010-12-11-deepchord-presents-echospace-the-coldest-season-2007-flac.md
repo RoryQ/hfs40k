@@ -6,7 +6,7 @@ title: Deepchord presents Echospace - The Coldest Season (2007, FLAC)
 artist: Deepchord presents Echospace
 album: The Coldest Season
 spotify_url: https://open.spotify.com/search/Deepchord%20presents%20Echospace%20The%20Coldest%20Season
-apple_music_url: https://music.apple.com/us/search?term=Deepchord%20presents%20Echospace%20The%20Coldest%20Season
+apple_music_url: https://music.apple.com/search?term=Deepchord%20presents%20Echospace%20The%20Coldest%20Season
 youtube_url: https://www.youtube.com/results?search_query=Deepchord%20presents%20Echospace%20The%20Coldest%20Season
 ---
 

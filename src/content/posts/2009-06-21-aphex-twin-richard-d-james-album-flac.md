@@ -6,7 +6,7 @@ title: Aphex Twin - Richard D. James Album (FLAC)
 artist: Aphex Twin
 album: Richard D. James Album
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20Richard%20D.%20James%20Album
-apple_music_url: https://geo.music.apple.com/au/album/_/281111401?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/281111401
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Richard%20D.%20James%20Album
 ---
 

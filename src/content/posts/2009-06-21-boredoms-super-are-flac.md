@@ -6,7 +6,7 @@ title: Boredoms - Super Are (FLAC)
 artist: Boredoms
 album: Super Are
 spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Are
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Are
+apple_music_url: https://music.apple.com/search?term=Boredoms%20Super%20Are
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Are
 ---
 

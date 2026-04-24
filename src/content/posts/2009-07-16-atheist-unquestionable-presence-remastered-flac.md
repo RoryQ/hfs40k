@@ -6,7 +6,7 @@ title: Atheist - Unquestionable Presence (Remastered FLAC)
 artist: Atheist
 album: Unquestionable Presence
 spotify_url: https://open.spotify.com/search/Atheist%20Unquestionable%20Presence
-apple_music_url: https://music.apple.com/us/search?term=Atheist%20Unquestionable%20Presence
+apple_music_url: https://music.apple.com/search?term=Atheist%20Unquestionable%20Presence
 youtube_url: https://www.youtube.com/results?search_query=Atheist%20Unquestionable%20Presence
 ---
 

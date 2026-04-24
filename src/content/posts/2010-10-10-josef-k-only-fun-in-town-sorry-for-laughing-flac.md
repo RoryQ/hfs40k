@@ -6,7 +6,7 @@ title: Josef K - Only Fun in Town / Sorry for Laughing [FLAC]
 artist: Josef K
 album: Only Fun in Town / Sorry for Laughing
 spotify_url: https://open.spotify.com/search/Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
-apple_music_url: https://music.apple.com/us/search?term=Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
+apple_music_url: https://music.apple.com/search?term=Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
 youtube_url: https://www.youtube.com/results?search_query=Josef%20K%20Only%20Fun%20in%20Town%20/%20Sorry%20for%20Laughing
 ---
 

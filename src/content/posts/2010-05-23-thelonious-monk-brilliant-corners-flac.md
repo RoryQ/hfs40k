@@ -6,7 +6,7 @@ title: Thelonious Monk - Brilliant Corners (FLAC)
 artist: Thelonious Monk
 album: Brilliant Corners
 spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20Brilliant%20Corners
-apple_music_url: https://music.apple.com/us/search?term=Thelonious%20Monk%20Brilliant%20Corners
+apple_music_url: https://music.apple.com/search?term=Thelonious%20Monk%20Brilliant%20Corners
 youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Brilliant%20Corners
 ---
 

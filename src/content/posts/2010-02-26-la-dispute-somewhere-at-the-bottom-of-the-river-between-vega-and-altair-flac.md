@@ -6,7 +6,7 @@ title: La Dispute - Somewhere at the Bottom of the River Between Vega and Altair
 artist: La Dispute
 album: Somewhere at the Bottom of the River Between Vega and Altair
 spotify_url: https://open.spotify.com/search/La%20Dispute%20Somewhere%20at%20the%20Bottom%20of%20the%20River%20Between%20Vega%20and%20Altair
-apple_music_url: https://geo.music.apple.com/au/album/_/1676942123?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1676942123
 youtube_url: https://www.youtube.com/results?search_query=La%20Dispute%20Somewhere%20at%20the%20Bottom%20of%20the%20River%20Between%20Vega%20and%20Altair
 ---
 

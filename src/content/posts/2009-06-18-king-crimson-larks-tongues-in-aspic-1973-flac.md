@@ -6,7 +6,7 @@ title: King Crimson - Larks' Tongues in Aspic (1973) [FLAC]
 artist: King Crimson
 album: Larks' Tongues in Aspic
 spotify_url: https://open.spotify.com/search/King%20Crimson%20Larks%27%20Tongues%20in%20Aspic
-apple_music_url: https://music.apple.com/us/search?term=King%20Crimson%20Larks%27%20Tongues%20in%20Aspic
+apple_music_url: https://music.apple.com/search?term=King%20Crimson%20Larks%27%20Tongues%20in%20Aspic
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20Larks%27%20Tongues%20in%20Aspic
 ---
 

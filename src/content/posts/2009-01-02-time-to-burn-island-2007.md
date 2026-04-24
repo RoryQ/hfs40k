@@ -6,7 +6,7 @@ title: Time to Burn - Is.Land (2007)
 artist: Time to Burn
 album: Is.Land
 spotify_url: https://open.spotify.com/search/Time%20to%20Burn%20Is.Land
-apple_music_url: https://music.apple.com/us/search?term=Time%20to%20Burn%20Is.Land
+apple_music_url: https://music.apple.com/search?term=Time%20to%20Burn%20Is.Land
 youtube_url: https://www.youtube.com/results?search_query=Time%20to%20Burn%20Is.Land
 ---
 

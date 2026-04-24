@@ -6,7 +6,7 @@ title: Tomahawk - Anonymous
 artist: Tomahawk
 album: Anonymous
 spotify_url: https://open.spotify.com/search/Tomahawk%20Anonymous
-apple_music_url: https://music.apple.com/us/search?term=Tomahawk%20Anonymous
+apple_music_url: https://music.apple.com/search?term=Tomahawk%20Anonymous
 youtube_url: https://www.youtube.com/results?search_query=Tomahawk%20Anonymous
 ---
 

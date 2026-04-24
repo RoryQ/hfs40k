@@ -6,7 +6,7 @@ title: Flying Saucer Attack & Tele:funken - Distant Station [FLAC]
 artist: Flying Saucer Attack & Tele:funken
 album: Distant Station
 spotify_url: https://open.spotify.com/search/Flying%20Saucer%20Attack%20%26%20Tele%3Afunken%20Distant%20Station
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Saucer%20Attack%20%26%20Tele%3Afunken%20Distant%20Station
+apple_music_url: https://music.apple.com/search?term=Flying%20Saucer%20Attack%20%26%20Tele%3Afunken%20Distant%20Station
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Saucer%20Attack%20%26%20Tele%3Afunken%20Distant%20Station
 ---
 

@@ -6,7 +6,7 @@ title: Mission of Burma - OnOffOn (FLAC)
 artist: Mission of Burma
 album: OnOffOn
 spotify_url: https://open.spotify.com/search/Mission%20of%20Burma%20OnOffOn
-apple_music_url: https://music.apple.com/us/search?term=Mission%20of%20Burma%20OnOffOn
+apple_music_url: https://music.apple.com/search?term=Mission%20of%20Burma%20OnOffOn
 youtube_url: https://www.youtube.com/results?search_query=Mission%20of%20Burma%20OnOffOn
 ---
 

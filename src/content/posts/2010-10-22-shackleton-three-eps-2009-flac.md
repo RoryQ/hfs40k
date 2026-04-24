@@ -6,7 +6,7 @@ title: Shackleton - Three EPs (2009, FLAC)
 artist: Shackleton
 album: Three EPs
 spotify_url: https://open.spotify.com/search/Shackleton%20Three%20EPs
-apple_music_url: https://music.apple.com/us/search?term=Shackleton%20Three%20EPs
+apple_music_url: https://music.apple.com/search?term=Shackleton%20Three%20EPs
 youtube_url: https://www.youtube.com/results?search_query=Shackleton%20Three%20EPs
 ---
 

@@ -6,7 +6,7 @@ title: Giant Squid - The Ichthyologist (2009)
 artist: Giant Squid
 album: The Ichthyologist
 spotify_url: https://open.spotify.com/search/Giant%20Squid%20The%20Ichthyologist
-apple_music_url: https://music.apple.com/us/search?term=Giant%20Squid%20The%20Ichthyologist
+apple_music_url: https://music.apple.com/search?term=Giant%20Squid%20The%20Ichthyologist
 youtube_url: https://www.youtube.com/results?search_query=Giant%20Squid%20The%20Ichthyologist
 ---
 

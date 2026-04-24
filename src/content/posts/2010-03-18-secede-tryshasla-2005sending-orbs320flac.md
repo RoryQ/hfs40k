@@ -6,7 +6,7 @@ title: Secede - Tryshasla [2005/Sending Orbs/320/FLAC]
 artist: Secede
 album: Tryshasla
 spotify_url: https://open.spotify.com/search/Secede%20Tryshasla
-apple_music_url: https://music.apple.com/us/search?term=Secede%20Tryshasla
+apple_music_url: https://music.apple.com/search?term=Secede%20Tryshasla
 youtube_url: https://www.youtube.com/results?search_query=Secede%20Tryshasla
 ---
 

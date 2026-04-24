@@ -6,7 +6,7 @@ title: Windy & Carl - Depths FLAC
 artist: Windy & Carl
 album: Depths FLAC
 spotify_url: https://open.spotify.com/search/Windy%20%26%20Carl%20Depths%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Windy%20%26%20Carl%20Depths%20FLAC
+apple_music_url: https://music.apple.com/search?term=Windy%20%26%20Carl%20Depths%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Windy%20%26%20Carl%20Depths%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: Khanate - Clean Hands Go Foul (2009) [FLAC]
 artist: Khanate
 album: Clean Hands Go Foul
 spotify_url: https://open.spotify.com/search/Khanate%20Clean%20Hands%20Go%20Foul
-apple_music_url: https://music.apple.com/us/search?term=Khanate%20Clean%20Hands%20Go%20Foul
+apple_music_url: https://music.apple.com/search?term=Khanate%20Clean%20Hands%20Go%20Foul
 youtube_url: https://www.youtube.com/results?search_query=Khanate%20Clean%20Hands%20Go%20Foul
 ---
 

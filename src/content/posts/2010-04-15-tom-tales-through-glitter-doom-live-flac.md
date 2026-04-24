@@ -6,7 +6,7 @@ title: Tom Tales through Glitter & Doom Live (FLAC)
 artist: Tom Tales
 album: through Glitter & Doom Live
 spotify_url: https://open.spotify.com/search/Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
+apple_music_url: https://music.apple.com/search?term=Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Tales%20through%20Glitter%20%26%20Doom%20Live
 ---
 

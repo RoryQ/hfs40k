@@ -6,7 +6,7 @@ title: James "Blood" Ulmer - Tales of Captain Black (FLAC)
 artist: James "Blood" Ulmer
 album: Tales of Captain Black
 spotify_url: https://open.spotify.com/search/James%20%22Blood%22%20Ulmer%20Tales%20of%20Captain%20Black
-apple_music_url: https://music.apple.com/us/search?term=James%20%22Blood%22%20Ulmer%20Tales%20of%20Captain%20Black
+apple_music_url: https://music.apple.com/search?term=James%20%22Blood%22%20Ulmer%20Tales%20of%20Captain%20Black
 youtube_url: https://www.youtube.com/results?search_query=James%20%22Blood%22%20Ulmer%20Tales%20of%20Captain%20Black
 ---
 

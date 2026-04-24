@@ -6,7 +6,7 @@ title: The Fall - Perverted By Language  (FLAC)
 artist: The Fall
 album: Perverted By Language
 spotify_url: https://open.spotify.com/search/The%20Fall%20Perverted%20By%20Language
-apple_music_url: https://music.apple.com/us/search?term=The%20Fall%20Perverted%20By%20Language
+apple_music_url: https://music.apple.com/search?term=The%20Fall%20Perverted%20By%20Language
 youtube_url: https://www.youtube.com/results?search_query=The%20Fall%20Perverted%20By%20Language
 ---
 

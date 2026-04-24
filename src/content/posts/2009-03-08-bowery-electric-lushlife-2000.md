@@ -6,7 +6,7 @@ title: Bowery Electric - Lushlife (2000)
 artist: Bowery Electric
 album: Lushlife
 spotify_url: https://open.spotify.com/search/Bowery%20Electric%20Lushlife
-apple_music_url: https://music.apple.com/us/search?term=Bowery%20Electric%20Lushlife
+apple_music_url: https://music.apple.com/search?term=Bowery%20Electric%20Lushlife
 youtube_url: https://www.youtube.com/results?search_query=Bowery%20Electric%20Lushlife
 ---
 

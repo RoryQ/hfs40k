@@ -6,7 +6,7 @@ title: Ott - Blumenkraft (FLAC)
 artist: Ott
 album: Blumenkraft
 spotify_url: https://open.spotify.com/search/Ott%20Blumenkraft
-apple_music_url: https://music.apple.com/us/search?term=Ott%20Blumenkraft
+apple_music_url: https://music.apple.com/search?term=Ott%20Blumenkraft
 youtube_url: https://www.youtube.com/results?search_query=Ott%20Blumenkraft
 ---
 

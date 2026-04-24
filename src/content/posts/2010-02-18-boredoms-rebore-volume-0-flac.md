@@ -6,7 +6,7 @@ title: Boredoms - Rebore, Volume 0 (FLAC)
 artist: Boredoms
 album: Rebore, Volume 0
 spotify_url: https://open.spotify.com/search/Boredoms%20Rebore%2C%20Volume%200
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Rebore%2C%20Volume%200
+apple_music_url: https://music.apple.com/search?term=Boredoms%20Rebore%2C%20Volume%200
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Rebore%2C%20Volume%200
 ---
 

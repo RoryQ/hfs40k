@@ -6,7 +6,7 @@ title: 'Frank Zappa Week - Day #5 Apostrophe (FLAC)'
 artist: Frank Zappa Week
 album: 'Day #5 Apostrophe'
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%235%20Apostrophe
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%235%20Apostrophe
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Week%20Day%20%235%20Apostrophe
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%235%20Apostrophe
 ---
 

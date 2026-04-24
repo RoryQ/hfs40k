@@ -6,7 +6,7 @@ title: Pink Floyd - Animals [FLAC]
 artist: Pink Floyd
 album: Animals
 spotify_url: https://open.spotify.com/search/Pink%20Floyd%20Animals
-apple_music_url: https://music.apple.com/us/search?term=Pink%20Floyd%20Animals
+apple_music_url: https://music.apple.com/search?term=Pink%20Floyd%20Animals
 youtube_url: https://www.youtube.com/results?search_query=Pink%20Floyd%20Animals
 ---
 

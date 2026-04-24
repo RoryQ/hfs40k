@@ -6,7 +6,7 @@ title: Billie Holiday - Songs For Distingue Lovers (FLAC)
 artist: Billie Holiday
 album: Songs For Distingue Lovers
 spotify_url: https://open.spotify.com/search/Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
-apple_music_url: https://music.apple.com/us/search?term=Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
+apple_music_url: https://music.apple.com/search?term=Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
 youtube_url: https://www.youtube.com/results?search_query=Billie%20Holiday%20Songs%20For%20Distingue%20Lovers
 ---
 

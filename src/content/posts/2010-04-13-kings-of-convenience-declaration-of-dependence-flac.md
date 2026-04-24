@@ -6,7 +6,7 @@ title: Kings Of Convenience - Declaration Of Dependence [FLAC]
 artist: Kings Of Convenience
 album: Declaration Of Dependence
 spotify_url: https://open.spotify.com/search/Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
-apple_music_url: https://music.apple.com/us/search?term=Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
+apple_music_url: https://music.apple.com/search?term=Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
 youtube_url: https://www.youtube.com/results?search_query=Kings%20Of%20Convenience%20Declaration%20Of%20Dependence
 ---
 

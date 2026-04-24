@@ -6,7 +6,7 @@ title: Tindersticks - Curtains FLAC
 artist: Tindersticks
 album: Curtains FLAC
 spotify_url: https://open.spotify.com/search/Tindersticks%20Curtains%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Tindersticks%20Curtains%20FLAC
+apple_music_url: https://music.apple.com/search?term=Tindersticks%20Curtains%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Tindersticks%20Curtains%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: 'His Name Is Alive: Stars on ESP'
 artist: His Name Is Alive
 album: Stars on ESP
 spotify_url: https://open.spotify.com/search/His%20Name%20Is%20Alive%20Stars%20on%20ESP
-apple_music_url: https://geo.music.apple.com/au/album/_/273722291?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/273722291
 youtube_url: https://www.youtube.com/results?search_query=His%20Name%20Is%20Alive%20Stars%20on%20ESP
 ---
 

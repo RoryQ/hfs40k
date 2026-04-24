@@ -6,7 +6,7 @@ title: Wolves In The Throne Room - Black Cascade (2009)
 artist: Wolves In The Throne Room
 album: Black Cascade
 spotify_url: https://open.spotify.com/search/Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
-apple_music_url: https://music.apple.com/us/search?term=Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
+apple_music_url: https://music.apple.com/search?term=Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
 youtube_url: https://www.youtube.com/results?search_query=Wolves%20In%20The%20Throne%20Room%20Black%20Cascade
 ---
 

@@ -6,7 +6,7 @@ title: The Flaming Lips -  The Soft Bulletin (1999) [FLAC]
 artist: The Flaming Lips
 album: The Soft Bulletin
 spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20The%20Soft%20Bulletin
-apple_music_url: https://geo.music.apple.com/au/album/_/1247942375?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1247942375
 youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20The%20Soft%20Bulletin
 ---
 

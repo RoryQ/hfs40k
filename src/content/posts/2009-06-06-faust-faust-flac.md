@@ -6,7 +6,7 @@ title: Faust - Faust (FLAC)
 artist: Faust
 album: Faust
 spotify_url: https://open.spotify.com/search/Faust%20Faust
-apple_music_url: https://music.apple.com/us/search?term=Faust%20Faust
+apple_music_url: https://music.apple.com/search?term=Faust%20Faust
 youtube_url: https://www.youtube.com/results?search_query=Faust%20Faust
 ---
 

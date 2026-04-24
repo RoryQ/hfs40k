@@ -6,7 +6,7 @@ title: Naked City - Naked City (FLAC)
 artist: Naked City
 album: Naked City
 spotify_url: https://open.spotify.com/search/Naked%20City%20Naked%20City
-apple_music_url: https://geo.music.apple.com/au/album/_/298696230?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/298696230
 youtube_url: https://www.youtube.com/results?search_query=Naked%20City%20Naked%20City
 ---
 

@@ -6,7 +6,7 @@ title: Hawkwind - Doremi Fasol Latido (FLAC)
 artist: Hawkwind
 album: Doremi Fasol Latido
 spotify_url: https://open.spotify.com/search/Hawkwind%20Doremi%20Fasol%20Latido
-apple_music_url: https://music.apple.com/us/search?term=Hawkwind%20Doremi%20Fasol%20Latido
+apple_music_url: https://music.apple.com/search?term=Hawkwind%20Doremi%20Fasol%20Latido
 youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20Doremi%20Fasol%20Latido
 ---
 

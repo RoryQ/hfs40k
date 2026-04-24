@@ -7,7 +7,7 @@ title: Broadcast and the Focus Group - Broadcast and the Focus Group Investigate
 artist: Broadcast and the Focus Group
 album: Broadcast and the Focus Group Investigate Witch Cults of the Radio Age
 spotify_url: https://open.spotify.com/search/Broadcast%20and%20the%20Focus%20Group%20Broadcast%20and%20the%20Focus%20Group%20Investigate%20Witch%20Cults%20of%20the%20Radio%20Age
-apple_music_url: https://geo.music.apple.com/au/album/_/330778226?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/330778226
 youtube_url: https://www.youtube.com/results?search_query=Broadcast%20and%20the%20Focus%20Group%20Broadcast%20and%20the%20Focus%20Group%20Investigate%20Witch%20Cults%20of%20the%20Radio%20Age
 ---
 

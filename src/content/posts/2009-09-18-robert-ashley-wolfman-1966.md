@@ -6,7 +6,7 @@ title: Robert Ashley - Wolfman (1966)
 artist: Robert Ashley
 album: Wolfman
 spotify_url: https://open.spotify.com/search/Robert%20Ashley%20Wolfman
-apple_music_url: https://music.apple.com/us/search?term=Robert%20Ashley%20Wolfman
+apple_music_url: https://music.apple.com/search?term=Robert%20Ashley%20Wolfman
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Ashley%20Wolfman
 ---
 

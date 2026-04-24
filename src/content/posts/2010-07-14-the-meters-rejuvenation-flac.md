@@ -6,7 +6,7 @@ title: The Meters - Rejuvenation (FLAC)
 artist: The Meters
 album: Rejuvenation
 spotify_url: https://open.spotify.com/search/The%20Meters%20Rejuvenation
-apple_music_url: https://music.apple.com/us/search?term=The%20Meters%20Rejuvenation
+apple_music_url: https://music.apple.com/search?term=The%20Meters%20Rejuvenation
 youtube_url: https://www.youtube.com/results?search_query=The%20Meters%20Rejuvenation
 ---
 

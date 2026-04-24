@@ -6,7 +6,7 @@ title: Fat Freddy's Drop - Based on a True Story (2005)
 artist: Fat Freddy's Drop
 album: Based on a True Story
 spotify_url: https://open.spotify.com/search/Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
-apple_music_url: https://music.apple.com/us/search?term=Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
+apple_music_url: https://music.apple.com/search?term=Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
 youtube_url: https://www.youtube.com/results?search_query=Fat%20Freddy%27s%20Drop%20Based%20on%20a%20True%20Story
 ---
 

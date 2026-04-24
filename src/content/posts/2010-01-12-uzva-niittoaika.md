@@ -6,7 +6,7 @@ title: Uzva - Niittoaika
 artist: Uzva
 album: Niittoaika
 spotify_url: https://open.spotify.com/search/Uzva%20Niittoaika
-apple_music_url: https://music.apple.com/us/search?term=Uzva%20Niittoaika
+apple_music_url: https://music.apple.com/search?term=Uzva%20Niittoaika
 youtube_url: https://www.youtube.com/results?search_query=Uzva%20Niittoaika
 ---
 

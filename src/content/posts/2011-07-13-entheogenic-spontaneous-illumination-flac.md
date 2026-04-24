@@ -6,7 +6,7 @@ title: Entheogenic - Spontaneous Illumination (FLAC)
 artist: Entheogenic
 album: Spontaneous Illumination
 spotify_url: https://open.spotify.com/search/Entheogenic%20Spontaneous%20Illumination
-apple_music_url: https://music.apple.com/us/search?term=Entheogenic%20Spontaneous%20Illumination
+apple_music_url: https://music.apple.com/search?term=Entheogenic%20Spontaneous%20Illumination
 youtube_url: https://www.youtube.com/results?search_query=Entheogenic%20Spontaneous%20Illumination
 ---
 

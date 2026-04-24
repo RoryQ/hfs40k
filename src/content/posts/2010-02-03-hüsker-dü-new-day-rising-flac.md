@@ -6,7 +6,7 @@ title: "H\xFCsker D\xFC - New Day Rising (FLAC)"
 artist: "H\xFCsker D\xFC"
 album: New Day Rising
 spotify_url: https://open.spotify.com/search/H%C3%BCsker%20D%C3%BC%20New%20Day%20Rising
-apple_music_url: https://music.apple.com/us/search?term=H%C3%BCsker%20D%C3%BC%20New%20Day%20Rising
+apple_music_url: https://music.apple.com/search?term=H%C3%BCsker%20D%C3%BC%20New%20Day%20Rising
 youtube_url: https://www.youtube.com/results?search_query=H%C3%BCsker%20D%C3%BC%20New%20Day%20Rising
 ---
 

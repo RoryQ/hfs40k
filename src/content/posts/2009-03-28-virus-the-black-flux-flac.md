@@ -6,7 +6,7 @@ title: Virus - The Black Flux (FLAC)
 artist: Virus
 album: The Black Flux
 spotify_url: https://open.spotify.com/search/Virus%20The%20Black%20Flux
-apple_music_url: https://music.apple.com/us/search?term=Virus%20The%20Black%20Flux
+apple_music_url: https://music.apple.com/search?term=Virus%20The%20Black%20Flux
 youtube_url: https://www.youtube.com/results?search_query=Virus%20The%20Black%20Flux
 ---
 

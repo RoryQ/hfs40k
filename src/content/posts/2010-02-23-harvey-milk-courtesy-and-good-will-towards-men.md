@@ -6,7 +6,7 @@ title: Harvey Milk - Courtesy And Good Will Towards Men
 artist: Harvey Milk
 album: Courtesy And Good Will Towards Men
 spotify_url: https://open.spotify.com/search/Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
-apple_music_url: https://music.apple.com/us/search?term=Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
+apple_music_url: https://music.apple.com/search?term=Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
 youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20Courtesy%20And%20Good%20Will%20Towards%20Men
 ---
 

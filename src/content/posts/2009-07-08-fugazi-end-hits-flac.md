@@ -6,7 +6,7 @@ title: Fugazi - End Hits (FLAC)
 artist: Fugazi
 album: End Hits
 spotify_url: https://open.spotify.com/search/Fugazi%20End%20Hits
-apple_music_url: https://music.apple.com/us/search?term=Fugazi%20End%20Hits
+apple_music_url: https://music.apple.com/search?term=Fugazi%20End%20Hits
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20End%20Hits
 ---
 

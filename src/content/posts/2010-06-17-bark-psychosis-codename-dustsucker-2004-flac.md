@@ -6,7 +6,7 @@ title: 'Bark Psychosis - Codename: Dustsucker (2004, FLAC)'
 artist: Bark Psychosis
 album: 'Codename: Dustsucker'
 spotify_url: https://open.spotify.com/search/Bark%20Psychosis%20Codename%3A%20Dustsucker
-apple_music_url: https://music.apple.com/us/search?term=Bark%20Psychosis%20Codename%3A%20Dustsucker
+apple_music_url: https://music.apple.com/search?term=Bark%20Psychosis%20Codename%3A%20Dustsucker
 youtube_url: https://www.youtube.com/results?search_query=Bark%20Psychosis%20Codename%3A%20Dustsucker
 ---
 

@@ -6,7 +6,7 @@ title: The Cure - The Head On The Door (FLAC)
 artist: The Cure
 album: The Head On The Door
 spotify_url: https://open.spotify.com/search/The%20Cure%20The%20Head%20On%20The%20Door
-apple_music_url: https://music.apple.com/us/search?term=The%20Cure%20The%20Head%20On%20The%20Door
+apple_music_url: https://music.apple.com/search?term=The%20Cure%20The%20Head%20On%20The%20Door
 youtube_url: https://www.youtube.com/results?search_query=The%20Cure%20The%20Head%20On%20The%20Door
 ---
 

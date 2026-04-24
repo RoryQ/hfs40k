@@ -6,7 +6,7 @@ title: DJ Krush - Zen (2001) [FLAC]
 artist: DJ Krush
 album: Zen
 spotify_url: https://open.spotify.com/search/DJ%20Krush%20Zen
-apple_music_url: https://music.apple.com/us/search?term=DJ%20Krush%20Zen
+apple_music_url: https://music.apple.com/search?term=DJ%20Krush%20Zen
 youtube_url: https://www.youtube.com/results?search_query=DJ%20Krush%20Zen
 ---
 

@@ -6,7 +6,7 @@ title: Electric Wizard - Dopethrone [24-96 vinyl rip FLAC]
 artist: Electric Wizard
 album: Dopethrone
 spotify_url: https://open.spotify.com/search/Electric%20Wizard%20Dopethrone
-apple_music_url: https://geo.music.apple.com/au/album/_/178985072?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/178985072
 youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Dopethrone
 ---
 

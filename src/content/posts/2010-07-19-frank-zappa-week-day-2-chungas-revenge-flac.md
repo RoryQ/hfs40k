@@ -6,7 +6,7 @@ title: 'Frank Zappa Week - Day #2 Chunga''s Revenge (FLAC)'
 artist: Frank Zappa Week
 album: 'Day #2 Chunga''s Revenge'
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%232%20Chunga%27s%20Revenge
 ---
 

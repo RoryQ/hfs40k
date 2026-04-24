@@ -6,7 +6,7 @@ title: Polvo - Exploded Drawing (1996)
 artist: Polvo
 album: Exploded Drawing
 spotify_url: https://open.spotify.com/search/Polvo%20Exploded%20Drawing
-apple_music_url: https://music.apple.com/us/search?term=Polvo%20Exploded%20Drawing
+apple_music_url: https://music.apple.com/search?term=Polvo%20Exploded%20Drawing
 youtube_url: https://www.youtube.com/results?search_query=Polvo%20Exploded%20Drawing
 ---
 

@@ -6,7 +6,7 @@ title: Tortoise - Beacons of Ancestorship (2009)
 artist: Tortoise
 album: Beacons of Ancestorship
 spotify_url: https://open.spotify.com/search/Tortoise%20Beacons%20of%20Ancestorship
-apple_music_url: https://music.apple.com/us/search?term=Tortoise%20Beacons%20of%20Ancestorship
+apple_music_url: https://music.apple.com/search?term=Tortoise%20Beacons%20of%20Ancestorship
 youtube_url: https://www.youtube.com/results?search_query=Tortoise%20Beacons%20of%20Ancestorship
 ---
 

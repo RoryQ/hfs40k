@@ -6,7 +6,7 @@ title: The Field Mice - Snowball (FLAC)
 artist: The Field Mice
 album: Snowball
 spotify_url: https://open.spotify.com/search/The%20Field%20Mice%20Snowball
-apple_music_url: https://music.apple.com/us/search?term=The%20Field%20Mice%20Snowball
+apple_music_url: https://music.apple.com/search?term=The%20Field%20Mice%20Snowball
 youtube_url: https://www.youtube.com/results?search_query=The%20Field%20Mice%20Snowball
 ---
 

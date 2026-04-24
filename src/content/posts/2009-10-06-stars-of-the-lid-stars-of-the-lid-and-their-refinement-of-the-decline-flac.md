@@ -6,7 +6,7 @@ title: Stars of the Lid - Stars of the Lid and Their Refinement of the Decline (
 artist: Stars of the Lid
 album: Stars of the Lid and Their Refinement of the Decline
 spotify_url: https://open.spotify.com/search/Stars%20of%20the%20Lid%20Stars%20of%20the%20Lid%20and%20Their%20Refinement%20of%20the%20Decline
-apple_music_url: https://music.apple.com/us/search?term=Stars%20of%20the%20Lid%20Stars%20of%20the%20Lid%20and%20Their%20Refinement%20of%20the%20Decline
+apple_music_url: https://music.apple.com/search?term=Stars%20of%20the%20Lid%20Stars%20of%20the%20Lid%20and%20Their%20Refinement%20of%20the%20Decline
 youtube_url: https://www.youtube.com/results?search_query=Stars%20of%20the%20Lid%20Stars%20of%20the%20Lid%20and%20Their%20Refinement%20of%20the%20Decline
 ---
 

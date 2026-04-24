@@ -6,7 +6,7 @@ title: Nick Cave - Murder Ballads (1996) [FLAC]
 artist: Nick Cave
 album: Murder Ballads
 spotify_url: https://open.spotify.com/search/Nick%20Cave%20Murder%20Ballads
-apple_music_url: https://geo.music.apple.com/au/album/_/1165781414?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1165781414
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20Murder%20Ballads
 ---
 

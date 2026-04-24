@@ -6,7 +6,7 @@ title: Kyuss - Welcome To Sky Valley (FLAC)
 artist: Kyuss
 album: Welcome To Sky Valley
 spotify_url: https://open.spotify.com/search/Kyuss%20Welcome%20To%20Sky%20Valley
-apple_music_url: https://music.apple.com/us/search?term=Kyuss%20Welcome%20To%20Sky%20Valley
+apple_music_url: https://music.apple.com/search?term=Kyuss%20Welcome%20To%20Sky%20Valley
 youtube_url: https://www.youtube.com/results?search_query=Kyuss%20Welcome%20To%20Sky%20Valley
 ---
 

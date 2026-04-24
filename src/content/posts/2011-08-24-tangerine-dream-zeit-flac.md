@@ -6,7 +6,7 @@ title: Tangerine Dream - Zeit (FLAC)
 artist: Tangerine Dream
 album: Zeit
 spotify_url: https://open.spotify.com/search/Tangerine%20Dream%20Zeit
-apple_music_url: https://geo.music.apple.com/au/album/_/1504490042?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1504490042
 youtube_url: https://www.youtube.com/results?search_query=Tangerine%20Dream%20Zeit
 ---
 

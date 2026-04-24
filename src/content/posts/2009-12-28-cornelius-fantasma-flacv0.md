@@ -6,7 +6,7 @@ title: Cornelius - Fantasma (FLAC/v0)
 artist: Cornelius
 album: Fantasma
 spotify_url: https://open.spotify.com/search/Cornelius%20Fantasma
-apple_music_url: https://music.apple.com/us/search?term=Cornelius%20Fantasma
+apple_music_url: https://music.apple.com/search?term=Cornelius%20Fantasma
 youtube_url: https://www.youtube.com/results?search_query=Cornelius%20Fantasma
 ---
 

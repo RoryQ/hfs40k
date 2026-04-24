@@ -6,7 +6,7 @@ title: NoMeansNo - Wrong (1989)
 artist: NoMeansNo
 album: Wrong
 spotify_url: https://open.spotify.com/search/NoMeansNo%20Wrong
-apple_music_url: https://geo.music.apple.com/au/album/_/1745769742?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1745769742
 youtube_url: https://www.youtube.com/results?search_query=NoMeansNo%20Wrong
 ---
 

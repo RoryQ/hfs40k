@@ -6,7 +6,7 @@ title: Oxbow - An Evil Heat [FLAC]
 artist: Oxbow
 album: An Evil Heat
 spotify_url: https://open.spotify.com/search/Oxbow%20An%20Evil%20Heat
-apple_music_url: https://music.apple.com/us/search?term=Oxbow%20An%20Evil%20Heat
+apple_music_url: https://music.apple.com/search?term=Oxbow%20An%20Evil%20Heat
 youtube_url: https://www.youtube.com/results?search_query=Oxbow%20An%20Evil%20Heat
 ---
 

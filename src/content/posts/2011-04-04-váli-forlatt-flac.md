@@ -6,7 +6,7 @@ title: "V\xE1li - Forlatt [FLAC]"
 artist: "V\xE1li"
 album: Forlatt
 spotify_url: https://open.spotify.com/search/V%C3%A1li%20Forlatt
-apple_music_url: https://music.apple.com/us/search?term=V%C3%A1li%20Forlatt
+apple_music_url: https://music.apple.com/search?term=V%C3%A1li%20Forlatt
 youtube_url: https://www.youtube.com/results?search_query=V%C3%A1li%20Forlatt
 ---
 

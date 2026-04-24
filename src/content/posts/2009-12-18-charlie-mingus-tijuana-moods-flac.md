@@ -6,7 +6,7 @@ title: Charlie Mingus - Tijuana Moods (FLAC)
 artist: Charlie Mingus
 album: Tijuana Moods
 spotify_url: https://open.spotify.com/search/Charlie%20Mingus%20Tijuana%20Moods
-apple_music_url: https://music.apple.com/us/search?term=Charlie%20Mingus%20Tijuana%20Moods
+apple_music_url: https://music.apple.com/search?term=Charlie%20Mingus%20Tijuana%20Moods
 youtube_url: https://www.youtube.com/results?search_query=Charlie%20Mingus%20Tijuana%20Moods
 ---
 

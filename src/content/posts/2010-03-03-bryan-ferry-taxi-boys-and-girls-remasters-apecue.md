@@ -6,7 +6,7 @@ title: Bryan Ferry - Taxi & Boys And Girls (Remasters, APE+cue)
 artist: Bryan Ferry
 album: Taxi & Boys And Girls
 spotify_url: https://open.spotify.com/search/Bryan%20Ferry%20Taxi%20%26%20Boys%20And%20Girls
-apple_music_url: https://music.apple.com/us/search?term=Bryan%20Ferry%20Taxi%20%26%20Boys%20And%20Girls
+apple_music_url: https://music.apple.com/search?term=Bryan%20Ferry%20Taxi%20%26%20Boys%20And%20Girls
 youtube_url: https://www.youtube.com/results?search_query=Bryan%20Ferry%20Taxi%20%26%20Boys%20And%20Girls
 ---
 

@@ -6,7 +6,7 @@ title: John Coltrane - My Favorite Things [FLAC]
 artist: John Coltrane
 album: My Favorite Things
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20My%20Favorite%20Things
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20My%20Favorite%20Things
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20My%20Favorite%20Things
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20My%20Favorite%20Things
 ---
 

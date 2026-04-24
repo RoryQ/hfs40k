@@ -6,7 +6,7 @@ title: Mikkel Metal - Close Selections FLAC
 artist: Mikkel Metal
 album: Close Selections FLAC
 spotify_url: https://open.spotify.com/search/Mikkel%20Metal%20Close%20Selections%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Mikkel%20Metal%20Close%20Selections%20FLAC
+apple_music_url: https://music.apple.com/search?term=Mikkel%20Metal%20Close%20Selections%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Mikkel%20Metal%20Close%20Selections%20FLAC
 ---
 

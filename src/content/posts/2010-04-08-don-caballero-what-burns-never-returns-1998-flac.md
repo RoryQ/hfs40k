@@ -6,7 +6,7 @@ title: Don Caballero - What Burns Never Returns (1998) [FLAC]
 artist: Don Caballero
 album: What Burns Never Returns
 spotify_url: https://open.spotify.com/search/Don%20Caballero%20What%20Burns%20Never%20Returns
-apple_music_url: https://music.apple.com/us/search?term=Don%20Caballero%20What%20Burns%20Never%20Returns
+apple_music_url: https://music.apple.com/search?term=Don%20Caballero%20What%20Burns%20Never%20Returns
 youtube_url: https://www.youtube.com/results?search_query=Don%20Caballero%20What%20Burns%20Never%20Returns
 ---
 

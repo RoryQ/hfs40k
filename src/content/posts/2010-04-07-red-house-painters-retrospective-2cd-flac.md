@@ -6,7 +6,7 @@ title: Red House Painters - Retrospective (2CD) FLAC
 artist: Red House Painters
 album: Retrospective
 spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Retrospective
-apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Retrospective
+apple_music_url: https://music.apple.com/search?term=Red%20House%20Painters%20Retrospective
 youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Retrospective
 ---
 

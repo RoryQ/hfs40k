@@ -6,7 +6,7 @@ title: Gil Scott-Heron - I'm New Here (FLAC)
 artist: Gil Scott
 album: Heron - I'm New Here
 spotify_url: https://open.spotify.com/search/Gil%20Scott%20Heron%20-%20I%27m%20New%20Here
-apple_music_url: https://music.apple.com/us/search?term=Gil%20Scott%20Heron%20-%20I%27m%20New%20Here
+apple_music_url: https://music.apple.com/search?term=Gil%20Scott%20Heron%20-%20I%27m%20New%20Here
 youtube_url: https://www.youtube.com/results?search_query=Gil%20Scott%20Heron%20-%20I%27m%20New%20Here
 ---
 

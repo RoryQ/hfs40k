@@ -6,7 +6,7 @@ title: Envy - Abyssal (FLAC)
 artist: Envy
 album: Abyssal
 spotify_url: https://open.spotify.com/search/Envy%20Abyssal
-apple_music_url: https://music.apple.com/us/search?term=Envy%20Abyssal
+apple_music_url: https://music.apple.com/search?term=Envy%20Abyssal
 youtube_url: https://www.youtube.com/results?search_query=Envy%20Abyssal
 ---
 

@@ -6,7 +6,7 @@ title: Coaltar of the Deepers - Come Over to the Deepend (FLAC)
 artist: Coaltar of the Deepers
 album: Come Over to the Deepend
 spotify_url: https://open.spotify.com/search/Coaltar%20of%20the%20Deepers%20Come%20Over%20to%20the%20Deepend
-apple_music_url: https://music.apple.com/us/search?term=Coaltar%20of%20the%20Deepers%20Come%20Over%20to%20the%20Deepend
+apple_music_url: https://music.apple.com/search?term=Coaltar%20of%20the%20Deepers%20Come%20Over%20to%20the%20Deepend
 youtube_url: https://www.youtube.com/results?search_query=Coaltar%20of%20the%20Deepers%20Come%20Over%20to%20the%20Deepend
 ---
 

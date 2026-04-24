@@ -6,7 +6,7 @@ title: Van Morrison - Astral Weeks / Moondance (FLAC/v0)
 artist: Van Morrison
 album: Astral Weeks / Moondance
 spotify_url: https://open.spotify.com/search/Van%20Morrison%20Astral%20Weeks%20/%20Moondance
-apple_music_url: https://music.apple.com/us/search?term=Van%20Morrison%20Astral%20Weeks%20/%20Moondance
+apple_music_url: https://music.apple.com/search?term=Van%20Morrison%20Astral%20Weeks%20/%20Moondance
 youtube_url: https://www.youtube.com/results?search_query=Van%20Morrison%20Astral%20Weeks%20/%20Moondance
 ---
 

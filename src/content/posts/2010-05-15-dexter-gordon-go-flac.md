@@ -6,7 +6,7 @@ title: Dexter Gordon - Go! (FLAC)
 artist: Dexter Gordon
 album: Go!
 spotify_url: https://open.spotify.com/search/Dexter%20Gordon%20Go%21
-apple_music_url: https://music.apple.com/us/search?term=Dexter%20Gordon%20Go%21
+apple_music_url: https://music.apple.com/search?term=Dexter%20Gordon%20Go%21
 youtube_url: https://www.youtube.com/results?search_query=Dexter%20Gordon%20Go%21
 ---
 

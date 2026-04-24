@@ -6,7 +6,7 @@ title: Broken Social Scene - You Forgot It In People (FLAC)
 artist: Broken Social Scene
 album: You Forgot It In People
 spotify_url: https://open.spotify.com/search/Broken%20Social%20Scene%20You%20Forgot%20It%20In%20People
-apple_music_url: https://music.apple.com/us/search?term=Broken%20Social%20Scene%20You%20Forgot%20It%20In%20People
+apple_music_url: https://music.apple.com/search?term=Broken%20Social%20Scene%20You%20Forgot%20It%20In%20People
 youtube_url: https://www.youtube.com/results?search_query=Broken%20Social%20Scene%20You%20Forgot%20It%20In%20People
 ---
 

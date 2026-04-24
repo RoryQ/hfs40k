@@ -6,7 +6,7 @@ title: Sun Ra - Jazz in Silhouette (FLAC)
 artist: Sun Ra
 album: Jazz in Silhouette
 spotify_url: https://open.spotify.com/search/Sun%20Ra%20Jazz%20in%20Silhouette
-apple_music_url: https://geo.music.apple.com/au/album/_/1692814231?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1692814231
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20Jazz%20in%20Silhouette
 ---
 

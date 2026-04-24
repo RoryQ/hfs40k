@@ -6,7 +6,7 @@ title: "John Coltrane \u2013 Africa Brass (24-bit/96khz)"
 artist: "John Coltrane \u2013 Africa Brass (24"
 album: bit/96khz)
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20%E2%80%93%20Africa%20Brass%20%2824%20bit/96khz%29
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20%E2%80%93%20Africa%20Brass%20%2824%20bit/96khz%29
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20%E2%80%93%20Africa%20Brass%20%2824%20bit/96khz%29
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20%E2%80%93%20Africa%20Brass%20%2824%20bit/96khz%29
 ---
 

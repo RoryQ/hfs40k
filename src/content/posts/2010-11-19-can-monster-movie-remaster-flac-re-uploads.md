@@ -6,7 +6,7 @@ title: Can - Monster Movie (Remaster) [FLAC] + Re-uploads
 artist: Can
 album: Monster Movie
 spotify_url: https://open.spotify.com/search/Can%20Monster%20Movie
-apple_music_url: https://music.apple.com/us/search?term=Can%20Monster%20Movie
+apple_music_url: https://music.apple.com/search?term=Can%20Monster%20Movie
 youtube_url: https://www.youtube.com/results?search_query=Can%20Monster%20Movie
 ---
 

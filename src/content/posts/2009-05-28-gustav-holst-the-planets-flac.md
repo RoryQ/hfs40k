@@ -6,7 +6,7 @@ title: Gustav Holst - The Planets (FLAC)
 artist: Gustav Holst
 album: The Planets
 spotify_url: https://open.spotify.com/search/Gustav%20Holst%20The%20Planets
-apple_music_url: https://music.apple.com/us/search?term=Gustav%20Holst%20The%20Planets
+apple_music_url: https://music.apple.com/search?term=Gustav%20Holst%20The%20Planets
 youtube_url: https://www.youtube.com/results?search_query=Gustav%20Holst%20The%20Planets
 ---
 

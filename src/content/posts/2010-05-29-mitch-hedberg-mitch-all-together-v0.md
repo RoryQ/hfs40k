@@ -6,7 +6,7 @@ title: Mitch Hedberg - Mitch All Together (v0)
 artist: Mitch Hedberg
 album: Mitch All Together
 spotify_url: https://open.spotify.com/search/Mitch%20Hedberg%20Mitch%20All%20Together
-apple_music_url: https://music.apple.com/us/search?term=Mitch%20Hedberg%20Mitch%20All%20Together
+apple_music_url: https://music.apple.com/search?term=Mitch%20Hedberg%20Mitch%20All%20Together
 youtube_url: https://www.youtube.com/results?search_query=Mitch%20Hedberg%20Mitch%20All%20Together
 ---
 

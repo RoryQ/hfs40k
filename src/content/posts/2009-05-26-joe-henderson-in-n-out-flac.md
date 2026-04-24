@@ -6,7 +6,7 @@ title: Joe Henderson - In 'N' Out (FLAC)
 artist: Joe Henderson
 album: In 'N' Out
 spotify_url: https://open.spotify.com/search/Joe%20Henderson%20In%20%27N%27%20Out
-apple_music_url: https://music.apple.com/us/search?term=Joe%20Henderson%20In%20%27N%27%20Out
+apple_music_url: https://music.apple.com/search?term=Joe%20Henderson%20In%20%27N%27%20Out
 youtube_url: https://www.youtube.com/results?search_query=Joe%20Henderson%20In%20%27N%27%20Out
 ---
 

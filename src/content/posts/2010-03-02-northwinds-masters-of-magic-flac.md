@@ -6,7 +6,7 @@ title: Northwinds  - Masters of Magic (FLAC)
 artist: Northwinds
 album: Masters of Magic
 spotify_url: https://open.spotify.com/search/Northwinds%20Masters%20of%20Magic
-apple_music_url: https://music.apple.com/us/search?term=Northwinds%20Masters%20of%20Magic
+apple_music_url: https://music.apple.com/search?term=Northwinds%20Masters%20of%20Magic
 youtube_url: https://www.youtube.com/results?search_query=Northwinds%20Masters%20of%20Magic
 ---
 

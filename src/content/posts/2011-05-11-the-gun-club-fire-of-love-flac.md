@@ -6,7 +6,7 @@ title: The Gun Club - Fire Of Love (FLAC)
 artist: The Gun Club
 album: Fire Of Love
 spotify_url: https://open.spotify.com/search/The%20Gun%20Club%20Fire%20Of%20Love
-apple_music_url: https://geo.music.apple.com/au/album/_/1137640898?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1137640898
 youtube_url: https://www.youtube.com/results?search_query=The%20Gun%20Club%20Fire%20Of%20Love
 ---
 

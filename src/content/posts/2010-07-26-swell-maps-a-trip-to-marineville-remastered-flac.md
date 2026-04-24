@@ -6,7 +6,7 @@ title: Swell Maps - A Trip to Marineville (Remastered FLAC)
 artist: Swell Maps
 album: A Trip to Marineville
 spotify_url: https://open.spotify.com/search/Swell%20Maps%20A%20Trip%20to%20Marineville
-apple_music_url: https://music.apple.com/us/search?term=Swell%20Maps%20A%20Trip%20to%20Marineville
+apple_music_url: https://music.apple.com/search?term=Swell%20Maps%20A%20Trip%20to%20Marineville
 youtube_url: https://www.youtube.com/results?search_query=Swell%20Maps%20A%20Trip%20to%20Marineville
 ---
 

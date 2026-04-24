@@ -6,7 +6,7 @@ title: Broken Note - Terminal Static (Flacalicious edition)
 artist: Broken Note
 album: Terminal Static
 spotify_url: https://open.spotify.com/search/Broken%20Note%20Terminal%20Static
-apple_music_url: https://music.apple.com/us/search?term=Broken%20Note%20Terminal%20Static
+apple_music_url: https://music.apple.com/search?term=Broken%20Note%20Terminal%20Static
 youtube_url: https://www.youtube.com/results?search_query=Broken%20Note%20Terminal%20Static
 ---
 

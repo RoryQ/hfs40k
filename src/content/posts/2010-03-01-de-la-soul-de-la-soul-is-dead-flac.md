@@ -6,7 +6,7 @@ title: De La Soul - De La Soul is Dead (FLAC)
 artist: De La Soul
 album: De La Soul is Dead
 spotify_url: https://open.spotify.com/search/De%20La%20Soul%20De%20La%20Soul%20is%20Dead
-apple_music_url: https://music.apple.com/us/search?term=De%20La%20Soul%20De%20La%20Soul%20is%20Dead
+apple_music_url: https://music.apple.com/search?term=De%20La%20Soul%20De%20La%20Soul%20is%20Dead
 youtube_url: https://www.youtube.com/results?search_query=De%20La%20Soul%20De%20La%20Soul%20is%20Dead
 ---
 

@@ -6,7 +6,7 @@ title: A Silver Mt. Zion - 13 Blues for Thirteen Moons
 artist: A Silver Mt. Zion
 album: 13 Blues for Thirteen Moons
 spotify_url: https://open.spotify.com/search/A%20Silver%20Mt.%20Zion%2013%20Blues%20for%20Thirteen%20Moons
-apple_music_url: https://music.apple.com/us/search?term=A%20Silver%20Mt.%20Zion%2013%20Blues%20for%20Thirteen%20Moons
+apple_music_url: https://music.apple.com/search?term=A%20Silver%20Mt.%20Zion%2013%20Blues%20for%20Thirteen%20Moons
 youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zion%2013%20Blues%20for%20Thirteen%20Moons
 ---
 

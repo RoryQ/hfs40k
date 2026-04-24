@@ -6,7 +6,7 @@ title: Sugar - Copper Blue (FLAC)
 artist: Sugar
 album: Copper Blue
 spotify_url: https://open.spotify.com/search/Sugar%20Copper%20Blue
-apple_music_url: https://music.apple.com/us/search?term=Sugar%20Copper%20Blue
+apple_music_url: https://music.apple.com/search?term=Sugar%20Copper%20Blue
 youtube_url: https://www.youtube.com/results?search_query=Sugar%20Copper%20Blue
 ---
 

@@ -6,7 +6,7 @@ title: Eric Dolphy - Iron Man (FLAC)
 artist: Eric Dolphy
 album: Iron Man
 spotify_url: https://open.spotify.com/search/Eric%20Dolphy%20Iron%20Man
-apple_music_url: https://music.apple.com/us/search?term=Eric%20Dolphy%20Iron%20Man
+apple_music_url: https://music.apple.com/search?term=Eric%20Dolphy%20Iron%20Man
 youtube_url: https://www.youtube.com/results?search_query=Eric%20Dolphy%20Iron%20Man
 ---
 

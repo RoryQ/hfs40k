@@ -6,7 +6,7 @@ title: Miles Davis - Miles Ahead (FLAC)
 artist: Miles Davis
 album: Miles Ahead
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20Miles%20Ahead
-apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Miles%20Ahead
+apple_music_url: https://music.apple.com/search?term=Miles%20Davis%20Miles%20Ahead
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Miles%20Ahead
 ---
 

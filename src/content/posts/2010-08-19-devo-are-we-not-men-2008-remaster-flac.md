@@ -6,7 +6,7 @@ title: Devo - Are We Not Men? (2008 Remaster FLAC)
 artist: Devo
 album: Are We Not Men?
 spotify_url: https://open.spotify.com/search/Devo%20Are%20We%20Not%20Men%3F
-apple_music_url: https://music.apple.com/us/search?term=Devo%20Are%20We%20Not%20Men%3F
+apple_music_url: https://music.apple.com/search?term=Devo%20Are%20We%20Not%20Men%3F
 youtube_url: https://www.youtube.com/results?search_query=Devo%20Are%20We%20Not%20Men%3F
 ---
 

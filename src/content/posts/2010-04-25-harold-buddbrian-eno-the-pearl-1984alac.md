@@ -6,7 +6,7 @@ title: Harold Budd/Brian Eno - The Pearl [1984/ALAC]
 artist: Harold Budd/Brian Eno
 album: The Pearl
 spotify_url: https://open.spotify.com/search/Harold%20Budd/Brian%20Eno%20The%20Pearl
-apple_music_url: https://music.apple.com/us/search?term=Harold%20Budd/Brian%20Eno%20The%20Pearl
+apple_music_url: https://music.apple.com/search?term=Harold%20Budd/Brian%20Eno%20The%20Pearl
 youtube_url: https://www.youtube.com/results?search_query=Harold%20Budd/Brian%20Eno%20The%20Pearl
 ---
 

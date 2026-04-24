@@ -6,7 +6,7 @@ title: Baroness - Blue Record (2009)
 artist: Baroness
 album: Blue Record
 spotify_url: https://open.spotify.com/search/Baroness%20Blue%20Record
-apple_music_url: https://music.apple.com/us/search?term=Baroness%20Blue%20Record
+apple_music_url: https://music.apple.com/search?term=Baroness%20Blue%20Record
 youtube_url: https://www.youtube.com/results?search_query=Baroness%20Blue%20Record
 ---
 

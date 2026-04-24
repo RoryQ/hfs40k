@@ -6,7 +6,7 @@ title: Robert Wyatt - Rock Bottom (1974)
 artist: Robert Wyatt
 album: Rock Bottom
 spotify_url: https://open.spotify.com/search/Robert%20Wyatt%20Rock%20Bottom
-apple_music_url: https://music.apple.com/us/search?term=Robert%20Wyatt%20Rock%20Bottom
+apple_music_url: https://music.apple.com/search?term=Robert%20Wyatt%20Rock%20Bottom
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Rock%20Bottom
 ---
 

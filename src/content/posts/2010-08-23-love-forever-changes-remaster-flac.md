@@ -6,7 +6,7 @@ title: Love - Forever Changes (Remaster FLAC)
 artist: Love
 album: Forever Changes
 spotify_url: https://open.spotify.com/search/Love%20Forever%20Changes
-apple_music_url: https://music.apple.com/us/search?term=Love%20Forever%20Changes
+apple_music_url: https://music.apple.com/search?term=Love%20Forever%20Changes
 youtube_url: https://www.youtube.com/results?search_query=Love%20Forever%20Changes
 ---
 

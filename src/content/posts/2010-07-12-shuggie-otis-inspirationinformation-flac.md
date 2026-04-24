@@ -6,7 +6,7 @@ title: Shuggie Otis - Inspiration/Information (FLAC)
 artist: Shuggie Otis
 album: Inspiration/Information
 spotify_url: https://open.spotify.com/search/Shuggie%20Otis%20Inspiration/Information
-apple_music_url: https://music.apple.com/us/search?term=Shuggie%20Otis%20Inspiration/Information
+apple_music_url: https://music.apple.com/search?term=Shuggie%20Otis%20Inspiration/Information
 youtube_url: https://www.youtube.com/results?search_query=Shuggie%20Otis%20Inspiration/Information
 ---
 

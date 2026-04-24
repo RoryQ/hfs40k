@@ -6,7 +6,7 @@ title: Sugar - Beaster (FLAC)
 artist: Sugar
 album: Beaster
 spotify_url: https://open.spotify.com/search/Sugar%20Beaster
-apple_music_url: https://music.apple.com/us/search?term=Sugar%20Beaster
+apple_music_url: https://music.apple.com/search?term=Sugar%20Beaster
 youtube_url: https://www.youtube.com/results?search_query=Sugar%20Beaster
 ---
 

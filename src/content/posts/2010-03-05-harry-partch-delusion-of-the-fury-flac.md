@@ -6,7 +6,7 @@ title: Harry Partch - Delusion of the Fury (FLAC)
 artist: Harry Partch
 album: Delusion of the Fury
 spotify_url: https://open.spotify.com/search/Harry%20Partch%20Delusion%20of%20the%20Fury
-apple_music_url: https://music.apple.com/us/search?term=Harry%20Partch%20Delusion%20of%20the%20Fury
+apple_music_url: https://music.apple.com/search?term=Harry%20Partch%20Delusion%20of%20the%20Fury
 youtube_url: https://www.youtube.com/results?search_query=Harry%20Partch%20Delusion%20of%20the%20Fury
 ---
 

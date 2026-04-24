@@ -6,7 +6,7 @@ title: Isao Tomita - Snowflakes Are Dancing (FLAC)
 artist: Isao Tomita
 album: Snowflakes Are Dancing
 spotify_url: https://open.spotify.com/search/Isao%20Tomita%20Snowflakes%20Are%20Dancing
-apple_music_url: https://music.apple.com/us/search?term=Isao%20Tomita%20Snowflakes%20Are%20Dancing
+apple_music_url: https://music.apple.com/search?term=Isao%20Tomita%20Snowflakes%20Are%20Dancing
 youtube_url: https://www.youtube.com/results?search_query=Isao%20Tomita%20Snowflakes%20Are%20Dancing
 ---
 

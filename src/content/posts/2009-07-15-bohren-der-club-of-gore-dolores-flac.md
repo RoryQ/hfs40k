@@ -6,7 +6,7 @@ title: Bohren & der Club of Gore - Dolores [FLAC]
 artist: Bohren & der Club of Gore
 album: Dolores
 spotify_url: https://open.spotify.com/search/Bohren%20%26%20der%20Club%20of%20Gore%20Dolores
-apple_music_url: https://music.apple.com/us/search?term=Bohren%20%26%20der%20Club%20of%20Gore%20Dolores
+apple_music_url: https://music.apple.com/search?term=Bohren%20%26%20der%20Club%20of%20Gore%20Dolores
 youtube_url: https://www.youtube.com/results?search_query=Bohren%20%26%20der%20Club%20of%20Gore%20Dolores
 ---
 

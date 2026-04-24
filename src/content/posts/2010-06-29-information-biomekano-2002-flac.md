@@ -6,7 +6,7 @@ title: Information - Biomekano (2002, FLAC)
 artist: Information
 album: Biomekano
 spotify_url: https://open.spotify.com/search/Information%20Biomekano
-apple_music_url: https://music.apple.com/us/search?term=Information%20Biomekano
+apple_music_url: https://music.apple.com/search?term=Information%20Biomekano
 youtube_url: https://www.youtube.com/results?search_query=Information%20Biomekano
 ---
 

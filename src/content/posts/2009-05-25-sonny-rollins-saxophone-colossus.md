@@ -6,7 +6,7 @@ title: Sonny Rollins - Saxophone Colossus
 artist: Sonny Rollins
 album: Saxophone Colossus
 spotify_url: https://open.spotify.com/search/Sonny%20Rollins%20Saxophone%20Colossus
-apple_music_url: https://music.apple.com/us/search?term=Sonny%20Rollins%20Saxophone%20Colossus
+apple_music_url: https://music.apple.com/search?term=Sonny%20Rollins%20Saxophone%20Colossus
 youtube_url: https://www.youtube.com/results?search_query=Sonny%20Rollins%20Saxophone%20Colossus
 ---
 

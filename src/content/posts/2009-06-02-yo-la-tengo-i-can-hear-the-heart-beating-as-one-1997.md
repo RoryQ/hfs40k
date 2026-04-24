@@ -6,7 +6,7 @@ title: Yo La Tengo - I Can Hear the Heart Beating as One (1997)
 artist: Yo La Tengo
 album: I Can Hear the Heart Beating as One
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20as%20One
-apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20as%20One
+apple_music_url: https://music.apple.com/search?term=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20as%20One
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20as%20One
 ---
 

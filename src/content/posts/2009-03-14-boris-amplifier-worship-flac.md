@@ -6,7 +6,7 @@ title: Boris - Amplifier Worship (FLAC)
 artist: Boris
 album: Amplifier Worship
 spotify_url: https://open.spotify.com/search/Boris%20Amplifier%20Worship
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Amplifier%20Worship
+apple_music_url: https://music.apple.com/search?term=Boris%20Amplifier%20Worship
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Amplifier%20Worship
 ---
 

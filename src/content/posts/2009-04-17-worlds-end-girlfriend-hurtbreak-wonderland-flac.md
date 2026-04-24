@@ -6,7 +6,7 @@ title: World's End Girlfriend - Hurtbreak Wonderland (FLAC)
 artist: World's End Girlfriend
 album: Hurtbreak Wonderland
 spotify_url: https://open.spotify.com/search/World%27s%20End%20Girlfriend%20Hurtbreak%20Wonderland
-apple_music_url: https://geo.music.apple.com/au/album/_/456385415?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/456385415
 youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girlfriend%20Hurtbreak%20Wonderland
 ---
 

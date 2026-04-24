@@ -6,7 +6,7 @@ title: "Bj\xF6rk - Homogenic _Surrounded Dualdisc Rip [FLAC]"
 artist: "Bj\xF6rk"
 album: Homogenic _Surrounded Dualdisc Rip
 spotify_url: https://open.spotify.com/search/Bj%C3%B6rk%20Homogenic%20_Surrounded%20Dualdisc%20Rip
-apple_music_url: https://music.apple.com/us/search?term=Bj%C3%B6rk%20Homogenic%20_Surrounded%20Dualdisc%20Rip
+apple_music_url: https://music.apple.com/search?term=Bj%C3%B6rk%20Homogenic%20_Surrounded%20Dualdisc%20Rip
 youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Homogenic%20_Surrounded%20Dualdisc%20Rip
 ---
 

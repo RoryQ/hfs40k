@@ -6,7 +6,7 @@ title: Lustmord - The Place Where the Black Stars Hang
 artist: Lustmord
 album: The Place Where the Black Stars Hang
 spotify_url: https://open.spotify.com/search/Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
-apple_music_url: https://music.apple.com/us/search?term=Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
+apple_music_url: https://music.apple.com/search?term=Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
 youtube_url: https://www.youtube.com/results?search_query=Lustmord%20The%20Place%20Where%20the%20Black%20Stars%20Hang
 ---
 

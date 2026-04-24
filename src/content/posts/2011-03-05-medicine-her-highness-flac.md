@@ -6,7 +6,7 @@ title: Medicine - Her Highness [FLAC]
 artist: Medicine
 album: Her Highness
 spotify_url: https://open.spotify.com/search/Medicine%20Her%20Highness
-apple_music_url: https://music.apple.com/us/search?term=Medicine%20Her%20Highness
+apple_music_url: https://music.apple.com/search?term=Medicine%20Her%20Highness
 youtube_url: https://www.youtube.com/results?search_query=Medicine%20Her%20Highness
 ---
 

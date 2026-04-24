@@ -6,7 +6,7 @@ title: Neil Young - Harvest (2009 Remaster FLAC)
 artist: Neil Young
 album: Harvest
 spotify_url: https://open.spotify.com/search/Neil%20Young%20Harvest
-apple_music_url: https://music.apple.com/us/search?term=Neil%20Young%20Harvest
+apple_music_url: https://music.apple.com/search?term=Neil%20Young%20Harvest
 youtube_url: https://www.youtube.com/results?search_query=Neil%20Young%20Harvest
 ---
 

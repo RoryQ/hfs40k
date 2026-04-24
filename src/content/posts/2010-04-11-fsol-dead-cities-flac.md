@@ -6,7 +6,7 @@ title: FSOL - Dead Cities [FLAC]
 artist: FSOL
 album: Dead Cities
 spotify_url: https://open.spotify.com/search/FSOL%20Dead%20Cities
-apple_music_url: https://music.apple.com/us/search?term=FSOL%20Dead%20Cities
+apple_music_url: https://music.apple.com/search?term=FSOL%20Dead%20Cities
 youtube_url: https://www.youtube.com/results?search_query=FSOL%20Dead%20Cities
 ---
 

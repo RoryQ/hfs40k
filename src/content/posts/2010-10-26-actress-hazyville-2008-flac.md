@@ -6,7 +6,7 @@ title: Actress - Hazyville (2008. FLAC)
 artist: Actress
 album: Hazyville
 spotify_url: https://open.spotify.com/search/Actress%20Hazyville
-apple_music_url: https://music.apple.com/us/search?term=Actress%20Hazyville
+apple_music_url: https://music.apple.com/search?term=Actress%20Hazyville
 youtube_url: https://www.youtube.com/results?search_query=Actress%20Hazyville
 ---
 

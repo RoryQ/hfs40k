@@ -6,7 +6,7 @@ title: National Health - Of Queues and Cures (1978)
 artist: National Health
 album: Of Queues and Cures
 spotify_url: https://open.spotify.com/search/National%20Health%20Of%20Queues%20and%20Cures
-apple_music_url: https://geo.music.apple.com/au/album/_/1463050450?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1463050450
 youtube_url: https://www.youtube.com/results?search_query=National%20Health%20Of%20Queues%20and%20Cures
 ---
 

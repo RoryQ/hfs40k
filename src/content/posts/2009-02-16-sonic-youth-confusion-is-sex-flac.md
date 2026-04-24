@@ -6,7 +6,7 @@ title: Sonic Youth - Confusion Is Sex (FLAC)
 artist: Sonic Youth
 album: Confusion Is Sex
 spotify_url: https://open.spotify.com/search/Sonic%20Youth%20Confusion%20Is%20Sex
-apple_music_url: https://music.apple.com/us/search?term=Sonic%20Youth%20Confusion%20Is%20Sex
+apple_music_url: https://music.apple.com/search?term=Sonic%20Youth%20Confusion%20Is%20Sex
 youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Confusion%20Is%20Sex
 ---
 

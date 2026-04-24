@@ -6,7 +6,7 @@ title: Gary Wilson - You Think You Really Know Me (1977)
 artist: Gary Wilson
 album: You Think You Really Know Me
 spotify_url: https://open.spotify.com/search/Gary%20Wilson%20You%20Think%20You%20Really%20Know%20Me
-apple_music_url: https://music.apple.com/us/search?term=Gary%20Wilson%20You%20Think%20You%20Really%20Know%20Me
+apple_music_url: https://music.apple.com/search?term=Gary%20Wilson%20You%20Think%20You%20Really%20Know%20Me
 youtube_url: https://www.youtube.com/results?search_query=Gary%20Wilson%20You%20Think%20You%20Really%20Know%20Me
 ---
 

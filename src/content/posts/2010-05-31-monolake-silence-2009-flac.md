@@ -6,7 +6,7 @@ title: Monolake - Silence (2009, FLAC)
 artist: Monolake
 album: Silence
 spotify_url: https://open.spotify.com/search/Monolake%20Silence
-apple_music_url: https://music.apple.com/us/search?term=Monolake%20Silence
+apple_music_url: https://music.apple.com/search?term=Monolake%20Silence
 youtube_url: https://www.youtube.com/results?search_query=Monolake%20Silence
 ---
 

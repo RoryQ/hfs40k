@@ -6,7 +6,7 @@ title: 'Brian Eno - Apollo: Atmospheres and Soundtracks [1983/EG/ALAC]'
 artist: Brian Eno
 album: 'Apollo: Atmospheres and Soundtracks'
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20Apollo%3A%20Atmospheres%20and%20Soundtracks
-apple_music_url: https://geo.music.apple.com/au/album/_/714861155?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/714861155
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Apollo%3A%20Atmospheres%20and%20Soundtracks
 ---
 

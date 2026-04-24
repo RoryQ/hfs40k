@@ -6,7 +6,7 @@ title: John Coltrane - Giant Steps (FLAC)
 artist: John Coltrane
 album: Giant Steps
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20Giant%20Steps
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Giant%20Steps
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20Giant%20Steps
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Giant%20Steps
 ---
 

@@ -6,7 +6,7 @@ title: Hank Mobley - Roll Call (FLAC)
 artist: Hank Mobley
 album: Roll Call
 spotify_url: https://open.spotify.com/search/Hank%20Mobley%20Roll%20Call
-apple_music_url: https://music.apple.com/us/search?term=Hank%20Mobley%20Roll%20Call
+apple_music_url: https://music.apple.com/search?term=Hank%20Mobley%20Roll%20Call
 youtube_url: https://www.youtube.com/results?search_query=Hank%20Mobley%20Roll%20Call
 ---
 

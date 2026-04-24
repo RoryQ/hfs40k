@@ -6,7 +6,7 @@ title: Red House Painters - Songs For A Blue Guitar
 artist: Red House Painters
 album: Songs For A Blue Guitar
 spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Songs%20For%20A%20Blue%20Guitar
-apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Songs%20For%20A%20Blue%20Guitar
+apple_music_url: https://music.apple.com/search?term=Red%20House%20Painters%20Songs%20For%20A%20Blue%20Guitar
 youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Songs%20For%20A%20Blue%20Guitar
 ---
 

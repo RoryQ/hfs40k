@@ -6,7 +6,7 @@ title: Asobi Seksu - Asobi Seksu (FLAC)
 artist: Asobi Seksu
 album: Asobi Seksu
 spotify_url: https://open.spotify.com/search/Asobi%20Seksu%20Asobi%20Seksu
-apple_music_url: https://music.apple.com/us/search?term=Asobi%20Seksu%20Asobi%20Seksu
+apple_music_url: https://music.apple.com/search?term=Asobi%20Seksu%20Asobi%20Seksu
 youtube_url: https://www.youtube.com/results?search_query=Asobi%20Seksu%20Asobi%20Seksu
 ---
 

@@ -6,7 +6,7 @@ title: Stereolab - Dots and Loops (FLAC)
 artist: Stereolab
 album: Dots and Loops
 spotify_url: https://open.spotify.com/search/Stereolab%20Dots%20and%20Loops
-apple_music_url: https://music.apple.com/us/search?term=Stereolab%20Dots%20and%20Loops
+apple_music_url: https://music.apple.com/search?term=Stereolab%20Dots%20and%20Loops
 youtube_url: https://www.youtube.com/results?search_query=Stereolab%20Dots%20and%20Loops
 ---
 

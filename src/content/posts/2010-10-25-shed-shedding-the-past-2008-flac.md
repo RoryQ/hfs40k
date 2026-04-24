@@ -6,7 +6,7 @@ title: Shed - Shedding The Past (2008, FLAC)
 artist: Shed
 album: Shedding The Past
 spotify_url: https://open.spotify.com/search/Shed%20Shedding%20The%20Past
-apple_music_url: https://geo.music.apple.com/au/album/_/1164968102?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1164968102
 youtube_url: https://www.youtube.com/results?search_query=Shed%20Shedding%20The%20Past
 ---
 

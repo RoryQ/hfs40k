@@ -6,7 +6,7 @@ title: Rhythm & Sound - With The Artists (2003, FLAC)
 artist: Rhythm & Sound
 album: With The Artists
 spotify_url: https://open.spotify.com/search/Rhythm%20%26%20Sound%20With%20The%20Artists
-apple_music_url: https://geo.music.apple.com/au/album/_/1811228834?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1811228834
 youtube_url: https://www.youtube.com/results?search_query=Rhythm%20%26%20Sound%20With%20The%20Artists
 ---
 

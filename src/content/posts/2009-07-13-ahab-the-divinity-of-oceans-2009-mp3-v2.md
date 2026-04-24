@@ -6,7 +6,7 @@ title: Ahab - The Divinity of Oceans (2009) [mp3 v2]
 artist: Ahab
 album: The Divinity of Oceans
 spotify_url: https://open.spotify.com/search/Ahab%20The%20Divinity%20of%20Oceans
-apple_music_url: https://music.apple.com/us/search?term=Ahab%20The%20Divinity%20of%20Oceans
+apple_music_url: https://music.apple.com/search?term=Ahab%20The%20Divinity%20of%20Oceans
 youtube_url: https://www.youtube.com/results?search_query=Ahab%20The%20Divinity%20of%20Oceans
 ---
 

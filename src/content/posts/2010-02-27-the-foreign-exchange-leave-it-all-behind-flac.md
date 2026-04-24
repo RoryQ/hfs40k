@@ -6,7 +6,7 @@ title: The Foreign Exchange - Leave It All Behind (FLAC)
 artist: The Foreign Exchange
 album: Leave It All Behind
 spotify_url: https://open.spotify.com/search/The%20Foreign%20Exchange%20Leave%20It%20All%20Behind
-apple_music_url: https://geo.music.apple.com/au/album/_/1747361844?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1747361844
 youtube_url: https://www.youtube.com/results?search_query=The%20Foreign%20Exchange%20Leave%20It%20All%20Behind
 ---
 

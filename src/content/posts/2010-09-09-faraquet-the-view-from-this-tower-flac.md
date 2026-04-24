@@ -6,7 +6,7 @@ title: Faraquet - The View from this Tower (FLAC)
 artist: Faraquet
 album: The View from this Tower
 spotify_url: https://open.spotify.com/search/Faraquet%20The%20View%20from%20this%20Tower
-apple_music_url: https://music.apple.com/us/search?term=Faraquet%20The%20View%20from%20this%20Tower
+apple_music_url: https://music.apple.com/search?term=Faraquet%20The%20View%20from%20this%20Tower
 youtube_url: https://www.youtube.com/results?search_query=Faraquet%20The%20View%20from%20this%20Tower
 ---
 

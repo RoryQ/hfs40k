@@ -6,7 +6,7 @@ title: Wayne Shorter - Speak No Evil (FLAC)
 artist: Wayne Shorter
 album: Speak No Evil
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20Speak%20No%20Evil
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20Speak%20No%20Evil
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20Speak%20No%20Evil
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Speak%20No%20Evil
 ---
 

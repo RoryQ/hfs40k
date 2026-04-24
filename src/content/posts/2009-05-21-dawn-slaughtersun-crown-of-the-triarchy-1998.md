@@ -6,7 +6,7 @@ title: Dawn - Slaughtersun (Crown of the Triarchy) (1998)
 artist: Dawn
 album: Slaughtersun
 spotify_url: https://open.spotify.com/search/Dawn%20Slaughtersun
-apple_music_url: https://music.apple.com/us/search?term=Dawn%20Slaughtersun
+apple_music_url: https://music.apple.com/search?term=Dawn%20Slaughtersun
 youtube_url: https://www.youtube.com/results?search_query=Dawn%20Slaughtersun
 ---
 

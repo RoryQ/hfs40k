@@ -6,7 +6,7 @@ title: Shiina Ringo - Shouso Strip [FLAC]
 artist: Shiina Ringo
 album: Shouso Strip
 spotify_url: https://open.spotify.com/search/Shiina%20Ringo%20Shouso%20Strip
-apple_music_url: https://music.apple.com/us/search?term=Shiina%20Ringo%20Shouso%20Strip
+apple_music_url: https://music.apple.com/search?term=Shiina%20Ringo%20Shouso%20Strip
 youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Shouso%20Strip
 ---
 

@@ -6,7 +6,7 @@ title: AFX - Chosen Lords (FLAC)
 artist: AFX
 album: Chosen Lords
 spotify_url: https://open.spotify.com/search/AFX%20Chosen%20Lords
-apple_music_url: https://music.apple.com/us/search?term=AFX%20Chosen%20Lords
+apple_music_url: https://music.apple.com/search?term=AFX%20Chosen%20Lords
 youtube_url: https://www.youtube.com/results?search_query=AFX%20Chosen%20Lords
 ---
 

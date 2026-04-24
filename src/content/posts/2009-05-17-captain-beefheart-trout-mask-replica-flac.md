@@ -6,7 +6,7 @@ title: Captain Beefheart - Trout Mask Replica (FLAC)
 artist: Captain Beefheart
 album: Trout Mask Replica
 spotify_url: https://open.spotify.com/search/Captain%20Beefheart%20Trout%20Mask%20Replica
-apple_music_url: https://music.apple.com/us/search?term=Captain%20Beefheart%20Trout%20Mask%20Replica
+apple_music_url: https://music.apple.com/search?term=Captain%20Beefheart%20Trout%20Mask%20Replica
 youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20Trout%20Mask%20Replica
 ---
 

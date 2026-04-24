@@ -6,7 +6,7 @@ title: Various Artists - Pop Ambient 2010 [FLAC]
 artist: Various Artists
 album: Pop Ambient 2010
 spotify_url: https://open.spotify.com/search/Various%20Artists%20Pop%20Ambient%202010
-apple_music_url: https://music.apple.com/us/search?term=Various%20Artists%20Pop%20Ambient%202010
+apple_music_url: https://music.apple.com/search?term=Various%20Artists%20Pop%20Ambient%202010
 youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20Pop%20Ambient%202010
 ---
 

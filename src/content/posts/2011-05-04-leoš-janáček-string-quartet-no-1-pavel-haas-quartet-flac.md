@@ -6,7 +6,7 @@ title: "Leo\u0161 Jan\xE1\u010Dek - String Quartet No. 1 (Pavel Haas Quartet) (F
 artist: "Leo\u0161 Jan\xE1\u010Dek"
 album: String Quartet No. 1
 spotify_url: https://open.spotify.com/search/Leo%C5%A1%20Jan%C3%A1%C4%8Dek%20String%20Quartet%20No.%201
-apple_music_url: https://music.apple.com/us/search?term=Leo%C5%A1%20Jan%C3%A1%C4%8Dek%20String%20Quartet%20No.%201
+apple_music_url: https://music.apple.com/search?term=Leo%C5%A1%20Jan%C3%A1%C4%8Dek%20String%20Quartet%20No.%201
 youtube_url: https://www.youtube.com/results?search_query=Leo%C5%A1%20Jan%C3%A1%C4%8Dek%20String%20Quartet%20No.%201
 ---
 

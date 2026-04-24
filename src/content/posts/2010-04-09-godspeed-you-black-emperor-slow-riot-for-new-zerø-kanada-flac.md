@@ -6,7 +6,7 @@ title: "Godspeed You! Black Emperor - Slow Riot for New Zer\xF8 Kanada [FLAC]"
 artist: Godspeed You! Black Emperor
 album: "Slow Riot for New Zer\xF8 Kanada"
 spotify_url: https://open.spotify.com/search/Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zer%C3%B8%20Kanada
-apple_music_url: https://music.apple.com/us/search?term=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zer%C3%B8%20Kanada
+apple_music_url: https://music.apple.com/search?term=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zer%C3%B8%20Kanada
 youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Black%20Emperor%20Slow%20Riot%20for%20New%20Zer%C3%B8%20Kanada
 ---
 

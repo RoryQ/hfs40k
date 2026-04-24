@@ -6,7 +6,7 @@ title: Melt-Banana - Charlie (FLAC)
 artist: Melt
 album: Banana - Charlie
 spotify_url: https://open.spotify.com/search/Melt%20Banana%20-%20Charlie
-apple_music_url: https://geo.music.apple.com/au/album/_/23157728?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/23157728
 youtube_url: https://www.youtube.com/results?search_query=Melt%20Banana%20-%20Charlie
 ---
 

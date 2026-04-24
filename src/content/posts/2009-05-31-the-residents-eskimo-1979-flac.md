@@ -6,7 +6,7 @@ title: The Residents - Eskimo (1979) [FLAC]
 artist: The Residents
 album: Eskimo
 spotify_url: https://open.spotify.com/search/The%20Residents%20Eskimo
-apple_music_url: https://music.apple.com/us/search?term=The%20Residents%20Eskimo
+apple_music_url: https://music.apple.com/search?term=The%20Residents%20Eskimo
 youtube_url: https://www.youtube.com/results?search_query=The%20Residents%20Eskimo
 ---
 

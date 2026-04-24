@@ -6,7 +6,7 @@ title: Saori@destiny - Japanese Chaos (FLAC)
 artist: Saori@destiny
 album: Japanese Chaos
 spotify_url: https://open.spotify.com/search/Saori%40destiny%20Japanese%20Chaos
-apple_music_url: https://music.apple.com/us/search?term=Saori%40destiny%20Japanese%20Chaos
+apple_music_url: https://music.apple.com/search?term=Saori%40destiny%20Japanese%20Chaos
 youtube_url: https://www.youtube.com/results?search_query=Saori%40destiny%20Japanese%20Chaos
 ---
 

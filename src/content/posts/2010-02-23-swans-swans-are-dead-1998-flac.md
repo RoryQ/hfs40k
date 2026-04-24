@@ -6,7 +6,7 @@ title: Swans - Swans Are Dead (1998) [FLAC]
 artist: Swans
 album: Swans Are Dead
 spotify_url: https://open.spotify.com/search/Swans%20Swans%20Are%20Dead
-apple_music_url: https://geo.music.apple.com/au/album/_/911484609?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/911484609
 youtube_url: https://www.youtube.com/results?search_query=Swans%20Swans%20Are%20Dead
 ---
 

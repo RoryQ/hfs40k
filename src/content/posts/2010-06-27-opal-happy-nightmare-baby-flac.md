@@ -6,7 +6,7 @@ title: Opal - Happy Nightmare Baby FLAC
 artist: Opal
 album: Happy Nightmare Baby FLAC
 spotify_url: https://open.spotify.com/search/Opal%20Happy%20Nightmare%20Baby%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Opal%20Happy%20Nightmare%20Baby%20FLAC
+apple_music_url: https://music.apple.com/search?term=Opal%20Happy%20Nightmare%20Baby%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Opal%20Happy%20Nightmare%20Baby%20FLAC
 ---
 

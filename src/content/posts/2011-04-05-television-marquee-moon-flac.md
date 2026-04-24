@@ -6,7 +6,7 @@ title: Television - Marquee Moon (FLAC)
 artist: Television
 album: Marquee Moon
 spotify_url: https://open.spotify.com/search/Television%20Marquee%20Moon
-apple_music_url: https://music.apple.com/us/search?term=Television%20Marquee%20Moon
+apple_music_url: https://music.apple.com/search?term=Television%20Marquee%20Moon
 youtube_url: https://www.youtube.com/results?search_query=Television%20Marquee%20Moon
 ---
 

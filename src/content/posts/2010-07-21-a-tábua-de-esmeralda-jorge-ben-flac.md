@@ -6,7 +6,7 @@ title: "A T\xE1bua de Esmeralda - Jorge Ben [FLAC]"
 artist: "A T\xE1bua de Esmeralda"
 album: Jorge Ben
 spotify_url: https://open.spotify.com/search/A%20T%C3%A1bua%20de%20Esmeralda%20Jorge%20Ben
-apple_music_url: https://music.apple.com/us/search?term=A%20T%C3%A1bua%20de%20Esmeralda%20Jorge%20Ben
+apple_music_url: https://music.apple.com/search?term=A%20T%C3%A1bua%20de%20Esmeralda%20Jorge%20Ben
 youtube_url: https://www.youtube.com/results?search_query=A%20T%C3%A1bua%20de%20Esmeralda%20Jorge%20Ben
 ---
 

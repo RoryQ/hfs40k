@@ -6,7 +6,7 @@ title: The Divine Comedy - A Short Album About Love (1997)
 artist: The Divine Comedy
 album: A Short Album About Love
 spotify_url: https://open.spotify.com/search/The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
-apple_music_url: https://music.apple.com/us/search?term=The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
+apple_music_url: https://music.apple.com/search?term=The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
 youtube_url: https://www.youtube.com/results?search_query=The%20Divine%20Comedy%20A%20Short%20Album%20About%20Love
 ---
 

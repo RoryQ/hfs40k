@@ -6,7 +6,7 @@ title: Peter Broderick & Machinefabriek - Blank Grey Canvas Sky (2009)
 artist: Peter Broderick & Machinefabriek
 album: Blank Grey Canvas Sky
 spotify_url: https://open.spotify.com/search/Peter%20Broderick%20%26%20Machinefabriek%20Blank%20Grey%20Canvas%20Sky
-apple_music_url: https://geo.music.apple.com/au/album/_/1623976564?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1623976564
 youtube_url: https://www.youtube.com/results?search_query=Peter%20Broderick%20%26%20Machinefabriek%20Blank%20Grey%20Canvas%20Sky
 ---
 

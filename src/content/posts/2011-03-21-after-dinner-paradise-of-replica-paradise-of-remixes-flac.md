@@ -6,7 +6,7 @@ title: After Dinner - Paradise of Replica / Paradise of Remixes [FLAC]
 artist: After Dinner
 album: Paradise of Replica / Paradise of Remixes
 spotify_url: https://open.spotify.com/search/After%20Dinner%20Paradise%20of%20Replica%20/%20Paradise%20of%20Remixes
-apple_music_url: https://music.apple.com/us/search?term=After%20Dinner%20Paradise%20of%20Replica%20/%20Paradise%20of%20Remixes
+apple_music_url: https://music.apple.com/search?term=After%20Dinner%20Paradise%20of%20Replica%20/%20Paradise%20of%20Remixes
 youtube_url: https://www.youtube.com/results?search_query=After%20Dinner%20Paradise%20of%20Replica%20/%20Paradise%20of%20Remixes
 ---
 

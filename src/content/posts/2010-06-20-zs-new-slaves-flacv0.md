@@ -6,7 +6,7 @@ title: Zs - New Slaves [FLAC/v0]
 artist: Zs
 album: New Slaves
 spotify_url: https://open.spotify.com/search/Zs%20New%20Slaves
-apple_music_url: https://music.apple.com/us/search?term=Zs%20New%20Slaves
+apple_music_url: https://music.apple.com/search?term=Zs%20New%20Slaves
 youtube_url: https://www.youtube.com/results?search_query=Zs%20New%20Slaves
 ---
 

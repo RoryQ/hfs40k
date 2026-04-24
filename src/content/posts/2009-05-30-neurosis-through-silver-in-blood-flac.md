@@ -6,7 +6,7 @@ title: Neurosis -  Through Silver In Blood (FLAC)
 artist: Neurosis
 album: Through Silver In Blood
 spotify_url: https://open.spotify.com/search/Neurosis%20Through%20Silver%20In%20Blood
-apple_music_url: https://music.apple.com/us/search?term=Neurosis%20Through%20Silver%20In%20Blood
+apple_music_url: https://music.apple.com/search?term=Neurosis%20Through%20Silver%20In%20Blood
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Through%20Silver%20In%20Blood
 ---
 

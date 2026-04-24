@@ -7,7 +7,7 @@ title: Rain Parade - Emergency Third Rail Power Trip / Explosions in the Glass P
 artist: Rain Parade
 album: Emergency Third Rail Power Trip / Explosions in the Glass Palace Trip
 spotify_url: https://open.spotify.com/search/Rain%20Parade%20Emergency%20Third%20Rail%20Power%20Trip%20/%20Explosions%20in%20the%20Glass%20Palace%20Trip
-apple_music_url: https://music.apple.com/us/search?term=Rain%20Parade%20Emergency%20Third%20Rail%20Power%20Trip%20/%20Explosions%20in%20the%20Glass%20Palace%20Trip
+apple_music_url: https://music.apple.com/search?term=Rain%20Parade%20Emergency%20Third%20Rail%20Power%20Trip%20/%20Explosions%20in%20the%20Glass%20Palace%20Trip
 youtube_url: https://www.youtube.com/results?search_query=Rain%20Parade%20Emergency%20Third%20Rail%20Power%20Trip%20/%20Explosions%20in%20the%20Glass%20Palace%20Trip
 ---
 

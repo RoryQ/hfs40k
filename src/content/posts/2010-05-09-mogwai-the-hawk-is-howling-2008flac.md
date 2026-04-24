@@ -6,7 +6,7 @@ title: Mogwai - The Hawk is Howling [2008/FLAC]
 artist: Mogwai
 album: The Hawk is Howling
 spotify_url: https://open.spotify.com/search/Mogwai%20The%20Hawk%20is%20Howling
-apple_music_url: https://music.apple.com/us/search?term=Mogwai%20The%20Hawk%20is%20Howling
+apple_music_url: https://music.apple.com/search?term=Mogwai%20The%20Hawk%20is%20Howling
 youtube_url: https://www.youtube.com/results?search_query=Mogwai%20The%20Hawk%20is%20Howling
 ---
 

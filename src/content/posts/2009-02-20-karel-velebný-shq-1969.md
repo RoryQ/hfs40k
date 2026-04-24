@@ -6,7 +6,7 @@ title: "Karel Velebn\xFD - SHQ (1969)"
 artist: "Karel Velebn\xFD"
 album: SHQ
 spotify_url: https://open.spotify.com/search/Karel%20Velebn%C3%BD%20SHQ
-apple_music_url: https://music.apple.com/us/search?term=Karel%20Velebn%C3%BD%20SHQ
+apple_music_url: https://music.apple.com/search?term=Karel%20Velebn%C3%BD%20SHQ
 youtube_url: https://www.youtube.com/results?search_query=Karel%20Velebn%C3%BD%20SHQ
 ---
 

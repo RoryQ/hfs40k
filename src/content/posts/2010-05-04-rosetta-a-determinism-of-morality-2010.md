@@ -6,7 +6,7 @@ title: Rosetta - A Determinism of Morality (2010)
 artist: Rosetta
 album: A Determinism of Morality
 spotify_url: https://open.spotify.com/search/Rosetta%20A%20Determinism%20of%20Morality
-apple_music_url: https://music.apple.com/us/search?term=Rosetta%20A%20Determinism%20of%20Morality
+apple_music_url: https://music.apple.com/search?term=Rosetta%20A%20Determinism%20of%20Morality
 youtube_url: https://www.youtube.com/results?search_query=Rosetta%20A%20Determinism%20of%20Morality
 ---
 

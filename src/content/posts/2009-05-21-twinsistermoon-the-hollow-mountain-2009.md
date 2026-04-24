@@ -6,7 +6,7 @@ title: TwinSisterMoon - The Hollow Mountain (2009)
 artist: TwinSisterMoon
 album: The Hollow Mountain
 spotify_url: https://open.spotify.com/search/TwinSisterMoon%20The%20Hollow%20Mountain
-apple_music_url: https://music.apple.com/us/search?term=TwinSisterMoon%20The%20Hollow%20Mountain
+apple_music_url: https://music.apple.com/search?term=TwinSisterMoon%20The%20Hollow%20Mountain
 youtube_url: https://www.youtube.com/results?search_query=TwinSisterMoon%20The%20Hollow%20Mountain
 ---
 

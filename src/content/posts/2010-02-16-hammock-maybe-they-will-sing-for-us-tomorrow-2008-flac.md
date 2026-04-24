@@ -6,7 +6,7 @@ title: Hammock - Maybe They Will Sing For Us Tomorrow [2008, FLAC]
 artist: Hammock
 album: Maybe They Will Sing For Us Tomorrow
 spotify_url: https://open.spotify.com/search/Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
-apple_music_url: https://music.apple.com/us/search?term=Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
+apple_music_url: https://music.apple.com/search?term=Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
 youtube_url: https://www.youtube.com/results?search_query=Hammock%20Maybe%20They%20Will%20Sing%20For%20Us%20Tomorrow
 ---
 

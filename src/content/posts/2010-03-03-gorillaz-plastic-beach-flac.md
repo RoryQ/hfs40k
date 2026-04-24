@@ -6,7 +6,7 @@ title: Gorillaz - Plastic Beach (FLAC)
 artist: Gorillaz
 album: Plastic Beach
 spotify_url: https://open.spotify.com/search/Gorillaz%20Plastic%20Beach
-apple_music_url: https://music.apple.com/us/search?term=Gorillaz%20Plastic%20Beach
+apple_music_url: https://music.apple.com/search?term=Gorillaz%20Plastic%20Beach
 youtube_url: https://www.youtube.com/results?search_query=Gorillaz%20Plastic%20Beach
 ---
 

@@ -6,7 +6,7 @@ title: Animal Collective - Campfire Songs (FLAC)
 artist: Animal Collective
 album: Campfire Songs
 spotify_url: https://open.spotify.com/search/Animal%20Collective%20Campfire%20Songs
-apple_music_url: https://music.apple.com/us/search?term=Animal%20Collective%20Campfire%20Songs
+apple_music_url: https://music.apple.com/search?term=Animal%20Collective%20Campfire%20Songs
 youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Campfire%20Songs
 ---
 

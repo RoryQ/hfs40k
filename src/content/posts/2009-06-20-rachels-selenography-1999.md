@@ -6,7 +6,7 @@ title: Rachel's - Selenography (1999)
 artist: Rachel's
 album: Selenography
 spotify_url: https://open.spotify.com/search/Rachel%27s%20Selenography
-apple_music_url: https://music.apple.com/us/search?term=Rachel%27s%20Selenography
+apple_music_url: https://music.apple.com/search?term=Rachel%27s%20Selenography
 youtube_url: https://www.youtube.com/results?search_query=Rachel%27s%20Selenography
 ---
 

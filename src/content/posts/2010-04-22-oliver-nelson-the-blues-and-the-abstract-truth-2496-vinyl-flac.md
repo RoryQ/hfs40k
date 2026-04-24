@@ -6,7 +6,7 @@ title: Oliver Nelson - The Blues and the Abstract Truth 24/96 vinyl FLAC
 artist: Oliver Nelson
 album: The Blues and the Abstract Truth 24/96 vinyl FLAC
 spotify_url: https://open.spotify.com/search/Oliver%20Nelson%20The%20Blues%20and%20the%20Abstract%20Truth%2024/96%20vinyl%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Oliver%20Nelson%20The%20Blues%20and%20the%20Abstract%20Truth%2024/96%20vinyl%20FLAC
+apple_music_url: https://music.apple.com/search?term=Oliver%20Nelson%20The%20Blues%20and%20the%20Abstract%20Truth%2024/96%20vinyl%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Oliver%20Nelson%20The%20Blues%20and%20the%20Abstract%20Truth%2024/96%20vinyl%20FLAC
 ---
 

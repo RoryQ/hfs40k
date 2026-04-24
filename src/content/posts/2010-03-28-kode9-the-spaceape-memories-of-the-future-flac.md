@@ -6,7 +6,7 @@ title: Kode9 & The Spaceape - Memories Of The Future FLAC
 artist: Kode9 & The Spaceape
 album: Memories Of The Future FLAC
 spotify_url: https://open.spotify.com/search/Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
+apple_music_url: https://music.apple.com/search?term=Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Kode9%20%26%20The%20Spaceape%20Memories%20Of%20The%20Future%20FLAC
 ---
 

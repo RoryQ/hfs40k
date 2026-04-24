@@ -6,7 +6,7 @@ title: New Trolls - Concerto grosso per I New Trolls (FLAC)
 artist: New Trolls
 album: Concerto grosso per I New Trolls
 spotify_url: https://open.spotify.com/search/New%20Trolls%20Concerto%20grosso%20per%20I%20New%20Trolls
-apple_music_url: https://music.apple.com/us/search?term=New%20Trolls%20Concerto%20grosso%20per%20I%20New%20Trolls
+apple_music_url: https://music.apple.com/search?term=New%20Trolls%20Concerto%20grosso%20per%20I%20New%20Trolls
 youtube_url: https://www.youtube.com/results?search_query=New%20Trolls%20Concerto%20grosso%20per%20I%20New%20Trolls
 ---
 

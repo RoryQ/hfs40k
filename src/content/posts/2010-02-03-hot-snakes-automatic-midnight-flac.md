@@ -6,7 +6,7 @@ title: Hot Snakes - Automatic Midnight (FLAC)
 artist: Hot Snakes
 album: Automatic Midnight
 spotify_url: https://open.spotify.com/search/Hot%20Snakes%20Automatic%20Midnight
-apple_music_url: https://music.apple.com/us/search?term=Hot%20Snakes%20Automatic%20Midnight
+apple_music_url: https://music.apple.com/search?term=Hot%20Snakes%20Automatic%20Midnight
 youtube_url: https://www.youtube.com/results?search_query=Hot%20Snakes%20Automatic%20Midnight
 ---
 

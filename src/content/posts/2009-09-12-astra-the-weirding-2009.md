@@ -6,7 +6,7 @@ title: Astra - The Weirding (2009)
 artist: Astra
 album: The Weirding
 spotify_url: https://open.spotify.com/search/Astra%20The%20Weirding
-apple_music_url: https://music.apple.com/us/search?term=Astra%20The%20Weirding
+apple_music_url: https://music.apple.com/search?term=Astra%20The%20Weirding
 youtube_url: https://www.youtube.com/results?search_query=Astra%20The%20Weirding
 ---
 

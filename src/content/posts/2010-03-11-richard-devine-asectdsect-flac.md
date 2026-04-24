@@ -6,7 +6,7 @@ title: Richard Devine - Asect:Dsect FLAC
 artist: Richard Devine
 album: Asect:Dsect FLAC
 spotify_url: https://open.spotify.com/search/Richard%20Devine%20Asect%3ADsect%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Richard%20Devine%20Asect%3ADsect%20FLAC
+apple_music_url: https://music.apple.com/search?term=Richard%20Devine%20Asect%3ADsect%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Richard%20Devine%20Asect%3ADsect%20FLAC
 ---
 

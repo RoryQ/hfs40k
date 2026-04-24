@@ -6,7 +6,7 @@ title: Binary Star - Masters Of The Universe (2000) [FLAC]
 artist: Binary Star
 album: Masters Of The Universe
 spotify_url: https://open.spotify.com/search/Binary%20Star%20Masters%20Of%20The%20Universe
-apple_music_url: https://geo.music.apple.com/au/album/_/1831263027?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1831263027
 youtube_url: https://www.youtube.com/results?search_query=Binary%20Star%20Masters%20Of%20The%20Universe
 ---
 

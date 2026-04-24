@@ -6,7 +6,7 @@ title: "The Radio Dept. \u2013 Clinging to a Scheme (2010)"
 artist: The Radio Dept.
 album: Clinging to a Scheme
 spotify_url: https://open.spotify.com/search/The%20Radio%20Dept.%20Clinging%20to%20a%20Scheme
-apple_music_url: https://geo.music.apple.com/au/album/_/1641866105?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1641866105
 youtube_url: https://www.youtube.com/results?search_query=The%20Radio%20Dept.%20Clinging%20to%20a%20Scheme
 ---
 

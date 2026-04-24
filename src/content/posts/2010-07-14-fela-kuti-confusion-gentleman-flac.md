@@ -6,7 +6,7 @@ title: Fela Kuti - Confusion + Gentleman (FLAC)
 artist: Fela Kuti
 album: Confusion + Gentleman
 spotify_url: https://open.spotify.com/search/Fela%20Kuti%20Confusion%20%2B%20Gentleman
-apple_music_url: https://music.apple.com/us/search?term=Fela%20Kuti%20Confusion%20%2B%20Gentleman
+apple_music_url: https://music.apple.com/search?term=Fela%20Kuti%20Confusion%20%2B%20Gentleman
 youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Confusion%20%2B%20Gentleman
 ---
 

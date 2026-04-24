@@ -6,7 +6,7 @@ title: John Coltrane - Ascension (1966) [FLAC]
 artist: John Coltrane
 album: Ascension
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20Ascension
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Ascension
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20Ascension
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Ascension
 ---
 

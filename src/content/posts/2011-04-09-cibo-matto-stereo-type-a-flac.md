@@ -6,7 +6,7 @@ title: "Cibo Matto - Stereo \u2605 Type A [FLAC]"
 artist: Cibo Matto
 album: "Stereo \u2605 Type A"
 spotify_url: https://open.spotify.com/search/Cibo%20Matto%20Stereo%20%E2%98%85%20Type%20A
-apple_music_url: https://music.apple.com/us/search?term=Cibo%20Matto%20Stereo%20%E2%98%85%20Type%20A
+apple_music_url: https://music.apple.com/search?term=Cibo%20Matto%20Stereo%20%E2%98%85%20Type%20A
 youtube_url: https://www.youtube.com/results?search_query=Cibo%20Matto%20Stereo%20%E2%98%85%20Type%20A
 ---
 

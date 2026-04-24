@@ -6,7 +6,7 @@ title: Yo La Tengo - Electr-O-Pura (FLAC)
 artist: Yo La Tengo
 album: Electr-O-Pura
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20Electr-O-Pura
-apple_music_url: https://geo.music.apple.com/au/album/_/1590344686?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1590344686
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20Electr-O-Pura
 ---
 

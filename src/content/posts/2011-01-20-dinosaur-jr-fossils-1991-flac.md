@@ -6,7 +6,7 @@ title: Dinosaur Jr. - Fossils (1991) [FLAC]
 artist: Dinosaur Jr.
 album: Fossils
 spotify_url: https://open.spotify.com/search/Dinosaur%20Jr.%20Fossils
-apple_music_url: https://music.apple.com/us/search?term=Dinosaur%20Jr.%20Fossils
+apple_music_url: https://music.apple.com/search?term=Dinosaur%20Jr.%20Fossils
 youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20Fossils
 ---
 

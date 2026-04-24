@@ -6,7 +6,7 @@ title: Van der Graaf Generator - Pawn Hearts (FLAC)
 artist: Van der Graaf Generator
 album: Pawn Hearts
 spotify_url: https://open.spotify.com/search/Van%20der%20Graaf%20Generator%20Pawn%20Hearts
-apple_music_url: https://geo.music.apple.com/au/album/_/714659628?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/714659628
 youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Generator%20Pawn%20Hearts
 ---
 

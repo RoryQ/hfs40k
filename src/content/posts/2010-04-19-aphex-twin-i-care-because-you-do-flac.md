@@ -6,7 +6,7 @@ title: Aphex Twin - I Care Because You Do (FLAC)
 artist: Aphex Twin
 album: I Care Because You Do
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20I%20Care%20Because%20You%20Do
-apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20I%20Care%20Because%20You%20Do
+apple_music_url: https://music.apple.com/search?term=Aphex%20Twin%20I%20Care%20Because%20You%20Do
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20I%20Care%20Because%20You%20Do
 ---
 

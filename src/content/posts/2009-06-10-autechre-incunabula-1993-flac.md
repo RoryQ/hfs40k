@@ -6,7 +6,7 @@ title: Autechre - Incunabula (1993) [FLAC]
 artist: Autechre
 album: Incunabula
 spotify_url: https://open.spotify.com/search/Autechre%20Incunabula
-apple_music_url: https://music.apple.com/us/search?term=Autechre%20Incunabula
+apple_music_url: https://music.apple.com/search?term=Autechre%20Incunabula
 youtube_url: https://www.youtube.com/results?search_query=Autechre%20Incunabula
 ---
 

@@ -6,7 +6,7 @@ title: Coil - Love's Secret Domain (1991) [320 mp3]
 artist: Coil
 album: Love's Secret Domain
 spotify_url: https://open.spotify.com/search/Coil%20Love%27s%20Secret%20Domain
-apple_music_url: https://music.apple.com/us/search?term=Coil%20Love%27s%20Secret%20Domain
+apple_music_url: https://music.apple.com/search?term=Coil%20Love%27s%20Secret%20Domain
 youtube_url: https://www.youtube.com/results?search_query=Coil%20Love%27s%20Secret%20Domain
 ---
 

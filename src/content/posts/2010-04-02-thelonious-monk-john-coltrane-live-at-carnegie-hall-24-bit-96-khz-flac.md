@@ -6,7 +6,7 @@ title: Thelonious Monk & John Coltrane - Live at Carnegie Hall (24 bit /96 kHz F
 artist: Thelonious Monk & John Coltrane
 album: Live at Carnegie Hall
 spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20%26%20John%20Coltrane%20Live%20at%20Carnegie%20Hall
-apple_music_url: https://music.apple.com/us/search?term=Thelonious%20Monk%20%26%20John%20Coltrane%20Live%20at%20Carnegie%20Hall
+apple_music_url: https://music.apple.com/search?term=Thelonious%20Monk%20%26%20John%20Coltrane%20Live%20at%20Carnegie%20Hall
 youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20%26%20John%20Coltrane%20Live%20at%20Carnegie%20Hall
 ---
 

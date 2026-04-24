@@ -6,7 +6,7 @@ title: Aphrodite's Child - 666 (1972) [FLAC]
 artist: Aphrodite's Child
 album: '666'
 spotify_url: https://open.spotify.com/search/Aphrodite%27s%20Child%20666
-apple_music_url: https://music.apple.com/us/search?term=Aphrodite%27s%20Child%20666
+apple_music_url: https://music.apple.com/search?term=Aphrodite%27s%20Child%20666
 youtube_url: https://www.youtube.com/results?search_query=Aphrodite%27s%20Child%20666
 ---
 

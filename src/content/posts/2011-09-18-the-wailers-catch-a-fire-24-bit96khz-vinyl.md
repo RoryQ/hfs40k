@@ -6,7 +6,7 @@ title: The Wailers - Catch A Fire (24-bit/96khz Vinyl)
 artist: The Wailers
 album: Catch A Fire
 spotify_url: https://open.spotify.com/search/The%20Wailers%20Catch%20A%20Fire
-apple_music_url: https://music.apple.com/us/search?term=The%20Wailers%20Catch%20A%20Fire
+apple_music_url: https://music.apple.com/search?term=The%20Wailers%20Catch%20A%20Fire
 youtube_url: https://www.youtube.com/results?search_query=The%20Wailers%20Catch%20A%20Fire
 ---
 

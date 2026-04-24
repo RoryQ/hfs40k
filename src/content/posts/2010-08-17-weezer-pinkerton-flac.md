@@ -6,7 +6,7 @@ title: Weezer - Pinkerton (FLAC)
 artist: Weezer
 album: Pinkerton
 spotify_url: https://open.spotify.com/search/Weezer%20Pinkerton
-apple_music_url: https://music.apple.com/us/search?term=Weezer%20Pinkerton
+apple_music_url: https://music.apple.com/search?term=Weezer%20Pinkerton
 youtube_url: https://www.youtube.com/results?search_query=Weezer%20Pinkerton
 ---
 

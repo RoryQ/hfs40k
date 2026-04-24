@@ -7,7 +7,7 @@ title: Ludwig van Beethoven - Symphonies Nos. 6 & 8 (Leonard Bernstein & the New
 artist: Ludwig van Beethoven
 album: Symphonies Nos. 6 & 8
 spotify_url: https://open.spotify.com/search/Ludwig%20van%20Beethoven%20Symphonies%20Nos.%206%20%26%208
-apple_music_url: https://geo.music.apple.com/au/album/_/349353057?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/349353057
 youtube_url: https://www.youtube.com/results?search_query=Ludwig%20van%20Beethoven%20Symphonies%20Nos.%206%20%26%208
 ---
 

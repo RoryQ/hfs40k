@@ -6,7 +6,7 @@ title: Melt-Banana - 1998/13000 Miles - At Light Velocity
 artist: Melt
 album: Banana - 1998/13000 Miles - At Light Velocity
 spotify_url: https://open.spotify.com/search/Melt%20Banana%20-%201998/13000%20Miles%20-%20At%20Light%20Velocity
-apple_music_url: https://music.apple.com/us/search?term=Melt%20Banana%20-%201998/13000%20Miles%20-%20At%20Light%20Velocity
+apple_music_url: https://music.apple.com/search?term=Melt%20Banana%20-%201998/13000%20Miles%20-%20At%20Light%20Velocity
 youtube_url: https://www.youtube.com/results?search_query=Melt%20Banana%20-%201998/13000%20Miles%20-%20At%20Light%20Velocity
 ---
 

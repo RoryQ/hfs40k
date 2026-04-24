@@ -6,7 +6,7 @@ title: Ground Zero - Null & Void (FLAC)
 artist: Ground Zero
 album: Null & Void
 spotify_url: https://open.spotify.com/search/Ground%20Zero%20Null%20%26%20Void
-apple_music_url: https://geo.music.apple.com/au/album/_/1461183287?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1461183287
 youtube_url: https://www.youtube.com/results?search_query=Ground%20Zero%20Null%20%26%20Void
 ---
 

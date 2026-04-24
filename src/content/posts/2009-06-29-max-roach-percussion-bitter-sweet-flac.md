@@ -6,7 +6,7 @@ title: Max Roach - Percussion Bitter Sweet (FLAC)
 artist: Max Roach
 album: Percussion Bitter Sweet
 spotify_url: https://open.spotify.com/search/Max%20Roach%20Percussion%20Bitter%20Sweet
-apple_music_url: https://geo.music.apple.com/au/album/_/1445869052?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1445869052
 youtube_url: https://www.youtube.com/results?search_query=Max%20Roach%20Percussion%20Bitter%20Sweet
 ---
 

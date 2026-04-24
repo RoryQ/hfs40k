@@ -6,7 +6,7 @@ title: Herbie Nichols - The Complete Blue Note Recordings
 artist: Herbie Nichols
 album: The Complete Blue Note Recordings
 spotify_url: https://open.spotify.com/search/Herbie%20Nichols%20The%20Complete%20Blue%20Note%20Recordings
-apple_music_url: https://geo.music.apple.com/au/album/_/716233595?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/716233595
 youtube_url: https://www.youtube.com/results?search_query=Herbie%20Nichols%20The%20Complete%20Blue%20Note%20Recordings
 ---
 

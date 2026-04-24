@@ -6,7 +6,7 @@ title: Grachan Moncur III - Evolution (FLAC)
 artist: Grachan Moncur III
 album: Evolution
 spotify_url: https://open.spotify.com/search/Grachan%20Moncur%20III%20Evolution
-apple_music_url: https://music.apple.com/us/search?term=Grachan%20Moncur%20III%20Evolution
+apple_music_url: https://music.apple.com/search?term=Grachan%20Moncur%20III%20Evolution
 youtube_url: https://www.youtube.com/results?search_query=Grachan%20Moncur%20III%20Evolution
 ---
 

@@ -6,7 +6,7 @@ title: Tom Waits - Real Gone (FLAC)
 artist: Tom Waits
 album: Real Gone
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Real%20Gone
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Real%20Gone
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Real%20Gone
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Real%20Gone
 ---
 

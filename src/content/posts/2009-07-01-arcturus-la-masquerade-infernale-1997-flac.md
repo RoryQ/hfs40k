@@ -6,7 +6,7 @@ title: Arcturus - La masquerade infernale (1997) [FLAC]
 artist: Arcturus
 album: La masquerade infernale
 spotify_url: https://open.spotify.com/search/Arcturus%20La%20masquerade%20infernale
-apple_music_url: https://music.apple.com/us/search?term=Arcturus%20La%20masquerade%20infernale
+apple_music_url: https://music.apple.com/search?term=Arcturus%20La%20masquerade%20infernale
 youtube_url: https://www.youtube.com/results?search_query=Arcturus%20La%20masquerade%20infernale
 ---
 

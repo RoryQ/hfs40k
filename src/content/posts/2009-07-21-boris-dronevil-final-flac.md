@@ -6,7 +6,7 @@ title: Boris - Dronevil -Final- [FLAC]
 artist: Boris
 album: Dronevil -Final-
 spotify_url: https://open.spotify.com/search/Boris%20Dronevil%20-Final-
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Dronevil%20-Final-
+apple_music_url: https://music.apple.com/search?term=Boris%20Dronevil%20-Final-
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Dronevil%20-Final-
 ---
 

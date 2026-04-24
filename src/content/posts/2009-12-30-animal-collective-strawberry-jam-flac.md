@@ -6,7 +6,7 @@ title: Animal Collective - Strawberry Jam (FLAC)
 artist: Animal Collective
 album: Strawberry Jam
 spotify_url: https://open.spotify.com/search/Animal%20Collective%20Strawberry%20Jam
-apple_music_url: https://geo.music.apple.com/au/album/_/262612569?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/262612569
 youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Strawberry%20Jam
 ---
 

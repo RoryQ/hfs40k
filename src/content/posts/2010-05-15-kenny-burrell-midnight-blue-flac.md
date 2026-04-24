@@ -6,7 +6,7 @@ title: Kenny Burrell - Midnight Blue (FLAC)
 artist: Kenny Burrell
 album: Midnight Blue
 spotify_url: https://open.spotify.com/search/Kenny%20Burrell%20Midnight%20Blue
-apple_music_url: https://music.apple.com/us/search?term=Kenny%20Burrell%20Midnight%20Blue
+apple_music_url: https://music.apple.com/search?term=Kenny%20Burrell%20Midnight%20Blue
 youtube_url: https://www.youtube.com/results?search_query=Kenny%20Burrell%20Midnight%20Blue
 ---
 

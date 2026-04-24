@@ -6,7 +6,7 @@ title: The xx - xx (FLAC)
 artist: The xx
 album: xx
 spotify_url: https://open.spotify.com/search/The%20xx%20xx
-apple_music_url: https://music.apple.com/us/search?term=The%20xx%20xx
+apple_music_url: https://music.apple.com/search?term=The%20xx%20xx
 youtube_url: https://www.youtube.com/results?search_query=The%20xx%20xx
 ---
 

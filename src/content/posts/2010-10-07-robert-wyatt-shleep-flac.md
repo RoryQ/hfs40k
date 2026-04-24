@@ -6,7 +6,7 @@ title: Robert Wyatt - Shleep (FLAC)
 artist: Robert Wyatt
 album: Shleep
 spotify_url: https://open.spotify.com/search/Robert%20Wyatt%20Shleep
-apple_music_url: https://music.apple.com/us/search?term=Robert%20Wyatt%20Shleep
+apple_music_url: https://music.apple.com/search?term=Robert%20Wyatt%20Shleep
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Wyatt%20Shleep
 ---
 

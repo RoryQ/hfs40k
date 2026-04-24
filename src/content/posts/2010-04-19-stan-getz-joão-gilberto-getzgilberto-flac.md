@@ -6,7 +6,7 @@ title: "Stan Getz & Jo\xE3o Gilberto - Getz/Gilberto (FLAC)"
 artist: "Stan Getz & Jo\xE3o Gilberto"
 album: Getz/Gilberto
 spotify_url: https://open.spotify.com/search/Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20Getz/Gilberto
-apple_music_url: https://music.apple.com/us/search?term=Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20Getz/Gilberto
+apple_music_url: https://music.apple.com/search?term=Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20Getz/Gilberto
 youtube_url: https://www.youtube.com/results?search_query=Stan%20Getz%20%26%20Jo%C3%A3o%20Gilberto%20Getz/Gilberto
 ---
 

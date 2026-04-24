@@ -6,7 +6,7 @@ title: "B\xE9la Bart\xF3k - The Six String Quartets (Emerson String Quartet) (FL
 artist: "B\xE9la Bart\xF3k"
 album: The Six String Quartets
 spotify_url: https://open.spotify.com/search/B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
-apple_music_url: https://music.apple.com/us/search?term=B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
+apple_music_url: https://music.apple.com/search?term=B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
 youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3k%20The%20Six%20String%20Quartets
 ---
 

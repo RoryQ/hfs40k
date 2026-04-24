@@ -6,7 +6,7 @@ title: Stars of the Lid - The Tired Sounds (2001)
 artist: Stars of the Lid
 album: The Tired Sounds
 spotify_url: https://open.spotify.com/search/Stars%20of%20the%20Lid%20The%20Tired%20Sounds
-apple_music_url: https://geo.music.apple.com/au/album/_/40886816?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/40886816
 youtube_url: https://www.youtube.com/results?search_query=Stars%20of%20the%20Lid%20The%20Tired%20Sounds
 ---
 

@@ -6,7 +6,7 @@ title: "Dan Swan\xF6 - Moontower (FLAC)"
 artist: "Dan Swan\xF6"
 album: Moontower
 spotify_url: https://open.spotify.com/search/Dan%20Swan%C3%B6%20Moontower
-apple_music_url: https://music.apple.com/us/search?term=Dan%20Swan%C3%B6%20Moontower
+apple_music_url: https://music.apple.com/search?term=Dan%20Swan%C3%B6%20Moontower
 youtube_url: https://www.youtube.com/results?search_query=Dan%20Swan%C3%B6%20Moontower
 ---
 

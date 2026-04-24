@@ -6,7 +6,7 @@ title: 'fabric 55: Shackleton (2010. FLAC)'
 artist: Shackleton
 album: fabric 55
 spotify_url: https://open.spotify.com/search/Shackleton%20fabric%2055
-apple_music_url: https://music.apple.com/us/search?term=Shackleton%20fabric%2055
+apple_music_url: https://music.apple.com/search?term=Shackleton%20fabric%2055
 youtube_url: https://www.youtube.com/results?search_query=Shackleton%20fabric%2055
 ---
 

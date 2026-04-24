@@ -6,7 +6,7 @@ title: Neutral Milk Hotel - In The Aeroplane Over The Sea (FLAC)
 artist: Neutral Milk Hotel
 album: In The Aeroplane Over The Sea
 spotify_url: https://open.spotify.com/search/Neutral%20Milk%20Hotel%20In%20The%20Aeroplane%20Over%20The%20Sea
-apple_music_url: https://music.apple.com/us/search?term=Neutral%20Milk%20Hotel%20In%20The%20Aeroplane%20Over%20The%20Sea
+apple_music_url: https://music.apple.com/search?term=Neutral%20Milk%20Hotel%20In%20The%20Aeroplane%20Over%20The%20Sea
 youtube_url: https://www.youtube.com/results?search_query=Neutral%20Milk%20Hotel%20In%20The%20Aeroplane%20Over%20The%20Sea
 ---
 

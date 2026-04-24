@@ -6,7 +6,7 @@ title: David Bowie - Low (Vinyl FLAC)
 artist: David Bowie
 album: Low
 spotify_url: https://open.spotify.com/search/David%20Bowie%20Low
-apple_music_url: https://music.apple.com/us/search?term=David%20Bowie%20Low
+apple_music_url: https://music.apple.com/search?term=David%20Bowie%20Low
 youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Low
 ---
 

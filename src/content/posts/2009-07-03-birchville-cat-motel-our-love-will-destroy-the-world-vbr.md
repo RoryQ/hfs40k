@@ -6,7 +6,7 @@ title: Birchville Cat Motel - Our Love Will Destroy the World (VBR)
 artist: Birchville Cat Motel
 album: Our Love Will Destroy the World
 spotify_url: https://open.spotify.com/search/Birchville%20Cat%20Motel%20Our%20Love%20Will%20Destroy%20the%20World
-apple_music_url: https://music.apple.com/us/search?term=Birchville%20Cat%20Motel%20Our%20Love%20Will%20Destroy%20the%20World
+apple_music_url: https://music.apple.com/search?term=Birchville%20Cat%20Motel%20Our%20Love%20Will%20Destroy%20the%20World
 youtube_url: https://www.youtube.com/results?search_query=Birchville%20Cat%20Motel%20Our%20Love%20Will%20Destroy%20the%20World
 ---
 

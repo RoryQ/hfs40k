@@ -6,7 +6,7 @@ title: Datacide - Flowerhead FLAC
 artist: Datacide
 album: Flowerhead FLAC
 spotify_url: https://open.spotify.com/search/Datacide%20Flowerhead%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Datacide%20Flowerhead%20FLAC
+apple_music_url: https://music.apple.com/search?term=Datacide%20Flowerhead%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Datacide%20Flowerhead%20FLAC
 ---
 

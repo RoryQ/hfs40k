@@ -6,7 +6,7 @@ title: Drive Like Jehu - Yank Crime (FLAC)
 artist: Drive Like Jehu
 album: Yank Crime
 spotify_url: https://open.spotify.com/search/Drive%20Like%20Jehu%20Yank%20Crime
-apple_music_url: https://music.apple.com/us/search?term=Drive%20Like%20Jehu%20Yank%20Crime
+apple_music_url: https://music.apple.com/search?term=Drive%20Like%20Jehu%20Yank%20Crime
 youtube_url: https://www.youtube.com/results?search_query=Drive%20Like%20Jehu%20Yank%20Crime
 ---
 

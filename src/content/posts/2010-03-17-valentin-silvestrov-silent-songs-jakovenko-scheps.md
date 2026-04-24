@@ -6,7 +6,7 @@ title: Valentin Silvestrov - Silent Songs [Jakovenko, Scheps]
 artist: Valentin Silvestrov
 album: Silent Songs
 spotify_url: https://open.spotify.com/search/Valentin%20Silvestrov%20Silent%20Songs
-apple_music_url: https://music.apple.com/us/search?term=Valentin%20Silvestrov%20Silent%20Songs
+apple_music_url: https://music.apple.com/search?term=Valentin%20Silvestrov%20Silent%20Songs
 youtube_url: https://www.youtube.com/results?search_query=Valentin%20Silvestrov%20Silent%20Songs
 ---
 

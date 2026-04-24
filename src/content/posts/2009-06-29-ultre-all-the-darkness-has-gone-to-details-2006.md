@@ -6,7 +6,7 @@ title: Ultre - All The Darkness Has Gone To Details (2006)
 artist: Ultre
 album: All The Darkness Has Gone To Details
 spotify_url: https://open.spotify.com/search/Ultre%20All%20The%20Darkness%20Has%20Gone%20To%20Details
-apple_music_url: https://music.apple.com/us/search?term=Ultre%20All%20The%20Darkness%20Has%20Gone%20To%20Details
+apple_music_url: https://music.apple.com/search?term=Ultre%20All%20The%20Darkness%20Has%20Gone%20To%20Details
 youtube_url: https://www.youtube.com/results?search_query=Ultre%20All%20The%20Darkness%20Has%20Gone%20To%20Details
 ---
 

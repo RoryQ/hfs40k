@@ -6,7 +6,7 @@ title: Univers Zero - Heresie (FLAC)
 artist: Univers Zero
 album: Heresie
 spotify_url: https://open.spotify.com/search/Univers%20Zero%20Heresie
-apple_music_url: https://music.apple.com/us/search?term=Univers%20Zero%20Heresie
+apple_music_url: https://music.apple.com/search?term=Univers%20Zero%20Heresie
 youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Heresie
 ---
 

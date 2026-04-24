@@ -6,7 +6,7 @@ title: "Clann Z\xFA - Black Coats & Bandages (FLAC)"
 artist: "Clann Z\xFA"
 album: Black Coats & Bandages
 spotify_url: https://open.spotify.com/search/Clann%20Z%C3%BA%20Black%20Coats%20%26%20Bandages
-apple_music_url: https://music.apple.com/us/search?term=Clann%20Z%C3%BA%20Black%20Coats%20%26%20Bandages
+apple_music_url: https://music.apple.com/search?term=Clann%20Z%C3%BA%20Black%20Coats%20%26%20Bandages
 youtube_url: https://www.youtube.com/results?search_query=Clann%20Z%C3%BA%20Black%20Coats%20%26%20Bandages
 ---
 

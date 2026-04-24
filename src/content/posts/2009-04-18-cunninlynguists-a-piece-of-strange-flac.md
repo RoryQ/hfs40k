@@ -6,7 +6,7 @@ title: CunninLynguists - A Piece Of Strange (FLAC)
 artist: CunninLynguists
 album: A Piece Of Strange
 spotify_url: https://open.spotify.com/search/CunninLynguists%20A%20Piece%20Of%20Strange
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20A%20Piece%20Of%20Strange
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20A%20Piece%20Of%20Strange
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20A%20Piece%20Of%20Strange
 ---
 

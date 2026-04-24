@@ -6,7 +6,7 @@ title: Portishead - Roseland NYC Live
 artist: Portishead
 album: Roseland NYC Live
 spotify_url: https://open.spotify.com/search/Portishead%20Roseland%20NYC%20Live
-apple_music_url: https://music.apple.com/us/search?term=Portishead%20Roseland%20NYC%20Live
+apple_music_url: https://music.apple.com/search?term=Portishead%20Roseland%20NYC%20Live
 youtube_url: https://www.youtube.com/results?search_query=Portishead%20Roseland%20NYC%20Live
 ---
 

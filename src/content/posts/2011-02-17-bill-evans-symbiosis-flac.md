@@ -6,7 +6,7 @@ title: Bill Evans - Symbiosis (FLAC)
 artist: Bill Evans
 album: Symbiosis
 spotify_url: https://open.spotify.com/search/Bill%20Evans%20Symbiosis
-apple_music_url: https://music.apple.com/us/search?term=Bill%20Evans%20Symbiosis
+apple_music_url: https://music.apple.com/search?term=Bill%20Evans%20Symbiosis
 youtube_url: https://www.youtube.com/results?search_query=Bill%20Evans%20Symbiosis
 ---
 

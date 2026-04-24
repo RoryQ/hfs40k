@@ -6,7 +6,7 @@ title: Roxy Music - Country Life (1974) [FLAC]
 artist: Roxy Music
 album: Country Life
 spotify_url: https://open.spotify.com/search/Roxy%20Music%20Country%20Life
-apple_music_url: https://music.apple.com/us/search?term=Roxy%20Music%20Country%20Life
+apple_music_url: https://music.apple.com/search?term=Roxy%20Music%20Country%20Life
 youtube_url: https://www.youtube.com/results?search_query=Roxy%20Music%20Country%20Life
 ---
 

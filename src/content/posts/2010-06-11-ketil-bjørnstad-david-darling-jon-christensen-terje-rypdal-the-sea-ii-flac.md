@@ -7,7 +7,7 @@ title: "Ketil Bj\xF8rnstad, David Darling, Jon Christensen & Terje Rypdal - The 
 artist: "Ketil Bj\xF8rnstad, David Darling, Jon Christensen & Terje Rypdal"
 album: The Sea II
 spotify_url: https://open.spotify.com/search/Ketil%20Bj%C3%B8rnstad%2C%20David%20Darling%2C%20Jon%20Christensen%20%26%20Terje%20Rypdal%20The%20Sea%20II
-apple_music_url: https://geo.music.apple.com/au/album/_/1443790142?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1443790142
 youtube_url: https://www.youtube.com/results?search_query=Ketil%20Bj%C3%B8rnstad%2C%20David%20Darling%2C%20Jon%20Christensen%20%26%20Terje%20Rypdal%20The%20Sea%20II
 ---
 

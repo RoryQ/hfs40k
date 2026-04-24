@@ -6,7 +6,7 @@ title: Beat Happening - You Turn Me On (FLAC)
 artist: Beat Happening
 album: You Turn Me On
 spotify_url: https://open.spotify.com/search/Beat%20Happening%20You%20Turn%20Me%20On
-apple_music_url: https://music.apple.com/us/search?term=Beat%20Happening%20You%20Turn%20Me%20On
+apple_music_url: https://music.apple.com/search?term=Beat%20Happening%20You%20Turn%20Me%20On
 youtube_url: https://www.youtube.com/results?search_query=Beat%20Happening%20You%20Turn%20Me%20On
 ---
 

@@ -8,7 +8,7 @@ artist: Classical Week
 album: 'Day #2 Schumann: Carnaval / Brahms: Paganini Variations / Busoni: Bach Chaconne
   Transcription'
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%232%20Schumann%3A%20Carnaval%20/%20Brahms%3A%20Paganini%20Variations%20/%20Busoni%3A%20Bach%20Chaconne%20Transcription
 ---
 

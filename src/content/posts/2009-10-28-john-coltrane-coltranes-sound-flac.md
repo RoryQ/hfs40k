@@ -6,7 +6,7 @@ title: John Coltrane - Coltrane's Sound (FLAC)
 artist: John Coltrane
 album: Coltrane's Sound
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20Coltrane%27s%20Sound
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Coltrane%27s%20Sound
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20Coltrane%27s%20Sound
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Coltrane%27s%20Sound
 ---
 

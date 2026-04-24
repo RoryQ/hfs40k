@@ -6,7 +6,7 @@ title: Ektoise - Ektoise (2010)
 artist: Ektoise
 album: Ektoise
 spotify_url: https://open.spotify.com/search/Ektoise%20Ektoise
-apple_music_url: https://music.apple.com/us/search?term=Ektoise%20Ektoise
+apple_music_url: https://music.apple.com/search?term=Ektoise%20Ektoise
 youtube_url: https://www.youtube.com/results?search_query=Ektoise%20Ektoise
 ---
 

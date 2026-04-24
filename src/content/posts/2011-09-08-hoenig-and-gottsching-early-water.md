@@ -6,7 +6,7 @@ title: Hoenig And Gottsching - Early Water
 artist: Hoenig And Gottsching
 album: Early Water
 spotify_url: https://open.spotify.com/search/Hoenig%20And%20Gottsching%20Early%20Water
-apple_music_url: https://geo.music.apple.com/au/album/_/1655312078?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1655312078
 youtube_url: https://www.youtube.com/results?search_query=Hoenig%20And%20Gottsching%20Early%20Water
 ---
 

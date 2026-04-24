@@ -6,7 +6,7 @@ title: "Claude Debussy -  Pr\xE9ludes \xB7 Volume 1 (Arturo Benedetti Michelange
 artist: Claude Debussy
 album: "Pr\xE9ludes \xB7 Volume 1"
 spotify_url: https://open.spotify.com/search/Claude%20Debussy%20Pr%C3%A9ludes%20%C2%B7%20Volume%201
-apple_music_url: https://music.apple.com/us/search?term=Claude%20Debussy%20Pr%C3%A9ludes%20%C2%B7%20Volume%201
+apple_music_url: https://music.apple.com/search?term=Claude%20Debussy%20Pr%C3%A9ludes%20%C2%B7%20Volume%201
 youtube_url: https://www.youtube.com/results?search_query=Claude%20Debussy%20Pr%C3%A9ludes%20%C2%B7%20Volume%201
 ---
 

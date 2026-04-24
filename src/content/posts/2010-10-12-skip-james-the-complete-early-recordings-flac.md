@@ -6,7 +6,7 @@ title: Skip James - The Complete Early Recordings (FLAC)
 artist: Skip James
 album: The Complete Early Recordings
 spotify_url: https://open.spotify.com/search/Skip%20James%20The%20Complete%20Early%20Recordings
-apple_music_url: https://geo.music.apple.com/au/album/_/1568075884?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1568075884
 youtube_url: https://www.youtube.com/results?search_query=Skip%20James%20The%20Complete%20Early%20Recordings
 ---
 

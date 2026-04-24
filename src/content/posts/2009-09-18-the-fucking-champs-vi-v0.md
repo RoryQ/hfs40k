@@ -6,7 +6,7 @@ title: The Fucking Champs - VI (v0)
 artist: The Fucking Champs
 album: VI
 spotify_url: https://open.spotify.com/search/The%20Fucking%20Champs%20VI
-apple_music_url: https://music.apple.com/us/search?term=The%20Fucking%20Champs%20VI
+apple_music_url: https://music.apple.com/search?term=The%20Fucking%20Champs%20VI
 youtube_url: https://www.youtube.com/results?search_query=The%20Fucking%20Champs%20VI
 ---
 

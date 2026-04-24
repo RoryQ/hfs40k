@@ -6,7 +6,7 @@ title: Wayne Shorter - JuJu (FLAC)
 artist: Wayne Shorter
 album: JuJu
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20JuJu
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20JuJu
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20JuJu
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20JuJu
 ---
 

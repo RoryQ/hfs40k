@@ -6,7 +6,7 @@ title: Baader Meinhof - Baader Meinhof [FLAC]
 artist: Baader Meinhof
 album: Baader Meinhof
 spotify_url: https://open.spotify.com/search/Baader%20Meinhof%20Baader%20Meinhof
-apple_music_url: https://music.apple.com/us/search?term=Baader%20Meinhof%20Baader%20Meinhof
+apple_music_url: https://music.apple.com/search?term=Baader%20Meinhof%20Baader%20Meinhof
 youtube_url: https://www.youtube.com/results?search_query=Baader%20Meinhof%20Baader%20Meinhof
 ---
 

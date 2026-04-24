@@ -6,7 +6,7 @@ title: Autechre - Oversteps (2010, FLAC)
 artist: Autechre
 album: Oversteps
 spotify_url: https://open.spotify.com/search/Autechre%20Oversteps
-apple_music_url: https://music.apple.com/us/search?term=Autechre%20Oversteps
+apple_music_url: https://music.apple.com/search?term=Autechre%20Oversteps
 youtube_url: https://www.youtube.com/results?search_query=Autechre%20Oversteps
 ---
 

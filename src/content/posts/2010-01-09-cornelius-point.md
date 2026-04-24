@@ -6,7 +6,7 @@ title: Cornelius - Point
 artist: Cornelius
 album: Point
 spotify_url: https://open.spotify.com/search/Cornelius%20Point
-apple_music_url: https://music.apple.com/us/search?term=Cornelius%20Point
+apple_music_url: https://music.apple.com/search?term=Cornelius%20Point
 youtube_url: https://www.youtube.com/results?search_query=Cornelius%20Point
 ---
 

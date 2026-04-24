@@ -6,7 +6,7 @@ title: Alamaailman Vasarat - Huuro Kolkko (FLAC&V2) [2009]
 artist: Alamaailman Vasarat
 album: Huuro Kolkko
 spotify_url: https://open.spotify.com/search/Alamaailman%20Vasarat%20Huuro%20Kolkko
-apple_music_url: https://music.apple.com/us/search?term=Alamaailman%20Vasarat%20Huuro%20Kolkko
+apple_music_url: https://music.apple.com/search?term=Alamaailman%20Vasarat%20Huuro%20Kolkko
 youtube_url: https://www.youtube.com/results?search_query=Alamaailman%20Vasarat%20Huuro%20Kolkko
 ---
 

@@ -6,7 +6,7 @@ title: Marion Brown - In Sommerhausen (1969)
 artist: Marion Brown
 album: In Sommerhausen
 spotify_url: https://open.spotify.com/search/Marion%20Brown%20In%20Sommerhausen
-apple_music_url: https://geo.music.apple.com/au/album/_/1709143938?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1709143938
 youtube_url: https://www.youtube.com/results?search_query=Marion%20Brown%20In%20Sommerhausen
 ---
 

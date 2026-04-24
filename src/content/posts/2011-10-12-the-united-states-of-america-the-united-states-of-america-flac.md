@@ -6,7 +6,7 @@ title: The United States Of America - The United States Of America (FLAC)
 artist: The United States Of America
 album: The United States Of America
 spotify_url: https://open.spotify.com/search/The%20United%20States%20Of%20America%20The%20United%20States%20Of%20America
-apple_music_url: https://geo.music.apple.com/au/album/_/289013081?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/289013081
 youtube_url: https://www.youtube.com/results?search_query=The%20United%20States%20Of%20America%20The%20United%20States%20Of%20America
 ---
 

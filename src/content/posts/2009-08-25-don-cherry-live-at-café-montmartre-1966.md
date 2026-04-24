@@ -6,7 +6,7 @@ title: "Don Cherry - Live at Caf\xE9 Montmartre (1966)"
 artist: Don Cherry
 album: "Live at Caf\xE9 Montmartre"
 spotify_url: https://open.spotify.com/search/Don%20Cherry%20Live%20at%20Caf%C3%A9%20Montmartre
-apple_music_url: https://music.apple.com/us/search?term=Don%20Cherry%20Live%20at%20Caf%C3%A9%20Montmartre
+apple_music_url: https://music.apple.com/search?term=Don%20Cherry%20Live%20at%20Caf%C3%A9%20Montmartre
 youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Live%20at%20Caf%C3%A9%20Montmartre
 ---
 

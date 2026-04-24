@@ -6,7 +6,7 @@ title: Wolves in the Throne Room - Diadem of 12 Stars (2006) [FLAC]
 artist: Wolves in the Throne Room
 album: Diadem of 12 Stars
 spotify_url: https://open.spotify.com/search/Wolves%20in%20the%20Throne%20Room%20Diadem%20of%2012%20Stars
-apple_music_url: https://music.apple.com/us/search?term=Wolves%20in%20the%20Throne%20Room%20Diadem%20of%2012%20Stars
+apple_music_url: https://music.apple.com/search?term=Wolves%20in%20the%20Throne%20Room%20Diadem%20of%2012%20Stars
 youtube_url: https://www.youtube.com/results?search_query=Wolves%20in%20the%20Throne%20Room%20Diadem%20of%2012%20Stars
 ---
 

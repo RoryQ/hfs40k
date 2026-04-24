@@ -6,7 +6,7 @@ title: "Thy Catafalque - T\xFBn\xF5 Id\xF5 T\xE1rlat (2004)"
 artist: Thy Catafalque
 album: "T\xFBn\xF5 Id\xF5 T\xE1rlat"
 spotify_url: https://open.spotify.com/search/Thy%20Catafalque%20T%C3%BBn%C3%B5%20Id%C3%B5%20T%C3%A1rlat
-apple_music_url: https://music.apple.com/us/search?term=Thy%20Catafalque%20T%C3%BBn%C3%B5%20Id%C3%B5%20T%C3%A1rlat
+apple_music_url: https://music.apple.com/search?term=Thy%20Catafalque%20T%C3%BBn%C3%B5%20Id%C3%B5%20T%C3%A1rlat
 youtube_url: https://www.youtube.com/results?search_query=Thy%20Catafalque%20T%C3%BBn%C3%B5%20Id%C3%B5%20T%C3%A1rlat
 ---
 

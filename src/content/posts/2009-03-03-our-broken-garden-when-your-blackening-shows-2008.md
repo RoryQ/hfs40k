@@ -6,7 +6,7 @@ title: Our Broken Garden - When Your Blackening Shows (2008)
 artist: Our Broken Garden
 album: When Your Blackening Shows
 spotify_url: https://open.spotify.com/search/Our%20Broken%20Garden%20When%20Your%20Blackening%20Shows
-apple_music_url: https://geo.music.apple.com/au/album/_/1359212545?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1359212545
 youtube_url: https://www.youtube.com/results?search_query=Our%20Broken%20Garden%20When%20Your%20Blackening%20Shows
 ---
 

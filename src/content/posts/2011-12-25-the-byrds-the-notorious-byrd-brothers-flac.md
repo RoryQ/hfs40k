@@ -6,7 +6,7 @@ title: The Byrds - The Notorious Byrd Brothers (FLAC)
 artist: The Byrds
 album: The Notorious Byrd Brothers
 spotify_url: https://open.spotify.com/search/The%20Byrds%20The%20Notorious%20Byrd%20Brothers
-apple_music_url: https://geo.music.apple.com/au/album/_/257558067?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/257558067
 youtube_url: https://www.youtube.com/results?search_query=The%20Byrds%20The%20Notorious%20Byrd%20Brothers
 ---
 

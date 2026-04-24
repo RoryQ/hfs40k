@@ -6,7 +6,7 @@ title: Fugazi - Instrument Soundtrack (FLAC)
 artist: Fugazi
 album: Instrument Soundtrack
 spotify_url: https://open.spotify.com/search/Fugazi%20Instrument%20Soundtrack
-apple_music_url: https://geo.music.apple.com/au/album/_/49250233?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/49250233
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Instrument%20Soundtrack
 ---
 

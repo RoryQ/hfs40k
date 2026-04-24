@@ -6,7 +6,7 @@ title: "Ragnaro\u0308k - Ragnaro\u0308k - 1976 [FLAC]"
 artist: "Ragnaro\u0308k"
 album: "Ragnaro\u0308k - 1976"
 spotify_url: https://open.spotify.com/search/Ragnaro%CC%88k%20Ragnaro%CC%88k%20-%201976
-apple_music_url: https://music.apple.com/us/search?term=Ragnaro%CC%88k%20Ragnaro%CC%88k%20-%201976
+apple_music_url: https://music.apple.com/search?term=Ragnaro%CC%88k%20Ragnaro%CC%88k%20-%201976
 youtube_url: https://www.youtube.com/results?search_query=Ragnaro%CC%88k%20Ragnaro%CC%88k%20-%201976
 ---
 

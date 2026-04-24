@@ -6,7 +6,7 @@ title: Weather Report - Black Market (FLAC)
 artist: Weather Report
 album: Black Market
 spotify_url: https://open.spotify.com/search/Weather%20Report%20Black%20Market
-apple_music_url: https://music.apple.com/us/search?term=Weather%20Report%20Black%20Market
+apple_music_url: https://music.apple.com/search?term=Weather%20Report%20Black%20Market
 youtube_url: https://www.youtube.com/results?search_query=Weather%20Report%20Black%20Market
 ---
 

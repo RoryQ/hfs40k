@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Vestian
 album: Ventricle
 spotify_url: https://open.spotify.com/search/Vestian%20Ventricle
-apple_music_url: https://music.apple.com/us/search?term=Vestian%20Ventricle
+apple_music_url: https://music.apple.com/search?term=Vestian%20Ventricle
 youtube_url: https://www.youtube.com/results?search_query=Vestian%20Ventricle
 ---
 

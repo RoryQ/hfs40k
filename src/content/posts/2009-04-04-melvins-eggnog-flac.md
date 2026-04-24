@@ -6,7 +6,7 @@ title: Melvins - Eggnog (FLAC)
 artist: Melvins
 album: Eggnog
 spotify_url: https://open.spotify.com/search/Melvins%20Eggnog
-apple_music_url: https://music.apple.com/us/search?term=Melvins%20Eggnog
+apple_music_url: https://music.apple.com/search?term=Melvins%20Eggnog
 youtube_url: https://www.youtube.com/results?search_query=Melvins%20Eggnog
 ---
 

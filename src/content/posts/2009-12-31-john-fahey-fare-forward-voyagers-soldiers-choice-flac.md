@@ -6,7 +6,7 @@ title: John Fahey - Fare Forward Voyagers (Soldier's Choice) (FLAC)
 artist: John Fahey
 album: Fare Forward Voyagers
 spotify_url: https://open.spotify.com/search/John%20Fahey%20Fare%20Forward%20Voyagers
-apple_music_url: https://music.apple.com/us/search?term=John%20Fahey%20Fare%20Forward%20Voyagers
+apple_music_url: https://music.apple.com/search?term=John%20Fahey%20Fare%20Forward%20Voyagers
 youtube_url: https://www.youtube.com/results?search_query=John%20Fahey%20Fare%20Forward%20Voyagers
 ---
 

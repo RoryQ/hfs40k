@@ -6,7 +6,7 @@ title: Alice Coltrane - Journey in Satchidananda FLAC
 artist: Alice Coltrane
 album: Journey in Satchidananda FLAC
 spotify_url: https://open.spotify.com/search/Alice%20Coltrane%20Journey%20in%20Satchidananda%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Alice%20Coltrane%20Journey%20in%20Satchidananda%20FLAC
+apple_music_url: https://music.apple.com/search?term=Alice%20Coltrane%20Journey%20in%20Satchidananda%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Alice%20Coltrane%20Journey%20in%20Satchidananda%20FLAC
 ---
 

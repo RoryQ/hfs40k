@@ -6,7 +6,7 @@ title: Frank Zappa - Freak Out (FLAC)
 artist: Frank Zappa
 album: Freak Out
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Freak%20Out
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Freak%20Out
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Freak%20Out
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Freak%20Out
 ---
 

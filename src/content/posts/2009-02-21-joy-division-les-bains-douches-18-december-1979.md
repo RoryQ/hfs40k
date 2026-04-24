@@ -6,7 +6,7 @@ title: Joy Division - Les Bains Douches 18 December 1979
 artist: Joy Division
 album: Les Bains Douches 18 December 1979
 spotify_url: https://open.spotify.com/search/Joy%20Division%20Les%20Bains%20Douches%2018%20December%201979
-apple_music_url: https://music.apple.com/us/search?term=Joy%20Division%20Les%20Bains%20Douches%2018%20December%201979
+apple_music_url: https://music.apple.com/search?term=Joy%20Division%20Les%20Bains%20Douches%2018%20December%201979
 youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Les%20Bains%20Douches%2018%20December%201979
 ---
 

@@ -6,7 +6,7 @@ title: A Tribe Called Quest - The Low End Theory (1991) [FLAC]
 artist: A Tribe Called Quest
 album: The Low End Theory
 spotify_url: https://open.spotify.com/search/A%20Tribe%20Called%20Quest%20The%20Low%20End%20Theory
-apple_music_url: https://music.apple.com/us/search?term=A%20Tribe%20Called%20Quest%20The%20Low%20End%20Theory
+apple_music_url: https://music.apple.com/search?term=A%20Tribe%20Called%20Quest%20The%20Low%20End%20Theory
 youtube_url: https://www.youtube.com/results?search_query=A%20Tribe%20Called%20Quest%20The%20Low%20End%20Theory
 ---
 

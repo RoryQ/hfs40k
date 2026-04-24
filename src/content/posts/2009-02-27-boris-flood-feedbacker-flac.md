@@ -6,7 +6,7 @@ title: Boris - Flood & Feedbacker (FLAC)
 artist: Boris
 album: Flood & Feedbacker
 spotify_url: https://open.spotify.com/search/Boris%20Flood%20%26%20Feedbacker
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Flood%20%26%20Feedbacker
+apple_music_url: https://music.apple.com/search?term=Boris%20Flood%20%26%20Feedbacker
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Flood%20%26%20Feedbacker
 ---
 

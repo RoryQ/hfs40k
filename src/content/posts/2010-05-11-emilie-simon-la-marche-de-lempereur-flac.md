@@ -6,7 +6,7 @@ title: Emilie Simon - La Marche de l'Empereur (FLAC)
 artist: Emilie Simon
 album: La Marche de l'Empereur
 spotify_url: https://open.spotify.com/search/Emilie%20Simon%20La%20Marche%20de%20l%27Empereur
-apple_music_url: https://music.apple.com/us/search?term=Emilie%20Simon%20La%20Marche%20de%20l%27Empereur
+apple_music_url: https://music.apple.com/search?term=Emilie%20Simon%20La%20Marche%20de%20l%27Empereur
 youtube_url: https://www.youtube.com/results?search_query=Emilie%20Simon%20La%20Marche%20de%20l%27Empereur
 ---
 

@@ -6,7 +6,7 @@ title: Burning Spear - Marcus Garvey (FLAC)
 artist: Burning Spear
 album: Marcus Garvey
 spotify_url: https://open.spotify.com/search/Burning%20Spear%20Marcus%20Garvey
-apple_music_url: https://music.apple.com/us/search?term=Burning%20Spear%20Marcus%20Garvey
+apple_music_url: https://music.apple.com/search?term=Burning%20Spear%20Marcus%20Garvey
 youtube_url: https://www.youtube.com/results?search_query=Burning%20Spear%20Marcus%20Garvey
 ---
 

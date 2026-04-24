@@ -6,7 +6,7 @@ title: Gong - Angel's Egg
 artist: Gong
 album: Angel's Egg
 spotify_url: https://open.spotify.com/search/Gong%20Angel%27s%20Egg
-apple_music_url: https://music.apple.com/us/search?term=Gong%20Angel%27s%20Egg
+apple_music_url: https://music.apple.com/search?term=Gong%20Angel%27s%20Egg
 youtube_url: https://www.youtube.com/results?search_query=Gong%20Angel%27s%20Egg
 ---
 

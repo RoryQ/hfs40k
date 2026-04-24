@@ -6,7 +6,7 @@ title: Rush - Hemispheres (FLAC)
 artist: Rush
 album: Hemispheres
 spotify_url: https://open.spotify.com/search/Rush%20Hemispheres
-apple_music_url: https://music.apple.com/us/search?term=Rush%20Hemispheres
+apple_music_url: https://music.apple.com/search?term=Rush%20Hemispheres
 youtube_url: https://www.youtube.com/results?search_query=Rush%20Hemispheres
 ---
 

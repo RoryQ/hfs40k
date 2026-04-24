@@ -6,7 +6,7 @@ title: Popol Vuh - Hossiana Mantra (FLAC)
 artist: Popol Vuh
 album: Hossiana Mantra
 spotify_url: https://open.spotify.com/search/Popol%20Vuh%20Hossiana%20Mantra
-apple_music_url: https://geo.music.apple.com/au/album/_/1798553209?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1798553209
 youtube_url: https://www.youtube.com/results?search_query=Popol%20Vuh%20Hossiana%20Mantra
 ---
 

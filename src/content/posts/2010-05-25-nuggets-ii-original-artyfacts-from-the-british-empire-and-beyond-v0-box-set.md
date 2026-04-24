@@ -7,7 +7,7 @@ title: 'Nuggets II: Original Artyfacts From The British Empire And Beyond (v0 Bo
 artist: Nuggets II
 album: Original Artyfacts From The British Empire And Beyond
 spotify_url: https://open.spotify.com/search/Nuggets%20II%20Original%20Artyfacts%20From%20The%20British%20Empire%20And%20Beyond
-apple_music_url: https://music.apple.com/us/search?term=Nuggets%20II%20Original%20Artyfacts%20From%20The%20British%20Empire%20And%20Beyond
+apple_music_url: https://music.apple.com/search?term=Nuggets%20II%20Original%20Artyfacts%20From%20The%20British%20Empire%20And%20Beyond
 youtube_url: https://www.youtube.com/results?search_query=Nuggets%20II%20Original%20Artyfacts%20From%20The%20British%20Empire%20And%20Beyond
 ---
 

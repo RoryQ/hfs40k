@@ -6,7 +6,7 @@ title: James "Blood" Ulmer - Odyssey (FLAC)
 artist: James "Blood" Ulmer
 album: Odyssey
 spotify_url: https://open.spotify.com/search/James%20%22Blood%22%20Ulmer%20Odyssey
-apple_music_url: https://music.apple.com/us/search?term=James%20%22Blood%22%20Ulmer%20Odyssey
+apple_music_url: https://music.apple.com/search?term=James%20%22Blood%22%20Ulmer%20Odyssey
 youtube_url: https://www.youtube.com/results?search_query=James%20%22Blood%22%20Ulmer%20Odyssey
 ---
 

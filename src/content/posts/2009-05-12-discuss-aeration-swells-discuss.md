@@ -6,7 +6,7 @@ title: Discuss - Aeration Swells & Discuss
 artist: Discuss
 album: Aeration Swells & Discuss
 spotify_url: https://open.spotify.com/search/Discuss%20Aeration%20Swells%20%26%20Discuss
-apple_music_url: https://music.apple.com/us/search?term=Discuss%20Aeration%20Swells%20%26%20Discuss
+apple_music_url: https://music.apple.com/search?term=Discuss%20Aeration%20Swells%20%26%20Discuss
 youtube_url: https://www.youtube.com/results?search_query=Discuss%20Aeration%20Swells%20%26%20Discuss
 ---
 

@@ -6,7 +6,7 @@ title: To save you some pennies...
 artist: Radiohead
 album: The King of Limbs
 spotify_url: https://open.spotify.com/search/Radiohead%20The%20King%20of%20Limbs
-apple_music_url: https://music.apple.com/us/search?term=Radiohead%20The%20King%20of%20Limbs
+apple_music_url: https://music.apple.com/search?term=Radiohead%20The%20King%20of%20Limbs
 youtube_url: https://www.youtube.com/results?search_query=Radiohead%20The%20King%20of%20Limbs
 ---
 

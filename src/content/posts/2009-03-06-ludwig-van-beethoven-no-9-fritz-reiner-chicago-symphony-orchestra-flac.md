@@ -6,7 +6,7 @@ title: Ludwig van Beethoven - No. 9 - Fritz Reiner Chicago Symphony Orchestra (F
 artist: Ludwig van Beethoven
 album: No. 9 - Fritz Reiner Chicago Symphony Orchestra
 spotify_url: https://open.spotify.com/search/Ludwig%20van%20Beethoven%20No.%209%20-%20Fritz%20Reiner%20Chicago%20Symphony%20Orchestra
-apple_music_url: https://music.apple.com/us/search?term=Ludwig%20van%20Beethoven%20No.%209%20-%20Fritz%20Reiner%20Chicago%20Symphony%20Orchestra
+apple_music_url: https://music.apple.com/search?term=Ludwig%20van%20Beethoven%20No.%209%20-%20Fritz%20Reiner%20Chicago%20Symphony%20Orchestra
 youtube_url: https://www.youtube.com/results?search_query=Ludwig%20van%20Beethoven%20No.%209%20-%20Fritz%20Reiner%20Chicago%20Symphony%20Orchestra
 ---
 

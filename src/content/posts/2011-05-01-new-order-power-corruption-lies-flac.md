@@ -6,7 +6,7 @@ title: New Order - Power, Corruption & Lies (FLAC)
 artist: New Order
 album: Power, Corruption & Lies
 spotify_url: https://open.spotify.com/search/New%20Order%20Power%2C%20Corruption%20%26%20Lies
-apple_music_url: https://music.apple.com/us/search?term=New%20Order%20Power%2C%20Corruption%20%26%20Lies
+apple_music_url: https://music.apple.com/search?term=New%20Order%20Power%2C%20Corruption%20%26%20Lies
 youtube_url: https://www.youtube.com/results?search_query=New%20Order%20Power%2C%20Corruption%20%26%20Lies
 ---
 

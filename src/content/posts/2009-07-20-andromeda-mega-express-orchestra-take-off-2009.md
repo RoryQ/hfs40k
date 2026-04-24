@@ -6,7 +6,7 @@ title: Andromeda Mega Express Orchestra - Take Off! (2009)
 artist: Andromeda Mega Express Orchestra
 album: Take Off!
 spotify_url: https://open.spotify.com/search/Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
-apple_music_url: https://geo.music.apple.com/au/album/_/305658185?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/305658185
 youtube_url: https://www.youtube.com/results?search_query=Andromeda%20Mega%20Express%20Orchestra%20Take%20Off%21
 ---
 

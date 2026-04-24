@@ -6,7 +6,7 @@ title: Lightning Bolt - Wonderful Rainbow (FLAC)
 artist: Lightning Bolt
 album: Wonderful Rainbow
 spotify_url: https://open.spotify.com/search/Lightning%20Bolt%20Wonderful%20Rainbow
-apple_music_url: https://music.apple.com/us/search?term=Lightning%20Bolt%20Wonderful%20Rainbow
+apple_music_url: https://music.apple.com/search?term=Lightning%20Bolt%20Wonderful%20Rainbow
 youtube_url: https://www.youtube.com/results?search_query=Lightning%20Bolt%20Wonderful%20Rainbow
 ---
 

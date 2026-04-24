@@ -6,7 +6,7 @@ title: The Shins - Oh, Inverted World (FLAC)
 artist: The Shins
 album: Oh, Inverted World
 spotify_url: https://open.spotify.com/search/The%20Shins%20Oh%2C%20Inverted%20World
-apple_music_url: https://music.apple.com/us/search?term=The%20Shins%20Oh%2C%20Inverted%20World
+apple_music_url: https://music.apple.com/search?term=The%20Shins%20Oh%2C%20Inverted%20World
 youtube_url: https://www.youtube.com/results?search_query=The%20Shins%20Oh%2C%20Inverted%20World
 ---
 

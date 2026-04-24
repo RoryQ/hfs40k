@@ -6,7 +6,7 @@ title: Santana - Caravanserei (1972) [FLAC]
 artist: Santana
 album: Caravanserei
 spotify_url: https://open.spotify.com/search/Santana%20Caravanserei
-apple_music_url: https://music.apple.com/us/search?term=Santana%20Caravanserei
+apple_music_url: https://music.apple.com/search?term=Santana%20Caravanserei
 youtube_url: https://www.youtube.com/results?search_query=Santana%20Caravanserei
 ---
 

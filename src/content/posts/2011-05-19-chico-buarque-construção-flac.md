@@ -6,7 +6,7 @@ title: "Chico Buarque - Constru\xE7\xE3o (FLAC)"
 artist: Chico Buarque
 album: "Constru\xE7\xE3o"
 spotify_url: https://open.spotify.com/search/Chico%20Buarque%20Constru%C3%A7%C3%A3o
-apple_music_url: https://music.apple.com/us/search?term=Chico%20Buarque%20Constru%C3%A7%C3%A3o
+apple_music_url: https://music.apple.com/search?term=Chico%20Buarque%20Constru%C3%A7%C3%A3o
 youtube_url: https://www.youtube.com/results?search_query=Chico%20Buarque%20Constru%C3%A7%C3%A3o
 ---
 

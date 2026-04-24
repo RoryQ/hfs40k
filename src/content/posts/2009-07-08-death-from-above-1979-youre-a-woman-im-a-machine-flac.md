@@ -6,7 +6,7 @@ title: Death From Above 1979 - You're a Woman, I'm a Machine (FLAC)
 artist: Death From Above 1979
 album: You're a Woman, I'm a Machine
 spotify_url: https://open.spotify.com/search/Death%20From%20Above%201979%20You%27re%20a%20Woman%2C%20I%27m%20a%20Machine
-apple_music_url: https://geo.music.apple.com/au/album/_/1108650305?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1108650305
 youtube_url: https://www.youtube.com/results?search_query=Death%20From%20Above%201979%20You%27re%20a%20Woman%2C%20I%27m%20a%20Machine
 ---
 

@@ -6,7 +6,7 @@ title: 'Charlie Parker - Masterworks: 1946-1947 [FLAC/Giants of Jazz/1998]'
 artist: Charlie Parker
 album: 'Masterworks: 1946-1947'
 spotify_url: https://open.spotify.com/search/Charlie%20Parker%20Masterworks%3A%201946-1947
-apple_music_url: https://music.apple.com/us/search?term=Charlie%20Parker%20Masterworks%3A%201946-1947
+apple_music_url: https://music.apple.com/search?term=Charlie%20Parker%20Masterworks%3A%201946-1947
 youtube_url: https://www.youtube.com/results?search_query=Charlie%20Parker%20Masterworks%3A%201946-1947
 ---
 

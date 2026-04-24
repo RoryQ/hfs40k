@@ -6,7 +6,7 @@ title: Hum - Downward Is Heavenward (FLAC)
 artist: Hum
 album: Downward Is Heavenward
 spotify_url: https://open.spotify.com/search/Hum%20Downward%20Is%20Heavenward
-apple_music_url: https://music.apple.com/us/search?term=Hum%20Downward%20Is%20Heavenward
+apple_music_url: https://music.apple.com/search?term=Hum%20Downward%20Is%20Heavenward
 youtube_url: https://www.youtube.com/results?search_query=Hum%20Downward%20Is%20Heavenward
 ---
 

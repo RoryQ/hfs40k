@@ -6,7 +6,7 @@ title: Barren Earth - Curse of the Red River (FLAC)
 artist: Barren Earth
 album: Curse of the Red River
 spotify_url: https://open.spotify.com/search/Barren%20Earth%20Curse%20of%20the%20Red%20River
-apple_music_url: https://music.apple.com/us/search?term=Barren%20Earth%20Curse%20of%20the%20Red%20River
+apple_music_url: https://music.apple.com/search?term=Barren%20Earth%20Curse%20of%20the%20Red%20River
 youtube_url: https://www.youtube.com/results?search_query=Barren%20Earth%20Curse%20of%20the%20Red%20River
 ---
 

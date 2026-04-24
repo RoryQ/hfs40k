@@ -6,7 +6,7 @@ title: Method Man - Tical (1994)
 artist: Method Man
 album: Tical
 spotify_url: https://open.spotify.com/search/Method%20Man%20Tical
-apple_music_url: https://music.apple.com/us/search?term=Method%20Man%20Tical
+apple_music_url: https://music.apple.com/search?term=Method%20Man%20Tical
 youtube_url: https://www.youtube.com/results?search_query=Method%20Man%20Tical
 ---
 

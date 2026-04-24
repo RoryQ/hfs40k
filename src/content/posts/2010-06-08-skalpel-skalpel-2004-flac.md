@@ -6,7 +6,7 @@ title: Skalpel - Skalpel (2004 FLAC)
 artist: Skalpel
 album: Skalpel
 spotify_url: https://open.spotify.com/search/Skalpel%20Skalpel
-apple_music_url: https://music.apple.com/us/search?term=Skalpel%20Skalpel
+apple_music_url: https://music.apple.com/search?term=Skalpel%20Skalpel
 youtube_url: https://www.youtube.com/results?search_query=Skalpel%20Skalpel
 ---
 

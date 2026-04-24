@@ -6,7 +6,7 @@ title: Metroid Prime Soundtrack (MP3&FLAC)
 artist: Metroid Prime
 album: Soundtrack
 spotify_url: https://open.spotify.com/search/Metroid%20Prime%20Soundtrack
-apple_music_url: https://music.apple.com/us/search?term=Metroid%20Prime%20Soundtrack
+apple_music_url: https://music.apple.com/search?term=Metroid%20Prime%20Soundtrack
 youtube_url: https://www.youtube.com/results?search_query=Metroid%20Prime%20Soundtrack
 ---
 

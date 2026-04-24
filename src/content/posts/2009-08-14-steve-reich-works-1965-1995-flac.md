@@ -6,7 +6,7 @@ title: 'Steve Reich - Works: 1965-1995 [FLAC]'
 artist: Steve Reich
 album: 'Works: 1965-1995'
 spotify_url: https://open.spotify.com/search/Steve%20Reich%20Works%3A%201965-1995
-apple_music_url: https://music.apple.com/us/search?term=Steve%20Reich%20Works%3A%201965-1995
+apple_music_url: https://music.apple.com/search?term=Steve%20Reich%20Works%3A%201965-1995
 youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Works%3A%201965-1995
 ---
 

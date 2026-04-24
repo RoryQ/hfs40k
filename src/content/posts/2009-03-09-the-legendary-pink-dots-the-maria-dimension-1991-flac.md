@@ -6,7 +6,7 @@ title: The Legendary Pink Dots - The Maria Dimension (1991) [FLAC]
 artist: The Legendary Pink Dots
 album: The Maria Dimension
 spotify_url: https://open.spotify.com/search/The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
-apple_music_url: https://music.apple.com/us/search?term=The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
+apple_music_url: https://music.apple.com/search?term=The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
 youtube_url: https://www.youtube.com/results?search_query=The%20Legendary%20Pink%20Dots%20The%20Maria%20Dimension
 ---
 

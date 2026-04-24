@@ -6,7 +6,7 @@ title: Mogwai - Young Team [1997/ALAC]
 artist: Mogwai
 album: Young Team
 spotify_url: https://open.spotify.com/search/Mogwai%20Young%20Team
-apple_music_url: https://music.apple.com/us/search?term=Mogwai%20Young%20Team
+apple_music_url: https://music.apple.com/search?term=Mogwai%20Young%20Team
 youtube_url: https://www.youtube.com/results?search_query=Mogwai%20Young%20Team
 ---
 

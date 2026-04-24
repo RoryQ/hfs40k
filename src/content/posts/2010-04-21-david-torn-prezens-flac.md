@@ -6,7 +6,7 @@ title: David Torn - Prezens FLAC
 artist: David Torn
 album: Prezens FLAC
 spotify_url: https://open.spotify.com/search/David%20Torn%20Prezens%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=David%20Torn%20Prezens%20FLAC
+apple_music_url: https://music.apple.com/search?term=David%20Torn%20Prezens%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=David%20Torn%20Prezens%20FLAC
 ---
 

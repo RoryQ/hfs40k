@@ -6,7 +6,7 @@ title: "Peter Br\xF6tzmann - Machine Gun (1968)"
 artist: "Peter Br\xF6tzmann"
 album: Machine Gun
 spotify_url: https://open.spotify.com/search/Peter%20Br%C3%B6tzmann%20Machine%20Gun
-apple_music_url: https://music.apple.com/us/search?term=Peter%20Br%C3%B6tzmann%20Machine%20Gun
+apple_music_url: https://music.apple.com/search?term=Peter%20Br%C3%B6tzmann%20Machine%20Gun
 youtube_url: https://www.youtube.com/results?search_query=Peter%20Br%C3%B6tzmann%20Machine%20Gun
 ---
 

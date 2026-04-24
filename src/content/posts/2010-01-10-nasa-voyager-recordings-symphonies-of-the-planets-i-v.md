@@ -6,7 +6,7 @@ title: Nasa Voyager Recordings - Symphonies of the Planets (I-V)
 artist: Nasa Voyager Recordings
 album: Symphonies of the Planets
 spotify_url: https://open.spotify.com/search/Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
-apple_music_url: https://music.apple.com/us/search?term=Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
+apple_music_url: https://music.apple.com/search?term=Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
 youtube_url: https://www.youtube.com/results?search_query=Nasa%20Voyager%20Recordings%20Symphonies%20of%20the%20Planets
 ---
 

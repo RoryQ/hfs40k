@@ -6,7 +6,7 @@ title: Melvins - Stoner Witch (1994) [FLAC]
 artist: Melvins
 album: Stoner Witch
 spotify_url: https://open.spotify.com/search/Melvins%20Stoner%20Witch
-apple_music_url: https://music.apple.com/us/search?term=Melvins%20Stoner%20Witch
+apple_music_url: https://music.apple.com/search?term=Melvins%20Stoner%20Witch
 youtube_url: https://www.youtube.com/results?search_query=Melvins%20Stoner%20Witch
 ---
 

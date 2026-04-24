@@ -6,7 +6,7 @@ title: Jan Jelinek - Loop-Finding-Jazz-Records FLAC
 artist: Jan Jelinek
 album: Loop-Finding-Jazz-Records FLAC
 spotify_url: https://open.spotify.com/search/Jan%20Jelinek%20Loop-Finding-Jazz-Records%20FLAC
-apple_music_url: https://geo.music.apple.com/au/album/_/431640579?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/431640579
 youtube_url: https://www.youtube.com/results?search_query=Jan%20Jelinek%20Loop-Finding-Jazz-Records%20FLAC
 ---
 

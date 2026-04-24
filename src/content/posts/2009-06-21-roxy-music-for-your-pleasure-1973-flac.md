@@ -6,7 +6,7 @@ title: Roxy Music - For Your Pleasure (1973) [FLAC]
 artist: Roxy Music
 album: For Your Pleasure
 spotify_url: https://open.spotify.com/search/Roxy%20Music%20For%20Your%20Pleasure
-apple_music_url: https://geo.music.apple.com/au/album/_/724399564?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/724399564
 youtube_url: https://www.youtube.com/results?search_query=Roxy%20Music%20For%20Your%20Pleasure
 ---
 

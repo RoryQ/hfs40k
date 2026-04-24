@@ -6,7 +6,7 @@ title: Portishead - Portishead [Vinyl 24bit 96khz FLAC]
 artist: Portishead
 album: Portishead
 spotify_url: https://open.spotify.com/search/Portishead%20Portishead
-apple_music_url: https://music.apple.com/us/search?term=Portishead%20Portishead
+apple_music_url: https://music.apple.com/search?term=Portishead%20Portishead
 youtube_url: https://www.youtube.com/results?search_query=Portishead%20Portishead
 ---
 

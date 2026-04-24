@@ -6,7 +6,7 @@ title: Jethro Tull - Thick As A Brick (FLAC) (25th Anniversary Edition)
 artist: Jethro Tull
 album: Thick As A Brick
 spotify_url: https://open.spotify.com/search/Jethro%20Tull%20Thick%20As%20A%20Brick
-apple_music_url: https://music.apple.com/us/search?term=Jethro%20Tull%20Thick%20As%20A%20Brick
+apple_music_url: https://music.apple.com/search?term=Jethro%20Tull%20Thick%20As%20A%20Brick
 youtube_url: https://www.youtube.com/results?search_query=Jethro%20Tull%20Thick%20As%20A%20Brick
 ---
 

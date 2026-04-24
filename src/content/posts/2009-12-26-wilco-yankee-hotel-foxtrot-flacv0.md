@@ -6,7 +6,7 @@ title: Wilco - Yankee Hotel Foxtrot (FLAC/v0)
 artist: Wilco
 album: Yankee Hotel Foxtrot
 spotify_url: https://open.spotify.com/search/Wilco%20Yankee%20Hotel%20Foxtrot
-apple_music_url: https://music.apple.com/us/search?term=Wilco%20Yankee%20Hotel%20Foxtrot
+apple_music_url: https://music.apple.com/search?term=Wilco%20Yankee%20Hotel%20Foxtrot
 youtube_url: https://www.youtube.com/results?search_query=Wilco%20Yankee%20Hotel%20Foxtrot
 ---
 

@@ -6,7 +6,7 @@ title: Eels - Electro-Shock Blues (FLAC)
 artist: Eels
 album: Electro-Shock Blues
 spotify_url: https://open.spotify.com/search/Eels%20Electro-Shock%20Blues
-apple_music_url: https://music.apple.com/us/search?term=Eels%20Electro-Shock%20Blues
+apple_music_url: https://music.apple.com/search?term=Eels%20Electro-Shock%20Blues
 youtube_url: https://www.youtube.com/results?search_query=Eels%20Electro-Shock%20Blues
 ---
 

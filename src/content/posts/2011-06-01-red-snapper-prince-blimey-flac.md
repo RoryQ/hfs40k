@@ -6,7 +6,7 @@ title: Red Snapper - Prince Blimey (FLAC)
 artist: Red Snapper
 album: Prince Blimey
 spotify_url: https://open.spotify.com/search/Red%20Snapper%20Prince%20Blimey
-apple_music_url: https://music.apple.com/us/search?term=Red%20Snapper%20Prince%20Blimey
+apple_music_url: https://music.apple.com/search?term=Red%20Snapper%20Prince%20Blimey
 youtube_url: https://www.youtube.com/results?search_query=Red%20Snapper%20Prince%20Blimey
 ---
 

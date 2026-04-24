@@ -6,7 +6,7 @@ title: Arovane - Lilies [2004, FLAC]
 artist: Arovane
 album: Lilies
 spotify_url: https://open.spotify.com/search/Arovane%20Lilies
-apple_music_url: https://music.apple.com/us/search?term=Arovane%20Lilies
+apple_music_url: https://music.apple.com/search?term=Arovane%20Lilies
 youtube_url: https://www.youtube.com/results?search_query=Arovane%20Lilies
 ---
 

@@ -6,7 +6,7 @@ title: Edvard Grieg - Piano Concerto
 artist: Edvard Grieg
 album: Piano Concerto
 spotify_url: https://open.spotify.com/search/Edvard%20Grieg%20Piano%20Concerto
-apple_music_url: https://music.apple.com/us/search?term=Edvard%20Grieg%20Piano%20Concerto
+apple_music_url: https://music.apple.com/search?term=Edvard%20Grieg%20Piano%20Concerto
 youtube_url: https://www.youtube.com/results?search_query=Edvard%20Grieg%20Piano%20Concerto
 ---
 

@@ -7,7 +7,7 @@ title: Harvey Milk - My Love Is Higher Than Your Assessment of What My Love Coul
 artist: Harvey Milk
 album: My Love Is Higher Than Your Assessment of What My Love Could Be
 spotify_url: https://open.spotify.com/search/Harvey%20Milk%20My%20Love%20Is%20Higher%20Than%20Your%20Assessment%20of%20What%20My%20Love%20Could%20Be
-apple_music_url: https://music.apple.com/us/search?term=Harvey%20Milk%20My%20Love%20Is%20Higher%20Than%20Your%20Assessment%20of%20What%20My%20Love%20Could%20Be
+apple_music_url: https://music.apple.com/search?term=Harvey%20Milk%20My%20Love%20Is%20Higher%20Than%20Your%20Assessment%20of%20What%20My%20Love%20Could%20Be
 youtube_url: https://www.youtube.com/results?search_query=Harvey%20Milk%20My%20Love%20Is%20Higher%20Than%20Your%20Assessment%20of%20What%20My%20Love%20Could%20Be
 ---
 

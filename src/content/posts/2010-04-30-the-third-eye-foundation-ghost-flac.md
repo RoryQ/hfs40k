@@ -6,7 +6,7 @@ title: The Third Eye Foundation - Ghost (FLAC)
 artist: The Third Eye Foundation
 album: Ghost
 spotify_url: https://open.spotify.com/search/The%20Third%20Eye%20Foundation%20Ghost
-apple_music_url: https://music.apple.com/us/search?term=The%20Third%20Eye%20Foundation%20Ghost
+apple_music_url: https://music.apple.com/search?term=The%20Third%20Eye%20Foundation%20Ghost
 youtube_url: https://www.youtube.com/results?search_query=The%20Third%20Eye%20Foundation%20Ghost
 ---
 

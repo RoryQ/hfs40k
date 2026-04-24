@@ -6,7 +6,7 @@ title: Primal Scream - XTRMNTR (FLAC)
 artist: Primal Scream
 album: XTRMNTR
 spotify_url: https://open.spotify.com/search/Primal%20Scream%20XTRMNTR
-apple_music_url: https://music.apple.com/us/search?term=Primal%20Scream%20XTRMNTR
+apple_music_url: https://music.apple.com/search?term=Primal%20Scream%20XTRMNTR
 youtube_url: https://www.youtube.com/results?search_query=Primal%20Scream%20XTRMNTR
 ---
 

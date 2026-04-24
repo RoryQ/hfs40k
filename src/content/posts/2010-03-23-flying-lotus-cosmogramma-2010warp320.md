@@ -6,7 +6,7 @@ title: Flying Lotus - Cosmogramma [2010/Warp/320]
 artist: Flying Lotus
 album: Cosmogramma
 spotify_url: https://open.spotify.com/search/Flying%20Lotus%20Cosmogramma
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Lotus%20Cosmogramma
+apple_music_url: https://music.apple.com/search?term=Flying%20Lotus%20Cosmogramma
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Cosmogramma
 ---
 

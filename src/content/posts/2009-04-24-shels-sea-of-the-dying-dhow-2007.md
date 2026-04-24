@@ -6,7 +6,7 @@ title: Shels - Sea of the Dying Dhow (2007)
 artist: Shels
 album: Sea of the Dying Dhow
 spotify_url: https://open.spotify.com/search/Shels%20Sea%20of%20the%20Dying%20Dhow
-apple_music_url: https://geo.music.apple.com/au/album/_/576247348?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/576247348
 youtube_url: https://www.youtube.com/results?search_query=Shels%20Sea%20of%20the%20Dying%20Dhow
 ---
 

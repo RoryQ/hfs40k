@@ -6,7 +6,7 @@ title: Flipper - Generic Flipper Album (1992)
 artist: Flipper
 album: Generic Flipper Album
 spotify_url: https://open.spotify.com/search/Flipper%20Generic%20Flipper%20Album
-apple_music_url: https://music.apple.com/us/search?term=Flipper%20Generic%20Flipper%20Album
+apple_music_url: https://music.apple.com/search?term=Flipper%20Generic%20Flipper%20Album
 youtube_url: https://www.youtube.com/results?search_query=Flipper%20Generic%20Flipper%20Album
 ---
 

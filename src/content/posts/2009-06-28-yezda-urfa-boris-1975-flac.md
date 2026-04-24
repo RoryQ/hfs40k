@@ -6,7 +6,7 @@ title: Yezda Urfa - Boris (1975) [FLAC]
 artist: Yezda Urfa
 album: Boris
 spotify_url: https://open.spotify.com/search/Yezda%20Urfa%20Boris
-apple_music_url: https://music.apple.com/us/search?term=Yezda%20Urfa%20Boris
+apple_music_url: https://music.apple.com/search?term=Yezda%20Urfa%20Boris
 youtube_url: https://www.youtube.com/results?search_query=Yezda%20Urfa%20Boris
 ---
 

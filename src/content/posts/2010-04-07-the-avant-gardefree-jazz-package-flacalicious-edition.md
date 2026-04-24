@@ -6,7 +6,7 @@ title: The Avant-Garde/Free Jazz Package (Flacalicious Edition)
 artist: The Avant
 album: Garde/Free Jazz Package
 spotify_url: https://open.spotify.com/search/The%20Avant%20Garde/Free%20Jazz%20Package
-apple_music_url: https://music.apple.com/us/search?term=The%20Avant%20Garde/Free%20Jazz%20Package
+apple_music_url: https://music.apple.com/search?term=The%20Avant%20Garde/Free%20Jazz%20Package
 youtube_url: https://www.youtube.com/results?search_query=The%20Avant%20Garde/Free%20Jazz%20Package
 ---
 

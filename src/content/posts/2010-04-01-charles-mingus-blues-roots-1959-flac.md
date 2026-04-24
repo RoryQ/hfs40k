@@ -6,7 +6,7 @@ title: Charles Mingus - Blues & Roots (1959) [FLAC]
 artist: Charles Mingus
 album: Blues & Roots
 spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Blues%20%26%20Roots
-apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Blues%20%26%20Roots
+apple_music_url: https://music.apple.com/search?term=Charles%20Mingus%20Blues%20%26%20Roots
 youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Blues%20%26%20Roots
 ---
 

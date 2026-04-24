@@ -6,7 +6,7 @@ title: Bowery Electric - Beat (1996)
 artist: Bowery Electric
 album: Beat
 spotify_url: https://open.spotify.com/search/Bowery%20Electric%20Beat
-apple_music_url: https://geo.music.apple.com/au/album/_/40883207?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/40883207
 youtube_url: https://www.youtube.com/results?search_query=Bowery%20Electric%20Beat
 ---
 

@@ -6,7 +6,7 @@ title: Lightning Bolt - Earthly Delights (2009)
 artist: Lightning Bolt
 album: Earthly Delights
 spotify_url: https://open.spotify.com/search/Lightning%20Bolt%20Earthly%20Delights
-apple_music_url: https://music.apple.com/us/search?term=Lightning%20Bolt%20Earthly%20Delights
+apple_music_url: https://music.apple.com/search?term=Lightning%20Bolt%20Earthly%20Delights
 youtube_url: https://www.youtube.com/results?search_query=Lightning%20Bolt%20Earthly%20Delights
 ---
 

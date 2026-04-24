@@ -6,7 +6,7 @@ title: William Basinski - Melancholia FLAC
 artist: William Basinski
 album: Melancholia FLAC
 spotify_url: https://open.spotify.com/search/William%20Basinski%20Melancholia%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=William%20Basinski%20Melancholia%20FLAC
+apple_music_url: https://music.apple.com/search?term=William%20Basinski%20Melancholia%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%20Melancholia%20FLAC
 ---
 

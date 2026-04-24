@@ -6,7 +6,7 @@ title: Various Artists - L'Appel de la Muse compilation (1989)
 artist: Various Artists
 album: L'Appel de la Muse compilation
 spotify_url: https://open.spotify.com/search/Various%20Artists%20L%27Appel%20de%20la%20Muse%20compilation
-apple_music_url: https://music.apple.com/us/search?term=Various%20Artists%20L%27Appel%20de%20la%20Muse%20compilation
+apple_music_url: https://music.apple.com/search?term=Various%20Artists%20L%27Appel%20de%20la%20Muse%20compilation
 youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20L%27Appel%20de%20la%20Muse%20compilation
 ---
 

@@ -6,7 +6,7 @@ title: Pause (the) Ringer (of) Four Tet [320/Flac]
 artist: Four Tet
 album: Pause (the) Ringer
 spotify_url: https://open.spotify.com/search/Four%20Tet%20Pause%20%28the%29%20Ringer
-apple_music_url: https://music.apple.com/us/search?term=Four%20Tet%20Pause%20%28the%29%20Ringer
+apple_music_url: https://music.apple.com/search?term=Four%20Tet%20Pause%20%28the%29%20Ringer
 youtube_url: https://www.youtube.com/results?search_query=Four%20Tet%20Pause%20%28the%29%20Ringer
 ---
 

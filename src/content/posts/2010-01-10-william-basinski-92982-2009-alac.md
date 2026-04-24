@@ -6,7 +6,7 @@ title: William Basinski - 92982 (2009, ALAC)
 artist: William Basinski
 album: '92982'
 spotify_url: https://open.spotify.com/search/William%20Basinski%2092982
-apple_music_url: https://geo.music.apple.com/au/album/_/1683857211?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1683857211
 youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%2092982
 ---
 

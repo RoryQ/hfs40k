@@ -6,7 +6,7 @@ title: Neurosis - A Sun That Never Sets (FLAC)
 artist: Neurosis
 album: A Sun That Never Sets
 spotify_url: https://open.spotify.com/search/Neurosis%20A%20Sun%20That%20Never%20Sets
-apple_music_url: https://music.apple.com/us/search?term=Neurosis%20A%20Sun%20That%20Never%20Sets
+apple_music_url: https://music.apple.com/search?term=Neurosis%20A%20Sun%20That%20Never%20Sets
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20A%20Sun%20That%20Never%20Sets
 ---
 

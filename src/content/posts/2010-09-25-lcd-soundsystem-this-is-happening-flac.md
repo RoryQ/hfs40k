@@ -6,7 +6,7 @@ title: LCD Soundsystem - This Is Happening (FLAC)
 artist: LCD Soundsystem
 album: This Is Happening
 spotify_url: https://open.spotify.com/search/LCD%20Soundsystem%20This%20Is%20Happening
-apple_music_url: https://music.apple.com/us/search?term=LCD%20Soundsystem%20This%20Is%20Happening
+apple_music_url: https://music.apple.com/search?term=LCD%20Soundsystem%20This%20Is%20Happening
 youtube_url: https://www.youtube.com/results?search_query=LCD%20Soundsystem%20This%20Is%20Happening
 ---
 

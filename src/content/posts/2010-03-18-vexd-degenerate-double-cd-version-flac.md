@@ -6,7 +6,7 @@ title: Vex'd - Degenerate (Double cd version) FLAC
 artist: Vex'd
 album: Degenerate
 spotify_url: https://open.spotify.com/search/Vex%27d%20Degenerate
-apple_music_url: https://music.apple.com/us/search?term=Vex%27d%20Degenerate
+apple_music_url: https://music.apple.com/search?term=Vex%27d%20Degenerate
 youtube_url: https://www.youtube.com/results?search_query=Vex%27d%20Degenerate
 ---
 

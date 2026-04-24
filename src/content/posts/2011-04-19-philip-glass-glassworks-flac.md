@@ -6,7 +6,7 @@ title: Philip Glass - Glassworks (FLAC)
 artist: Philip Glass
 album: Glassworks
 spotify_url: https://open.spotify.com/search/Philip%20Glass%20Glassworks
-apple_music_url: https://music.apple.com/us/search?term=Philip%20Glass%20Glassworks
+apple_music_url: https://music.apple.com/search?term=Philip%20Glass%20Glassworks
 youtube_url: https://www.youtube.com/results?search_query=Philip%20Glass%20Glassworks
 ---
 

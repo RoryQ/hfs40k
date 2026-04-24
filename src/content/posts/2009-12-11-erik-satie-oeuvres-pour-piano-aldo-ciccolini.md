@@ -6,7 +6,7 @@ title: Erik Satie - Oeuvres pour Piano (Aldo Ciccolini)
 artist: Erik Satie
 album: Oeuvres pour Piano
 spotify_url: https://open.spotify.com/search/Erik%20Satie%20Oeuvres%20pour%20Piano
-apple_music_url: https://music.apple.com/us/search?term=Erik%20Satie%20Oeuvres%20pour%20Piano
+apple_music_url: https://music.apple.com/search?term=Erik%20Satie%20Oeuvres%20pour%20Piano
 youtube_url: https://www.youtube.com/results?search_query=Erik%20Satie%20Oeuvres%20pour%20Piano
 ---
 

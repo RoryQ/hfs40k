@@ -6,7 +6,7 @@ title: Grant Lee Buffalo - Mighty Joe Moon [FLAC]
 artist: Grant Lee Buffalo
 album: Mighty Joe Moon
 spotify_url: https://open.spotify.com/search/Grant%20Lee%20Buffalo%20Mighty%20Joe%20Moon
-apple_music_url: https://geo.music.apple.com/au/album/_/1629189190?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1629189190
 youtube_url: https://www.youtube.com/results?search_query=Grant%20Lee%20Buffalo%20Mighty%20Joe%20Moon
 ---
 

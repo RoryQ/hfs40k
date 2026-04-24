@@ -6,7 +6,7 @@ title: Beck - Odelay (FLAC)
 artist: Beck
 album: Odelay
 spotify_url: https://open.spotify.com/search/Beck%20Odelay
-apple_music_url: https://music.apple.com/us/search?term=Beck%20Odelay
+apple_music_url: https://music.apple.com/search?term=Beck%20Odelay
 youtube_url: https://www.youtube.com/results?search_query=Beck%20Odelay
 ---
 

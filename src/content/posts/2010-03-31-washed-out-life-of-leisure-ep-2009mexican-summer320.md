@@ -6,7 +6,7 @@ title: Washed Out - Life of Leisure EP [2009/Mexican Summer/320]
 artist: Washed Out
 album: Life of Leisure EP
 spotify_url: https://open.spotify.com/search/Washed%20Out%20Life%20of%20Leisure%20EP
-apple_music_url: https://music.apple.com/us/search?term=Washed%20Out%20Life%20of%20Leisure%20EP
+apple_music_url: https://music.apple.com/search?term=Washed%20Out%20Life%20of%20Leisure%20EP
 youtube_url: https://www.youtube.com/results?search_query=Washed%20Out%20Life%20of%20Leisure%20EP
 ---
 

@@ -6,7 +6,7 @@ title: Spacemen 3 - The Perfect Prescription (FLAC)
 artist: Spacemen 3
 album: The Perfect Prescription
 spotify_url: https://open.spotify.com/search/Spacemen%203%20The%20Perfect%20Prescription
-apple_music_url: https://music.apple.com/us/search?term=Spacemen%203%20The%20Perfect%20Prescription
+apple_music_url: https://music.apple.com/search?term=Spacemen%203%20The%20Perfect%20Prescription
 youtube_url: https://www.youtube.com/results?search_query=Spacemen%203%20The%20Perfect%20Prescription
 ---
 

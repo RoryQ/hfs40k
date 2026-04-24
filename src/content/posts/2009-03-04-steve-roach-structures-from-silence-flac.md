@@ -6,7 +6,7 @@ title: Steve Roach - Structures From Silence (FLAC)
 artist: Steve Roach
 album: Structures From Silence
 spotify_url: https://open.spotify.com/search/Steve%20Roach%20Structures%20From%20Silence
-apple_music_url: https://music.apple.com/us/search?term=Steve%20Roach%20Structures%20From%20Silence
+apple_music_url: https://music.apple.com/search?term=Steve%20Roach%20Structures%20From%20Silence
 youtube_url: https://www.youtube.com/results?search_query=Steve%20Roach%20Structures%20From%20Silence
 ---
 

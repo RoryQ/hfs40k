@@ -6,7 +6,7 @@ title: The Sundays - Reading, Writing and Arithmetic (1990)
 artist: The Sundays
 album: Reading, Writing and Arithmetic
 spotify_url: https://open.spotify.com/search/The%20Sundays%20Reading%2C%20Writing%20and%20Arithmetic
-apple_music_url: https://music.apple.com/us/search?term=The%20Sundays%20Reading%2C%20Writing%20and%20Arithmetic
+apple_music_url: https://music.apple.com/search?term=The%20Sundays%20Reading%2C%20Writing%20and%20Arithmetic
 youtube_url: https://www.youtube.com/results?search_query=The%20Sundays%20Reading%2C%20Writing%20and%20Arithmetic
 ---
 

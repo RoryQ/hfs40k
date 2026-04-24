@@ -6,7 +6,7 @@ title: Charles Mingus - Mingus at Antibes (FLAC)
 artist: Charles Mingus
 album: Mingus at Antibes
 spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Mingus%20at%20Antibes
-apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Mingus%20at%20Antibes
+apple_music_url: https://music.apple.com/search?term=Charles%20Mingus%20Mingus%20at%20Antibes
 youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Mingus%20at%20Antibes
 ---
 

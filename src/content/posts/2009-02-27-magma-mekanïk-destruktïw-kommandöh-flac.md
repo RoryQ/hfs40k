@@ -6,7 +6,7 @@ title: "Magma - Mekan\xEFk Destrukt\xEFw Kommand\xF6h (FLAC)"
 artist: Magma
 album: "Mekan\xEFk Destrukt\xEFw Kommand\xF6h"
 spotify_url: https://open.spotify.com/search/Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
-apple_music_url: https://music.apple.com/us/search?term=Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
+apple_music_url: https://music.apple.com/search?term=Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
 youtube_url: https://www.youtube.com/results?search_query=Magma%20Mekan%C3%AFk%20Destrukt%C3%AFw%20Kommand%C3%B6h
 ---
 

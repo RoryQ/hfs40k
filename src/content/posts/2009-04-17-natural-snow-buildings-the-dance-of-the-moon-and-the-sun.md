@@ -6,7 +6,7 @@ title: Natural Snow Buildings - The Dance of the Moon and the Sun
 artist: Natural Snow Buildings
 album: The Dance of the Moon and the Sun
 spotify_url: https://open.spotify.com/search/Natural%20Snow%20Buildings%20The%20Dance%20of%20the%20Moon%20and%20the%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Natural%20Snow%20Buildings%20The%20Dance%20of%20the%20Moon%20and%20the%20Sun
+apple_music_url: https://music.apple.com/search?term=Natural%20Snow%20Buildings%20The%20Dance%20of%20the%20Moon%20and%20the%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Buildings%20The%20Dance%20of%20the%20Moon%20and%20the%20Sun
 ---
 

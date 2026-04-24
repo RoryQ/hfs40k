@@ -6,7 +6,7 @@ title: Hawkwind - In Search of Space (FLAC)
 artist: Hawkwind
 album: In Search of Space
 spotify_url: https://open.spotify.com/search/Hawkwind%20In%20Search%20of%20Space
-apple_music_url: https://music.apple.com/us/search?term=Hawkwind%20In%20Search%20of%20Space
+apple_music_url: https://music.apple.com/search?term=Hawkwind%20In%20Search%20of%20Space
 youtube_url: https://www.youtube.com/results?search_query=Hawkwind%20In%20Search%20of%20Space
 ---
 

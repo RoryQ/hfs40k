@@ -6,7 +6,7 @@ title: "\xD3lafur Arnalds - ...And They Have Escaped The Weight Of Darkness [201
 artist: "\xD3lafur Arnalds"
 album: '...And They Have Escaped The Weight Of Darkness'
 spotify_url: https://open.spotify.com/search/%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
-apple_music_url: https://music.apple.com/us/search?term=%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
+apple_music_url: https://music.apple.com/search?term=%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
 youtube_url: https://www.youtube.com/results?search_query=%C3%93lafur%20Arnalds%20...And%20They%20Have%20Escaped%20The%20Weight%20Of%20Darkness
 ---
 

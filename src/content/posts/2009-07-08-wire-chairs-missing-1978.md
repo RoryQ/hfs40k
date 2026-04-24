@@ -6,7 +6,7 @@ title: Wire - Chairs Missing (1978)
 artist: Wire
 album: Chairs Missing
 spotify_url: https://open.spotify.com/search/Wire%20Chairs%20Missing
-apple_music_url: https://geo.music.apple.com/au/album/_/1328869087?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1328869087
 youtube_url: https://www.youtube.com/results?search_query=Wire%20Chairs%20Missing
 ---
 

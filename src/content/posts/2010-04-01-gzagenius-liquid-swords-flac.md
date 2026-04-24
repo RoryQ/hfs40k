@@ -6,7 +6,7 @@ title: GZA/Genius - Liquid Swords (FLAC)
 artist: GZA/Genius
 album: Liquid Swords
 spotify_url: https://open.spotify.com/search/GZA/Genius%20Liquid%20Swords
-apple_music_url: https://music.apple.com/us/search?term=GZA/Genius%20Liquid%20Swords
+apple_music_url: https://music.apple.com/search?term=GZA/Genius%20Liquid%20Swords
 youtube_url: https://www.youtube.com/results?search_query=GZA/Genius%20Liquid%20Swords
 ---
 

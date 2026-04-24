@@ -6,7 +6,7 @@ title: CunninLynguists - SouthernUnderground (2003) [FLAC]
 artist: CunninLynguists
 album: SouthernUnderground
 spotify_url: https://open.spotify.com/search/CunninLynguists%20SouthernUnderground
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20SouthernUnderground
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20SouthernUnderground
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20SouthernUnderground
 ---
 

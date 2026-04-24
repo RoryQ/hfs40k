@@ -6,7 +6,7 @@ title: Nadja - Radiance of Shadows (2007) [320]
 artist: Nadja
 album: Radiance of Shadows
 spotify_url: https://open.spotify.com/search/Nadja%20Radiance%20of%20Shadows
-apple_music_url: https://music.apple.com/us/search?term=Nadja%20Radiance%20of%20Shadows
+apple_music_url: https://music.apple.com/search?term=Nadja%20Radiance%20of%20Shadows
 youtube_url: https://www.youtube.com/results?search_query=Nadja%20Radiance%20of%20Shadows
 ---
 

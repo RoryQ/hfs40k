@@ -6,7 +6,7 @@ title: Frank Zappa - Weasels Ripped My Flesh (FLAC)
 artist: Frank Zappa
 album: Weasels Ripped My Flesh
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Weasels%20Ripped%20My%20Flesh
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Weasels%20Ripped%20My%20Flesh
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Weasels%20Ripped%20My%20Flesh
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Weasels%20Ripped%20My%20Flesh
 ---
 

@@ -6,7 +6,7 @@ title: Ange - Emile Jacotey (FLAC)
 artist: Ange
 album: Emile Jacotey
 spotify_url: https://open.spotify.com/search/Ange%20Emile%20Jacotey
-apple_music_url: https://music.apple.com/us/search?term=Ange%20Emile%20Jacotey
+apple_music_url: https://music.apple.com/search?term=Ange%20Emile%20Jacotey
 youtube_url: https://www.youtube.com/results?search_query=Ange%20Emile%20Jacotey
 ---
 

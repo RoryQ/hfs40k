@@ -6,7 +6,7 @@ title: Wolves in the Throne Room - Two Hunters (2007) [24-bit/96khz Vinyl rip FL
 artist: Wolves in the Throne Room
 album: Two Hunters
 spotify_url: https://open.spotify.com/search/Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
-apple_music_url: https://music.apple.com/us/search?term=Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
+apple_music_url: https://music.apple.com/search?term=Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
 youtube_url: https://www.youtube.com/results?search_query=Wolves%20in%20the%20Throne%20Room%20Two%20Hunters
 ---
 

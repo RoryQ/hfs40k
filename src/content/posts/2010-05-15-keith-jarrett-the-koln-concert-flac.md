@@ -6,7 +6,7 @@ title: Keith Jarrett - The Koln Concert (FLAC)
 artist: Keith Jarrett
 album: The Koln Concert
 spotify_url: https://open.spotify.com/search/Keith%20Jarrett%20The%20Koln%20Concert
-apple_music_url: https://music.apple.com/us/search?term=Keith%20Jarrett%20The%20Koln%20Concert
+apple_music_url: https://music.apple.com/search?term=Keith%20Jarrett%20The%20Koln%20Concert
 youtube_url: https://www.youtube.com/results?search_query=Keith%20Jarrett%20The%20Koln%20Concert
 ---
 

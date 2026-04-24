@@ -6,7 +6,7 @@ title: Negativland - Negativland
 artist: Negativland
 album: Negativland
 spotify_url: https://open.spotify.com/search/Negativland%20Negativland
-apple_music_url: https://music.apple.com/us/search?term=Negativland%20Negativland
+apple_music_url: https://music.apple.com/search?term=Negativland%20Negativland
 youtube_url: https://www.youtube.com/results?search_query=Negativland%20Negativland
 ---
 

@@ -6,7 +6,7 @@ title: 'Mahmoud Ahmed - Ethiopiques, Vol. 7: Ere Mela Mela'
 artist: Mahmoud Ahmed
 album: 'Ethiopiques, Vol. 7: Ere Mela Mela'
 spotify_url: https://open.spotify.com/search/Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
-apple_music_url: https://music.apple.com/us/search?term=Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
+apple_music_url: https://music.apple.com/search?term=Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
 youtube_url: https://www.youtube.com/results?search_query=Mahmoud%20Ahmed%20Ethiopiques%2C%20Vol.%207%3A%20Ere%20Mela%20Mela
 ---
 

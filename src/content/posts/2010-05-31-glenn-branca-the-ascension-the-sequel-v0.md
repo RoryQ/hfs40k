@@ -6,7 +6,7 @@ title: 'Glenn Branca - The Ascension: The Sequel (V0)'
 artist: Glenn Branca
 album: 'The Ascension: The Sequel'
 spotify_url: https://open.spotify.com/search/Glenn%20Branca%20The%20Ascension%3A%20The%20Sequel
-apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20The%20Ascension%3A%20The%20Sequel
+apple_music_url: https://music.apple.com/search?term=Glenn%20Branca%20The%20Ascension%3A%20The%20Sequel
 youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20The%20Ascension%3A%20The%20Sequel
 ---
 

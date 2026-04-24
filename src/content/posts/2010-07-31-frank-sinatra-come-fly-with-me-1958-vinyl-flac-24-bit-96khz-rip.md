@@ -6,7 +6,7 @@ title: Frank Sinatra - Come Fly With Me (1958) (Vinyl FLAC 24 bit / 96kHz rip)
 artist: Frank Sinatra
 album: Come Fly With Me
 spotify_url: https://open.spotify.com/search/Frank%20Sinatra%20Come%20Fly%20With%20Me
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Sinatra%20Come%20Fly%20With%20Me
+apple_music_url: https://music.apple.com/search?term=Frank%20Sinatra%20Come%20Fly%20With%20Me
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Sinatra%20Come%20Fly%20With%20Me
 ---
 

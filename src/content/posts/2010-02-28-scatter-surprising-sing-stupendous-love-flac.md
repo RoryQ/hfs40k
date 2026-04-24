@@ -6,7 +6,7 @@ title: Scatter - Surprising Sing Stupendous Love (FLAC)
 artist: Scatter
 album: Surprising Sing Stupendous Love
 spotify_url: https://open.spotify.com/search/Scatter%20Surprising%20Sing%20Stupendous%20Love
-apple_music_url: https://music.apple.com/us/search?term=Scatter%20Surprising%20Sing%20Stupendous%20Love
+apple_music_url: https://music.apple.com/search?term=Scatter%20Surprising%20Sing%20Stupendous%20Love
 youtube_url: https://www.youtube.com/results?search_query=Scatter%20Surprising%20Sing%20Stupendous%20Love
 ---
 

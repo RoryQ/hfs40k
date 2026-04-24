@@ -6,7 +6,7 @@ title: The Pharcyde - Bizarre Ride II (1992) [FLAC]
 artist: The Pharcyde
 album: Bizarre Ride II
 spotify_url: https://open.spotify.com/search/The%20Pharcyde%20Bizarre%20Ride%20II
-apple_music_url: https://music.apple.com/us/search?term=The%20Pharcyde%20Bizarre%20Ride%20II
+apple_music_url: https://music.apple.com/search?term=The%20Pharcyde%20Bizarre%20Ride%20II
 youtube_url: https://www.youtube.com/results?search_query=The%20Pharcyde%20Bizarre%20Ride%20II
 ---
 

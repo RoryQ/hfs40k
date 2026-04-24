@@ -6,7 +6,7 @@ title: The Dismemberment Plan - Emergency & I (FLAC)
 artist: The Dismemberment Plan
 album: Emergency & I
 spotify_url: https://open.spotify.com/search/The%20Dismemberment%20Plan%20Emergency%20%26%20I
-apple_music_url: https://music.apple.com/us/search?term=The%20Dismemberment%20Plan%20Emergency%20%26%20I
+apple_music_url: https://music.apple.com/search?term=The%20Dismemberment%20Plan%20Emergency%20%26%20I
 youtube_url: https://www.youtube.com/results?search_query=The%20Dismemberment%20Plan%20Emergency%20%26%20I
 ---
 

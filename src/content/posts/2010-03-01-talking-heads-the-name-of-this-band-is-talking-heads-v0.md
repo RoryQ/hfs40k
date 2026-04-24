@@ -6,7 +6,7 @@ title: Talking Heads - The Name Of This Band Is Talking Heads (v0)
 artist: Talking Heads
 album: The Name Of This Band Is Talking Heads
 spotify_url: https://open.spotify.com/search/Talking%20Heads%20The%20Name%20Of%20This%20Band%20Is%20Talking%20Heads
-apple_music_url: https://music.apple.com/us/search?term=Talking%20Heads%20The%20Name%20Of%20This%20Band%20Is%20Talking%20Heads
+apple_music_url: https://music.apple.com/search?term=Talking%20Heads%20The%20Name%20Of%20This%20Band%20Is%20Talking%20Heads
 youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20The%20Name%20Of%20This%20Band%20Is%20Talking%20Heads
 ---
 

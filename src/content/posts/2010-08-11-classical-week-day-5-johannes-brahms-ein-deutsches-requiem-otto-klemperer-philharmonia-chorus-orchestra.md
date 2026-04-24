@@ -7,7 +7,7 @@ title: 'Classical Week - Day #5 Johannes Brahms: Ein Deutsches Requiem (Otto Kle
 artist: Classical Week
 album: 'Day #5 Johannes Brahms: Ein Deutsches Requiem'
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%235%20Johannes%20Brahms%3A%20Ein%20Deutsches%20Requiem
 ---
 

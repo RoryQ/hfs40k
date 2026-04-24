@@ -6,7 +6,7 @@ title: Big Blood & The Bleedin' Hearts - Big Blood & The Bleedin' Hearts (2008)
 artist: Big Blood & The Bleedin' Hearts
 album: Big Blood & The Bleedin' Hearts
 spotify_url: https://open.spotify.com/search/Big%20Blood%20%26%20The%20Bleedin%27%20Hearts%20Big%20Blood%20%26%20The%20Bleedin%27%20Hearts
-apple_music_url: https://music.apple.com/us/search?term=Big%20Blood%20%26%20The%20Bleedin%27%20Hearts%20Big%20Blood%20%26%20The%20Bleedin%27%20Hearts
+apple_music_url: https://music.apple.com/search?term=Big%20Blood%20%26%20The%20Bleedin%27%20Hearts%20Big%20Blood%20%26%20The%20Bleedin%27%20Hearts
 youtube_url: https://www.youtube.com/results?search_query=Big%20Blood%20%26%20The%20Bleedin%27%20Hearts%20Big%20Blood%20%26%20The%20Bleedin%27%20Hearts
 ---
 

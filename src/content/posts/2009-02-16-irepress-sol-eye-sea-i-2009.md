@@ -6,7 +6,7 @@ title: Irepress - Sol Eye Sea I (2009)
 artist: Irepress
 album: Sol Eye Sea I
 spotify_url: https://open.spotify.com/search/Irepress%20Sol%20Eye%20Sea%20I
-apple_music_url: https://music.apple.com/us/search?term=Irepress%20Sol%20Eye%20Sea%20I
+apple_music_url: https://music.apple.com/search?term=Irepress%20Sol%20Eye%20Sea%20I
 youtube_url: https://www.youtube.com/results?search_query=Irepress%20Sol%20Eye%20Sea%20I
 ---
 

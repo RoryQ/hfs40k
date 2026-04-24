@@ -6,7 +6,7 @@ title: Joao Gilberto - Joao Gilberto  (FLAC)
 artist: Joao Gilberto
 album: Joao Gilberto
 spotify_url: https://open.spotify.com/search/Joao%20Gilberto%20Joao%20Gilberto
-apple_music_url: https://geo.music.apple.com/au/album/_/1778117441?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1778117441
 youtube_url: https://www.youtube.com/results?search_query=Joao%20Gilberto%20Joao%20Gilberto
 ---
 

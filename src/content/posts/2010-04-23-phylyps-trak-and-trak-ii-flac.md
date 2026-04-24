@@ -6,7 +6,7 @@ title: Phylyps - Trak and Trak II FLAC
 artist: Phylyps
 album: Trak and Trak II FLAC
 spotify_url: https://open.spotify.com/search/Phylyps%20Trak%20and%20Trak%20II%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Phylyps%20Trak%20and%20Trak%20II%20FLAC
+apple_music_url: https://music.apple.com/search?term=Phylyps%20Trak%20and%20Trak%20II%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Phylyps%20Trak%20and%20Trak%20II%20FLAC
 ---
 

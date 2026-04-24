@@ -6,7 +6,7 @@ title: Wipers - Youth of America (FLAC)
 artist: Wipers
 album: Youth of America
 spotify_url: https://open.spotify.com/search/Wipers%20Youth%20of%20America
-apple_music_url: https://music.apple.com/us/search?term=Wipers%20Youth%20of%20America
+apple_music_url: https://music.apple.com/search?term=Wipers%20Youth%20of%20America
 youtube_url: https://www.youtube.com/results?search_query=Wipers%20Youth%20of%20America
 ---
 

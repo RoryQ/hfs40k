@@ -6,7 +6,7 @@ title: David Sylvian - Brilliant Trees (FLAC)
 artist: David Sylvian
 album: Brilliant Trees
 spotify_url: https://open.spotify.com/search/David%20Sylvian%20Brilliant%20Trees
-apple_music_url: https://music.apple.com/us/search?term=David%20Sylvian%20Brilliant%20Trees
+apple_music_url: https://music.apple.com/search?term=David%20Sylvian%20Brilliant%20Trees
 youtube_url: https://www.youtube.com/results?search_query=David%20Sylvian%20Brilliant%20Trees
 ---
 

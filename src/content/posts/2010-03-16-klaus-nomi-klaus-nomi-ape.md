@@ -6,7 +6,7 @@ title: Klaus Nomi - Klaus Nomi APE
 artist: Klaus Nomi
 album: Klaus Nomi APE
 spotify_url: https://open.spotify.com/search/Klaus%20Nomi%20Klaus%20Nomi%20APE
-apple_music_url: https://music.apple.com/us/search?term=Klaus%20Nomi%20Klaus%20Nomi%20APE
+apple_music_url: https://music.apple.com/search?term=Klaus%20Nomi%20Klaus%20Nomi%20APE
 youtube_url: https://www.youtube.com/results?search_query=Klaus%20Nomi%20Klaus%20Nomi%20APE
 ---
 

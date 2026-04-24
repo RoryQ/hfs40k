@@ -6,7 +6,7 @@ title: Kashiwa Daisuke - Program Music (2007)
 artist: Kashiwa Daisuke
 album: Program Music
 spotify_url: https://open.spotify.com/search/Kashiwa%20Daisuke%20Program%20Music
-apple_music_url: https://music.apple.com/us/search?term=Kashiwa%20Daisuke%20Program%20Music
+apple_music_url: https://music.apple.com/search?term=Kashiwa%20Daisuke%20Program%20Music
 youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%20Program%20Music
 ---
 

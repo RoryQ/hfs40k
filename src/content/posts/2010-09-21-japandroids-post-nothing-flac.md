@@ -6,7 +6,7 @@ title: Japandroids - Post-Nothing (FLAC)
 artist: Japandroids
 album: Post-Nothing
 spotify_url: https://open.spotify.com/search/Japandroids%20Post-Nothing
-apple_music_url: https://music.apple.com/us/search?term=Japandroids%20Post-Nothing
+apple_music_url: https://music.apple.com/search?term=Japandroids%20Post-Nothing
 youtube_url: https://www.youtube.com/results?search_query=Japandroids%20Post-Nothing
 ---
 

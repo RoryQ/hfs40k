@@ -6,7 +6,7 @@ title: David Bowie - Heroes (Remastered FLAC)
 artist: David Bowie
 album: Heroes
 spotify_url: https://open.spotify.com/search/David%20Bowie%20Heroes
-apple_music_url: https://music.apple.com/us/search?term=David%20Bowie%20Heroes
+apple_music_url: https://music.apple.com/search?term=David%20Bowie%20Heroes
 youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Heroes
 ---
 

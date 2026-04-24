@@ -6,7 +6,7 @@ title: Super Street Fighter IV OST
 artist: Various Artists
 album: Super Street Fighter IV OST
 spotify_url: https://open.spotify.com/search/Various%20Artists%20Super%20Street%20Fighter%20IV%20OST
-apple_music_url: https://music.apple.com/us/search?term=Various%20Artists%20Super%20Street%20Fighter%20IV%20OST
+apple_music_url: https://music.apple.com/search?term=Various%20Artists%20Super%20Street%20Fighter%20IV%20OST
 youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20Super%20Street%20Fighter%20IV%20OST
 ---
 

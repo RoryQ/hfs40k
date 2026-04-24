@@ -7,7 +7,7 @@ title: "Oscar Peterson, St\xE9phane Grappelli Quartet - Oscar Peterson, St\xE9ph
 artist: "Oscar Peterson, St\xE9phane Grappelli Quartet"
 album: "Oscar Peterson, St\xE9phane Grappelli Quartet Vol. 2"
 spotify_url: https://open.spotify.com/search/Oscar%20Peterson%2C%20St%C3%A9phane%20Grappelli%20Quartet%20Oscar%20Peterson%2C%20St%C3%A9phane%20Grappelli%20Quartet%20Vol.%202
-apple_music_url: https://geo.music.apple.com/au/album/_/1556685462?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1556685462
 youtube_url: https://www.youtube.com/results?search_query=Oscar%20Peterson%2C%20St%C3%A9phane%20Grappelli%20Quartet%20Oscar%20Peterson%2C%20St%C3%A9phane%20Grappelli%20Quartet%20Vol.%202
 ---
 

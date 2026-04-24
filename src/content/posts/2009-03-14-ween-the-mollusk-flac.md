@@ -6,7 +6,7 @@ title: Ween - The Mollusk (FLAC)
 artist: Ween
 album: The Mollusk
 spotify_url: https://open.spotify.com/search/Ween%20The%20Mollusk
-apple_music_url: https://music.apple.com/us/search?term=Ween%20The%20Mollusk
+apple_music_url: https://music.apple.com/search?term=Ween%20The%20Mollusk
 youtube_url: https://www.youtube.com/results?search_query=Ween%20The%20Mollusk
 ---
 

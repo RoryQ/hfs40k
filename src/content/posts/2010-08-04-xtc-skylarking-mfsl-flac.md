@@ -6,7 +6,7 @@ title: XTC - Skylarking (MFSL FLAC)
 artist: XTC
 album: Skylarking
 spotify_url: https://open.spotify.com/search/XTC%20Skylarking
-apple_music_url: https://music.apple.com/us/search?term=XTC%20Skylarking
+apple_music_url: https://music.apple.com/search?term=XTC%20Skylarking
 youtube_url: https://www.youtube.com/results?search_query=XTC%20Skylarking
 ---
 

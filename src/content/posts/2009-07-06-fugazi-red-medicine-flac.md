@@ -6,7 +6,7 @@ title: Fugazi - Red Medicine (FLAC)
 artist: Fugazi
 album: Red Medicine
 spotify_url: https://open.spotify.com/search/Fugazi%20Red%20Medicine
-apple_music_url: https://geo.music.apple.com/au/album/_/49250097?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/49250097
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Red%20Medicine
 ---
 

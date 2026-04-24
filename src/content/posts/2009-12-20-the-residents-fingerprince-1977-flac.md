@@ -6,7 +6,7 @@ title: The Residents - Fingerprince (1977) [FLAC]
 artist: The Residents
 album: Fingerprince
 spotify_url: https://open.spotify.com/search/The%20Residents%20Fingerprince
-apple_music_url: https://music.apple.com/us/search?term=The%20Residents%20Fingerprince
+apple_music_url: https://music.apple.com/search?term=The%20Residents%20Fingerprince
 youtube_url: https://www.youtube.com/results?search_query=The%20Residents%20Fingerprince
 ---
 

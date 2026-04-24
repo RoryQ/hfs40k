@@ -7,7 +7,7 @@ title: 'Classical Week - Day #7 Ludwig van Beethoven: Symphony 5, 7 (Carlos Klei
 artist: Classical Week
 album: 'Day #7 Ludwig van Beethoven: Symphony 5, 7'
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%237%20Ludwig%20van%20Beethoven%3A%20Symphony%205%2C%207
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%237%20Ludwig%20van%20Beethoven%3A%20Symphony%205%2C%207
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%237%20Ludwig%20van%20Beethoven%3A%20Symphony%205%2C%207
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%237%20Ludwig%20van%20Beethoven%3A%20Symphony%205%2C%207
 ---
 

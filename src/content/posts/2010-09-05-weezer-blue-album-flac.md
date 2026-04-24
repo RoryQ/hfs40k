@@ -6,7 +6,7 @@ title: Weezer - Blue Album (FLAC)
 artist: Weezer
 album: Blue Album
 spotify_url: https://open.spotify.com/search/Weezer%20Blue%20Album
-apple_music_url: https://geo.music.apple.com/au/album/_/1440869641?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440869641
 youtube_url: https://www.youtube.com/results?search_query=Weezer%20Blue%20Album
 ---
 

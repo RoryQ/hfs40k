@@ -6,7 +6,7 @@ title: Belong - Colorloss Record EP (2008, 320)
 artist: Belong
 album: Colorloss Record EP
 spotify_url: https://open.spotify.com/search/Belong%20Colorloss%20Record%20EP
-apple_music_url: https://geo.music.apple.com/au/album/_/843003179?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/843003179
 youtube_url: https://www.youtube.com/results?search_query=Belong%20Colorloss%20Record%20EP
 ---
 

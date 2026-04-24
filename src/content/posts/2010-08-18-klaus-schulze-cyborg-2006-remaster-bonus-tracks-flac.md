@@ -6,7 +6,7 @@ title: Klaus Schulze - Cyborg (2006 Remaster + bonus tracks FLAC)
 artist: Klaus Schulze
 album: Cyborg
 spotify_url: https://open.spotify.com/search/Klaus%20Schulze%20Cyborg
-apple_music_url: https://music.apple.com/us/search?term=Klaus%20Schulze%20Cyborg
+apple_music_url: https://music.apple.com/search?term=Klaus%20Schulze%20Cyborg
 youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Cyborg
 ---
 

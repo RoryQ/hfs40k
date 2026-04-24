@@ -6,7 +6,7 @@ title: Isis - Panopticon (96 khz 24-bit vinyl rip FLAC)
 artist: Isis
 album: Panopticon
 spotify_url: https://open.spotify.com/search/Isis%20Panopticon
-apple_music_url: https://music.apple.com/us/search?term=Isis%20Panopticon
+apple_music_url: https://music.apple.com/search?term=Isis%20Panopticon
 youtube_url: https://www.youtube.com/results?search_query=Isis%20Panopticon
 ---
 

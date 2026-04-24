@@ -6,7 +6,7 @@ title: Belle and Sebastian - If You're Feeling Sinister (FLAC)
 artist: Belle and Sebastian
 album: If You're Feeling Sinister
 spotify_url: https://open.spotify.com/search/Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister
-apple_music_url: https://geo.music.apple.com/au/album/_/516530926?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/516530926
 youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister
 ---
 

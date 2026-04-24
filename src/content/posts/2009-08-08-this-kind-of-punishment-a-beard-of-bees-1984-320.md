@@ -6,7 +6,7 @@ title: This Kind of Punishment - A Beard of Bees (1984) [320]
 artist: This Kind of Punishment
 album: A Beard of Bees
 spotify_url: https://open.spotify.com/search/This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
-apple_music_url: https://music.apple.com/us/search?term=This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
+apple_music_url: https://music.apple.com/search?term=This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
 youtube_url: https://www.youtube.com/results?search_query=This%20Kind%20of%20Punishment%20A%20Beard%20of%20Bees
 ---
 

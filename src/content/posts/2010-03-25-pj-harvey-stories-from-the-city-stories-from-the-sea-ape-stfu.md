@@ -6,7 +6,7 @@ title: PJ Harvey - Stories From The City, Stories From The Sea (APE, STFU)
 artist: PJ Harvey
 album: Stories From The City, Stories From The Sea
 spotify_url: https://open.spotify.com/search/PJ%20Harvey%20Stories%20From%20The%20City%2C%20Stories%20From%20The%20Sea
-apple_music_url: https://music.apple.com/us/search?term=PJ%20Harvey%20Stories%20From%20The%20City%2C%20Stories%20From%20The%20Sea
+apple_music_url: https://music.apple.com/search?term=PJ%20Harvey%20Stories%20From%20The%20City%2C%20Stories%20From%20The%20Sea
 youtube_url: https://www.youtube.com/results?search_query=PJ%20Harvey%20Stories%20From%20The%20City%2C%20Stories%20From%20The%20Sea
 ---
 

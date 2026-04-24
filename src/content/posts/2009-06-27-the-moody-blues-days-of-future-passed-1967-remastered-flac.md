@@ -6,7 +6,7 @@ title: The Moody Blues - Days Of Future Passed (1967) [Remastered FLAC]
 artist: The Moody Blues
 album: Days Of Future Passed
 spotify_url: https://open.spotify.com/search/The%20Moody%20Blues%20Days%20Of%20Future%20Passed
-apple_music_url: https://music.apple.com/us/search?term=The%20Moody%20Blues%20Days%20Of%20Future%20Passed
+apple_music_url: https://music.apple.com/search?term=The%20Moody%20Blues%20Days%20Of%20Future%20Passed
 youtube_url: https://www.youtube.com/results?search_query=The%20Moody%20Blues%20Days%20Of%20Future%20Passed
 ---
 

@@ -6,7 +6,7 @@ title: 'Frank Zappa Week - Day #7 Hot Rats (200g 24bit-96khz Vinyl/CD FLAC)'
 artist: Frank Zappa Week
 album: 'Day #7 Hot Rats'
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Week%20Day%20%237%20Hot%20Rats
 ---
 

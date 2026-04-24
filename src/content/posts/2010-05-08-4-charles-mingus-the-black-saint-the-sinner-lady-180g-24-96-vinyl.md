@@ -6,7 +6,7 @@ title: '#4 Charles Mingus - The Black Saint & The Sinner Lady (180g 24-96 Vinyl)
 artist: '#4 Charles Mingus'
 album: The Black Saint & The Sinner Lady
 spotify_url: https://open.spotify.com/search/%234%20Charles%20Mingus%20The%20Black%20Saint%20%26%20The%20Sinner%20Lady
-apple_music_url: https://geo.music.apple.com/au/album/_/1443280597?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1443280597
 youtube_url: https://www.youtube.com/results?search_query=%234%20Charles%20Mingus%20The%20Black%20Saint%20%26%20The%20Sinner%20Lady
 ---
 

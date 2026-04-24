@@ -6,7 +6,7 @@ title: Crotchduster - Big Fat Box of Shit (2004) [FLAC]
 artist: Crotchduster
 album: Big Fat Box of Shit
 spotify_url: https://open.spotify.com/search/Crotchduster%20Big%20Fat%20Box%20of%20Shit
-apple_music_url: https://music.apple.com/us/search?term=Crotchduster%20Big%20Fat%20Box%20of%20Shit
+apple_music_url: https://music.apple.com/search?term=Crotchduster%20Big%20Fat%20Box%20of%20Shit
 youtube_url: https://www.youtube.com/results?search_query=Crotchduster%20Big%20Fat%20Box%20of%20Shit
 ---
 

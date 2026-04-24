@@ -7,7 +7,7 @@ title: "Classical Week - Day #4 Fr\xE9d\xE9ric Chopin: Piano Concertos Nos.1 & 2
 artist: Classical Week
 album: "Day #4 Fr\xE9d\xE9ric Chopin: Piano Concertos Nos.1 & 2"
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%234%20Fr%C3%A9d%C3%A9ric%20Chopin%3A%20Piano%20Concertos%20Nos.1%20%26%202
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%234%20Fr%C3%A9d%C3%A9ric%20Chopin%3A%20Piano%20Concertos%20Nos.1%20%26%202
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%234%20Fr%C3%A9d%C3%A9ric%20Chopin%3A%20Piano%20Concertos%20Nos.1%20%26%202
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%234%20Fr%C3%A9d%C3%A9ric%20Chopin%3A%20Piano%20Concertos%20Nos.1%20%26%202
 ---
 

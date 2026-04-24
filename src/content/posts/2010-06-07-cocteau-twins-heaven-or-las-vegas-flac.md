@@ -6,7 +6,7 @@ title: Cocteau Twins - Heaven or Las Vegas (FLAC)
 artist: Cocteau Twins
 album: Heaven or Las Vegas
 spotify_url: https://open.spotify.com/search/Cocteau%20Twins%20Heaven%20or%20Las%20Vegas
-apple_music_url: https://geo.music.apple.com/au/album/_/258198881?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/258198881
 youtube_url: https://www.youtube.com/results?search_query=Cocteau%20Twins%20Heaven%20or%20Las%20Vegas
 ---
 

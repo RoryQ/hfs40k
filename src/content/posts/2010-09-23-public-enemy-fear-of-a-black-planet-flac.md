@@ -6,7 +6,7 @@ title: Public Enemy - Fear of a Black Planet (FLAC)
 artist: Public Enemy
 album: Fear of a Black Planet
 spotify_url: https://open.spotify.com/search/Public%20Enemy%20Fear%20of%20a%20Black%20Planet
-apple_music_url: https://geo.music.apple.com/au/album/_/1769273382?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1769273382
 youtube_url: https://www.youtube.com/results?search_query=Public%20Enemy%20Fear%20of%20a%20Black%20Planet
 ---
 

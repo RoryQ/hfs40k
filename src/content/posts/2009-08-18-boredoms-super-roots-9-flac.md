@@ -6,7 +6,7 @@ title: Boredoms - Super Roots 9 [FLAC]
 artist: Boredoms
 album: Super Roots 9
 spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Roots%209
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Roots%209
+apple_music_url: https://music.apple.com/search?term=Boredoms%20Super%20Roots%209
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roots%209
 ---
 

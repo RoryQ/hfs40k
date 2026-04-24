@@ -6,7 +6,7 @@ title: Primal Scream - Screamadelica (FLAC)
 artist: Primal Scream
 album: Screamadelica
 spotify_url: https://open.spotify.com/search/Primal%20Scream%20Screamadelica
-apple_music_url: https://music.apple.com/us/search?term=Primal%20Scream%20Screamadelica
+apple_music_url: https://music.apple.com/search?term=Primal%20Scream%20Screamadelica
 youtube_url: https://www.youtube.com/results?search_query=Primal%20Scream%20Screamadelica
 ---
 

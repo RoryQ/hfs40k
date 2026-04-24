@@ -6,7 +6,7 @@ title: Genghis Tron - Board Up The House (FLAC)
 artist: Genghis Tron
 album: Board Up The House
 spotify_url: https://open.spotify.com/search/Genghis%20Tron%20Board%20Up%20The%20House
-apple_music_url: https://music.apple.com/us/search?term=Genghis%20Tron%20Board%20Up%20The%20House
+apple_music_url: https://music.apple.com/search?term=Genghis%20Tron%20Board%20Up%20The%20House
 youtube_url: https://www.youtube.com/results?search_query=Genghis%20Tron%20Board%20Up%20The%20House
 ---
 

@@ -6,7 +6,7 @@ title: Rod Modell - Incense & Black Light (2007, FLAC)
 artist: Rod Modell
 album: Incense & Black Light
 spotify_url: https://open.spotify.com/search/Rod%20Modell%20Incense%20%26%20Black%20Light
-apple_music_url: https://music.apple.com/us/search?term=Rod%20Modell%20Incense%20%26%20Black%20Light
+apple_music_url: https://music.apple.com/search?term=Rod%20Modell%20Incense%20%26%20Black%20Light
 youtube_url: https://www.youtube.com/results?search_query=Rod%20Modell%20Incense%20%26%20Black%20Light
 ---
 

@@ -6,7 +6,7 @@ title: DNA - DNA on DNA (FLAC & v0)
 artist: DNA
 album: DNA on DNA
 spotify_url: https://open.spotify.com/search/DNA%20DNA%20on%20DNA
-apple_music_url: https://music.apple.com/us/search?term=DNA%20DNA%20on%20DNA
+apple_music_url: https://music.apple.com/search?term=DNA%20DNA%20on%20DNA
 youtube_url: https://www.youtube.com/results?search_query=DNA%20DNA%20on%20DNA
 ---
 

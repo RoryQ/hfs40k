@@ -6,7 +6,7 @@ title: Edan - Beauty and the Beat (2005) [FLAC+VBR]
 artist: Edan
 album: Beauty and the Beat
 spotify_url: https://open.spotify.com/search/Edan%20Beauty%20and%20the%20Beat
-apple_music_url: https://geo.music.apple.com/au/album/_/125302141?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/125302141
 youtube_url: https://www.youtube.com/results?search_query=Edan%20Beauty%20and%20the%20Beat
 ---
 

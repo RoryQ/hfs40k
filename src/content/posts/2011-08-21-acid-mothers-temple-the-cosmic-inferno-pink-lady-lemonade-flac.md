@@ -6,7 +6,7 @@ title: Acid Mothers Temple & The Cosmic Inferno - Pink Lady Lemonade (FLAC)
 artist: Acid Mothers Temple & The Cosmic Inferno
 album: Pink Lady Lemonade
 spotify_url: https://open.spotify.com/search/Acid%20Mothers%20Temple%20%26%20The%20Cosmic%20Inferno%20Pink%20Lady%20Lemonade
-apple_music_url: https://music.apple.com/us/search?term=Acid%20Mothers%20Temple%20%26%20The%20Cosmic%20Inferno%20Pink%20Lady%20Lemonade
+apple_music_url: https://music.apple.com/search?term=Acid%20Mothers%20Temple%20%26%20The%20Cosmic%20Inferno%20Pink%20Lady%20Lemonade
 youtube_url: https://www.youtube.com/results?search_query=Acid%20Mothers%20Temple%20%26%20The%20Cosmic%20Inferno%20Pink%20Lady%20Lemonade
 ---
 

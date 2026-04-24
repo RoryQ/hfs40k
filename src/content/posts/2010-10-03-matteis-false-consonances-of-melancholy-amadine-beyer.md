@@ -6,7 +6,7 @@ title: Matteis - False Consonances of Melancholy (Amadine Beyer)
 artist: Matteis
 album: False Consonances of Melancholy
 spotify_url: https://open.spotify.com/search/Matteis%20False%20Consonances%20of%20Melancholy
-apple_music_url: https://music.apple.com/us/search?term=Matteis%20False%20Consonances%20of%20Melancholy
+apple_music_url: https://music.apple.com/search?term=Matteis%20False%20Consonances%20of%20Melancholy
 youtube_url: https://www.youtube.com/results?search_query=Matteis%20False%20Consonances%20of%20Melancholy
 ---
 

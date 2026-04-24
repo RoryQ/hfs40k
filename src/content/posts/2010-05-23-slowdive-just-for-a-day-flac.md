@@ -6,7 +6,7 @@ title: Slowdive - Just For A Day (FLAC)
 artist: Slowdive
 album: Just For A Day
 spotify_url: https://open.spotify.com/search/Slowdive%20Just%20For%20A%20Day
-apple_music_url: https://geo.music.apple.com/au/album/_/399186360?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/399186360
 youtube_url: https://www.youtube.com/results?search_query=Slowdive%20Just%20For%20A%20Day
 ---
 

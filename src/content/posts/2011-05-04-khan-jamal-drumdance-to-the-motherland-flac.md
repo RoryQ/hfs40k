@@ -6,7 +6,7 @@ title: Khan Jamal - Drumdance to the Motherland (FLAC)
 artist: Khan Jamal
 album: Drumdance to the Motherland
 spotify_url: https://open.spotify.com/search/Khan%20Jamal%20Drumdance%20to%20the%20Motherland
-apple_music_url: https://music.apple.com/us/search?term=Khan%20Jamal%20Drumdance%20to%20the%20Motherland
+apple_music_url: https://music.apple.com/search?term=Khan%20Jamal%20Drumdance%20to%20the%20Motherland
 youtube_url: https://www.youtube.com/results?search_query=Khan%20Jamal%20Drumdance%20to%20the%20Motherland
 ---
 

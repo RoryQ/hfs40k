@@ -6,7 +6,7 @@ title: Shub-Niggurath - Les morts vont vite (1986) [FLAC&V0]
 artist: Shub
 album: Niggurath - Les morts vont vite
 spotify_url: https://open.spotify.com/search/Shub%20Niggurath%20-%20Les%20morts%20vont%20vite
-apple_music_url: https://music.apple.com/us/search?term=Shub%20Niggurath%20-%20Les%20morts%20vont%20vite
+apple_music_url: https://music.apple.com/search?term=Shub%20Niggurath%20-%20Les%20morts%20vont%20vite
 youtube_url: https://www.youtube.com/results?search_query=Shub%20Niggurath%20-%20Les%20morts%20vont%20vite
 ---
 

@@ -6,7 +6,7 @@ title: Alamaailman Vasarat - Vasaraasia (2000)
 artist: Alamaailman Vasarat
 album: Vasaraasia
 spotify_url: https://open.spotify.com/search/Alamaailman%20Vasarat%20Vasaraasia
-apple_music_url: https://geo.music.apple.com/au/album/_/302160859?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/302160859
 youtube_url: https://www.youtube.com/results?search_query=Alamaailman%20Vasarat%20Vasaraasia
 ---
 

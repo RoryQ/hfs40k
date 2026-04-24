@@ -35,12 +35,13 @@ const dayCount = Math.floor((now.getTime() - epoch.getTime()) / msPerDay);
 
 const shuffledPosts = seededShuffle(allPosts, 40000); // "40000" is our fixed seed
 const dailyAlbum = shuffledPosts[dayCount % shuffledPosts.length];
+const { Content } = await dailyAlbum.render();
 
 // Recent posts
 const recentPosts = sortedPosts.slice(0, 24);
 ---
 
-<Layout title="holyfuckingshit40000: The Digital Repress">
+<Layout title="holyfuckingshit40000: The Second Pressing">
   <!-- Crate Digger Section -->
   <section class="mb-20">
     <div class="flex items-center gap-2 text-red-600 mb-6 uppercase tracking-widest text-sm font-bold">
@@ -60,13 +61,13 @@ const recentPosts = sortedPosts.slice(0, 24);
           <Disc size={120} class="text-holy-black" />
         )}
       </div>
-      <div class="flex flex-col justify-center">
+      <div class="flex flex-col justify-center overflow-hidden">
         <h2 class="text-3xl font-bold mb-2 uppercase leading-tight">{dailyAlbum.data.artist || dailyAlbum.data.title}</h2>
         {dailyAlbum.data.album && <h3 class="text-xl text-holy-grey mb-6 uppercase">{dailyAlbum.data.album}</h3>}
         
-        <p class="text-sm text-holy-white/60 mb-8 line-clamp-3 italic">
-          Originally posted on {dailyAlbum.data.date}
-        </p>
+        <div class="prose prose-invert prose-red max-w-none text-sm mb-8 line-clamp-6 italic opacity-80 overflow-hidden prose-img:hidden prose-a:pointer-events-none">
+          <Content />
+        </div>
 
         <div class="flex flex-wrap gap-4 mb-8">
           {dailyAlbum.data.spotify_url && (

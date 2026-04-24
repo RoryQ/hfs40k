@@ -6,7 +6,7 @@ title: Calla - Scavengers [FLAC]
 artist: Calla
 album: Scavengers
 spotify_url: https://open.spotify.com/search/Calla%20Scavengers
-apple_music_url: https://music.apple.com/us/search?term=Calla%20Scavengers
+apple_music_url: https://music.apple.com/search?term=Calla%20Scavengers
 youtube_url: https://www.youtube.com/results?search_query=Calla%20Scavengers
 ---
 

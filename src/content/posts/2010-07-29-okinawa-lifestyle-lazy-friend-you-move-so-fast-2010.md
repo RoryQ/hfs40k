@@ -6,7 +6,7 @@ title: Okinawa Lifestyle - Lazy Friend You Move So Fast (2010)
 artist: Okinawa Lifestyle
 album: Lazy Friend You Move So Fast
 spotify_url: https://open.spotify.com/search/Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
-apple_music_url: https://music.apple.com/us/search?term=Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
+apple_music_url: https://music.apple.com/search?term=Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
 youtube_url: https://www.youtube.com/results?search_query=Okinawa%20Lifestyle%20Lazy%20Friend%20You%20Move%20So%20Fast
 ---
 

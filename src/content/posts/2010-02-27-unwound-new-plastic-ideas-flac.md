@@ -6,7 +6,7 @@ title: Unwound - New Plastic Ideas (FLAC)
 artist: Unwound
 album: New Plastic Ideas
 spotify_url: https://open.spotify.com/search/Unwound%20New%20Plastic%20Ideas
-apple_music_url: https://music.apple.com/us/search?term=Unwound%20New%20Plastic%20Ideas
+apple_music_url: https://music.apple.com/search?term=Unwound%20New%20Plastic%20Ideas
 youtube_url: https://www.youtube.com/results?search_query=Unwound%20New%20Plastic%20Ideas
 ---
 

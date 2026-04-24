@@ -6,7 +6,7 @@ title: Eternal Morning - Soundtrack To A Lost Film (FLAC)
 artist: Eternal Morning
 album: Soundtrack To A Lost Film
 spotify_url: https://open.spotify.com/search/Eternal%20Morning%20Soundtrack%20To%20A%20Lost%20Film
-apple_music_url: https://music.apple.com/us/search?term=Eternal%20Morning%20Soundtrack%20To%20A%20Lost%20Film
+apple_music_url: https://music.apple.com/search?term=Eternal%20Morning%20Soundtrack%20To%20A%20Lost%20Film
 youtube_url: https://www.youtube.com/results?search_query=Eternal%20Morning%20Soundtrack%20To%20A%20Lost%20Film
 ---
 

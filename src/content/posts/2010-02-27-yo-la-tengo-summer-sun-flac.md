@@ -6,7 +6,7 @@ title: Yo La Tengo - Summer Sun (FLAC)
 artist: Yo La Tengo
 album: Summer Sun
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20Summer%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20Summer%20Sun
+apple_music_url: https://music.apple.com/search?term=Yo%20La%20Tengo%20Summer%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20Summer%20Sun
 ---
 

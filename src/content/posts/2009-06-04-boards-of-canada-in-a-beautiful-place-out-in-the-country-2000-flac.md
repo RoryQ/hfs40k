@@ -6,7 +6,7 @@ title: Boards of Canada - In a Beautiful Place Out in the Country (2000) [FLAC]
 artist: Boards of Canada
 album: In a Beautiful Place Out in the Country
 spotify_url: https://open.spotify.com/search/Boards%20of%20Canada%20In%20a%20Beautiful%20Place%20Out%20in%20the%20Country
-apple_music_url: https://music.apple.com/us/search?term=Boards%20of%20Canada%20In%20a%20Beautiful%20Place%20Out%20in%20the%20Country
+apple_music_url: https://music.apple.com/search?term=Boards%20of%20Canada%20In%20a%20Beautiful%20Place%20Out%20in%20the%20Country
 youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%20In%20a%20Beautiful%20Place%20Out%20in%20the%20Country
 ---
 

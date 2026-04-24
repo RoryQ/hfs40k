@@ -6,7 +6,7 @@ title: Ride - Nowhere (20th Anniversary Edition FLAC)
 artist: Ride
 album: Nowhere
 spotify_url: https://open.spotify.com/search/Ride%20Nowhere
-apple_music_url: https://geo.music.apple.com/au/album/_/608006339?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/608006339
 youtube_url: https://www.youtube.com/results?search_query=Ride%20Nowhere
 ---
 

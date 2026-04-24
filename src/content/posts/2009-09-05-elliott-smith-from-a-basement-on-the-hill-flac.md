@@ -6,7 +6,7 @@ title: Elliott Smith - From a Basement on the Hill (FLAC)
 artist: Elliott Smith
 album: From a Basement on the Hill
 spotify_url: https://open.spotify.com/search/Elliott%20Smith%20From%20a%20Basement%20on%20the%20Hill
-apple_music_url: https://music.apple.com/us/search?term=Elliott%20Smith%20From%20a%20Basement%20on%20the%20Hill
+apple_music_url: https://music.apple.com/search?term=Elliott%20Smith%20From%20a%20Basement%20on%20the%20Hill
 youtube_url: https://www.youtube.com/results?search_query=Elliott%20Smith%20From%20a%20Basement%20on%20the%20Hill
 ---
 

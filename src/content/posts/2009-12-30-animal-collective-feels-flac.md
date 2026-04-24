@@ -6,7 +6,7 @@ title: Animal Collective - Feels (FLAC)
 artist: Animal Collective
 album: Feels
 spotify_url: https://open.spotify.com/search/Animal%20Collective%20Feels
-apple_music_url: https://music.apple.com/us/search?term=Animal%20Collective%20Feels
+apple_music_url: https://music.apple.com/search?term=Animal%20Collective%20Feels
 youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Feels
 ---
 

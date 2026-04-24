@@ -6,7 +6,7 @@ title: Rev. Utah Smith & Rev. Lonnie Farris - Slide Guitar Gospel (192)
 artist: Rev. Utah Smith & Rev. Lonnie Farris
 album: Slide Guitar Gospel
 spotify_url: https://open.spotify.com/search/Rev.%20Utah%20Smith%20%26%20Rev.%20Lonnie%20Farris%20Slide%20Guitar%20Gospel
-apple_music_url: https://music.apple.com/us/search?term=Rev.%20Utah%20Smith%20%26%20Rev.%20Lonnie%20Farris%20Slide%20Guitar%20Gospel
+apple_music_url: https://music.apple.com/search?term=Rev.%20Utah%20Smith%20%26%20Rev.%20Lonnie%20Farris%20Slide%20Guitar%20Gospel
 youtube_url: https://www.youtube.com/results?search_query=Rev.%20Utah%20Smith%20%26%20Rev.%20Lonnie%20Farris%20Slide%20Guitar%20Gospel
 ---
 

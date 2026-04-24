@@ -6,7 +6,7 @@ title: CunninLynguists - Strange Journey Volume Two (2009) [VBR]
 artist: CunninLynguists
 album: Strange Journey Volume Two
 spotify_url: https://open.spotify.com/search/CunninLynguists%20Strange%20Journey%20Volume%20Two
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20Strange%20Journey%20Volume%20Two
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20Strange%20Journey%20Volume%20Two
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20Strange%20Journey%20Volume%20Two
 ---
 

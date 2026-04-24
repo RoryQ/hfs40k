@@ -6,7 +6,7 @@ title: 'Dave Holland - Extended Play: Live at Birdland (FLAC)'
 artist: Dave Holland
 album: 'Extended Play: Live at Birdland'
 spotify_url: https://open.spotify.com/search/Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
-apple_music_url: https://music.apple.com/us/search?term=Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
+apple_music_url: https://music.apple.com/search?term=Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
 youtube_url: https://www.youtube.com/results?search_query=Dave%20Holland%20Extended%20Play%3A%20Live%20at%20Birdland
 ---
 

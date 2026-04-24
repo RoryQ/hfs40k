@@ -6,7 +6,7 @@ title: The Zombies - Odessey & Oracle (FLAC)
 artist: The Zombies
 album: Odessey & Oracle
 spotify_url: https://open.spotify.com/search/The%20Zombies%20Odessey%20%26%20Oracle
-apple_music_url: https://music.apple.com/us/search?term=The%20Zombies%20Odessey%20%26%20Oracle
+apple_music_url: https://music.apple.com/search?term=The%20Zombies%20Odessey%20%26%20Oracle
 youtube_url: https://www.youtube.com/results?search_query=The%20Zombies%20Odessey%20%26%20Oracle
 ---
 

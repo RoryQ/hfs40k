@@ -6,7 +6,7 @@ title: Boards of Canada - Trans Canada Highway [EP] (2006, ALAC)
 artist: Boards of Canada
 album: Trans Canada Highway
 spotify_url: https://open.spotify.com/search/Boards%20of%20Canada%20Trans%20Canada%20Highway
-apple_music_url: https://music.apple.com/us/search?term=Boards%20of%20Canada%20Trans%20Canada%20Highway
+apple_music_url: https://music.apple.com/search?term=Boards%20of%20Canada%20Trans%20Canada%20Highway
 youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%20Trans%20Canada%20Highway
 ---
 

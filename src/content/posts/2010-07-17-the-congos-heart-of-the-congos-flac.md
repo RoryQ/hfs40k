@@ -6,7 +6,7 @@ title: The Congos - Heart of the Congos (FLAC)
 artist: The Congos
 album: Heart of the Congos
 spotify_url: https://open.spotify.com/search/The%20Congos%20Heart%20of%20the%20Congos
-apple_music_url: https://music.apple.com/us/search?term=The%20Congos%20Heart%20of%20the%20Congos
+apple_music_url: https://music.apple.com/search?term=The%20Congos%20Heart%20of%20the%20Congos
 youtube_url: https://www.youtube.com/results?search_query=The%20Congos%20Heart%20of%20the%20Congos
 ---
 

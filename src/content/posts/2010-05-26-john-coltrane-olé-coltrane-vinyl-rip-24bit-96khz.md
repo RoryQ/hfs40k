@@ -6,7 +6,7 @@ title: "John Coltrane - Ol\xE9 Coltrane (Vinyl Rip 24bit-96kHz)"
 artist: John Coltrane
 album: "Ol\xE9 Coltrane"
 spotify_url: https://open.spotify.com/search/John%20Coltrane%20Ol%C3%A9%20Coltrane
-apple_music_url: https://music.apple.com/us/search?term=John%20Coltrane%20Ol%C3%A9%20Coltrane
+apple_music_url: https://music.apple.com/search?term=John%20Coltrane%20Ol%C3%A9%20Coltrane
 youtube_url: https://www.youtube.com/results?search_query=John%20Coltrane%20Ol%C3%A9%20Coltrane
 ---
 

@@ -6,7 +6,7 @@ title: Lusine Icl - Language Barrier (2007) [FLAC]
 artist: Lusine Icl
 album: Language Barrier
 spotify_url: https://open.spotify.com/search/Lusine%20Icl%20Language%20Barrier
-apple_music_url: https://music.apple.com/us/search?term=Lusine%20Icl%20Language%20Barrier
+apple_music_url: https://music.apple.com/search?term=Lusine%20Icl%20Language%20Barrier
 youtube_url: https://www.youtube.com/results?search_query=Lusine%20Icl%20Language%20Barrier
 ---
 

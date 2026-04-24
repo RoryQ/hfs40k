@@ -6,7 +6,7 @@ title: "Carlos Paredes - Movimento Perp\xE9tuo"
 artist: Carlos Paredes
 album: "Movimento Perp\xE9tuo"
 spotify_url: https://open.spotify.com/search/Carlos%20Paredes%20Movimento%20Perp%C3%A9tuo
-apple_music_url: https://music.apple.com/us/search?term=Carlos%20Paredes%20Movimento%20Perp%C3%A9tuo
+apple_music_url: https://music.apple.com/search?term=Carlos%20Paredes%20Movimento%20Perp%C3%A9tuo
 youtube_url: https://www.youtube.com/results?search_query=Carlos%20Paredes%20Movimento%20Perp%C3%A9tuo
 ---
 

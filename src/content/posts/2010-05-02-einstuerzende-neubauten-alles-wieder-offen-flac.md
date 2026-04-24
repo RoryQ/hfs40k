@@ -6,7 +6,7 @@ title: Einstuerzende Neubauten - Alles Wieder Offen FLAC
 artist: Einstuerzende Neubauten
 album: Alles Wieder Offen FLAC
 spotify_url: https://open.spotify.com/search/Einstuerzende%20Neubauten%20Alles%20Wieder%20Offen%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Einstuerzende%20Neubauten%20Alles%20Wieder%20Offen%20FLAC
+apple_music_url: https://music.apple.com/search?term=Einstuerzende%20Neubauten%20Alles%20Wieder%20Offen%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Einstuerzende%20Neubauten%20Alles%20Wieder%20Offen%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: Jefre Cantu-Ledesma - Love Is A Stream (2010, 320)
 artist: Jefre Cantu
 album: Ledesma - Love Is A Stream
 spotify_url: https://open.spotify.com/search/Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
-apple_music_url: https://music.apple.com/us/search?term=Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
+apple_music_url: https://music.apple.com/search?term=Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
 youtube_url: https://www.youtube.com/results?search_query=Jefre%20Cantu%20Ledesma%20-%20Love%20Is%20A%20Stream
 ---
 

@@ -6,7 +6,7 @@ title: Dave Brubeck Quartet - Time Out [FLAC]
 artist: Dave Brubeck Quartet
 album: Time Out
 spotify_url: https://open.spotify.com/search/Dave%20Brubeck%20Quartet%20Time%20Out
-apple_music_url: https://music.apple.com/us/search?term=Dave%20Brubeck%20Quartet%20Time%20Out
+apple_music_url: https://music.apple.com/search?term=Dave%20Brubeck%20Quartet%20Time%20Out
 youtube_url: https://www.youtube.com/results?search_query=Dave%20Brubeck%20Quartet%20Time%20Out
 ---
 

@@ -6,7 +6,7 @@ title: Violent Femmes - Violent Femmes (FLAC)
 artist: Violent Femmes
 album: Violent Femmes
 spotify_url: https://open.spotify.com/search/Violent%20Femmes%20Violent%20Femmes
-apple_music_url: https://music.apple.com/us/search?term=Violent%20Femmes%20Violent%20Femmes
+apple_music_url: https://music.apple.com/search?term=Violent%20Femmes%20Violent%20Femmes
 youtube_url: https://www.youtube.com/results?search_query=Violent%20Femmes%20Violent%20Femmes
 ---
 

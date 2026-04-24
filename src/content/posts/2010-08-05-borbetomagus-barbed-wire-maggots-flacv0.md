@@ -6,7 +6,7 @@ title: Borbetomagus - Barbed Wire Maggots [FLAC+v0]
 artist: Borbetomagus
 album: Barbed Wire Maggots
 spotify_url: https://open.spotify.com/search/Borbetomagus%20Barbed%20Wire%20Maggots
-apple_music_url: https://music.apple.com/us/search?term=Borbetomagus%20Barbed%20Wire%20Maggots
+apple_music_url: https://music.apple.com/search?term=Borbetomagus%20Barbed%20Wire%20Maggots
 youtube_url: https://www.youtube.com/results?search_query=Borbetomagus%20Barbed%20Wire%20Maggots
 ---
 

@@ -6,7 +6,7 @@ title: 'Jun Togawa: Togawa Legend Self Select Best & Rare 1979-2008 (FLAC boxset
 artist: 'Jun Togawa: Togawa Legend Self Select Best & Rare 1979'
 album: '2008'
 spotify_url: https://open.spotify.com/search/Jun%20Togawa%3A%20Togawa%20Legend%20Self%20Select%20Best%20%26%20Rare%201979%202008
-apple_music_url: https://music.apple.com/us/search?term=Jun%20Togawa%3A%20Togawa%20Legend%20Self%20Select%20Best%20%26%20Rare%201979%202008
+apple_music_url: https://music.apple.com/search?term=Jun%20Togawa%3A%20Togawa%20Legend%20Self%20Select%20Best%20%26%20Rare%201979%202008
 youtube_url: https://www.youtube.com/results?search_query=Jun%20Togawa%3A%20Togawa%20Legend%20Self%20Select%20Best%20%26%20Rare%201979%202008
 ---
 

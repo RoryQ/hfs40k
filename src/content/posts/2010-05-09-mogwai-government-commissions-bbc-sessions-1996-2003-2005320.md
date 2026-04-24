@@ -6,7 +6,7 @@ title: 'Mogwai - Government Commissions: BBC Sessions 1996 - 2003 [2005/320]'
 artist: Mogwai
 album: 'Government Commissions: BBC Sessions 1996 - 2003'
 spotify_url: https://open.spotify.com/search/Mogwai%20Government%20Commissions%3A%20BBC%20Sessions%201996%20-%202003
-apple_music_url: https://music.apple.com/us/search?term=Mogwai%20Government%20Commissions%3A%20BBC%20Sessions%201996%20-%202003
+apple_music_url: https://music.apple.com/search?term=Mogwai%20Government%20Commissions%3A%20BBC%20Sessions%201996%20-%202003
 youtube_url: https://www.youtube.com/results?search_query=Mogwai%20Government%20Commissions%3A%20BBC%20Sessions%201996%20-%202003
 ---
 

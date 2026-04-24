@@ -6,7 +6,7 @@ title: Cowboy Bebop - Music for Freelance (FLAC)
 artist: Cowboy Bebop
 album: Music for Freelance
 spotify_url: https://open.spotify.com/search/Cowboy%20Bebop%20Music%20for%20Freelance
-apple_music_url: https://music.apple.com/us/search?term=Cowboy%20Bebop%20Music%20for%20Freelance
+apple_music_url: https://music.apple.com/search?term=Cowboy%20Bebop%20Music%20for%20Freelance
 youtube_url: https://www.youtube.com/results?search_query=Cowboy%20Bebop%20Music%20for%20Freelance
 ---
 

@@ -6,7 +6,7 @@ title: Sir Richard Bishop - While My Guitar Violently Bleeds
 artist: Sir Richard Bishop
 album: While My Guitar Violently Bleeds
 spotify_url: https://open.spotify.com/search/Sir%20Richard%20Bishop%20While%20My%20Guitar%20Violently%20Bleeds
-apple_music_url: https://music.apple.com/us/search?term=Sir%20Richard%20Bishop%20While%20My%20Guitar%20Violently%20Bleeds
+apple_music_url: https://music.apple.com/search?term=Sir%20Richard%20Bishop%20While%20My%20Guitar%20Violently%20Bleeds
 youtube_url: https://www.youtube.com/results?search_query=Sir%20Richard%20Bishop%20While%20My%20Guitar%20Violently%20Bleeds
 ---
 

@@ -6,7 +6,7 @@ title: Dom - Sun Bronzed Greek Gods (2010) [mp3 v2]
 artist: Dom
 album: Sun Bronzed Greek Gods
 spotify_url: https://open.spotify.com/search/Dom%20Sun%20Bronzed%20Greek%20Gods
-apple_music_url: https://music.apple.com/us/search?term=Dom%20Sun%20Bronzed%20Greek%20Gods
+apple_music_url: https://music.apple.com/search?term=Dom%20Sun%20Bronzed%20Greek%20Gods
 youtube_url: https://www.youtube.com/results?search_query=Dom%20Sun%20Bronzed%20Greek%20Gods
 ---
 

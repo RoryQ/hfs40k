@@ -6,7 +6,7 @@ title: MillionYoung - Sunndreamm [EP] [2009/Arcade Sound/320]
 artist: MillionYoung
 album: Sunndreamm
 spotify_url: https://open.spotify.com/search/MillionYoung%20Sunndreamm
-apple_music_url: https://music.apple.com/us/search?term=MillionYoung%20Sunndreamm
+apple_music_url: https://music.apple.com/search?term=MillionYoung%20Sunndreamm
 youtube_url: https://www.youtube.com/results?search_query=MillionYoung%20Sunndreamm
 ---
 

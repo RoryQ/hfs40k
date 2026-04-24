@@ -6,7 +6,7 @@ title: Palace Music - Viva Last Blues (1995)
 artist: Palace Music
 album: Viva Last Blues
 spotify_url: https://open.spotify.com/search/Palace%20Music%20Viva%20Last%20Blues
-apple_music_url: https://music.apple.com/us/search?term=Palace%20Music%20Viva%20Last%20Blues
+apple_music_url: https://music.apple.com/search?term=Palace%20Music%20Viva%20Last%20Blues
 youtube_url: https://www.youtube.com/results?search_query=Palace%20Music%20Viva%20Last%20Blues
 ---
 

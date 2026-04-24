@@ -6,7 +6,7 @@ title: Liars - Drum's Not Dead (FLAC)
 artist: Liars
 album: Drum's Not Dead
 spotify_url: https://open.spotify.com/search/Liars%20Drum%27s%20Not%20Dead
-apple_music_url: https://geo.music.apple.com/au/album/_/760526045?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/760526045
 youtube_url: https://www.youtube.com/results?search_query=Liars%20Drum%27s%20Not%20Dead
 ---
 

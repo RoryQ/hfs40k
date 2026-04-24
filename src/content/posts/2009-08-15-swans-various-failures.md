@@ -6,7 +6,7 @@ title: Swans - Various Failures
 artist: Swans
 album: Various Failures
 spotify_url: https://open.spotify.com/search/Swans%20Various%20Failures
-apple_music_url: https://music.apple.com/us/search?term=Swans%20Various%20Failures
+apple_music_url: https://music.apple.com/search?term=Swans%20Various%20Failures
 youtube_url: https://www.youtube.com/results?search_query=Swans%20Various%20Failures
 ---
 

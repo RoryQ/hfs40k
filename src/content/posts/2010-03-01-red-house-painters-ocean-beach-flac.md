@@ -6,7 +6,7 @@ title: Red House Painters - Ocean Beach FLAC
 artist: Red House Painters
 album: Ocean Beach FLAC
 spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Ocean%20Beach%20FLAC
-apple_music_url: https://geo.music.apple.com/au/album/_/266185726?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/266185726
 youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Ocean%20Beach%20FLAC
 ---
 

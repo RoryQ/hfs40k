@@ -6,7 +6,7 @@ title: Stendeck - Sonnambula (2009)
 artist: Stendeck
 album: Sonnambula
 spotify_url: https://open.spotify.com/search/Stendeck%20Sonnambula
-apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Sonnambula
+apple_music_url: https://music.apple.com/search?term=Stendeck%20Sonnambula
 youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Sonnambula
 ---
 

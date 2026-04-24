@@ -6,7 +6,7 @@ title: Arcturus - The Sham Mirrors (2002) [FLAC]
 artist: Arcturus
 album: The Sham Mirrors
 spotify_url: https://open.spotify.com/search/Arcturus%20The%20Sham%20Mirrors
-apple_music_url: https://music.apple.com/us/search?term=Arcturus%20The%20Sham%20Mirrors
+apple_music_url: https://music.apple.com/search?term=Arcturus%20The%20Sham%20Mirrors
 youtube_url: https://www.youtube.com/results?search_query=Arcturus%20The%20Sham%20Mirrors
 ---
 

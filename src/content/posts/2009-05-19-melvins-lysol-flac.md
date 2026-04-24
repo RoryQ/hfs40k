@@ -6,7 +6,7 @@ title: Melvins - Lysol (FLAC)
 artist: Melvins
 album: Lysol
 spotify_url: https://open.spotify.com/search/Melvins%20Lysol
-apple_music_url: https://music.apple.com/us/search?term=Melvins%20Lysol
+apple_music_url: https://music.apple.com/search?term=Melvins%20Lysol
 youtube_url: https://www.youtube.com/results?search_query=Melvins%20Lysol
 ---
 

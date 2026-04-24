@@ -6,7 +6,7 @@ title: Girl's Generation - Hoot (2010)
 artist: Girl's Generation
 album: Hoot
 spotify_url: https://open.spotify.com/search/Girl%27s%20Generation%20Hoot
-apple_music_url: https://geo.music.apple.com/au/album/_/871021351?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/871021351
 youtube_url: https://www.youtube.com/results?search_query=Girl%27s%20Generation%20Hoot
 ---
 

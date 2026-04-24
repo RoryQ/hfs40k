@@ -6,7 +6,7 @@ title: Pekka Pohjola - Harakka Bialoipokku
 artist: Pekka Pohjola
 album: Harakka Bialoipokku
 spotify_url: https://open.spotify.com/search/Pekka%20Pohjola%20Harakka%20Bialoipokku
-apple_music_url: https://music.apple.com/us/search?term=Pekka%20Pohjola%20Harakka%20Bialoipokku
+apple_music_url: https://music.apple.com/search?term=Pekka%20Pohjola%20Harakka%20Bialoipokku
 youtube_url: https://www.youtube.com/results?search_query=Pekka%20Pohjola%20Harakka%20Bialoipokku
 ---
 

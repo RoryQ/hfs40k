@@ -6,7 +6,7 @@ title: Joni Mitchell - The Hissing of Summer Lawns (FLAC)
 artist: Joni Mitchell
 album: The Hissing of Summer Lawns
 spotify_url: https://open.spotify.com/search/Joni%20Mitchell%20The%20Hissing%20of%20Summer%20Lawns
-apple_music_url: https://music.apple.com/us/search?term=Joni%20Mitchell%20The%20Hissing%20of%20Summer%20Lawns
+apple_music_url: https://music.apple.com/search?term=Joni%20Mitchell%20The%20Hissing%20of%20Summer%20Lawns
 youtube_url: https://www.youtube.com/results?search_query=Joni%20Mitchell%20The%20Hissing%20of%20Summer%20Lawns
 ---
 

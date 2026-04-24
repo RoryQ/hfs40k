@@ -6,7 +6,7 @@ title: The Smiths - Meat Is Murder (FLAC)
 artist: The Smiths
 album: Meat Is Murder
 spotify_url: https://open.spotify.com/search/The%20Smiths%20Meat%20Is%20Murder
-apple_music_url: https://music.apple.com/us/search?term=The%20Smiths%20Meat%20Is%20Murder
+apple_music_url: https://music.apple.com/search?term=The%20Smiths%20Meat%20Is%20Murder
 youtube_url: https://www.youtube.com/results?search_query=The%20Smiths%20Meat%20Is%20Murder
 ---
 

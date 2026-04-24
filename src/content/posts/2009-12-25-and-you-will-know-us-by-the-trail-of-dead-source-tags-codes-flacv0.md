@@ -6,7 +6,7 @@ title: '...And You Will Know Us By the Trail of Dead - Source Tags & Codes (FLAC
 artist: '...And You Will Know Us By the Trail of Dead'
 album: Source Tags & Codes
 spotify_url: https://open.spotify.com/search/...And%20You%20Will%20Know%20Us%20By%20the%20Trail%20of%20Dead%20Source%20Tags%20%26%20Codes
-apple_music_url: https://geo.music.apple.com/au/album/_/1444065808?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1444065808
 youtube_url: https://www.youtube.com/results?search_query=...And%20You%20Will%20Know%20Us%20By%20the%20Trail%20of%20Dead%20Source%20Tags%20%26%20Codes
 ---
 

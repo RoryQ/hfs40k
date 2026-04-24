@@ -6,7 +6,7 @@ title: The Flaming Lips - Clouds Taste Metallic (FLAC)
 artist: The Flaming Lips
 album: Clouds Taste Metallic
 spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
-apple_music_url: https://music.apple.com/us/search?term=The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
+apple_music_url: https://music.apple.com/search?term=The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
 youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Clouds%20Taste%20Metallic
 ---
 

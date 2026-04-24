@@ -6,7 +6,7 @@ title: D Bridge - The Gemini Principle (FLAC)
 artist: D Bridge
 album: The Gemini Principle
 spotify_url: https://open.spotify.com/search/D%20Bridge%20The%20Gemini%20Principle
-apple_music_url: https://music.apple.com/us/search?term=D%20Bridge%20The%20Gemini%20Principle
+apple_music_url: https://music.apple.com/search?term=D%20Bridge%20The%20Gemini%20Principle
 youtube_url: https://www.youtube.com/results?search_query=D%20Bridge%20The%20Gemini%20Principle
 ---
 

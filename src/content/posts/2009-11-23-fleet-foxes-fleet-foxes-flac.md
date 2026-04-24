@@ -6,7 +6,7 @@ title: Fleet Foxes - Fleet Foxes (FLAC)
 artist: Fleet Foxes
 album: Fleet Foxes
 spotify_url: https://open.spotify.com/search/Fleet%20Foxes%20Fleet%20Foxes
-apple_music_url: https://music.apple.com/us/search?term=Fleet%20Foxes%20Fleet%20Foxes
+apple_music_url: https://music.apple.com/search?term=Fleet%20Foxes%20Fleet%20Foxes
 youtube_url: https://www.youtube.com/results?search_query=Fleet%20Foxes%20Fleet%20Foxes
 ---
 

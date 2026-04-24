@@ -6,7 +6,7 @@ title: Damenbart - Impressionen '71 (2003 Re-issue)
 artist: Damenbart
 album: Impressionen '71
 spotify_url: https://open.spotify.com/search/Damenbart%20Impressionen%20%2771
-apple_music_url: https://music.apple.com/us/search?term=Damenbart%20Impressionen%20%2771
+apple_music_url: https://music.apple.com/search?term=Damenbart%20Impressionen%20%2771
 youtube_url: https://www.youtube.com/results?search_query=Damenbart%20Impressionen%20%2771
 ---
 

@@ -6,7 +6,7 @@ title: Ef - Give Me Beauty... Or Give Me Death! (FLAC)
 artist: Ef
 album: Give Me Beauty... Or Give Me Death!
 spotify_url: https://open.spotify.com/search/Ef%20Give%20Me%20Beauty...%20Or%20Give%20Me%20Death%21
-apple_music_url: https://music.apple.com/us/search?term=Ef%20Give%20Me%20Beauty...%20Or%20Give%20Me%20Death%21
+apple_music_url: https://music.apple.com/search?term=Ef%20Give%20Me%20Beauty...%20Or%20Give%20Me%20Death%21
 youtube_url: https://www.youtube.com/results?search_query=Ef%20Give%20Me%20Beauty...%20Or%20Give%20Me%20Death%21
 ---
 

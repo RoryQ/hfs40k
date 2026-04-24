@@ -6,7 +6,7 @@ title: Schoenberg - Moses und Aron (Herbert Kegel)
 artist: Schoenberg
 album: Moses und Aron
 spotify_url: https://open.spotify.com/search/Schoenberg%20Moses%20und%20Aron
-apple_music_url: https://music.apple.com/us/search?term=Schoenberg%20Moses%20und%20Aron
+apple_music_url: https://music.apple.com/search?term=Schoenberg%20Moses%20und%20Aron
 youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Moses%20und%20Aron
 ---
 

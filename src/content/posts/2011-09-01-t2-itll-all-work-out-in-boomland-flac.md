@@ -6,7 +6,7 @@ title: T.2. - It'll All Work Out In Boomland (FLAC)
 artist: T.2.
 album: It'll All Work Out In Boomland
 spotify_url: https://open.spotify.com/search/T.2.%20It%27ll%20All%20Work%20Out%20In%20Boomland
-apple_music_url: https://geo.music.apple.com/au/album/_/1732720977?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1732720977
 youtube_url: https://www.youtube.com/results?search_query=T.2.%20It%27ll%20All%20Work%20Out%20In%20Boomland
 ---
 

@@ -6,7 +6,7 @@ title: Talk Talk - Laughing Stock (FLAC)
 artist: Talk Talk
 album: Laughing Stock
 spotify_url: https://open.spotify.com/search/Talk%20Talk%20Laughing%20Stock
-apple_music_url: https://geo.music.apple.com/au/album/_/1442531159?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1442531159
 youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20Laughing%20Stock
 ---
 

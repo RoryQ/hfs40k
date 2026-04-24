@@ -6,7 +6,7 @@ title: Wipers - Is This Real? (FLAC)
 artist: Wipers
 album: Is This Real?
 spotify_url: https://open.spotify.com/search/Wipers%20Is%20This%20Real%3F
-apple_music_url: https://music.apple.com/us/search?term=Wipers%20Is%20This%20Real%3F
+apple_music_url: https://music.apple.com/search?term=Wipers%20Is%20This%20Real%3F
 youtube_url: https://www.youtube.com/results?search_query=Wipers%20Is%20This%20Real%3F
 ---
 

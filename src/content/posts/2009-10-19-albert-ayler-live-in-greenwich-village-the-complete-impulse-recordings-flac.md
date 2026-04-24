@@ -7,7 +7,7 @@ title: 'Albert Ayler - Live in Greenwich Village: The Complete Impulse Recording
 artist: Albert Ayler
 album: 'Live in Greenwich Village: The Complete Impulse Recordings'
 spotify_url: https://open.spotify.com/search/Albert%20Ayler%20Live%20in%20Greenwich%20Village%3A%20The%20Complete%20Impulse%20Recordings
-apple_music_url: https://geo.music.apple.com/au/album/_/1452866502?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1452866502
 youtube_url: https://www.youtube.com/results?search_query=Albert%20Ayler%20Live%20in%20Greenwich%20Village%3A%20The%20Complete%20Impulse%20Recordings
 ---
 

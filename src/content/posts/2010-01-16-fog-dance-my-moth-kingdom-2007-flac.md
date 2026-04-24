@@ -6,7 +6,7 @@ title: Fog Dance, My Moth Kingdom (2007, FLAC)
 artist: Fog Dance
 album: My Moth Kingdom
 spotify_url: https://open.spotify.com/search/Fog%20Dance%20My%20Moth%20Kingdom
-apple_music_url: https://music.apple.com/us/search?term=Fog%20Dance%20My%20Moth%20Kingdom
+apple_music_url: https://music.apple.com/search?term=Fog%20Dance%20My%20Moth%20Kingdom
 youtube_url: https://www.youtube.com/results?search_query=Fog%20Dance%20My%20Moth%20Kingdom
 ---
 

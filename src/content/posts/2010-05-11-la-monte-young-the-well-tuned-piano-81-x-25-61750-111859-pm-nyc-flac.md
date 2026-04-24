@@ -6,7 +6,7 @@ title: La Monte Young - The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC 
 artist: La Monte Young
 album: The Well-Tuned Piano 81 X 25, 6:17:50 - 11:18:59 PM NYC
 spotify_url: https://open.spotify.com/search/La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
-apple_music_url: https://music.apple.com/us/search?term=La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
+apple_music_url: https://music.apple.com/search?term=La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
 youtube_url: https://www.youtube.com/results?search_query=La%20Monte%20Young%20The%20Well-Tuned%20Piano%2081%20X%2025%2C%206%3A17%3A50%20-%2011%3A18%3A59%20PM%20NYC
 ---
 

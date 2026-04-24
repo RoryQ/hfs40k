@@ -6,7 +6,7 @@ title: Ghost (JPN) FLACography (almost)
 artist: Ghost
 album: FLACography (almost)
 spotify_url: https://open.spotify.com/search/Ghost%20FLACography%20%28almost%29
-apple_music_url: https://music.apple.com/us/search?term=Ghost%20FLACography%20%28almost%29
+apple_music_url: https://music.apple.com/search?term=Ghost%20FLACography%20%28almost%29
 youtube_url: https://www.youtube.com/results?search_query=Ghost%20FLACography%20%28almost%29
 ---
 

@@ -6,7 +6,7 @@ title: Mike Oldfield - Tubular Bells (1973) [FLAC]
 artist: Mike Oldfield
 album: Tubular Bells
 spotify_url: https://open.spotify.com/search/Mike%20Oldfield%20Tubular%20Bells
-apple_music_url: https://music.apple.com/us/search?term=Mike%20Oldfield%20Tubular%20Bells
+apple_music_url: https://music.apple.com/search?term=Mike%20Oldfield%20Tubular%20Bells
 youtube_url: https://www.youtube.com/results?search_query=Mike%20Oldfield%20Tubular%20Bells
 ---
 

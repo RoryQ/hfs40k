@@ -6,7 +6,7 @@ title: Shulman - In Search of a Meaningful Moment (WavPack)
 artist: Shulman
 album: In Search of a Meaningful Moment
 spotify_url: https://open.spotify.com/search/Shulman%20In%20Search%20of%20a%20Meaningful%20Moment
-apple_music_url: https://music.apple.com/us/search?term=Shulman%20In%20Search%20of%20a%20Meaningful%20Moment
+apple_music_url: https://music.apple.com/search?term=Shulman%20In%20Search%20of%20a%20Meaningful%20Moment
 youtube_url: https://www.youtube.com/results?search_query=Shulman%20In%20Search%20of%20a%20Meaningful%20Moment
 ---
 

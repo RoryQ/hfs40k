@@ -6,7 +6,7 @@ title: Isis - Oceanic (24/96 FLAC)
 artist: Isis
 album: Oceanic
 spotify_url: https://open.spotify.com/search/Isis%20Oceanic
-apple_music_url: https://music.apple.com/us/search?term=Isis%20Oceanic
+apple_music_url: https://music.apple.com/search?term=Isis%20Oceanic
 youtube_url: https://www.youtube.com/results?search_query=Isis%20Oceanic
 ---
 

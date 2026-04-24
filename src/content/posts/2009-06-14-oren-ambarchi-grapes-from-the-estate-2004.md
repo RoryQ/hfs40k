@@ -6,7 +6,7 @@ title: Oren Ambarchi - Grapes from the Estate (2004)
 artist: Oren Ambarchi
 album: Grapes from the Estate
 spotify_url: https://open.spotify.com/search/Oren%20Ambarchi%20Grapes%20from%20the%20Estate
-apple_music_url: https://geo.music.apple.com/au/album/_/262566688?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/262566688
 youtube_url: https://www.youtube.com/results?search_query=Oren%20Ambarchi%20Grapes%20from%20the%20Estate
 ---
 

@@ -6,7 +6,7 @@ title: Broken Social Scene - Broken Social Scene (FLAC)
 artist: Broken Social Scene
 album: Broken Social Scene
 spotify_url: https://open.spotify.com/search/Broken%20Social%20Scene%20Broken%20Social%20Scene
-apple_music_url: https://music.apple.com/us/search?term=Broken%20Social%20Scene%20Broken%20Social%20Scene
+apple_music_url: https://music.apple.com/search?term=Broken%20Social%20Scene%20Broken%20Social%20Scene
 youtube_url: https://www.youtube.com/results?search_query=Broken%20Social%20Scene%20Broken%20Social%20Scene
 ---
 

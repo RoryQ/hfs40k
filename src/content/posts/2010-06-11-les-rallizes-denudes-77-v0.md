@@ -6,7 +6,7 @@ title: "Les Rallizes De\u0301nude\u0301s - '77 (v0)"
 artist: "Les Rallizes De\u0301nude\u0301s"
 album: '''77'
 spotify_url: https://open.spotify.com/search/Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
-apple_music_url: https://music.apple.com/us/search?term=Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
+apple_music_url: https://music.apple.com/search?term=Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
 youtube_url: https://www.youtube.com/results?search_query=Les%20Rallizes%20De%CC%81nude%CC%81s%20%2777
 ---
 

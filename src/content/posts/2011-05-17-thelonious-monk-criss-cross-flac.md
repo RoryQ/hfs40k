@@ -6,7 +6,7 @@ title: Thelonious Monk - Criss-Cross (FLAC)
 artist: Thelonious Monk
 album: Criss-Cross
 spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20Criss-Cross
-apple_music_url: https://music.apple.com/us/search?term=Thelonious%20Monk%20Criss-Cross
+apple_music_url: https://music.apple.com/search?term=Thelonious%20Monk%20Criss-Cross
 youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Criss-Cross
 ---
 

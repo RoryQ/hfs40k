@@ -6,7 +6,7 @@ title: Deftones - Diamond Eyes (FLAC)
 artist: Deftones
 album: Diamond Eyes
 spotify_url: https://open.spotify.com/search/Deftones%20Diamond%20Eyes
-apple_music_url: https://music.apple.com/us/search?term=Deftones%20Diamond%20Eyes
+apple_music_url: https://music.apple.com/search?term=Deftones%20Diamond%20Eyes
 youtube_url: https://www.youtube.com/results?search_query=Deftones%20Diamond%20Eyes
 ---
 

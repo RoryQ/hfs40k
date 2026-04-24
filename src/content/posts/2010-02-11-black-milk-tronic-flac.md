@@ -6,7 +6,7 @@ title: Black Milk - Tronic (FLAC)
 artist: Black Milk
 album: Tronic
 spotify_url: https://open.spotify.com/search/Black%20Milk%20Tronic
-apple_music_url: https://music.apple.com/us/search?term=Black%20Milk%20Tronic
+apple_music_url: https://music.apple.com/search?term=Black%20Milk%20Tronic
 youtube_url: https://www.youtube.com/results?search_query=Black%20Milk%20Tronic
 ---
 

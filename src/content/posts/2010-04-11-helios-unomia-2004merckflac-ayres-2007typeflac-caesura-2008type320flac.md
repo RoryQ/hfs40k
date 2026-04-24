@@ -6,7 +6,7 @@ title: Helios - Unomia [2004/Merck/FLAC], Ayres [2007/Type/FLAC], Caesura [2008/
 artist: Helios
 album: Unomia
 spotify_url: https://open.spotify.com/search/Helios%20Unomia
-apple_music_url: https://music.apple.com/us/search?term=Helios%20Unomia
+apple_music_url: https://music.apple.com/search?term=Helios%20Unomia
 youtube_url: https://www.youtube.com/results?search_query=Helios%20Unomia
 ---
 

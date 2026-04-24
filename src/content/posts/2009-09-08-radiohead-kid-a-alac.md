@@ -6,7 +6,7 @@ title: Radiohead - Kid A (ALAC)
 artist: Radiohead
 album: Kid A
 spotify_url: https://open.spotify.com/search/Radiohead%20Kid%20A
-apple_music_url: https://geo.music.apple.com/au/album/_/1097862870?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1097862870
 youtube_url: https://www.youtube.com/results?search_query=Radiohead%20Kid%20A
 ---
 

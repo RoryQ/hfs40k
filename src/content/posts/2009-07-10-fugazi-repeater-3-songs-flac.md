@@ -6,7 +6,7 @@ title: Fugazi - Repeater + 3 Songs (FLAC)
 artist: Fugazi
 album: Repeater + 3 Songs
 spotify_url: https://open.spotify.com/search/Fugazi%20Repeater%20%2B%203%20Songs
-apple_music_url: https://music.apple.com/us/search?term=Fugazi%20Repeater%20%2B%203%20Songs
+apple_music_url: https://music.apple.com/search?term=Fugazi%20Repeater%20%2B%203%20Songs
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Repeater%20%2B%203%20Songs
 ---
 

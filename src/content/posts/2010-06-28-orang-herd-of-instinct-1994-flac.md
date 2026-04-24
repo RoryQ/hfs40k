@@ -6,7 +6,7 @@ title: .O.rang - Herd of Instinct (1994, FLAC)
 artist: .O.rang
 album: Herd of Instinct
 spotify_url: https://open.spotify.com/search/.O.rang%20Herd%20of%20Instinct
-apple_music_url: https://music.apple.com/us/search?term=.O.rang%20Herd%20of%20Instinct
+apple_music_url: https://music.apple.com/search?term=.O.rang%20Herd%20of%20Instinct
 youtube_url: https://www.youtube.com/results?search_query=.O.rang%20Herd%20of%20Instinct
 ---
 

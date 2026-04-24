@@ -6,7 +6,7 @@ title: Ghostface Killah- Supreme Clientele [2000/ALAC]
 artist: Ghostface Killah
 album: Supreme Clientele
 spotify_url: https://open.spotify.com/search/Ghostface%20Killah%20Supreme%20Clientele
-apple_music_url: https://music.apple.com/us/search?term=Ghostface%20Killah%20Supreme%20Clientele
+apple_music_url: https://music.apple.com/search?term=Ghostface%20Killah%20Supreme%20Clientele
 youtube_url: https://www.youtube.com/results?search_query=Ghostface%20Killah%20Supreme%20Clientele
 ---
 

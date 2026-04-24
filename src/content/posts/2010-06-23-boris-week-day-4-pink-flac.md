@@ -6,7 +6,7 @@ title: 'Boris Week - Day #4 Pink (FLAC)'
 artist: Boris Week
 album: 'Day #4 Pink'
 spotify_url: https://open.spotify.com/search/Boris%20Week%20Day%20%234%20Pink
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Week%20Day%20%234%20Pink
+apple_music_url: https://music.apple.com/search?term=Boris%20Week%20Day%20%234%20Pink
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Week%20Day%20%234%20Pink
 ---
 

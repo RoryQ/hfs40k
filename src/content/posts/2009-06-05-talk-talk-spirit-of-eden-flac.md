@@ -6,7 +6,7 @@ title: Talk Talk - Spirit of Eden (FLAC)
 artist: Talk Talk
 album: Spirit of Eden
 spotify_url: https://open.spotify.com/search/Talk%20Talk%20Spirit%20of%20Eden
-apple_music_url: https://geo.music.apple.com/au/album/_/701395363?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/701395363
 youtube_url: https://www.youtube.com/results?search_query=Talk%20Talk%20Spirit%20of%20Eden
 ---
 

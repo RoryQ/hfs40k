@@ -6,7 +6,7 @@ title: "Maurizio Pollini - Fr\xE9d\xE9ric Chopin 24 Pr\xE9ludes Op.28 (FLAC)"
 artist: Maurizio Pollini
 album: "Fr\xE9d\xE9ric Chopin 24 Pr\xE9ludes Op.28"
 spotify_url: https://open.spotify.com/search/Maurizio%20Pollini%20Fr%C3%A9d%C3%A9ric%20Chopin%2024%20Pr%C3%A9ludes%20Op.28
-apple_music_url: https://music.apple.com/us/search?term=Maurizio%20Pollini%20Fr%C3%A9d%C3%A9ric%20Chopin%2024%20Pr%C3%A9ludes%20Op.28
+apple_music_url: https://music.apple.com/search?term=Maurizio%20Pollini%20Fr%C3%A9d%C3%A9ric%20Chopin%2024%20Pr%C3%A9ludes%20Op.28
 youtube_url: https://www.youtube.com/results?search_query=Maurizio%20Pollini%20Fr%C3%A9d%C3%A9ric%20Chopin%2024%20Pr%C3%A9ludes%20Op.28
 ---
 

@@ -6,7 +6,7 @@ title: Iron Lung / Pig Heart Transplant
 artist: Iron Lung
 album: Pig Heart Transplant
 spotify_url: https://open.spotify.com/search/Iron%20Lung%20Pig%20Heart%20Transplant
-apple_music_url: https://music.apple.com/us/search?term=Iron%20Lung%20Pig%20Heart%20Transplant
+apple_music_url: https://music.apple.com/search?term=Iron%20Lung%20Pig%20Heart%20Transplant
 youtube_url: https://www.youtube.com/results?search_query=Iron%20Lung%20Pig%20Heart%20Transplant
 ---
 

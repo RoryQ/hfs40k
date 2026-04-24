@@ -6,7 +6,7 @@ title: Grandaddy - The Sophtware Slump (FLAC)
 artist: Grandaddy
 album: The Sophtware Slump
 spotify_url: https://open.spotify.com/search/Grandaddy%20The%20Sophtware%20Slump
-apple_music_url: https://geo.music.apple.com/au/album/_/1442359422?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1442359422
 youtube_url: https://www.youtube.com/results?search_query=Grandaddy%20The%20Sophtware%20Slump
 ---
 

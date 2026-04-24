@@ -6,7 +6,7 @@ title: Godspeed You! Black Emperor - All Lights Fucked on the Hairy Amp Drooling
 artist: Godspeed You! Black Emperor
 album: All Lights Fucked on the Hairy Amp Drooling
 spotify_url: https://open.spotify.com/search/Godspeed%20You%21%20Black%20Emperor%20All%20Lights%20Fucked%20on%20the%20Hairy%20Amp%20Drooling
-apple_music_url: https://music.apple.com/us/search?term=Godspeed%20You%21%20Black%20Emperor%20All%20Lights%20Fucked%20on%20the%20Hairy%20Amp%20Drooling
+apple_music_url: https://music.apple.com/search?term=Godspeed%20You%21%20Black%20Emperor%20All%20Lights%20Fucked%20on%20the%20Hairy%20Amp%20Drooling
 youtube_url: https://www.youtube.com/results?search_query=Godspeed%20You%21%20Black%20Emperor%20All%20Lights%20Fucked%20on%20the%20Hairy%20Amp%20Drooling
 ---
 

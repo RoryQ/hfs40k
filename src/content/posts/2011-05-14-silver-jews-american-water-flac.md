@@ -6,7 +6,7 @@ title: Silver Jews - American Water (FLAC)
 artist: Silver Jews
 album: American Water
 spotify_url: https://open.spotify.com/search/Silver%20Jews%20American%20Water
-apple_music_url: https://geo.music.apple.com/au/album/_/57937208?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/57937208
 youtube_url: https://www.youtube.com/results?search_query=Silver%20Jews%20American%20Water
 ---
 

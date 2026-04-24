@@ -6,7 +6,7 @@ title: Johann Sebastian Bach - Sonatas & Partitas for Violin (Henryk Szeryng) (F
 artist: Johann Sebastian Bach
 album: Sonatas & Partitas for Violin
 spotify_url: https://open.spotify.com/search/Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
-apple_music_url: https://music.apple.com/us/search?term=Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
+apple_music_url: https://music.apple.com/search?term=Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
 youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach%20Sonatas%20%26%20Partitas%20for%20Violin
 ---
 

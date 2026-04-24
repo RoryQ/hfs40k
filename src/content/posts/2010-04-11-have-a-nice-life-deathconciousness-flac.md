@@ -6,7 +6,7 @@ title: Have A Nice Life - Deathconciousness (FLAC)
 artist: Have A Nice Life
 album: Deathconciousness
 spotify_url: https://open.spotify.com/search/Have%20A%20Nice%20Life%20Deathconciousness
-apple_music_url: https://music.apple.com/us/search?term=Have%20A%20Nice%20Life%20Deathconciousness
+apple_music_url: https://music.apple.com/search?term=Have%20A%20Nice%20Life%20Deathconciousness
 youtube_url: https://www.youtube.com/results?search_query=Have%20A%20Nice%20Life%20Deathconciousness
 ---
 

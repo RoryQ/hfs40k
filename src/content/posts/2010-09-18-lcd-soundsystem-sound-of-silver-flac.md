@@ -6,7 +6,7 @@ title: LCD Soundsystem - Sound of Silver (FLAC)
 artist: LCD Soundsystem
 album: Sound of Silver
 spotify_url: https://open.spotify.com/search/LCD%20Soundsystem%20Sound%20of%20Silver
-apple_music_url: https://geo.music.apple.com/au/album/_/742432549?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/742432549
 youtube_url: https://www.youtube.com/results?search_query=LCD%20Soundsystem%20Sound%20of%20Silver
 ---
 

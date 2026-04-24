@@ -6,7 +6,7 @@ title: Modest Mouse - The Moon & Antarctica (Remastered FLAC)
 artist: Modest Mouse
 album: The Moon & Antarctica
 spotify_url: https://open.spotify.com/search/Modest%20Mouse%20The%20Moon%20%26%20Antarctica
-apple_music_url: https://music.apple.com/us/search?term=Modest%20Mouse%20The%20Moon%20%26%20Antarctica
+apple_music_url: https://music.apple.com/search?term=Modest%20Mouse%20The%20Moon%20%26%20Antarctica
 youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20The%20Moon%20%26%20Antarctica
 ---
 

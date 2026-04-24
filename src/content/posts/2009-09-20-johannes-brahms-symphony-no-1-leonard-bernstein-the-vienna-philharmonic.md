@@ -6,7 +6,7 @@ title: Johannes Brahms - Symphony No. 1 (Leonard Bernstein & the Vienna Philharm
 artist: Johannes Brahms
 album: Symphony No. 1
 spotify_url: https://open.spotify.com/search/Johannes%20Brahms%20Symphony%20No.%201
-apple_music_url: https://music.apple.com/us/search?term=Johannes%20Brahms%20Symphony%20No.%201
+apple_music_url: https://music.apple.com/search?term=Johannes%20Brahms%20Symphony%20No.%201
 youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Symphony%20No.%201
 ---
 

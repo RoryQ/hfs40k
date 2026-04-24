@@ -6,7 +6,7 @@ title: Brand New - The Devil And God Are Raging Inside Me (FLAC)
 artist: Brand New
 album: The Devil And God Are Raging Inside Me
 spotify_url: https://open.spotify.com/search/Brand%20New%20The%20Devil%20And%20God%20Are%20Raging%20Inside%20Me
-apple_music_url: https://geo.music.apple.com/au/album/_/1440761123?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440761123
 youtube_url: https://www.youtube.com/results?search_query=Brand%20New%20The%20Devil%20And%20God%20Are%20Raging%20Inside%20Me
 ---
 
