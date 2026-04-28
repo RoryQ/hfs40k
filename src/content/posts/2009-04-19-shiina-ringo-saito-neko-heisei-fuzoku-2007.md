@@ -6,7 +6,7 @@ title: Shiina Ringo & Saito Neko - Heisei Fuzoku (2007)
 artist: Shiina Ringo & Saito Neko
 album: Heisei Fuzoku
 spotify_url: https://open.spotify.com/search/Shiina%20Ringo%20%26%20Saito%20Neko%20Heisei%20Fuzoku
-apple_music_url: https://music.apple.com/us/search?term=Shiina%20Ringo%20%26%20Saito%20Neko%20Heisei%20Fuzoku
+apple_music_url: https://music.apple.com/search?term=Shiina%20Ringo%20%26%20Saito%20Neko%20Heisei%20Fuzoku
 youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20%26%20Saito%20Neko%20Heisei%20Fuzoku
 ---
 

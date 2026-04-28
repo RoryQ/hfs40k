@@ -6,7 +6,7 @@ title: Peter Brotzmann Octet - The Complete Machine Gun Sessions (FLAC)
 artist: Peter Brotzmann Octet
 album: The Complete Machine Gun Sessions
 spotify_url: https://open.spotify.com/search/Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
-apple_music_url: https://music.apple.com/us/search?term=Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
+apple_music_url: https://music.apple.com/search?term=Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
 youtube_url: https://www.youtube.com/results?search_query=Peter%20Brotzmann%20Octet%20The%20Complete%20Machine%20Gun%20Sessions
 ---
 

@@ -6,7 +6,7 @@ title: Neurosis & Jarboe - Neurosis & Jarboe (FLAC)
 artist: Neurosis & Jarboe
 album: Neurosis & Jarboe
 spotify_url: https://open.spotify.com/search/Neurosis%20%26%20Jarboe%20Neurosis%20%26%20Jarboe
-apple_music_url: https://geo.music.apple.com/au/album/_/1468883934?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1468883934
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20%26%20Jarboe%20Neurosis%20%26%20Jarboe
 ---
 

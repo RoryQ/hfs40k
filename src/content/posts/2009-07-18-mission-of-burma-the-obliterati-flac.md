@@ -6,7 +6,7 @@ title: Mission of Burma - The Obliterati (FLAC)
 artist: Mission of Burma
 album: The Obliterati
 spotify_url: https://open.spotify.com/search/Mission%20of%20Burma%20The%20Obliterati
-apple_music_url: https://music.apple.com/us/search?term=Mission%20of%20Burma%20The%20Obliterati
+apple_music_url: https://music.apple.com/search?term=Mission%20of%20Burma%20The%20Obliterati
 youtube_url: https://www.youtube.com/results?search_query=Mission%20of%20Burma%20The%20Obliterati
 ---
 

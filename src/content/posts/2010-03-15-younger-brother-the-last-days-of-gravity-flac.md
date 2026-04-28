@@ -6,7 +6,7 @@ title: Younger Brother - The Last Days of Gravity FLAC
 artist: Younger Brother
 album: The Last Days of Gravity FLAC
 spotify_url: https://open.spotify.com/search/Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
+apple_music_url: https://music.apple.com/search?term=Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Younger%20Brother%20The%20Last%20Days%20of%20Gravity%20FLAC
 ---
 

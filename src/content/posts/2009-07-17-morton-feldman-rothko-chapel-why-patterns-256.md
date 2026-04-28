@@ -6,7 +6,7 @@ title: Morton Feldman - Rothko Chapel + Why Patterns? [256]
 artist: Morton Feldman
 album: Rothko Chapel + Why Patterns?
 spotify_url: https://open.spotify.com/search/Morton%20Feldman%20Rothko%20Chapel%20%2B%20Why%20Patterns%3F
-apple_music_url: https://music.apple.com/us/search?term=Morton%20Feldman%20Rothko%20Chapel%20%2B%20Why%20Patterns%3F
+apple_music_url: https://music.apple.com/search?term=Morton%20Feldman%20Rothko%20Chapel%20%2B%20Why%20Patterns%3F
 youtube_url: https://www.youtube.com/results?search_query=Morton%20Feldman%20Rothko%20Chapel%20%2B%20Why%20Patterns%3F
 ---
 

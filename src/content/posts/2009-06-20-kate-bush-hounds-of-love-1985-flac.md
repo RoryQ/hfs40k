@@ -6,7 +6,7 @@ title: Kate Bush - Hounds of Love (1985) [FLAC]
 artist: Kate Bush
 album: Hounds of Love
 spotify_url: https://open.spotify.com/search/Kate%20Bush%20Hounds%20of%20Love
-apple_music_url: https://music.apple.com/us/search?term=Kate%20Bush%20Hounds%20of%20Love
+apple_music_url: https://music.apple.com/search?term=Kate%20Bush%20Hounds%20of%20Love
 youtube_url: https://www.youtube.com/results?search_query=Kate%20Bush%20Hounds%20of%20Love
 ---
 

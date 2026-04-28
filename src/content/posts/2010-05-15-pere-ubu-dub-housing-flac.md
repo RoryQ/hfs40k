@@ -6,7 +6,7 @@ title: Pere Ubu - Dub Housing (FLAC)
 artist: Pere Ubu
 album: Dub Housing
 spotify_url: https://open.spotify.com/search/Pere%20Ubu%20Dub%20Housing
-apple_music_url: https://music.apple.com/us/search?term=Pere%20Ubu%20Dub%20Housing
+apple_music_url: https://music.apple.com/search?term=Pere%20Ubu%20Dub%20Housing
 youtube_url: https://www.youtube.com/results?search_query=Pere%20Ubu%20Dub%20Housing
 ---
 

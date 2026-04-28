@@ -6,7 +6,7 @@ title: maudlin of the Well - Bath+Leaving Your Body Map (2001) [FLAC]
 artist: maudlin of the Well
 album: Bath+Leaving Your Body Map
 spotify_url: https://open.spotify.com/search/maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
-apple_music_url: https://music.apple.com/us/search?term=maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
+apple_music_url: https://music.apple.com/search?term=maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
 youtube_url: https://www.youtube.com/results?search_query=maudlin%20of%20the%20Well%20Bath%2BLeaving%20Your%20Body%20Map
 ---
 

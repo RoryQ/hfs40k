@@ -6,7 +6,7 @@ title: Boris - FLAC reuploads
 artist: Boris
 album: FLAC reuploads
 spotify_url: https://open.spotify.com/search/Boris%20FLAC%20reuploads
-apple_music_url: https://music.apple.com/us/search?term=Boris%20FLAC%20reuploads
+apple_music_url: https://music.apple.com/search?term=Boris%20FLAC%20reuploads
 youtube_url: https://www.youtube.com/results?search_query=Boris%20FLAC%20reuploads
 ---
 

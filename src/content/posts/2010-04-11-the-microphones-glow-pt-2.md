@@ -6,7 +6,7 @@ title: The Microphones - Glow Pt. 2
 artist: The Microphones
 album: Glow Pt. 2
 spotify_url: https://open.spotify.com/search/The%20Microphones%20Glow%20Pt.%202
-apple_music_url: https://music.apple.com/us/search?term=The%20Microphones%20Glow%20Pt.%202
+apple_music_url: https://music.apple.com/search?term=The%20Microphones%20Glow%20Pt.%202
 youtube_url: https://www.youtube.com/results?search_query=The%20Microphones%20Glow%20Pt.%202
 ---
 

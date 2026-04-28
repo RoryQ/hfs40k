@@ -6,7 +6,7 @@ title: Juan Atkins - Metroplex 1985 - 2005
 artist: Juan Atkins
 album: Metroplex 1985 - 2005
 spotify_url: https://open.spotify.com/search/Juan%20Atkins%20Metroplex%201985%20-%202005
-apple_music_url: https://music.apple.com/us/search?term=Juan%20Atkins%20Metroplex%201985%20-%202005
+apple_music_url: https://music.apple.com/search?term=Juan%20Atkins%20Metroplex%201985%20-%202005
 youtube_url: https://www.youtube.com/results?search_query=Juan%20Atkins%20Metroplex%201985%20-%202005
 ---
 

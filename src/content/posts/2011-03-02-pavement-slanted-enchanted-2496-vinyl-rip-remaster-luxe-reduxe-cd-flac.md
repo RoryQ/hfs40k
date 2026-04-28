@@ -7,7 +7,7 @@ title: Pavement - Slanted & Enchanted 24/96 Vinyl Rip (Remaster) + Luxe & Reduxe
 artist: Pavement
 album: Slanted & Enchanted 24/96 Vinyl Rip
 spotify_url: https://open.spotify.com/search/Pavement%20Slanted%20%26%20Enchanted%2024/96%20Vinyl%20Rip
-apple_music_url: https://music.apple.com/us/search?term=Pavement%20Slanted%20%26%20Enchanted%2024/96%20Vinyl%20Rip
+apple_music_url: https://music.apple.com/search?term=Pavement%20Slanted%20%26%20Enchanted%2024/96%20Vinyl%20Rip
 youtube_url: https://www.youtube.com/results?search_query=Pavement%20Slanted%20%26%20Enchanted%2024/96%20Vinyl%20Rip
 ---
 

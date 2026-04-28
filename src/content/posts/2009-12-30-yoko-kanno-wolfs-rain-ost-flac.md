@@ -6,7 +6,7 @@ title: Yoko Kanno - Wolf's Rain OST (FLAC)
 artist: Yoko Kanno
 album: Wolf's Rain OST
 spotify_url: https://open.spotify.com/search/Yoko%20Kanno%20Wolf%27s%20Rain%20OST
-apple_music_url: https://geo.music.apple.com/au/album/_/969906387?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/969906387
 youtube_url: https://www.youtube.com/results?search_query=Yoko%20Kanno%20Wolf%27s%20Rain%20OST
 ---
 

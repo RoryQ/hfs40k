@@ -6,7 +6,7 @@ title: Wayne Shorter - Schizophrenia (FLAC)
 artist: Wayne Shorter
 album: Schizophrenia
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20Schizophrenia
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20Schizophrenia
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20Schizophrenia
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Schizophrenia
 ---
 

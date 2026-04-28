@@ -6,7 +6,7 @@ title: Field Music - Tones of Town (FLAC)
 artist: Field Music
 album: Tones of Town
 spotify_url: https://open.spotify.com/search/Field%20Music%20Tones%20of%20Town
-apple_music_url: https://music.apple.com/us/search?term=Field%20Music%20Tones%20of%20Town
+apple_music_url: https://music.apple.com/search?term=Field%20Music%20Tones%20of%20Town
 youtube_url: https://www.youtube.com/results?search_query=Field%20Music%20Tones%20of%20Town
 ---
 

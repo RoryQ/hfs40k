@@ -6,7 +6,7 @@ title: Hive - Devious Methods FLAC
 artist: Hive
 album: Devious Methods FLAC
 spotify_url: https://open.spotify.com/search/Hive%20Devious%20Methods%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Hive%20Devious%20Methods%20FLAC
+apple_music_url: https://music.apple.com/search?term=Hive%20Devious%20Methods%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Hive%20Devious%20Methods%20FLAC
 ---
 

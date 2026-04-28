@@ -6,7 +6,7 @@ title: Boredoms - Super Roots Volume 3 (FLAC)
 artist: Boredoms
 album: Super Roots Volume 3
 spotify_url: https://open.spotify.com/search/Boredoms%20Super%20Roots%20Volume%203
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Super%20Roots%20Volume%203
+apple_music_url: https://music.apple.com/search?term=Boredoms%20Super%20Roots%20Volume%203
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Super%20Roots%20Volume%203
 ---
 

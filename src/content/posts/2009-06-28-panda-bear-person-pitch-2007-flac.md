@@ -6,7 +6,7 @@ title: Panda Bear - Person Pitch (2007) [FLAC]
 artist: Panda Bear
 album: Person Pitch
 spotify_url: https://open.spotify.com/search/Panda%20Bear%20Person%20Pitch
-apple_music_url: https://music.apple.com/us/search?term=Panda%20Bear%20Person%20Pitch
+apple_music_url: https://music.apple.com/search?term=Panda%20Bear%20Person%20Pitch
 youtube_url: https://www.youtube.com/results?search_query=Panda%20Bear%20Person%20Pitch
 ---
 

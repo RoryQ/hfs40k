@@ -6,7 +6,7 @@ title: Mike Oldfield - Ommadawn (FLAC) (Remastered)
 artist: Mike Oldfield
 album: Ommadawn
 spotify_url: https://open.spotify.com/search/Mike%20Oldfield%20Ommadawn
-apple_music_url: https://music.apple.com/us/search?term=Mike%20Oldfield%20Ommadawn
+apple_music_url: https://music.apple.com/search?term=Mike%20Oldfield%20Ommadawn
 youtube_url: https://www.youtube.com/results?search_query=Mike%20Oldfield%20Ommadawn
 ---
 

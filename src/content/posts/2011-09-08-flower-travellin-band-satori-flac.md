@@ -6,7 +6,7 @@ title: Flower Travellin' Band - Satori (FLAC)
 artist: Flower Travellin' Band
 album: Satori
 spotify_url: https://open.spotify.com/search/Flower%20Travellin%27%20Band%20Satori
-apple_music_url: https://geo.music.apple.com/au/album/_/415296152?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/415296152
 youtube_url: https://www.youtube.com/results?search_query=Flower%20Travellin%27%20Band%20Satori
 ---
 

@@ -6,7 +6,7 @@ title: Spain - The Blue Moods of Spain (FLAC)
 artist: Spain
 album: The Blue Moods of Spain
 spotify_url: https://open.spotify.com/search/Spain%20The%20Blue%20Moods%20of%20Spain
-apple_music_url: https://music.apple.com/us/search?term=Spain%20The%20Blue%20Moods%20of%20Spain
+apple_music_url: https://music.apple.com/search?term=Spain%20The%20Blue%20Moods%20of%20Spain
 youtube_url: https://www.youtube.com/results?search_query=Spain%20The%20Blue%20Moods%20of%20Spain
 ---
 

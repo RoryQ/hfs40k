@@ -6,7 +6,7 @@ title: VoLt - Through The Rings
 artist: VoLt
 album: Through The Rings
 spotify_url: https://open.spotify.com/search/VoLt%20Through%20The%20Rings
-apple_music_url: https://music.apple.com/us/search?term=VoLt%20Through%20The%20Rings
+apple_music_url: https://music.apple.com/search?term=VoLt%20Through%20The%20Rings
 youtube_url: https://www.youtube.com/results?search_query=VoLt%20Through%20The%20Rings
 ---
 

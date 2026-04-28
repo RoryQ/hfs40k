@@ -6,7 +6,7 @@ title: Van Dyke Parks - Song Cycle [FLAC]
 artist: Van Dyke Parks
 album: Song Cycle
 spotify_url: https://open.spotify.com/search/Van%20Dyke%20Parks%20Song%20Cycle
-apple_music_url: https://music.apple.com/us/search?term=Van%20Dyke%20Parks%20Song%20Cycle
+apple_music_url: https://music.apple.com/search?term=Van%20Dyke%20Parks%20Song%20Cycle
 youtube_url: https://www.youtube.com/results?search_query=Van%20Dyke%20Parks%20Song%20Cycle
 ---
 

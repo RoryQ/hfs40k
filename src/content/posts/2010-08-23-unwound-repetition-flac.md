@@ -6,7 +6,7 @@ title: Unwound - Repetition (FLAC)
 artist: Unwound
 album: Repetition
 spotify_url: https://open.spotify.com/search/Unwound%20Repetition
-apple_music_url: https://music.apple.com/us/search?term=Unwound%20Repetition
+apple_music_url: https://music.apple.com/search?term=Unwound%20Repetition
 youtube_url: https://www.youtube.com/results?search_query=Unwound%20Repetition
 ---
 

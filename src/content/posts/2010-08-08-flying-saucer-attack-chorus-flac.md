@@ -6,7 +6,7 @@ title: Flying Saucer Attack - Chorus [FLAC]
 artist: Flying Saucer Attack
 album: Chorus
 spotify_url: https://open.spotify.com/search/Flying%20Saucer%20Attack%20Chorus
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Saucer%20Attack%20Chorus
+apple_music_url: https://music.apple.com/search?term=Flying%20Saucer%20Attack%20Chorus
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Saucer%20Attack%20Chorus
 ---
 

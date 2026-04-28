@@ -6,7 +6,7 @@ title: Christopher Bissonnette - In Between Words (2008, ALAC)
 artist: Christopher Bissonnette
 album: In Between Words
 spotify_url: https://open.spotify.com/search/Christopher%20Bissonnette%20In%20Between%20Words
-apple_music_url: https://music.apple.com/us/search?term=Christopher%20Bissonnette%20In%20Between%20Words
+apple_music_url: https://music.apple.com/search?term=Christopher%20Bissonnette%20In%20Between%20Words
 youtube_url: https://www.youtube.com/results?search_query=Christopher%20Bissonnette%20In%20Between%20Words
 ---
 

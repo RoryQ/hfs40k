@@ -6,7 +6,7 @@ title: NEU! - Neu! (FLAC)
 artist: NEU!
 album: Neu!
 spotify_url: https://open.spotify.com/search/NEU%21%20Neu%21
-apple_music_url: https://music.apple.com/us/search?term=NEU%21%20Neu%21
+apple_music_url: https://music.apple.com/search?term=NEU%21%20Neu%21
 youtube_url: https://www.youtube.com/results?search_query=NEU%21%20Neu%21
 ---
 

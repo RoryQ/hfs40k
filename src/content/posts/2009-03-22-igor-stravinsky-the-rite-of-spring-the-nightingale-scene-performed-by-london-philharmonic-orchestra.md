@@ -7,7 +7,7 @@ title: Igor Stravinsky - The Rite of Spring, The Nightingale Scene (Performed by
 artist: Igor Stravinsky
 album: The Rite of Spring, The Nightingale Scene
 spotify_url: https://open.spotify.com/search/Igor%20Stravinsky%20The%20Rite%20of%20Spring%2C%20The%20Nightingale%20Scene
-apple_music_url: https://music.apple.com/us/search?term=Igor%20Stravinsky%20The%20Rite%20of%20Spring%2C%20The%20Nightingale%20Scene
+apple_music_url: https://music.apple.com/search?term=Igor%20Stravinsky%20The%20Rite%20of%20Spring%2C%20The%20Nightingale%20Scene
 youtube_url: https://www.youtube.com/results?search_query=Igor%20Stravinsky%20The%20Rite%20of%20Spring%2C%20The%20Nightingale%20Scene
 ---
 

@@ -6,7 +6,7 @@ title: Sonic Youth - Daydream Nation (FLAC)
 artist: Sonic Youth
 album: Daydream Nation
 spotify_url: https://open.spotify.com/search/Sonic%20Youth%20Daydream%20Nation
-apple_music_url: https://geo.music.apple.com/au/album/_/520335802?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/520335802
 youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20Daydream%20Nation
 ---
 

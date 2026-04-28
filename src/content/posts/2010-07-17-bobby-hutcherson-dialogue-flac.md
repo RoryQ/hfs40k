@@ -6,7 +6,7 @@ title: Bobby Hutcherson - Dialogue (FLAC)
 artist: Bobby Hutcherson
 album: Dialogue
 spotify_url: https://open.spotify.com/search/Bobby%20Hutcherson%20Dialogue
-apple_music_url: https://music.apple.com/us/search?term=Bobby%20Hutcherson%20Dialogue
+apple_music_url: https://music.apple.com/search?term=Bobby%20Hutcherson%20Dialogue
 youtube_url: https://www.youtube.com/results?search_query=Bobby%20Hutcherson%20Dialogue
 ---
 

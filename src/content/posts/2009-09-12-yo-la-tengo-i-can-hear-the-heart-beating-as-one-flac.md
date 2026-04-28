@@ -6,7 +6,7 @@ title: Yo La Tengo - I Can Hear the Heart Beating As One [FLAC]
 artist: Yo La Tengo
 album: I Can Hear the Heart Beating As One
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20As%20One
-apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20As%20One
+apple_music_url: https://music.apple.com/search?term=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20As%20One
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20I%20Can%20Hear%20the%20Heart%20Beating%20As%20One
 ---
 

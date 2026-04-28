@@ -6,7 +6,7 @@ title: 'Shirim Klezmer Orchestra - Pincus and the Pig: A Klezmer Tale (2004) [FL
 artist: Shirim Klezmer Orchestra
 album: 'Pincus and the Pig: A Klezmer Tale'
 spotify_url: https://open.spotify.com/search/Shirim%20Klezmer%20Orchestra%20Pincus%20and%20the%20Pig%3A%20A%20Klezmer%20Tale
-apple_music_url: https://geo.music.apple.com/au/album/_/1189755566?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1189755566
 youtube_url: https://www.youtube.com/results?search_query=Shirim%20Klezmer%20Orchestra%20Pincus%20and%20the%20Pig%3A%20A%20Klezmer%20Tale
 ---
 

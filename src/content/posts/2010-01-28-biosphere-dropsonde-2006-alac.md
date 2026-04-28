@@ -6,7 +6,7 @@ title: Biosphere - Dropsonde [2006, ALAC]
 artist: Biosphere
 album: Dropsonde
 spotify_url: https://open.spotify.com/search/Biosphere%20Dropsonde
-apple_music_url: https://music.apple.com/us/search?term=Biosphere%20Dropsonde
+apple_music_url: https://music.apple.com/search?term=Biosphere%20Dropsonde
 youtube_url: https://www.youtube.com/results?search_query=Biosphere%20Dropsonde
 ---
 

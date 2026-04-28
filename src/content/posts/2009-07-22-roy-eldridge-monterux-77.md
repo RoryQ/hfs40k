@@ -6,7 +6,7 @@ title: Roy Eldridge - Monterux '77
 artist: Roy Eldridge
 album: Monterux '77
 spotify_url: https://open.spotify.com/search/Roy%20Eldridge%20Monterux%20%2777
-apple_music_url: https://music.apple.com/us/search?term=Roy%20Eldridge%20Monterux%20%2777
+apple_music_url: https://music.apple.com/search?term=Roy%20Eldridge%20Monterux%20%2777
 youtube_url: https://www.youtube.com/results?search_query=Roy%20Eldridge%20Monterux%20%2777
 ---
 

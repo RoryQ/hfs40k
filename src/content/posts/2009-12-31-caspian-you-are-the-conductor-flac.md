@@ -6,7 +6,7 @@ title: Caspian - You Are The Conductor (FLAC)
 artist: Caspian
 album: You Are The Conductor
 spotify_url: https://open.spotify.com/search/Caspian%20You%20Are%20The%20Conductor
-apple_music_url: https://music.apple.com/us/search?term=Caspian%20You%20Are%20The%20Conductor
+apple_music_url: https://music.apple.com/search?term=Caspian%20You%20Are%20The%20Conductor
 youtube_url: https://www.youtube.com/results?search_query=Caspian%20You%20Are%20The%20Conductor
 ---
 

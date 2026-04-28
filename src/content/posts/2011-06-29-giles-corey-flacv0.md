@@ -6,7 +6,7 @@ title: Giles Corey [FLAC/v0]
 artist: Dan Barrett
 album: Giles Corey
 spotify_url: https://open.spotify.com/search/Dan%20Barrett%20Giles%20Corey
-apple_music_url: https://music.apple.com/us/search?term=Dan%20Barrett%20Giles%20Corey
+apple_music_url: https://music.apple.com/search?term=Dan%20Barrett%20Giles%20Corey
 youtube_url: https://www.youtube.com/results?search_query=Dan%20Barrett%20Giles%20Corey
 ---
 

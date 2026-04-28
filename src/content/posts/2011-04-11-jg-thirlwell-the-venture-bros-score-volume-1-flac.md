@@ -6,7 +6,7 @@ title: JG Thirlwell - The Venture Bros Score (Volume 1) [FLAC]
 artist: JG Thirlwell
 album: The Venture Bros Score
 spotify_url: https://open.spotify.com/search/JG%20Thirlwell%20The%20Venture%20Bros%20Score
-apple_music_url: https://geo.music.apple.com/au/album/_/307784426?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/307784426
 youtube_url: https://www.youtube.com/results?search_query=JG%20Thirlwell%20The%20Venture%20Bros%20Score
 ---
 

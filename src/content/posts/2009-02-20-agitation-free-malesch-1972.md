@@ -6,7 +6,7 @@ title: Agitation Free - Malesch (1972)
 artist: Agitation Free
 album: Malesch
 spotify_url: https://open.spotify.com/search/Agitation%20Free%20Malesch
-apple_music_url: https://music.apple.com/us/search?term=Agitation%20Free%20Malesch
+apple_music_url: https://music.apple.com/search?term=Agitation%20Free%20Malesch
 youtube_url: https://www.youtube.com/results?search_query=Agitation%20Free%20Malesch
 ---
 

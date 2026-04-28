@@ -6,7 +6,7 @@ title: eX-Girl - Endangered Species (2004)
 artist: eX
 album: Girl - Endangered Species
 spotify_url: https://open.spotify.com/search/eX%20Girl%20-%20Endangered%20Species
-apple_music_url: https://music.apple.com/us/search?term=eX%20Girl%20-%20Endangered%20Species
+apple_music_url: https://music.apple.com/search?term=eX%20Girl%20-%20Endangered%20Species
 youtube_url: https://www.youtube.com/results?search_query=eX%20Girl%20-%20Endangered%20Species
 ---
 

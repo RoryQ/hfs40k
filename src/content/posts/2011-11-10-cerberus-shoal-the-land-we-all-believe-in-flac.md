@@ -6,7 +6,7 @@ title: Cerberus Shoal - The Land We All Believe In [FLAC]
 artist: Cerberus Shoal
 album: The Land We All Believe In
 spotify_url: https://open.spotify.com/search/Cerberus%20Shoal%20The%20Land%20We%20All%20Believe%20In
-apple_music_url: https://geo.music.apple.com/au/album/_/1619388623?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1619388623
 youtube_url: https://www.youtube.com/results?search_query=Cerberus%20Shoal%20The%20Land%20We%20All%20Believe%20In
 ---
 

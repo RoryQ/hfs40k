@@ -6,7 +6,7 @@ title: Organized Konfusion - Organized Konfusion (1991)
 artist: Organized Konfusion
 album: Organized Konfusion
 spotify_url: https://open.spotify.com/search/Organized%20Konfusion%20Organized%20Konfusion
-apple_music_url: https://music.apple.com/us/search?term=Organized%20Konfusion%20Organized%20Konfusion
+apple_music_url: https://music.apple.com/search?term=Organized%20Konfusion%20Organized%20Konfusion
 youtube_url: https://www.youtube.com/results?search_query=Organized%20Konfusion%20Organized%20Konfusion
 ---
 

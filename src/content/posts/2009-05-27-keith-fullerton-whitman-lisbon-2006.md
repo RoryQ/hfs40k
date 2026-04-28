@@ -6,7 +6,7 @@ title: Keith Fullerton Whitman - Lisbon (2006)
 artist: Keith Fullerton Whitman
 album: Lisbon
 spotify_url: https://open.spotify.com/search/Keith%20Fullerton%20Whitman%20Lisbon
-apple_music_url: https://music.apple.com/us/search?term=Keith%20Fullerton%20Whitman%20Lisbon
+apple_music_url: https://music.apple.com/search?term=Keith%20Fullerton%20Whitman%20Lisbon
 youtube_url: https://www.youtube.com/results?search_query=Keith%20Fullerton%20Whitman%20Lisbon
 ---
 

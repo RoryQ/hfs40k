@@ -6,7 +6,7 @@ title: Actress - Splazsh (2010, FLAC)
 artist: Actress
 album: Splazsh
 spotify_url: https://open.spotify.com/search/Actress%20Splazsh
-apple_music_url: https://music.apple.com/us/search?term=Actress%20Splazsh
+apple_music_url: https://music.apple.com/search?term=Actress%20Splazsh
 youtube_url: https://www.youtube.com/results?search_query=Actress%20Splazsh
 ---
 

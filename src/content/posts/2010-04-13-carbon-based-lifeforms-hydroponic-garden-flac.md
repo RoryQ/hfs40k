@@ -6,7 +6,7 @@ title: Carbon Based Lifeforms - Hydroponic Garden [FLAC]
 artist: Carbon Based Lifeforms
 album: Hydroponic Garden
 spotify_url: https://open.spotify.com/search/Carbon%20Based%20Lifeforms%20Hydroponic%20Garden
-apple_music_url: https://geo.music.apple.com/au/album/_/1491063451?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1491063451
 youtube_url: https://www.youtube.com/results?search_query=Carbon%20Based%20Lifeforms%20Hydroponic%20Garden
 ---
 

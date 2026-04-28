@@ -6,7 +6,7 @@ title: Klaus Schulze - Irrlicht (+Bonus Tracks FLAC)
 artist: Klaus Schulze
 album: Irrlicht
 spotify_url: https://open.spotify.com/search/Klaus%20Schulze%20Irrlicht
-apple_music_url: https://geo.music.apple.com/au/album/_/1444204896?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1444204896
 youtube_url: https://www.youtube.com/results?search_query=Klaus%20Schulze%20Irrlicht
 ---
 

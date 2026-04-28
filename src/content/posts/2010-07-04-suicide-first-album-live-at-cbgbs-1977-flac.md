@@ -6,7 +6,7 @@ title: Suicide - First Album / Live at CBGB's 1977 [FLAC]
 artist: Suicide
 album: First Album / Live at CBGB's 1977
 spotify_url: https://open.spotify.com/search/Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
-apple_music_url: https://music.apple.com/us/search?term=Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
+apple_music_url: https://music.apple.com/search?term=Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
 youtube_url: https://www.youtube.com/results?search_query=Suicide%20First%20Album%20/%20Live%20at%20CBGB%27s%201977
 ---
 

@@ -6,7 +6,7 @@ title: King Crimson - In The Court Of The Crimson King (24-bit DVD-A)
 artist: King Crimson
 album: In The Court Of The Crimson King
 spotify_url: https://open.spotify.com/search/King%20Crimson%20In%20The%20Court%20Of%20The%20Crimson%20King
-apple_music_url: https://geo.music.apple.com/au/album/_/918534711?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/918534711
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20In%20The%20Court%20Of%20The%20Crimson%20King
 ---
 

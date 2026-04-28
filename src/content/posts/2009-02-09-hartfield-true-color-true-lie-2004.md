@@ -6,7 +6,7 @@ title: Hartfield - True Color, True Lie (2004)
 artist: Hartfield
 album: True Color, True Lie
 spotify_url: https://open.spotify.com/search/Hartfield%20True%20Color%2C%20True%20Lie
-apple_music_url: https://music.apple.com/us/search?term=Hartfield%20True%20Color%2C%20True%20Lie
+apple_music_url: https://music.apple.com/search?term=Hartfield%20True%20Color%2C%20True%20Lie
 youtube_url: https://www.youtube.com/results?search_query=Hartfield%20True%20Color%2C%20True%20Lie
 ---
 

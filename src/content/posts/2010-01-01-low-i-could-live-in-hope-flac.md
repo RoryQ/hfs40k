@@ -6,7 +6,7 @@ title: Low - I Could Live in Hope (FLAC)
 artist: Low
 album: I Could Live in Hope
 spotify_url: https://open.spotify.com/search/Low%20I%20Could%20Live%20in%20Hope
-apple_music_url: https://music.apple.com/us/search?term=Low%20I%20Could%20Live%20in%20Hope
+apple_music_url: https://music.apple.com/search?term=Low%20I%20Could%20Live%20in%20Hope
 youtube_url: https://www.youtube.com/results?search_query=Low%20I%20Could%20Live%20in%20Hope
 ---
 

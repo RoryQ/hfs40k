@@ -6,7 +6,7 @@ title: Herbert - Bodily Functions FLAC
 artist: Herbert
 album: Bodily Functions FLAC
 spotify_url: https://open.spotify.com/search/Herbert%20Bodily%20Functions%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Herbert%20Bodily%20Functions%20FLAC
+apple_music_url: https://music.apple.com/search?term=Herbert%20Bodily%20Functions%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Herbert%20Bodily%20Functions%20FLAC
 ---
 

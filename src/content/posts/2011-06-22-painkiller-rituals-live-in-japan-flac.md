@@ -6,7 +6,7 @@ title: Painkiller - Rituals Live in Japan (FLAC)
 artist: Painkiller
 album: Rituals Live in Japan
 spotify_url: https://open.spotify.com/search/Painkiller%20Rituals%20Live%20in%20Japan
-apple_music_url: https://music.apple.com/us/search?term=Painkiller%20Rituals%20Live%20in%20Japan
+apple_music_url: https://music.apple.com/search?term=Painkiller%20Rituals%20Live%20in%20Japan
 youtube_url: https://www.youtube.com/results?search_query=Painkiller%20Rituals%20Live%20in%20Japan
 ---
 

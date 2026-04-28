@@ -6,7 +6,7 @@ title: Bohren & der Club of Gore - Sunset Mission [FLAC]
 artist: Bohren & der Club of Gore
 album: Sunset Mission
 spotify_url: https://open.spotify.com/search/Bohren%20%26%20der%20Club%20of%20Gore%20Sunset%20Mission
-apple_music_url: https://music.apple.com/us/search?term=Bohren%20%26%20der%20Club%20of%20Gore%20Sunset%20Mission
+apple_music_url: https://music.apple.com/search?term=Bohren%20%26%20der%20Club%20of%20Gore%20Sunset%20Mission
 youtube_url: https://www.youtube.com/results?search_query=Bohren%20%26%20der%20Club%20of%20Gore%20Sunset%20Mission
 ---
 

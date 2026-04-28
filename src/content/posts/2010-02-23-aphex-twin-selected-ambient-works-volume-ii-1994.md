@@ -6,7 +6,7 @@ title: Aphex Twin - Selected Ambient Works Volume II (1994)
 artist: Aphex Twin
 album: Selected Ambient Works Volume II
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
-apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
+apple_music_url: https://music.apple.com/search?term=Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Selected%20Ambient%20Works%20Volume%20II
 ---
 

@@ -6,7 +6,7 @@ title: M83 - Digital Shades [vol. 1] [2007, ALAC]
 artist: M83
 album: Digital Shades
 spotify_url: https://open.spotify.com/search/M83%20Digital%20Shades
-apple_music_url: https://music.apple.com/us/search?term=M83%20Digital%20Shades
+apple_music_url: https://music.apple.com/search?term=M83%20Digital%20Shades
 youtube_url: https://www.youtube.com/results?search_query=M83%20Digital%20Shades
 ---
 

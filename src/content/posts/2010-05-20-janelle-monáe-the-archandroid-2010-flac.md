@@ -6,7 +6,7 @@ title: "Janelle Mon\xE1e - The ArchAndroid (2010, FLAC)"
 artist: "Janelle Mon\xE1e"
 album: The ArchAndroid
 spotify_url: https://open.spotify.com/search/Janelle%20Mon%C3%A1e%20The%20ArchAndroid
-apple_music_url: https://music.apple.com/us/search?term=Janelle%20Mon%C3%A1e%20The%20ArchAndroid
+apple_music_url: https://music.apple.com/search?term=Janelle%20Mon%C3%A1e%20The%20ArchAndroid
 youtube_url: https://www.youtube.com/results?search_query=Janelle%20Mon%C3%A1e%20The%20ArchAndroid
 ---
 

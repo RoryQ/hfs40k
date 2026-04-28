@@ -6,7 +6,7 @@ title: Coil - Moon's Milk (In Four Phases (2002) [320 mp3]
 artist: Coil
 album: Moon's Milk
 spotify_url: https://open.spotify.com/search/Coil%20Moon%27s%20Milk
-apple_music_url: https://geo.music.apple.com/au/album/_/1716053408?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1716053408
 youtube_url: https://www.youtube.com/results?search_query=Coil%20Moon%27s%20Milk
 ---
 

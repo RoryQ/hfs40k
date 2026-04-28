@@ -6,7 +6,7 @@ title: Shed - The Traveller (2010, FLAC)
 artist: Shed
 album: The Traveller
 spotify_url: https://open.spotify.com/search/Shed%20The%20Traveller
-apple_music_url: https://music.apple.com/us/search?term=Shed%20The%20Traveller
+apple_music_url: https://music.apple.com/search?term=Shed%20The%20Traveller
 youtube_url: https://www.youtube.com/results?search_query=Shed%20The%20Traveller
 ---
 

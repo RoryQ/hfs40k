@@ -6,7 +6,7 @@ title: William Parker - Double Sunrise Over Neptune [FLAC+v0]
 artist: William Parker
 album: Double Sunrise Over Neptune
 spotify_url: https://open.spotify.com/search/William%20Parker%20Double%20Sunrise%20Over%20Neptune
-apple_music_url: https://music.apple.com/us/search?term=William%20Parker%20Double%20Sunrise%20Over%20Neptune
+apple_music_url: https://music.apple.com/search?term=William%20Parker%20Double%20Sunrise%20Over%20Neptune
 youtube_url: https://www.youtube.com/results?search_query=William%20Parker%20Double%20Sunrise%20Over%20Neptune
 ---
 

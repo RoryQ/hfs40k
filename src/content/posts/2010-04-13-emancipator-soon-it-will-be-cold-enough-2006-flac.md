@@ -6,7 +6,7 @@ title: Emancipator - Soon It Will Be Cold Enough (2006) [FLAC]
 artist: Emancipator
 album: Soon It Will Be Cold Enough
 spotify_url: https://open.spotify.com/search/Emancipator%20Soon%20It%20Will%20Be%20Cold%20Enough
-apple_music_url: https://music.apple.com/us/search?term=Emancipator%20Soon%20It%20Will%20Be%20Cold%20Enough
+apple_music_url: https://music.apple.com/search?term=Emancipator%20Soon%20It%20Will%20Be%20Cold%20Enough
 youtube_url: https://www.youtube.com/results?search_query=Emancipator%20Soon%20It%20Will%20Be%20Cold%20Enough
 ---
 

@@ -6,7 +6,7 @@ title: Dinosaur Jr. - You're Living All Over Me (FLAC)
 artist: Dinosaur Jr.
 album: You're Living All Over Me
 spotify_url: https://open.spotify.com/search/Dinosaur%20Jr.%20You%27re%20Living%20All%20Over%20Me
-apple_music_url: https://music.apple.com/us/search?term=Dinosaur%20Jr.%20You%27re%20Living%20All%20Over%20Me
+apple_music_url: https://music.apple.com/search?term=Dinosaur%20Jr.%20You%27re%20Living%20All%20Over%20Me
 youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20You%27re%20Living%20All%20Over%20Me
 ---
 

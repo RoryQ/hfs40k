@@ -6,7 +6,7 @@ title: The White Stripes - Elephant (FLAC/v0)
 artist: The White Stripes
 album: Elephant
 spotify_url: https://open.spotify.com/search/The%20White%20Stripes%20Elephant
-apple_music_url: https://music.apple.com/us/search?term=The%20White%20Stripes%20Elephant
+apple_music_url: https://music.apple.com/search?term=The%20White%20Stripes%20Elephant
 youtube_url: https://www.youtube.com/results?search_query=The%20White%20Stripes%20Elephant
 ---
 

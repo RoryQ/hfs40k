@@ -6,7 +6,7 @@ title: 'Current 93 - Anok Pe: Aleph at Hallucinatory Mountain (2009)'
 artist: Current 93
 album: 'Anok Pe: Aleph at Hallucinatory Mountain'
 spotify_url: https://open.spotify.com/search/Current%2093%20Anok%20Pe%3A%20Aleph%20at%20Hallucinatory%20Mountain
-apple_music_url: https://music.apple.com/us/search?term=Current%2093%20Anok%20Pe%3A%20Aleph%20at%20Hallucinatory%20Mountain
+apple_music_url: https://music.apple.com/search?term=Current%2093%20Anok%20Pe%3A%20Aleph%20at%20Hallucinatory%20Mountain
 youtube_url: https://www.youtube.com/results?search_query=Current%2093%20Anok%20Pe%3A%20Aleph%20at%20Hallucinatory%20Mountain
 ---
 

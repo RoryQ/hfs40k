@@ -6,7 +6,7 @@ title: King Crimson - All studio albums (FLAC)
 artist: King Crimson
 album: All studio albums
 spotify_url: https://open.spotify.com/search/King%20Crimson%20All%20studio%20albums
-apple_music_url: https://music.apple.com/us/search?term=King%20Crimson%20All%20studio%20albums
+apple_music_url: https://music.apple.com/search?term=King%20Crimson%20All%20studio%20albums
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20All%20studio%20albums
 ---
 

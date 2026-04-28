@@ -6,7 +6,7 @@ title: Comus - First Utterance (1971) [FLAC]
 artist: Comus
 album: First Utterance
 spotify_url: https://open.spotify.com/search/Comus%20First%20Utterance
-apple_music_url: https://music.apple.com/us/search?term=Comus%20First%20Utterance
+apple_music_url: https://music.apple.com/search?term=Comus%20First%20Utterance
 youtube_url: https://www.youtube.com/results?search_query=Comus%20First%20Utterance
 ---
 

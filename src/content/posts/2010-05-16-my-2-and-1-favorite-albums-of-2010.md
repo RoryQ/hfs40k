@@ -6,7 +6,7 @@ title: 'My #2 and #1 favorite albums of 2010'
 artist: Christian Scott
 album: Yesterday You Said Tomorrow
 spotify_url: https://open.spotify.com/search/Christian%20Scott%20Yesterday%20You%20Said%20Tomorrow
-apple_music_url: https://geo.music.apple.com/au/album/_/1443133758?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1443133758
 youtube_url: https://www.youtube.com/results?search_query=Christian%20Scott%20Yesterday%20You%20Said%20Tomorrow
 ---
 

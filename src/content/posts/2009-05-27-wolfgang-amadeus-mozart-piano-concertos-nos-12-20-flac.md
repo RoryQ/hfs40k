@@ -6,7 +6,7 @@ title: Wolfgang Amadeus Mozart - Piano Concertos Nos. 12 & 20 (FLAC)
 artist: Wolfgang Amadeus Mozart
 album: Piano Concertos Nos. 12 & 20
 spotify_url: https://open.spotify.com/search/Wolfgang%20Amadeus%20Mozart%20Piano%20Concertos%20Nos.%2012%20%26%2020
-apple_music_url: https://music.apple.com/us/search?term=Wolfgang%20Amadeus%20Mozart%20Piano%20Concertos%20Nos.%2012%20%26%2020
+apple_music_url: https://music.apple.com/search?term=Wolfgang%20Amadeus%20Mozart%20Piano%20Concertos%20Nos.%2012%20%26%2020
 youtube_url: https://www.youtube.com/results?search_query=Wolfgang%20Amadeus%20Mozart%20Piano%20Concertos%20Nos.%2012%20%26%2020
 ---
 

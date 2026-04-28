@@ -6,7 +6,7 @@ title: Harold Budd/Brian Eno - Ambient 2/The Plateaux of Mirror [1980/EG/ALAC]
 artist: Harold Budd/Brian Eno
 album: Ambient 2/The Plateaux of Mirror
 spotify_url: https://open.spotify.com/search/Harold%20Budd/Brian%20Eno%20Ambient%202/The%20Plateaux%20of%20Mirror
-apple_music_url: https://music.apple.com/us/search?term=Harold%20Budd/Brian%20Eno%20Ambient%202/The%20Plateaux%20of%20Mirror
+apple_music_url: https://music.apple.com/search?term=Harold%20Budd/Brian%20Eno%20Ambient%202/The%20Plateaux%20of%20Mirror
 youtube_url: https://www.youtube.com/results?search_query=Harold%20Budd/Brian%20Eno%20Ambient%202/The%20Plateaux%20of%20Mirror
 ---
 

@@ -6,7 +6,7 @@ title: 'Boris Week - Day #3 Rock Dream (FLAC)'
 artist: Boris Week
 album: 'Day #3 Rock Dream'
 spotify_url: https://open.spotify.com/search/Boris%20Week%20Day%20%233%20Rock%20Dream
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Week%20Day%20%233%20Rock%20Dream
+apple_music_url: https://music.apple.com/search?term=Boris%20Week%20Day%20%233%20Rock%20Dream
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Week%20Day%20%233%20Rock%20Dream
 ---
 

@@ -6,7 +6,7 @@ title: Pixies - Bossanova (1990) [FLAC]
 artist: Pixies
 album: Bossanova
 spotify_url: https://open.spotify.com/search/Pixies%20Bossanova
-apple_music_url: https://music.apple.com/us/search?term=Pixies%20Bossanova
+apple_music_url: https://music.apple.com/search?term=Pixies%20Bossanova
 youtube_url: https://www.youtube.com/results?search_query=Pixies%20Bossanova
 ---
 

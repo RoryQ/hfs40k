@@ -6,7 +6,7 @@ title: Cocteau Twins - Treasure (FLAC)
 artist: Cocteau Twins
 album: Treasure
 spotify_url: https://open.spotify.com/search/Cocteau%20Twins%20Treasure
-apple_music_url: https://music.apple.com/us/search?term=Cocteau%20Twins%20Treasure
+apple_music_url: https://music.apple.com/search?term=Cocteau%20Twins%20Treasure
 youtube_url: https://www.youtube.com/results?search_query=Cocteau%20Twins%20Treasure
 ---
 

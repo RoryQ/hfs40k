@@ -6,7 +6,7 @@ title: Mr. Bungle - Disco Volante (FLAC)
 artist: Mr. Bungle
 album: Disco Volante
 spotify_url: https://open.spotify.com/search/Mr.%20Bungle%20Disco%20Volante
-apple_music_url: https://music.apple.com/us/search?term=Mr.%20Bungle%20Disco%20Volante
+apple_music_url: https://music.apple.com/search?term=Mr.%20Bungle%20Disco%20Volante
 youtube_url: https://www.youtube.com/results?search_query=Mr.%20Bungle%20Disco%20Volante
 ---
 

@@ -6,7 +6,7 @@ title: John Fahey - Yes! Jesus Loves Me (FLAC)
 artist: John Fahey
 album: Yes! Jesus Loves Me
 spotify_url: https://open.spotify.com/search/John%20Fahey%20Yes%21%20Jesus%20Loves%20Me
-apple_music_url: https://music.apple.com/us/search?term=John%20Fahey%20Yes%21%20Jesus%20Loves%20Me
+apple_music_url: https://music.apple.com/search?term=John%20Fahey%20Yes%21%20Jesus%20Loves%20Me
 youtube_url: https://www.youtube.com/results?search_query=John%20Fahey%20Yes%21%20Jesus%20Loves%20Me
 ---
 

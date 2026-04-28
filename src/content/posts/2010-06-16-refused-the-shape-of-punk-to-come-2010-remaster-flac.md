@@ -6,7 +6,7 @@ title: Refused - The Shape of Punk to Come (2010 Remaster) [FLAC]
 artist: Refused
 album: The Shape of Punk to Come
 spotify_url: https://open.spotify.com/search/Refused%20The%20Shape%20of%20Punk%20to%20Come
-apple_music_url: https://music.apple.com/us/search?term=Refused%20The%20Shape%20of%20Punk%20to%20Come
+apple_music_url: https://music.apple.com/search?term=Refused%20The%20Shape%20of%20Punk%20to%20Come
 youtube_url: https://www.youtube.com/results?search_query=Refused%20The%20Shape%20of%20Punk%20to%20Come
 ---
 

@@ -6,7 +6,7 @@ title: The Cardigans - Life (FLAC)
 artist: The Cardigans
 album: Life
 spotify_url: https://open.spotify.com/search/The%20Cardigans%20Life
-apple_music_url: https://music.apple.com/us/search?term=The%20Cardigans%20Life
+apple_music_url: https://music.apple.com/search?term=The%20Cardigans%20Life
 youtube_url: https://www.youtube.com/results?search_query=The%20Cardigans%20Life
 ---
 

@@ -6,7 +6,7 @@ title: Art Bears - The World As It Is Today (1981)
 artist: Art Bears
 album: The World As It Is Today
 spotify_url: https://open.spotify.com/search/Art%20Bears%20The%20World%20As%20It%20Is%20Today
-apple_music_url: https://music.apple.com/us/search?term=Art%20Bears%20The%20World%20As%20It%20Is%20Today
+apple_music_url: https://music.apple.com/search?term=Art%20Bears%20The%20World%20As%20It%20Is%20Today
 youtube_url: https://www.youtube.com/results?search_query=Art%20Bears%20The%20World%20As%20It%20Is%20Today
 ---
 

@@ -6,7 +6,7 @@ title: Distance - My Demons FLAC
 artist: Distance
 album: My Demons FLAC
 spotify_url: https://open.spotify.com/search/Distance%20My%20Demons%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Distance%20My%20Demons%20FLAC
+apple_music_url: https://music.apple.com/search?term=Distance%20My%20Demons%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Distance%20My%20Demons%20FLAC
 ---
 

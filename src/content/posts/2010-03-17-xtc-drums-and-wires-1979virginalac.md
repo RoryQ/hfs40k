@@ -6,7 +6,7 @@ title: XTC - Drums and Wires [1979/Virgin/ALAC]
 artist: XTC
 album: Drums and Wires
 spotify_url: https://open.spotify.com/search/XTC%20Drums%20and%20Wires
-apple_music_url: https://music.apple.com/us/search?term=XTC%20Drums%20and%20Wires
+apple_music_url: https://music.apple.com/search?term=XTC%20Drums%20and%20Wires
 youtube_url: https://www.youtube.com/results?search_query=XTC%20Drums%20and%20Wires
 ---
 

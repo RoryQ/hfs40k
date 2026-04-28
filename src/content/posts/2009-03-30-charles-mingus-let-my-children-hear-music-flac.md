@@ -6,7 +6,7 @@ title: Charles Mingus - Let My Children Hear Music (FLAC)
 artist: Charles Mingus
 album: Let My Children Hear Music
 spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
-apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
+apple_music_url: https://music.apple.com/search?term=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
 youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Let%20My%20Children%20Hear%20Music
 ---
 

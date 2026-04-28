@@ -6,7 +6,7 @@ title: Four Tet - There Is Love In You [2010, 320/FLAC]
 artist: Four Tet
 album: There Is Love In You
 spotify_url: https://open.spotify.com/search/Four%20Tet%20There%20Is%20Love%20In%20You
-apple_music_url: https://music.apple.com/us/search?term=Four%20Tet%20There%20Is%20Love%20In%20You
+apple_music_url: https://music.apple.com/search?term=Four%20Tet%20There%20Is%20Love%20In%20You
 youtube_url: https://www.youtube.com/results?search_query=Four%20Tet%20There%20Is%20Love%20In%20You
 ---
 

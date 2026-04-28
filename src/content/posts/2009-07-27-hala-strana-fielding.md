@@ -6,7 +6,7 @@ title: Hala Strana - Fielding
 artist: Hala Strana
 album: Fielding
 spotify_url: https://open.spotify.com/search/Hala%20Strana%20Fielding
-apple_music_url: https://music.apple.com/us/search?term=Hala%20Strana%20Fielding
+apple_music_url: https://music.apple.com/search?term=Hala%20Strana%20Fielding
 youtube_url: https://www.youtube.com/results?search_query=Hala%20Strana%20Fielding
 ---
 

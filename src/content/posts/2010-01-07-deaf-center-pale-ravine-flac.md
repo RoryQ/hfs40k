@@ -6,7 +6,7 @@ title: 'Deaf Center: Pale Ravine (FLAC)'
 artist: Deaf Center
 album: Pale Ravine
 spotify_url: https://open.spotify.com/search/Deaf%20Center%20Pale%20Ravine
-apple_music_url: https://music.apple.com/us/search?term=Deaf%20Center%20Pale%20Ravine
+apple_music_url: https://music.apple.com/search?term=Deaf%20Center%20Pale%20Ravine
 youtube_url: https://www.youtube.com/results?search_query=Deaf%20Center%20Pale%20Ravine
 ---
 

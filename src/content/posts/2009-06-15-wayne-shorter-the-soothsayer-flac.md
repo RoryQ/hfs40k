@@ -6,7 +6,7 @@ title: Wayne Shorter - The Soothsayer (FLAC)
 artist: Wayne Shorter
 album: The Soothsayer
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20The%20Soothsayer
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20The%20Soothsayer
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20The%20Soothsayer
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20The%20Soothsayer
 ---
 

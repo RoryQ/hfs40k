@@ -6,7 +6,7 @@ title: Bonnevill - Pelican [FLAC]
 artist: Bonnevill
 album: Pelican
 spotify_url: https://open.spotify.com/search/Bonnevill%20Pelican
-apple_music_url: https://music.apple.com/us/search?term=Bonnevill%20Pelican
+apple_music_url: https://music.apple.com/search?term=Bonnevill%20Pelican
 youtube_url: https://www.youtube.com/results?search_query=Bonnevill%20Pelican
 ---
 

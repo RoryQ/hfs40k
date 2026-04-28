@@ -6,7 +6,7 @@ title: Geomatic - Blue Beam (2008, FLAC)
 artist: Geomatic
 album: Blue Beam
 spotify_url: https://open.spotify.com/search/Geomatic%20Blue%20Beam
-apple_music_url: https://music.apple.com/us/search?term=Geomatic%20Blue%20Beam
+apple_music_url: https://music.apple.com/search?term=Geomatic%20Blue%20Beam
 youtube_url: https://www.youtube.com/results?search_query=Geomatic%20Blue%20Beam
 ---
 

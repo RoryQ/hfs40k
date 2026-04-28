@@ -6,7 +6,7 @@ title: Magazine - Real Life (FLAC)
 artist: Magazine
 album: Real Life
 spotify_url: https://open.spotify.com/search/Magazine%20Real%20Life
-apple_music_url: https://geo.music.apple.com/au/album/_/714604344?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/714604344
 youtube_url: https://www.youtube.com/results?search_query=Magazine%20Real%20Life
 ---
 

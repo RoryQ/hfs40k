@@ -6,7 +6,7 @@ title: Boud Deun - The Stolen Bicycle (FLAC)
 artist: Boud Deun
 album: The Stolen Bicycle
 spotify_url: https://open.spotify.com/search/Boud%20Deun%20The%20Stolen%20Bicycle
-apple_music_url: https://geo.music.apple.com/au/album/_/1162450243?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1162450243
 youtube_url: https://www.youtube.com/results?search_query=Boud%20Deun%20The%20Stolen%20Bicycle
 ---
 

@@ -6,7 +6,7 @@ title: Converge - Jane Doe (FLAC)
 artist: Converge
 album: Jane Doe
 spotify_url: https://open.spotify.com/search/Converge%20Jane%20Doe
-apple_music_url: https://music.apple.com/us/search?term=Converge%20Jane%20Doe
+apple_music_url: https://music.apple.com/search?term=Converge%20Jane%20Doe
 youtube_url: https://www.youtube.com/results?search_query=Converge%20Jane%20Doe
 ---
 

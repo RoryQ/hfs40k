@@ -6,7 +6,7 @@ title: Amesoeurs - Amesoeurs (2009)
 artist: Amesoeurs
 album: Amesoeurs
 spotify_url: https://open.spotify.com/search/Amesoeurs%20Amesoeurs
-apple_music_url: https://geo.music.apple.com/au/album/_/305637779?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/305637779
 youtube_url: https://www.youtube.com/results?search_query=Amesoeurs%20Amesoeurs
 ---
 

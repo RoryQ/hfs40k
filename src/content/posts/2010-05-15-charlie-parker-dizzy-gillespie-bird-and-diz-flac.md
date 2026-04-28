@@ -6,7 +6,7 @@ title: Charlie Parker & Dizzy Gillespie - Bird And Diz (FLAC)
 artist: Charlie Parker & Dizzy Gillespie
 album: Bird And Diz
 spotify_url: https://open.spotify.com/search/Charlie%20Parker%20%26%20Dizzy%20Gillespie%20Bird%20And%20Diz
-apple_music_url: https://geo.music.apple.com/au/album/_/1435957132?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1435957132
 youtube_url: https://www.youtube.com/results?search_query=Charlie%20Parker%20%26%20Dizzy%20Gillespie%20Bird%20And%20Diz
 ---
 

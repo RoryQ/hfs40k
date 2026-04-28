@@ -6,7 +6,7 @@ title: In The Woods... - HEart Of The Ages [FLAC]
 artist: In The Woods...
 album: HEart Of The Ages
 spotify_url: https://open.spotify.com/search/In%20The%20Woods...%20HEart%20Of%20The%20Ages
-apple_music_url: https://geo.music.apple.com/au/album/_/1511605347?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1511605347
 youtube_url: https://www.youtube.com/results?search_query=In%20The%20Woods...%20HEart%20Of%20The%20Ages
 ---
 

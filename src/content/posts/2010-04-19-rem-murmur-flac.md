@@ -6,7 +6,7 @@ title: R.E.M. - Murmur (FLAC)
 artist: R.E.M.
 album: Murmur
 spotify_url: https://open.spotify.com/search/R.E.M.%20Murmur
-apple_music_url: https://music.apple.com/us/search?term=R.E.M.%20Murmur
+apple_music_url: https://music.apple.com/search?term=R.E.M.%20Murmur
 youtube_url: https://www.youtube.com/results?search_query=R.E.M.%20Murmur
 ---
 

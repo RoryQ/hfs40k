@@ -6,7 +6,7 @@ title: Nick Drake - Five Leaves Left (24-bit Remaster)
 artist: Nick Drake
 album: Five Leaves Left
 spotify_url: https://open.spotify.com/search/Nick%20Drake%20Five%20Leaves%20Left
-apple_music_url: https://geo.music.apple.com/au/album/_/1440656068?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440656068
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Drake%20Five%20Leaves%20Left
 ---
 

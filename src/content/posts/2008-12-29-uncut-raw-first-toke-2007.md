@@ -6,7 +6,7 @@ title: Uncut Raw - First Toke (2007)
 artist: Uncut Raw
 album: First Toke
 spotify_url: https://open.spotify.com/search/Uncut%20Raw%20First%20Toke
-apple_music_url: https://music.apple.com/us/search?term=Uncut%20Raw%20First%20Toke
+apple_music_url: https://music.apple.com/search?term=Uncut%20Raw%20First%20Toke
 youtube_url: https://www.youtube.com/results?search_query=Uncut%20Raw%20First%20Toke
 ---
 

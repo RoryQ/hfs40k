@@ -6,7 +6,7 @@ title: Van der Graaf Generator - The Least We Can Do Is Wave to Each Other (FLAC
 artist: Van der Graaf Generator
 album: The Least We Can Do Is Wave to Each Other
 spotify_url: https://open.spotify.com/search/Van%20der%20Graaf%20Generator%20The%20Least%20We%20Can%20Do%20Is%20Wave%20to%20Each%20Other
-apple_music_url: https://music.apple.com/us/search?term=Van%20der%20Graaf%20Generator%20The%20Least%20We%20Can%20Do%20Is%20Wave%20to%20Each%20Other
+apple_music_url: https://music.apple.com/search?term=Van%20der%20Graaf%20Generator%20The%20Least%20We%20Can%20Do%20Is%20Wave%20to%20Each%20Other
 youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Generator%20The%20Least%20We%20Can%20Do%20Is%20Wave%20to%20Each%20Other
 ---
 

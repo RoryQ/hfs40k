@@ -6,7 +6,7 @@ title: Camel - Camel (1974) [Remastered FLAC + Bonus Tracks]
 artist: Camel
 album: Camel
 spotify_url: https://open.spotify.com/search/Camel%20Camel
-apple_music_url: https://music.apple.com/us/search?term=Camel%20Camel
+apple_music_url: https://music.apple.com/search?term=Camel%20Camel
 youtube_url: https://www.youtube.com/results?search_query=Camel%20Camel
 ---
 

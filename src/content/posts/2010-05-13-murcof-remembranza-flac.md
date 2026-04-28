@@ -6,7 +6,7 @@ title: Murcof - Remembranza FLAC
 artist: Murcof
 album: Remembranza FLAC
 spotify_url: https://open.spotify.com/search/Murcof%20Remembranza%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Murcof%20Remembranza%20FLAC
+apple_music_url: https://music.apple.com/search?term=Murcof%20Remembranza%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Murcof%20Remembranza%20FLAC
 ---
 

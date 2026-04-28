@@ -6,7 +6,7 @@ title: Eric Dolphy - Out to Lunch! (FLAC)
 artist: Eric Dolphy
 album: Out to Lunch!
 spotify_url: https://open.spotify.com/search/Eric%20Dolphy%20Out%20to%20Lunch%21
-apple_music_url: https://music.apple.com/us/search?term=Eric%20Dolphy%20Out%20to%20Lunch%21
+apple_music_url: https://music.apple.com/search?term=Eric%20Dolphy%20Out%20to%20Lunch%21
 youtube_url: https://www.youtube.com/results?search_query=Eric%20Dolphy%20Out%20to%20Lunch%21
 ---
 

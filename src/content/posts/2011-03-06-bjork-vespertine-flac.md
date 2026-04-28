@@ -6,7 +6,7 @@ title: Bjork - Vespertine (FLAC)
 artist: Bjork
 album: Vespertine
 spotify_url: https://open.spotify.com/search/Bjork%20Vespertine
-apple_music_url: https://music.apple.com/us/search?term=Bjork%20Vespertine
+apple_music_url: https://music.apple.com/search?term=Bjork%20Vespertine
 youtube_url: https://www.youtube.com/results?search_query=Bjork%20Vespertine
 ---
 

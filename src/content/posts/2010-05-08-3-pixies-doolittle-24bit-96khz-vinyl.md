@@ -6,7 +6,7 @@ title: '#3 Pixies - Doolittle (24bit-96khz Vinyl)'
 artist: '#3 Pixies'
 album: Doolittle
 spotify_url: https://open.spotify.com/search/%233%20Pixies%20Doolittle
-apple_music_url: https://music.apple.com/us/search?term=%233%20Pixies%20Doolittle
+apple_music_url: https://music.apple.com/search?term=%233%20Pixies%20Doolittle
 youtube_url: https://www.youtube.com/results?search_query=%233%20Pixies%20Doolittle
 ---
 

@@ -6,7 +6,7 @@ title: Venetian Snares - Filth (2009)
 artist: Venetian Snares
 album: Filth
 spotify_url: https://open.spotify.com/search/Venetian%20Snares%20Filth
-apple_music_url: https://music.apple.com/us/search?term=Venetian%20Snares%20Filth
+apple_music_url: https://music.apple.com/search?term=Venetian%20Snares%20Filth
 youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Filth
 ---
 

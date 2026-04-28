@@ -6,7 +6,7 @@ title: Morton Feldman - The Viola in My Life (1971)
 artist: Morton Feldman
 album: The Viola in My Life
 spotify_url: https://open.spotify.com/search/Morton%20Feldman%20The%20Viola%20in%20My%20Life
-apple_music_url: https://music.apple.com/us/search?term=Morton%20Feldman%20The%20Viola%20in%20My%20Life
+apple_music_url: https://music.apple.com/search?term=Morton%20Feldman%20The%20Viola%20in%20My%20Life
 youtube_url: https://www.youtube.com/results?search_query=Morton%20Feldman%20The%20Viola%20in%20My%20Life
 ---
 

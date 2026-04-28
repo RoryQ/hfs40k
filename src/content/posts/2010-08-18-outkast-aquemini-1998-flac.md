@@ -6,7 +6,7 @@ title: Outkast - Aquemini (1998) [FLAC]
 artist: Outkast
 album: Aquemini
 spotify_url: https://open.spotify.com/search/Outkast%20Aquemini
-apple_music_url: https://music.apple.com/us/search?term=Outkast%20Aquemini
+apple_music_url: https://music.apple.com/search?term=Outkast%20Aquemini
 youtube_url: https://www.youtube.com/results?search_query=Outkast%20Aquemini
 ---
 

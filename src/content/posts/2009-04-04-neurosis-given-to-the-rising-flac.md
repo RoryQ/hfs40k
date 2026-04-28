@@ -6,7 +6,7 @@ title: Neurosis - Given to the Rising (FLAC)
 artist: Neurosis
 album: Given to the Rising
 spotify_url: https://open.spotify.com/search/Neurosis%20Given%20to%20the%20Rising
-apple_music_url: https://geo.music.apple.com/au/album/_/252614879?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/252614879
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Given%20to%20the%20Rising
 ---
 

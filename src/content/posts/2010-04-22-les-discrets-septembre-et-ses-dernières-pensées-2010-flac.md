@@ -6,7 +6,7 @@ title: "Les Discrets - Septembre et ses derni\xE8res pens\xE9es (2010) [FLAC]"
 artist: Les Discrets
 album: "Septembre et ses derni\xE8res pens\xE9es"
 spotify_url: https://open.spotify.com/search/Les%20Discrets%20Septembre%20et%20ses%20derni%C3%A8res%20pens%C3%A9es
-apple_music_url: https://music.apple.com/us/search?term=Les%20Discrets%20Septembre%20et%20ses%20derni%C3%A8res%20pens%C3%A9es
+apple_music_url: https://music.apple.com/search?term=Les%20Discrets%20Septembre%20et%20ses%20derni%C3%A8res%20pens%C3%A9es
 youtube_url: https://www.youtube.com/results?search_query=Les%20Discrets%20Septembre%20et%20ses%20derni%C3%A8res%20pens%C3%A9es
 ---
 

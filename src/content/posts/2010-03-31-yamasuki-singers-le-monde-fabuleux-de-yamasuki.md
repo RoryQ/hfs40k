@@ -6,7 +6,7 @@ title: Yamasuki Singers - Le Monde Fabuleux de Yamasuki
 artist: Yamasuki Singers
 album: Le Monde Fabuleux de Yamasuki
 spotify_url: https://open.spotify.com/search/Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
-apple_music_url: https://music.apple.com/us/search?term=Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
+apple_music_url: https://music.apple.com/search?term=Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
 youtube_url: https://www.youtube.com/results?search_query=Yamasuki%20Singers%20Le%20Monde%20Fabuleux%20de%20Yamasuki
 ---
 

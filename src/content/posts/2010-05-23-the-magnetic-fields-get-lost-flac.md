@@ -6,7 +6,7 @@ title: The Magnetic Fields - Get Lost (FLAC)
 artist: The Magnetic Fields
 album: Get Lost
 spotify_url: https://open.spotify.com/search/The%20Magnetic%20Fields%20Get%20Lost
-apple_music_url: https://geo.music.apple.com/au/album/_/1839074087?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1839074087
 youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Fields%20Get%20Lost
 ---
 

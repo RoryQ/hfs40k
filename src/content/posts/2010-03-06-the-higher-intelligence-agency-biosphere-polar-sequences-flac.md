@@ -6,7 +6,7 @@ title: The Higher Intelligence Agency & Biosphere - Polar Sequences FLAC
 artist: The Higher Intelligence Agency & Biosphere
 album: Polar Sequences FLAC
 spotify_url: https://open.spotify.com/search/The%20Higher%20Intelligence%20Agency%20%26%20Biosphere%20Polar%20Sequences%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=The%20Higher%20Intelligence%20Agency%20%26%20Biosphere%20Polar%20Sequences%20FLAC
+apple_music_url: https://music.apple.com/search?term=The%20Higher%20Intelligence%20Agency%20%26%20Biosphere%20Polar%20Sequences%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=The%20Higher%20Intelligence%20Agency%20%26%20Biosphere%20Polar%20Sequences%20FLAC
 ---
 

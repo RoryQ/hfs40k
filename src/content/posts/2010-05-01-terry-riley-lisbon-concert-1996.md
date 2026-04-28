@@ -6,7 +6,7 @@ title: Terry Riley - Lisbon Concert (1996)
 artist: Terry Riley
 album: Lisbon Concert
 spotify_url: https://open.spotify.com/search/Terry%20Riley%20Lisbon%20Concert
-apple_music_url: https://music.apple.com/us/search?term=Terry%20Riley%20Lisbon%20Concert
+apple_music_url: https://music.apple.com/search?term=Terry%20Riley%20Lisbon%20Concert
 youtube_url: https://www.youtube.com/results?search_query=Terry%20Riley%20Lisbon%20Concert
 ---
 

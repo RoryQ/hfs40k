@@ -6,7 +6,7 @@ title: Sparklehorse - It's a Wonderful Life (FLAC)
 artist: Sparklehorse
 album: It's a Wonderful Life
 spotify_url: https://open.spotify.com/search/Sparklehorse%20It%27s%20a%20Wonderful%20Life
-apple_music_url: https://music.apple.com/us/search?term=Sparklehorse%20It%27s%20a%20Wonderful%20Life
+apple_music_url: https://music.apple.com/search?term=Sparklehorse%20It%27s%20a%20Wonderful%20Life
 youtube_url: https://www.youtube.com/results?search_query=Sparklehorse%20It%27s%20a%20Wonderful%20Life
 ---
 

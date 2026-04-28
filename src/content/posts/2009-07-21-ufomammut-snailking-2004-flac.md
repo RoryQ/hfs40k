@@ -6,7 +6,7 @@ title: Ufomammut - Snailking (2004) [FLAC]
 artist: Ufomammut
 album: Snailking
 spotify_url: https://open.spotify.com/search/Ufomammut%20Snailking
-apple_music_url: https://music.apple.com/us/search?term=Ufomammut%20Snailking
+apple_music_url: https://music.apple.com/search?term=Ufomammut%20Snailking
 youtube_url: https://www.youtube.com/results?search_query=Ufomammut%20Snailking
 ---
 

@@ -6,7 +6,7 @@ title: Blamstrain - Disfold FLAC
 artist: Blamstrain
 album: Disfold FLAC
 spotify_url: https://open.spotify.com/search/Blamstrain%20Disfold%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Blamstrain%20Disfold%20FLAC
+apple_music_url: https://music.apple.com/search?term=Blamstrain%20Disfold%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Blamstrain%20Disfold%20FLAC
 ---
 

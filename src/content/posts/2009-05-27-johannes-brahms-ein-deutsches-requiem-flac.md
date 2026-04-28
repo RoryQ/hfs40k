@@ -6,7 +6,7 @@ title: Johannes Brahms - Ein Deutsches Requiem (FLAC)
 artist: Johannes Brahms
 album: Ein Deutsches Requiem
 spotify_url: https://open.spotify.com/search/Johannes%20Brahms%20Ein%20Deutsches%20Requiem
-apple_music_url: https://music.apple.com/us/search?term=Johannes%20Brahms%20Ein%20Deutsches%20Requiem
+apple_music_url: https://music.apple.com/search?term=Johannes%20Brahms%20Ein%20Deutsches%20Requiem
 youtube_url: https://www.youtube.com/results?search_query=Johannes%20Brahms%20Ein%20Deutsches%20Requiem
 ---
 

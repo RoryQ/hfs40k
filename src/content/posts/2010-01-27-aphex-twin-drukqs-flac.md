@@ -6,7 +6,7 @@ title: Aphex Twin - DrukQs (FLAC)
 artist: Aphex Twin
 album: DrukQs
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20DrukQs
-apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20DrukQs
+apple_music_url: https://music.apple.com/search?term=Aphex%20Twin%20DrukQs
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20DrukQs
 ---
 

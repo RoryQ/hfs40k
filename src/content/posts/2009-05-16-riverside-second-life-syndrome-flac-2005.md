@@ -6,7 +6,7 @@ title: Riverside - Second Life Syndrome (FLAC) [2005]
 artist: Riverside
 album: Second Life Syndrome
 spotify_url: https://open.spotify.com/search/Riverside%20Second%20Life%20Syndrome
-apple_music_url: https://music.apple.com/us/search?term=Riverside%20Second%20Life%20Syndrome
+apple_music_url: https://music.apple.com/search?term=Riverside%20Second%20Life%20Syndrome
 youtube_url: https://www.youtube.com/results?search_query=Riverside%20Second%20Life%20Syndrome
 ---
 

@@ -6,7 +6,7 @@ title: The Cure - Disintegration (FLAC)
 artist: The Cure
 album: Disintegration
 spotify_url: https://open.spotify.com/search/The%20Cure%20Disintegration
-apple_music_url: https://geo.music.apple.com/au/album/_/372100016?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/372100016
 youtube_url: https://www.youtube.com/results?search_query=The%20Cure%20Disintegration
 ---
 

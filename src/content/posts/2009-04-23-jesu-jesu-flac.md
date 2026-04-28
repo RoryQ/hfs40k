@@ -6,7 +6,7 @@ title: Jesu - Jesu (FLAC)
 artist: Jesu
 album: Jesu
 spotify_url: https://open.spotify.com/search/Jesu%20Jesu
-apple_music_url: https://music.apple.com/us/search?term=Jesu%20Jesu
+apple_music_url: https://music.apple.com/search?term=Jesu%20Jesu
 youtube_url: https://www.youtube.com/results?search_query=Jesu%20Jesu
 ---
 

@@ -6,7 +6,7 @@ title: Flying Lotus - Los Angeles / Cosmogramma [FLAC+v0]
 artist: Flying Lotus
 album: Los Angeles / Cosmogramma
 spotify_url: https://open.spotify.com/search/Flying%20Lotus%20Los%20Angeles%20/%20Cosmogramma
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Lotus%20Los%20Angeles%20/%20Cosmogramma
+apple_music_url: https://music.apple.com/search?term=Flying%20Lotus%20Los%20Angeles%20/%20Cosmogramma
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Lotus%20Los%20Angeles%20/%20Cosmogramma
 ---
 

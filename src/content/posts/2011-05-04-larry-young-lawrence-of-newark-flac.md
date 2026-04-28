@@ -6,7 +6,7 @@ title: Larry Young - Lawrence of Newark (FLAC)
 artist: Larry Young
 album: Lawrence of Newark
 spotify_url: https://open.spotify.com/search/Larry%20Young%20Lawrence%20of%20Newark
-apple_music_url: https://geo.music.apple.com/au/album/_/1657733019?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1657733019
 youtube_url: https://www.youtube.com/results?search_query=Larry%20Young%20Lawrence%20of%20Newark
 ---
 

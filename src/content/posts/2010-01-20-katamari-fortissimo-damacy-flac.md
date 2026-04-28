@@ -6,7 +6,7 @@ title: Katamari Fortissimo Damacy (FLAC)
 artist: Katamari Damacy
 album: Fortissimo
 spotify_url: https://open.spotify.com/search/Katamari%20Damacy%20Fortissimo
-apple_music_url: https://music.apple.com/us/search?term=Katamari%20Damacy%20Fortissimo
+apple_music_url: https://music.apple.com/search?term=Katamari%20Damacy%20Fortissimo
 youtube_url: https://www.youtube.com/results?search_query=Katamari%20Damacy%20Fortissimo
 ---
 

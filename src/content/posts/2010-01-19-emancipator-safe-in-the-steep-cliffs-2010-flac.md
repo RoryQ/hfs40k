@@ -6,7 +6,7 @@ title: Emancipator - Safe In The Steep Cliffs (2010) [FLAC]
 artist: Emancipator
 album: Safe In The Steep Cliffs
 spotify_url: https://open.spotify.com/search/Emancipator%20Safe%20In%20The%20Steep%20Cliffs
-apple_music_url: https://music.apple.com/us/search?term=Emancipator%20Safe%20In%20The%20Steep%20Cliffs
+apple_music_url: https://music.apple.com/search?term=Emancipator%20Safe%20In%20The%20Steep%20Cliffs
 youtube_url: https://www.youtube.com/results?search_query=Emancipator%20Safe%20In%20The%20Steep%20Cliffs
 ---
 

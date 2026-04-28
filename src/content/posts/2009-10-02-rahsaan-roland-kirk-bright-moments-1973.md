@@ -6,7 +6,7 @@ title: Rahsaan Roland Kirk - Bright Moments (1973)
 artist: Rahsaan Roland Kirk
 album: Bright Moments
 spotify_url: https://open.spotify.com/search/Rahsaan%20Roland%20Kirk%20Bright%20Moments
-apple_music_url: https://geo.music.apple.com/au/album/_/215651630?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/215651630
 youtube_url: https://www.youtube.com/results?search_query=Rahsaan%20Roland%20Kirk%20Bright%20Moments
 ---
 

@@ -6,7 +6,7 @@ title: Magdalena Kozena  - Songs My Mother Taught Me (FLAC)
 artist: Magdalena Kozena
 album: Songs My Mother Taught Me
 spotify_url: https://open.spotify.com/search/Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
-apple_music_url: https://music.apple.com/us/search?term=Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
+apple_music_url: https://music.apple.com/search?term=Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
 youtube_url: https://www.youtube.com/results?search_query=Magdalena%20Kozena%20Songs%20My%20Mother%20Taught%20Me
 ---
 

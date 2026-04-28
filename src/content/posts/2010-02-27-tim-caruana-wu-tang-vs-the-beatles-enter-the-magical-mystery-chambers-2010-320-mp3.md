@@ -7,7 +7,7 @@ title: 'Tim Caruana - Wu-Tang vs. The Beatles: Enter the Magical Mystery Chamber
 artist: Tim Caruana
 album: 'Wu-Tang vs. The Beatles: Enter the Magical Mystery Chambers'
 spotify_url: https://open.spotify.com/search/Tim%20Caruana%20Wu-Tang%20vs.%20The%20Beatles%3A%20Enter%20the%20Magical%20Mystery%20Chambers
-apple_music_url: https://music.apple.com/us/search?term=Tim%20Caruana%20Wu-Tang%20vs.%20The%20Beatles%3A%20Enter%20the%20Magical%20Mystery%20Chambers
+apple_music_url: https://music.apple.com/search?term=Tim%20Caruana%20Wu-Tang%20vs.%20The%20Beatles%3A%20Enter%20the%20Magical%20Mystery%20Chambers
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Caruana%20Wu-Tang%20vs.%20The%20Beatles%3A%20Enter%20the%20Magical%20Mystery%20Chambers
 ---
 

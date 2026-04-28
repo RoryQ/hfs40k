@@ -6,7 +6,7 @@ title: Hella - The Devil Isn't Red (2004)
 artist: Hella
 album: The Devil Isn't Red
 spotify_url: https://open.spotify.com/search/Hella%20The%20Devil%20Isn%27t%20Red
-apple_music_url: https://music.apple.com/us/search?term=Hella%20The%20Devil%20Isn%27t%20Red
+apple_music_url: https://music.apple.com/search?term=Hella%20The%20Devil%20Isn%27t%20Red
 youtube_url: https://www.youtube.com/results?search_query=Hella%20The%20Devil%20Isn%27t%20Red
 ---
 

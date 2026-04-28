@@ -6,7 +6,7 @@ title: Boris - At Last Feedbacker (FLAC)
 artist: Boris
 album: At Last Feedbacker
 spotify_url: https://open.spotify.com/search/Boris%20At%20Last%20Feedbacker
-apple_music_url: https://music.apple.com/us/search?term=Boris%20At%20Last%20Feedbacker
+apple_music_url: https://music.apple.com/search?term=Boris%20At%20Last%20Feedbacker
 youtube_url: https://www.youtube.com/results?search_query=Boris%20At%20Last%20Feedbacker
 ---
 

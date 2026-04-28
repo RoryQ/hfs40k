@@ -6,7 +6,7 @@ title: Broadcast - HaHa Sound (2003)
 artist: Broadcast
 album: HaHa Sound
 spotify_url: https://open.spotify.com/search/Broadcast%20HaHa%20Sound
-apple_music_url: https://geo.music.apple.com/au/album/_/281220023?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/281220023
 youtube_url: https://www.youtube.com/results?search_query=Broadcast%20HaHa%20Sound
 ---
 

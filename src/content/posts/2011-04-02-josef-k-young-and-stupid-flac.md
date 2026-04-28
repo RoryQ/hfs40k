@@ -6,7 +6,7 @@ title: Josef K - Young and Stupid [FLAC]
 artist: Josef K
 album: Young and Stupid
 spotify_url: https://open.spotify.com/search/Josef%20K%20Young%20and%20Stupid
-apple_music_url: https://music.apple.com/us/search?term=Josef%20K%20Young%20and%20Stupid
+apple_music_url: https://music.apple.com/search?term=Josef%20K%20Young%20and%20Stupid
 youtube_url: https://www.youtube.com/results?search_query=Josef%20K%20Young%20and%20Stupid
 ---
 

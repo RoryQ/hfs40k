@@ -6,7 +6,7 @@ title: Portugal. The Man - The Satanic Satanist (2009)
 artist: Portugal. The Man
 album: The Satanic Satanist
 spotify_url: https://open.spotify.com/search/Portugal.%20The%20Man%20The%20Satanic%20Satanist
-apple_music_url: https://music.apple.com/us/search?term=Portugal.%20The%20Man%20The%20Satanic%20Satanist
+apple_music_url: https://music.apple.com/search?term=Portugal.%20The%20Man%20The%20Satanic%20Satanist
 youtube_url: https://www.youtube.com/results?search_query=Portugal.%20The%20Man%20The%20Satanic%20Satanist
 ---
 

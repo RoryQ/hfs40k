@@ -6,7 +6,7 @@ title: Max Richter - Discography
 artist: Max Richter
 album: Discography
 spotify_url: https://open.spotify.com/search/Max%20Richter%20Discography
-apple_music_url: https://geo.music.apple.com/au/album/_/1368089903?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1368089903
 youtube_url: https://www.youtube.com/results?search_query=Max%20Richter%20Discography
 ---
 

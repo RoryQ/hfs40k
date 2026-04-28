@@ -6,7 +6,7 @@ title: Modest Petrovich Mussorgsky - Pictures at an Exhibition [FLAC]
 artist: Modest Petrovich Mussorgsky
 album: Pictures at an Exhibition
 spotify_url: https://open.spotify.com/search/Modest%20Petrovich%20Mussorgsky%20Pictures%20at%20an%20Exhibition
-apple_music_url: https://music.apple.com/us/search?term=Modest%20Petrovich%20Mussorgsky%20Pictures%20at%20an%20Exhibition
+apple_music_url: https://music.apple.com/search?term=Modest%20Petrovich%20Mussorgsky%20Pictures%20at%20an%20Exhibition
 youtube_url: https://www.youtube.com/results?search_query=Modest%20Petrovich%20Mussorgsky%20Pictures%20at%20an%20Exhibition
 ---
 

@@ -6,7 +6,7 @@ title: World's End Girlfriend - Farewell Kingdom (FLAC)
 artist: World's End Girlfriend
 album: Farewell Kingdom
 spotify_url: https://open.spotify.com/search/World%27s%20End%20Girlfriend%20Farewell%20Kingdom
-apple_music_url: https://geo.music.apple.com/au/album/_/1445987633?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1445987633
 youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girlfriend%20Farewell%20Kingdom
 ---
 

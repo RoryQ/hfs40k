@@ -6,7 +6,7 @@ title: Bibio - Ambivalence Avenue (2009) [FLAC]
 artist: Bibio
 album: Ambivalence Avenue
 spotify_url: https://open.spotify.com/search/Bibio%20Ambivalence%20Avenue
-apple_music_url: https://geo.music.apple.com/au/album/_/318815067?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/318815067
 youtube_url: https://www.youtube.com/results?search_query=Bibio%20Ambivalence%20Avenue
 ---
 

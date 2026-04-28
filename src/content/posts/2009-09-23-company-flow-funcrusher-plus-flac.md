@@ -6,7 +6,7 @@ title: Company Flow - Funcrusher Plus [FLAC]
 artist: Company Flow
 album: Funcrusher Plus
 spotify_url: https://open.spotify.com/search/Company%20Flow%20Funcrusher%20Plus
-apple_music_url: https://music.apple.com/us/search?term=Company%20Flow%20Funcrusher%20Plus
+apple_music_url: https://music.apple.com/search?term=Company%20Flow%20Funcrusher%20Plus
 youtube_url: https://www.youtube.com/results?search_query=Company%20Flow%20Funcrusher%20Plus
 ---
 

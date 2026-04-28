@@ -6,7 +6,7 @@ title: Minor Threat - The Complete Discography (Remastered FLAC)
 artist: Minor Threat
 album: The Complete Discography
 spotify_url: https://open.spotify.com/search/Minor%20Threat%20The%20Complete%20Discography
-apple_music_url: https://music.apple.com/us/search?term=Minor%20Threat%20The%20Complete%20Discography
+apple_music_url: https://music.apple.com/search?term=Minor%20Threat%20The%20Complete%20Discography
 youtube_url: https://www.youtube.com/results?search_query=Minor%20Threat%20The%20Complete%20Discography
 ---
 

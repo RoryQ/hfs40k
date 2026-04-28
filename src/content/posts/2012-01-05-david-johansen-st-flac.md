@@ -6,7 +6,7 @@ title: David Johansen- S/T (FLAC)
 artist: David Johansen
 album: S/T
 spotify_url: https://open.spotify.com/search/David%20Johansen%20S/T
-apple_music_url: https://music.apple.com/us/search?term=David%20Johansen%20S/T
+apple_music_url: https://music.apple.com/search?term=David%20Johansen%20S/T
 youtube_url: https://www.youtube.com/results?search_query=David%20Johansen%20S/T
 ---
 

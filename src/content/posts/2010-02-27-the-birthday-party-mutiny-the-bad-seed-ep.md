@@ -6,7 +6,7 @@ title: The Birthday Party - Mutiny / The Bad Seed EP
 artist: The Birthday Party
 album: Mutiny / The Bad Seed EP
 spotify_url: https://open.spotify.com/search/The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
-apple_music_url: https://music.apple.com/us/search?term=The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
+apple_music_url: https://music.apple.com/search?term=The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
 youtube_url: https://www.youtube.com/results?search_query=The%20Birthday%20Party%20Mutiny%20/%20The%20Bad%20Seed%20EP
 ---
 

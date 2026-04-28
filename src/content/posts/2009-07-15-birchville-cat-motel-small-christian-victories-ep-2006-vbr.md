@@ -6,7 +6,7 @@ title: Birchville Cat Motel - Small Christian Victories EP (2006) [VBR]
 artist: Birchville Cat Motel
 album: Small Christian Victories EP
 spotify_url: https://open.spotify.com/search/Birchville%20Cat%20Motel%20Small%20Christian%20Victories%20EP
-apple_music_url: https://music.apple.com/us/search?term=Birchville%20Cat%20Motel%20Small%20Christian%20Victories%20EP
+apple_music_url: https://music.apple.com/search?term=Birchville%20Cat%20Motel%20Small%20Christian%20Victories%20EP
 youtube_url: https://www.youtube.com/results?search_query=Birchville%20Cat%20Motel%20Small%20Christian%20Victories%20EP
 ---
 

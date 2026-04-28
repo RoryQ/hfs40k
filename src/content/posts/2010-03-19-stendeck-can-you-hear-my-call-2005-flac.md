@@ -6,7 +6,7 @@ title: Stendeck  - Can You Hear My Call? (2005) [FLAC]
 artist: Stendeck
 album: Can You Hear My Call?
 spotify_url: https://open.spotify.com/search/Stendeck%20Can%20You%20Hear%20My%20Call%3F
-apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Can%20You%20Hear%20My%20Call%3F
+apple_music_url: https://music.apple.com/search?term=Stendeck%20Can%20You%20Hear%20My%20Call%3F
 youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Can%20You%20Hear%20My%20Call%3F
 ---
 

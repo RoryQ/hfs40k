@@ -6,7 +6,7 @@ title: Koenjihyakkei - Angherr Shisspa (2005) [FLAC]
 artist: Koenjihyakkei
 album: Angherr Shisspa
 spotify_url: https://open.spotify.com/search/Koenjihyakkei%20Angherr%20Shisspa
-apple_music_url: https://music.apple.com/us/search?term=Koenjihyakkei%20Angherr%20Shisspa
+apple_music_url: https://music.apple.com/search?term=Koenjihyakkei%20Angherr%20Shisspa
 youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%20Angherr%20Shisspa
 ---
 

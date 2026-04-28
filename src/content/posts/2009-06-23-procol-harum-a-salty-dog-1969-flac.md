@@ -6,7 +6,7 @@ title: Procol Harum - A Salty Dog (1969) [FLAC]
 artist: Procol Harum
 album: A Salty Dog
 spotify_url: https://open.spotify.com/search/Procol%20Harum%20A%20Salty%20Dog
-apple_music_url: https://music.apple.com/us/search?term=Procol%20Harum%20A%20Salty%20Dog
+apple_music_url: https://music.apple.com/search?term=Procol%20Harum%20A%20Salty%20Dog
 youtube_url: https://www.youtube.com/results?search_query=Procol%20Harum%20A%20Salty%20Dog
 ---
 

@@ -6,7 +6,7 @@ title: Blu & Exile - Below The Heavens (2007) [FLAC]
 artist: Blu & Exile
 album: Below The Heavens
 spotify_url: https://open.spotify.com/search/Blu%20%26%20Exile%20Below%20The%20Heavens
-apple_music_url: https://music.apple.com/us/search?term=Blu%20%26%20Exile%20Below%20The%20Heavens
+apple_music_url: https://music.apple.com/search?term=Blu%20%26%20Exile%20Below%20The%20Heavens
 youtube_url: https://www.youtube.com/results?search_query=Blu%20%26%20Exile%20Below%20The%20Heavens
 ---
 

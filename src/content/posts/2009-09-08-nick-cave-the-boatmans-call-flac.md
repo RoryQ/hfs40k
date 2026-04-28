@@ -6,7 +6,7 @@ title: Nick Cave - The Boatman's Call [FLAC]
 artist: Nick Cave
 album: The Boatman's Call
 spotify_url: https://open.spotify.com/search/Nick%20Cave%20The%20Boatman%27s%20Call
-apple_music_url: https://geo.music.apple.com/au/album/_/1479214340?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1479214340
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20The%20Boatman%27s%20Call
 ---
 

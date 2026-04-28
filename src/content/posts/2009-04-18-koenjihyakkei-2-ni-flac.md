@@ -6,7 +6,7 @@ title: Koenjihyakkei - 2 (ni) (FLAC)
 artist: Koenjihyakkei
 album: '2'
 spotify_url: https://open.spotify.com/search/Koenjihyakkei%202
-apple_music_url: https://music.apple.com/us/search?term=Koenjihyakkei%202
+apple_music_url: https://music.apple.com/search?term=Koenjihyakkei%202
 youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%202
 ---
 

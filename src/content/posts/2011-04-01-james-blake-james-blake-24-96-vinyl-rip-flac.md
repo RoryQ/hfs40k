@@ -6,7 +6,7 @@ title: James Blake - James Blake [24-96 Vinyl Rip FLAC]
 artist: James Blake
 album: James Blake
 spotify_url: https://open.spotify.com/search/James%20Blake%20James%20Blake
-apple_music_url: https://music.apple.com/us/search?term=James%20Blake%20James%20Blake
+apple_music_url: https://music.apple.com/search?term=James%20Blake%20James%20Blake
 youtube_url: https://www.youtube.com/results?search_query=James%20Blake%20James%20Blake
 ---
 

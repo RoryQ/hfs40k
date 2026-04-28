@@ -6,7 +6,7 @@ title: The Dream Syndicate - Days of Wine and Roses (FLAC)
 artist: The Dream Syndicate
 album: Days of Wine and Roses
 spotify_url: https://open.spotify.com/search/The%20Dream%20Syndicate%20Days%20of%20Wine%20and%20Roses
-apple_music_url: https://music.apple.com/us/search?term=The%20Dream%20Syndicate%20Days%20of%20Wine%20and%20Roses
+apple_music_url: https://music.apple.com/search?term=The%20Dream%20Syndicate%20Days%20of%20Wine%20and%20Roses
 youtube_url: https://www.youtube.com/results?search_query=The%20Dream%20Syndicate%20Days%20of%20Wine%20and%20Roses
 ---
 

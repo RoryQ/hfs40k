@@ -6,7 +6,7 @@ title: Red House Painters - Old Ramon FLAC
 artist: Red House Painters
 album: Old Ramon FLAC
 spotify_url: https://open.spotify.com/search/Red%20House%20Painters%20Old%20Ramon%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Red%20House%20Painters%20Old%20Ramon%20FLAC
+apple_music_url: https://music.apple.com/search?term=Red%20House%20Painters%20Old%20Ramon%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Red%20House%20Painters%20Old%20Ramon%20FLAC
 ---
 

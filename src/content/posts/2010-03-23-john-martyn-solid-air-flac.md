@@ -6,7 +6,7 @@ title: John Martyn - Solid Air (FLAC)
 artist: John Martyn
 album: Solid Air
 spotify_url: https://open.spotify.com/search/John%20Martyn%20Solid%20Air
-apple_music_url: https://music.apple.com/us/search?term=John%20Martyn%20Solid%20Air
+apple_music_url: https://music.apple.com/search?term=John%20Martyn%20Solid%20Air
 youtube_url: https://www.youtube.com/results?search_query=John%20Martyn%20Solid%20Air
 ---
 

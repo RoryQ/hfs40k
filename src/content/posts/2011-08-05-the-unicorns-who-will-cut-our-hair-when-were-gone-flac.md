@@ -6,7 +6,7 @@ title: The Unicorns - Who Will Cut Our Hair When We're Gone (FLAC)
 artist: The Unicorns
 album: Who Will Cut Our Hair When We're Gone
 spotify_url: https://open.spotify.com/search/The%20Unicorns%20Who%20Will%20Cut%20Our%20Hair%20When%20We%27re%20Gone
-apple_music_url: https://music.apple.com/us/search?term=The%20Unicorns%20Who%20Will%20Cut%20Our%20Hair%20When%20We%27re%20Gone
+apple_music_url: https://music.apple.com/search?term=The%20Unicorns%20Who%20Will%20Cut%20Our%20Hair%20When%20We%27re%20Gone
 youtube_url: https://www.youtube.com/results?search_query=The%20Unicorns%20Who%20Will%20Cut%20Our%20Hair%20When%20We%27re%20Gone
 ---
 

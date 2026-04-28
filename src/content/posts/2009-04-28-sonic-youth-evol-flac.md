@@ -6,7 +6,7 @@ title: Sonic Youth - EVOL (FLAC)
 artist: Sonic Youth
 album: EVOL
 spotify_url: https://open.spotify.com/search/Sonic%20Youth%20EVOL
-apple_music_url: https://geo.music.apple.com/au/album/_/520273579?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/520273579
 youtube_url: https://www.youtube.com/results?search_query=Sonic%20Youth%20EVOL
 ---
 

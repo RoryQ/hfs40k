@@ -6,7 +6,7 @@ title: Ulver - War of the Roses [FLAC]
 artist: Ulver
 album: War of the Roses
 spotify_url: https://open.spotify.com/search/Ulver%20War%20of%20the%20Roses
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20War%20of%20the%20Roses
+apple_music_url: https://music.apple.com/search?term=Ulver%20War%20of%20the%20Roses
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20War%20of%20the%20Roses
 ---
 

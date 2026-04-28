@@ -6,7 +6,7 @@ title: Matthew Dear - Black City (2010, FLAC)
 artist: Matthew Dear
 album: Black City
 spotify_url: https://open.spotify.com/search/Matthew%20Dear%20Black%20City
-apple_music_url: https://music.apple.com/us/search?term=Matthew%20Dear%20Black%20City
+apple_music_url: https://music.apple.com/search?term=Matthew%20Dear%20Black%20City
 youtube_url: https://www.youtube.com/results?search_query=Matthew%20Dear%20Black%20City
 ---
 

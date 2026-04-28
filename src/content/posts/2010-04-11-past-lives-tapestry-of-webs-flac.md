@@ -6,7 +6,7 @@ title: Past Lives - Tapestry of Webs (FLAC)
 artist: Past Lives
 album: Tapestry of Webs
 spotify_url: https://open.spotify.com/search/Past%20Lives%20Tapestry%20of%20Webs
-apple_music_url: https://music.apple.com/us/search?term=Past%20Lives%20Tapestry%20of%20Webs
+apple_music_url: https://music.apple.com/search?term=Past%20Lives%20Tapestry%20of%20Webs
 youtube_url: https://www.youtube.com/results?search_query=Past%20Lives%20Tapestry%20of%20Webs
 ---
 

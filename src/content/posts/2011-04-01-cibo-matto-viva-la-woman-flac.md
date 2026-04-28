@@ -6,7 +6,7 @@ title: Cibo Matto - VIVA! La Woman (FLAC)
 artist: Cibo Matto
 album: VIVA! La Woman
 spotify_url: https://open.spotify.com/search/Cibo%20Matto%20VIVA%21%20La%20Woman
-apple_music_url: https://music.apple.com/us/search?term=Cibo%20Matto%20VIVA%21%20La%20Woman
+apple_music_url: https://music.apple.com/search?term=Cibo%20Matto%20VIVA%21%20La%20Woman
 youtube_url: https://www.youtube.com/results?search_query=Cibo%20Matto%20VIVA%21%20La%20Woman
 ---
 

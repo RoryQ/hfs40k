@@ -6,7 +6,7 @@ title: Miles Davis - 'Round About Midnight (FLAC)
 artist: Miles Davis
 album: '''Round About Midnight'
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20%27Round%20About%20Midnight
-apple_music_url: https://geo.music.apple.com/au/album/_/832081417?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/832081417
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20%27Round%20About%20Midnight
 ---
 

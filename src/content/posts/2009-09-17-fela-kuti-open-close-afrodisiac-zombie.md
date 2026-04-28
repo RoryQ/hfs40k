@@ -6,7 +6,7 @@ title: Fela Kuti - Open & Close & Afrodisiac & Zombie
 artist: Fela Kuti
 album: Open & Close & Afrodisiac & Zombie
 spotify_url: https://open.spotify.com/search/Fela%20Kuti%20Open%20%26%20Close%20%26%20Afrodisiac%20%26%20Zombie
-apple_music_url: https://music.apple.com/us/search?term=Fela%20Kuti%20Open%20%26%20Close%20%26%20Afrodisiac%20%26%20Zombie
+apple_music_url: https://music.apple.com/search?term=Fela%20Kuti%20Open%20%26%20Close%20%26%20Afrodisiac%20%26%20Zombie
 youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Open%20%26%20Close%20%26%20Afrodisiac%20%26%20Zombie
 ---
 

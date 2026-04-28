@@ -6,7 +6,7 @@ title: The Magnetic Fields - Holiday (FLAC)
 artist: The Magnetic Fields
 album: Holiday
 spotify_url: https://open.spotify.com/search/The%20Magnetic%20Fields%20Holiday
-apple_music_url: https://music.apple.com/us/search?term=The%20Magnetic%20Fields%20Holiday
+apple_music_url: https://music.apple.com/search?term=The%20Magnetic%20Fields%20Holiday
 youtube_url: https://www.youtube.com/results?search_query=The%20Magnetic%20Fields%20Holiday
 ---
 

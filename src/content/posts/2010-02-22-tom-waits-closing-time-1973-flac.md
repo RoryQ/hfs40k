@@ -6,7 +6,7 @@ title: Tom Waits - Closing Time (1973) [FLAC]
 artist: Tom Waits
 album: Closing Time
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Closing%20Time
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Closing%20Time
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Closing%20Time
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Closing%20Time
 ---
 

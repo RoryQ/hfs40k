@@ -6,7 +6,7 @@ title: Van der Graaf Generator - Godbluff (FLAC)
 artist: Van der Graaf Generator
 album: Godbluff
 spotify_url: https://open.spotify.com/search/Van%20der%20Graaf%20Generator%20Godbluff
-apple_music_url: https://music.apple.com/us/search?term=Van%20der%20Graaf%20Generator%20Godbluff
+apple_music_url: https://music.apple.com/search?term=Van%20der%20Graaf%20Generator%20Godbluff
 youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Generator%20Godbluff
 ---
 

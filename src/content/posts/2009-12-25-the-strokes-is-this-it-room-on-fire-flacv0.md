@@ -6,7 +6,7 @@ title: The Strokes - Is This It / Room on Fire (FLAC/v0)
 artist: The Strokes
 album: Is This It / Room on Fire
 spotify_url: https://open.spotify.com/search/The%20Strokes%20Is%20This%20It%20/%20Room%20on%20Fire
-apple_music_url: https://music.apple.com/us/search?term=The%20Strokes%20Is%20This%20It%20/%20Room%20on%20Fire
+apple_music_url: https://music.apple.com/search?term=The%20Strokes%20Is%20This%20It%20/%20Room%20on%20Fire
 youtube_url: https://www.youtube.com/results?search_query=The%20Strokes%20Is%20This%20It%20/%20Room%20on%20Fire
 ---
 

@@ -6,7 +6,7 @@ title: Hype Williams - Untitled x One Nation (v0)
 artist: Hype Williams
 album: Untitled x One Nation
 spotify_url: https://open.spotify.com/search/Hype%20Williams%20Untitled%20x%20One%20Nation
-apple_music_url: https://music.apple.com/us/search?term=Hype%20Williams%20Untitled%20x%20One%20Nation
+apple_music_url: https://music.apple.com/search?term=Hype%20Williams%20Untitled%20x%20One%20Nation
 youtube_url: https://www.youtube.com/results?search_query=Hype%20Williams%20Untitled%20x%20One%20Nation
 ---
 

@@ -6,7 +6,7 @@ title: Minutemen - Double Nickels on the Dime (1984)
 artist: Minutemen
 album: Double Nickels on the Dime
 spotify_url: https://open.spotify.com/search/Minutemen%20Double%20Nickels%20on%20the%20Dime
-apple_music_url: https://music.apple.com/us/search?term=Minutemen%20Double%20Nickels%20on%20the%20Dime
+apple_music_url: https://music.apple.com/search?term=Minutemen%20Double%20Nickels%20on%20the%20Dime
 youtube_url: https://www.youtube.com/results?search_query=Minutemen%20Double%20Nickels%20on%20the%20Dime
 ---
 

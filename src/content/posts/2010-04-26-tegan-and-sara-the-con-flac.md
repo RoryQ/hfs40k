@@ -6,7 +6,7 @@ title: Tegan and Sara - The Con (FLAC)
 artist: Tegan and Sara
 album: The Con
 spotify_url: https://open.spotify.com/search/Tegan%20and%20Sara%20The%20Con
-apple_music_url: https://music.apple.com/us/search?term=Tegan%20and%20Sara%20The%20Con
+apple_music_url: https://music.apple.com/search?term=Tegan%20and%20Sara%20The%20Con
 youtube_url: https://www.youtube.com/results?search_query=Tegan%20and%20Sara%20The%20Con
 ---
 

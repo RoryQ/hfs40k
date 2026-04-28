@@ -6,7 +6,7 @@ title: Buffalo - Volcanic Rock (FLAC)
 artist: Buffalo
 album: Volcanic Rock
 spotify_url: https://open.spotify.com/search/Buffalo%20Volcanic%20Rock
-apple_music_url: https://music.apple.com/us/search?term=Buffalo%20Volcanic%20Rock
+apple_music_url: https://music.apple.com/search?term=Buffalo%20Volcanic%20Rock
 youtube_url: https://www.youtube.com/results?search_query=Buffalo%20Volcanic%20Rock
 ---
 

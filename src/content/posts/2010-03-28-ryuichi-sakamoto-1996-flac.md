@@ -6,7 +6,7 @@ title: Ryuichi Sakamoto - 1996 FLAC
 artist: Ryuichi Sakamoto
 album: 1996 FLAC
 spotify_url: https://open.spotify.com/search/Ryuichi%20Sakamoto%201996%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Ryuichi%20Sakamoto%201996%20FLAC
+apple_music_url: https://music.apple.com/search?term=Ryuichi%20Sakamoto%201996%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Ryuichi%20Sakamoto%201996%20FLAC
 ---
 

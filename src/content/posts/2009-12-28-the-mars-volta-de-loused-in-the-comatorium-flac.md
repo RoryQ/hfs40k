@@ -6,7 +6,7 @@ title: The Mars Volta - De-Loused In The Comatorium (FLAC)
 artist: The Mars Volta
 album: De-Loused In The Comatorium
 spotify_url: https://open.spotify.com/search/The%20Mars%20Volta%20De-Loused%20In%20The%20Comatorium
-apple_music_url: https://music.apple.com/us/search?term=The%20Mars%20Volta%20De-Loused%20In%20The%20Comatorium
+apple_music_url: https://music.apple.com/search?term=The%20Mars%20Volta%20De-Loused%20In%20The%20Comatorium
 youtube_url: https://www.youtube.com/results?search_query=The%20Mars%20Volta%20De-Loused%20In%20The%20Comatorium
 ---
 

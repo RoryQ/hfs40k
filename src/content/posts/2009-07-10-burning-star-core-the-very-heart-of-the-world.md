@@ -6,7 +6,7 @@ title: Burning Star Core - The Very Heart of the World
 artist: Burning Star Core
 album: The Very Heart of the World
 spotify_url: https://open.spotify.com/search/Burning%20Star%20Core%20The%20Very%20Heart%20of%20the%20World
-apple_music_url: https://geo.music.apple.com/au/album/_/668297448?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/668297448
 youtube_url: https://www.youtube.com/results?search_query=Burning%20Star%20Core%20The%20Very%20Heart%20of%20the%20World
 ---
 

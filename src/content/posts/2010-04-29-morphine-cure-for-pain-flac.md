@@ -6,7 +6,7 @@ title: Morphine - Cure For Pain FLAC
 artist: Morphine
 album: Cure For Pain FLAC
 spotify_url: https://open.spotify.com/search/Morphine%20Cure%20For%20Pain%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Morphine%20Cure%20For%20Pain%20FLAC
+apple_music_url: https://music.apple.com/search?term=Morphine%20Cure%20For%20Pain%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Morphine%20Cure%20For%20Pain%20FLAC
 ---
 

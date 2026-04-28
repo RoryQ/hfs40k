@@ -6,7 +6,7 @@ title: The Smiths - The Queen Is Dead (180g Vinyl rip 24-96 FLAC)
 artist: The Smiths
 album: The Queen Is Dead
 spotify_url: https://open.spotify.com/search/The%20Smiths%20The%20Queen%20Is%20Dead
-apple_music_url: https://music.apple.com/us/search?term=The%20Smiths%20The%20Queen%20Is%20Dead
+apple_music_url: https://music.apple.com/search?term=The%20Smiths%20The%20Queen%20Is%20Dead
 youtube_url: https://www.youtube.com/results?search_query=The%20Smiths%20The%20Queen%20Is%20Dead
 ---
 

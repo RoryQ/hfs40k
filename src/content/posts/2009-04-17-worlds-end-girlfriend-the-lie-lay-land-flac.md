@@ -6,7 +6,7 @@ title: World's End Girlfriend - The Lie Lay Land (FLAC)
 artist: World's End Girlfriend
 album: The Lie Lay Land
 spotify_url: https://open.spotify.com/search/World%27s%20End%20Girlfriend%20The%20Lie%20Lay%20Land
-apple_music_url: https://music.apple.com/us/search?term=World%27s%20End%20Girlfriend%20The%20Lie%20Lay%20Land
+apple_music_url: https://music.apple.com/search?term=World%27s%20End%20Girlfriend%20The%20Lie%20Lay%20Land
 youtube_url: https://www.youtube.com/results?search_query=World%27s%20End%20Girlfriend%20The%20Lie%20Lay%20Land
 ---
 

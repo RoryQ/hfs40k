@@ -6,7 +6,7 @@ title: Curse ov Dialect - Wooden Tongues (FLAC)
 artist: Curse ov Dialect
 album: Wooden Tongues
 spotify_url: https://open.spotify.com/search/Curse%20ov%20Dialect%20Wooden%20Tongues
-apple_music_url: https://music.apple.com/us/search?term=Curse%20ov%20Dialect%20Wooden%20Tongues
+apple_music_url: https://music.apple.com/search?term=Curse%20ov%20Dialect%20Wooden%20Tongues
 youtube_url: https://www.youtube.com/results?search_query=Curse%20ov%20Dialect%20Wooden%20Tongues
 ---
 

@@ -6,7 +6,7 @@ title: Andrew Hill - A Beautiful Day (FLAC)
 artist: Andrew Hill
 album: A Beautiful Day
 spotify_url: https://open.spotify.com/search/Andrew%20Hill%20A%20Beautiful%20Day
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20A%20Beautiful%20Day
+apple_music_url: https://music.apple.com/search?term=Andrew%20Hill%20A%20Beautiful%20Day
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20A%20Beautiful%20Day
 ---
 

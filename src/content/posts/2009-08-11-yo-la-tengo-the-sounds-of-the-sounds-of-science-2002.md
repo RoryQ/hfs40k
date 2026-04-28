@@ -6,7 +6,7 @@ title: Yo La Tengo - The Sounds of the Sounds of Science (2002)
 artist: Yo La Tengo
 album: The Sounds of the Sounds of Science
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20The%20Sounds%20of%20the%20Sounds%20of%20Science
-apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20The%20Sounds%20of%20the%20Sounds%20of%20Science
+apple_music_url: https://music.apple.com/search?term=Yo%20La%20Tengo%20The%20Sounds%20of%20the%20Sounds%20of%20Science
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20The%20Sounds%20of%20the%20Sounds%20of%20Science
 ---
 

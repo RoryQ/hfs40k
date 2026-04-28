@@ -7,7 +7,7 @@ title: 'Low - A Lifetime of Temporary Relief: 10 Years of B-Sides & Rarities 3CD
 artist: Low
 album: 'A Lifetime of Temporary Relief: 10 Years of B-Sides & Rarities 3CD Boxset'
 spotify_url: https://open.spotify.com/search/Low%20A%20Lifetime%20of%20Temporary%20Relief%3A%2010%20Years%20of%20B-Sides%20%26%20Rarities%203CD%20Boxset
-apple_music_url: https://music.apple.com/us/search?term=Low%20A%20Lifetime%20of%20Temporary%20Relief%3A%2010%20Years%20of%20B-Sides%20%26%20Rarities%203CD%20Boxset
+apple_music_url: https://music.apple.com/search?term=Low%20A%20Lifetime%20of%20Temporary%20Relief%3A%2010%20Years%20of%20B-Sides%20%26%20Rarities%203CD%20Boxset
 youtube_url: https://www.youtube.com/results?search_query=Low%20A%20Lifetime%20of%20Temporary%20Relief%3A%2010%20Years%20of%20B-Sides%20%26%20Rarities%203CD%20Boxset
 ---
 

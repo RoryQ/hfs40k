@@ -6,7 +6,7 @@ title: 'Classical Week - Day #1 Horowitz Plays Rachmaninoff (FLAC)'
 artist: Classical Week
 album: 'Day #1 Horowitz Plays Rachmaninoff'
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%231%20Horowitz%20Plays%20Rachmaninoff
 ---
 

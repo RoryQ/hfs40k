@@ -6,7 +6,7 @@ title: 'New Music Review: Mutts - We Float EP'
 artist: 'New Music Review: Mutts'
 album: We Float EP
 spotify_url: https://open.spotify.com/search/New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
-apple_music_url: https://music.apple.com/us/search?term=New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
+apple_music_url: https://music.apple.com/search?term=New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
 youtube_url: https://www.youtube.com/results?search_query=New%20Music%20Review%3A%20Mutts%20We%20Float%20EP
 ---
 

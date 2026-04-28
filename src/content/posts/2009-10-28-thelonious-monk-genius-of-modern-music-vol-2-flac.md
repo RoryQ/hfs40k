@@ -6,7 +6,7 @@ title: Thelonious Monk - Genius of Modern Music Vol. 2 (FLAC)
 artist: Thelonious Monk
 album: Genius of Modern Music Vol. 2
 spotify_url: https://open.spotify.com/search/Thelonious%20Monk%20Genius%20of%20Modern%20Music%20Vol.%202
-apple_music_url: https://geo.music.apple.com/au/album/_/723556544?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/723556544
 youtube_url: https://www.youtube.com/results?search_query=Thelonious%20Monk%20Genius%20of%20Modern%20Music%20Vol.%202
 ---
 

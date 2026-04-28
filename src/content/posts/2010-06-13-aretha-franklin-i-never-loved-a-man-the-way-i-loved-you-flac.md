@@ -6,7 +6,7 @@ title: Aretha Franklin - I Never Loved A Man The Way I Loved You (FLAC)
 artist: Aretha Franklin
 album: I Never Loved A Man The Way I Loved You
 spotify_url: https://open.spotify.com/search/Aretha%20Franklin%20I%20Never%20Loved%20A%20Man%20The%20Way%20I%20Loved%20You
-apple_music_url: https://geo.music.apple.com/au/album/_/878000342?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/878000342
 youtube_url: https://www.youtube.com/results?search_query=Aretha%20Franklin%20I%20Never%20Loved%20A%20Man%20The%20Way%20I%20Loved%20You
 ---
 

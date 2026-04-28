@@ -6,7 +6,7 @@ title: Gwendal - Les Mouettes s'Battent (1979)
 artist: Gwendal
 album: Les Mouettes s'Battent
 spotify_url: https://open.spotify.com/search/Gwendal%20Les%20Mouettes%20s%27Battent
-apple_music_url: https://music.apple.com/us/search?term=Gwendal%20Les%20Mouettes%20s%27Battent
+apple_music_url: https://music.apple.com/search?term=Gwendal%20Les%20Mouettes%20s%27Battent
 youtube_url: https://www.youtube.com/results?search_query=Gwendal%20Les%20Mouettes%20s%27Battent
 ---
 

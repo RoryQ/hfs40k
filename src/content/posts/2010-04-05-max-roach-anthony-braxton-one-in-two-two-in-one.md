@@ -6,7 +6,7 @@ title: Max Roach & Anthony Braxton - One in Two, Two in One
 artist: Max Roach & Anthony Braxton
 album: One in Two, Two in One
 spotify_url: https://open.spotify.com/search/Max%20Roach%20%26%20Anthony%20Braxton%20One%20in%20Two%2C%20Two%20in%20One
-apple_music_url: https://music.apple.com/us/search?term=Max%20Roach%20%26%20Anthony%20Braxton%20One%20in%20Two%2C%20Two%20in%20One
+apple_music_url: https://music.apple.com/search?term=Max%20Roach%20%26%20Anthony%20Braxton%20One%20in%20Two%2C%20Two%20in%20One
 youtube_url: https://www.youtube.com/results?search_query=Max%20Roach%20%26%20Anthony%20Braxton%20One%20in%20Two%2C%20Two%20in%20One
 ---
 

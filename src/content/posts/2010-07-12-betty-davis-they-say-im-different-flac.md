@@ -6,7 +6,7 @@ title: Betty Davis - They Say I'm Different (FLAC)
 artist: Betty Davis
 album: They Say I'm Different
 spotify_url: https://open.spotify.com/search/Betty%20Davis%20They%20Say%20I%27m%20Different
-apple_music_url: https://music.apple.com/us/search?term=Betty%20Davis%20They%20Say%20I%27m%20Different
+apple_music_url: https://music.apple.com/search?term=Betty%20Davis%20They%20Say%20I%27m%20Different
 youtube_url: https://www.youtube.com/results?search_query=Betty%20Davis%20They%20Say%20I%27m%20Different
 ---
 

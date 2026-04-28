@@ -6,7 +6,7 @@ title: Oliver Nelson - Blues and the Abstract Truth (24-bit/96khz Vinyl)
 artist: Oliver Nelson
 album: Blues and the Abstract Truth
 spotify_url: https://open.spotify.com/search/Oliver%20Nelson%20Blues%20and%20the%20Abstract%20Truth
-apple_music_url: https://geo.music.apple.com/au/album/_/1571406209?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1571406209
 youtube_url: https://www.youtube.com/results?search_query=Oliver%20Nelson%20Blues%20and%20the%20Abstract%20Truth
 ---
 

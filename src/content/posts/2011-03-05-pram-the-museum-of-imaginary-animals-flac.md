@@ -6,7 +6,7 @@ title: Pram - The Museum of Imaginary Animals [FLAC]
 artist: Pram
 album: The Museum of Imaginary Animals
 spotify_url: https://open.spotify.com/search/Pram%20The%20Museum%20of%20Imaginary%20Animals
-apple_music_url: https://music.apple.com/us/search?term=Pram%20The%20Museum%20of%20Imaginary%20Animals
+apple_music_url: https://music.apple.com/search?term=Pram%20The%20Museum%20of%20Imaginary%20Animals
 youtube_url: https://www.youtube.com/results?search_query=Pram%20The%20Museum%20of%20Imaginary%20Animals
 ---
 

@@ -6,7 +6,7 @@ title: Emeralds - Does It Look Like I'm Here? (2010, FLAC)
 artist: Emeralds
 album: Does It Look Like I'm Here?
 spotify_url: https://open.spotify.com/search/Emeralds%20Does%20It%20Look%20Like%20I%27m%20Here%3F
-apple_music_url: https://geo.music.apple.com/au/album/_/1588271926?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1588271926
 youtube_url: https://www.youtube.com/results?search_query=Emeralds%20Does%20It%20Look%20Like%20I%27m%20Here%3F
 ---
 

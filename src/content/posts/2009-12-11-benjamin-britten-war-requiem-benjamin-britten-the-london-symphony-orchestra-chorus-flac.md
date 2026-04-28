@@ -7,7 +7,7 @@ title: Benjamin Britten - War Requiem (Benjamin Britten & the London Symphony Or
 artist: Benjamin Britten
 album: War Requiem
 spotify_url: https://open.spotify.com/search/Benjamin%20Britten%20War%20Requiem
-apple_music_url: https://geo.music.apple.com/au/album/_/1708394694?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1708394694
 youtube_url: https://www.youtube.com/results?search_query=Benjamin%20Britten%20War%20Requiem
 ---
 

@@ -6,7 +6,7 @@ title: Cerberus Shoal - Elements of Structure / Permanence [FLAC]
 artist: Cerberus Shoal
 album: Elements of Structure / Permanence
 spotify_url: https://open.spotify.com/search/Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
-apple_music_url: https://music.apple.com/us/search?term=Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
+apple_music_url: https://music.apple.com/search?term=Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
 youtube_url: https://www.youtube.com/results?search_query=Cerberus%20Shoal%20Elements%20of%20Structure%20/%20Permanence
 ---
 

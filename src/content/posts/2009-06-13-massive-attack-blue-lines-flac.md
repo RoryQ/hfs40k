@@ -6,7 +6,7 @@ title: Massive Attack - Blue Lines (FLAC)
 artist: Massive Attack
 album: Blue Lines
 spotify_url: https://open.spotify.com/search/Massive%20Attack%20Blue%20Lines
-apple_music_url: https://music.apple.com/us/search?term=Massive%20Attack%20Blue%20Lines
+apple_music_url: https://music.apple.com/search?term=Massive%20Attack%20Blue%20Lines
 youtube_url: https://www.youtube.com/results?search_query=Massive%20Attack%20Blue%20Lines
 ---
 

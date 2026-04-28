@@ -6,7 +6,7 @@ title: Electric Wizard - Witchcult Today (2007) [FLAC]
 artist: Electric Wizard
 album: Witchcult Today
 spotify_url: https://open.spotify.com/search/Electric%20Wizard%20Witchcult%20Today
-apple_music_url: https://music.apple.com/us/search?term=Electric%20Wizard%20Witchcult%20Today
+apple_music_url: https://music.apple.com/search?term=Electric%20Wizard%20Witchcult%20Today
 youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Witchcult%20Today
 ---
 

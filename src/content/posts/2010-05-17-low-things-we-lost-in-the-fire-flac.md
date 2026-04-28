@@ -6,7 +6,7 @@ title: Low - Things We Lost in the Fire [FLAC]
 artist: Low
 album: Things We Lost in the Fire
 spotify_url: https://open.spotify.com/search/Low%20Things%20We%20Lost%20in%20the%20Fire
-apple_music_url: https://music.apple.com/us/search?term=Low%20Things%20We%20Lost%20in%20the%20Fire
+apple_music_url: https://music.apple.com/search?term=Low%20Things%20We%20Lost%20in%20the%20Fire
 youtube_url: https://www.youtube.com/results?search_query=Low%20Things%20We%20Lost%20in%20the%20Fire
 ---
 

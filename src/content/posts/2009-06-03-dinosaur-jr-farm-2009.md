@@ -6,7 +6,7 @@ title: Dinosaur Jr. - Farm (2009)
 artist: Dinosaur Jr.
 album: Farm
 spotify_url: https://open.spotify.com/search/Dinosaur%20Jr.%20Farm
-apple_music_url: https://geo.music.apple.com/au/album/_/1691595191?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1691595191
 youtube_url: https://www.youtube.com/results?search_query=Dinosaur%20Jr.%20Farm
 ---
 

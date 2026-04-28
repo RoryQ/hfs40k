@@ -6,7 +6,7 @@ title: Minutemen - Double Nickels On The Dime (FLAC)
 artist: Minutemen
 album: Double Nickels On The Dime
 spotify_url: https://open.spotify.com/search/Minutemen%20Double%20Nickels%20On%20The%20Dime
-apple_music_url: https://music.apple.com/us/search?term=Minutemen%20Double%20Nickels%20On%20The%20Dime
+apple_music_url: https://music.apple.com/search?term=Minutemen%20Double%20Nickels%20On%20The%20Dime
 youtube_url: https://www.youtube.com/results?search_query=Minutemen%20Double%20Nickels%20On%20The%20Dime
 ---
 

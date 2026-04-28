@@ -6,7 +6,7 @@ title: Andrew Hill - Black Fire (FLAC)
 artist: Andrew Hill
 album: Black Fire
 spotify_url: https://open.spotify.com/search/Andrew%20Hill%20Black%20Fire
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20Black%20Fire
+apple_music_url: https://music.apple.com/search?term=Andrew%20Hill%20Black%20Fire
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Black%20Fire
 ---
 

@@ -6,7 +6,7 @@ title: Piero Umiliani - Continente Nero (1975) [320]
 artist: Piero Umiliani
 album: Continente Nero
 spotify_url: https://open.spotify.com/search/Piero%20Umiliani%20Continente%20Nero
-apple_music_url: https://music.apple.com/us/search?term=Piero%20Umiliani%20Continente%20Nero
+apple_music_url: https://music.apple.com/search?term=Piero%20Umiliani%20Continente%20Nero
 youtube_url: https://www.youtube.com/results?search_query=Piero%20Umiliani%20Continente%20Nero
 ---
 

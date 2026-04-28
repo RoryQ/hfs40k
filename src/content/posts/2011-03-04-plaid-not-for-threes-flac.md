@@ -6,7 +6,7 @@ title: Plaid - Not for Threes (FLAC)
 artist: Plaid
 album: Not for Threes
 spotify_url: https://open.spotify.com/search/Plaid%20Not%20for%20Threes
-apple_music_url: https://music.apple.com/us/search?term=Plaid%20Not%20for%20Threes
+apple_music_url: https://music.apple.com/search?term=Plaid%20Not%20for%20Threes
 youtube_url: https://www.youtube.com/results?search_query=Plaid%20Not%20for%20Threes
 ---
 

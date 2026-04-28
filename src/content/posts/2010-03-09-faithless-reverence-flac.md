@@ -6,7 +6,7 @@ title: Faithless - Reverence FLAC
 artist: Faithless
 album: Reverence FLAC
 spotify_url: https://open.spotify.com/search/Faithless%20Reverence%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Faithless%20Reverence%20FLAC
+apple_music_url: https://music.apple.com/search?term=Faithless%20Reverence%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Faithless%20Reverence%20FLAC
 ---
 

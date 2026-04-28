@@ -6,7 +6,7 @@ title: Tom Waits - Bone Machine (FLAC)
 artist: Tom Waits
 album: Bone Machine
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Bone%20Machine
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Bone%20Machine
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Bone%20Machine
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Bone%20Machine
 ---
 

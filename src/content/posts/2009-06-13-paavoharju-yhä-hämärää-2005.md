@@ -6,7 +6,7 @@ title: "Paavoharju - Yh\xE4 h\xE4m\xE4r\xE4\xE4 (2005)"
 artist: Paavoharju
 album: "Yh\xE4 h\xE4m\xE4r\xE4\xE4"
 spotify_url: https://open.spotify.com/search/Paavoharju%20Yh%C3%A4%20h%C3%A4m%C3%A4r%C3%A4%C3%A4
-apple_music_url: https://music.apple.com/us/search?term=Paavoharju%20Yh%C3%A4%20h%C3%A4m%C3%A4r%C3%A4%C3%A4
+apple_music_url: https://music.apple.com/search?term=Paavoharju%20Yh%C3%A4%20h%C3%A4m%C3%A4r%C3%A4%C3%A4
 youtube_url: https://www.youtube.com/results?search_query=Paavoharju%20Yh%C3%A4%20h%C3%A4m%C3%A4r%C3%A4%C3%A4
 ---
 

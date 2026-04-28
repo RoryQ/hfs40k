@@ -6,7 +6,7 @@ title: Sun Ra and His Solar Arkestra - Horizon [FLAC/v0]
 artist: Sun Ra and His Solar Arkestra
 album: Horizon
 spotify_url: https://open.spotify.com/search/Sun%20Ra%20and%20His%20Solar%20Arkestra%20Horizon
-apple_music_url: https://music.apple.com/us/search?term=Sun%20Ra%20and%20His%20Solar%20Arkestra%20Horizon
+apple_music_url: https://music.apple.com/search?term=Sun%20Ra%20and%20His%20Solar%20Arkestra%20Horizon
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20and%20His%20Solar%20Arkestra%20Horizon
 ---
 

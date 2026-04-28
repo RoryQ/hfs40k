@@ -6,7 +6,7 @@ title: Agalloch - Of Stone, Wind, and Pillor (2001) [FLAC]
 artist: Agalloch
 album: Of Stone, Wind, and Pillor
 spotify_url: https://open.spotify.com/search/Agalloch%20Of%20Stone%2C%20Wind%2C%20and%20Pillor
-apple_music_url: https://geo.music.apple.com/au/album/_/1043786449?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1043786449
 youtube_url: https://www.youtube.com/results?search_query=Agalloch%20Of%20Stone%2C%20Wind%2C%20and%20Pillor
 ---
 

@@ -6,7 +6,7 @@ title: 4/3 De Trio - Ersatz (2004) [FLAC&V0]
 artist: 4/3 De Trio
 album: Ersatz
 spotify_url: https://open.spotify.com/search/4/3%20De%20Trio%20Ersatz
-apple_music_url: https://music.apple.com/us/search?term=4/3%20De%20Trio%20Ersatz
+apple_music_url: https://music.apple.com/search?term=4/3%20De%20Trio%20Ersatz
 youtube_url: https://www.youtube.com/results?search_query=4/3%20De%20Trio%20Ersatz
 ---
 

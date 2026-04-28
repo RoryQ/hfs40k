@@ -6,7 +6,7 @@ title: Loud, Fast & Out of Control (v0 Box Set)
 artist: Various Artists
 album: Loud, Fast & Out of Control (v0 Box Set)
 spotify_url: https://open.spotify.com/search/Various%20Artists%20Loud%2C%20Fast%20%26%20Out%20of%20Control%20%28v0%20Box%20Set%29
-apple_music_url: https://music.apple.com/us/search?term=Various%20Artists%20Loud%2C%20Fast%20%26%20Out%20of%20Control%20%28v0%20Box%20Set%29
+apple_music_url: https://music.apple.com/search?term=Various%20Artists%20Loud%2C%20Fast%20%26%20Out%20of%20Control%20%28v0%20Box%20Set%29
 youtube_url: https://www.youtube.com/results?search_query=Various%20Artists%20Loud%2C%20Fast%20%26%20Out%20of%20Control%20%28v0%20Box%20Set%29
 ---
 

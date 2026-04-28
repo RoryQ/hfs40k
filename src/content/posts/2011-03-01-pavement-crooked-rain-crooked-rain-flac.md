@@ -6,7 +6,7 @@ title: Pavement - Crooked Rain, Crooked Rain (FLAC)
 artist: Pavement
 album: Crooked Rain, Crooked Rain
 spotify_url: https://open.spotify.com/search/Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
-apple_music_url: https://music.apple.com/us/search?term=Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
+apple_music_url: https://music.apple.com/search?term=Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
 youtube_url: https://www.youtube.com/results?search_query=Pavement%20Crooked%20Rain%2C%20Crooked%20Rain
 ---
 

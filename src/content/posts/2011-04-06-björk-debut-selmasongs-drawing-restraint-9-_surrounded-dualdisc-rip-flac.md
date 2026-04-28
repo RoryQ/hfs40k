@@ -7,7 +7,7 @@ title: "Bj\xF6rk - Debut, Selmasongs, Drawing Restraint 9 _Surrounded Dualdisc R
 artist: "Bj\xF6rk"
 album: Debut, Selmasongs, Drawing Restraint 9 _Surrounded Dualdisc Rip
 spotify_url: https://open.spotify.com/search/Bj%C3%B6rk%20Debut%2C%20Selmasongs%2C%20Drawing%20Restraint%209%20_Surrounded%20Dualdisc%20Rip
-apple_music_url: https://music.apple.com/us/search?term=Bj%C3%B6rk%20Debut%2C%20Selmasongs%2C%20Drawing%20Restraint%209%20_Surrounded%20Dualdisc%20Rip
+apple_music_url: https://music.apple.com/search?term=Bj%C3%B6rk%20Debut%2C%20Selmasongs%2C%20Drawing%20Restraint%209%20_Surrounded%20Dualdisc%20Rip
 youtube_url: https://www.youtube.com/results?search_query=Bj%C3%B6rk%20Debut%2C%20Selmasongs%2C%20Drawing%20Restraint%209%20_Surrounded%20Dualdisc%20Rip
 ---
 

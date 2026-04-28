@@ -6,7 +6,7 @@ title: Murder by Death - Who Will Survive, and What Will be Left of Them (FLAC)
 artist: Murder by Death
 album: Who Will Survive, and What Will be Left of Them
 spotify_url: https://open.spotify.com/search/Murder%20by%20Death%20Who%20Will%20Survive%2C%20and%20What%20Will%20be%20Left%20of%20Them
-apple_music_url: https://geo.music.apple.com/au/album/_/726407139?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/726407139
 youtube_url: https://www.youtube.com/results?search_query=Murder%20by%20Death%20Who%20Will%20Survive%2C%20and%20What%20Will%20be%20Left%20of%20Them
 ---
 

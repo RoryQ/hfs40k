@@ -6,7 +6,7 @@ title: Alan Stivell - Renaissance de la harpe celtique (1971)
 artist: Alan Stivell
 album: Renaissance de la harpe celtique
 spotify_url: https://open.spotify.com/search/Alan%20Stivell%20Renaissance%20de%20la%20harpe%20celtique
-apple_music_url: https://geo.music.apple.com/au/album/_/1711484498?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1711484498
 youtube_url: https://www.youtube.com/results?search_query=Alan%20Stivell%20Renaissance%20de%20la%20harpe%20celtique
 ---
 

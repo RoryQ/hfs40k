@@ -6,7 +6,7 @@ title: Lovesliescrushing - Bloweyelashwish (1993)
 artist: Lovesliescrushing
 album: Bloweyelashwish
 spotify_url: https://open.spotify.com/search/Lovesliescrushing%20Bloweyelashwish
-apple_music_url: https://music.apple.com/us/search?term=Lovesliescrushing%20Bloweyelashwish
+apple_music_url: https://music.apple.com/search?term=Lovesliescrushing%20Bloweyelashwish
 youtube_url: https://www.youtube.com/results?search_query=Lovesliescrushing%20Bloweyelashwish
 ---
 

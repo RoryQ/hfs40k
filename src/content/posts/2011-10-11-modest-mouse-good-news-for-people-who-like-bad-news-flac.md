@@ -6,7 +6,7 @@ title: Modest Mouse - Good News For People Who Like Bad News (FLAC)
 artist: Modest Mouse
 album: Good News For People Who Like Bad News
 spotify_url: https://open.spotify.com/search/Modest%20Mouse%20Good%20News%20For%20People%20Who%20Like%20Bad%20News
-apple_music_url: https://music.apple.com/us/search?term=Modest%20Mouse%20Good%20News%20For%20People%20Who%20Like%20Bad%20News
+apple_music_url: https://music.apple.com/search?term=Modest%20Mouse%20Good%20News%20For%20People%20Who%20Like%20Bad%20News
 youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20Good%20News%20For%20People%20Who%20Like%20Bad%20News
 ---
 

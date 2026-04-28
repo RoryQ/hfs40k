@@ -6,7 +6,7 @@ title: Menahan Street Band - Make the Road by Walking (FLAC)
 artist: Menahan Street Band
 album: Make the Road by Walking
 spotify_url: https://open.spotify.com/search/Menahan%20Street%20Band%20Make%20the%20Road%20by%20Walking
-apple_music_url: https://music.apple.com/us/search?term=Menahan%20Street%20Band%20Make%20the%20Road%20by%20Walking
+apple_music_url: https://music.apple.com/search?term=Menahan%20Street%20Band%20Make%20the%20Road%20by%20Walking
 youtube_url: https://www.youtube.com/results?search_query=Menahan%20Street%20Band%20Make%20the%20Road%20by%20Walking
 ---
 

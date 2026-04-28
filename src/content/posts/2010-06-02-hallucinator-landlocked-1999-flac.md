@@ -6,7 +6,7 @@ title: Hallucinator - Landlocked (1999, FLAC)
 artist: Hallucinator
 album: Landlocked
 spotify_url: https://open.spotify.com/search/Hallucinator%20Landlocked
-apple_music_url: https://music.apple.com/us/search?term=Hallucinator%20Landlocked
+apple_music_url: https://music.apple.com/search?term=Hallucinator%20Landlocked
 youtube_url: https://www.youtube.com/results?search_query=Hallucinator%20Landlocked
 ---
 

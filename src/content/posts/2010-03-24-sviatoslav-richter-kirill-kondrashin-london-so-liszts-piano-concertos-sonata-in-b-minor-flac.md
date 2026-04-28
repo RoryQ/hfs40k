@@ -7,7 +7,7 @@ title: Sviatoslav Richter, Kirill Kondrashin & London SO - Liszt's Piano Concert
 artist: Sviatoslav Richter, Kirill Kondrashin & London SO
 album: Liszt's Piano Concertos & Sonata in B minor
 spotify_url: https://open.spotify.com/search/Sviatoslav%20Richter%2C%20Kirill%20Kondrashin%20%26%20London%20SO%20Liszt%27s%20Piano%20Concertos%20%26%20Sonata%20in%20B%20minor
-apple_music_url: https://music.apple.com/us/search?term=Sviatoslav%20Richter%2C%20Kirill%20Kondrashin%20%26%20London%20SO%20Liszt%27s%20Piano%20Concertos%20%26%20Sonata%20in%20B%20minor
+apple_music_url: https://music.apple.com/search?term=Sviatoslav%20Richter%2C%20Kirill%20Kondrashin%20%26%20London%20SO%20Liszt%27s%20Piano%20Concertos%20%26%20Sonata%20in%20B%20minor
 youtube_url: https://www.youtube.com/results?search_query=Sviatoslav%20Richter%2C%20Kirill%20Kondrashin%20%26%20London%20SO%20Liszt%27s%20Piano%20Concertos%20%26%20Sonata%20in%20B%20minor
 ---
 

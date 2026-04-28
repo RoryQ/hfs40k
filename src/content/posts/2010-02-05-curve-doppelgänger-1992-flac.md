@@ -6,7 +6,7 @@ title: "Curve -  Doppelg\xE4nger [1992, FLAC]"
 artist: Curve
 album: "Doppelg\xE4nger"
 spotify_url: https://open.spotify.com/search/Curve%20Doppelg%C3%A4nger
-apple_music_url: https://music.apple.com/us/search?term=Curve%20Doppelg%C3%A4nger
+apple_music_url: https://music.apple.com/search?term=Curve%20Doppelg%C3%A4nger
 youtube_url: https://www.youtube.com/results?search_query=Curve%20Doppelg%C3%A4nger
 ---
 

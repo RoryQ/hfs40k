@@ -6,7 +6,7 @@ title: Ravi Shankar - India's Master Musician  (FLAC)
 artist: Ravi Shankar
 album: India's Master Musician
 spotify_url: https://open.spotify.com/search/Ravi%20Shankar%20India%27s%20Master%20Musician
-apple_music_url: https://geo.music.apple.com/au/album/_/724465582?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/724465582
 youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20India%27s%20Master%20Musician
 ---
 

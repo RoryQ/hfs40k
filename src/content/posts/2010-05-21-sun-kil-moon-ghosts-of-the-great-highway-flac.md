@@ -6,7 +6,7 @@ title: Sun Kil Moon - Ghosts Of The Great Highway (FLAC)
 artist: Sun Kil Moon
 album: Ghosts Of The Great Highway
 spotify_url: https://open.spotify.com/search/Sun%20Kil%20Moon%20Ghosts%20Of%20The%20Great%20Highway
-apple_music_url: https://geo.music.apple.com/au/album/_/1570084770?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1570084770
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20Ghosts%20Of%20The%20Great%20Highway
 ---
 

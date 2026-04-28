@@ -6,7 +6,7 @@ title: Young Marble Giants -  Colossal Youth (1980)
 artist: Young Marble Giants
 album: Colossal Youth
 spotify_url: https://open.spotify.com/search/Young%20Marble%20Giants%20Colossal%20Youth
-apple_music_url: https://music.apple.com/us/search?term=Young%20Marble%20Giants%20Colossal%20Youth
+apple_music_url: https://music.apple.com/search?term=Young%20Marble%20Giants%20Colossal%20Youth
 youtube_url: https://www.youtube.com/results?search_query=Young%20Marble%20Giants%20Colossal%20Youth
 ---
 

@@ -6,7 +6,7 @@ title: John Roberts - Glass Eights (2010, FLAC)
 artist: John Roberts
 album: Glass Eights
 spotify_url: https://open.spotify.com/search/John%20Roberts%20Glass%20Eights
-apple_music_url: https://music.apple.com/us/search?term=John%20Roberts%20Glass%20Eights
+apple_music_url: https://music.apple.com/search?term=John%20Roberts%20Glass%20Eights
 youtube_url: https://www.youtube.com/results?search_query=John%20Roberts%20Glass%20Eights
 ---
 

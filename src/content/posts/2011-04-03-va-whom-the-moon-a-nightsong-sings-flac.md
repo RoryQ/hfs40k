@@ -6,7 +6,7 @@ title: V/A - Whom The Moon A Nightsong Sings [FLAC]
 artist: V/A
 album: Whom The Moon A Nightsong Sings
 spotify_url: https://open.spotify.com/search/V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
-apple_music_url: https://music.apple.com/us/search?term=V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
+apple_music_url: https://music.apple.com/search?term=V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
 youtube_url: https://www.youtube.com/results?search_query=V/A%20Whom%20The%20Moon%20A%20Nightsong%20Sings
 ---
 

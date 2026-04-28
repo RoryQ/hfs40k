@@ -6,7 +6,7 @@ title: Dizzy Gillespie - Dizzy On The French Riviera [1962/Remaster 2009/FLAC]
 artist: Dizzy Gillespie
 album: Dizzy On The French Riviera
 spotify_url: https://open.spotify.com/search/Dizzy%20Gillespie%20Dizzy%20On%20The%20French%20Riviera
-apple_music_url: https://music.apple.com/us/search?term=Dizzy%20Gillespie%20Dizzy%20On%20The%20French%20Riviera
+apple_music_url: https://music.apple.com/search?term=Dizzy%20Gillespie%20Dizzy%20On%20The%20French%20Riviera
 youtube_url: https://www.youtube.com/results?search_query=Dizzy%20Gillespie%20Dizzy%20On%20The%20French%20Riviera
 ---
 

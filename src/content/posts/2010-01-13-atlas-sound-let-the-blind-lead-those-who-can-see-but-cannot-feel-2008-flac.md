@@ -6,7 +6,7 @@ title: Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel (2008,
 artist: Atlas Sound
 album: Let the Blind Lead Those Who Can See but Cannot Feel
 spotify_url: https://open.spotify.com/search/Atlas%20Sound%20Let%20the%20Blind%20Lead%20Those%20Who%20Can%20See%20but%20Cannot%20Feel
-apple_music_url: https://geo.music.apple.com/au/album/_/273128726?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/273128726
 youtube_url: https://www.youtube.com/results?search_query=Atlas%20Sound%20Let%20the%20Blind%20Lead%20Those%20Who%20Can%20See%20but%20Cannot%20Feel
 ---
 

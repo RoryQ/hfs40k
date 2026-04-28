@@ -6,7 +6,7 @@ title: Andrew Hill - Dance with Death (FLAC)
 artist: Andrew Hill
 album: Dance with Death
 spotify_url: https://open.spotify.com/search/Andrew%20Hill%20Dance%20with%20Death
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20Dance%20with%20Death
+apple_music_url: https://music.apple.com/search?term=Andrew%20Hill%20Dance%20with%20Death
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Dance%20with%20Death
 ---
 

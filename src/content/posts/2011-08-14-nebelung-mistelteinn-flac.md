@@ -6,7 +6,7 @@ title: Nebelung - Mistelteinn (FLAC)
 artist: Nebelung
 album: Mistelteinn
 spotify_url: https://open.spotify.com/search/Nebelung%20Mistelteinn
-apple_music_url: https://music.apple.com/us/search?term=Nebelung%20Mistelteinn
+apple_music_url: https://music.apple.com/search?term=Nebelung%20Mistelteinn
 youtube_url: https://www.youtube.com/results?search_query=Nebelung%20Mistelteinn
 ---
 

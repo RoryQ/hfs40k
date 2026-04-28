@@ -6,7 +6,7 @@ title: Animal Collective - Merriweather Post Pavilion (FLAC)
 artist: Animal Collective
 album: Merriweather Post Pavilion
 spotify_url: https://open.spotify.com/search/Animal%20Collective%20Merriweather%20Post%20Pavilion
-apple_music_url: https://music.apple.com/us/search?term=Animal%20Collective%20Merriweather%20Post%20Pavilion
+apple_music_url: https://music.apple.com/search?term=Animal%20Collective%20Merriweather%20Post%20Pavilion
 youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Merriweather%20Post%20Pavilion
 ---
 

@@ -6,7 +6,7 @@ title: Sufjan Stevens - Illinois (FLAC)
 artist: Sufjan Stevens
 album: Illinois
 spotify_url: https://open.spotify.com/search/Sufjan%20Stevens%20Illinois
-apple_music_url: https://geo.music.apple.com/au/album/_/328074546?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/328074546
 youtube_url: https://www.youtube.com/results?search_query=Sufjan%20Stevens%20Illinois
 ---
 

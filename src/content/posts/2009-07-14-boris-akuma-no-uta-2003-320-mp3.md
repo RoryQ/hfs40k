@@ -6,7 +6,7 @@ title: Boris - Akuma no Uta (2003) [320 mp3]
 artist: Boris
 album: Akuma no Uta
 spotify_url: https://open.spotify.com/search/Boris%20Akuma%20no%20Uta
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Akuma%20no%20Uta
+apple_music_url: https://music.apple.com/search?term=Boris%20Akuma%20no%20Uta
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Akuma%20no%20Uta
 ---
 

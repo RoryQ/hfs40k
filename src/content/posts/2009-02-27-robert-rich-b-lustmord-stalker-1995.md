@@ -6,7 +6,7 @@ title: Robert Rich & B. Lustmord - Stalker (1995)
 artist: Robert Rich & B. Lustmord
 album: Stalker
 spotify_url: https://open.spotify.com/search/Robert%20Rich%20%26%20B.%20Lustmord%20Stalker
-apple_music_url: https://music.apple.com/us/search?term=Robert%20Rich%20%26%20B.%20Lustmord%20Stalker
+apple_music_url: https://music.apple.com/search?term=Robert%20Rich%20%26%20B.%20Lustmord%20Stalker
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Rich%20%26%20B.%20Lustmord%20Stalker
 ---
 

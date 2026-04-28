@@ -6,7 +6,7 @@ title: Death From Above 1979 - Heads Up [2002, ALAC]
 artist: Death From Above 1979
 album: Heads Up
 spotify_url: https://open.spotify.com/search/Death%20From%20Above%201979%20Heads%20Up
-apple_music_url: https://music.apple.com/us/search?term=Death%20From%20Above%201979%20Heads%20Up
+apple_music_url: https://music.apple.com/search?term=Death%20From%20Above%201979%20Heads%20Up
 youtube_url: https://www.youtube.com/results?search_query=Death%20From%20Above%201979%20Heads%20Up
 ---
 

@@ -6,7 +6,7 @@ title: The Pop Group - For How Much Longer Do We Tolerate Mass Murder?  [FLAC]
 artist: The Pop Group
 album: For How Much Longer Do We Tolerate Mass Murder?
 spotify_url: https://open.spotify.com/search/The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
-apple_music_url: https://music.apple.com/us/search?term=The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
+apple_music_url: https://music.apple.com/search?term=The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
 youtube_url: https://www.youtube.com/results?search_query=The%20Pop%20Group%20For%20How%20Much%20Longer%20Do%20We%20Tolerate%20Mass%20Murder%3F
 ---
 

@@ -6,7 +6,7 @@ title: Lou Reed & John Cale - Songs for Drella (FLAC)
 artist: Lou Reed & John Cale
 album: Songs for Drella
 spotify_url: https://open.spotify.com/search/Lou%20Reed%20%26%20John%20Cale%20Songs%20for%20Drella
-apple_music_url: https://geo.music.apple.com/au/album/_/166980?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/166980
 youtube_url: https://www.youtube.com/results?search_query=Lou%20Reed%20%26%20John%20Cale%20Songs%20for%20Drella
 ---
 

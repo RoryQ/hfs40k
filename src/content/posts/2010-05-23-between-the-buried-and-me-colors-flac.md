@@ -6,7 +6,7 @@ title: Between The Buried And Me - Colors (FLAC)
 artist: Between The Buried And Me
 album: Colors
 spotify_url: https://open.spotify.com/search/Between%20The%20Buried%20And%20Me%20Colors
-apple_music_url: https://music.apple.com/us/search?term=Between%20The%20Buried%20And%20Me%20Colors
+apple_music_url: https://music.apple.com/search?term=Between%20The%20Buried%20And%20Me%20Colors
 youtube_url: https://www.youtube.com/results?search_query=Between%20The%20Buried%20And%20Me%20Colors
 ---
 

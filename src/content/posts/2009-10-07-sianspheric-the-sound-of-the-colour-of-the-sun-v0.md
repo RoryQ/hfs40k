@@ -6,7 +6,7 @@ title: Sianspheric - The Sound of the Colour of the Sun [v0]
 artist: Sianspheric
 album: The Sound of the Colour of the Sun
 spotify_url: https://open.spotify.com/search/Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
+apple_music_url: https://music.apple.com/search?term=Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Sianspheric%20The%20Sound%20of%20the%20Colour%20of%20the%20Sun
 ---
 

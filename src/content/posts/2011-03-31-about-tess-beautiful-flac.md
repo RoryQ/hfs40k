@@ -6,7 +6,7 @@ title: About Tess - Beautiful (FLAC)
 artist: About Tess
 album: Beautiful
 spotify_url: https://open.spotify.com/search/About%20Tess%20Beautiful
-apple_music_url: https://geo.music.apple.com/au/album/_/279698535?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/279698535
 youtube_url: https://www.youtube.com/results?search_query=About%20Tess%20Beautiful
 ---
 

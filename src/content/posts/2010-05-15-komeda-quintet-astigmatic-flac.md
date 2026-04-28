@@ -6,7 +6,7 @@ title: Komeda Quintet - Astigmatic (FLAC)
 artist: Komeda Quintet
 album: Astigmatic
 spotify_url: https://open.spotify.com/search/Komeda%20Quintet%20Astigmatic
-apple_music_url: https://geo.music.apple.com/au/album/_/1122115415?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1122115415
 youtube_url: https://www.youtube.com/results?search_query=Komeda%20Quintet%20Astigmatic
 ---
 

@@ -6,7 +6,7 @@ title: My Bloody Valentine - Loveless (FLAC)
 artist: My Bloody Valentine
 album: Loveless
 spotify_url: https://open.spotify.com/search/My%20Bloody%20Valentine%20Loveless
-apple_music_url: https://music.apple.com/us/search?term=My%20Bloody%20Valentine%20Loveless
+apple_music_url: https://music.apple.com/search?term=My%20Bloody%20Valentine%20Loveless
 youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentine%20Loveless
 ---
 

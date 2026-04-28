@@ -6,7 +6,7 @@ title: Bill Evans - The Complete Village Vanguard Recordings, 1961 (FLAC)
 artist: Bill Evans
 album: The Complete Village Vanguard Recordings, 1961
 spotify_url: https://open.spotify.com/search/Bill%20Evans%20The%20Complete%20Village%20Vanguard%20Recordings%2C%201961
-apple_music_url: https://music.apple.com/us/search?term=Bill%20Evans%20The%20Complete%20Village%20Vanguard%20Recordings%2C%201961
+apple_music_url: https://music.apple.com/search?term=Bill%20Evans%20The%20Complete%20Village%20Vanguard%20Recordings%2C%201961
 youtube_url: https://www.youtube.com/results?search_query=Bill%20Evans%20The%20Complete%20Village%20Vanguard%20Recordings%2C%201961
 ---
 

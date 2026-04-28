@@ -6,7 +6,7 @@ title: Tim Hecker - Ravedeath, 1972 [v0]
 artist: Tim Hecker
 album: Ravedeath, 1972
 spotify_url: https://open.spotify.com/search/Tim%20Hecker%20Ravedeath%2C%201972
-apple_music_url: https://music.apple.com/us/search?term=Tim%20Hecker%20Ravedeath%2C%201972
+apple_music_url: https://music.apple.com/search?term=Tim%20Hecker%20Ravedeath%2C%201972
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20Ravedeath%2C%201972
 ---
 

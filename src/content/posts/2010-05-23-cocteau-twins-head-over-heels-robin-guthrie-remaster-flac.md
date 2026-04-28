@@ -6,7 +6,7 @@ title: Cocteau Twins - Head Over Heels (Robin Guthrie Remaster FLAC)
 artist: Cocteau Twins
 album: Head Over Heels
 spotify_url: https://open.spotify.com/search/Cocteau%20Twins%20Head%20Over%20Heels
-apple_music_url: https://music.apple.com/us/search?term=Cocteau%20Twins%20Head%20Over%20Heels
+apple_music_url: https://music.apple.com/search?term=Cocteau%20Twins%20Head%20Over%20Heels
 youtube_url: https://www.youtube.com/results?search_query=Cocteau%20Twins%20Head%20Over%20Heels
 ---
 

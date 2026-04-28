@@ -6,7 +6,7 @@ title: Charlie Haden - Liberation Music Orchestra
 artist: Charlie Haden
 album: Liberation Music Orchestra
 spotify_url: https://open.spotify.com/search/Charlie%20Haden%20Liberation%20Music%20Orchestra
-apple_music_url: https://music.apple.com/us/search?term=Charlie%20Haden%20Liberation%20Music%20Orchestra
+apple_music_url: https://music.apple.com/search?term=Charlie%20Haden%20Liberation%20Music%20Orchestra
 youtube_url: https://www.youtube.com/results?search_query=Charlie%20Haden%20Liberation%20Music%20Orchestra
 ---
 

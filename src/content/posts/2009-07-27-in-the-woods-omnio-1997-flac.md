@@ -6,7 +6,7 @@ title: In the Woods... - Omnio (1997) [FLAC]
 artist: In the Woods...
 album: Omnio
 spotify_url: https://open.spotify.com/search/In%20the%20Woods...%20Omnio
-apple_music_url: https://music.apple.com/us/search?term=In%20the%20Woods...%20Omnio
+apple_music_url: https://music.apple.com/search?term=In%20the%20Woods...%20Omnio
 youtube_url: https://www.youtube.com/results?search_query=In%20the%20Woods...%20Omnio
 ---
 

@@ -6,7 +6,7 @@ title: Health - Get Color (2009)
 artist: Health
 album: Get Color
 spotify_url: https://open.spotify.com/search/Health%20Get%20Color
-apple_music_url: https://music.apple.com/us/search?term=Health%20Get%20Color
+apple_music_url: https://music.apple.com/search?term=Health%20Get%20Color
 youtube_url: https://www.youtube.com/results?search_query=Health%20Get%20Color
 ---
 

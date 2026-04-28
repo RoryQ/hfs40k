@@ -6,7 +6,7 @@ title: Basic Channel - BCD FLAC
 artist: Basic Channel
 album: BCD FLAC
 spotify_url: https://open.spotify.com/search/Basic%20Channel%20BCD%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Basic%20Channel%20BCD%20FLAC
+apple_music_url: https://music.apple.com/search?term=Basic%20Channel%20BCD%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Basic%20Channel%20BCD%20FLAC
 ---
 

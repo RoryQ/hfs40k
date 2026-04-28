@@ -6,7 +6,7 @@ title: 'Brian Eno - Ambient 4: On Land [Remastered/v0/FLAC]'
 artist: Brian Eno
 album: 'Ambient 4: On Land'
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20Ambient%204%3A%20On%20Land
-apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20Ambient%204%3A%20On%20Land
+apple_music_url: https://music.apple.com/search?term=Brian%20Eno%20Ambient%204%3A%20On%20Land
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Ambient%204%3A%20On%20Land
 ---
 

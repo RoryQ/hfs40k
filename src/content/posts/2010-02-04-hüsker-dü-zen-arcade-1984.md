@@ -6,7 +6,7 @@ title: "H\xFCsker D\xFC - Zen Arcade (1984)"
 artist: "H\xFCsker D\xFC"
 album: Zen Arcade
 spotify_url: https://open.spotify.com/search/H%C3%BCsker%20D%C3%BC%20Zen%20Arcade
-apple_music_url: https://music.apple.com/us/search?term=H%C3%BCsker%20D%C3%BC%20Zen%20Arcade
+apple_music_url: https://music.apple.com/search?term=H%C3%BCsker%20D%C3%BC%20Zen%20Arcade
 youtube_url: https://www.youtube.com/results?search_query=H%C3%BCsker%20D%C3%BC%20Zen%20Arcade
 ---
 

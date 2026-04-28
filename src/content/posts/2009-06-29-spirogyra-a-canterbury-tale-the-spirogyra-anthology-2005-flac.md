@@ -6,7 +6,7 @@ title: 'Spirogyra - A Canterbury Tale: The Spirogyra Anthology (2005) [FLAC]'
 artist: Spirogyra
 album: 'A Canterbury Tale: The Spirogyra Anthology'
 spotify_url: https://open.spotify.com/search/Spirogyra%20A%20Canterbury%20Tale%3A%20The%20Spirogyra%20Anthology
-apple_music_url: https://music.apple.com/us/search?term=Spirogyra%20A%20Canterbury%20Tale%3A%20The%20Spirogyra%20Anthology
+apple_music_url: https://music.apple.com/search?term=Spirogyra%20A%20Canterbury%20Tale%3A%20The%20Spirogyra%20Anthology
 youtube_url: https://www.youtube.com/results?search_query=Spirogyra%20A%20Canterbury%20Tale%3A%20The%20Spirogyra%20Anthology
 ---
 

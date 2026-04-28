@@ -6,7 +6,7 @@ title: Van der Graaf Generator - H To He, Who Am The Only One
 artist: Van der Graaf Generator
 album: H To He, Who Am The Only One
 spotify_url: https://open.spotify.com/search/Van%20der%20Graaf%20Generator%20H%20To%20He%2C%20Who%20Am%20The%20Only%20One
-apple_music_url: https://geo.music.apple.com/au/album/_/1581964238?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1581964238
 youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Generator%20H%20To%20He%2C%20Who%20Am%20The%20Only%20One
 ---
 

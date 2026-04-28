@@ -6,7 +6,7 @@ title: "Venetian Snares - Rossz Csillag Alatt Sz\xFCletett (FLAC)"
 artist: Venetian Snares
 album: "Rossz Csillag Alatt Sz\xFCletett"
 spotify_url: https://open.spotify.com/search/Venetian%20Snares%20Rossz%20Csillag%20Alatt%20Sz%C3%BCletett
-apple_music_url: https://music.apple.com/us/search?term=Venetian%20Snares%20Rossz%20Csillag%20Alatt%20Sz%C3%BCletett
+apple_music_url: https://music.apple.com/search?term=Venetian%20Snares%20Rossz%20Csillag%20Alatt%20Sz%C3%BCletett
 youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Rossz%20Csillag%20Alatt%20Sz%C3%BCletett
 ---
 

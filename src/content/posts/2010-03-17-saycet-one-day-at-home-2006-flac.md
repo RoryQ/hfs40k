@@ -6,7 +6,7 @@ title: sayCeT - One Day At Home (2006) [FLAC]
 artist: sayCeT
 album: One Day At Home
 spotify_url: https://open.spotify.com/search/sayCeT%20One%20Day%20At%20Home
-apple_music_url: https://music.apple.com/us/search?term=sayCeT%20One%20Day%20At%20Home
+apple_music_url: https://music.apple.com/search?term=sayCeT%20One%20Day%20At%20Home
 youtube_url: https://www.youtube.com/results?search_query=sayCeT%20One%20Day%20At%20Home
 ---
 

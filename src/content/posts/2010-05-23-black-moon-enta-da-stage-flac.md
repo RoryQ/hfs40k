@@ -6,7 +6,7 @@ title: Black Moon - Enta Da Stage (FLAC)
 artist: Black Moon
 album: Enta Da Stage
 spotify_url: https://open.spotify.com/search/Black%20Moon%20Enta%20Da%20Stage
-apple_music_url: https://music.apple.com/us/search?term=Black%20Moon%20Enta%20Da%20Stage
+apple_music_url: https://music.apple.com/search?term=Black%20Moon%20Enta%20Da%20Stage
 youtube_url: https://www.youtube.com/results?search_query=Black%20Moon%20Enta%20Da%20Stage
 ---
 

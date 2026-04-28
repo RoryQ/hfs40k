@@ -6,7 +6,7 @@ title: Muslimguaze - Unites States of Islam (1991)
 artist: Muslimguaze
 album: Unites States of Islam
 spotify_url: https://open.spotify.com/search/Muslimguaze%20Unites%20States%20of%20Islam
-apple_music_url: https://music.apple.com/us/search?term=Muslimguaze%20Unites%20States%20of%20Islam
+apple_music_url: https://music.apple.com/search?term=Muslimguaze%20Unites%20States%20of%20Islam
 youtube_url: https://www.youtube.com/results?search_query=Muslimguaze%20Unites%20States%20of%20Islam
 ---
 

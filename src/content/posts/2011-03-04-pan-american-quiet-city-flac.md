@@ -6,7 +6,7 @@ title: Pan American - Quiet City (FLAC)
 artist: Pan American
 album: Quiet City
 spotify_url: https://open.spotify.com/search/Pan%20American%20Quiet%20City
-apple_music_url: https://music.apple.com/us/search?term=Pan%20American%20Quiet%20City
+apple_music_url: https://music.apple.com/search?term=Pan%20American%20Quiet%20City
 youtube_url: https://www.youtube.com/results?search_query=Pan%20American%20Quiet%20City
 ---
 

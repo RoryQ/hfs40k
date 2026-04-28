@@ -6,7 +6,7 @@ title: 'African Scream Contest: Raw & Psychedelic Afro Sounds From Benin & Togo 
 artist: African Scream Contest
 album: Raw & Psychedelic Afro Sounds From Benin & Togo 70s
 spotify_url: https://open.spotify.com/search/African%20Scream%20Contest%20Raw%20%26%20Psychedelic%20Afro%20Sounds%20From%20Benin%20%26%20Togo%2070s
-apple_music_url: https://music.apple.com/us/search?term=African%20Scream%20Contest%20Raw%20%26%20Psychedelic%20Afro%20Sounds%20From%20Benin%20%26%20Togo%2070s
+apple_music_url: https://music.apple.com/search?term=African%20Scream%20Contest%20Raw%20%26%20Psychedelic%20Afro%20Sounds%20From%20Benin%20%26%20Togo%2070s
 youtube_url: https://www.youtube.com/results?search_query=African%20Scream%20Contest%20Raw%20%26%20Psychedelic%20Afro%20Sounds%20From%20Benin%20%26%20Togo%2070s
 ---
 

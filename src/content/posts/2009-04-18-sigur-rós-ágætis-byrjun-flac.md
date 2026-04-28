@@ -6,7 +6,7 @@ title: "Sigur R\xF3s - \xC1g\xE6tis byrjun (FLAC)"
 artist: "Sigur R\xF3s"
 album: "\xC1g\xE6tis byrjun"
 spotify_url: https://open.spotify.com/search/Sigur%20R%C3%B3s%20%C3%81g%C3%A6tis%20byrjun
-apple_music_url: https://music.apple.com/us/search?term=Sigur%20R%C3%B3s%20%C3%81g%C3%A6tis%20byrjun
+apple_music_url: https://music.apple.com/search?term=Sigur%20R%C3%B3s%20%C3%81g%C3%A6tis%20byrjun
 youtube_url: https://www.youtube.com/results?search_query=Sigur%20R%C3%B3s%20%C3%81g%C3%A6tis%20byrjun
 ---
 

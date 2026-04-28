@@ -7,7 +7,7 @@ title: "Classical Week - Day #6 Niccol\xF2 Paganini: 24 Caprices for Solo Violin
 artist: Classical Week
 album: "Day #6 Niccol\xF2 Paganini: 24 Caprices for Solo Violin"
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%236%20Niccol%C3%B2%20Paganini%3A%2024%20Caprices%20for%20Solo%20Violin
 ---
 

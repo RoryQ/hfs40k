@@ -6,7 +6,7 @@ title: Arab on Radar - Yahweh or the Highway (2001)
 artist: Arab on Radar
 album: Yahweh or the Highway
 spotify_url: https://open.spotify.com/search/Arab%20on%20Radar%20Yahweh%20or%20the%20Highway
-apple_music_url: https://music.apple.com/us/search?term=Arab%20on%20Radar%20Yahweh%20or%20the%20Highway
+apple_music_url: https://music.apple.com/search?term=Arab%20on%20Radar%20Yahweh%20or%20the%20Highway
 youtube_url: https://www.youtube.com/results?search_query=Arab%20on%20Radar%20Yahweh%20or%20the%20Highway
 ---
 

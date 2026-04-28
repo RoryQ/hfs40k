@@ -6,7 +6,7 @@ title: Chrome - Half Machine Lip Moves [FLAC]
 artist: Chrome
 album: Half Machine Lip Moves
 spotify_url: https://open.spotify.com/search/Chrome%20Half%20Machine%20Lip%20Moves
-apple_music_url: https://music.apple.com/us/search?term=Chrome%20Half%20Machine%20Lip%20Moves
+apple_music_url: https://music.apple.com/search?term=Chrome%20Half%20Machine%20Lip%20Moves
 youtube_url: https://www.youtube.com/results?search_query=Chrome%20Half%20Machine%20Lip%20Moves
 ---
 

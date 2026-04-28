@@ -6,7 +6,7 @@ title: Miles Davis - Kind of Blue (FLAC)
 artist: Miles Davis
 album: Kind of Blue
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20Kind%20of%20Blue
-apple_music_url: https://geo.music.apple.com/au/album/_/268443092?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/268443092
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Kind%20of%20Blue
 ---
 

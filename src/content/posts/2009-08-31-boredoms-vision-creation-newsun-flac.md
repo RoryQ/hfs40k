@@ -6,7 +6,7 @@ title: Boredoms - Vision Creation Newsun (FLAC)
 artist: Boredoms
 album: Vision Creation Newsun
 spotify_url: https://open.spotify.com/search/Boredoms%20Vision%20Creation%20Newsun
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%20Vision%20Creation%20Newsun
+apple_music_url: https://music.apple.com/search?term=Boredoms%20Vision%20Creation%20Newsun
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%20Vision%20Creation%20Newsun
 ---
 

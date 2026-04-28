@@ -6,7 +6,7 @@ title: 'Belle and Sebastian - If You''re Feeling Sinister: Live at the Barbican'
 artist: Belle and Sebastian
 album: 'If You''re Feeling Sinister: Live at the Barbican'
 spotify_url: https://open.spotify.com/search/Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister%3A%20Live%20at%20the%20Barbican
-apple_music_url: https://music.apple.com/us/search?term=Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister%3A%20Live%20at%20the%20Barbican
+apple_music_url: https://music.apple.com/search?term=Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister%3A%20Live%20at%20the%20Barbican
 youtube_url: https://www.youtube.com/results?search_query=Belle%20and%20Sebastian%20If%20You%27re%20Feeling%20Sinister%3A%20Live%20at%20the%20Barbican
 ---
 

@@ -6,7 +6,7 @@ title: Murder by Death - Like the Exorcist, But More Breakdancing (FLAC)
 artist: Murder by Death
 album: Like the Exorcist, But More Breakdancing
 spotify_url: https://open.spotify.com/search/Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
-apple_music_url: https://music.apple.com/us/search?term=Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
+apple_music_url: https://music.apple.com/search?term=Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
 youtube_url: https://www.youtube.com/results?search_query=Murder%20by%20Death%20Like%20the%20Exorcist%2C%20But%20More%20Breakdancing
 ---
 

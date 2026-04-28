@@ -6,7 +6,7 @@ title: Sun Ra - The Magic City (FLAC)
 artist: Sun Ra
 album: The Magic City
 spotify_url: https://open.spotify.com/search/Sun%20Ra%20The%20Magic%20City
-apple_music_url: https://music.apple.com/us/search?term=Sun%20Ra%20The%20Magic%20City
+apple_music_url: https://music.apple.com/search?term=Sun%20Ra%20The%20Magic%20City
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20The%20Magic%20City
 ---
 

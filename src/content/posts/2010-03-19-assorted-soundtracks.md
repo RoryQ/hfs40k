@@ -6,7 +6,7 @@ title: Assorted Soundtracks
 artist: Piero Piccioni
 album: Camille 2000
 spotify_url: https://open.spotify.com/search/Piero%20Piccioni%20Camille%202000
-apple_music_url: https://geo.music.apple.com/au/album/_/349912349?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/349912349
 youtube_url: https://www.youtube.com/results?search_query=Piero%20Piccioni%20Camille%202000
 ---
 

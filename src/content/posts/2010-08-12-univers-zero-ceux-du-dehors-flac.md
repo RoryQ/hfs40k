@@ -6,7 +6,7 @@ title: Univers Zero - Ceux du Dehors (FLAC)
 artist: Univers Zero
 album: Ceux du Dehors
 spotify_url: https://open.spotify.com/search/Univers%20Zero%20Ceux%20du%20Dehors
-apple_music_url: https://music.apple.com/us/search?term=Univers%20Zero%20Ceux%20du%20Dehors
+apple_music_url: https://music.apple.com/search?term=Univers%20Zero%20Ceux%20du%20Dehors
 youtube_url: https://www.youtube.com/results?search_query=Univers%20Zero%20Ceux%20du%20Dehors
 ---
 

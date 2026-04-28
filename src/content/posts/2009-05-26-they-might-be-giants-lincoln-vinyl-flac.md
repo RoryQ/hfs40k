@@ -6,7 +6,7 @@ title: They Might Be Giants - Lincoln (Vinyl FLAC)
 artist: They Might Be Giants
 album: Lincoln
 spotify_url: https://open.spotify.com/search/They%20Might%20Be%20Giants%20Lincoln
-apple_music_url: https://music.apple.com/us/search?term=They%20Might%20Be%20Giants%20Lincoln
+apple_music_url: https://music.apple.com/search?term=They%20Might%20Be%20Giants%20Lincoln
 youtube_url: https://www.youtube.com/results?search_query=They%20Might%20Be%20Giants%20Lincoln
 ---
 

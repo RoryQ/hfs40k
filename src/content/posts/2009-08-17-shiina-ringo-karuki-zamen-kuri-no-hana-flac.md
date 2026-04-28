@@ -6,7 +6,7 @@ title: Shiina Ringo - Karuki Zamen Kuri no Hana (FLAC)
 artist: Shiina Ringo
 album: Karuki Zamen Kuri no Hana
 spotify_url: https://open.spotify.com/search/Shiina%20Ringo%20Karuki%20Zamen%20Kuri%20no%20Hana
-apple_music_url: https://music.apple.com/us/search?term=Shiina%20Ringo%20Karuki%20Zamen%20Kuri%20no%20Hana
+apple_music_url: https://music.apple.com/search?term=Shiina%20Ringo%20Karuki%20Zamen%20Kuri%20no%20Hana
 youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Karuki%20Zamen%20Kuri%20no%20Hana
 ---
 

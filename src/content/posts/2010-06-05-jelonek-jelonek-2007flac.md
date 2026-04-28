@@ -6,7 +6,7 @@ title: Jelonek - Jelonek [2007/FLAC]
 artist: Jelonek
 album: Jelonek
 spotify_url: https://open.spotify.com/search/Jelonek%20Jelonek
-apple_music_url: https://music.apple.com/us/search?term=Jelonek%20Jelonek
+apple_music_url: https://music.apple.com/search?term=Jelonek%20Jelonek
 youtube_url: https://www.youtube.com/results?search_query=Jelonek%20Jelonek
 ---
 

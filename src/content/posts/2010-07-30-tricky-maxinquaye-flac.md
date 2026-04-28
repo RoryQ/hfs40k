@@ -6,7 +6,7 @@ title: Tricky - Maxinquaye (FLAC)
 artist: Tricky
 album: Maxinquaye
 spotify_url: https://open.spotify.com/search/Tricky%20Maxinquaye
-apple_music_url: https://music.apple.com/us/search?term=Tricky%20Maxinquaye
+apple_music_url: https://music.apple.com/search?term=Tricky%20Maxinquaye
 youtube_url: https://www.youtube.com/results?search_query=Tricky%20Maxinquaye
 ---
 

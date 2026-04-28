@@ -6,7 +6,7 @@ title: Pharoah Sanders - Black Unity (FLAC)
 artist: Pharoah Sanders
 album: Black Unity
 spotify_url: https://open.spotify.com/search/Pharoah%20Sanders%20Black%20Unity
-apple_music_url: https://music.apple.com/us/search?term=Pharoah%20Sanders%20Black%20Unity
+apple_music_url: https://music.apple.com/search?term=Pharoah%20Sanders%20Black%20Unity
 youtube_url: https://www.youtube.com/results?search_query=Pharoah%20Sanders%20Black%20Unity
 ---
 

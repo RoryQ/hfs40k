@@ -7,7 +7,7 @@ title: "B\xE9la Bart\xF3k - Piano Concertos Nos. 1-3 (Ferenc Fricsay & the Radio
 artist: "B\xE9la Bart\xF3k"
 album: Piano Concertos Nos. 1-3
 spotify_url: https://open.spotify.com/search/B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
-apple_music_url: https://music.apple.com/us/search?term=B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
+apple_music_url: https://music.apple.com/search?term=B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
 youtube_url: https://www.youtube.com/results?search_query=B%C3%A9la%20Bart%C3%B3k%20Piano%20Concertos%20Nos.%201-3
 ---
 

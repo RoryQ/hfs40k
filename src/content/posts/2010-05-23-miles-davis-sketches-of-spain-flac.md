@@ -6,7 +6,7 @@ title: Miles Davis - Sketches of Spain (FLAC)
 artist: Miles Davis
 album: Sketches of Spain
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20Sketches%20of%20Spain
-apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Sketches%20of%20Spain
+apple_music_url: https://music.apple.com/search?term=Miles%20Davis%20Sketches%20of%20Spain
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Sketches%20of%20Spain
 ---
 

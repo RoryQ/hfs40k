@@ -6,7 +6,7 @@ title: Gil Scott-Heron - Pieces Of A Man (FLAC)
 artist: Gil Scott
 album: Heron - Pieces Of A Man
 spotify_url: https://open.spotify.com/search/Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
-apple_music_url: https://music.apple.com/us/search?term=Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
+apple_music_url: https://music.apple.com/search?term=Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
 youtube_url: https://www.youtube.com/results?search_query=Gil%20Scott%20Heron%20-%20Pieces%20Of%20A%20Man
 ---
 

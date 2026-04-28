@@ -7,7 +7,7 @@ title: "Nobuo Uematsu aka \u690D\u677E\u4F38\u592B - Piano Collections: Final Fa
 artist: "Nobuo Uematsu aka \u690D\u677E\u4F38\u592B"
 album: 'Piano Collections: Final Fantasy VII'
 spotify_url: https://open.spotify.com/search/Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
-apple_music_url: https://music.apple.com/us/search?term=Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
+apple_music_url: https://music.apple.com/search?term=Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
 youtube_url: https://www.youtube.com/results?search_query=Nobuo%20Uematsu%20aka%20%E6%A4%8D%E6%9D%BE%E4%BC%B8%E5%A4%AB%20Piano%20Collections%3A%20Final%20Fantasy%20VII
 ---
 

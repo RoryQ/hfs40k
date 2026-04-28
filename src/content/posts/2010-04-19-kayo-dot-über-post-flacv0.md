@@ -6,7 +6,7 @@ title: "Kayo Dot \xDCBER-POST (FLAC/v0)"
 artist: "Kayo Dot \xDCBER"
 album: POST
 spotify_url: https://open.spotify.com/search/Kayo%20Dot%20%C3%9CBER%20POST
-apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20%C3%9CBER%20POST
+apple_music_url: https://music.apple.com/search?term=Kayo%20Dot%20%C3%9CBER%20POST
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20%C3%9CBER%20POST
 ---
 

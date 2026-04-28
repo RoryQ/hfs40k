@@ -6,7 +6,7 @@ title: Juggaknots - Re:Release
 artist: Juggaknots
 album: Re:Release
 spotify_url: https://open.spotify.com/search/Juggaknots%20Re%3ARelease
-apple_music_url: https://music.apple.com/us/search?term=Juggaknots%20Re%3ARelease
+apple_music_url: https://music.apple.com/search?term=Juggaknots%20Re%3ARelease
 youtube_url: https://www.youtube.com/results?search_query=Juggaknots%20Re%3ARelease
 ---
 

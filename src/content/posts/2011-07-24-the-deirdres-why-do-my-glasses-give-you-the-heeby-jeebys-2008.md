@@ -6,7 +6,7 @@ title: The Deirdres - Why Do My Glasses Give You the Heeby Jeebys? (2008)
 artist: The Deirdres
 album: Why Do My Glasses Give You the Heeby Jeebys?
 spotify_url: https://open.spotify.com/search/The%20Deirdres%20Why%20Do%20My%20Glasses%20Give%20You%20the%20Heeby%20Jeebys%3F
-apple_music_url: https://music.apple.com/us/search?term=The%20Deirdres%20Why%20Do%20My%20Glasses%20Give%20You%20the%20Heeby%20Jeebys%3F
+apple_music_url: https://music.apple.com/search?term=The%20Deirdres%20Why%20Do%20My%20Glasses%20Give%20You%20the%20Heeby%20Jeebys%3F
 youtube_url: https://www.youtube.com/results?search_query=The%20Deirdres%20Why%20Do%20My%20Glasses%20Give%20You%20the%20Heeby%20Jeebys%3F
 ---
 

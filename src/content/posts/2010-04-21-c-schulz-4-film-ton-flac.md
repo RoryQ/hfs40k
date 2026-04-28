@@ -6,7 +6,7 @@ title: C-Schulz - 4. Film Ton FLAC
 artist: C
 album: Schulz - 4. Film Ton FLAC
 spotify_url: https://open.spotify.com/search/C%20Schulz%20-%204.%20Film%20Ton%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=C%20Schulz%20-%204.%20Film%20Ton%20FLAC
+apple_music_url: https://music.apple.com/search?term=C%20Schulz%20-%204.%20Film%20Ton%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=C%20Schulz%20-%204.%20Film%20Ton%20FLAC
 ---
 

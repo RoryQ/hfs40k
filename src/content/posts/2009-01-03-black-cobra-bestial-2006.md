@@ -6,7 +6,7 @@ title: Black Cobra - Bestial (2006)
 artist: Black Cobra
 album: Bestial
 spotify_url: https://open.spotify.com/search/Black%20Cobra%20Bestial
-apple_music_url: https://music.apple.com/us/search?term=Black%20Cobra%20Bestial
+apple_music_url: https://music.apple.com/search?term=Black%20Cobra%20Bestial
 youtube_url: https://www.youtube.com/results?search_query=Black%20Cobra%20Bestial
 ---
 

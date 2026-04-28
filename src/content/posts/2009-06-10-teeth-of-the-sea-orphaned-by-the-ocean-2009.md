@@ -6,7 +6,7 @@ title: Teeth of the Sea - Orphaned by the Ocean (2009)
 artist: Teeth of the Sea
 album: Orphaned by the Ocean
 spotify_url: https://open.spotify.com/search/Teeth%20of%20the%20Sea%20Orphaned%20by%20the%20Ocean
-apple_music_url: https://music.apple.com/us/search?term=Teeth%20of%20the%20Sea%20Orphaned%20by%20the%20Ocean
+apple_music_url: https://music.apple.com/search?term=Teeth%20of%20the%20Sea%20Orphaned%20by%20the%20Ocean
 youtube_url: https://www.youtube.com/results?search_query=Teeth%20of%20the%20Sea%20Orphaned%20by%20the%20Ocean
 ---
 

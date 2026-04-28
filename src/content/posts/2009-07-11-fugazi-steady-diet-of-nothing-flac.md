@@ -6,7 +6,7 @@ title: Fugazi - Steady Diet of Nothing (FLAC)
 artist: Fugazi
 album: Steady Diet of Nothing
 spotify_url: https://open.spotify.com/search/Fugazi%20Steady%20Diet%20of%20Nothing
-apple_music_url: https://geo.music.apple.com/au/album/_/49249926?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/49249926
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Steady%20Diet%20of%20Nothing
 ---
 

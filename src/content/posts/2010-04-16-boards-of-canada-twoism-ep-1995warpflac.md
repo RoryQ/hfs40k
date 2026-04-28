@@ -6,7 +6,7 @@ title: Boards of Canada - Twoism EP [1995/Warp/FLAC]
 artist: Boards of Canada
 album: Twoism EP
 spotify_url: https://open.spotify.com/search/Boards%20of%20Canada%20Twoism%20EP
-apple_music_url: https://music.apple.com/us/search?term=Boards%20of%20Canada%20Twoism%20EP
+apple_music_url: https://music.apple.com/search?term=Boards%20of%20Canada%20Twoism%20EP
 youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%20Twoism%20EP
 ---
 

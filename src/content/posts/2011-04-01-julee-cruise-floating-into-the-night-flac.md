@@ -6,7 +6,7 @@ title: Julee Cruise - Floating Into the Night (FLAC)
 artist: Julee Cruise
 album: Floating Into the Night
 spotify_url: https://open.spotify.com/search/Julee%20Cruise%20Floating%20Into%20the%20Night
-apple_music_url: https://geo.music.apple.com/au/album/_/300947363?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/300947363
 youtube_url: https://www.youtube.com/results?search_query=Julee%20Cruise%20Floating%20Into%20the%20Night
 ---
 

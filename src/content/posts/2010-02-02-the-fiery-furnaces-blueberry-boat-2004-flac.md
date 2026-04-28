@@ -6,7 +6,7 @@ title: The Fiery Furnaces - Blueberry Boat (2004) [FLAC]
 artist: The Fiery Furnaces
 album: Blueberry Boat
 spotify_url: https://open.spotify.com/search/The%20Fiery%20Furnaces%20Blueberry%20Boat
-apple_music_url: https://music.apple.com/us/search?term=The%20Fiery%20Furnaces%20Blueberry%20Boat
+apple_music_url: https://music.apple.com/search?term=The%20Fiery%20Furnaces%20Blueberry%20Boat
 youtube_url: https://www.youtube.com/results?search_query=The%20Fiery%20Furnaces%20Blueberry%20Boat
 ---
 

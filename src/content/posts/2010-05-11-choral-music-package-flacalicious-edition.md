@@ -6,7 +6,7 @@ title: Choral Music Package - Flacalicious Edition
 artist: Choral Music Package
 album: Flacalicious Edition
 spotify_url: https://open.spotify.com/search/Choral%20Music%20Package%20Flacalicious%20Edition
-apple_music_url: https://music.apple.com/us/search?term=Choral%20Music%20Package%20Flacalicious%20Edition
+apple_music_url: https://music.apple.com/search?term=Choral%20Music%20Package%20Flacalicious%20Edition
 youtube_url: https://www.youtube.com/results?search_query=Choral%20Music%20Package%20Flacalicious%20Edition
 ---
 

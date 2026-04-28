@@ -6,7 +6,7 @@ title: Essue Dove - Hub City Optimists Club with Captain Carlin
 artist: Essue Dove
 album: Hub City Optimists Club with Captain Carlin
 spotify_url: https://open.spotify.com/search/Essue%20Dove%20Hub%20City%20Optimists%20Club%20with%20Captain%20Carlin
-apple_music_url: https://music.apple.com/us/search?term=Essue%20Dove%20Hub%20City%20Optimists%20Club%20with%20Captain%20Carlin
+apple_music_url: https://music.apple.com/search?term=Essue%20Dove%20Hub%20City%20Optimists%20Club%20with%20Captain%20Carlin
 youtube_url: https://www.youtube.com/results?search_query=Essue%20Dove%20Hub%20City%20Optimists%20Club%20with%20Captain%20Carlin
 ---
 

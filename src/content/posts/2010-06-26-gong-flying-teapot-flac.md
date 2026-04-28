@@ -6,7 +6,7 @@ title: Gong - Flying Teapot  (FLAC)
 artist: Gong
 album: Flying Teapot
 spotify_url: https://open.spotify.com/search/Gong%20Flying%20Teapot
-apple_music_url: https://geo.music.apple.com/au/album/_/1473136821?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1473136821
 youtube_url: https://www.youtube.com/results?search_query=Gong%20Flying%20Teapot
 ---
 

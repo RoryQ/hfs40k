@@ -6,7 +6,7 @@ title: Siah & Yeshua dapoED - The Visualz Anthology
 artist: Siah & Yeshua dapoED
 album: The Visualz Anthology
 spotify_url: https://open.spotify.com/search/Siah%20%26%20Yeshua%20dapoED%20The%20Visualz%20Anthology
-apple_music_url: https://music.apple.com/us/search?term=Siah%20%26%20Yeshua%20dapoED%20The%20Visualz%20Anthology
+apple_music_url: https://music.apple.com/search?term=Siah%20%26%20Yeshua%20dapoED%20The%20Visualz%20Anthology
 youtube_url: https://www.youtube.com/results?search_query=Siah%20%26%20Yeshua%20dapoED%20The%20Visualz%20Anthology
 ---
 

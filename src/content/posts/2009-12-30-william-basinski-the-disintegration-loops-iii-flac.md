@@ -6,7 +6,7 @@ title: William Basinski - The Disintegration Loops III (FLAC)
 artist: William Basinski
 album: The Disintegration Loops III
 spotify_url: https://open.spotify.com/search/William%20Basinski%20The%20Disintegration%20Loops%20III
-apple_music_url: https://music.apple.com/us/search?term=William%20Basinski%20The%20Disintegration%20Loops%20III
+apple_music_url: https://music.apple.com/search?term=William%20Basinski%20The%20Disintegration%20Loops%20III
 youtube_url: https://www.youtube.com/results?search_query=William%20Basinski%20The%20Disintegration%20Loops%20III
 ---
 

@@ -6,7 +6,7 @@ title: Yoshida Tatsuya and Eiko Ishibashi - Slip Beneath the Distant Tree (2007)
 artist: Yoshida Tatsuya and Eiko Ishibashi
 album: Slip Beneath the Distant Tree
 spotify_url: https://open.spotify.com/search/Yoshida%20Tatsuya%20and%20Eiko%20Ishibashi%20Slip%20Beneath%20the%20Distant%20Tree
-apple_music_url: https://music.apple.com/us/search?term=Yoshida%20Tatsuya%20and%20Eiko%20Ishibashi%20Slip%20Beneath%20the%20Distant%20Tree
+apple_music_url: https://music.apple.com/search?term=Yoshida%20Tatsuya%20and%20Eiko%20Ishibashi%20Slip%20Beneath%20the%20Distant%20Tree
 youtube_url: https://www.youtube.com/results?search_query=Yoshida%20Tatsuya%20and%20Eiko%20Ishibashi%20Slip%20Beneath%20the%20Distant%20Tree
 ---
 

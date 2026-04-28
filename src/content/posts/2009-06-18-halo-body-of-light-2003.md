@@ -6,7 +6,7 @@ title: Halo - Body of Light (2003)
 artist: Halo
 album: Body of Light
 spotify_url: https://open.spotify.com/search/Halo%20Body%20of%20Light
-apple_music_url: https://music.apple.com/us/search?term=Halo%20Body%20of%20Light
+apple_music_url: https://music.apple.com/search?term=Halo%20Body%20of%20Light
 youtube_url: https://www.youtube.com/results?search_query=Halo%20Body%20of%20Light
 ---
 

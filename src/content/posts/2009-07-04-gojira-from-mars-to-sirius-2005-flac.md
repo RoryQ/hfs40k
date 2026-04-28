@@ -6,7 +6,7 @@ title: Gojira - From Mars to Sirius (2005) [FLAC]
 artist: Gojira
 album: From Mars to Sirius
 spotify_url: https://open.spotify.com/search/Gojira%20From%20Mars%20to%20Sirius
-apple_music_url: https://music.apple.com/us/search?term=Gojira%20From%20Mars%20to%20Sirius
+apple_music_url: https://music.apple.com/search?term=Gojira%20From%20Mars%20to%20Sirius
 youtube_url: https://www.youtube.com/results?search_query=Gojira%20From%20Mars%20to%20Sirius
 ---
 

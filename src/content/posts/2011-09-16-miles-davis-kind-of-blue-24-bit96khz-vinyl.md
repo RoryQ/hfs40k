@@ -6,7 +6,7 @@ title: Miles Davis - Kind Of Blue (24-bit/96khz Vinyl)
 artist: Miles Davis
 album: Kind Of Blue
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20Kind%20Of%20Blue
-apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Kind%20Of%20Blue
+apple_music_url: https://music.apple.com/search?term=Miles%20Davis%20Kind%20Of%20Blue
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Kind%20Of%20Blue
 ---
 

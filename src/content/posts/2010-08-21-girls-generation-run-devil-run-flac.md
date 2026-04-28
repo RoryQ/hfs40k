@@ -6,7 +6,7 @@ title: Girls' Generation - Run Devil Run (FLAC)
 artist: Girls' Generation
 album: Run Devil Run
 spotify_url: https://open.spotify.com/search/Girls%27%20Generation%20Run%20Devil%20Run
-apple_music_url: https://music.apple.com/us/search?term=Girls%27%20Generation%20Run%20Devil%20Run
+apple_music_url: https://music.apple.com/search?term=Girls%27%20Generation%20Run%20Devil%20Run
 youtube_url: https://www.youtube.com/results?search_query=Girls%27%20Generation%20Run%20Devil%20Run
 ---
 

@@ -6,7 +6,7 @@ title: Boris - Dronevil Combined (2006)
 artist: Boris
 album: Dronevil Combined
 spotify_url: https://open.spotify.com/search/Boris%20Dronevil%20Combined
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Dronevil%20Combined
+apple_music_url: https://music.apple.com/search?term=Boris%20Dronevil%20Combined
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Dronevil%20Combined
 ---
 

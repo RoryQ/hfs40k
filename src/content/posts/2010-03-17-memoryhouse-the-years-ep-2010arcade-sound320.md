@@ -6,7 +6,7 @@ title: Memoryhouse - The Years EP [2010/Arcade Sound/320]
 artist: Memoryhouse
 album: The Years EP
 spotify_url: https://open.spotify.com/search/Memoryhouse%20The%20Years%20EP
-apple_music_url: https://music.apple.com/us/search?term=Memoryhouse%20The%20Years%20EP
+apple_music_url: https://music.apple.com/search?term=Memoryhouse%20The%20Years%20EP
 youtube_url: https://www.youtube.com/results?search_query=Memoryhouse%20The%20Years%20EP
 ---
 

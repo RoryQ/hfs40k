@@ -6,7 +6,7 @@ title: Amusement Parks On Fire - Out of the Angeles (2006)
 artist: Amusement Parks On Fire
 album: Out of the Angeles
 spotify_url: https://open.spotify.com/search/Amusement%20Parks%20On%20Fire%20Out%20of%20the%20Angeles
-apple_music_url: https://music.apple.com/us/search?term=Amusement%20Parks%20On%20Fire%20Out%20of%20the%20Angeles
+apple_music_url: https://music.apple.com/search?term=Amusement%20Parks%20On%20Fire%20Out%20of%20the%20Angeles
 youtube_url: https://www.youtube.com/results?search_query=Amusement%20Parks%20On%20Fire%20Out%20of%20the%20Angeles
 ---
 

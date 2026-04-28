@@ -6,7 +6,7 @@ title: Embrace - Embrace (1987)
 artist: Embrace
 album: Embrace
 spotify_url: https://open.spotify.com/search/Embrace%20Embrace
-apple_music_url: https://geo.music.apple.com/au/album/_/54533874?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/54533874
 youtube_url: https://www.youtube.com/results?search_query=Embrace%20Embrace
 ---
 

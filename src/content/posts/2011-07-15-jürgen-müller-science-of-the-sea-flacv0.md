@@ -6,7 +6,7 @@ title: "J\xFCrgen M\xFCller - Science of the Sea [FLAC/v0]"
 artist: "J\xFCrgen M\xFCller"
 album: Science of the Sea
 spotify_url: https://open.spotify.com/search/J%C3%BCrgen%20M%C3%BCller%20Science%20of%20the%20Sea
-apple_music_url: https://music.apple.com/us/search?term=J%C3%BCrgen%20M%C3%BCller%20Science%20of%20the%20Sea
+apple_music_url: https://music.apple.com/search?term=J%C3%BCrgen%20M%C3%BCller%20Science%20of%20the%20Sea
 youtube_url: https://www.youtube.com/results?search_query=J%C3%BCrgen%20M%C3%BCller%20Science%20of%20the%20Sea
 ---
 

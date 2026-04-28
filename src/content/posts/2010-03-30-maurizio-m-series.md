@@ -6,7 +6,7 @@ title: Maurizio - M-Series
 artist: Maurizio
 album: M-Series
 spotify_url: https://open.spotify.com/search/Maurizio%20M-Series
-apple_music_url: https://music.apple.com/us/search?term=Maurizio%20M-Series
+apple_music_url: https://music.apple.com/search?term=Maurizio%20M-Series
 youtube_url: https://www.youtube.com/results?search_query=Maurizio%20M-Series
 ---
 

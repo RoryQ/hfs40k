@@ -6,7 +6,7 @@ title: Sigh - Imaginary Sonicscape Remastered (2009) [FLAC]
 artist: Sigh
 album: Imaginary Sonicscape Remastered
 spotify_url: https://open.spotify.com/search/Sigh%20Imaginary%20Sonicscape%20Remastered
-apple_music_url: https://music.apple.com/us/search?term=Sigh%20Imaginary%20Sonicscape%20Remastered
+apple_music_url: https://music.apple.com/search?term=Sigh%20Imaginary%20Sonicscape%20Remastered
 youtube_url: https://www.youtube.com/results?search_query=Sigh%20Imaginary%20Sonicscape%20Remastered
 ---
 

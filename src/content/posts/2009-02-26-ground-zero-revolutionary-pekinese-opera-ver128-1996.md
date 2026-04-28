@@ -6,7 +6,7 @@ title: Ground Zero - Revolutionary Pekinese Opera Ver.1.28 (1996)
 artist: Ground Zero
 album: Revolutionary Pekinese Opera Ver.1.28
 spotify_url: https://open.spotify.com/search/Ground%20Zero%20Revolutionary%20Pekinese%20Opera%20Ver.1.28
-apple_music_url: https://music.apple.com/us/search?term=Ground%20Zero%20Revolutionary%20Pekinese%20Opera%20Ver.1.28
+apple_music_url: https://music.apple.com/search?term=Ground%20Zero%20Revolutionary%20Pekinese%20Opera%20Ver.1.28
 youtube_url: https://www.youtube.com/results?search_query=Ground%20Zero%20Revolutionary%20Pekinese%20Opera%20Ver.1.28
 ---
 

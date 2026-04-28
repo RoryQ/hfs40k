@@ -6,7 +6,7 @@ title: Ground Zero - Consume Red (FLAC)
 artist: Ground Zero
 album: Consume Red
 spotify_url: https://open.spotify.com/search/Ground%20Zero%20Consume%20Red
-apple_music_url: https://music.apple.com/us/search?term=Ground%20Zero%20Consume%20Red
+apple_music_url: https://music.apple.com/search?term=Ground%20Zero%20Consume%20Red
 youtube_url: https://www.youtube.com/results?search_query=Ground%20Zero%20Consume%20Red
 ---
 

@@ -6,7 +6,7 @@ title: DJ Shadow - Preemptive Strike
 artist: DJ Shadow
 album: Preemptive Strike
 spotify_url: https://open.spotify.com/search/DJ%20Shadow%20Preemptive%20Strike
-apple_music_url: https://music.apple.com/us/search?term=DJ%20Shadow%20Preemptive%20Strike
+apple_music_url: https://music.apple.com/search?term=DJ%20Shadow%20Preemptive%20Strike
 youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20Preemptive%20Strike
 ---
 

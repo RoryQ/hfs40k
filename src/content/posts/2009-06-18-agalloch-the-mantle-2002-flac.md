@@ -6,7 +6,7 @@ title: Agalloch - The Mantle (2002) [FLAC]
 artist: Agalloch
 album: The Mantle
 spotify_url: https://open.spotify.com/search/Agalloch%20The%20Mantle
-apple_music_url: https://music.apple.com/us/search?term=Agalloch%20The%20Mantle
+apple_music_url: https://music.apple.com/search?term=Agalloch%20The%20Mantle
 youtube_url: https://www.youtube.com/results?search_query=Agalloch%20The%20Mantle
 ---
 

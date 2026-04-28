@@ -6,7 +6,7 @@ title: NoMeansNo - Why Do They Call Me Mr. Happy? [FLAC]
 artist: NoMeansNo
 album: Why Do They Call Me Mr. Happy?
 spotify_url: https://open.spotify.com/search/NoMeansNo%20Why%20Do%20They%20Call%20Me%20Mr.%20Happy%3F
-apple_music_url: https://music.apple.com/us/search?term=NoMeansNo%20Why%20Do%20They%20Call%20Me%20Mr.%20Happy%3F
+apple_music_url: https://music.apple.com/search?term=NoMeansNo%20Why%20Do%20They%20Call%20Me%20Mr.%20Happy%3F
 youtube_url: https://www.youtube.com/results?search_query=NoMeansNo%20Why%20Do%20They%20Call%20Me%20Mr.%20Happy%3F
 ---
 

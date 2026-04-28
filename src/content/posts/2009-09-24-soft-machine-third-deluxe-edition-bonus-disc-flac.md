@@ -6,7 +6,7 @@ title: Soft Machine - Third (Deluxe Edition Bonus Disc) [FLAC]
 artist: Soft Machine
 album: Third
 spotify_url: https://open.spotify.com/search/Soft%20Machine%20Third
-apple_music_url: https://music.apple.com/us/search?term=Soft%20Machine%20Third
+apple_music_url: https://music.apple.com/search?term=Soft%20Machine%20Third
 youtube_url: https://www.youtube.com/results?search_query=Soft%20Machine%20Third
 ---
 

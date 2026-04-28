@@ -6,7 +6,7 @@ title: Joy Division - Closer (24-bit/96khz Vinyl)
 artist: Joy Division
 album: Closer
 spotify_url: https://open.spotify.com/search/Joy%20Division%20Closer
-apple_music_url: https://music.apple.com/us/search?term=Joy%20Division%20Closer
+apple_music_url: https://music.apple.com/search?term=Joy%20Division%20Closer
 youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Closer
 ---
 

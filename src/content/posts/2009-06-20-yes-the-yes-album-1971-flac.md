@@ -6,7 +6,7 @@ title: Yes - The Yes Album (1971) [FLAC]
 artist: 'Yes'
 album: The Yes Album
 spotify_url: https://open.spotify.com/search/Yes%20The%20Yes%20Album
-apple_music_url: https://geo.music.apple.com/au/album/_/1709539500?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1709539500
 youtube_url: https://www.youtube.com/results?search_query=Yes%20The%20Yes%20Album
 ---
 

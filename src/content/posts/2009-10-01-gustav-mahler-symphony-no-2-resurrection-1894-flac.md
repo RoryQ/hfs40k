@@ -6,7 +6,7 @@ title: Gustav Mahler - Symphony No. 2 'Resurrection' (1894) [FLAC]
 artist: Gustav Mahler
 album: Symphony No. 2 'Resurrection'
 spotify_url: https://open.spotify.com/search/Gustav%20Mahler%20Symphony%20No.%202%20%27Resurrection%27
-apple_music_url: https://music.apple.com/us/search?term=Gustav%20Mahler%20Symphony%20No.%202%20%27Resurrection%27
+apple_music_url: https://music.apple.com/search?term=Gustav%20Mahler%20Symphony%20No.%202%20%27Resurrection%27
 youtube_url: https://www.youtube.com/results?search_query=Gustav%20Mahler%20Symphony%20No.%202%20%27Resurrection%27
 ---
 

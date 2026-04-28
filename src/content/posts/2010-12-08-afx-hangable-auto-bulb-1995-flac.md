@@ -6,7 +6,7 @@ title: AFX - Hangable Auto Bulb (1995, FLAC)
 artist: AFX
 album: Hangable Auto Bulb
 spotify_url: https://open.spotify.com/search/AFX%20Hangable%20Auto%20Bulb
-apple_music_url: https://music.apple.com/us/search?term=AFX%20Hangable%20Auto%20Bulb
+apple_music_url: https://music.apple.com/search?term=AFX%20Hangable%20Auto%20Bulb
 youtube_url: https://www.youtube.com/results?search_query=AFX%20Hangable%20Auto%20Bulb
 ---
 

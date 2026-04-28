@@ -6,7 +6,7 @@ title: Roy Harper - Stormcock (2007 Remaster) (FLAC)
 artist: Roy Harper
 album: Stormcock
 spotify_url: https://open.spotify.com/search/Roy%20Harper%20Stormcock
-apple_music_url: https://geo.music.apple.com/au/album/_/667758082?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/667758082
 youtube_url: https://www.youtube.com/results?search_query=Roy%20Harper%20Stormcock
 ---
 

@@ -6,7 +6,7 @@ title: Rabih Abou-Khalil - Blue Camel
 artist: Rabih Abou
 album: Khalil - Blue Camel
 spotify_url: https://open.spotify.com/search/Rabih%20Abou%20Khalil%20-%20Blue%20Camel
-apple_music_url: https://music.apple.com/us/search?term=Rabih%20Abou%20Khalil%20-%20Blue%20Camel
+apple_music_url: https://music.apple.com/search?term=Rabih%20Abou%20Khalil%20-%20Blue%20Camel
 youtube_url: https://www.youtube.com/results?search_query=Rabih%20Abou%20Khalil%20-%20Blue%20Camel
 ---
 

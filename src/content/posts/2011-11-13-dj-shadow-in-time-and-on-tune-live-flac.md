@@ -6,7 +6,7 @@ title: DJ Shadow - In Time and On Tune Live (FLAC)
 artist: DJ Shadow
 album: In Time and On Tune Live
 spotify_url: https://open.spotify.com/search/DJ%20Shadow%20In%20Time%20and%20On%20Tune%20Live
-apple_music_url: https://geo.music.apple.com/au/album/_/1660501933?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1660501933
 youtube_url: https://www.youtube.com/results?search_query=DJ%20Shadow%20In%20Time%20and%20On%20Tune%20Live
 ---
 

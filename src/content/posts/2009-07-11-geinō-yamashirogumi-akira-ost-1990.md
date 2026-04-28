@@ -6,7 +6,7 @@ title: "Gein\u014D Yamashirogumi - Akira OST (1990)"
 artist: "Gein\u014D Yamashirogumi"
 album: Akira OST
 spotify_url: https://open.spotify.com/search/Gein%C5%8D%20Yamashirogumi%20Akira%20OST
-apple_music_url: https://music.apple.com/us/search?term=Gein%C5%8D%20Yamashirogumi%20Akira%20OST
+apple_music_url: https://music.apple.com/search?term=Gein%C5%8D%20Yamashirogumi%20Akira%20OST
 youtube_url: https://www.youtube.com/results?search_query=Gein%C5%8D%20Yamashirogumi%20Akira%20OST
 ---
 

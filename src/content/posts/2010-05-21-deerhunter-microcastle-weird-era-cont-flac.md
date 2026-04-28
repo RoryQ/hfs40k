@@ -6,7 +6,7 @@ title: Deerhunter - Microcastle & Weird Era Cont. (FLAC)
 artist: Deerhunter
 album: Microcastle & Weird Era Cont.
 spotify_url: https://open.spotify.com/search/Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
-apple_music_url: https://music.apple.com/us/search?term=Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
+apple_music_url: https://music.apple.com/search?term=Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
 youtube_url: https://www.youtube.com/results?search_query=Deerhunter%20Microcastle%20%26%20Weird%20Era%20Cont.
 ---
 

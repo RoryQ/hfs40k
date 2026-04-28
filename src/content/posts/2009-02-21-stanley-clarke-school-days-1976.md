@@ -6,7 +6,7 @@ title: Stanley Clarke - School Days (1976)
 artist: Stanley Clarke
 album: School Days
 spotify_url: https://open.spotify.com/search/Stanley%20Clarke%20School%20Days
-apple_music_url: https://music.apple.com/us/search?term=Stanley%20Clarke%20School%20Days
+apple_music_url: https://music.apple.com/search?term=Stanley%20Clarke%20School%20Days
 youtube_url: https://www.youtube.com/results?search_query=Stanley%20Clarke%20School%20Days
 ---
 

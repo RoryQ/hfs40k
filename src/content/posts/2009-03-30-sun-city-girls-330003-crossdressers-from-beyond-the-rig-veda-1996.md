@@ -6,7 +6,7 @@ title: Sun City Girls - 330,003 Crossdressers From Beyond The Rig Veda (1996)
 artist: Sun City Girls
 album: 330,003 Crossdressers From Beyond The Rig Veda
 spotify_url: https://open.spotify.com/search/Sun%20City%20Girls%20330%2C003%20Crossdressers%20From%20Beyond%20The%20Rig%20Veda
-apple_music_url: https://music.apple.com/us/search?term=Sun%20City%20Girls%20330%2C003%20Crossdressers%20From%20Beyond%20The%20Rig%20Veda
+apple_music_url: https://music.apple.com/search?term=Sun%20City%20Girls%20330%2C003%20Crossdressers%20From%20Beyond%20The%20Rig%20Veda
 youtube_url: https://www.youtube.com/results?search_query=Sun%20City%20Girls%20330%2C003%20Crossdressers%20From%20Beyond%20The%20Rig%20Veda
 ---
 

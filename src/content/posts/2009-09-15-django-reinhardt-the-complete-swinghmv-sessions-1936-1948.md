@@ -6,7 +6,7 @@ title: Django Reinhardt - The Complete Swing/HMV Sessions 1936-1948
 artist: Django Reinhardt
 album: The Complete Swing/HMV Sessions 1936-1948
 spotify_url: https://open.spotify.com/search/Django%20Reinhardt%20The%20Complete%20Swing/HMV%20Sessions%201936-1948
-apple_music_url: https://music.apple.com/us/search?term=Django%20Reinhardt%20The%20Complete%20Swing/HMV%20Sessions%201936-1948
+apple_music_url: https://music.apple.com/search?term=Django%20Reinhardt%20The%20Complete%20Swing/HMV%20Sessions%201936-1948
 youtube_url: https://www.youtube.com/results?search_query=Django%20Reinhardt%20The%20Complete%20Swing/HMV%20Sessions%201936-1948
 ---
 

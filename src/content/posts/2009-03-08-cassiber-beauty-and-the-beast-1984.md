@@ -6,7 +6,7 @@ title: Cassiber - Beauty and the Beast (1984)
 artist: Cassiber
 album: Beauty and the Beast
 spotify_url: https://open.spotify.com/search/Cassiber%20Beauty%20and%20the%20Beast
-apple_music_url: https://music.apple.com/us/search?term=Cassiber%20Beauty%20and%20the%20Beast
+apple_music_url: https://music.apple.com/search?term=Cassiber%20Beauty%20and%20the%20Beast
 youtube_url: https://www.youtube.com/results?search_query=Cassiber%20Beauty%20and%20the%20Beast
 ---
 

@@ -6,7 +6,7 @@ title: Boards of Canada - Boc Maxima (320)
 artist: Boards of Canada
 album: Boc Maxima
 spotify_url: https://open.spotify.com/search/Boards%20of%20Canada%20Boc%20Maxima
-apple_music_url: https://music.apple.com/us/search?term=Boards%20of%20Canada%20Boc%20Maxima
+apple_music_url: https://music.apple.com/search?term=Boards%20of%20Canada%20Boc%20Maxima
 youtube_url: https://www.youtube.com/results?search_query=Boards%20of%20Canada%20Boc%20Maxima
 ---
 

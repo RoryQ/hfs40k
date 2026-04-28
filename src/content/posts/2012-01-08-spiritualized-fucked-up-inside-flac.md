@@ -6,7 +6,7 @@ title: Spiritualized- Fucked Up Inside (FLAC)
 artist: Spiritualized
 album: Fucked Up Inside
 spotify_url: https://open.spotify.com/search/Spiritualized%20Fucked%20Up%20Inside
-apple_music_url: https://music.apple.com/us/search?term=Spiritualized%20Fucked%20Up%20Inside
+apple_music_url: https://music.apple.com/search?term=Spiritualized%20Fucked%20Up%20Inside
 youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Fucked%20Up%20Inside
 ---
 

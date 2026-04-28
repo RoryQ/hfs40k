@@ -6,7 +6,7 @@ title: Hammock - Kenotic (2005, FLAC)
 artist: Hammock
 album: Kenotic
 spotify_url: https://open.spotify.com/search/Hammock%20Kenotic
-apple_music_url: https://geo.music.apple.com/au/album/_/1577258642?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1577258642
 youtube_url: https://www.youtube.com/results?search_query=Hammock%20Kenotic
 ---
 

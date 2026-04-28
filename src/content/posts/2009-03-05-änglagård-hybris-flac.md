@@ -6,7 +6,7 @@ title: "\xC4nglag\xE5rd - Hybris (FLAC)"
 artist: "\xC4nglag\xE5rd"
 album: Hybris
 spotify_url: https://open.spotify.com/search/%C3%84nglag%C3%A5rd%20Hybris
-apple_music_url: https://music.apple.com/us/search?term=%C3%84nglag%C3%A5rd%20Hybris
+apple_music_url: https://music.apple.com/search?term=%C3%84nglag%C3%A5rd%20Hybris
 youtube_url: https://www.youtube.com/results?search_query=%C3%84nglag%C3%A5rd%20Hybris
 ---
 

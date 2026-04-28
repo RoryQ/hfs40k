@@ -7,7 +7,7 @@ title: Avey Tare and Panda Bear - Spirit They're Gone, Spirit They've Vanished (
 artist: Avey Tare and Panda Bear
 album: Spirit They're Gone, Spirit They've Vanished
 spotify_url: https://open.spotify.com/search/Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
-apple_music_url: https://music.apple.com/us/search?term=Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
+apple_music_url: https://music.apple.com/search?term=Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
 youtube_url: https://www.youtube.com/results?search_query=Avey%20Tare%20and%20Panda%20Bear%20Spirit%20They%27re%20Gone%2C%20Spirit%20They%27ve%20Vanished
 ---
 

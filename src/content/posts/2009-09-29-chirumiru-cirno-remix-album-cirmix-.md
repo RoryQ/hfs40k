@@ -6,7 +6,7 @@ title: Chirumiru Cirno Remix Album -cirmix!-
 artist: Chirumiru Cirno Remix Album
 album: cirmix!-
 spotify_url: https://open.spotify.com/search/Chirumiru%20Cirno%20Remix%20Album%20cirmix%21-
-apple_music_url: https://music.apple.com/us/search?term=Chirumiru%20Cirno%20Remix%20Album%20cirmix%21-
+apple_music_url: https://music.apple.com/search?term=Chirumiru%20Cirno%20Remix%20Album%20cirmix%21-
 youtube_url: https://www.youtube.com/results?search_query=Chirumiru%20Cirno%20Remix%20Album%20cirmix%21-
 ---
 

@@ -6,7 +6,7 @@ title: King Crimson - Starless and Bible Black (1974) [FLAC]
 artist: King Crimson
 album: Starless and Bible Black
 spotify_url: https://open.spotify.com/search/King%20Crimson%20Starless%20and%20Bible%20Black
-apple_music_url: https://music.apple.com/us/search?term=King%20Crimson%20Starless%20and%20Bible%20Black
+apple_music_url: https://music.apple.com/search?term=King%20Crimson%20Starless%20and%20Bible%20Black
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20Starless%20and%20Bible%20Black
 ---
 

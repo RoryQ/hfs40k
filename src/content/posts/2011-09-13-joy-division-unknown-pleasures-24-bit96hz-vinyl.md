@@ -6,7 +6,7 @@ title: Joy Division - Unknown Pleasures (24-bit/96hz Vinyl)
 artist: Joy Division
 album: Unknown Pleasures
 spotify_url: https://open.spotify.com/search/Joy%20Division%20Unknown%20Pleasures
-apple_music_url: https://music.apple.com/us/search?term=Joy%20Division%20Unknown%20Pleasures
+apple_music_url: https://music.apple.com/search?term=Joy%20Division%20Unknown%20Pleasures
 youtube_url: https://www.youtube.com/results?search_query=Joy%20Division%20Unknown%20Pleasures
 ---
 

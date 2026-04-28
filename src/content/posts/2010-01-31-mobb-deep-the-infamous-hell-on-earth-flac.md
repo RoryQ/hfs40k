@@ -6,7 +6,7 @@ title: Mobb Deep - The Infamous & Hell on Earth (FLAC)
 artist: Mobb Deep
 album: The Infamous & Hell on Earth
 spotify_url: https://open.spotify.com/search/Mobb%20Deep%20The%20Infamous%20%26%20Hell%20on%20Earth
-apple_music_url: https://geo.music.apple.com/au/album/_/967522365?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/967522365
 youtube_url: https://www.youtube.com/results?search_query=Mobb%20Deep%20The%20Infamous%20%26%20Hell%20on%20Earth
 ---
 

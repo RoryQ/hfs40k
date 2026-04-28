@@ -7,7 +7,7 @@ title: Stretchheads - Five Finger, Four Thingers, a Thumb, a Facelift and a New 
 artist: Stretchheads
 album: Five Finger, Four Thingers, a Thumb, a Facelift and a New Identity
 spotify_url: https://open.spotify.com/search/Stretchheads%20Five%20Finger%2C%20Four%20Thingers%2C%20a%20Thumb%2C%20a%20Facelift%20and%20a%20New%20Identity
-apple_music_url: https://music.apple.com/us/search?term=Stretchheads%20Five%20Finger%2C%20Four%20Thingers%2C%20a%20Thumb%2C%20a%20Facelift%20and%20a%20New%20Identity
+apple_music_url: https://music.apple.com/search?term=Stretchheads%20Five%20Finger%2C%20Four%20Thingers%2C%20a%20Thumb%2C%20a%20Facelift%20and%20a%20New%20Identity
 youtube_url: https://www.youtube.com/results?search_query=Stretchheads%20Five%20Finger%2C%20Four%20Thingers%2C%20a%20Thumb%2C%20a%20Facelift%20and%20a%20New%20Identity
 ---
 

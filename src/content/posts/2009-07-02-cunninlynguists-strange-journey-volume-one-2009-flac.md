@@ -6,7 +6,7 @@ title: CunninLynguists - Strange Journey Volume One (2009) [FLAC]
 artist: CunninLynguists
 album: Strange Journey Volume One
 spotify_url: https://open.spotify.com/search/CunninLynguists%20Strange%20Journey%20Volume%20One
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20Strange%20Journey%20Volume%20One
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20Strange%20Journey%20Volume%20One
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20Strange%20Journey%20Volume%20One
 ---
 

@@ -6,7 +6,7 @@ title: Senz Of Depth - Boundary Waters (2008)
 artist: Senz Of Depth
 album: Boundary Waters
 spotify_url: https://open.spotify.com/search/Senz%20Of%20Depth%20Boundary%20Waters
-apple_music_url: https://music.apple.com/us/search?term=Senz%20Of%20Depth%20Boundary%20Waters
+apple_music_url: https://music.apple.com/search?term=Senz%20Of%20Depth%20Boundary%20Waters
 youtube_url: https://www.youtube.com/results?search_query=Senz%20Of%20Depth%20Boundary%20Waters
 ---
 

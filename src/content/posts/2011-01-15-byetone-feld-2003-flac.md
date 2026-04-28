@@ -6,7 +6,7 @@ title: Byetone - Feld (2003, FLAC)
 artist: Byetone
 album: Feld
 spotify_url: https://open.spotify.com/search/Byetone%20Feld
-apple_music_url: https://music.apple.com/us/search?term=Byetone%20Feld
+apple_music_url: https://music.apple.com/search?term=Byetone%20Feld
 youtube_url: https://www.youtube.com/results?search_query=Byetone%20Feld
 ---
 

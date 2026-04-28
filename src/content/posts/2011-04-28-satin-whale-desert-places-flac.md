@@ -6,7 +6,7 @@ title: Satin Whale - Desert Places (FLAC)
 artist: Satin Whale
 album: Desert Places
 spotify_url: https://open.spotify.com/search/Satin%20Whale%20Desert%20Places
-apple_music_url: https://geo.music.apple.com/au/album/_/1711087922?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1711087922
 youtube_url: https://www.youtube.com/results?search_query=Satin%20Whale%20Desert%20Places
 ---
 

@@ -6,7 +6,7 @@ title: Inger Marie - My Heart Would Have a Reason [320/flac]
 artist: Inger Marie
 album: My Heart Would Have a Reason
 spotify_url: https://open.spotify.com/search/Inger%20Marie%20My%20Heart%20Would%20Have%20a%20Reason
-apple_music_url: https://music.apple.com/us/search?term=Inger%20Marie%20My%20Heart%20Would%20Have%20a%20Reason
+apple_music_url: https://music.apple.com/search?term=Inger%20Marie%20My%20Heart%20Would%20Have%20a%20Reason
 youtube_url: https://www.youtube.com/results?search_query=Inger%20Marie%20My%20Heart%20Would%20Have%20a%20Reason
 ---
 

@@ -6,7 +6,7 @@ title: Isaac Hayes - Hot Buttered Soul (2009 Remaster FLAC)
 artist: Isaac Hayes
 album: Hot Buttered Soul
 spotify_url: https://open.spotify.com/search/Isaac%20Hayes%20Hot%20Buttered%20Soul
-apple_music_url: https://music.apple.com/us/search?term=Isaac%20Hayes%20Hot%20Buttered%20Soul
+apple_music_url: https://music.apple.com/search?term=Isaac%20Hayes%20Hot%20Buttered%20Soul
 youtube_url: https://www.youtube.com/results?search_query=Isaac%20Hayes%20Hot%20Buttered%20Soul
 ---
 

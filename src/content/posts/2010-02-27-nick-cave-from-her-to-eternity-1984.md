@@ -6,7 +6,7 @@ title: Nick Cave - From Her to Eternity (1984)
 artist: Nick Cave
 album: From Her to Eternity
 spotify_url: https://open.spotify.com/search/Nick%20Cave%20From%20Her%20to%20Eternity
-apple_music_url: https://music.apple.com/us/search?term=Nick%20Cave%20From%20Her%20to%20Eternity
+apple_music_url: https://music.apple.com/search?term=Nick%20Cave%20From%20Her%20to%20Eternity
 youtube_url: https://www.youtube.com/results?search_query=Nick%20Cave%20From%20Her%20to%20Eternity
 ---
 

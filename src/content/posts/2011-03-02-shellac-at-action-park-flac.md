@@ -6,7 +6,7 @@ title: Shellac - At Action Park (FLAC)
 artist: Shellac
 album: At Action Park
 spotify_url: https://open.spotify.com/search/Shellac%20At%20Action%20Park
-apple_music_url: https://music.apple.com/us/search?term=Shellac%20At%20Action%20Park
+apple_music_url: https://music.apple.com/search?term=Shellac%20At%20Action%20Park
 youtube_url: https://www.youtube.com/results?search_query=Shellac%20At%20Action%20Park
 ---
 

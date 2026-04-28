@@ -6,7 +6,7 @@ title: Tortoise - TNT
 artist: Tortoise
 album: TNT
 spotify_url: https://open.spotify.com/search/Tortoise%20TNT
-apple_music_url: https://music.apple.com/us/search?term=Tortoise%20TNT
+apple_music_url: https://music.apple.com/search?term=Tortoise%20TNT
 youtube_url: https://www.youtube.com/results?search_query=Tortoise%20TNT
 ---
 

@@ -6,7 +6,7 @@ title: Flying Locust - Cosmorgasmia FLAC
 artist: Flying Locust
 album: Cosmorgasmia FLAC
 spotify_url: https://open.spotify.com/search/Flying%20Locust%20Cosmorgasmia%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Flying%20Locust%20Cosmorgasmia%20FLAC
+apple_music_url: https://music.apple.com/search?term=Flying%20Locust%20Cosmorgasmia%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Flying%20Locust%20Cosmorgasmia%20FLAC
 ---
 

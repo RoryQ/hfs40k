@@ -6,7 +6,7 @@ title: Far Out - Nihonjin (v0)
 artist: Far Out
 album: Nihonjin
 spotify_url: https://open.spotify.com/search/Far%20Out%20Nihonjin
-apple_music_url: https://music.apple.com/us/search?term=Far%20Out%20Nihonjin
+apple_music_url: https://music.apple.com/search?term=Far%20Out%20Nihonjin
 youtube_url: https://www.youtube.com/results?search_query=Far%20Out%20Nihonjin
 ---
 

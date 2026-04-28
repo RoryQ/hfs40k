@@ -6,7 +6,7 @@ title: Grizzly Bear - Yellow House [FLAC]
 artist: Grizzly Bear
 album: Yellow House
 spotify_url: https://open.spotify.com/search/Grizzly%20Bear%20Yellow%20House
-apple_music_url: https://music.apple.com/us/search?term=Grizzly%20Bear%20Yellow%20House
+apple_music_url: https://music.apple.com/search?term=Grizzly%20Bear%20Yellow%20House
 youtube_url: https://www.youtube.com/results?search_query=Grizzly%20Bear%20Yellow%20House
 ---
 

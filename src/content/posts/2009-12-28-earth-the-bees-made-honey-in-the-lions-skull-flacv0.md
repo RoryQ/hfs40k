@@ -6,7 +6,7 @@ title: Earth - The Bees Made Honey In the Lion's Skull (FLAC/v0)
 artist: Earth
 album: The Bees Made Honey In the Lion's Skull
 spotify_url: https://open.spotify.com/search/Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
-apple_music_url: https://music.apple.com/us/search?term=Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
+apple_music_url: https://music.apple.com/search?term=Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
 youtube_url: https://www.youtube.com/results?search_query=Earth%20The%20Bees%20Made%20Honey%20In%20the%20Lion%27s%20Skull
 ---
 

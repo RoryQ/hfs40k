@@ -6,7 +6,7 @@ title: "S\xF6dra Bergens Balalaikor - S\xF6dra Bergens Balalaikor"
 artist: "S\xF6dra Bergens Balalaikor"
 album: "S\xF6dra Bergens Balalaikor"
 spotify_url: https://open.spotify.com/search/S%C3%B6dra%20Bergens%20Balalaikor%20S%C3%B6dra%20Bergens%20Balalaikor
-apple_music_url: https://music.apple.com/us/search?term=S%C3%B6dra%20Bergens%20Balalaikor%20S%C3%B6dra%20Bergens%20Balalaikor
+apple_music_url: https://music.apple.com/search?term=S%C3%B6dra%20Bergens%20Balalaikor%20S%C3%B6dra%20Bergens%20Balalaikor
 youtube_url: https://www.youtube.com/results?search_query=S%C3%B6dra%20Bergens%20Balalaikor%20S%C3%B6dra%20Bergens%20Balalaikor
 ---
 

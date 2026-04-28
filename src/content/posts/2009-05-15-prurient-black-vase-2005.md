@@ -6,7 +6,7 @@ title: Prurient - Black Vase (2005)
 artist: Prurient
 album: Black Vase
 spotify_url: https://open.spotify.com/search/Prurient%20Black%20Vase
-apple_music_url: https://music.apple.com/us/search?term=Prurient%20Black%20Vase
+apple_music_url: https://music.apple.com/search?term=Prurient%20Black%20Vase
 youtube_url: https://www.youtube.com/results?search_query=Prurient%20Black%20Vase
 ---
 

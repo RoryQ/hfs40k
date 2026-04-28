@@ -6,7 +6,7 @@ title: Vangelis - Blade Runner (1994) [FLAC]
 artist: Vangelis
 album: Blade Runner
 spotify_url: https://open.spotify.com/search/Vangelis%20Blade%20Runner
-apple_music_url: https://geo.music.apple.com/au/album/_/73327394?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/73327394
 youtube_url: https://www.youtube.com/results?search_query=Vangelis%20Blade%20Runner
 ---
 

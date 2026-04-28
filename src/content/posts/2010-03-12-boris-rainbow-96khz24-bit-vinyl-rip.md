@@ -6,7 +6,7 @@ title: Boris - Rainbow (96khz/24-bit Vinyl Rip)
 artist: Boris
 album: Rainbow
 spotify_url: https://open.spotify.com/search/Boris%20Rainbow
-apple_music_url: https://music.apple.com/us/search?term=Boris%20Rainbow
+apple_music_url: https://music.apple.com/search?term=Boris%20Rainbow
 youtube_url: https://www.youtube.com/results?search_query=Boris%20Rainbow
 ---
 

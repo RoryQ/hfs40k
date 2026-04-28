@@ -6,7 +6,7 @@ title: "Harmonium - Si On Avait Besoin D'une Cinquie\u0300me Saison (1975) [FLAC
 artist: Harmonium
 album: "Si On Avait Besoin D'une Cinquie\u0300me Saison"
 spotify_url: https://open.spotify.com/search/Harmonium%20Si%20On%20Avait%20Besoin%20D%27une%20Cinquie%CC%80me%20Saison
-apple_music_url: https://music.apple.com/us/search?term=Harmonium%20Si%20On%20Avait%20Besoin%20D%27une%20Cinquie%CC%80me%20Saison
+apple_music_url: https://music.apple.com/search?term=Harmonium%20Si%20On%20Avait%20Besoin%20D%27une%20Cinquie%CC%80me%20Saison
 youtube_url: https://www.youtube.com/results?search_query=Harmonium%20Si%20On%20Avait%20Besoin%20D%27une%20Cinquie%CC%80me%20Saison
 ---
 

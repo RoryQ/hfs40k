@@ -6,7 +6,7 @@ title: Tool - Lateralus (Vinyl 24bit 96kHz)
 artist: Tool
 album: Lateralus
 spotify_url: https://open.spotify.com/search/Tool%20Lateralus
-apple_music_url: https://music.apple.com/us/search?term=Tool%20Lateralus
+apple_music_url: https://music.apple.com/search?term=Tool%20Lateralus
 youtube_url: https://www.youtube.com/results?search_query=Tool%20Lateralus
 ---
 

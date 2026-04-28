@@ -6,7 +6,7 @@ title: Ben Frost - By The Throat FLAC
 artist: Ben Frost
 album: By The Throat FLAC
 spotify_url: https://open.spotify.com/search/Ben%20Frost%20By%20The%20Throat%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Ben%20Frost%20By%20The%20Throat%20FLAC
+apple_music_url: https://music.apple.com/search?term=Ben%20Frost%20By%20The%20Throat%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Ben%20Frost%20By%20The%20Throat%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: Alice In Chains - Jar Of Flies (FLAC)
 artist: Alice In Chains
 album: Jar Of Flies
 spotify_url: https://open.spotify.com/search/Alice%20In%20Chains%20Jar%20Of%20Flies
-apple_music_url: https://music.apple.com/us/search?term=Alice%20In%20Chains%20Jar%20Of%20Flies
+apple_music_url: https://music.apple.com/search?term=Alice%20In%20Chains%20Jar%20Of%20Flies
 youtube_url: https://www.youtube.com/results?search_query=Alice%20In%20Chains%20Jar%20Of%20Flies
 ---
 

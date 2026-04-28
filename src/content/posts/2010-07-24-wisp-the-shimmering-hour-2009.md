@@ -6,7 +6,7 @@ title: Wisp - The Shimmering Hour (2009)
 artist: Wisp
 album: The Shimmering Hour
 spotify_url: https://open.spotify.com/search/Wisp%20The%20Shimmering%20Hour
-apple_music_url: https://music.apple.com/us/search?term=Wisp%20The%20Shimmering%20Hour
+apple_music_url: https://music.apple.com/search?term=Wisp%20The%20Shimmering%20Hour
 youtube_url: https://www.youtube.com/results?search_query=Wisp%20The%20Shimmering%20Hour
 ---
 

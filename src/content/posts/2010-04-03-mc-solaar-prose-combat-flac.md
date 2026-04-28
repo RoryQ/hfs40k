@@ -6,7 +6,7 @@ title: MC Solaar - Prose Combat (FLAC)
 artist: MC Solaar
 album: Prose Combat
 spotify_url: https://open.spotify.com/search/MC%20Solaar%20Prose%20Combat
-apple_music_url: https://music.apple.com/us/search?term=MC%20Solaar%20Prose%20Combat
+apple_music_url: https://music.apple.com/search?term=MC%20Solaar%20Prose%20Combat
 youtube_url: https://www.youtube.com/results?search_query=MC%20Solaar%20Prose%20Combat
 ---
 

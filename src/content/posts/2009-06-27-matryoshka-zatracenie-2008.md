@@ -6,7 +6,7 @@ title: Matryoshka - Zatracenie (2008)
 artist: Matryoshka
 album: Zatracenie
 spotify_url: https://open.spotify.com/search/Matryoshka%20Zatracenie
-apple_music_url: https://music.apple.com/us/search?term=Matryoshka%20Zatracenie
+apple_music_url: https://music.apple.com/search?term=Matryoshka%20Zatracenie
 youtube_url: https://www.youtube.com/results?search_query=Matryoshka%20Zatracenie
 ---
 

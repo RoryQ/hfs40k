@@ -6,7 +6,7 @@ title: Aphex Twin - Classics (FLAC)
 artist: Aphex Twin
 album: Classics
 spotify_url: https://open.spotify.com/search/Aphex%20Twin%20Classics
-apple_music_url: https://music.apple.com/us/search?term=Aphex%20Twin%20Classics
+apple_music_url: https://music.apple.com/search?term=Aphex%20Twin%20Classics
 youtube_url: https://www.youtube.com/results?search_query=Aphex%20Twin%20Classics
 ---
 

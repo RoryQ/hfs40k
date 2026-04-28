@@ -6,7 +6,7 @@ title: Dead Can Dance - Spleen and Ideal (FLAC)
 artist: Dead Can Dance
 album: Spleen and Ideal
 spotify_url: https://open.spotify.com/search/Dead%20Can%20Dance%20Spleen%20and%20Ideal
-apple_music_url: https://music.apple.com/us/search?term=Dead%20Can%20Dance%20Spleen%20and%20Ideal
+apple_music_url: https://music.apple.com/search?term=Dead%20Can%20Dance%20Spleen%20and%20Ideal
 youtube_url: https://www.youtube.com/results?search_query=Dead%20Can%20Dance%20Spleen%20and%20Ideal
 ---
 

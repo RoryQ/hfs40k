@@ -6,7 +6,7 @@ title: Glenn Branca - Symphony No. 5 & No. 6  (FLAC)
 artist: Glenn Branca
 album: Symphony No. 5 & No. 6
 spotify_url: https://open.spotify.com/search/Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
-apple_music_url: https://music.apple.com/us/search?term=Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
+apple_music_url: https://music.apple.com/search?term=Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
 youtube_url: https://www.youtube.com/results?search_query=Glenn%20Branca%20Symphony%20No.%205%20%26%20No.%206
 ---
 

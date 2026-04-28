@@ -6,7 +6,7 @@ title: Broken Social Scene - To Be You And Me (FLAC)
 artist: Broken Social Scene
 album: To Be You And Me
 spotify_url: https://open.spotify.com/search/Broken%20Social%20Scene%20To%20Be%20You%20And%20Me
-apple_music_url: https://music.apple.com/us/search?term=Broken%20Social%20Scene%20To%20Be%20You%20And%20Me
+apple_music_url: https://music.apple.com/search?term=Broken%20Social%20Scene%20To%20Be%20You%20And%20Me
 youtube_url: https://www.youtube.com/results?search_query=Broken%20Social%20Scene%20To%20Be%20You%20And%20Me
 ---
 

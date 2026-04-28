@@ -6,7 +6,7 @@ title: Maneige - Les Porches (1975) [FLAC]
 artist: Maneige
 album: Les Porches
 spotify_url: https://open.spotify.com/search/Maneige%20Les%20Porches
-apple_music_url: https://music.apple.com/us/search?term=Maneige%20Les%20Porches
+apple_music_url: https://music.apple.com/search?term=Maneige%20Les%20Porches
 youtube_url: https://www.youtube.com/results?search_query=Maneige%20Les%20Porches
 ---
 

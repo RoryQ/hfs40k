@@ -6,7 +6,7 @@ title: Spiritualized - Lazer Guided Melodies (FLAC)
 artist: Spiritualized
 album: Lazer Guided Melodies
 spotify_url: https://open.spotify.com/search/Spiritualized%20Lazer%20Guided%20Melodies
-apple_music_url: https://music.apple.com/us/search?term=Spiritualized%20Lazer%20Guided%20Melodies
+apple_music_url: https://music.apple.com/search?term=Spiritualized%20Lazer%20Guided%20Melodies
 youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Lazer%20Guided%20Melodies
 ---
 

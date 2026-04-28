@@ -6,7 +6,7 @@ title: Only a Mother - Feral Chickens (1995) [FLAC]
 artist: Only a Mother
 album: Feral Chickens
 spotify_url: https://open.spotify.com/search/Only%20a%20Mother%20Feral%20Chickens
-apple_music_url: https://music.apple.com/us/search?term=Only%20a%20Mother%20Feral%20Chickens
+apple_music_url: https://music.apple.com/search?term=Only%20a%20Mother%20Feral%20Chickens
 youtube_url: https://www.youtube.com/results?search_query=Only%20a%20Mother%20Feral%20Chickens
 ---
 

@@ -6,7 +6,7 @@ title: Johann Sebastian Bach - 6 Suites for Cello, BWV 1007-1012 (Anner Bylsma) 
 artist: Johann Sebastian Bach
 album: 6 Suites for Cello, BWV 1007-1012
 spotify_url: https://open.spotify.com/search/Johann%20Sebastian%20Bach%206%20Suites%20for%20Cello%2C%20BWV%201007-1012
-apple_music_url: https://music.apple.com/us/search?term=Johann%20Sebastian%20Bach%206%20Suites%20for%20Cello%2C%20BWV%201007-1012
+apple_music_url: https://music.apple.com/search?term=Johann%20Sebastian%20Bach%206%20Suites%20for%20Cello%2C%20BWV%201007-1012
 youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach%206%20Suites%20for%20Cello%2C%20BWV%201007-1012
 ---
 

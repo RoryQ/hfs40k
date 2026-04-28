@@ -6,7 +6,7 @@ title: Stendeck - Faces (2007) [FLAC]
 artist: Stendeck
 album: Faces
 spotify_url: https://open.spotify.com/search/Stendeck%20Faces
-apple_music_url: https://music.apple.com/us/search?term=Stendeck%20Faces
+apple_music_url: https://music.apple.com/search?term=Stendeck%20Faces
 youtube_url: https://www.youtube.com/results?search_query=Stendeck%20Faces
 ---
 

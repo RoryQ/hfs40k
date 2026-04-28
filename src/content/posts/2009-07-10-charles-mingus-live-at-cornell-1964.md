@@ -6,7 +6,7 @@ title: Charles Mingus - Live at Cornell (1964)
 artist: Charles Mingus
 album: Live at Cornell
 spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Live%20at%20Cornell
-apple_music_url: https://music.apple.com/us/search?term=Charles%20Mingus%20Live%20at%20Cornell
+apple_music_url: https://music.apple.com/search?term=Charles%20Mingus%20Live%20at%20Cornell
 youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Live%20at%20Cornell
 ---
 

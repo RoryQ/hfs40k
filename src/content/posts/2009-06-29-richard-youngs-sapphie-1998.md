@@ -6,7 +6,7 @@ title: Richard Youngs - Sapphie (1998)
 artist: Richard Youngs
 album: Sapphie
 spotify_url: https://open.spotify.com/search/Richard%20Youngs%20Sapphie
-apple_music_url: https://music.apple.com/us/search?term=Richard%20Youngs%20Sapphie
+apple_music_url: https://music.apple.com/search?term=Richard%20Youngs%20Sapphie
 youtube_url: https://www.youtube.com/results?search_query=Richard%20Youngs%20Sapphie
 ---
 

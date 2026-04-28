@@ -6,7 +6,7 @@ title: Tim Buckley - Starsailor [Vinyl rip v0]
 artist: Tim Buckley
 album: Starsailor
 spotify_url: https://open.spotify.com/search/Tim%20Buckley%20Starsailor
-apple_music_url: https://geo.music.apple.com/au/album/_/110692372?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/110692372
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Starsailor
 ---
 

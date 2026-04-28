@@ -6,7 +6,7 @@ title: Skullflower - Xaman (1988)
 artist: Skullflower
 album: Xaman
 spotify_url: https://open.spotify.com/search/Skullflower%20Xaman
-apple_music_url: https://music.apple.com/us/search?term=Skullflower%20Xaman
+apple_music_url: https://music.apple.com/search?term=Skullflower%20Xaman
 youtube_url: https://www.youtube.com/results?search_query=Skullflower%20Xaman
 ---
 

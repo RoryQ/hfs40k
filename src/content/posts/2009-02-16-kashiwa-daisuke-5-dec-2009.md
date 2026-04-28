@@ -6,7 +6,7 @@ title: Kashiwa Daisuke - 5 Dec. (2009)
 artist: Kashiwa Daisuke
 album: 5 Dec.
 spotify_url: https://open.spotify.com/search/Kashiwa%20Daisuke%205%20Dec.
-apple_music_url: https://music.apple.com/us/search?term=Kashiwa%20Daisuke%205%20Dec.
+apple_music_url: https://music.apple.com/search?term=Kashiwa%20Daisuke%205%20Dec.
 youtube_url: https://www.youtube.com/results?search_query=Kashiwa%20Daisuke%205%20Dec.
 ---
 

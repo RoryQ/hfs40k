@@ -6,7 +6,7 @@ title: Make a Rising - Rip Through the Hawk Black Night (2005)
 artist: Make a Rising
 album: Rip Through the Hawk Black Night
 spotify_url: https://open.spotify.com/search/Make%20a%20Rising%20Rip%20Through%20the%20Hawk%20Black%20Night
-apple_music_url: https://geo.music.apple.com/au/album/_/73554902?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/73554902
 youtube_url: https://www.youtube.com/results?search_query=Make%20a%20Rising%20Rip%20Through%20the%20Hawk%20Black%20Night
 ---
 

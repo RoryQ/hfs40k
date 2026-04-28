@@ -6,7 +6,7 @@ title: Steve Reich - Music for 18 Musicians (1978) [FLAC]
 artist: Steve Reich
 album: Music for 18 Musicians
 spotify_url: https://open.spotify.com/search/Steve%20Reich%20Music%20for%2018%20Musicians
-apple_music_url: https://music.apple.com/us/search?term=Steve%20Reich%20Music%20for%2018%20Musicians
+apple_music_url: https://music.apple.com/search?term=Steve%20Reich%20Music%20for%2018%20Musicians
 youtube_url: https://www.youtube.com/results?search_query=Steve%20Reich%20Music%20for%2018%20Musicians
 ---
 

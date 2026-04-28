@@ -6,7 +6,7 @@ title: The Stooges - Fun House (Remastered FLAC)
 artist: The Stooges
 album: Fun House
 spotify_url: https://open.spotify.com/search/The%20Stooges%20Fun%20House
-apple_music_url: https://music.apple.com/us/search?term=The%20Stooges%20Fun%20House
+apple_music_url: https://music.apple.com/search?term=The%20Stooges%20Fun%20House
 youtube_url: https://www.youtube.com/results?search_query=The%20Stooges%20Fun%20House
 ---
 

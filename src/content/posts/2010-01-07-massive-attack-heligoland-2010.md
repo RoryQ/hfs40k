@@ -6,7 +6,7 @@ title: Massive Attack - Heligoland (2010)
 artist: Massive Attack
 album: Heligoland
 spotify_url: https://open.spotify.com/search/Massive%20Attack%20Heligoland
-apple_music_url: https://music.apple.com/us/search?term=Massive%20Attack%20Heligoland
+apple_music_url: https://music.apple.com/search?term=Massive%20Attack%20Heligoland
 youtube_url: https://www.youtube.com/results?search_query=Massive%20Attack%20Heligoland
 ---
 

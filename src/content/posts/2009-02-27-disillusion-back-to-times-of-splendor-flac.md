@@ -6,7 +6,7 @@ title: Disillusion - Back To Times Of Splendor (FLAC)
 artist: Disillusion
 album: Back To Times Of Splendor
 spotify_url: https://open.spotify.com/search/Disillusion%20Back%20To%20Times%20Of%20Splendor
-apple_music_url: https://music.apple.com/us/search?term=Disillusion%20Back%20To%20Times%20Of%20Splendor
+apple_music_url: https://music.apple.com/search?term=Disillusion%20Back%20To%20Times%20Of%20Splendor
 youtube_url: https://www.youtube.com/results?search_query=Disillusion%20Back%20To%20Times%20Of%20Splendor
 ---
 

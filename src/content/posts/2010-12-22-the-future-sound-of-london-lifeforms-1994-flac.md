@@ -6,7 +6,7 @@ title: The Future Sound of London - Lifeforms (1994, FLAC)
 artist: The Future Sound of London
 album: Lifeforms
 spotify_url: https://open.spotify.com/search/The%20Future%20Sound%20of%20London%20Lifeforms
-apple_music_url: https://music.apple.com/us/search?term=The%20Future%20Sound%20of%20London%20Lifeforms
+apple_music_url: https://music.apple.com/search?term=The%20Future%20Sound%20of%20London%20Lifeforms
 youtube_url: https://www.youtube.com/results?search_query=The%20Future%20Sound%20of%20London%20Lifeforms
 ---
 

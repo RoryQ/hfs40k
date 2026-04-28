@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Sun Kil Moon
 album: April
 spotify_url: https://open.spotify.com/search/Sun%20Kil%20Moon%20April
-apple_music_url: https://geo.music.apple.com/au/album/_/1566780460?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1566780460
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20April
 ---
 

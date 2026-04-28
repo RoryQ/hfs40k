@@ -6,7 +6,7 @@ title: King Crimson - The Great Deceiver (v0)
 artist: King Crimson
 album: The Great Deceiver
 spotify_url: https://open.spotify.com/search/King%20Crimson%20The%20Great%20Deceiver
-apple_music_url: https://music.apple.com/us/search?term=King%20Crimson%20The%20Great%20Deceiver
+apple_music_url: https://music.apple.com/search?term=King%20Crimson%20The%20Great%20Deceiver
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20The%20Great%20Deceiver
 ---
 

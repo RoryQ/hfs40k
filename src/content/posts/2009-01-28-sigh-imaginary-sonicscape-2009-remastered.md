@@ -6,7 +6,7 @@ title: Sigh - Imaginary Sonicscape (2009 Remastered)
 artist: Sigh
 album: Imaginary Sonicscape
 spotify_url: https://open.spotify.com/search/Sigh%20Imaginary%20Sonicscape
-apple_music_url: https://music.apple.com/us/search?term=Sigh%20Imaginary%20Sonicscape
+apple_music_url: https://music.apple.com/search?term=Sigh%20Imaginary%20Sonicscape
 youtube_url: https://www.youtube.com/results?search_query=Sigh%20Imaginary%20Sonicscape
 ---
 

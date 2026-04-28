@@ -6,7 +6,7 @@ title: Toe - The Book About My Idle Plot On A Vague Anxiety (2005) [FLAC]
 artist: Toe
 album: The Book About My Idle Plot On A Vague Anxiety
 spotify_url: https://open.spotify.com/search/Toe%20The%20Book%20About%20My%20Idle%20Plot%20On%20A%20Vague%20Anxiety
-apple_music_url: https://music.apple.com/us/search?term=Toe%20The%20Book%20About%20My%20Idle%20Plot%20On%20A%20Vague%20Anxiety
+apple_music_url: https://music.apple.com/search?term=Toe%20The%20Book%20About%20My%20Idle%20Plot%20On%20A%20Vague%20Anxiety
 youtube_url: https://www.youtube.com/results?search_query=Toe%20The%20Book%20About%20My%20Idle%20Plot%20On%20A%20Vague%20Anxiety
 ---
 

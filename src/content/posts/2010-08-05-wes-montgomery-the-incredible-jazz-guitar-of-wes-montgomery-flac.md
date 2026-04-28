@@ -6,7 +6,7 @@ title: Wes Montgomery - The Incredible Jazz Guitar Of Wes Montgomery (FLAC)
 artist: Wes Montgomery
 album: The Incredible Jazz Guitar Of Wes Montgomery
 spotify_url: https://open.spotify.com/search/Wes%20Montgomery%20The%20Incredible%20Jazz%20Guitar%20Of%20Wes%20Montgomery
-apple_music_url: https://music.apple.com/us/search?term=Wes%20Montgomery%20The%20Incredible%20Jazz%20Guitar%20Of%20Wes%20Montgomery
+apple_music_url: https://music.apple.com/search?term=Wes%20Montgomery%20The%20Incredible%20Jazz%20Guitar%20Of%20Wes%20Montgomery
 youtube_url: https://www.youtube.com/results?search_query=Wes%20Montgomery%20The%20Incredible%20Jazz%20Guitar%20Of%20Wes%20Montgomery
 ---
 

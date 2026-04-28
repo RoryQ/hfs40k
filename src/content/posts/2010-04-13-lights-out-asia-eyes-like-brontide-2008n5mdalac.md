@@ -6,7 +6,7 @@ title: Lights Out Asia - Eyes Like Brontide [2008/n5MD/ALAC]
 artist: Lights Out Asia
 album: Eyes Like Brontide
 spotify_url: https://open.spotify.com/search/Lights%20Out%20Asia%20Eyes%20Like%20Brontide
-apple_music_url: https://music.apple.com/us/search?term=Lights%20Out%20Asia%20Eyes%20Like%20Brontide
+apple_music_url: https://music.apple.com/search?term=Lights%20Out%20Asia%20Eyes%20Like%20Brontide
 youtube_url: https://www.youtube.com/results?search_query=Lights%20Out%20Asia%20Eyes%20Like%20Brontide
 ---
 

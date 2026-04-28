@@ -8,7 +8,7 @@ artist: A Silver Mt. Zion
 album: He Has Left Us Alone but Shafts of Light Sometimes Grace the Corner of Our
   Rooms
 spotify_url: https://open.spotify.com/search/A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
-apple_music_url: https://music.apple.com/us/search?term=A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
+apple_music_url: https://music.apple.com/search?term=A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
 youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zion%20He%20Has%20Left%20Us%20Alone%20but%20Shafts%20of%20Light%20Sometimes%20Grace%20the%20Corner%20of%20Our%20Rooms
 ---
 

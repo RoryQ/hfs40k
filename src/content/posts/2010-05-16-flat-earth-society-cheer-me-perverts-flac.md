@@ -6,7 +6,7 @@ title: Flat Earth Society - Cheer Me, Perverts! (flac)
 artist: Flat Earth Society
 album: Cheer Me, Perverts!
 spotify_url: https://open.spotify.com/search/Flat%20Earth%20Society%20Cheer%20Me%2C%20Perverts%21
-apple_music_url: https://music.apple.com/us/search?term=Flat%20Earth%20Society%20Cheer%20Me%2C%20Perverts%21
+apple_music_url: https://music.apple.com/search?term=Flat%20Earth%20Society%20Cheer%20Me%2C%20Perverts%21
 youtube_url: https://www.youtube.com/results?search_query=Flat%20Earth%20Society%20Cheer%20Me%2C%20Perverts%21
 ---
 

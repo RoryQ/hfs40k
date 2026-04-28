@@ -6,7 +6,7 @@ title: Art Ensemble of Chicago - Les Stances a Sophie (FLAC/v0)
 artist: Art Ensemble of Chicago
 album: Les Stances a Sophie
 spotify_url: https://open.spotify.com/search/Art%20Ensemble%20of%20Chicago%20Les%20Stances%20a%20Sophie
-apple_music_url: https://music.apple.com/us/search?term=Art%20Ensemble%20of%20Chicago%20Les%20Stances%20a%20Sophie
+apple_music_url: https://music.apple.com/search?term=Art%20Ensemble%20of%20Chicago%20Les%20Stances%20a%20Sophie
 youtube_url: https://www.youtube.com/results?search_query=Art%20Ensemble%20of%20Chicago%20Les%20Stances%20a%20Sophie
 ---
 

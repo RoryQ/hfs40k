@@ -6,7 +6,7 @@ title: Sun Ra - The Heliocentric Worlds of Sun Ra
 artist: Sun Ra
 album: The Heliocentric Worlds of Sun Ra
 spotify_url: https://open.spotify.com/search/Sun%20Ra%20The%20Heliocentric%20Worlds%20of%20Sun%20Ra
-apple_music_url: https://music.apple.com/us/search?term=Sun%20Ra%20The%20Heliocentric%20Worlds%20of%20Sun%20Ra
+apple_music_url: https://music.apple.com/search?term=Sun%20Ra%20The%20Heliocentric%20Worlds%20of%20Sun%20Ra
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20The%20Heliocentric%20Worlds%20of%20Sun%20Ra
 ---
 

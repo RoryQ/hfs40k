@@ -6,7 +6,7 @@ title: Asobi Seksu - Hush (2009)
 artist: Asobi Seksu
 album: Hush
 spotify_url: https://open.spotify.com/search/Asobi%20Seksu%20Hush
-apple_music_url: https://music.apple.com/us/search?term=Asobi%20Seksu%20Hush
+apple_music_url: https://music.apple.com/search?term=Asobi%20Seksu%20Hush
 youtube_url: https://www.youtube.com/results?search_query=Asobi%20Seksu%20Hush
 ---
 

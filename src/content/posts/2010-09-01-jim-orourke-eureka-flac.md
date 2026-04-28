@@ -6,7 +6,7 @@ title: Jim O'Rourke - Eureka (FLAC)
 artist: Jim O'Rourke
 album: Eureka
 spotify_url: https://open.spotify.com/search/Jim%20O%27Rourke%20Eureka
-apple_music_url: https://music.apple.com/us/search?term=Jim%20O%27Rourke%20Eureka
+apple_music_url: https://music.apple.com/search?term=Jim%20O%27Rourke%20Eureka
 youtube_url: https://www.youtube.com/results?search_query=Jim%20O%27Rourke%20Eureka
 ---
 

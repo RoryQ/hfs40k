@@ -6,7 +6,7 @@ title: Losalios - The End of Beauty (2003)
 artist: Losalios
 album: The End of Beauty
 spotify_url: https://open.spotify.com/search/Losalios%20The%20End%20of%20Beauty
-apple_music_url: https://music.apple.com/us/search?term=Losalios%20The%20End%20of%20Beauty
+apple_music_url: https://music.apple.com/search?term=Losalios%20The%20End%20of%20Beauty
 youtube_url: https://www.youtube.com/results?search_query=Losalios%20The%20End%20of%20Beauty
 ---
 

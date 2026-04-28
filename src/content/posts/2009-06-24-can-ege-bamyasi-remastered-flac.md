@@ -6,7 +6,7 @@ title: Can - Ege Bamyasi (Remastered FLAC)
 artist: Can
 album: Ege Bamyasi
 spotify_url: https://open.spotify.com/search/Can%20Ege%20Bamyasi
-apple_music_url: https://music.apple.com/us/search?term=Can%20Ege%20Bamyasi
+apple_music_url: https://music.apple.com/search?term=Can%20Ege%20Bamyasi
 youtube_url: https://www.youtube.com/results?search_query=Can%20Ege%20Bamyasi
 ---
 

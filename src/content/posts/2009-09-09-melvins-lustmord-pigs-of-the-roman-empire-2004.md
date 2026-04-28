@@ -6,7 +6,7 @@ title: Melvins & Lustmord - Pigs of the Roman Empire (2004)
 artist: Melvins & Lustmord
 album: Pigs of the Roman Empire
 spotify_url: https://open.spotify.com/search/Melvins%20%26%20Lustmord%20Pigs%20of%20the%20Roman%20Empire
-apple_music_url: https://music.apple.com/us/search?term=Melvins%20%26%20Lustmord%20Pigs%20of%20the%20Roman%20Empire
+apple_music_url: https://music.apple.com/search?term=Melvins%20%26%20Lustmord%20Pigs%20of%20the%20Roman%20Empire
 youtube_url: https://www.youtube.com/results?search_query=Melvins%20%26%20Lustmord%20Pigs%20of%20the%20Roman%20Empire
 ---
 

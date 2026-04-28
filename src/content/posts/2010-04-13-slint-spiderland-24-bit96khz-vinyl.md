@@ -6,7 +6,7 @@ title: Slint - Spiderland (24-bit/96khz Vinyl)
 artist: Slint
 album: Spiderland
 spotify_url: https://open.spotify.com/search/Slint%20Spiderland
-apple_music_url: https://music.apple.com/us/search?term=Slint%20Spiderland
+apple_music_url: https://music.apple.com/search?term=Slint%20Spiderland
 youtube_url: https://www.youtube.com/results?search_query=Slint%20Spiderland
 ---
 

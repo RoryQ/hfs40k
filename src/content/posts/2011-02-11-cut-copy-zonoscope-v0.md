@@ -6,7 +6,7 @@ title: Cut Copy - Zonoscope [v0]
 artist: Cut Copy
 album: Zonoscope
 spotify_url: https://open.spotify.com/search/Cut%20Copy%20Zonoscope
-apple_music_url: https://music.apple.com/us/search?term=Cut%20Copy%20Zonoscope
+apple_music_url: https://music.apple.com/search?term=Cut%20Copy%20Zonoscope
 youtube_url: https://www.youtube.com/results?search_query=Cut%20Copy%20Zonoscope
 ---
 

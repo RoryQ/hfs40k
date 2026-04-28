@@ -7,7 +7,7 @@ title: The Moon Lay Hidden Beneath a Cloud - A New Soldier Follows the Path of a
 artist: The Moon Lay Hidden Beneath a Cloud
 album: A New Soldier Follows the Path of a New King
 spotify_url: https://open.spotify.com/search/The%20Moon%20Lay%20Hidden%20Beneath%20a%20Cloud%20A%20New%20Soldier%20Follows%20the%20Path%20of%20a%20New%20King
-apple_music_url: https://music.apple.com/us/search?term=The%20Moon%20Lay%20Hidden%20Beneath%20a%20Cloud%20A%20New%20Soldier%20Follows%20the%20Path%20of%20a%20New%20King
+apple_music_url: https://music.apple.com/search?term=The%20Moon%20Lay%20Hidden%20Beneath%20a%20Cloud%20A%20New%20Soldier%20Follows%20the%20Path%20of%20a%20New%20King
 youtube_url: https://www.youtube.com/results?search_query=The%20Moon%20Lay%20Hidden%20Beneath%20a%20Cloud%20A%20New%20Soldier%20Follows%20the%20Path%20of%20a%20New%20King
 ---
 

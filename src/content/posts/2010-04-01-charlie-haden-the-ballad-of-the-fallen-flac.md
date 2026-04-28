@@ -6,7 +6,7 @@ title: Charlie Haden - The Ballad of the Fallen (FLAC)
 artist: Charlie Haden
 album: The Ballad of the Fallen
 spotify_url: https://open.spotify.com/search/Charlie%20Haden%20The%20Ballad%20of%20the%20Fallen
-apple_music_url: https://music.apple.com/us/search?term=Charlie%20Haden%20The%20Ballad%20of%20the%20Fallen
+apple_music_url: https://music.apple.com/search?term=Charlie%20Haden%20The%20Ballad%20of%20the%20Fallen
 youtube_url: https://www.youtube.com/results?search_query=Charlie%20Haden%20The%20Ballad%20of%20the%20Fallen
 ---
 

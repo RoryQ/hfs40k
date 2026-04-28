@@ -6,7 +6,7 @@ title: Tim Hecker - Haunt Me Haunt Me, Do It Again (FLAC)
 artist: Tim Hecker
 album: Haunt Me Haunt Me, Do It Again
 spotify_url: https://open.spotify.com/search/Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
-apple_music_url: https://music.apple.com/us/search?term=Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
+apple_music_url: https://music.apple.com/search?term=Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20Haunt%20Me%20Haunt%20Me%2C%20Do%20It%20Again
 ---
 

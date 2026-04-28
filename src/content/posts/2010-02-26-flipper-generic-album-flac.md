@@ -6,7 +6,7 @@ title: Flipper - Generic Album (FLAC)
 artist: Flipper
 album: Generic Album
 spotify_url: https://open.spotify.com/search/Flipper%20Generic%20Album
-apple_music_url: https://music.apple.com/us/search?term=Flipper%20Generic%20Album
+apple_music_url: https://music.apple.com/search?term=Flipper%20Generic%20Album
 youtube_url: https://www.youtube.com/results?search_query=Flipper%20Generic%20Album
 ---
 

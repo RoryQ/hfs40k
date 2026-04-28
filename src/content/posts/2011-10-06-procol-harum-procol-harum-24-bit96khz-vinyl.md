@@ -6,7 +6,7 @@ title: Procol Harum - Procol Harum (24-bit/96khz (Vinyl)
 artist: Procol Harum
 album: Procol Harum
 spotify_url: https://open.spotify.com/search/Procol%20Harum%20Procol%20Harum
-apple_music_url: https://geo.music.apple.com/au/album/_/1681876327?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1681876327
 youtube_url: https://www.youtube.com/results?search_query=Procol%20Harum%20Procol%20Harum
 ---
 

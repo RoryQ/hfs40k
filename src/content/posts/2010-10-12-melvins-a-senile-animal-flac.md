@@ -6,7 +6,7 @@ title: Melvins - (A) Senile Animal [FLAC]
 artist: Melvins
 album: A Senile Animal
 spotify_url: https://open.spotify.com/search/Melvins%20A%20Senile%20Animal
-apple_music_url: https://geo.music.apple.com/au/album/_/1327332188?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1327332188
 youtube_url: https://www.youtube.com/results?search_query=Melvins%20A%20Senile%20Animal
 ---
 

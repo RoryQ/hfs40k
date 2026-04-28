@@ -6,7 +6,7 @@ title: alyosha - Foreign Universe [2011] (320kbps)
 artist: alyosha
 album: Foreign Universe
 spotify_url: https://open.spotify.com/search/alyosha%20Foreign%20Universe
-apple_music_url: https://music.apple.com/us/search?term=alyosha%20Foreign%20Universe
+apple_music_url: https://music.apple.com/search?term=alyosha%20Foreign%20Universe
 youtube_url: https://www.youtube.com/results?search_query=alyosha%20Foreign%20Universe
 ---
 

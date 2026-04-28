@@ -6,7 +6,7 @@ title: "Zo\xE4t\xB7Aon - Star Autopsy (2005) & The Triplex Bestial (2006)"
 artist: "Zo\xE4t\xB7Aon"
 album: Star Autopsy
 spotify_url: https://open.spotify.com/search/Zo%C3%A4t%C2%B7Aon%20Star%20Autopsy
-apple_music_url: https://music.apple.com/us/search?term=Zo%C3%A4t%C2%B7Aon%20Star%20Autopsy
+apple_music_url: https://music.apple.com/search?term=Zo%C3%A4t%C2%B7Aon%20Star%20Autopsy
 youtube_url: https://www.youtube.com/results?search_query=Zo%C3%A4t%C2%B7Aon%20Star%20Autopsy
 ---
 

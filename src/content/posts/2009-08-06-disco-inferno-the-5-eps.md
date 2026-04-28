@@ -6,7 +6,7 @@ title: Disco Inferno - The 5 E.P.'s
 artist: Disco Inferno
 album: The 5 E.P.'s
 spotify_url: https://open.spotify.com/search/Disco%20Inferno%20The%205%20E.P.%27s
-apple_music_url: https://music.apple.com/us/search?term=Disco%20Inferno%20The%205%20E.P.%27s
+apple_music_url: https://music.apple.com/search?term=Disco%20Inferno%20The%205%20E.P.%27s
 youtube_url: https://www.youtube.com/results?search_query=Disco%20Inferno%20The%205%20E.P.%27s
 ---
 

@@ -6,7 +6,7 @@ title: Talking Heads - Fear of Music (1979)
 artist: Talking Heads
 album: Fear of Music
 spotify_url: https://open.spotify.com/search/Talking%20Heads%20Fear%20of%20Music
-apple_music_url: https://geo.music.apple.com/au/album/_/300965520?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/300965520
 youtube_url: https://www.youtube.com/results?search_query=Talking%20Heads%20Fear%20of%20Music
 ---
 

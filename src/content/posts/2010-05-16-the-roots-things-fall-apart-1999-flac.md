@@ -6,7 +6,7 @@ title: The Roots - Things Fall Apart (1999) [FLAC]
 artist: The Roots
 album: Things Fall Apart
 spotify_url: https://open.spotify.com/search/The%20Roots%20Things%20Fall%20Apart
-apple_music_url: https://music.apple.com/us/search?term=The%20Roots%20Things%20Fall%20Apart
+apple_music_url: https://music.apple.com/search?term=The%20Roots%20Things%20Fall%20Apart
 youtube_url: https://www.youtube.com/results?search_query=The%20Roots%20Things%20Fall%20Apart
 ---
 

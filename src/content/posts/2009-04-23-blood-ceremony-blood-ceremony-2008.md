@@ -6,7 +6,7 @@ title: Blood Ceremony - Blood Ceremony (2008)
 artist: Blood Ceremony
 album: Blood Ceremony
 spotify_url: https://open.spotify.com/search/Blood%20Ceremony%20Blood%20Ceremony
-apple_music_url: https://music.apple.com/us/search?term=Blood%20Ceremony%20Blood%20Ceremony
+apple_music_url: https://music.apple.com/search?term=Blood%20Ceremony%20Blood%20Ceremony
 youtube_url: https://www.youtube.com/results?search_query=Blood%20Ceremony%20Blood%20Ceremony
 ---
 

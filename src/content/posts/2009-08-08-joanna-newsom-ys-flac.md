@@ -6,7 +6,7 @@ title: Joanna Newsom - Ys (FLAC)
 artist: Joanna Newsom
 album: Ys
 spotify_url: https://open.spotify.com/search/Joanna%20Newsom%20Ys
-apple_music_url: https://geo.music.apple.com/au/album/_/204051949?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/204051949
 youtube_url: https://www.youtube.com/results?search_query=Joanna%20Newsom%20Ys
 ---
 

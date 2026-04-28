@@ -6,7 +6,7 @@ title: Wayne Shorter - Beyond the Sound Barrier (FLAC)
 artist: Wayne Shorter
 album: Beyond the Sound Barrier
 spotify_url: https://open.spotify.com/search/Wayne%20Shorter%20Beyond%20the%20Sound%20Barrier
-apple_music_url: https://music.apple.com/us/search?term=Wayne%20Shorter%20Beyond%20the%20Sound%20Barrier
+apple_music_url: https://music.apple.com/search?term=Wayne%20Shorter%20Beyond%20the%20Sound%20Barrier
 youtube_url: https://www.youtube.com/results?search_query=Wayne%20Shorter%20Beyond%20the%20Sound%20Barrier
 ---
 

@@ -6,7 +6,7 @@ title: YODAKA - YODAKA
 artist: YODAKA
 album: YODAKA
 spotify_url: https://open.spotify.com/search/YODAKA%20YODAKA
-apple_music_url: https://music.apple.com/us/search?term=YODAKA%20YODAKA
+apple_music_url: https://music.apple.com/search?term=YODAKA%20YODAKA
 youtube_url: https://www.youtube.com/results?search_query=YODAKA%20YODAKA
 ---
 

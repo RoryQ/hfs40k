@@ -6,7 +6,7 @@ title: HORSE the Band - The Mechanical Hand (2005)
 artist: HORSE the Band
 album: The Mechanical Hand
 spotify_url: https://open.spotify.com/search/HORSE%20the%20Band%20The%20Mechanical%20Hand
-apple_music_url: https://music.apple.com/us/search?term=HORSE%20the%20Band%20The%20Mechanical%20Hand
+apple_music_url: https://music.apple.com/search?term=HORSE%20the%20Band%20The%20Mechanical%20Hand
 youtube_url: https://www.youtube.com/results?search_query=HORSE%20the%20Band%20The%20Mechanical%20Hand
 ---
 

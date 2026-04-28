@@ -6,7 +6,7 @@ title: Vladislav Delay - Multila (2000, FLAC)
 artist: Vladislav Delay
 album: Multila
 spotify_url: https://open.spotify.com/search/Vladislav%20Delay%20Multila
-apple_music_url: https://music.apple.com/us/search?term=Vladislav%20Delay%20Multila
+apple_music_url: https://music.apple.com/search?term=Vladislav%20Delay%20Multila
 youtube_url: https://www.youtube.com/results?search_query=Vladislav%20Delay%20Multila
 ---
 

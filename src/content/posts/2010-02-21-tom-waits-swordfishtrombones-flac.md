@@ -6,7 +6,7 @@ title: Tom Waits - Swordfishtrombones (FLAC)
 artist: Tom Waits
 album: Swordfishtrombones
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Swordfishtrombones
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Swordfishtrombones
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Swordfishtrombones
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Swordfishtrombones
 ---
 

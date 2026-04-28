@@ -6,7 +6,7 @@ title: UGK - Ridin' Dirty (FLAC)
 artist: UGK
 album: Ridin' Dirty
 spotify_url: https://open.spotify.com/search/UGK%20Ridin%27%20Dirty
-apple_music_url: https://music.apple.com/us/search?term=UGK%20Ridin%27%20Dirty
+apple_music_url: https://music.apple.com/search?term=UGK%20Ridin%27%20Dirty
 youtube_url: https://www.youtube.com/results?search_query=UGK%20Ridin%27%20Dirty
 ---
 

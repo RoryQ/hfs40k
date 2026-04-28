@@ -6,7 +6,7 @@ title: Lateduster - Easy Pieces
 artist: Lateduster
 album: Easy Pieces
 spotify_url: https://open.spotify.com/search/Lateduster%20Easy%20Pieces
-apple_music_url: https://music.apple.com/us/search?term=Lateduster%20Easy%20Pieces
+apple_music_url: https://music.apple.com/search?term=Lateduster%20Easy%20Pieces
 youtube_url: https://www.youtube.com/results?search_query=Lateduster%20Easy%20Pieces
 ---
 

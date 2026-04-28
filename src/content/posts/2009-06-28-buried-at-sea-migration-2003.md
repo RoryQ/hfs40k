@@ -6,7 +6,7 @@ title: Buried at Sea - Migration (2003)
 artist: Buried at Sea
 album: Migration
 spotify_url: https://open.spotify.com/search/Buried%20at%20Sea%20Migration
-apple_music_url: https://music.apple.com/us/search?term=Buried%20at%20Sea%20Migration
+apple_music_url: https://music.apple.com/search?term=Buried%20at%20Sea%20Migration
 youtube_url: https://www.youtube.com/results?search_query=Buried%20at%20Sea%20Migration
 ---
 

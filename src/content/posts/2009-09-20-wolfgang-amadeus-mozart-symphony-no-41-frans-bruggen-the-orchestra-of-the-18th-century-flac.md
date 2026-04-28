@@ -7,7 +7,7 @@ title: Wolfgang Amadeus Mozart - Symphony No. 41 (Frans Bruggen & the Orchestra 
 artist: Wolfgang Amadeus Mozart
 album: Symphony No. 41
 spotify_url: https://open.spotify.com/search/Wolfgang%20Amadeus%20Mozart%20Symphony%20No.%2041
-apple_music_url: https://geo.music.apple.com/au/album/_/283547529?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/283547529
 youtube_url: https://www.youtube.com/results?search_query=Wolfgang%20Amadeus%20Mozart%20Symphony%20No.%2041
 ---
 

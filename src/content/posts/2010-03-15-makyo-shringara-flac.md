@@ -6,7 +6,7 @@ title: Makyo - Shringara FLAC
 artist: Makyo
 album: Shringara FLAC
 spotify_url: https://open.spotify.com/search/Makyo%20Shringara%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Makyo%20Shringara%20FLAC
+apple_music_url: https://music.apple.com/search?term=Makyo%20Shringara%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Makyo%20Shringara%20FLAC
 ---
 

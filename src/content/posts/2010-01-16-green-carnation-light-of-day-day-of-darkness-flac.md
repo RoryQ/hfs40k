@@ -6,7 +6,7 @@ title: Green Carnation - Light of Day, Day of Darkness (FLAC)
 artist: Green Carnation
 album: Light of Day, Day of Darkness
 spotify_url: https://open.spotify.com/search/Green%20Carnation%20Light%20of%20Day%2C%20Day%20of%20Darkness
-apple_music_url: https://music.apple.com/us/search?term=Green%20Carnation%20Light%20of%20Day%2C%20Day%20of%20Darkness
+apple_music_url: https://music.apple.com/search?term=Green%20Carnation%20Light%20of%20Day%2C%20Day%20of%20Darkness
 youtube_url: https://www.youtube.com/results?search_query=Green%20Carnation%20Light%20of%20Day%2C%20Day%20of%20Darkness
 ---
 

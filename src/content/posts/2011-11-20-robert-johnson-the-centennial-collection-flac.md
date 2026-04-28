@@ -6,7 +6,7 @@ title: Robert Johnson - The Centennial Collection (FLAC)
 artist: Robert Johnson
 album: The Centennial Collection
 spotify_url: https://open.spotify.com/search/Robert%20Johnson%20The%20Centennial%20Collection
-apple_music_url: https://geo.music.apple.com/au/album/_/432748889?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/432748889
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Johnson%20The%20Centennial%20Collection
 ---
 

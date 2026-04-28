@@ -6,7 +6,7 @@ title: Robe. - Complete Discography
 artist: Robe.
 album: Complete Discography
 spotify_url: https://open.spotify.com/search/Robe.%20Complete%20Discography
-apple_music_url: https://music.apple.com/us/search?term=Robe.%20Complete%20Discography
+apple_music_url: https://music.apple.com/search?term=Robe.%20Complete%20Discography
 youtube_url: https://www.youtube.com/results?search_query=Robe.%20Complete%20Discography
 ---
 

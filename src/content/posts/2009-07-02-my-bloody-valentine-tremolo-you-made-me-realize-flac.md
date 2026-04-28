@@ -6,7 +6,7 @@ title: My Bloody Valentine -  Tremolo & You Made Me Realize (FLAC)
 artist: My Bloody Valentine
 album: Tremolo & You Made Me Realize
 spotify_url: https://open.spotify.com/search/My%20Bloody%20Valentine%20Tremolo%20%26%20You%20Made%20Me%20Realize
-apple_music_url: https://music.apple.com/us/search?term=My%20Bloody%20Valentine%20Tremolo%20%26%20You%20Made%20Me%20Realize
+apple_music_url: https://music.apple.com/search?term=My%20Bloody%20Valentine%20Tremolo%20%26%20You%20Made%20Me%20Realize
 youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentine%20Tremolo%20%26%20You%20Made%20Me%20Realize
 ---
 

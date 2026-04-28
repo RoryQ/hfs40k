@@ -6,7 +6,7 @@ title: Holopaw - Oh, Glory. Oh, Wilderness. (FLAC)
 artist: Holopaw
 album: Oh, Glory. Oh, Wilderness.
 spotify_url: https://open.spotify.com/search/Holopaw%20Oh%2C%20Glory.%20Oh%2C%20Wilderness.
-apple_music_url: https://music.apple.com/us/search?term=Holopaw%20Oh%2C%20Glory.%20Oh%2C%20Wilderness.
+apple_music_url: https://music.apple.com/search?term=Holopaw%20Oh%2C%20Glory.%20Oh%2C%20Wilderness.
 youtube_url: https://www.youtube.com/results?search_query=Holopaw%20Oh%2C%20Glory.%20Oh%2C%20Wilderness.
 ---
 

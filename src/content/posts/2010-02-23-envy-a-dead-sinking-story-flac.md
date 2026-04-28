@@ -6,7 +6,7 @@ title: Envy - A Dead Sinking Story (FLAC)
 artist: Envy
 album: A Dead Sinking Story
 spotify_url: https://open.spotify.com/search/Envy%20A%20Dead%20Sinking%20Story
-apple_music_url: https://music.apple.com/us/search?term=Envy%20A%20Dead%20Sinking%20Story
+apple_music_url: https://music.apple.com/search?term=Envy%20A%20Dead%20Sinking%20Story
 youtube_url: https://www.youtube.com/results?search_query=Envy%20A%20Dead%20Sinking%20Story
 ---
 

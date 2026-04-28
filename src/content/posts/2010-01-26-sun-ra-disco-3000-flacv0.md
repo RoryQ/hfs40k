@@ -6,7 +6,7 @@ title: Sun Ra - Disco 3000 (FLAC/v0)
 artist: Sun Ra
 album: Disco 3000
 spotify_url: https://open.spotify.com/search/Sun%20Ra%20Disco%203000
-apple_music_url: https://music.apple.com/us/search?term=Sun%20Ra%20Disco%203000
+apple_music_url: https://music.apple.com/search?term=Sun%20Ra%20Disco%203000
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Ra%20Disco%203000
 ---
 

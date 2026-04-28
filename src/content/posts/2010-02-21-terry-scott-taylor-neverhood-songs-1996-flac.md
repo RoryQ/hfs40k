@@ -6,7 +6,7 @@ title: Terry Scott Taylor - Neverhood Songs (1996 - FLAC)
 artist: Terry Scott Taylor
 album: Neverhood Songs
 spotify_url: https://open.spotify.com/search/Terry%20Scott%20Taylor%20Neverhood%20Songs
-apple_music_url: https://music.apple.com/us/search?term=Terry%20Scott%20Taylor%20Neverhood%20Songs
+apple_music_url: https://music.apple.com/search?term=Terry%20Scott%20Taylor%20Neverhood%20Songs
 youtube_url: https://www.youtube.com/results?search_query=Terry%20Scott%20Taylor%20Neverhood%20Songs
 ---
 

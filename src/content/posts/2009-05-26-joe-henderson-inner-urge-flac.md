@@ -6,7 +6,7 @@ title: Joe Henderson - Inner Urge (FLAC)
 artist: Joe Henderson
 album: Inner Urge
 spotify_url: https://open.spotify.com/search/Joe%20Henderson%20Inner%20Urge
-apple_music_url: https://music.apple.com/us/search?term=Joe%20Henderson%20Inner%20Urge
+apple_music_url: https://music.apple.com/search?term=Joe%20Henderson%20Inner%20Urge
 youtube_url: https://www.youtube.com/results?search_query=Joe%20Henderson%20Inner%20Urge
 ---
 

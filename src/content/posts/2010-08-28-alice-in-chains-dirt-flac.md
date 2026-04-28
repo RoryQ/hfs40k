@@ -6,7 +6,7 @@ title: Alice In Chains - Dirt (FLAC)
 artist: Alice In Chains
 album: Dirt
 spotify_url: https://open.spotify.com/search/Alice%20In%20Chains%20Dirt
-apple_music_url: https://music.apple.com/us/search?term=Alice%20In%20Chains%20Dirt
+apple_music_url: https://music.apple.com/search?term=Alice%20In%20Chains%20Dirt
 youtube_url: https://www.youtube.com/results?search_query=Alice%20In%20Chains%20Dirt
 ---
 

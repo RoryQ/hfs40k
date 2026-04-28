@@ -6,7 +6,7 @@ title: Yo La Tengo - Painful (FLAC)
 artist: Yo La Tengo
 album: Painful
 spotify_url: https://open.spotify.com/search/Yo%20La%20Tengo%20Painful
-apple_music_url: https://music.apple.com/us/search?term=Yo%20La%20Tengo%20Painful
+apple_music_url: https://music.apple.com/search?term=Yo%20La%20Tengo%20Painful
 youtube_url: https://www.youtube.com/results?search_query=Yo%20La%20Tengo%20Painful
 ---
 

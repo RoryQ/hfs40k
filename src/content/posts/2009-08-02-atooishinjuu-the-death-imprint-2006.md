@@ -6,7 +6,7 @@ title: Atooishinjuu - The Death Imprint (2006)
 artist: Atooishinjuu
 album: The Death Imprint
 spotify_url: https://open.spotify.com/search/Atooishinjuu%20The%20Death%20Imprint
-apple_music_url: https://music.apple.com/us/search?term=Atooishinjuu%20The%20Death%20Imprint
+apple_music_url: https://music.apple.com/search?term=Atooishinjuu%20The%20Death%20Imprint
 youtube_url: https://www.youtube.com/results?search_query=Atooishinjuu%20The%20Death%20Imprint
 ---
 

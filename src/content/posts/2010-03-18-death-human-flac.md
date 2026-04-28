@@ -6,7 +6,7 @@ title: Death - Human (FLAC)
 artist: Death
 album: Human
 spotify_url: https://open.spotify.com/search/Death%20Human
-apple_music_url: https://music.apple.com/us/search?term=Death%20Human
+apple_music_url: https://music.apple.com/search?term=Death%20Human
 youtube_url: https://www.youtube.com/results?search_query=Death%20Human
 ---
 

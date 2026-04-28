@@ -6,7 +6,7 @@ title: Tim Hecker - An  Imaginary Country (2009)
 artist: Tim Hecker
 album: An  Imaginary Country
 spotify_url: https://open.spotify.com/search/Tim%20Hecker%20An%20%20Imaginary%20Country
-apple_music_url: https://music.apple.com/us/search?term=Tim%20Hecker%20An%20%20Imaginary%20Country
+apple_music_url: https://music.apple.com/search?term=Tim%20Hecker%20An%20%20Imaginary%20Country
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Hecker%20An%20%20Imaginary%20Country
 ---
 

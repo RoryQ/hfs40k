@@ -6,7 +6,7 @@ title: Sunn O))) & Boris - Altar [FLAC]
 artist: Sunn O))) & Boris
 album: Altar
 spotify_url: https://open.spotify.com/search/Sunn%20O%29%29%29%20%26%20Boris%20Altar
-apple_music_url: https://geo.music.apple.com/au/album/_/455082727?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/455082727
 youtube_url: https://www.youtube.com/results?search_query=Sunn%20O%29%29%29%20%26%20Boris%20Altar
 ---
 

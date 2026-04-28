@@ -6,7 +6,7 @@ title: Tom Waits - Alice (2002) [FLAC]
 artist: Tom Waits
 album: Alice
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Alice
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Alice
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Alice
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Alice
 ---
 

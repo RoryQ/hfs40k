@@ -6,7 +6,7 @@ title: Brock Van Wey - White Clouds Drift On And On - (2009) [FLAC]
 artist: Brock Van Wey
 album: White Clouds Drift On And On -
 spotify_url: https://open.spotify.com/search/Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
-apple_music_url: https://music.apple.com/us/search?term=Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
+apple_music_url: https://music.apple.com/search?term=Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
 youtube_url: https://www.youtube.com/results?search_query=Brock%20Van%20Wey%20White%20Clouds%20Drift%20On%20And%20On%20-
 ---
 

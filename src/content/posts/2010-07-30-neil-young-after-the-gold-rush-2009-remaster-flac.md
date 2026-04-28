@@ -6,7 +6,7 @@ title: Neil Young - After The Gold Rush (2009 Remaster FLAC)
 artist: Neil Young
 album: After The Gold Rush
 spotify_url: https://open.spotify.com/search/Neil%20Young%20After%20The%20Gold%20Rush
-apple_music_url: https://music.apple.com/us/search?term=Neil%20Young%20After%20The%20Gold%20Rush
+apple_music_url: https://music.apple.com/search?term=Neil%20Young%20After%20The%20Gold%20Rush
 youtube_url: https://www.youtube.com/results?search_query=Neil%20Young%20After%20The%20Gold%20Rush
 ---
 

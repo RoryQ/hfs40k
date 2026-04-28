@@ -6,7 +6,7 @@ title: Quella Vecchia Locanda - Il Tempo Della Gioia (1974) [Remastered FLAC]
 artist: Quella Vecchia Locanda
 album: Il Tempo Della Gioia
 spotify_url: https://open.spotify.com/search/Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
-apple_music_url: https://music.apple.com/us/search?term=Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
+apple_music_url: https://music.apple.com/search?term=Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
 youtube_url: https://www.youtube.com/results?search_query=Quella%20Vecchia%20Locanda%20Il%20Tempo%20Della%20Gioia
 ---
 

@@ -6,7 +6,7 @@ title: Sparklehorse - Good Morning Spider (FLAC)
 artist: Sparklehorse
 album: Good Morning Spider
 spotify_url: https://open.spotify.com/search/Sparklehorse%20Good%20Morning%20Spider
-apple_music_url: https://music.apple.com/us/search?term=Sparklehorse%20Good%20Morning%20Spider
+apple_music_url: https://music.apple.com/search?term=Sparklehorse%20Good%20Morning%20Spider
 youtube_url: https://www.youtube.com/results?search_query=Sparklehorse%20Good%20Morning%20Spider
 ---
 

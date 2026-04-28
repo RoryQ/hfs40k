@@ -6,7 +6,7 @@ title: Fennesz - Endless Summer (2001) [FLAC]
 artist: Fennesz
 album: Endless Summer
 spotify_url: https://open.spotify.com/search/Fennesz%20Endless%20Summer
-apple_music_url: https://music.apple.com/us/search?term=Fennesz%20Endless%20Summer
+apple_music_url: https://music.apple.com/search?term=Fennesz%20Endless%20Summer
 youtube_url: https://www.youtube.com/results?search_query=Fennesz%20Endless%20Summer
 ---
 

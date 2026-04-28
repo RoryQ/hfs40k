@@ -6,7 +6,7 @@ title: Herbie Hancock - Sextant (1973)
 artist: Herbie Hancock
 album: Sextant
 spotify_url: https://open.spotify.com/search/Herbie%20Hancock%20Sextant
-apple_music_url: https://music.apple.com/us/search?term=Herbie%20Hancock%20Sextant
+apple_music_url: https://music.apple.com/search?term=Herbie%20Hancock%20Sextant
 youtube_url: https://www.youtube.com/results?search_query=Herbie%20Hancock%20Sextant
 ---
 

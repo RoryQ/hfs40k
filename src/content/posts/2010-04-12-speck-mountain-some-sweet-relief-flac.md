@@ -6,7 +6,7 @@ title: Speck Mountain - Some Sweet Relief (FLAC)
 artist: Speck Mountain
 album: Some Sweet Relief
 spotify_url: https://open.spotify.com/search/Speck%20Mountain%20Some%20Sweet%20Relief
-apple_music_url: https://music.apple.com/us/search?term=Speck%20Mountain%20Some%20Sweet%20Relief
+apple_music_url: https://music.apple.com/search?term=Speck%20Mountain%20Some%20Sweet%20Relief
 youtube_url: https://www.youtube.com/results?search_query=Speck%20Mountain%20Some%20Sweet%20Relief
 ---
 

@@ -6,7 +6,7 @@ title: Neurosis - Enemy of the Sun (FLAC)
 artist: Neurosis
 album: Enemy of the Sun
 spotify_url: https://open.spotify.com/search/Neurosis%20Enemy%20of%20the%20Sun
-apple_music_url: https://music.apple.com/us/search?term=Neurosis%20Enemy%20of%20the%20Sun
+apple_music_url: https://music.apple.com/search?term=Neurosis%20Enemy%20of%20the%20Sun
 youtube_url: https://www.youtube.com/results?search_query=Neurosis%20Enemy%20of%20the%20Sun
 ---
 

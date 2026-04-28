@@ -6,7 +6,7 @@ title: "Negur\u0103 Bunget - OM (2006) [FLAC]"
 artist: "Negur\u0103 Bunget"
 album: OM
 spotify_url: https://open.spotify.com/search/Negur%C4%83%20Bunget%20OM
-apple_music_url: https://geo.music.apple.com/au/album/_/207510903?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/207510903
 youtube_url: https://www.youtube.com/results?search_query=Negur%C4%83%20Bunget%20OM
 ---
 

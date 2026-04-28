@@ -6,7 +6,7 @@ title: Marsen Jules - Golden [2008, FLAC] and Les Fleurs [2006, 320]
 artist: Marsen Jules
 album: Golden
 spotify_url: https://open.spotify.com/search/Marsen%20Jules%20Golden
-apple_music_url: https://geo.music.apple.com/au/album/_/258478059?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/258478059
 youtube_url: https://www.youtube.com/results?search_query=Marsen%20Jules%20Golden
 ---
 

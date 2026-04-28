@@ -6,7 +6,7 @@ title: Galaxie 500 - Today + Uncollected (FLAC)
 artist: Galaxie 500
 album: Today + Uncollected
 spotify_url: https://open.spotify.com/search/Galaxie%20500%20Today%20%2B%20Uncollected
-apple_music_url: https://music.apple.com/us/search?term=Galaxie%20500%20Today%20%2B%20Uncollected
+apple_music_url: https://music.apple.com/search?term=Galaxie%20500%20Today%20%2B%20Uncollected
 youtube_url: https://www.youtube.com/results?search_query=Galaxie%20500%20Today%20%2B%20Uncollected
 ---
 

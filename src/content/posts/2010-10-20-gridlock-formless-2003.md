@@ -6,7 +6,7 @@ title: Gridlock - Formless (2003)
 artist: Gridlock
 album: Formless
 spotify_url: https://open.spotify.com/search/Gridlock%20Formless
-apple_music_url: https://music.apple.com/us/search?term=Gridlock%20Formless
+apple_music_url: https://music.apple.com/search?term=Gridlock%20Formless
 youtube_url: https://www.youtube.com/results?search_query=Gridlock%20Formless
 ---
 

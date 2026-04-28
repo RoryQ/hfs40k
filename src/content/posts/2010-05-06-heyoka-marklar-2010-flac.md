@@ -6,7 +6,7 @@ title: Heyoka - Marklar (2010) [FLAC]
 artist: Heyoka
 album: Marklar
 spotify_url: https://open.spotify.com/search/Heyoka%20Marklar
-apple_music_url: https://music.apple.com/us/search?term=Heyoka%20Marklar
+apple_music_url: https://music.apple.com/search?term=Heyoka%20Marklar
 youtube_url: https://www.youtube.com/results?search_query=Heyoka%20Marklar
 ---
 

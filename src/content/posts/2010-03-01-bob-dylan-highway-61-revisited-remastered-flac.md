@@ -6,7 +6,7 @@ title: Bob Dylan - Highway 61 Revisited (Remastered FLAC)
 artist: Bob Dylan
 album: Highway 61 Revisited
 spotify_url: https://open.spotify.com/search/Bob%20Dylan%20Highway%2061%20Revisited
-apple_music_url: https://geo.music.apple.com/au/album/_/201281514?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/201281514
 youtube_url: https://www.youtube.com/results?search_query=Bob%20Dylan%20Highway%2061%20Revisited
 ---
 

@@ -6,7 +6,7 @@ title: "Jun Togawa (\u6238\u5DDD\u7D14) - Tamahime-Sama (\u7389\u59EB\u69D8) [FL
 artist: "Jun Togawa (\u6238\u5DDD\u7D14)"
 album: Tamahime-Sama
 spotify_url: https://open.spotify.com/search/Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
-apple_music_url: https://music.apple.com/us/search?term=Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
+apple_music_url: https://music.apple.com/search?term=Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
 youtube_url: https://www.youtube.com/results?search_query=Jun%20Togawa%20%28%E6%88%B8%E5%B7%9D%E7%B4%94%29%20Tamahime-Sama
 ---
 

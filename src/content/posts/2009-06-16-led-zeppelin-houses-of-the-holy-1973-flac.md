@@ -6,7 +6,7 @@ title: Led Zeppelin - Houses Of The Holy (1973) [FLAC]
 artist: Led Zeppelin
 album: Houses Of The Holy
 spotify_url: https://open.spotify.com/search/Led%20Zeppelin%20Houses%20Of%20The%20Holy
-apple_music_url: https://music.apple.com/us/search?term=Led%20Zeppelin%20Houses%20Of%20The%20Holy
+apple_music_url: https://music.apple.com/search?term=Led%20Zeppelin%20Houses%20Of%20The%20Holy
 youtube_url: https://www.youtube.com/results?search_query=Led%20Zeppelin%20Houses%20Of%20The%20Holy
 ---
 

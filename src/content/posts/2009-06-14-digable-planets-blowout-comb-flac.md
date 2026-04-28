@@ -6,7 +6,7 @@ title: Digable Planets - Blowout Comb (FLAC)
 artist: Digable Planets
 album: Blowout Comb
 spotify_url: https://open.spotify.com/search/Digable%20Planets%20Blowout%20Comb
-apple_music_url: https://music.apple.com/us/search?term=Digable%20Planets%20Blowout%20Comb
+apple_music_url: https://music.apple.com/search?term=Digable%20Planets%20Blowout%20Comb
 youtube_url: https://www.youtube.com/results?search_query=Digable%20Planets%20Blowout%20Comb
 ---
 

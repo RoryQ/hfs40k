@@ -6,7 +6,7 @@ title: T. Rex - Electric Warrior (2003 Remaster + Bonus Tracks FLAC)
 artist: T. Rex
 album: Electric Warrior
 spotify_url: https://open.spotify.com/search/T.%20Rex%20Electric%20Warrior
-apple_music_url: https://geo.music.apple.com/au/album/_/5133011?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/5133011
 youtube_url: https://www.youtube.com/results?search_query=T.%20Rex%20Electric%20Warrior
 ---
 

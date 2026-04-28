@@ -6,7 +6,7 @@ title: Pram - The Stars Are So Big, The Earth Is So Small... Stay as You Are [FL
 artist: Pram
 album: The Stars Are So Big, The Earth Is So Small... Stay as You Are
 spotify_url: https://open.spotify.com/search/Pram%20The%20Stars%20Are%20So%20Big%2C%20The%20Earth%20Is%20So%20Small...%20Stay%20as%20You%20Are
-apple_music_url: https://geo.music.apple.com/au/album/_/251663786?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/251663786
 youtube_url: https://www.youtube.com/results?search_query=Pram%20The%20Stars%20Are%20So%20Big%2C%20The%20Earth%20Is%20So%20Small...%20Stay%20as%20You%20Are
 ---
 

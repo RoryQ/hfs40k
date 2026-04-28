@@ -6,7 +6,7 @@ title: Siege - Drop Dead
 artist: Siege
 album: Drop Dead
 spotify_url: https://open.spotify.com/search/Siege%20Drop%20Dead
-apple_music_url: https://music.apple.com/us/search?term=Siege%20Drop%20Dead
+apple_music_url: https://music.apple.com/search?term=Siege%20Drop%20Dead
 youtube_url: https://www.youtube.com/results?search_query=Siege%20Drop%20Dead
 ---
 

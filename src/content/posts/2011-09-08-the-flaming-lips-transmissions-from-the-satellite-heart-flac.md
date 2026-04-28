@@ -6,7 +6,7 @@ title: The Flaming Lips - Transmissions From The Satellite Heart (FLAC)
 artist: The Flaming Lips
 album: Transmissions From The Satellite Heart
 spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Transmissions%20From%20The%20Satellite%20Heart
-apple_music_url: https://geo.music.apple.com/au/album/_/1231989623?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1231989623
 youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Transmissions%20From%20The%20Satellite%20Heart
 ---
 

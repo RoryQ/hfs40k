@@ -6,7 +6,7 @@ title: Fugazi - 13 Songs (FLAC)
 artist: Fugazi
 album: 13 Songs
 spotify_url: https://open.spotify.com/search/Fugazi%2013%20Songs
-apple_music_url: https://music.apple.com/us/search?term=Fugazi%2013%20Songs
+apple_music_url: https://music.apple.com/search?term=Fugazi%2013%20Songs
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%2013%20Songs
 ---
 

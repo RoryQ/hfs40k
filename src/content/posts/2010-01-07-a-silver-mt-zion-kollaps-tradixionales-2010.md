@@ -6,7 +6,7 @@ title: A Silver Mt. Zion - Kollaps Tradixionales (2010)
 artist: A Silver Mt. Zion
 album: Kollaps Tradixionales
 spotify_url: https://open.spotify.com/search/A%20Silver%20Mt.%20Zion%20Kollaps%20Tradixionales
-apple_music_url: https://geo.music.apple.com/au/album/_/482060439?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/482060439
 youtube_url: https://www.youtube.com/results?search_query=A%20Silver%20Mt.%20Zion%20Kollaps%20Tradixionales
 ---
 

@@ -6,7 +6,7 @@ title: The Velvet Underground - White Light / White Heat (FLAC)
 artist: The Velvet Underground
 album: White Light / White Heat
 spotify_url: https://open.spotify.com/search/The%20Velvet%20Underground%20White%20Light%20/%20White%20Heat
-apple_music_url: https://music.apple.com/us/search?term=The%20Velvet%20Underground%20White%20Light%20/%20White%20Heat
+apple_music_url: https://music.apple.com/search?term=The%20Velvet%20Underground%20White%20Light%20/%20White%20Heat
 youtube_url: https://www.youtube.com/results?search_query=The%20Velvet%20Underground%20White%20Light%20/%20White%20Heat
 ---
 

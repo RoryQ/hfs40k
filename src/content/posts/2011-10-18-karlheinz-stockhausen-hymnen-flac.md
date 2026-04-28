@@ -6,7 +6,7 @@ title: Karlheinz Stockhausen - Hymnen (FLAC)
 artist: Karlheinz Stockhausen
 album: Hymnen
 spotify_url: https://open.spotify.com/search/Karlheinz%20Stockhausen%20Hymnen
-apple_music_url: https://geo.music.apple.com/au/album/_/1704636019?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1704636019
 youtube_url: https://www.youtube.com/results?search_query=Karlheinz%20Stockhausen%20Hymnen
 ---
 

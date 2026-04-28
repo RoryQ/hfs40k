@@ -6,7 +6,7 @@ title: PJ Harvey - Rid Of Me (FLAC)
 artist: PJ Harvey
 album: Rid Of Me
 spotify_url: https://open.spotify.com/search/PJ%20Harvey%20Rid%20Of%20Me
-apple_music_url: https://geo.music.apple.com/au/album/_/1521894413?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1521894413
 youtube_url: https://www.youtube.com/results?search_query=PJ%20Harvey%20Rid%20Of%20Me
 ---
 

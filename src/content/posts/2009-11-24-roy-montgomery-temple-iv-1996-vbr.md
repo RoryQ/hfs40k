@@ -6,7 +6,7 @@ title: Roy Montgomery - Temple IV (1996) [VBR]
 artist: Roy Montgomery
 album: Temple IV
 spotify_url: https://open.spotify.com/search/Roy%20Montgomery%20Temple%20IV
-apple_music_url: https://music.apple.com/us/search?term=Roy%20Montgomery%20Temple%20IV
+apple_music_url: https://music.apple.com/search?term=Roy%20Montgomery%20Temple%20IV
 youtube_url: https://www.youtube.com/results?search_query=Roy%20Montgomery%20Temple%20IV
 ---
 

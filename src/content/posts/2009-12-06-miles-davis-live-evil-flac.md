@@ -6,7 +6,7 @@ title: Miles Davis - Live-Evil (FLAC)
 artist: Miles Davis
 album: Live-Evil
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20Live-Evil
-apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20Live-Evil
+apple_music_url: https://music.apple.com/search?term=Miles%20Davis%20Live-Evil
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20Live-Evil
 ---
 

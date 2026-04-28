@@ -6,7 +6,7 @@ title: Worrytrain - Fog Dance My Moth Kingdom (2007)
 artist: Worrytrain
 album: Fog Dance My Moth Kingdom
 spotify_url: https://open.spotify.com/search/Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
-apple_music_url: https://music.apple.com/us/search?term=Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
+apple_music_url: https://music.apple.com/search?term=Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
 youtube_url: https://www.youtube.com/results?search_query=Worrytrain%20Fog%20Dance%20My%20Moth%20Kingdom
 ---
 

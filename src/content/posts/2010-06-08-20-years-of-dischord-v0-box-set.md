@@ -6,7 +6,7 @@ title: 20 Years of Dischord (v0 Box Set)
 artist: Dischord
 album: 20 Years of Dischord (v0 Box Set)
 spotify_url: https://open.spotify.com/search/Dischord%2020%20Years%20of%20Dischord%20%28v0%20Box%20Set%29
-apple_music_url: https://music.apple.com/us/search?term=Dischord%2020%20Years%20of%20Dischord%20%28v0%20Box%20Set%29
+apple_music_url: https://music.apple.com/search?term=Dischord%2020%20Years%20of%20Dischord%20%28v0%20Box%20Set%29
 youtube_url: https://www.youtube.com/results?search_query=Dischord%2020%20Years%20of%20Dischord%20%28v0%20Box%20Set%29
 ---
 

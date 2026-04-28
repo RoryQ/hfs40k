@@ -6,7 +6,7 @@ title: Susumu Yokota - Mother (2009)
 artist: Susumu Yokota
 album: Mother
 spotify_url: https://open.spotify.com/search/Susumu%20Yokota%20Mother
-apple_music_url: https://music.apple.com/us/search?term=Susumu%20Yokota%20Mother
+apple_music_url: https://music.apple.com/search?term=Susumu%20Yokota%20Mother
 youtube_url: https://www.youtube.com/results?search_query=Susumu%20Yokota%20Mother
 ---
 

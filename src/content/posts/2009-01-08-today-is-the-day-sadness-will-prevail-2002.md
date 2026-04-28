@@ -6,7 +6,7 @@ title: Today Is The Day - Sadness Will Prevail (2002)
 artist: Today Is The Day
 album: Sadness Will Prevail
 spotify_url: https://open.spotify.com/search/Today%20Is%20The%20Day%20Sadness%20Will%20Prevail
-apple_music_url: https://music.apple.com/us/search?term=Today%20Is%20The%20Day%20Sadness%20Will%20Prevail
+apple_music_url: https://music.apple.com/search?term=Today%20Is%20The%20Day%20Sadness%20Will%20Prevail
 youtube_url: https://www.youtube.com/results?search_query=Today%20Is%20The%20Day%20Sadness%20Will%20Prevail
 ---
 

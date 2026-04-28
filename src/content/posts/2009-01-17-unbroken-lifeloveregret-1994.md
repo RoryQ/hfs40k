@@ -6,7 +6,7 @@ title: Unbroken - Life.Love.Regret (1994)
 artist: Unbroken
 album: Life.Love.Regret
 spotify_url: https://open.spotify.com/search/Unbroken%20Life.Love.Regret
-apple_music_url: https://music.apple.com/us/search?term=Unbroken%20Life.Love.Regret
+apple_music_url: https://music.apple.com/search?term=Unbroken%20Life.Love.Regret
 youtube_url: https://www.youtube.com/results?search_query=Unbroken%20Life.Love.Regret
 ---
 

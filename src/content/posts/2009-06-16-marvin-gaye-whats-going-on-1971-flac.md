@@ -6,7 +6,7 @@ title: Marvin Gaye - What's Going On (1971) [FLAC]
 artist: Marvin Gaye
 album: What's Going On
 spotify_url: https://open.spotify.com/search/Marvin%20Gaye%20What%27s%20Going%20On
-apple_music_url: https://music.apple.com/us/search?term=Marvin%20Gaye%20What%27s%20Going%20On
+apple_music_url: https://music.apple.com/search?term=Marvin%20Gaye%20What%27s%20Going%20On
 youtube_url: https://www.youtube.com/results?search_query=Marvin%20Gaye%20What%27s%20Going%20On
 ---
 

@@ -6,7 +6,7 @@ title: "Henryk G\xF3recki - Symphony No. 3 [FLAC]"
 artist: "Henryk G\xF3recki"
 album: Symphony No. 3
 spotify_url: https://open.spotify.com/search/Henryk%20G%C3%B3recki%20Symphony%20No.%203
-apple_music_url: https://music.apple.com/us/search?term=Henryk%20G%C3%B3recki%20Symphony%20No.%203
+apple_music_url: https://music.apple.com/search?term=Henryk%20G%C3%B3recki%20Symphony%20No.%203
 youtube_url: https://www.youtube.com/results?search_query=Henryk%20G%C3%B3recki%20Symphony%20No.%203
 ---
 

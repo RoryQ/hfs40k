@@ -6,7 +6,7 @@ title: Slowdive - Souvlaki (24bit-96khz Vinyl)
 artist: Slowdive
 album: Souvlaki
 spotify_url: https://open.spotify.com/search/Slowdive%20Souvlaki
-apple_music_url: https://music.apple.com/us/search?term=Slowdive%20Souvlaki
+apple_music_url: https://music.apple.com/search?term=Slowdive%20Souvlaki
 youtube_url: https://www.youtube.com/results?search_query=Slowdive%20Souvlaki
 ---
 

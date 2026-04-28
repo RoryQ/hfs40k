@@ -6,7 +6,7 @@ title: Blue Sky Black Death - Late Night Cinema (2008, FLAC)
 artist: Blue Sky Black Death
 album: Late Night Cinema
 spotify_url: https://open.spotify.com/search/Blue%20Sky%20Black%20Death%20Late%20Night%20Cinema
-apple_music_url: https://geo.music.apple.com/au/album/_/276904097?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/276904097
 youtube_url: https://www.youtube.com/results?search_query=Blue%20Sky%20Black%20Death%20Late%20Night%20Cinema
 ---
 

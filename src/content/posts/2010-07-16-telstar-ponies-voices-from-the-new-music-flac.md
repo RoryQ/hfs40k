@@ -6,7 +6,7 @@ title: Telstar Ponies - Voices from the New Music [FLAC]
 artist: Telstar Ponies
 album: Voices from the New Music
 spotify_url: https://open.spotify.com/search/Telstar%20Ponies%20Voices%20from%20the%20New%20Music
-apple_music_url: https://music.apple.com/us/search?term=Telstar%20Ponies%20Voices%20from%20the%20New%20Music
+apple_music_url: https://music.apple.com/search?term=Telstar%20Ponies%20Voices%20from%20the%20New%20Music
 youtube_url: https://www.youtube.com/results?search_query=Telstar%20Ponies%20Voices%20from%20the%20New%20Music
 ---
 

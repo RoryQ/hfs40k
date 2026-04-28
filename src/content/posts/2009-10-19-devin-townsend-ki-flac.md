@@ -6,7 +6,7 @@ title: Devin Townsend - Ki (FLAC)
 artist: Devin Townsend
 album: Ki
 spotify_url: https://open.spotify.com/search/Devin%20Townsend%20Ki
-apple_music_url: https://music.apple.com/us/search?term=Devin%20Townsend%20Ki
+apple_music_url: https://music.apple.com/search?term=Devin%20Townsend%20Ki
 youtube_url: https://www.youtube.com/results?search_query=Devin%20Townsend%20Ki
 ---
 

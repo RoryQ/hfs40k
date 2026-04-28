@@ -6,7 +6,7 @@ title: Van der Graaf Generator - Still Life (FLAC)
 artist: Van der Graaf Generator
 album: Still Life
 spotify_url: https://open.spotify.com/search/Van%20der%20Graaf%20Generator%20Still%20Life
-apple_music_url: https://music.apple.com/us/search?term=Van%20der%20Graaf%20Generator%20Still%20Life
+apple_music_url: https://music.apple.com/search?term=Van%20der%20Graaf%20Generator%20Still%20Life
 youtube_url: https://www.youtube.com/results?search_query=Van%20der%20Graaf%20Generator%20Still%20Life
 ---
 

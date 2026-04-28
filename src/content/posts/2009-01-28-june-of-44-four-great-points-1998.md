@@ -6,7 +6,7 @@ title: June of 44 - Four Great Points (1998)
 artist: June of 44
 album: Four Great Points
 spotify_url: https://open.spotify.com/search/June%20of%2044%20Four%20Great%20Points
-apple_music_url: https://geo.music.apple.com/au/album/_/1120175663?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1120175663
 youtube_url: https://www.youtube.com/results?search_query=June%20of%2044%20Four%20Great%20Points
 ---
 

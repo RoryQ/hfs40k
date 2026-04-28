@@ -6,7 +6,7 @@ title: Panda Bear - Panda Bear (FLAC)
 artist: Panda Bear
 album: Panda Bear
 spotify_url: https://open.spotify.com/search/Panda%20Bear%20Panda%20Bear
-apple_music_url: https://geo.music.apple.com/au/album/_/1830490112?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1830490112
 youtube_url: https://www.youtube.com/results?search_query=Panda%20Bear%20Panda%20Bear
 ---
 

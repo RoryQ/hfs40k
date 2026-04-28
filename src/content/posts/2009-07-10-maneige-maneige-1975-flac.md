@@ -6,7 +6,7 @@ title: Maneige - Maneige (1975) [FLAC]
 artist: Maneige
 album: Maneige
 spotify_url: https://open.spotify.com/search/Maneige%20Maneige
-apple_music_url: https://music.apple.com/us/search?term=Maneige%20Maneige
+apple_music_url: https://music.apple.com/search?term=Maneige%20Maneige
 youtube_url: https://www.youtube.com/results?search_query=Maneige%20Maneige
 ---
 

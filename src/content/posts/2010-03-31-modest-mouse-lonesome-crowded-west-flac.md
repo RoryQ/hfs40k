@@ -6,7 +6,7 @@ title: Modest Mouse -  Lonesome Crowded West (FLAC)
 artist: Modest Mouse
 album: Lonesome Crowded West
 spotify_url: https://open.spotify.com/search/Modest%20Mouse%20Lonesome%20Crowded%20West
-apple_music_url: https://music.apple.com/us/search?term=Modest%20Mouse%20Lonesome%20Crowded%20West
+apple_music_url: https://music.apple.com/search?term=Modest%20Mouse%20Lonesome%20Crowded%20West
 youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20Lonesome%20Crowded%20West
 ---
 

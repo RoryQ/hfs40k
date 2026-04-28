@@ -6,7 +6,7 @@ title: "Amon D\xFC\xFCl II - Yeti (FLAC Remastered with bonus tracks)"
 artist: "Amon D\xFC\xFCl II"
 album: Yeti
 spotify_url: https://open.spotify.com/search/Amon%20D%C3%BC%C3%BCl%20II%20Yeti
-apple_music_url: https://geo.music.apple.com/au/album/_/1675513888?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1675513888
 youtube_url: https://www.youtube.com/results?search_query=Amon%20D%C3%BC%C3%BCl%20II%20Yeti
 ---
 

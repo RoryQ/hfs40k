@@ -6,7 +6,7 @@ title: Deathspell Omega - Si Monvmentvm Reqvires Circvmspice (FLAC)
 artist: Deathspell Omega
 album: Si Monvmentvm Reqvires Circvmspice
 spotify_url: https://open.spotify.com/search/Deathspell%20Omega%20Si%20Monvmentvm%20Reqvires%20Circvmspice
-apple_music_url: https://geo.music.apple.com/au/album/_/1396572634?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1396572634
 youtube_url: https://www.youtube.com/results?search_query=Deathspell%20Omega%20Si%20Monvmentvm%20Reqvires%20Circvmspice
 ---
 

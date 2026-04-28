@@ -6,7 +6,7 @@ title: God - The Anatonomy Of Addiction (1994)
 artist: God
 album: The Anatonomy Of Addiction
 spotify_url: https://open.spotify.com/search/God%20The%20Anatonomy%20Of%20Addiction
-apple_music_url: https://music.apple.com/us/search?term=God%20The%20Anatonomy%20Of%20Addiction
+apple_music_url: https://music.apple.com/search?term=God%20The%20Anatonomy%20Of%20Addiction
 youtube_url: https://www.youtube.com/results?search_query=God%20The%20Anatonomy%20Of%20Addiction
 ---
 

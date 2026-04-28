@@ -6,7 +6,7 @@ title: The Feelies - Crazy Rhythms (FLAC)
 artist: The Feelies
 album: Crazy Rhythms
 spotify_url: https://open.spotify.com/search/The%20Feelies%20Crazy%20Rhythms
-apple_music_url: https://geo.music.apple.com/au/album/_/331209451?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/331209451
 youtube_url: https://www.youtube.com/results?search_query=The%20Feelies%20Crazy%20Rhythms
 ---
 

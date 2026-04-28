@@ -6,7 +6,7 @@ title: Polvo - Celebrate the New Dark Age (FLAC)
 artist: Polvo
 album: Celebrate the New Dark Age
 spotify_url: https://open.spotify.com/search/Polvo%20Celebrate%20the%20New%20Dark%20Age
-apple_music_url: https://music.apple.com/us/search?term=Polvo%20Celebrate%20the%20New%20Dark%20Age
+apple_music_url: https://music.apple.com/search?term=Polvo%20Celebrate%20the%20New%20Dark%20Age
 youtube_url: https://www.youtube.com/results?search_query=Polvo%20Celebrate%20the%20New%20Dark%20Age
 ---
 

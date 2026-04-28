@@ -6,7 +6,7 @@ title: Brian Eno - Discreet Music (1975)
 artist: Brian Eno
 album: Discreet Music
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20Discreet%20Music
-apple_music_url: https://geo.music.apple.com/au/album/_/724643909?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/724643909
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Discreet%20Music
 ---
 

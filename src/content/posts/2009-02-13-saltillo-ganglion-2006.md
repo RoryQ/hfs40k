@@ -6,7 +6,7 @@ title: Saltillo - Ganglion (2006)
 artist: Saltillo
 album: Ganglion
 spotify_url: https://open.spotify.com/search/Saltillo%20Ganglion
-apple_music_url: https://music.apple.com/us/search?term=Saltillo%20Ganglion
+apple_music_url: https://music.apple.com/search?term=Saltillo%20Ganglion
 youtube_url: https://www.youtube.com/results?search_query=Saltillo%20Ganglion
 ---
 

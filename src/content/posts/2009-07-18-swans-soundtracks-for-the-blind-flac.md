@@ -6,7 +6,7 @@ title: Swans - Soundtracks for the Blind (FLAC)
 artist: Swans
 album: Soundtracks for the Blind
 spotify_url: https://open.spotify.com/search/Swans%20Soundtracks%20for%20the%20Blind
-apple_music_url: https://music.apple.com/us/search?term=Swans%20Soundtracks%20for%20the%20Blind
+apple_music_url: https://music.apple.com/search?term=Swans%20Soundtracks%20for%20the%20Blind
 youtube_url: https://www.youtube.com/results?search_query=Swans%20Soundtracks%20for%20the%20Blind
 ---
 

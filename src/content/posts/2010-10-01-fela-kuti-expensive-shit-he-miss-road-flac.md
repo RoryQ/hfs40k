@@ -6,7 +6,7 @@ title: Fela Kuti - Expensive Shit + He Miss Road (FLAC)
 artist: Fela Kuti
 album: Expensive Shit + He Miss Road
 spotify_url: https://open.spotify.com/search/Fela%20Kuti%20Expensive%20Shit%20%2B%20He%20Miss%20Road
-apple_music_url: https://music.apple.com/us/search?term=Fela%20Kuti%20Expensive%20Shit%20%2B%20He%20Miss%20Road
+apple_music_url: https://music.apple.com/search?term=Fela%20Kuti%20Expensive%20Shit%20%2B%20He%20Miss%20Road
 youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Expensive%20Shit%20%2B%20He%20Miss%20Road
 ---
 

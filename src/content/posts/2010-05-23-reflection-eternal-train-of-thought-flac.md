@@ -6,7 +6,7 @@ title: Reflection Eternal - Train of Thought (FLAC)
 artist: Reflection Eternal
 album: Train of Thought
 spotify_url: https://open.spotify.com/search/Reflection%20Eternal%20Train%20of%20Thought
-apple_music_url: https://music.apple.com/us/search?term=Reflection%20Eternal%20Train%20of%20Thought
+apple_music_url: https://music.apple.com/search?term=Reflection%20Eternal%20Train%20of%20Thought
 youtube_url: https://www.youtube.com/results?search_query=Reflection%20Eternal%20Train%20of%20Thought
 ---
 

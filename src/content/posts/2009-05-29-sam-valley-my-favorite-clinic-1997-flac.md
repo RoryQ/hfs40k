@@ -6,7 +6,7 @@ title: Sam & Valley - My Favorite Clinic (1997) [FLAC]
 artist: Sam & Valley
 album: My Favorite Clinic
 spotify_url: https://open.spotify.com/search/Sam%20%26%20Valley%20My%20Favorite%20Clinic
-apple_music_url: https://music.apple.com/us/search?term=Sam%20%26%20Valley%20My%20Favorite%20Clinic
+apple_music_url: https://music.apple.com/search?term=Sam%20%26%20Valley%20My%20Favorite%20Clinic
 youtube_url: https://www.youtube.com/results?search_query=Sam%20%26%20Valley%20My%20Favorite%20Clinic
 ---
 

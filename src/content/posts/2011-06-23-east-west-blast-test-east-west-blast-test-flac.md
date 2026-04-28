@@ -6,7 +6,7 @@ title: East West Blast Test - East West Blast Test (FLAC)
 artist: East West Blast Test
 album: East West Blast Test
 spotify_url: https://open.spotify.com/search/East%20West%20Blast%20Test%20East%20West%20Blast%20Test
-apple_music_url: https://music.apple.com/us/search?term=East%20West%20Blast%20Test%20East%20West%20Blast%20Test
+apple_music_url: https://music.apple.com/search?term=East%20West%20Blast%20Test%20East%20West%20Blast%20Test
 youtube_url: https://www.youtube.com/results?search_query=East%20West%20Blast%20Test%20East%20West%20Blast%20Test
 ---
 

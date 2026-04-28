@@ -6,7 +6,7 @@ title: The Allman Brothers Band - The Fillmore Concerts (1971)
 artist: The Allman Brothers Band
 album: The Fillmore Concerts
 spotify_url: https://open.spotify.com/search/The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
-apple_music_url: https://music.apple.com/us/search?term=The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
+apple_music_url: https://music.apple.com/search?term=The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
 youtube_url: https://www.youtube.com/results?search_query=The%20Allman%20Brothers%20Band%20The%20Fillmore%20Concerts
 ---
 

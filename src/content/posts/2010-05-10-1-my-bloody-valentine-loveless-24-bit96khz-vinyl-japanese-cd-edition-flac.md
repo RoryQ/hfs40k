@@ -7,7 +7,7 @@ title: '#1 My Bloody Valentine - Loveless (24-bit/96khz Vinyl & Japanese CD Edit
 artist: '#1 My Bloody Valentine'
 album: Loveless
 spotify_url: https://open.spotify.com/search/%231%20My%20Bloody%20Valentine%20Loveless
-apple_music_url: https://music.apple.com/us/search?term=%231%20My%20Bloody%20Valentine%20Loveless
+apple_music_url: https://music.apple.com/search?term=%231%20My%20Bloody%20Valentine%20Loveless
 youtube_url: https://www.youtube.com/results?search_query=%231%20My%20Bloody%20Valentine%20Loveless
 ---
 

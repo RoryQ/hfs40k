@@ -6,7 +6,7 @@ title: 'Brian Eno - Ambient 1: Music for Airports (FLAC)'
 artist: Brian Eno
 album: 'Ambient 1: Music for Airports'
 spotify_url: https://open.spotify.com/search/Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
-apple_music_url: https://music.apple.com/us/search?term=Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
+apple_music_url: https://music.apple.com/search?term=Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
 youtube_url: https://www.youtube.com/results?search_query=Brian%20Eno%20Ambient%201%3A%20Music%20for%20Airports
 ---
 

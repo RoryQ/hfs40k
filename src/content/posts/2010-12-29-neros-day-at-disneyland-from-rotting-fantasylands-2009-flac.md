@@ -6,7 +6,7 @@ title: Nero's Day at Disneyland - From Rotting Fantasylands (2009) [FLAC]
 artist: Nero's Day at Disneyland
 album: From Rotting Fantasylands
 spotify_url: https://open.spotify.com/search/Nero%27s%20Day%20at%20Disneyland%20From%20Rotting%20Fantasylands
-apple_music_url: https://music.apple.com/us/search?term=Nero%27s%20Day%20at%20Disneyland%20From%20Rotting%20Fantasylands
+apple_music_url: https://music.apple.com/search?term=Nero%27s%20Day%20at%20Disneyland%20From%20Rotting%20Fantasylands
 youtube_url: https://www.youtube.com/results?search_query=Nero%27s%20Day%20at%20Disneyland%20From%20Rotting%20Fantasylands
 ---
 

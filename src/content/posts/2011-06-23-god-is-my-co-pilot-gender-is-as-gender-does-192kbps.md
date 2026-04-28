@@ -6,7 +6,7 @@ title: God Is My Co-Pilot - Gender Is As Gender Does [192kbps]
 artist: God Is My Co
 album: Pilot - Gender Is As Gender Does
 spotify_url: https://open.spotify.com/search/God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
-apple_music_url: https://music.apple.com/us/search?term=God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
+apple_music_url: https://music.apple.com/search?term=God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
 youtube_url: https://www.youtube.com/results?search_query=God%20Is%20My%20Co%20Pilot%20-%20Gender%20Is%20As%20Gender%20Does
 ---
 

@@ -6,7 +6,7 @@ title: Filteria - Operation Pulse FLAC
 artist: Filteria
 album: Operation Pulse FLAC
 spotify_url: https://open.spotify.com/search/Filteria%20Operation%20Pulse%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Filteria%20Operation%20Pulse%20FLAC
+apple_music_url: https://music.apple.com/search?term=Filteria%20Operation%20Pulse%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Filteria%20Operation%20Pulse%20FLAC
 ---
 

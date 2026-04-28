@@ -6,7 +6,7 @@ title: Ange - Au-Dela Du Delire (FLAC)
 artist: Ange
 album: Au-Dela Du Delire
 spotify_url: https://open.spotify.com/search/Ange%20Au-Dela%20Du%20Delire
-apple_music_url: https://music.apple.com/us/search?term=Ange%20Au-Dela%20Du%20Delire
+apple_music_url: https://music.apple.com/search?term=Ange%20Au-Dela%20Du%20Delire
 youtube_url: https://www.youtube.com/results?search_query=Ange%20Au-Dela%20Du%20Delire
 ---
 

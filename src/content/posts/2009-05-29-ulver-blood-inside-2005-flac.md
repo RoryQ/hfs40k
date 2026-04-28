@@ -6,7 +6,7 @@ title: Ulver - Blood Inside (2005) [FLAC]
 artist: Ulver
 album: Blood Inside
 spotify_url: https://open.spotify.com/search/Ulver%20Blood%20Inside
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20Blood%20Inside
+apple_music_url: https://music.apple.com/search?term=Ulver%20Blood%20Inside
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20Blood%20Inside
 ---
 

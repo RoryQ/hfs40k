@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Everything But The Girl
 album: Walking Wounded
 spotify_url: https://open.spotify.com/search/Everything%20But%20The%20Girl%20Walking%20Wounded
-apple_music_url: https://geo.music.apple.com/au/album/_/1562185593?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1562185593
 youtube_url: https://www.youtube.com/results?search_query=Everything%20But%20The%20Girl%20Walking%20Wounded
 ---
 

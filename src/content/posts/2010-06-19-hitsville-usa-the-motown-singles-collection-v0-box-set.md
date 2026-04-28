@@ -6,7 +6,7 @@ title: Hitsville USA - The Motown Singles Collection (v0 Box Set)
 artist: Hitsville USA
 album: The Motown Singles Collection
 spotify_url: https://open.spotify.com/search/Hitsville%20USA%20The%20Motown%20Singles%20Collection
-apple_music_url: https://music.apple.com/us/search?term=Hitsville%20USA%20The%20Motown%20Singles%20Collection
+apple_music_url: https://music.apple.com/search?term=Hitsville%20USA%20The%20Motown%20Singles%20Collection
 youtube_url: https://www.youtube.com/results?search_query=Hitsville%20USA%20The%20Motown%20Singles%20Collection
 ---
 

@@ -6,7 +6,7 @@ title: 65daysofstatic - The Destruction Of Small Ideas (FLAC)
 artist: 65daysofstatic
 album: The Destruction Of Small Ideas
 spotify_url: https://open.spotify.com/search/65daysofstatic%20The%20Destruction%20Of%20Small%20Ideas
-apple_music_url: https://music.apple.com/us/search?term=65daysofstatic%20The%20Destruction%20Of%20Small%20Ideas
+apple_music_url: https://music.apple.com/search?term=65daysofstatic%20The%20Destruction%20Of%20Small%20Ideas
 youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20The%20Destruction%20Of%20Small%20Ideas
 ---
 

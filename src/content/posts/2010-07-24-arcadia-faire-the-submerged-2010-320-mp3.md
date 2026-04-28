@@ -6,7 +6,7 @@ title: Arcadia Faire - The Submerged (2010) [320 mp3]
 artist: Arcadia Faire
 album: The Submerged
 spotify_url: https://open.spotify.com/search/Arcadia%20Faire%20The%20Submerged
-apple_music_url: https://music.apple.com/us/search?term=Arcadia%20Faire%20The%20Submerged
+apple_music_url: https://music.apple.com/search?term=Arcadia%20Faire%20The%20Submerged
 youtube_url: https://www.youtube.com/results?search_query=Arcadia%20Faire%20The%20Submerged
 ---
 

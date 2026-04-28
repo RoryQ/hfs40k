@@ -6,7 +6,7 @@ title: Okinawa Lifestyle - Naha (2010) 320
 artist: Okinawa Lifestyle
 album: Naha
 spotify_url: https://open.spotify.com/search/Okinawa%20Lifestyle%20Naha
-apple_music_url: https://music.apple.com/us/search?term=Okinawa%20Lifestyle%20Naha
+apple_music_url: https://music.apple.com/search?term=Okinawa%20Lifestyle%20Naha
 youtube_url: https://www.youtube.com/results?search_query=Okinawa%20Lifestyle%20Naha
 ---
 

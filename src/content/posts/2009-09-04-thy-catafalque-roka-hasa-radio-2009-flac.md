@@ -6,7 +6,7 @@ title: "Thy Catafalque - Ro\u0301ka Hasa Ra\u0301dio\u0301 (2009) [FLAC]"
 artist: Thy Catafalque
 album: "Ro\u0301ka Hasa Ra\u0301dio\u0301"
 spotify_url: https://open.spotify.com/search/Thy%20Catafalque%20Ro%CC%81ka%20Hasa%20Ra%CC%81dio%CC%81
-apple_music_url: https://music.apple.com/us/search?term=Thy%20Catafalque%20Ro%CC%81ka%20Hasa%20Ra%CC%81dio%CC%81
+apple_music_url: https://music.apple.com/search?term=Thy%20Catafalque%20Ro%CC%81ka%20Hasa%20Ra%CC%81dio%CC%81
 youtube_url: https://www.youtube.com/results?search_query=Thy%20Catafalque%20Ro%CC%81ka%20Hasa%20Ra%CC%81dio%CC%81
 ---
 

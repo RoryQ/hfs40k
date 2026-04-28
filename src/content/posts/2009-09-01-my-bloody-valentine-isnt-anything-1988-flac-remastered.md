@@ -6,7 +6,7 @@ title: My Bloody Valentine - Isn't Anything (1988) [FLAC Remastered]
 artist: My Bloody Valentine
 album: Isn't Anything
 spotify_url: https://open.spotify.com/search/My%20Bloody%20Valentine%20Isn%27t%20Anything
-apple_music_url: https://music.apple.com/us/search?term=My%20Bloody%20Valentine%20Isn%27t%20Anything
+apple_music_url: https://music.apple.com/search?term=My%20Bloody%20Valentine%20Isn%27t%20Anything
 youtube_url: https://www.youtube.com/results?search_query=My%20Bloody%20Valentine%20Isn%27t%20Anything
 ---
 

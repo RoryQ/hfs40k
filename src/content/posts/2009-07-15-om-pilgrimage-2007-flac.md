@@ -6,7 +6,7 @@ title: OM - Pilgrimage (2007) [FLAC]
 artist: OM
 album: Pilgrimage
 spotify_url: https://open.spotify.com/search/OM%20Pilgrimage
-apple_music_url: https://geo.music.apple.com/au/album/_/1220132029?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1220132029
 youtube_url: https://www.youtube.com/results?search_query=OM%20Pilgrimage
 ---
 

@@ -6,7 +6,7 @@ title: maudlin of the Well - My Fruit Psychobells... A Seed Combustible (1999) [
 artist: maudlin of the Well
 album: My Fruit Psychobells... A Seed Combustible
 spotify_url: https://open.spotify.com/search/maudlin%20of%20the%20Well%20My%20Fruit%20Psychobells...%20A%20Seed%20Combustible
-apple_music_url: https://music.apple.com/us/search?term=maudlin%20of%20the%20Well%20My%20Fruit%20Psychobells...%20A%20Seed%20Combustible
+apple_music_url: https://music.apple.com/search?term=maudlin%20of%20the%20Well%20My%20Fruit%20Psychobells...%20A%20Seed%20Combustible
 youtube_url: https://www.youtube.com/results?search_query=maudlin%20of%20the%20Well%20My%20Fruit%20Psychobells...%20A%20Seed%20Combustible
 ---
 

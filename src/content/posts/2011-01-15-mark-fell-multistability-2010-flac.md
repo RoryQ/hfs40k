@@ -6,7 +6,7 @@ title: Mark Fell - Multistability (2010, FLAC)
 artist: Mark Fell
 album: Multistability
 spotify_url: https://open.spotify.com/search/Mark%20Fell%20Multistability
-apple_music_url: https://music.apple.com/us/search?term=Mark%20Fell%20Multistability
+apple_music_url: https://music.apple.com/search?term=Mark%20Fell%20Multistability
 youtube_url: https://www.youtube.com/results?search_query=Mark%20Fell%20Multistability
 ---
 

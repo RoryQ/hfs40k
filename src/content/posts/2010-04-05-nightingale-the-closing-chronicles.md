@@ -6,7 +6,7 @@ title: Nightingale -  The Closing Chronicles
 artist: Nightingale
 album: The Closing Chronicles
 spotify_url: https://open.spotify.com/search/Nightingale%20The%20Closing%20Chronicles
-apple_music_url: https://music.apple.com/us/search?term=Nightingale%20The%20Closing%20Chronicles
+apple_music_url: https://music.apple.com/search?term=Nightingale%20The%20Closing%20Chronicles
 youtube_url: https://www.youtube.com/results?search_query=Nightingale%20The%20Closing%20Chronicles
 ---
 

@@ -6,7 +6,7 @@ title: Manic Street Preachers - The Holy Bible (1994) [FLAC]
 artist: Manic Street Preachers
 album: The Holy Bible
 spotify_url: https://open.spotify.com/search/Manic%20Street%20Preachers%20The%20Holy%20Bible
-apple_music_url: https://music.apple.com/us/search?term=Manic%20Street%20Preachers%20The%20Holy%20Bible
+apple_music_url: https://music.apple.com/search?term=Manic%20Street%20Preachers%20The%20Holy%20Bible
 youtube_url: https://www.youtube.com/results?search_query=Manic%20Street%20Preachers%20The%20Holy%20Bible
 ---
 

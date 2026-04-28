@@ -6,7 +6,7 @@ title: Earth - Earth 2 (Special Low Frequency Version FLAC)
 artist: Earth
 album: Earth 2
 spotify_url: https://open.spotify.com/search/Earth%20Earth%202
-apple_music_url: https://music.apple.com/us/search?term=Earth%20Earth%202
+apple_music_url: https://music.apple.com/search?term=Earth%20Earth%202
 youtube_url: https://www.youtube.com/results?search_query=Earth%20Earth%202
 ---
 

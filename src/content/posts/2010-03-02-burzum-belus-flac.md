@@ -6,7 +6,7 @@ title: Burzum - Belus (FLAC)
 artist: Burzum
 album: Belus
 spotify_url: https://open.spotify.com/search/Burzum%20Belus
-apple_music_url: https://music.apple.com/us/search?term=Burzum%20Belus
+apple_music_url: https://music.apple.com/search?term=Burzum%20Belus
 youtube_url: https://www.youtube.com/results?search_query=Burzum%20Belus
 ---
 

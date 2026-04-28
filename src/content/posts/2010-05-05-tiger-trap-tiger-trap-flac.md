@@ -6,7 +6,7 @@ title: Tiger Trap - Tiger Trap (FLAC)
 artist: Tiger Trap
 album: Tiger Trap
 spotify_url: https://open.spotify.com/search/Tiger%20Trap%20Tiger%20Trap
-apple_music_url: https://geo.music.apple.com/au/album/_/259422491?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/259422491
 youtube_url: https://www.youtube.com/results?search_query=Tiger%20Trap%20Tiger%20Trap
 ---
 

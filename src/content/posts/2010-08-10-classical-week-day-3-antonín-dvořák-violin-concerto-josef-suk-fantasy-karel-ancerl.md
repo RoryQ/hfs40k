@@ -7,7 +7,7 @@ title: "Classical Week - Day #3 Anton\xEDn Dvo\u0159\xE1k: Violin Concerto / Jos
 artist: Classical Week
 album: "Day #3 Anton\xEDn Dvo\u0159\xE1k: Violin Concerto / Josef Suk: Fantasy"
 spotify_url: https://open.spotify.com/search/Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
-apple_music_url: https://music.apple.com/us/search?term=Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
+apple_music_url: https://music.apple.com/search?term=Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
 youtube_url: https://www.youtube.com/results?search_query=Classical%20Week%20Day%20%233%20Anton%C3%ADn%20Dvo%C5%99%C3%A1k%3A%20Violin%20Concerto%20/%20Josef%20Suk%3A%20Fantasy
 ---
 

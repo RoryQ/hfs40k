@@ -6,7 +6,7 @@ title: The Roots - Game Theory (2006) [FLAC]
 artist: The Roots
 album: Game Theory
 spotify_url: https://open.spotify.com/search/The%20Roots%20Game%20Theory
-apple_music_url: https://music.apple.com/us/search?term=The%20Roots%20Game%20Theory
+apple_music_url: https://music.apple.com/search?term=The%20Roots%20Game%20Theory
 youtube_url: https://www.youtube.com/results?search_query=The%20Roots%20Game%20Theory
 ---
 

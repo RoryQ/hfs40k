@@ -6,7 +6,7 @@ title: The Antlers - Hospice (2009)
 artist: The Antlers
 album: Hospice
 spotify_url: https://open.spotify.com/search/The%20Antlers%20Hospice
-apple_music_url: https://music.apple.com/us/search?term=The%20Antlers%20Hospice
+apple_music_url: https://music.apple.com/search?term=The%20Antlers%20Hospice
 youtube_url: https://www.youtube.com/results?search_query=The%20Antlers%20Hospice
 ---
 

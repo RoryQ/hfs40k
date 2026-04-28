@@ -6,7 +6,7 @@ title: "Brigitte Fontaine & Art Ensemble of Chicago - Comme \xE0 la radio [FLAC]
 artist: Brigitte Fontaine & Art Ensemble of Chicago
 album: "Comme \xE0 la radio"
 spotify_url: https://open.spotify.com/search/Brigitte%20Fontaine%20%26%20Art%20Ensemble%20of%20Chicago%20Comme%20%C3%A0%20la%20radio
-apple_music_url: https://music.apple.com/us/search?term=Brigitte%20Fontaine%20%26%20Art%20Ensemble%20of%20Chicago%20Comme%20%C3%A0%20la%20radio
+apple_music_url: https://music.apple.com/search?term=Brigitte%20Fontaine%20%26%20Art%20Ensemble%20of%20Chicago%20Comme%20%C3%A0%20la%20radio
 youtube_url: https://www.youtube.com/results?search_query=Brigitte%20Fontaine%20%26%20Art%20Ensemble%20of%20Chicago%20Comme%20%C3%A0%20la%20radio
 ---
 

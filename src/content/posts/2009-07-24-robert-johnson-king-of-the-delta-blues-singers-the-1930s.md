@@ -6,7 +6,7 @@ title: Robert Johnson - King of the Delta Blues Singers (the 1930s)
 artist: Robert Johnson
 album: King of the Delta Blues Singers
 spotify_url: https://open.spotify.com/search/Robert%20Johnson%20King%20of%20the%20Delta%20Blues%20Singers
-apple_music_url: https://music.apple.com/us/search?term=Robert%20Johnson%20King%20of%20the%20Delta%20Blues%20Singers
+apple_music_url: https://music.apple.com/search?term=Robert%20Johnson%20King%20of%20the%20Delta%20Blues%20Singers
 youtube_url: https://www.youtube.com/results?search_query=Robert%20Johnson%20King%20of%20the%20Delta%20Blues%20Singers
 ---
 

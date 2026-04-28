@@ -6,7 +6,7 @@ title: Sun Kil Moon - April + Bonus (FLAC)
 artist: Sun Kil Moon
 album: April + Bonus
 spotify_url: https://open.spotify.com/search/Sun%20Kil%20Moon%20April%20%2B%20Bonus
-apple_music_url: https://geo.music.apple.com/au/album/_/1859387386?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1859387386
 youtube_url: https://www.youtube.com/results?search_query=Sun%20Kil%20Moon%20April%20%2B%20Bonus
 ---
 

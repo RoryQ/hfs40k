@@ -6,7 +6,7 @@ title: "J\xF3hann J\xF3hannsson - IBM 1401 A User's Manual (FLAC)"
 artist: "J\xF3hann J\xF3hannsson"
 album: IBM 1401 A User's Manual
 spotify_url: https://open.spotify.com/search/J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
-apple_music_url: https://music.apple.com/us/search?term=J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
+apple_music_url: https://music.apple.com/search?term=J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
 youtube_url: https://www.youtube.com/results?search_query=J%C3%B3hann%20J%C3%B3hannsson%20IBM%201401%20A%20User%27s%20Manual
 ---
 

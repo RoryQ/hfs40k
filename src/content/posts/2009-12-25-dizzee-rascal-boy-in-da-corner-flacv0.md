@@ -6,7 +6,7 @@ title: Dizzee Rascal - Boy in da Corner (FLAC/v0)
 artist: Dizzee Rascal
 album: Boy in da Corner
 spotify_url: https://open.spotify.com/search/Dizzee%20Rascal%20Boy%20in%20da%20Corner
-apple_music_url: https://music.apple.com/us/search?term=Dizzee%20Rascal%20Boy%20in%20da%20Corner
+apple_music_url: https://music.apple.com/search?term=Dizzee%20Rascal%20Boy%20in%20da%20Corner
 youtube_url: https://www.youtube.com/results?search_query=Dizzee%20Rascal%20Boy%20in%20da%20Corner
 ---
 

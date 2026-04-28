@@ -6,7 +6,7 @@ title: Mingus Dynasty - Live at Montreux
 artist: Mingus Dynasty
 album: Live at Montreux
 spotify_url: https://open.spotify.com/search/Mingus%20Dynasty%20Live%20at%20Montreux
-apple_music_url: https://music.apple.com/us/search?term=Mingus%20Dynasty%20Live%20at%20Montreux
+apple_music_url: https://music.apple.com/search?term=Mingus%20Dynasty%20Live%20at%20Montreux
 youtube_url: https://www.youtube.com/results?search_query=Mingus%20Dynasty%20Live%20at%20Montreux
 ---
 

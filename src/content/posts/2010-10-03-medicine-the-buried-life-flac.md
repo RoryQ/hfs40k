@@ -6,7 +6,7 @@ title: Medicine - The Buried Life [FLAC]
 artist: Medicine
 album: The Buried Life
 spotify_url: https://open.spotify.com/search/Medicine%20The%20Buried%20Life
-apple_music_url: https://music.apple.com/us/search?term=Medicine%20The%20Buried%20Life
+apple_music_url: https://music.apple.com/search?term=Medicine%20The%20Buried%20Life
 youtube_url: https://www.youtube.com/results?search_query=Medicine%20The%20Buried%20Life
 ---
 

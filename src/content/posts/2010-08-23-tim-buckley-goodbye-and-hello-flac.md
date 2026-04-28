@@ -6,7 +6,7 @@ title: Tim Buckley - Goodbye and Hello (FLAC)
 artist: Tim Buckley
 album: Goodbye and Hello
 spotify_url: https://open.spotify.com/search/Tim%20Buckley%20Goodbye%20and%20Hello
-apple_music_url: https://music.apple.com/us/search?term=Tim%20Buckley%20Goodbye%20and%20Hello
+apple_music_url: https://music.apple.com/search?term=Tim%20Buckley%20Goodbye%20and%20Hello
 youtube_url: https://www.youtube.com/results?search_query=Tim%20Buckley%20Goodbye%20and%20Hello
 ---
 

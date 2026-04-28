@@ -6,7 +6,7 @@ title: Don Cherry - Symphony for Improvisers (1966)
 artist: Don Cherry
 album: Symphony for Improvisers
 spotify_url: https://open.spotify.com/search/Don%20Cherry%20Symphony%20for%20Improvisers
-apple_music_url: https://geo.music.apple.com/au/album/_/716365822?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/716365822
 youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Symphony%20for%20Improvisers
 ---
 

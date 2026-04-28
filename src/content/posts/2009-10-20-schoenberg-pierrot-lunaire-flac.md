@@ -6,7 +6,7 @@ title: Schoenberg - Pierrot Lunaire [FLAC]
 artist: Schoenberg
 album: Pierrot Lunaire
 spotify_url: https://open.spotify.com/search/Schoenberg%20Pierrot%20Lunaire
-apple_music_url: https://music.apple.com/us/search?term=Schoenberg%20Pierrot%20Lunaire
+apple_music_url: https://music.apple.com/search?term=Schoenberg%20Pierrot%20Lunaire
 youtube_url: https://www.youtube.com/results?search_query=Schoenberg%20Pierrot%20Lunaire
 ---
 

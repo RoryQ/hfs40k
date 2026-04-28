@@ -6,7 +6,7 @@ title: Untitled Post
 artist: Jimi Hendrix
 album: Valleys of Neptune
 spotify_url: https://open.spotify.com/search/Jimi%20Hendrix%20Valleys%20of%20Neptune
-apple_music_url: https://geo.music.apple.com/au/album/_/354988143?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/354988143
 youtube_url: https://www.youtube.com/results?search_query=Jimi%20Hendrix%20Valleys%20of%20Neptune
 ---
 

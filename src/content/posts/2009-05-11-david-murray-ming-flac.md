@@ -6,7 +6,7 @@ title: David Murray - Ming (FLAC)
 artist: David Murray
 album: Ming
 spotify_url: https://open.spotify.com/search/David%20Murray%20Ming
-apple_music_url: https://music.apple.com/us/search?term=David%20Murray%20Ming
+apple_music_url: https://music.apple.com/search?term=David%20Murray%20Ming
 youtube_url: https://www.youtube.com/results?search_query=David%20Murray%20Ming
 ---
 

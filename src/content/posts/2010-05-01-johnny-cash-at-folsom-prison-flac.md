@@ -6,7 +6,7 @@ title: Johnny Cash - At Folsom Prison (FLAC)
 artist: Johnny Cash
 album: At Folsom Prison
 spotify_url: https://open.spotify.com/search/Johnny%20Cash%20At%20Folsom%20Prison
-apple_music_url: https://music.apple.com/us/search?term=Johnny%20Cash%20At%20Folsom%20Prison
+apple_music_url: https://music.apple.com/search?term=Johnny%20Cash%20At%20Folsom%20Prison
 youtube_url: https://www.youtube.com/results?search_query=Johnny%20Cash%20At%20Folsom%20Prison
 ---
 

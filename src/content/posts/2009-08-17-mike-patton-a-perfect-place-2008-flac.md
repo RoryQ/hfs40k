@@ -6,7 +6,7 @@ title: Mike Patton - A Perfect Place (2008) [FLAC]
 artist: Mike Patton
 album: A Perfect Place
 spotify_url: https://open.spotify.com/search/Mike%20Patton%20A%20Perfect%20Place
-apple_music_url: https://music.apple.com/us/search?term=Mike%20Patton%20A%20Perfect%20Place
+apple_music_url: https://music.apple.com/search?term=Mike%20Patton%20A%20Perfect%20Place
 youtube_url: https://www.youtube.com/results?search_query=Mike%20Patton%20A%20Perfect%20Place
 ---
 

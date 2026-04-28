@@ -6,7 +6,7 @@ title: Karma to Burn - Karma to Burn (1997)
 artist: Karma to Burn
 album: Karma to Burn
 spotify_url: https://open.spotify.com/search/Karma%20to%20Burn%20Karma%20to%20Burn
-apple_music_url: https://music.apple.com/us/search?term=Karma%20to%20Burn%20Karma%20to%20Burn
+apple_music_url: https://music.apple.com/search?term=Karma%20to%20Burn%20Karma%20to%20Burn
 youtube_url: https://www.youtube.com/results?search_query=Karma%20to%20Burn%20Karma%20to%20Burn
 ---
 

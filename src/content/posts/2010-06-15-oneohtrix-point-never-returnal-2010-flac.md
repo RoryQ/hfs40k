@@ -6,7 +6,7 @@ title: Oneohtrix Point Never - Returnal (2010, FLAC)
 artist: Oneohtrix Point Never
 album: Returnal
 spotify_url: https://open.spotify.com/search/Oneohtrix%20Point%20Never%20Returnal
-apple_music_url: https://music.apple.com/us/search?term=Oneohtrix%20Point%20Never%20Returnal
+apple_music_url: https://music.apple.com/search?term=Oneohtrix%20Point%20Never%20Returnal
 youtube_url: https://www.youtube.com/results?search_query=Oneohtrix%20Point%20Never%20Returnal
 ---
 

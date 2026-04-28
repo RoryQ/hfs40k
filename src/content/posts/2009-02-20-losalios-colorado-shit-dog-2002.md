@@ -6,7 +6,7 @@ title: Losalios - Colorado Shit Dog (2002)
 artist: Losalios
 album: Colorado Shit Dog
 spotify_url: https://open.spotify.com/search/Losalios%20Colorado%20Shit%20Dog
-apple_music_url: https://music.apple.com/us/search?term=Losalios%20Colorado%20Shit%20Dog
+apple_music_url: https://music.apple.com/search?term=Losalios%20Colorado%20Shit%20Dog
 youtube_url: https://www.youtube.com/results?search_query=Losalios%20Colorado%20Shit%20Dog
 ---
 

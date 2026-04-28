@@ -6,7 +6,7 @@ title: Charles Mingus - Pithecanthropus Erectus (FLAC)
 artist: Charles Mingus
 album: Pithecanthropus Erectus
 spotify_url: https://open.spotify.com/search/Charles%20Mingus%20Pithecanthropus%20Erectus
-apple_music_url: https://geo.music.apple.com/au/album/_/299036715?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/299036715
 youtube_url: https://www.youtube.com/results?search_query=Charles%20Mingus%20Pithecanthropus%20Erectus
 ---
 

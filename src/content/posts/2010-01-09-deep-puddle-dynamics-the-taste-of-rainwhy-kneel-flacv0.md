@@ -6,7 +6,7 @@ title: Deep Puddle Dynamics - The Taste of Rain...Why Kneel (FLAC/v0)
 artist: Deep Puddle Dynamics
 album: The Taste of Rain...Why Kneel
 spotify_url: https://open.spotify.com/search/Deep%20Puddle%20Dynamics%20The%20Taste%20of%20Rain...Why%20Kneel
-apple_music_url: https://geo.music.apple.com/au/album/_/1530285250?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1530285250
 youtube_url: https://www.youtube.com/results?search_query=Deep%20Puddle%20Dynamics%20The%20Taste%20of%20Rain...Why%20Kneel
 ---
 

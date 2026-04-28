@@ -6,7 +6,7 @@ title: Discus - ...Tot Licht!
 artist: Discus
 album: '...Tot Licht!'
 spotify_url: https://open.spotify.com/search/Discus%20...Tot%20Licht%21
-apple_music_url: https://music.apple.com/us/search?term=Discus%20...Tot%20Licht%21
+apple_music_url: https://music.apple.com/search?term=Discus%20...Tot%20Licht%21
 youtube_url: https://www.youtube.com/results?search_query=Discus%20...Tot%20Licht%21
 ---
 

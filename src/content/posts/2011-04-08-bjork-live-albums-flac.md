@@ -6,7 +6,7 @@ title: Bjork - Live Albums (FLAC)
 artist: Bjork
 album: Live Albums
 spotify_url: https://open.spotify.com/search/Bjork%20Live%20Albums
-apple_music_url: https://music.apple.com/us/search?term=Bjork%20Live%20Albums
+apple_music_url: https://music.apple.com/search?term=Bjork%20Live%20Albums
 youtube_url: https://www.youtube.com/results?search_query=Bjork%20Live%20Albums
 ---
 

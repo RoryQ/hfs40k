@@ -6,7 +6,7 @@ title: alyosha - Atmosphere (320kbps)
 artist: alyosha
 album: Atmosphere
 spotify_url: https://open.spotify.com/search/alyosha%20Atmosphere
-apple_music_url: https://music.apple.com/us/search?term=alyosha%20Atmosphere
+apple_music_url: https://music.apple.com/search?term=alyosha%20Atmosphere
 youtube_url: https://www.youtube.com/results?search_query=alyosha%20Atmosphere
 ---
 

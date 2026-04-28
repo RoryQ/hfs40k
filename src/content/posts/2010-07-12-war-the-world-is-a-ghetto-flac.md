@@ -6,7 +6,7 @@ title: War - The World Is A Ghetto (FLAC)
 artist: War
 album: The World Is A Ghetto
 spotify_url: https://open.spotify.com/search/War%20The%20World%20Is%20A%20Ghetto
-apple_music_url: https://music.apple.com/us/search?term=War%20The%20World%20Is%20A%20Ghetto
+apple_music_url: https://music.apple.com/search?term=War%20The%20World%20Is%20A%20Ghetto
 youtube_url: https://www.youtube.com/results?search_query=War%20The%20World%20Is%20A%20Ghetto
 ---
 

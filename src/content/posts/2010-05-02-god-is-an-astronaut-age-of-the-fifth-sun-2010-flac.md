@@ -6,7 +6,7 @@ title: God Is An Astronaut -  Age of the Fifth Sun (2010) [FLAC]
 artist: God Is An Astronaut
 album: Age of the Fifth Sun
 spotify_url: https://open.spotify.com/search/God%20Is%20An%20Astronaut%20Age%20of%20the%20Fifth%20Sun
-apple_music_url: https://music.apple.com/us/search?term=God%20Is%20An%20Astronaut%20Age%20of%20the%20Fifth%20Sun
+apple_music_url: https://music.apple.com/search?term=God%20Is%20An%20Astronaut%20Age%20of%20the%20Fifth%20Sun
 youtube_url: https://www.youtube.com/results?search_query=God%20Is%20An%20Astronaut%20Age%20of%20the%20Fifth%20Sun
 ---
 

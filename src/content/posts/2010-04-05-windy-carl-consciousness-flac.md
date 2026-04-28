@@ -6,7 +6,7 @@ title: Windy & Carl - Consciousness FLAC
 artist: Windy & Carl
 album: Consciousness FLAC
 spotify_url: https://open.spotify.com/search/Windy%20%26%20Carl%20Consciousness%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Windy%20%26%20Carl%20Consciousness%20FLAC
+apple_music_url: https://music.apple.com/search?term=Windy%20%26%20Carl%20Consciousness%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Windy%20%26%20Carl%20Consciousness%20FLAC
 ---
 

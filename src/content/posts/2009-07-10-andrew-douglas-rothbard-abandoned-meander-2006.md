@@ -6,7 +6,7 @@ title: Andrew Douglas Rothbard - Abandoned Meander (2006)
 artist: Andrew Douglas Rothbard
 album: Abandoned Meander
 spotify_url: https://open.spotify.com/search/Andrew%20Douglas%20Rothbard%20Abandoned%20Meander
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Douglas%20Rothbard%20Abandoned%20Meander
+apple_music_url: https://music.apple.com/search?term=Andrew%20Douglas%20Rothbard%20Abandoned%20Meander
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Douglas%20Rothbard%20Abandoned%20Meander
 ---
 

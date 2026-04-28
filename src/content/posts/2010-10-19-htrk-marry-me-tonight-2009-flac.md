@@ -6,7 +6,7 @@ title: HTRK - Marry Me Tonight (2009, Flac)
 artist: HTRK
 album: Marry Me Tonight
 spotify_url: https://open.spotify.com/search/HTRK%20Marry%20Me%20Tonight
-apple_music_url: https://music.apple.com/us/search?term=HTRK%20Marry%20Me%20Tonight
+apple_music_url: https://music.apple.com/search?term=HTRK%20Marry%20Me%20Tonight
 youtube_url: https://www.youtube.com/results?search_query=HTRK%20Marry%20Me%20Tonight
 ---
 

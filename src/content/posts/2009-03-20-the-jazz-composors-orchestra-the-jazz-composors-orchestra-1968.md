@@ -6,7 +6,7 @@ title: The Jazz Composor's Orchestra - The Jazz Composor's Orchestra (1968)
 artist: The Jazz Composor's Orchestra
 album: The Jazz Composor's Orchestra
 spotify_url: https://open.spotify.com/search/The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
-apple_music_url: https://music.apple.com/us/search?term=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
+apple_music_url: https://music.apple.com/search?term=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
 youtube_url: https://www.youtube.com/results?search_query=The%20Jazz%20Composor%27s%20Orchestra%20The%20Jazz%20Composor%27s%20Orchestra
 ---
 

@@ -6,7 +6,7 @@ title: Insomnium - Above the Weeping World (FLAC)
 artist: Insomnium
 album: Above the Weeping World
 spotify_url: https://open.spotify.com/search/Insomnium%20Above%20the%20Weeping%20World
-apple_music_url: https://music.apple.com/us/search?term=Insomnium%20Above%20the%20Weeping%20World
+apple_music_url: https://music.apple.com/search?term=Insomnium%20Above%20the%20Weeping%20World
 youtube_url: https://www.youtube.com/results?search_query=Insomnium%20Above%20the%20Weeping%20World
 ---
 

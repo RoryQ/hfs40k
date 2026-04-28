@@ -6,7 +6,7 @@ title: Koenjihyakkei - Nivraym (2009) [v0]
 artist: Koenjihyakkei
 album: Nivraym
 spotify_url: https://open.spotify.com/search/Koenjihyakkei%20Nivraym
-apple_music_url: https://music.apple.com/us/search?term=Koenjihyakkei%20Nivraym
+apple_music_url: https://music.apple.com/search?term=Koenjihyakkei%20Nivraym
 youtube_url: https://www.youtube.com/results?search_query=Koenjihyakkei%20Nivraym
 ---
 

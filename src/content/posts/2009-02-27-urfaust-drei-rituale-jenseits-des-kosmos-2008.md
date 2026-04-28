@@ -6,7 +6,7 @@ title: Urfaust - Drei Rituale Jenseits Des Kosmos (2008)
 artist: Urfaust
 album: Drei Rituale Jenseits Des Kosmos
 spotify_url: https://open.spotify.com/search/Urfaust%20Drei%20Rituale%20Jenseits%20Des%20Kosmos
-apple_music_url: https://music.apple.com/us/search?term=Urfaust%20Drei%20Rituale%20Jenseits%20Des%20Kosmos
+apple_music_url: https://music.apple.com/search?term=Urfaust%20Drei%20Rituale%20Jenseits%20Des%20Kosmos
 youtube_url: https://www.youtube.com/results?search_query=Urfaust%20Drei%20Rituale%20Jenseits%20Des%20Kosmos
 ---
 

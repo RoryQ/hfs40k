@@ -6,7 +6,7 @@ title: Heavenly - Heavenly vs. Satan (FLAC)
 artist: Heavenly
 album: Heavenly vs. Satan
 spotify_url: https://open.spotify.com/search/Heavenly%20Heavenly%20vs.%20Satan
-apple_music_url: https://music.apple.com/us/search?term=Heavenly%20Heavenly%20vs.%20Satan
+apple_music_url: https://music.apple.com/search?term=Heavenly%20Heavenly%20vs.%20Satan
 youtube_url: https://www.youtube.com/results?search_query=Heavenly%20Heavenly%20vs.%20Satan
 ---
 

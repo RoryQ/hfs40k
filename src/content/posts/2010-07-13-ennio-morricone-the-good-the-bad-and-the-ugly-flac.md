@@ -6,7 +6,7 @@ title: Ennio Morricone - The Good, the Bad and the Ugly (FLAC)
 artist: Ennio Morricone
 album: The Good, the Bad and the Ugly
 spotify_url: https://open.spotify.com/search/Ennio%20Morricone%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly
-apple_music_url: https://music.apple.com/us/search?term=Ennio%20Morricone%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly
+apple_music_url: https://music.apple.com/search?term=Ennio%20Morricone%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly
 youtube_url: https://www.youtube.com/results?search_query=Ennio%20Morricone%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly
 ---
 

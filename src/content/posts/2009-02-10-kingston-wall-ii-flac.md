@@ -6,7 +6,7 @@ title: Kingston Wall - II (FLAC)
 artist: Kingston Wall
 album: II
 spotify_url: https://open.spotify.com/search/Kingston%20Wall%20II
-apple_music_url: https://music.apple.com/us/search?term=Kingston%20Wall%20II
+apple_music_url: https://music.apple.com/search?term=Kingston%20Wall%20II
 youtube_url: https://www.youtube.com/results?search_query=Kingston%20Wall%20II
 ---
 

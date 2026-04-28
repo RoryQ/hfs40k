@@ -6,7 +6,7 @@ title: Andrew Hill - Point of Departure (FLAC)
 artist: Andrew Hill
 album: Point of Departure
 spotify_url: https://open.spotify.com/search/Andrew%20Hill%20Point%20of%20Departure
-apple_music_url: https://music.apple.com/us/search?term=Andrew%20Hill%20Point%20of%20Departure
+apple_music_url: https://music.apple.com/search?term=Andrew%20Hill%20Point%20of%20Departure
 youtube_url: https://www.youtube.com/results?search_query=Andrew%20Hill%20Point%20of%20Departure
 ---
 

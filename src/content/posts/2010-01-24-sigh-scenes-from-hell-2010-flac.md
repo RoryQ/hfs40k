@@ -6,7 +6,7 @@ title: Sigh - Scenes From Hell (2010) [FLAC]
 artist: Sigh
 album: Scenes From Hell
 spotify_url: https://open.spotify.com/search/Sigh%20Scenes%20From%20Hell
-apple_music_url: https://music.apple.com/us/search?term=Sigh%20Scenes%20From%20Hell
+apple_music_url: https://music.apple.com/search?term=Sigh%20Scenes%20From%20Hell
 youtube_url: https://www.youtube.com/results?search_query=Sigh%20Scenes%20From%20Hell
 ---
 

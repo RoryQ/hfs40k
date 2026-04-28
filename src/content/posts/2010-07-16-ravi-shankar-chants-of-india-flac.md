@@ -6,7 +6,7 @@ title: Ravi Shankar - Chants of India [FLAC]
 artist: Ravi Shankar
 album: Chants of India
 spotify_url: https://open.spotify.com/search/Ravi%20Shankar%20Chants%20of%20India
-apple_music_url: https://music.apple.com/us/search?term=Ravi%20Shankar%20Chants%20of%20India
+apple_music_url: https://music.apple.com/search?term=Ravi%20Shankar%20Chants%20of%20India
 youtube_url: https://www.youtube.com/results?search_query=Ravi%20Shankar%20Chants%20of%20India
 ---
 

@@ -6,7 +6,7 @@ title: Zone - Angel of Freedom (FLAC)
 artist: Zone
 album: Angel of Freedom
 spotify_url: https://open.spotify.com/search/Zone%20Angel%20of%20Freedom
-apple_music_url: https://music.apple.com/us/search?term=Zone%20Angel%20of%20Freedom
+apple_music_url: https://music.apple.com/search?term=Zone%20Angel%20of%20Freedom
 youtube_url: https://www.youtube.com/results?search_query=Zone%20Angel%20of%20Freedom
 ---
 

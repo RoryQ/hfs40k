@@ -6,7 +6,7 @@ title: Tom Waits - Rain Dogs (FLAC)
 artist: Tom Waits
 album: Rain Dogs
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Rain%20Dogs
-apple_music_url: https://geo.music.apple.com/au/album/_/1695046955?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1695046955
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Rain%20Dogs
 ---
 

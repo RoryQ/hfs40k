@@ -6,7 +6,7 @@ title: Horace Silver - Song For My Father (FLAC)
 artist: Horace Silver
 album: Song For My Father
 spotify_url: https://open.spotify.com/search/Horace%20Silver%20Song%20For%20My%20Father
-apple_music_url: https://music.apple.com/us/search?term=Horace%20Silver%20Song%20For%20My%20Father
+apple_music_url: https://music.apple.com/search?term=Horace%20Silver%20Song%20For%20My%20Father
 youtube_url: https://www.youtube.com/results?search_query=Horace%20Silver%20Song%20For%20My%20Father
 ---
 

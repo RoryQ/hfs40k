@@ -6,7 +6,7 @@ title: Electric Masada - At the Mountains of Madness (FLAC)
 artist: Electric Masada
 album: At the Mountains of Madness
 spotify_url: https://open.spotify.com/search/Electric%20Masada%20At%20the%20Mountains%20of%20Madness
-apple_music_url: https://music.apple.com/us/search?term=Electric%20Masada%20At%20the%20Mountains%20of%20Madness
+apple_music_url: https://music.apple.com/search?term=Electric%20Masada%20At%20the%20Mountains%20of%20Madness
 youtube_url: https://www.youtube.com/results?search_query=Electric%20Masada%20At%20the%20Mountains%20of%20Madness
 ---
 

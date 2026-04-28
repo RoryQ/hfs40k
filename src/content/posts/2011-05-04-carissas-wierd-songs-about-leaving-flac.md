@@ -6,7 +6,7 @@ title: Carissa's Wierd - Songs About Leaving (FLAC)
 artist: Carissa's Wierd
 album: Songs About Leaving
 spotify_url: https://open.spotify.com/search/Carissa%27s%20Wierd%20Songs%20About%20Leaving
-apple_music_url: https://music.apple.com/us/search?term=Carissa%27s%20Wierd%20Songs%20About%20Leaving
+apple_music_url: https://music.apple.com/search?term=Carissa%27s%20Wierd%20Songs%20About%20Leaving
 youtube_url: https://www.youtube.com/results?search_query=Carissa%27s%20Wierd%20Songs%20About%20Leaving
 ---
 

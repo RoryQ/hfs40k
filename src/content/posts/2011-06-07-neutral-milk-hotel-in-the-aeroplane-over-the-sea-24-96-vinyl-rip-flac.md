@@ -6,7 +6,7 @@ title: Neutral Milk Hotel - In the Aeroplane Over the Sea  [24-96 vinyl rip flac
 artist: Neutral Milk Hotel
 album: In the Aeroplane Over the Sea
 spotify_url: https://open.spotify.com/search/Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea
-apple_music_url: https://music.apple.com/us/search?term=Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea
+apple_music_url: https://music.apple.com/search?term=Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea
 youtube_url: https://www.youtube.com/results?search_query=Neutral%20Milk%20Hotel%20In%20the%20Aeroplane%20Over%20the%20Sea
 ---
 

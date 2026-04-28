@@ -6,7 +6,7 @@ title: "Da\u0308lek - Absence (2005) [FLAC]"
 artist: "Da\u0308lek"
 album: Absence
 spotify_url: https://open.spotify.com/search/Da%CC%88lek%20Absence
-apple_music_url: https://music.apple.com/us/search?term=Da%CC%88lek%20Absence
+apple_music_url: https://music.apple.com/search?term=Da%CC%88lek%20Absence
 youtube_url: https://www.youtube.com/results?search_query=Da%CC%88lek%20Absence
 ---
 

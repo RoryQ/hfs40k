@@ -6,7 +6,7 @@ title: Birchville Cat Motel - Beautiful Speck Triumph (2004) [192]
 artist: Birchville Cat Motel
 album: Beautiful Speck Triumph
 spotify_url: https://open.spotify.com/search/Birchville%20Cat%20Motel%20Beautiful%20Speck%20Triumph
-apple_music_url: https://music.apple.com/us/search?term=Birchville%20Cat%20Motel%20Beautiful%20Speck%20Triumph
+apple_music_url: https://music.apple.com/search?term=Birchville%20Cat%20Motel%20Beautiful%20Speck%20Triumph
 youtube_url: https://www.youtube.com/results?search_query=Birchville%20Cat%20Motel%20Beautiful%20Speck%20Triumph
 ---
 

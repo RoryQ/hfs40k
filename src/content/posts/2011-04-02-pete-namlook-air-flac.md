@@ -6,7 +6,7 @@ title: Pete Namlook - Air [FLAC]
 artist: Pete Namlook
 album: Air
 spotify_url: https://open.spotify.com/search/Pete%20Namlook%20Air
-apple_music_url: https://geo.music.apple.com/au/album/_/6326151?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/6326151
 youtube_url: https://www.youtube.com/results?search_query=Pete%20Namlook%20Air
 ---
 

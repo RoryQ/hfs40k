@@ -7,7 +7,7 @@ title: Sergei Prokofiev - Peter and the Wolf; Benjamin Britten - A Young Person'
 artist: Sergei Prokofiev
 album: Peter and the Wolf; Benjamin Britten - A Young Person's Guide to the Orchestra
 spotify_url: https://open.spotify.com/search/Sergei%20Prokofiev%20Peter%20and%20the%20Wolf%3B%20Benjamin%20Britten%20-%20A%20Young%20Person%27s%20Guide%20to%20the%20Orchestra
-apple_music_url: https://music.apple.com/us/search?term=Sergei%20Prokofiev%20Peter%20and%20the%20Wolf%3B%20Benjamin%20Britten%20-%20A%20Young%20Person%27s%20Guide%20to%20the%20Orchestra
+apple_music_url: https://music.apple.com/search?term=Sergei%20Prokofiev%20Peter%20and%20the%20Wolf%3B%20Benjamin%20Britten%20-%20A%20Young%20Person%27s%20Guide%20to%20the%20Orchestra
 youtube_url: https://www.youtube.com/results?search_query=Sergei%20Prokofiev%20Peter%20and%20the%20Wolf%3B%20Benjamin%20Britten%20-%20A%20Young%20Person%27s%20Guide%20to%20the%20Orchestra
 ---
 

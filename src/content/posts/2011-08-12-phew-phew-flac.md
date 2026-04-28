@@ -6,7 +6,7 @@ title: Phew - Phew (FLAC)
 artist: Phew
 album: Phew
 spotify_url: https://open.spotify.com/search/Phew%20Phew
-apple_music_url: https://music.apple.com/us/search?term=Phew%20Phew
+apple_music_url: https://music.apple.com/search?term=Phew%20Phew
 youtube_url: https://www.youtube.com/results?search_query=Phew%20Phew
 ---
 

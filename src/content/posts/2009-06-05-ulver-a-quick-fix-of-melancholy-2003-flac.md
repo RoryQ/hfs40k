@@ -6,7 +6,7 @@ title: Ulver - A Quick Fix of Melancholy (2003) [FLAC]
 artist: Ulver
 album: A Quick Fix of Melancholy
 spotify_url: https://open.spotify.com/search/Ulver%20A%20Quick%20Fix%20of%20Melancholy
-apple_music_url: https://music.apple.com/us/search?term=Ulver%20A%20Quick%20Fix%20of%20Melancholy
+apple_music_url: https://music.apple.com/search?term=Ulver%20A%20Quick%20Fix%20of%20Melancholy
 youtube_url: https://www.youtube.com/results?search_query=Ulver%20A%20Quick%20Fix%20of%20Melancholy
 ---
 

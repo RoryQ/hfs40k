@@ -6,7 +6,7 @@ title: Sabrepulse - Turbo City (2008)
 artist: Sabrepulse
 album: Turbo City
 spotify_url: https://open.spotify.com/search/Sabrepulse%20Turbo%20City
-apple_music_url: https://music.apple.com/us/search?term=Sabrepulse%20Turbo%20City
+apple_music_url: https://music.apple.com/search?term=Sabrepulse%20Turbo%20City
 youtube_url: https://www.youtube.com/results?search_query=Sabrepulse%20Turbo%20City
 ---
 

@@ -6,7 +6,7 @@ title: Lou Reed - Metal Machine Music
 artist: Lou Reed
 album: Metal Machine Music
 spotify_url: https://open.spotify.com/search/Lou%20Reed%20Metal%20Machine%20Music
-apple_music_url: https://music.apple.com/us/search?term=Lou%20Reed%20Metal%20Machine%20Music
+apple_music_url: https://music.apple.com/search?term=Lou%20Reed%20Metal%20Machine%20Music
 youtube_url: https://www.youtube.com/results?search_query=Lou%20Reed%20Metal%20Machine%20Music
 ---
 

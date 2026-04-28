@@ -6,7 +6,7 @@ title: Canibus - Rip The Jacker (2003) [FLAC]
 artist: Canibus
 album: Rip The Jacker
 spotify_url: https://open.spotify.com/search/Canibus%20Rip%20The%20Jacker
-apple_music_url: https://music.apple.com/us/search?term=Canibus%20Rip%20The%20Jacker
+apple_music_url: https://music.apple.com/search?term=Canibus%20Rip%20The%20Jacker
 youtube_url: https://www.youtube.com/results?search_query=Canibus%20Rip%20The%20Jacker
 ---
 

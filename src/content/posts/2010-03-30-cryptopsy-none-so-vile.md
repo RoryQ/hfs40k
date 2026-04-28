@@ -6,7 +6,7 @@ title: Cryptopsy - None So Vile
 artist: Cryptopsy
 album: None So Vile
 spotify_url: https://open.spotify.com/search/Cryptopsy%20None%20So%20Vile
-apple_music_url: https://music.apple.com/us/search?term=Cryptopsy%20None%20So%20Vile
+apple_music_url: https://music.apple.com/search?term=Cryptopsy%20None%20So%20Vile
 youtube_url: https://www.youtube.com/results?search_query=Cryptopsy%20None%20So%20Vile
 ---
 

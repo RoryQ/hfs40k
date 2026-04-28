@@ -6,7 +6,7 @@ title: Frank Zappa - Burnt Weeny Sandwich [FLAC]
 artist: Frank Zappa
 album: Burnt Weeny Sandwich
 spotify_url: https://open.spotify.com/search/Frank%20Zappa%20Burnt%20Weeny%20Sandwich
-apple_music_url: https://music.apple.com/us/search?term=Frank%20Zappa%20Burnt%20Weeny%20Sandwich
+apple_music_url: https://music.apple.com/search?term=Frank%20Zappa%20Burnt%20Weeny%20Sandwich
 youtube_url: https://www.youtube.com/results?search_query=Frank%20Zappa%20Burnt%20Weeny%20Sandwich
 ---
 

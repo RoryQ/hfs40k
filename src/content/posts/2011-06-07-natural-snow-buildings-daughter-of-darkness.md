@@ -6,7 +6,7 @@ title: Natural Snow Buildings - Daughter of Darkness
 artist: Natural Snow Buildings
 album: Daughter of Darkness
 spotify_url: https://open.spotify.com/search/Natural%20Snow%20Buildings%20Daughter%20of%20Darkness
-apple_music_url: https://geo.music.apple.com/au/album/_/828222590?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/828222590
 youtube_url: https://www.youtube.com/results?search_query=Natural%20Snow%20Buildings%20Daughter%20of%20Darkness
 ---
 

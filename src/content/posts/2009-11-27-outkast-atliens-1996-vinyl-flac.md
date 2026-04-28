@@ -6,7 +6,7 @@ title: OutKast - ATLiens (1996) [Vinyl FLAC]
 artist: OutKast
 album: ATLiens
 spotify_url: https://open.spotify.com/search/OutKast%20ATLiens
-apple_music_url: https://music.apple.com/us/search?term=OutKast%20ATLiens
+apple_music_url: https://music.apple.com/search?term=OutKast%20ATLiens
 youtube_url: https://www.youtube.com/results?search_query=OutKast%20ATLiens
 ---
 

@@ -6,7 +6,7 @@ title: Rhys Chatham - An Angel Moves Too Fast To See (VBR)
 artist: Rhys Chatham
 album: An Angel Moves Too Fast To See
 spotify_url: https://open.spotify.com/search/Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
-apple_music_url: https://music.apple.com/us/search?term=Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
+apple_music_url: https://music.apple.com/search?term=Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
 youtube_url: https://www.youtube.com/results?search_query=Rhys%20Chatham%20An%20Angel%20Moves%20Too%20Fast%20To%20See
 ---
 

@@ -6,7 +6,7 @@ title: 65daysofstatic - One Time for All Time (FLAC)
 artist: 65daysofstatic
 album: One Time for All Time
 spotify_url: https://open.spotify.com/search/65daysofstatic%20One%20Time%20for%20All%20Time
-apple_music_url: https://music.apple.com/us/search?term=65daysofstatic%20One%20Time%20for%20All%20Time
+apple_music_url: https://music.apple.com/search?term=65daysofstatic%20One%20Time%20for%20All%20Time
 youtube_url: https://www.youtube.com/results?search_query=65daysofstatic%20One%20Time%20for%20All%20Time
 ---
 

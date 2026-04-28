@@ -7,7 +7,7 @@ title: The National Gallery - Performing Musical Interpretations of the Painting
 artist: The National Gallery
 album: Performing Musical Interpretations of the Paintings of Paul Klee
 spotify_url: https://open.spotify.com/search/The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
-apple_music_url: https://music.apple.com/us/search?term=The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
+apple_music_url: https://music.apple.com/search?term=The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
 youtube_url: https://www.youtube.com/results?search_query=The%20National%20Gallery%20Performing%20Musical%20Interpretations%20of%20the%20Paintings%20of%20Paul%20Klee
 ---
 

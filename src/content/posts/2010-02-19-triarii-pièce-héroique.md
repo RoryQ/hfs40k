@@ -6,7 +6,7 @@ title: "Triarii - Pi\xE8ce H\xE9roique"
 artist: Triarii
 album: "Pi\xE8ce H\xE9roique"
 spotify_url: https://open.spotify.com/search/Triarii%20Pi%C3%A8ce%20H%C3%A9roique
-apple_music_url: https://music.apple.com/us/search?term=Triarii%20Pi%C3%A8ce%20H%C3%A9roique
+apple_music_url: https://music.apple.com/search?term=Triarii%20Pi%C3%A8ce%20H%C3%A9roique
 youtube_url: https://www.youtube.com/results?search_query=Triarii%20Pi%C3%A8ce%20H%C3%A9roique
 ---
 

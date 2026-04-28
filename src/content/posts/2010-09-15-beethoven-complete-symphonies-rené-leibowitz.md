@@ -6,7 +6,7 @@ title: "Beethoven - Complete Symphonies (Ren\xE9 Leibowitz)"
 artist: Beethoven
 album: Complete Symphonies
 spotify_url: https://open.spotify.com/search/Beethoven%20Complete%20Symphonies
-apple_music_url: https://geo.music.apple.com/au/album/_/1302048714?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1302048714
 youtube_url: https://www.youtube.com/results?search_query=Beethoven%20Complete%20Symphonies
 ---
 

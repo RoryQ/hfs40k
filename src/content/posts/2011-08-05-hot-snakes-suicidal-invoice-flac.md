@@ -6,7 +6,7 @@ title: Hot Snakes - Suicidal Invoice (FLAC)
 artist: Hot Snakes
 album: Suicidal Invoice
 spotify_url: https://open.spotify.com/search/Hot%20Snakes%20Suicidal%20Invoice
-apple_music_url: https://music.apple.com/us/search?term=Hot%20Snakes%20Suicidal%20Invoice
+apple_music_url: https://music.apple.com/search?term=Hot%20Snakes%20Suicidal%20Invoice
 youtube_url: https://www.youtube.com/results?search_query=Hot%20Snakes%20Suicidal%20Invoice
 ---
 

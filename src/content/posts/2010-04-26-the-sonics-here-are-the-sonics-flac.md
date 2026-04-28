@@ -6,7 +6,7 @@ title: The Sonics - Here Are The Sonics!!! (FLAC)
 artist: The Sonics
 album: Here Are The Sonics!!!
 spotify_url: https://open.spotify.com/search/The%20Sonics%20Here%20Are%20The%20Sonics%21%21%21
-apple_music_url: https://music.apple.com/us/search?term=The%20Sonics%20Here%20Are%20The%20Sonics%21%21%21
+apple_music_url: https://music.apple.com/search?term=The%20Sonics%20Here%20Are%20The%20Sonics%21%21%21
 youtube_url: https://www.youtube.com/results?search_query=The%20Sonics%20Here%20Are%20The%20Sonics%21%21%21
 ---
 

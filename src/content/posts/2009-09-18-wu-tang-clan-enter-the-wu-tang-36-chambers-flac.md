@@ -6,7 +6,7 @@ title: Wu-Tang Clan - Enter the Wu-Tang 36 Chambers (FLAC)
 artist: Wu
 album: Tang Clan - Enter the Wu-Tang 36 Chambers
 spotify_url: https://open.spotify.com/search/Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
-apple_music_url: https://music.apple.com/us/search?term=Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
+apple_music_url: https://music.apple.com/search?term=Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
 youtube_url: https://www.youtube.com/results?search_query=Wu%20Tang%20Clan%20-%20Enter%20the%20Wu-Tang%2036%20Chambers
 ---
 

@@ -6,7 +6,7 @@ title: Renaissance - Self Titled (FLAC)
 artist: Renaissance
 album: Self Titled
 spotify_url: https://open.spotify.com/search/Renaissance%20Self%20Titled
-apple_music_url: https://music.apple.com/us/search?term=Renaissance%20Self%20Titled
+apple_music_url: https://music.apple.com/search?term=Renaissance%20Self%20Titled
 youtube_url: https://www.youtube.com/results?search_query=Renaissance%20Self%20Titled
 ---
 

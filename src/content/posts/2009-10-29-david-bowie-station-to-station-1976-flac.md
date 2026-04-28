@@ -6,7 +6,7 @@ title: David Bowie - Station to Station (1976) [FLAC]
 artist: David Bowie
 album: Station to Station
 spotify_url: https://open.spotify.com/search/David%20Bowie%20Station%20to%20Station
-apple_music_url: https://music.apple.com/us/search?term=David%20Bowie%20Station%20to%20Station
+apple_music_url: https://music.apple.com/search?term=David%20Bowie%20Station%20to%20Station
 youtube_url: https://www.youtube.com/results?search_query=David%20Bowie%20Station%20to%20Station
 ---
 

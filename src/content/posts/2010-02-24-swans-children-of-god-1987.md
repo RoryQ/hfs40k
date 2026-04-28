@@ -6,7 +6,7 @@ title: Swans - Children of God (1987)
 artist: Swans
 album: Children of God
 spotify_url: https://open.spotify.com/search/Swans%20Children%20of%20God
-apple_music_url: https://geo.music.apple.com/au/album/_/1531023098?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1531023098
 youtube_url: https://www.youtube.com/results?search_query=Swans%20Children%20of%20God
 ---
 

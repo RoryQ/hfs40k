@@ -6,7 +6,7 @@ title: Bonobo - Black Sands [2010/Ninja Tune/320/FLAC]
 artist: Bonobo
 album: Black Sands
 spotify_url: https://open.spotify.com/search/Bonobo%20Black%20Sands
-apple_music_url: https://music.apple.com/us/search?term=Bonobo%20Black%20Sands
+apple_music_url: https://music.apple.com/search?term=Bonobo%20Black%20Sands
 youtube_url: https://www.youtube.com/results?search_query=Bonobo%20Black%20Sands
 ---
 

@@ -6,7 +6,7 @@ title: Pete Rock & C.L. Smooth - Mecca & The Soul Brother (FLAC)
 artist: Pete Rock & C.L. Smooth
 album: Mecca & The Soul Brother
 spotify_url: https://open.spotify.com/search/Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
-apple_music_url: https://music.apple.com/us/search?term=Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
+apple_music_url: https://music.apple.com/search?term=Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
 youtube_url: https://www.youtube.com/results?search_query=Pete%20Rock%20%26%20C.L.%20Smooth%20Mecca%20%26%20The%20Soul%20Brother
 ---
 

@@ -6,7 +6,7 @@ title: Anthony Braxton - Composition 113 (1983)
 artist: Anthony Braxton
 album: Composition 113
 spotify_url: https://open.spotify.com/search/Anthony%20Braxton%20Composition%20113
-apple_music_url: https://music.apple.com/us/search?term=Anthony%20Braxton%20Composition%20113
+apple_music_url: https://music.apple.com/search?term=Anthony%20Braxton%20Composition%20113
 youtube_url: https://www.youtube.com/results?search_query=Anthony%20Braxton%20Composition%20113
 ---
 

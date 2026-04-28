@@ -6,7 +6,7 @@ title: Miles Davis - The Complete Bitches Brew Sessions [2004/FLAC]
 artist: Miles Davis
 album: The Complete Bitches Brew Sessions
 spotify_url: https://open.spotify.com/search/Miles%20Davis%20The%20Complete%20Bitches%20Brew%20Sessions
-apple_music_url: https://music.apple.com/us/search?term=Miles%20Davis%20The%20Complete%20Bitches%20Brew%20Sessions
+apple_music_url: https://music.apple.com/search?term=Miles%20Davis%20The%20Complete%20Bitches%20Brew%20Sessions
 youtube_url: https://www.youtube.com/results?search_query=Miles%20Davis%20The%20Complete%20Bitches%20Brew%20Sessions
 ---
 

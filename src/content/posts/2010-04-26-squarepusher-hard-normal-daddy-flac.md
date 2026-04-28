@@ -6,7 +6,7 @@ title: Squarepusher - Hard Normal Daddy (FLAC)
 artist: Squarepusher
 album: Hard Normal Daddy
 spotify_url: https://open.spotify.com/search/Squarepusher%20Hard%20Normal%20Daddy
-apple_music_url: https://music.apple.com/us/search?term=Squarepusher%20Hard%20Normal%20Daddy
+apple_music_url: https://music.apple.com/search?term=Squarepusher%20Hard%20Normal%20Daddy
 youtube_url: https://www.youtube.com/results?search_query=Squarepusher%20Hard%20Normal%20Daddy
 ---
 

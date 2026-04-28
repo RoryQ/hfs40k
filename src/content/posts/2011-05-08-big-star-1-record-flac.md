@@ -6,7 +6,7 @@ title: 'Big Star - #1 Record (FLAC)'
 artist: Big Star
 album: '#1 Record'
 spotify_url: https://open.spotify.com/search/Big%20Star%20%231%20Record
-apple_music_url: https://geo.music.apple.com/au/album/_/1440939715?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1440939715
 youtube_url: https://www.youtube.com/results?search_query=Big%20Star%20%231%20Record
 ---
 

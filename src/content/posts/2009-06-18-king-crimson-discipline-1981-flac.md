@@ -6,7 +6,7 @@ title: King Crimson - Discipline (1981) [FLAC]
 artist: King Crimson
 album: Discipline
 spotify_url: https://open.spotify.com/search/King%20Crimson%20Discipline
-apple_music_url: https://geo.music.apple.com/au/album/_/1090440045?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1090440045
 youtube_url: https://www.youtube.com/results?search_query=King%20Crimson%20Discipline
 ---
 

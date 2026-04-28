@@ -6,7 +6,7 @@ title: Newworldaquarium - The Dead Bears (2008, FLAC)
 artist: Newworldaquarium
 album: The Dead Bears
 spotify_url: https://open.spotify.com/search/Newworldaquarium%20The%20Dead%20Bears
-apple_music_url: https://music.apple.com/us/search?term=Newworldaquarium%20The%20Dead%20Bears
+apple_music_url: https://music.apple.com/search?term=Newworldaquarium%20The%20Dead%20Bears
 youtube_url: https://www.youtube.com/results?search_query=Newworldaquarium%20The%20Dead%20Bears
 ---
 

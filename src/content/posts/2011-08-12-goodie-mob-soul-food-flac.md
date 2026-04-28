@@ -6,7 +6,7 @@ title: Goodie Mob - Soul Food (FLAC)
 artist: Goodie Mob
 album: Soul Food
 spotify_url: https://open.spotify.com/search/Goodie%20Mob%20Soul%20Food
-apple_music_url: https://music.apple.com/us/search?term=Goodie%20Mob%20Soul%20Food
+apple_music_url: https://music.apple.com/search?term=Goodie%20Mob%20Soul%20Food
 youtube_url: https://www.youtube.com/results?search_query=Goodie%20Mob%20Soul%20Food
 ---
 

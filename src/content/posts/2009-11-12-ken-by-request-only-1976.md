@@ -6,7 +6,7 @@ title: Ken - By Request Only (1976)
 artist: Ken
 album: By Request Only
 spotify_url: https://open.spotify.com/search/Ken%20By%20Request%20Only
-apple_music_url: https://music.apple.com/us/search?term=Ken%20By%20Request%20Only
+apple_music_url: https://music.apple.com/search?term=Ken%20By%20Request%20Only
 youtube_url: https://www.youtube.com/results?search_query=Ken%20By%20Request%20Only
 ---
 

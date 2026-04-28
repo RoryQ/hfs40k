@@ -6,7 +6,7 @@ title: 'DJ Screw - 3 ''n the Mornin'': Part Two [Blue] (FLAC)'
 artist: DJ Screw
 album: '3 ''n the Mornin'': Part Two'
 spotify_url: https://open.spotify.com/search/DJ%20Screw%203%20%27n%20the%20Mornin%27%3A%20Part%20Two
-apple_music_url: https://music.apple.com/us/search?term=DJ%20Screw%203%20%27n%20the%20Mornin%27%3A%20Part%20Two
+apple_music_url: https://music.apple.com/search?term=DJ%20Screw%203%20%27n%20the%20Mornin%27%3A%20Part%20Two
 youtube_url: https://www.youtube.com/results?search_query=DJ%20Screw%203%20%27n%20the%20Mornin%27%3A%20Part%20Two
 ---
 

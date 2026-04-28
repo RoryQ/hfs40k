@@ -6,7 +6,7 @@ title: Jesu - Infinity [FLAC]
 artist: Jesu
 album: Infinity
 spotify_url: https://open.spotify.com/search/Jesu%20Infinity
-apple_music_url: https://music.apple.com/us/search?term=Jesu%20Infinity
+apple_music_url: https://music.apple.com/search?term=Jesu%20Infinity
 youtube_url: https://www.youtube.com/results?search_query=Jesu%20Infinity
 ---
 

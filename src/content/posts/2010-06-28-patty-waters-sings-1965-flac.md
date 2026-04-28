@@ -6,7 +6,7 @@ title: Patty Waters - Sings (1965, FLAC)
 artist: Patty Waters
 album: Sings
 spotify_url: https://open.spotify.com/search/Patty%20Waters%20Sings
-apple_music_url: https://music.apple.com/us/search?term=Patty%20Waters%20Sings
+apple_music_url: https://music.apple.com/search?term=Patty%20Waters%20Sings
 youtube_url: https://www.youtube.com/results?search_query=Patty%20Waters%20Sings
 ---
 

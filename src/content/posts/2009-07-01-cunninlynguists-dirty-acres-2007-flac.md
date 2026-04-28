@@ -6,7 +6,7 @@ title: CunninLynguists - Dirty Acres (2007) [FLAC]
 artist: CunninLynguists
 album: Dirty Acres
 spotify_url: https://open.spotify.com/search/CunninLynguists%20Dirty%20Acres
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20Dirty%20Acres
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20Dirty%20Acres
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20Dirty%20Acres
 ---
 

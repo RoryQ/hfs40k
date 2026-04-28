@@ -6,7 +6,7 @@ title: Nature and Organisation -  Beauty Reaps the Blood of Solitude (1994)
 artist: Nature and Organisation
 album: Beauty Reaps the Blood of Solitude
 spotify_url: https://open.spotify.com/search/Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
-apple_music_url: https://music.apple.com/us/search?term=Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
+apple_music_url: https://music.apple.com/search?term=Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
 youtube_url: https://www.youtube.com/results?search_query=Nature%20and%20Organisation%20Beauty%20Reaps%20the%20Blood%20of%20Solitude
 ---
 

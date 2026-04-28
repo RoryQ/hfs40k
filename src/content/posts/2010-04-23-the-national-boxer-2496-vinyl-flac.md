@@ -6,7 +6,7 @@ title: The National - Boxer 24/96 vinyl FLAC
 artist: The National
 album: Boxer 24/96 vinyl FLAC
 spotify_url: https://open.spotify.com/search/The%20National%20Boxer%2024/96%20vinyl%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=The%20National%20Boxer%2024/96%20vinyl%20FLAC
+apple_music_url: https://music.apple.com/search?term=The%20National%20Boxer%2024/96%20vinyl%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=The%20National%20Boxer%2024/96%20vinyl%20FLAC
 ---
 

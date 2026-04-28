@@ -6,7 +6,7 @@ title: Another Fine Day - Salvage FLAC
 artist: Another Fine Day
 album: Salvage FLAC
 spotify_url: https://open.spotify.com/search/Another%20Fine%20Day%20Salvage%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Another%20Fine%20Day%20Salvage%20FLAC
+apple_music_url: https://music.apple.com/search?term=Another%20Fine%20Day%20Salvage%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Another%20Fine%20Day%20Salvage%20FLAC
 ---
 

@@ -6,7 +6,7 @@ title: Rachel's - The Sea and the Bells
 artist: Rachel's
 album: The Sea and the Bells
 spotify_url: https://open.spotify.com/search/Rachel%27s%20The%20Sea%20and%20the%20Bells
-apple_music_url: https://music.apple.com/us/search?term=Rachel%27s%20The%20Sea%20and%20the%20Bells
+apple_music_url: https://music.apple.com/search?term=Rachel%27s%20The%20Sea%20and%20the%20Bells
 youtube_url: https://www.youtube.com/results?search_query=Rachel%27s%20The%20Sea%20and%20the%20Bells
 ---
 

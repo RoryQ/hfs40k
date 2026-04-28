@@ -6,7 +6,7 @@ title: "Beno\xEEt Pioulard - Pr\xE9cis FLAC"
 artist: "Beno\xEEt Pioulard"
 album: "Pr\xE9cis FLAC"
 spotify_url: https://open.spotify.com/search/Beno%C3%AEt%20Pioulard%20Pr%C3%A9cis%20FLAC
-apple_music_url: https://music.apple.com/us/search?term=Beno%C3%AEt%20Pioulard%20Pr%C3%A9cis%20FLAC
+apple_music_url: https://music.apple.com/search?term=Beno%C3%AEt%20Pioulard%20Pr%C3%A9cis%20FLAC
 youtube_url: https://www.youtube.com/results?search_query=Beno%C3%AEt%20Pioulard%20Pr%C3%A9cis%20FLAC
 ---
 

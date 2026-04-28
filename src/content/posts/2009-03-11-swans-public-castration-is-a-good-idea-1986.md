@@ -6,7 +6,7 @@ title: Swans - Public Castration Is a Good Idea (1986)
 artist: Swans
 album: Public Castration Is a Good Idea
 spotify_url: https://open.spotify.com/search/Swans%20Public%20Castration%20Is%20a%20Good%20Idea
-apple_music_url: https://geo.music.apple.com/au/album/_/1054677165?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1054677165
 youtube_url: https://www.youtube.com/results?search_query=Swans%20Public%20Castration%20Is%20a%20Good%20Idea
 ---
 

@@ -6,7 +6,7 @@ title: Untitled Post
 artist: pg. 99
 album: Oversteps
 spotify_url: https://open.spotify.com/search/pg.%2099%20Oversteps
-apple_music_url: https://music.apple.com/us/search?term=pg.%2099%20Oversteps
+apple_music_url: https://music.apple.com/search?term=pg.%2099%20Oversteps
 youtube_url: https://www.youtube.com/results?search_query=pg.%2099%20Oversteps
 ---
 

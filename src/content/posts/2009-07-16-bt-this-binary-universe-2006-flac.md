@@ -6,7 +6,7 @@ title: BT - This Binary Universe (2006) [FLAC]
 artist: BT
 album: This Binary Universe
 spotify_url: https://open.spotify.com/search/BT%20This%20Binary%20Universe
-apple_music_url: https://music.apple.com/us/search?term=BT%20This%20Binary%20Universe
+apple_music_url: https://music.apple.com/search?term=BT%20This%20Binary%20Universe
 youtube_url: https://www.youtube.com/results?search_query=BT%20This%20Binary%20Universe
 ---
 

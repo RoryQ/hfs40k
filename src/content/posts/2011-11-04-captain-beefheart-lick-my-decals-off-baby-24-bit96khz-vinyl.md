@@ -6,7 +6,7 @@ title: Captain Beefheart - Lick My Decals Off Baby (24-bit/96khz Vinyl)
 artist: Captain Beefheart
 album: Lick My Decals Off Baby
 spotify_url: https://open.spotify.com/search/Captain%20Beefheart%20Lick%20My%20Decals%20Off%20Baby
-apple_music_url: https://geo.music.apple.com/au/album/_/415007099?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/415007099
 youtube_url: https://www.youtube.com/results?search_query=Captain%20Beefheart%20Lick%20My%20Decals%20Off%20Baby
 ---
 

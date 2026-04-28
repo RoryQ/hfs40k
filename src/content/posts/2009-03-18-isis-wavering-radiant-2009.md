@@ -6,7 +6,7 @@ title: Isis - Wavering Radiant (2009)
 artist: Isis
 album: Wavering Radiant
 spotify_url: https://open.spotify.com/search/Isis%20Wavering%20Radiant
-apple_music_url: https://music.apple.com/us/search?term=Isis%20Wavering%20Radiant
+apple_music_url: https://music.apple.com/search?term=Isis%20Wavering%20Radiant
 youtube_url: https://www.youtube.com/results?search_query=Isis%20Wavering%20Radiant
 ---
 

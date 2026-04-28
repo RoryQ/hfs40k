@@ -6,7 +6,7 @@ title: Woody Shaw - Blackstone Legacy (FLAC)
 artist: Woody Shaw
 album: Blackstone Legacy
 spotify_url: https://open.spotify.com/search/Woody%20Shaw%20Blackstone%20Legacy
-apple_music_url: https://geo.music.apple.com/au/album/_/1529347715?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1529347715
 youtube_url: https://www.youtube.com/results?search_query=Woody%20Shaw%20Blackstone%20Legacy
 ---
 

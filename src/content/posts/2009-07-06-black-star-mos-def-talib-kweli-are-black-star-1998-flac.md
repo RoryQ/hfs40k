@@ -6,7 +6,7 @@ title: Black Star - Mos Def & Talib Kweli Are Black Star (1998) [FLAC]
 artist: Black Star
 album: Mos Def & Talib Kweli Are Black Star
 spotify_url: https://open.spotify.com/search/Black%20Star%20Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star
-apple_music_url: https://geo.music.apple.com/au/album/_/111287264?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/111287264
 youtube_url: https://www.youtube.com/results?search_query=Black%20Star%20Mos%20Def%20%26%20Talib%20Kweli%20Are%20Black%20Star
 ---
 

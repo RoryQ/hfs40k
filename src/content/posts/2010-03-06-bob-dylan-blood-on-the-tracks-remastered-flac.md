@@ -6,7 +6,7 @@ title: Bob Dylan - Blood On The Tracks (Remastered FLAC)
 artist: Bob Dylan
 album: Blood On The Tracks
 spotify_url: https://open.spotify.com/search/Bob%20Dylan%20Blood%20On%20The%20Tracks
-apple_music_url: https://music.apple.com/us/search?term=Bob%20Dylan%20Blood%20On%20The%20Tracks
+apple_music_url: https://music.apple.com/search?term=Bob%20Dylan%20Blood%20On%20The%20Tracks
 youtube_url: https://www.youtube.com/results?search_query=Bob%20Dylan%20Blood%20On%20The%20Tracks
 ---
 

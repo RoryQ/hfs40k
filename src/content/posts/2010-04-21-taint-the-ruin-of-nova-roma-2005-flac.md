@@ -6,7 +6,7 @@ title: "Taint - The Ruin of Nova\u0301 Roma (2005) [FLAC]"
 artist: Taint
 album: "The Ruin of Nova\u0301 Roma"
 spotify_url: https://open.spotify.com/search/Taint%20The%20Ruin%20of%20Nova%CC%81%20Roma
-apple_music_url: https://music.apple.com/us/search?term=Taint%20The%20Ruin%20of%20Nova%CC%81%20Roma
+apple_music_url: https://music.apple.com/search?term=Taint%20The%20Ruin%20of%20Nova%CC%81%20Roma
 youtube_url: https://www.youtube.com/results?search_query=Taint%20The%20Ruin%20of%20Nova%CC%81%20Roma
 ---
 

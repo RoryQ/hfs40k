@@ -6,7 +6,7 @@ title: Zweizz - The Yawn of the New Age (2007) [FLAC]
 artist: Zweizz
 album: The Yawn of the New Age
 spotify_url: https://open.spotify.com/search/Zweizz%20The%20Yawn%20of%20the%20New%20Age
-apple_music_url: https://music.apple.com/us/search?term=Zweizz%20The%20Yawn%20of%20the%20New%20Age
+apple_music_url: https://music.apple.com/search?term=Zweizz%20The%20Yawn%20of%20the%20New%20Age
 youtube_url: https://www.youtube.com/results?search_query=Zweizz%20The%20Yawn%20of%20the%20New%20Age
 ---
 

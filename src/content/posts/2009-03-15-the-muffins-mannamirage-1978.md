@@ -6,7 +6,7 @@ title: The Muffins - Manna/Mirage (1978)
 artist: The Muffins
 album: Manna/Mirage
 spotify_url: https://open.spotify.com/search/The%20Muffins%20Manna/Mirage
-apple_music_url: https://music.apple.com/us/search?term=The%20Muffins%20Manna/Mirage
+apple_music_url: https://music.apple.com/search?term=The%20Muffins%20Manna/Mirage
 youtube_url: https://www.youtube.com/results?search_query=The%20Muffins%20Manna/Mirage
 ---
 

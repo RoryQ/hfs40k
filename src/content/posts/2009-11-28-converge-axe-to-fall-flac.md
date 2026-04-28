@@ -6,7 +6,7 @@ title: Converge - Axe to Fall (FLAC)
 artist: Converge
 album: Axe to Fall
 spotify_url: https://open.spotify.com/search/Converge%20Axe%20to%20Fall
-apple_music_url: https://music.apple.com/us/search?term=Converge%20Axe%20to%20Fall
+apple_music_url: https://music.apple.com/search?term=Converge%20Axe%20to%20Fall
 youtube_url: https://www.youtube.com/results?search_query=Converge%20Axe%20to%20Fall
 ---
 

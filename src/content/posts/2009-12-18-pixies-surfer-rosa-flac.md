@@ -6,7 +6,7 @@ title: Pixies - Surfer Rosa (FLAC)
 artist: Pixies
 album: Surfer Rosa
 spotify_url: https://open.spotify.com/search/Pixies%20Surfer%20Rosa
-apple_music_url: https://geo.music.apple.com/au/album/_/931035543?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/931035543
 youtube_url: https://www.youtube.com/results?search_query=Pixies%20Surfer%20Rosa
 ---
 

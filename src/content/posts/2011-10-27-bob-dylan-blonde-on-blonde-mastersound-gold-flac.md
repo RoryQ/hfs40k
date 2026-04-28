@@ -6,7 +6,7 @@ title: Bob Dylan - Blonde on Blonde (Mastersound Gold FLAC)
 artist: Bob Dylan
 album: Blonde on Blonde
 spotify_url: https://open.spotify.com/search/Bob%20Dylan%20Blonde%20on%20Blonde
-apple_music_url: https://geo.music.apple.com/au/album/_/178049863?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/178049863
 youtube_url: https://www.youtube.com/results?search_query=Bob%20Dylan%20Blonde%20on%20Blonde
 ---
 

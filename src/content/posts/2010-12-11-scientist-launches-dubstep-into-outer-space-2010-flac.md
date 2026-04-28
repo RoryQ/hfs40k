@@ -6,7 +6,7 @@ title: Scientist Launches Dubstep Into Outer Space! (2010, FLAC)
 artist: Scientist
 album: Launches Dubstep Into Outer Space
 spotify_url: https://open.spotify.com/search/Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
-apple_music_url: https://music.apple.com/us/search?term=Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
+apple_music_url: https://music.apple.com/search?term=Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
 youtube_url: https://www.youtube.com/results?search_query=Scientist%20Launches%20Dubstep%20Into%20Outer%20Space
 ---
 

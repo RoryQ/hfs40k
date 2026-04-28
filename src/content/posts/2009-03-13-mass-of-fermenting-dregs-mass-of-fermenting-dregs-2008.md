@@ -6,7 +6,7 @@ title: Mass of Fermenting Dregs - Mass of Fermenting Dregs (2008)
 artist: Mass of Fermenting Dregs
 album: Mass of Fermenting Dregs
 spotify_url: https://open.spotify.com/search/Mass%20of%20Fermenting%20Dregs%20Mass%20of%20Fermenting%20Dregs
-apple_music_url: https://music.apple.com/us/search?term=Mass%20of%20Fermenting%20Dregs%20Mass%20of%20Fermenting%20Dregs
+apple_music_url: https://music.apple.com/search?term=Mass%20of%20Fermenting%20Dregs%20Mass%20of%20Fermenting%20Dregs
 youtube_url: https://www.youtube.com/results?search_query=Mass%20of%20Fermenting%20Dregs%20Mass%20of%20Fermenting%20Dregs
 ---
 

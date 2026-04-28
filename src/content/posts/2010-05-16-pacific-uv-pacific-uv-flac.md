@@ -6,7 +6,7 @@ title: Pacific UV - Pacific UV [FLAC]
 artist: Pacific UV
 album: Pacific UV
 spotify_url: https://open.spotify.com/search/Pacific%20UV%20Pacific%20UV
-apple_music_url: https://music.apple.com/us/search?term=Pacific%20UV%20Pacific%20UV
+apple_music_url: https://music.apple.com/search?term=Pacific%20UV%20Pacific%20UV
 youtube_url: https://www.youtube.com/results?search_query=Pacific%20UV%20Pacific%20UV
 ---
 

@@ -6,7 +6,7 @@ title: CunninLynguists - Will Rap For Food (2001) [FLAC]
 artist: CunninLynguists
 album: Will Rap For Food
 spotify_url: https://open.spotify.com/search/CunninLynguists%20Will%20Rap%20For%20Food
-apple_music_url: https://music.apple.com/us/search?term=CunninLynguists%20Will%20Rap%20For%20Food
+apple_music_url: https://music.apple.com/search?term=CunninLynguists%20Will%20Rap%20For%20Food
 youtube_url: https://www.youtube.com/results?search_query=CunninLynguists%20Will%20Rap%20For%20Food
 ---
 

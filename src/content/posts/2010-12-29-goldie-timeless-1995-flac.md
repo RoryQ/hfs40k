@@ -6,7 +6,7 @@ title: Goldie - Timeless (1995, FLAC)
 artist: Goldie
 album: Timeless
 spotify_url: https://open.spotify.com/search/Goldie%20Timeless
-apple_music_url: https://music.apple.com/us/search?term=Goldie%20Timeless
+apple_music_url: https://music.apple.com/search?term=Goldie%20Timeless
 youtube_url: https://www.youtube.com/results?search_query=Goldie%20Timeless
 ---
 

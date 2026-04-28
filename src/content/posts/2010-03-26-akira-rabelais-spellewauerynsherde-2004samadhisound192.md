@@ -6,7 +6,7 @@ title: Akira Rabelais - Spellewauerynsherde [2004/Samadhisound/192]
 artist: Akira Rabelais
 album: Spellewauerynsherde
 spotify_url: https://open.spotify.com/search/Akira%20Rabelais%20Spellewauerynsherde
-apple_music_url: https://music.apple.com/us/search?term=Akira%20Rabelais%20Spellewauerynsherde
+apple_music_url: https://music.apple.com/search?term=Akira%20Rabelais%20Spellewauerynsherde
 youtube_url: https://www.youtube.com/results?search_query=Akira%20Rabelais%20Spellewauerynsherde
 ---
 

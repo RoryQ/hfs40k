@@ -6,7 +6,7 @@ title: Cluster - Zuckerzeit (1974)
 artist: Cluster
 album: Zuckerzeit
 spotify_url: https://open.spotify.com/search/Cluster%20Zuckerzeit
-apple_music_url: https://music.apple.com/us/search?term=Cluster%20Zuckerzeit
+apple_music_url: https://music.apple.com/search?term=Cluster%20Zuckerzeit
 youtube_url: https://www.youtube.com/results?search_query=Cluster%20Zuckerzeit
 ---
 

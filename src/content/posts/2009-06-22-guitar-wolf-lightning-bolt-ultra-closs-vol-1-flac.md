@@ -6,7 +6,7 @@ title: Guitar Wolf & Lightning Bolt - Ultra Closs Vol. 1 (FLAC)
 artist: Guitar Wolf & Lightning Bolt
 album: Ultra Closs Vol. 1
 spotify_url: https://open.spotify.com/search/Guitar%20Wolf%20%26%20Lightning%20Bolt%20Ultra%20Closs%20Vol.%201
-apple_music_url: https://music.apple.com/us/search?term=Guitar%20Wolf%20%26%20Lightning%20Bolt%20Ultra%20Closs%20Vol.%201
+apple_music_url: https://music.apple.com/search?term=Guitar%20Wolf%20%26%20Lightning%20Bolt%20Ultra%20Closs%20Vol.%201
 youtube_url: https://www.youtube.com/results?search_query=Guitar%20Wolf%20%26%20Lightning%20Bolt%20Ultra%20Closs%20Vol.%201
 ---
 

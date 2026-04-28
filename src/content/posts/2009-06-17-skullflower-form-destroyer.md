@@ -6,7 +6,7 @@ title: Skullflower - Form Destroyer
 artist: Skullflower
 album: Form Destroyer
 spotify_url: https://open.spotify.com/search/Skullflower%20Form%20Destroyer
-apple_music_url: https://music.apple.com/us/search?term=Skullflower%20Form%20Destroyer
+apple_music_url: https://music.apple.com/search?term=Skullflower%20Form%20Destroyer
 youtube_url: https://www.youtube.com/results?search_query=Skullflower%20Form%20Destroyer
 ---
 

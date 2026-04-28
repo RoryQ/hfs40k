@@ -6,7 +6,7 @@ title: 'Fabriclive.50: dBridge & Instra:Mental Present Autonomic  (2010, FLAC)'
 artist: dBridge & Instra:Mental
 album: Autonomic
 spotify_url: https://open.spotify.com/search/dBridge%20%26%20Instra%3AMental%20Autonomic
-apple_music_url: https://music.apple.com/us/search?term=dBridge%20%26%20Instra%3AMental%20Autonomic
+apple_music_url: https://music.apple.com/search?term=dBridge%20%26%20Instra%3AMental%20Autonomic
 youtube_url: https://www.youtube.com/results?search_query=dBridge%20%26%20Instra%3AMental%20Autonomic
 ---
 

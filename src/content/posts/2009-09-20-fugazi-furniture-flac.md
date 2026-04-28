@@ -6,7 +6,7 @@ title: Fugazi - Furniture (FLAC)
 artist: Fugazi
 album: Furniture
 spotify_url: https://open.spotify.com/search/Fugazi%20Furniture
-apple_music_url: https://music.apple.com/us/search?term=Fugazi%20Furniture
+apple_music_url: https://music.apple.com/search?term=Fugazi%20Furniture
 youtube_url: https://www.youtube.com/results?search_query=Fugazi%20Furniture
 ---
 

@@ -6,7 +6,7 @@ title: Don Cherry - Mu (First and Second Parts)
 artist: Don Cherry
 album: Mu
 spotify_url: https://open.spotify.com/search/Don%20Cherry%20Mu
-apple_music_url: https://music.apple.com/us/search?term=Don%20Cherry%20Mu
+apple_music_url: https://music.apple.com/search?term=Don%20Cherry%20Mu
 youtube_url: https://www.youtube.com/results?search_query=Don%20Cherry%20Mu
 ---
 

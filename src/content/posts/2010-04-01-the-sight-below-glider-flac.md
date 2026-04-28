@@ -6,7 +6,7 @@ title: The Sight Below - Glider (FLAC)
 artist: The Sight Below
 album: Glider
 spotify_url: https://open.spotify.com/search/The%20Sight%20Below%20Glider
-apple_music_url: https://music.apple.com/us/search?term=The%20Sight%20Below%20Glider
+apple_music_url: https://music.apple.com/search?term=The%20Sight%20Below%20Glider
 youtube_url: https://www.youtube.com/results?search_query=The%20Sight%20Below%20Glider
 ---
 

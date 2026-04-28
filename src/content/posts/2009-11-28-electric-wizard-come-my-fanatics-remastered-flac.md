@@ -6,7 +6,7 @@ title: Electric Wizard - Come My Fanatics (Remastered FLAC)
 artist: Electric Wizard
 album: Come My Fanatics
 spotify_url: https://open.spotify.com/search/Electric%20Wizard%20Come%20My%20Fanatics
-apple_music_url: https://music.apple.com/us/search?term=Electric%20Wizard%20Come%20My%20Fanatics
+apple_music_url: https://music.apple.com/search?term=Electric%20Wizard%20Come%20My%20Fanatics
 youtube_url: https://www.youtube.com/results?search_query=Electric%20Wizard%20Come%20My%20Fanatics
 ---
 

@@ -6,7 +6,7 @@ title: Warsaw Village Band - People's Spring
 artist: Warsaw Village Band
 album: People's Spring
 spotify_url: https://open.spotify.com/search/Warsaw%20Village%20Band%20People%27s%20Spring
-apple_music_url: https://geo.music.apple.com/au/album/_/1614846023?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1614846023
 youtube_url: https://www.youtube.com/results?search_query=Warsaw%20Village%20Band%20People%27s%20Spring
 ---
 

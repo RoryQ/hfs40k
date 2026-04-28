@@ -6,7 +6,7 @@ title: Dio - Holy Diver (FLAC)
 artist: Dio
 album: Holy Diver
 spotify_url: https://open.spotify.com/search/Dio%20Holy%20Diver
-apple_music_url: https://music.apple.com/us/search?term=Dio%20Holy%20Diver
+apple_music_url: https://music.apple.com/search?term=Dio%20Holy%20Diver
 youtube_url: https://www.youtube.com/results?search_query=Dio%20Holy%20Diver
 ---
 

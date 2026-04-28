@@ -6,7 +6,7 @@ title: The Avalanches - Since I Left You (Australian CD FLAC)
 artist: The Avalanches
 album: Since I Left You
 spotify_url: https://open.spotify.com/search/The%20Avalanches%20Since%20I%20Left%20You
-apple_music_url: https://music.apple.com/us/search?term=The%20Avalanches%20Since%20I%20Left%20You
+apple_music_url: https://music.apple.com/search?term=The%20Avalanches%20Since%20I%20Left%20You
 youtube_url: https://www.youtube.com/results?search_query=The%20Avalanches%20Since%20I%20Left%20You
 ---
 

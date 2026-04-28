@@ -6,7 +6,7 @@ title: Grant Green - Idle Moments (FLAC)
 artist: Grant Green
 album: Idle Moments
 spotify_url: https://open.spotify.com/search/Grant%20Green%20Idle%20Moments
-apple_music_url: https://music.apple.com/us/search?term=Grant%20Green%20Idle%20Moments
+apple_music_url: https://music.apple.com/search?term=Grant%20Green%20Idle%20Moments
 youtube_url: https://www.youtube.com/results?search_query=Grant%20Green%20Idle%20Moments
 ---
 

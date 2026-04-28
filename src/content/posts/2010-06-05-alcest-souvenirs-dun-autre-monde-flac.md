@@ -6,7 +6,7 @@ title: Alcest - Souvenirs d'un autre monde [FLAC]
 artist: Alcest
 album: Souvenirs d'un autre monde
 spotify_url: https://open.spotify.com/search/Alcest%20Souvenirs%20d%27un%20autre%20monde
-apple_music_url: https://music.apple.com/us/search?term=Alcest%20Souvenirs%20d%27un%20autre%20monde
+apple_music_url: https://music.apple.com/search?term=Alcest%20Souvenirs%20d%27un%20autre%20monde
 youtube_url: https://www.youtube.com/results?search_query=Alcest%20Souvenirs%20d%27un%20autre%20monde
 ---
 

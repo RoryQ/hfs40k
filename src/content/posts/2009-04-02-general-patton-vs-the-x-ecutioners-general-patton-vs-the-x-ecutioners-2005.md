@@ -6,7 +6,7 @@ title: General Patton vs. The X-Ecutioners - General Patton vs. The X-Ecutioners
 artist: General Patton vs. The X
 album: Ecutioners - General Patton vs. The X-Ecutioners
 spotify_url: https://open.spotify.com/search/General%20Patton%20vs.%20The%20X%20Ecutioners%20-%20General%20Patton%20vs.%20The%20X-Ecutioners
-apple_music_url: https://music.apple.com/us/search?term=General%20Patton%20vs.%20The%20X%20Ecutioners%20-%20General%20Patton%20vs.%20The%20X-Ecutioners
+apple_music_url: https://music.apple.com/search?term=General%20Patton%20vs.%20The%20X%20Ecutioners%20-%20General%20Patton%20vs.%20The%20X-Ecutioners
 youtube_url: https://www.youtube.com/results?search_query=General%20Patton%20vs.%20The%20X%20Ecutioners%20-%20General%20Patton%20vs.%20The%20X-Ecutioners
 ---
 

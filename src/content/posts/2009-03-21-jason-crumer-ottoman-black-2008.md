@@ -6,7 +6,7 @@ title: Jason Crumer - Ottoman Black (2008)
 artist: Jason Crumer
 album: Ottoman Black
 spotify_url: https://open.spotify.com/search/Jason%20Crumer%20Ottoman%20Black
-apple_music_url: https://music.apple.com/us/search?term=Jason%20Crumer%20Ottoman%20Black
+apple_music_url: https://music.apple.com/search?term=Jason%20Crumer%20Ottoman%20Black
 youtube_url: https://www.youtube.com/results?search_query=Jason%20Crumer%20Ottoman%20Black
 ---
 

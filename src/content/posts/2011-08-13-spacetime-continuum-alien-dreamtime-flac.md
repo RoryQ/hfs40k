@@ -6,7 +6,7 @@ title: Spacetime Continuum - Alien Dreamtime (FLAC)
 artist: Spacetime Continuum
 album: Alien Dreamtime
 spotify_url: https://open.spotify.com/search/Spacetime%20Continuum%20Alien%20Dreamtime
-apple_music_url: https://music.apple.com/us/search?term=Spacetime%20Continuum%20Alien%20Dreamtime
+apple_music_url: https://music.apple.com/search?term=Spacetime%20Continuum%20Alien%20Dreamtime
 youtube_url: https://www.youtube.com/results?search_query=Spacetime%20Continuum%20Alien%20Dreamtime
 ---
 

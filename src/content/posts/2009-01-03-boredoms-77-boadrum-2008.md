@@ -6,7 +6,7 @@ title: Boredoms - 77 Boadrum (2008)
 artist: Boredoms
 album: 77 Boadrum
 spotify_url: https://open.spotify.com/search/Boredoms%2077%20Boadrum
-apple_music_url: https://music.apple.com/us/search?term=Boredoms%2077%20Boadrum
+apple_music_url: https://music.apple.com/search?term=Boredoms%2077%20Boadrum
 youtube_url: https://www.youtube.com/results?search_query=Boredoms%2077%20Boadrum
 ---
 

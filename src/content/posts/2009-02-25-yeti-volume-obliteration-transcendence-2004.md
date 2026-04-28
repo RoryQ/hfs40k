@@ -6,7 +6,7 @@ title: Yeti - Volume Obliteration Transcendence  (2004)
 artist: Yeti
 album: Volume Obliteration Transcendence
 spotify_url: https://open.spotify.com/search/Yeti%20Volume%20Obliteration%20Transcendence
-apple_music_url: https://music.apple.com/us/search?term=Yeti%20Volume%20Obliteration%20Transcendence
+apple_music_url: https://music.apple.com/search?term=Yeti%20Volume%20Obliteration%20Transcendence
 youtube_url: https://www.youtube.com/results?search_query=Yeti%20Volume%20Obliteration%20Transcendence
 ---
 

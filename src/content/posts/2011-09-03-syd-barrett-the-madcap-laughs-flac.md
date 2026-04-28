@@ -6,7 +6,7 @@ title: Syd Barrett - The Madcap Laughs (FLAC)
 artist: Syd Barrett
 album: The Madcap Laughs
 spotify_url: https://open.spotify.com/search/Syd%20Barrett%20The%20Madcap%20Laughs
-apple_music_url: https://geo.music.apple.com/au/album/_/1111646054?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1111646054
 youtube_url: https://www.youtube.com/results?search_query=Syd%20Barrett%20The%20Madcap%20Laughs
 ---
 

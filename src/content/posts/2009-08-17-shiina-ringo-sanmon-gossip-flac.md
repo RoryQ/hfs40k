@@ -6,7 +6,7 @@ title: Shiina Ringo - Sanmon Gossip [FLAC]
 artist: Shiina Ringo
 album: Sanmon Gossip
 spotify_url: https://open.spotify.com/search/Shiina%20Ringo%20Sanmon%20Gossip
-apple_music_url: https://music.apple.com/us/search?term=Shiina%20Ringo%20Sanmon%20Gossip
+apple_music_url: https://music.apple.com/search?term=Shiina%20Ringo%20Sanmon%20Gossip
 youtube_url: https://www.youtube.com/results?search_query=Shiina%20Ringo%20Sanmon%20Gossip
 ---
 

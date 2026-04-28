@@ -6,7 +6,7 @@ title: Boris With Michio Kurihara - Cloud Chamber (2008)
 artist: Boris With Michio Kurihara
 album: Cloud Chamber
 spotify_url: https://open.spotify.com/search/Boris%20With%20Michio%20Kurihara%20Cloud%20Chamber
-apple_music_url: https://music.apple.com/us/search?term=Boris%20With%20Michio%20Kurihara%20Cloud%20Chamber
+apple_music_url: https://music.apple.com/search?term=Boris%20With%20Michio%20Kurihara%20Cloud%20Chamber
 youtube_url: https://www.youtube.com/results?search_query=Boris%20With%20Michio%20Kurihara%20Cloud%20Chamber
 ---
 

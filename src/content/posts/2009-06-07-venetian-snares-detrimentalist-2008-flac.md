@@ -6,7 +6,7 @@ title: Venetian Snares - Detrimentalist (2008) [FLAC]
 artist: Venetian Snares
 album: Detrimentalist
 spotify_url: https://open.spotify.com/search/Venetian%20Snares%20Detrimentalist
-apple_music_url: https://music.apple.com/us/search?term=Venetian%20Snares%20Detrimentalist
+apple_music_url: https://music.apple.com/search?term=Venetian%20Snares%20Detrimentalist
 youtube_url: https://www.youtube.com/results?search_query=Venetian%20Snares%20Detrimentalist
 ---
 

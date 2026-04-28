@@ -6,7 +6,7 @@ title: Wale Oyejide - Africahot! (2006)
 artist: Wale Oyejide
 album: Africahot!
 spotify_url: https://open.spotify.com/search/Wale%20Oyejide%20Africahot%21
-apple_music_url: https://music.apple.com/us/search?term=Wale%20Oyejide%20Africahot%21
+apple_music_url: https://music.apple.com/search?term=Wale%20Oyejide%20Africahot%21
 youtube_url: https://www.youtube.com/results?search_query=Wale%20Oyejide%20Africahot%21
 ---
 

@@ -6,7 +6,7 @@ title: Fela Kuti - Shakara + London Scene (FLAC)
 artist: Fela Kuti
 album: Shakara + London Scene
 spotify_url: https://open.spotify.com/search/Fela%20Kuti%20Shakara%20%2B%20London%20Scene
-apple_music_url: https://music.apple.com/us/search?term=Fela%20Kuti%20Shakara%20%2B%20London%20Scene
+apple_music_url: https://music.apple.com/search?term=Fela%20Kuti%20Shakara%20%2B%20London%20Scene
 youtube_url: https://www.youtube.com/results?search_query=Fela%20Kuti%20Shakara%20%2B%20London%20Scene
 ---
 

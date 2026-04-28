@@ -6,7 +6,7 @@ title: Tom Waits - Small Change (FLAC)
 artist: Tom Waits
 album: Small Change
 spotify_url: https://open.spotify.com/search/Tom%20Waits%20Small%20Change
-apple_music_url: https://music.apple.com/us/search?term=Tom%20Waits%20Small%20Change
+apple_music_url: https://music.apple.com/search?term=Tom%20Waits%20Small%20Change
 youtube_url: https://www.youtube.com/results?search_query=Tom%20Waits%20Small%20Change
 ---
 

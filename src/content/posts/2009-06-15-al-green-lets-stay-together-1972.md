@@ -6,7 +6,7 @@ title: Al Green - Let's Stay Together (1972)
 artist: Al Green
 album: Let's Stay Together
 spotify_url: https://open.spotify.com/search/Al%20Green%20Let%27s%20Stay%20Together
-apple_music_url: https://music.apple.com/us/search?term=Al%20Green%20Let%27s%20Stay%20Together
+apple_music_url: https://music.apple.com/search?term=Al%20Green%20Let%27s%20Stay%20Together
 youtube_url: https://www.youtube.com/results?search_query=Al%20Green%20Let%27s%20Stay%20Together
 ---
 

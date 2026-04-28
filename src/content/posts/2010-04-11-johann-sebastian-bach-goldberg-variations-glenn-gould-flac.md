@@ -6,7 +6,7 @@ title: Johann Sebastian Bach - Goldberg Variations (Glenn Gould) (FLAC)
 artist: Johann Sebastian Bach
 album: Goldberg Variations
 spotify_url: https://open.spotify.com/search/Johann%20Sebastian%20Bach%20Goldberg%20Variations
-apple_music_url: https://music.apple.com/us/search?term=Johann%20Sebastian%20Bach%20Goldberg%20Variations
+apple_music_url: https://music.apple.com/search?term=Johann%20Sebastian%20Bach%20Goldberg%20Variations
 youtube_url: https://www.youtube.com/results?search_query=Johann%20Sebastian%20Bach%20Goldberg%20Variations
 ---
 

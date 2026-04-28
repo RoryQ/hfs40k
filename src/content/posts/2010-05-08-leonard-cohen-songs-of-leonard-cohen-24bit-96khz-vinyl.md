@@ -6,7 +6,7 @@ title: Leonard Cohen - Songs of Leonard Cohen (24bit-96khz Vinyl)
 artist: Leonard Cohen
 album: Songs of Leonard Cohen
 spotify_url: https://open.spotify.com/search/Leonard%20Cohen%20Songs%20of%20Leonard%20Cohen
-apple_music_url: https://geo.music.apple.com/au/album/_/1826864082?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/1826864082
 youtube_url: https://www.youtube.com/results?search_query=Leonard%20Cohen%20Songs%20of%20Leonard%20Cohen
 ---
 

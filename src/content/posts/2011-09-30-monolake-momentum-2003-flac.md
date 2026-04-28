@@ -6,7 +6,7 @@ title: Monolake - Momentum (2003, FLAC)
 artist: Monolake
 album: Momentum
 spotify_url: https://open.spotify.com/search/Monolake%20Momentum
-apple_music_url: https://geo.music.apple.com/au/album/_/13765654?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/13765654
 youtube_url: https://www.youtube.com/results?search_query=Monolake%20Momentum
 ---
 

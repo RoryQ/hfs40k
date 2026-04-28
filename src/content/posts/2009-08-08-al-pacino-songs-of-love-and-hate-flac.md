@@ -6,7 +6,7 @@ title: Al Pacino - Songs of Love and Hate (FLAC)
 artist: Al Pacino
 album: Songs of Love and Hate
 spotify_url: https://open.spotify.com/search/Al%20Pacino%20Songs%20of%20Love%20and%20Hate
-apple_music_url: https://music.apple.com/us/search?term=Al%20Pacino%20Songs%20of%20Love%20and%20Hate
+apple_music_url: https://music.apple.com/search?term=Al%20Pacino%20Songs%20of%20Love%20and%20Hate
 youtube_url: https://www.youtube.com/results?search_query=Al%20Pacino%20Songs%20of%20Love%20and%20Hate
 ---
 

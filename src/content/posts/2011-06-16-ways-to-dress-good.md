@@ -6,7 +6,7 @@ title: Ways to Dress Good
 artist: How to Dress Well
 album: Just Once
 spotify_url: https://open.spotify.com/search/How%20to%20Dress%20Well%20Just%20Once
-apple_music_url: https://geo.music.apple.com/au/album/_/446957225?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/446957225
 youtube_url: https://www.youtube.com/results?search_query=How%20to%20Dress%20Well%20Just%20Once
 ---
 

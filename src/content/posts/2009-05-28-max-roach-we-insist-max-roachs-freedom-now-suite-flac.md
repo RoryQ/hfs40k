@@ -6,7 +6,7 @@ title: Max Roach - We Insist! Max Roach's Freedom Now Suite (FLAC)
 artist: Max Roach
 album: We Insist! Max Roach's Freedom Now Suite
 spotify_url: https://open.spotify.com/search/Max%20Roach%20We%20Insist%21%20Max%20Roach%27s%20Freedom%20Now%20Suite
-apple_music_url: https://music.apple.com/us/search?term=Max%20Roach%20We%20Insist%21%20Max%20Roach%27s%20Freedom%20Now%20Suite
+apple_music_url: https://music.apple.com/search?term=Max%20Roach%20We%20Insist%21%20Max%20Roach%27s%20Freedom%20Now%20Suite
 youtube_url: https://www.youtube.com/results?search_query=Max%20Roach%20We%20Insist%21%20Max%20Roach%27s%20Freedom%20Now%20Suite
 ---
 

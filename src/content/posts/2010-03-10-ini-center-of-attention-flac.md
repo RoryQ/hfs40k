@@ -6,7 +6,7 @@ title: InI - Center Of Attention [FLAC]
 artist: InI
 album: Center Of Attention
 spotify_url: https://open.spotify.com/search/InI%20Center%20Of%20Attention
-apple_music_url: https://music.apple.com/us/search?term=InI%20Center%20Of%20Attention
+apple_music_url: https://music.apple.com/search?term=InI%20Center%20Of%20Attention
 youtube_url: https://www.youtube.com/results?search_query=InI%20Center%20Of%20Attention
 ---
 

@@ -6,7 +6,7 @@ title: Bad Brains - Rock for Light (Original PVC Master) [FLAC]
 artist: Bad Brains
 album: Rock for Light
 spotify_url: https://open.spotify.com/search/Bad%20Brains%20Rock%20for%20Light
-apple_music_url: https://music.apple.com/us/search?term=Bad%20Brains%20Rock%20for%20Light
+apple_music_url: https://music.apple.com/search?term=Bad%20Brains%20Rock%20for%20Light
 youtube_url: https://www.youtube.com/results?search_query=Bad%20Brains%20Rock%20for%20Light
 ---
 

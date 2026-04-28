@@ -6,7 +6,7 @@ title: Gentle Giant - In A Glass House (1973) [Remastered FLAC]
 artist: Gentle Giant
 album: In A Glass House
 spotify_url: https://open.spotify.com/search/Gentle%20Giant%20In%20A%20Glass%20House
-apple_music_url: https://music.apple.com/us/search?term=Gentle%20Giant%20In%20A%20Glass%20House
+apple_music_url: https://music.apple.com/search?term=Gentle%20Giant%20In%20A%20Glass%20House
 youtube_url: https://www.youtube.com/results?search_query=Gentle%20Giant%20In%20A%20Glass%20House
 ---
 

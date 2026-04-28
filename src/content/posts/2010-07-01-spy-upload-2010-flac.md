@@ -6,7 +6,7 @@ title: Spy - upload (2010 FLAC)
 artist: Spy
 album: upload
 spotify_url: https://open.spotify.com/search/Spy%20upload
-apple_music_url: https://music.apple.com/us/search?term=Spy%20upload
+apple_music_url: https://music.apple.com/search?term=Spy%20upload
 youtube_url: https://www.youtube.com/results?search_query=Spy%20upload
 ---
 

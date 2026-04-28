@@ -6,7 +6,7 @@ title: Morte Macabre - Symphonic Holocaust (FLAC)
 artist: Morte Macabre
 album: Symphonic Holocaust
 spotify_url: https://open.spotify.com/search/Morte%20Macabre%20Symphonic%20Holocaust
-apple_music_url: https://music.apple.com/us/search?term=Morte%20Macabre%20Symphonic%20Holocaust
+apple_music_url: https://music.apple.com/search?term=Morte%20Macabre%20Symphonic%20Holocaust
 youtube_url: https://www.youtube.com/results?search_query=Morte%20Macabre%20Symphonic%20Holocaust
 ---
 

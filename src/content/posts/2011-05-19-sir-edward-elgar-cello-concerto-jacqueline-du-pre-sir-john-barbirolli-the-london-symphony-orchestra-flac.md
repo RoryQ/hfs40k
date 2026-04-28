@@ -7,7 +7,7 @@ title: Sir Edward Elgar - Cello Concerto (Jacqueline du Pre; Sir John Barbirolli
 artist: Sir Edward Elgar
 album: Cello Concerto
 spotify_url: https://open.spotify.com/search/Sir%20Edward%20Elgar%20Cello%20Concerto
-apple_music_url: https://music.apple.com/us/search?term=Sir%20Edward%20Elgar%20Cello%20Concerto
+apple_music_url: https://music.apple.com/search?term=Sir%20Edward%20Elgar%20Cello%20Concerto
 youtube_url: https://www.youtube.com/results?search_query=Sir%20Edward%20Elgar%20Cello%20Concerto
 ---
 

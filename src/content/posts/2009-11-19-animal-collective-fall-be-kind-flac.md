@@ -6,7 +6,7 @@ title: Animal Collective - Fall Be Kind (FLAC)
 artist: Animal Collective
 album: Fall Be Kind
 spotify_url: https://open.spotify.com/search/Animal%20Collective%20Fall%20Be%20Kind
-apple_music_url: https://music.apple.com/us/search?term=Animal%20Collective%20Fall%20Be%20Kind
+apple_music_url: https://music.apple.com/search?term=Animal%20Collective%20Fall%20Be%20Kind
 youtube_url: https://www.youtube.com/results?search_query=Animal%20Collective%20Fall%20Be%20Kind
 ---
 

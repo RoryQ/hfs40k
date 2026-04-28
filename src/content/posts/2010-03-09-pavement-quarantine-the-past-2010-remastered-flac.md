@@ -6,7 +6,7 @@ title: Pavement - Quarantine The Past (2010) [Remastered FLAC]
 artist: Pavement
 album: Quarantine The Past
 spotify_url: https://open.spotify.com/search/Pavement%20Quarantine%20The%20Past
-apple_music_url: https://music.apple.com/us/search?term=Pavement%20Quarantine%20The%20Past
+apple_music_url: https://music.apple.com/search?term=Pavement%20Quarantine%20The%20Past
 youtube_url: https://www.youtube.com/results?search_query=Pavement%20Quarantine%20The%20Past
 ---
 

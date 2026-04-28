@@ -6,7 +6,7 @@ title: Masta Killa - No Said Date (FLAC)
 artist: Masta Killa
 album: No Said Date
 spotify_url: https://open.spotify.com/search/Masta%20Killa%20No%20Said%20Date
-apple_music_url: https://music.apple.com/us/search?term=Masta%20Killa%20No%20Said%20Date
+apple_music_url: https://music.apple.com/search?term=Masta%20Killa%20No%20Said%20Date
 youtube_url: https://www.youtube.com/results?search_query=Masta%20Killa%20No%20Said%20Date
 ---
 

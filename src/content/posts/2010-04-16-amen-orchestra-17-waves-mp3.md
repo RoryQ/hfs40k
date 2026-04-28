@@ -6,7 +6,7 @@ title: Amen Orchestra - 17 Waves (mp3)
 artist: Amen Orchestra
 album: 17 Waves
 spotify_url: https://open.spotify.com/search/Amen%20Orchestra%2017%20Waves
-apple_music_url: https://music.apple.com/us/search?term=Amen%20Orchestra%2017%20Waves
+apple_music_url: https://music.apple.com/search?term=Amen%20Orchestra%2017%20Waves
 youtube_url: https://www.youtube.com/results?search_query=Amen%20Orchestra%2017%20Waves
 ---
 

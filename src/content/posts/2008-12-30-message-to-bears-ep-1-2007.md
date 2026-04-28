@@ -6,7 +6,7 @@ title: Message to Bears - EP 1 (2007)
 artist: Message to Bears
 album: EP 1
 spotify_url: https://open.spotify.com/search/Message%20to%20Bears%20EP%201
-apple_music_url: https://music.apple.com/us/search?term=Message%20to%20Bears%20EP%201
+apple_music_url: https://music.apple.com/search?term=Message%20to%20Bears%20EP%201
 youtube_url: https://www.youtube.com/results?search_query=Message%20to%20Bears%20EP%201
 ---
 

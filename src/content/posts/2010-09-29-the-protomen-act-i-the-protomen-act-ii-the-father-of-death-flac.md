@@ -6,7 +6,7 @@ title: 'The Protomen - Act I: The Protomen & Act II: The Father of Death (FLAC)'
 artist: The Protomen
 album: 'Act I: The Protomen & Act II: The Father of Death'
 spotify_url: https://open.spotify.com/search/The%20Protomen%20Act%20I%3A%20The%20Protomen%20%26%20Act%20II%3A%20The%20Father%20of%20Death
-apple_music_url: https://music.apple.com/us/search?term=The%20Protomen%20Act%20I%3A%20The%20Protomen%20%26%20Act%20II%3A%20The%20Father%20of%20Death
+apple_music_url: https://music.apple.com/search?term=The%20Protomen%20Act%20I%3A%20The%20Protomen%20%26%20Act%20II%3A%20The%20Father%20of%20Death
 youtube_url: https://www.youtube.com/results?search_query=The%20Protomen%20Act%20I%3A%20The%20Protomen%20%26%20Act%20II%3A%20The%20Father%20of%20Death
 ---
 

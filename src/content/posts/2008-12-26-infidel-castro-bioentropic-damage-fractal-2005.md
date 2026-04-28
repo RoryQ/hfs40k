@@ -6,7 +6,7 @@ title: Infidel? / Castro! - Bioentropic Damage Fractal (2005)
 artist: Infidel? / Castro!
 album: Bioentropic Damage Fractal
 spotify_url: https://open.spotify.com/search/Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
-apple_music_url: https://music.apple.com/us/search?term=Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
+apple_music_url: https://music.apple.com/search?term=Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
 youtube_url: https://www.youtube.com/results?search_query=Infidel%3F%20/%20Castro%21%20Bioentropic%20Damage%20Fractal
 ---
 

@@ -7,7 +7,7 @@ title: Modest Mouse - This Is A Long Drive For Someone With Nothing To Think Abo
 artist: Modest Mouse
 album: This Is A Long Drive For Someone With Nothing To Think About
 spotify_url: https://open.spotify.com/search/Modest%20Mouse%20This%20Is%20A%20Long%20Drive%20For%20Someone%20With%20Nothing%20To%20Think%20About
-apple_music_url: https://music.apple.com/us/search?term=Modest%20Mouse%20This%20Is%20A%20Long%20Drive%20For%20Someone%20With%20Nothing%20To%20Think%20About
+apple_music_url: https://music.apple.com/search?term=Modest%20Mouse%20This%20Is%20A%20Long%20Drive%20For%20Someone%20With%20Nothing%20To%20Think%20About
 youtube_url: https://www.youtube.com/results?search_query=Modest%20Mouse%20This%20Is%20A%20Long%20Drive%20For%20Someone%20With%20Nothing%20To%20Think%20About
 ---
 

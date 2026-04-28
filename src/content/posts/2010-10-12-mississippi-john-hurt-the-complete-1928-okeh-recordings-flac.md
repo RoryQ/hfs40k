@@ -6,7 +6,7 @@ title: Mississippi John Hurt - The Complete 1928 Okeh Recordings (FLAC)
 artist: Mississippi John Hurt
 album: The Complete 1928 Okeh Recordings
 spotify_url: https://open.spotify.com/search/Mississippi%20John%20Hurt%20The%20Complete%201928%20Okeh%20Recordings
-apple_music_url: https://geo.music.apple.com/au/album/_/432856275?mt=1&app=music&ls=1&at=1000lHKX&ct=api_http&itscg=30200&itsct=odsl_m
+apple_music_url: https://music.apple.com/album/432856275
 youtube_url: https://www.youtube.com/results?search_query=Mississippi%20John%20Hurt%20The%20Complete%201928%20Okeh%20Recordings
 ---
 

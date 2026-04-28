@@ -6,7 +6,7 @@ title: Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997)
 artist: Spiritualized
 album: Ladies and Gentlemen We Are Floating in Space
 spotify_url: https://open.spotify.com/search/Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
-apple_music_url: https://music.apple.com/us/search?term=Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
+apple_music_url: https://music.apple.com/search?term=Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
 youtube_url: https://www.youtube.com/results?search_query=Spiritualized%20Ladies%20and%20Gentlemen%20We%20Are%20Floating%20in%20Space
 ---
 

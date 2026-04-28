@@ -6,7 +6,7 @@ title: Current 93 - I Have a Special Plan for This World (FLAC)
 artist: Current 93
 album: I Have a Special Plan for This World
 spotify_url: https://open.spotify.com/search/Current%2093%20I%20Have%20a%20Special%20Plan%20for%20This%20World
-apple_music_url: https://music.apple.com/us/search?term=Current%2093%20I%20Have%20a%20Special%20Plan%20for%20This%20World
+apple_music_url: https://music.apple.com/search?term=Current%2093%20I%20Have%20a%20Special%20Plan%20for%20This%20World
 youtube_url: https://www.youtube.com/results?search_query=Current%2093%20I%20Have%20a%20Special%20Plan%20for%20This%20World
 ---
 

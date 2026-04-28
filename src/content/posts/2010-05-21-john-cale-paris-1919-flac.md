@@ -6,7 +6,7 @@ title: John Cale - Paris 1919 (FLAC)
 artist: John Cale
 album: Paris 1919
 spotify_url: https://open.spotify.com/search/John%20Cale%20Paris%201919
-apple_music_url: https://music.apple.com/us/search?term=John%20Cale%20Paris%201919
+apple_music_url: https://music.apple.com/search?term=John%20Cale%20Paris%201919
 youtube_url: https://www.youtube.com/results?search_query=John%20Cale%20Paris%201919
 ---
 

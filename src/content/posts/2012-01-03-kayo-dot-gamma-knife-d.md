@@ -6,7 +6,7 @@ title: Kayo Dot - Gamma Knife :D
 artist: Kayo Dot
 album: Gamma Knife :D
 spotify_url: https://open.spotify.com/search/Kayo%20Dot%20Gamma%20Knife%20%3AD
-apple_music_url: https://music.apple.com/us/search?term=Kayo%20Dot%20Gamma%20Knife%20%3AD
+apple_music_url: https://music.apple.com/search?term=Kayo%20Dot%20Gamma%20Knife%20%3AD
 youtube_url: https://www.youtube.com/results?search_query=Kayo%20Dot%20Gamma%20Knife%20%3AD
 ---
 

@@ -6,7 +6,7 @@ title: The American Analog Set - From Our Living Room to Yours [FLAC]
 artist: The American Analog Set
 album: From Our Living Room to Yours
 spotify_url: https://open.spotify.com/search/The%20American%20Analog%20Set%20From%20Our%20Living%20Room%20to%20Yours
-apple_music_url: https://music.apple.com/us/search?term=The%20American%20Analog%20Set%20From%20Our%20Living%20Room%20to%20Yours
+apple_music_url: https://music.apple.com/search?term=The%20American%20Analog%20Set%20From%20Our%20Living%20Room%20to%20Yours
 youtube_url: https://www.youtube.com/results?search_query=The%20American%20Analog%20Set%20From%20Our%20Living%20Room%20to%20Yours
 ---
 

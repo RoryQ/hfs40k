@@ -6,7 +6,7 @@ title: The Flaming Lips - Yoshimi Battles The Pink Robots (FLAC)
 artist: The Flaming Lips
 album: Yoshimi Battles The Pink Robots
 spotify_url: https://open.spotify.com/search/The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
-apple_music_url: https://music.apple.com/us/search?term=The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
+apple_music_url: https://music.apple.com/search?term=The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
 youtube_url: https://www.youtube.com/results?search_query=The%20Flaming%20Lips%20Yoshimi%20Battles%20The%20Pink%20Robots
 ---
 
